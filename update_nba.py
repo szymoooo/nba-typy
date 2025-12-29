@@ -3,12 +3,13 @@ import google.generativeai as genai
 import json
 import datetime
 import requests
+import time
 
 # --- KONFIGURACJA ---
 api_key = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
-# --- BAZA WIEDZY ---
+# --- BAZA WIEDZY I ŹRÓDEŁ ---
 TRUSTED_SOURCES = [
     "cleaningtheglass.com",
     "dunksandthrees.com",
@@ -23,6 +24,7 @@ def get_official_schedule():
     now = datetime.datetime.now()
     date_str = now.strftime("%Y%m%d")
     
+    # API ESPN
     url = f"http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates={date_str}"
     
     try:
@@ -45,7 +47,7 @@ def get_official_schedule():
             date_pl = date_obj + datetime.timedelta(hours=1)
             time_str = date_pl.strftime("%H:%M")
             
-            # Loga z API ESPN
+            # Loga
             h_logo = home_team['team'].get('logo', 'https://cdn.nba.com/logos/nba/nba-logoman-75-plus/primary/L/logo.svg')
             a_logo = away_team['team'].get('logo', 'https://cdn.nba.com/logos/nba/nba-logoman-75-plus/primary/L/logo.svg')
 
@@ -67,41 +69,49 @@ def get_official_schedule():
 
 def get_ai_analysis(schedule_list):
     """
-    Wysyła mecze do analizy AI.
+    Wysyła mecze do analizy AI (Wersja PRO).
     """
     if not schedule_list:
         return []
 
-    model = genai.GenerativeModel('gemini-1.5-pro')
+    # --- ZMIANA NA NAJNOWSZY MODEL PRO ---
+    # Używamy konkretnej wersji '002', która jest stabilniejsza w API
+    try:
+        model = genai.GenerativeModel('gemini-1.5-pro-002')
+    except:
+        # Fallback na standardowy pro, jeśli 002 nie działa w danym regionie
+        model = genai.GenerativeModel('gemini-1.5-pro')
     
     matches_text = json.dumps(schedule_list, indent=2)
     sources_str = ", ".join(TRUSTED_SOURCES)
 
     prompt = f"""
-    Jesteś ELITARNYM analitykiem NBA. 
-    Masz tu oficjalną listę meczów (JSON):
+    Jesteś ELITARNYM analitykiem NBA (Sports Data Scientist). 
+    Analizujesz oficjalną listę meczów na dziś:
     {matches_text}
 
     TWOJE ZADANIE:
-    Dla każdego meczu dopisz analizę, typ i formę.
+    Przeprowadź głęboką analizę każdego meczu. Używaj zaawansowanych metryk.
     
     WYMAGANIA:
-    1. 'bet': Typ + konkretne liczby (np. Pace, NetRtg).
-    2. 'last_games': Forma ostatnich 3 meczów "W,L,W | L,L,W".
-    3. 'star': true dla 2-3 najlepszych typów (Sharp Plays).
-    4. 'analysis': Krótka analiza taktyczna.
+    1. 'bet': MUSI zawierać TYP (np. "Celtics -5.5", "Over 220.5") oraz UZASADNIENIE liczbowe (np. "NetRtg +12.5 w domu", "Pace 102.4").
+    2. 'last_games': Podaj formę ostatnich 3 meczów w formacie "W,L,W | L,L,W".
+    3. 'star': Daj 'true' TYLKO dla 2-3 meczów z największym "value" (Sharp Plays).
+    4. 'analysis': Zwięzła, profesjonalna analiza taktyczna (matchupy, kontuzje kluczowe).
     
     WAŻNE:
     - Nie zmieniaj pól 'home_logo', 'away_logo', 'time'.
-    - Zwróć CZYSTY JSON (listę obiektów). Bez markdowna (```json).
+    - Zwróć CZYSTY JSON (listę obiektów).
     """
     
+    content = ""
     try:
+        # Model Pro może "myśleć" dłużej, to normalne
+        print("Wysyłam zapytanie do Gemini 1.5 PRO...")
         response = model.generate_content(prompt)
         content = response.text.strip()
         
-        # --- ULEPSZONE CZYSZCZENIE JSON ---
-        # Znajdujemy początek [ i koniec ] listy JSON
+        # Czyszczenie JSON
         start_idx = content.find('[')
         end_idx = content.rfind(']')
         
@@ -113,8 +123,11 @@ def get_ai_analysis(schedule_list):
             return schedule_list
             
     except Exception as e:
-        print(f"Krytyczny błąd AI: {e}")
-        print("Treść odpowiedzi (debug):", content[:100]) # Pokaż początek błędu
+        print(f"Krytyczny błąd AI (Pro): {e}")
+        if "429" in str(e):
+            print("Przekroczono limit zapytań (Quota). Spróbuj ponownie później.")
+        elif "404" in str(e):
+            print("Model PRO niedostępny. Sprawdź nazwę modelu.")
         return schedule_list
 
 def create_page(matches):
@@ -137,7 +150,7 @@ def create_page(matches):
         h_logo = m.get('home_logo', '')
         a_logo = m.get('away_logo', '')
         
-        analysis = m.get('analysis', 'System oczekuje na dane...')
+        analysis = m.get('analysis', 'Oczekiwanie na dane eksperckie...')
         bet = m.get('bet', 'Analiza w toku.')
         last_games = m.get('last_games', '-,-,- | -,-,-')
         
@@ -168,7 +181,7 @@ def create_page(matches):
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>NBA PRO ANALYTICS</title>
-        <link href="[https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap](https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap)" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
         <style>
             :root {{ --bg: #050505; --card-bg: #111; --accent: #00ff88; --gold: #ffd700; --win: #00c853; --loss: #ff3d00; --text-muted: #888; }}
             body {{ background: var(--bg); color: white; font-family: 'Montserrat', sans-serif; margin: 0; padding: 20px; }}
@@ -182,7 +195,6 @@ def create_page(matches):
 
             .container {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto; }}
             
-            /* CSS FIX: Poprawa centrowania logo */
             .card {{ background: var(--card-bg); border-radius: 16px; padding: 25px; position: relative; overflow: hidden; border: 1px solid #222; transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); cursor: pointer; }}
             .card:hover {{ transform: translateY(-5px); border-color: var(--accent); box-shadow: 0 10px 30px -10px rgba(0, 255, 136, 0.2); }}
             .star-card {{ border: 1px solid var(--gold); background: linear-gradient(145deg, #1a1a10 0%, #111 100%); }}
@@ -193,7 +205,7 @@ def create_page(matches):
             
             .card-teams {{ display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }}
             
-            /* KLUCZOWA ZMIANA CSS TUTAJ: */
+            /* CSS FIX: LOGO I TEKST */
             .team {{ 
                 display: flex; 
                 flex-direction: column; 
@@ -207,10 +219,8 @@ def create_page(matches):
             .vs-text {{ font-size: 24px; font-weight: 900; color: #333; font-style: italic; }}
             .card-action {{ text-align: center; margin-top: 25px; color: var(--accent); font-size: 11px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; }}
 
-            /* MODAL PRO */
             .modal {{ display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.95); z-index: 1000; align-items:center; justify-content:center; padding: 10px; backdrop-filter: blur(8px); }}
             .modal-content {{ background: #0f0f0f; width: 100%; max-width: 600px; border-radius: 20px; border: 1px solid #333; position: relative; overflow: hidden; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.7); }}
-            
             .modal-header {{ background: linear-gradient(180deg, #161616 0%, #0f0f0f 100%); padding: 40px 20px; text-align: center; border-bottom: 1px solid #222; }}
             .modal-header img {{ width: 90px; height: 90px; }}
             .modal-body {{ padding: 30px; }}
@@ -220,7 +230,6 @@ def create_page(matches):
             .info-label {{ color: var(--accent); font-size: 11px; font-weight: 800; text-transform: uppercase; display: block; margin-bottom: 12px; letter-spacing: 1px; opacity: 0.8; }}
             .analysis-box {{ color: #ccc; line-height: 1.7; font-size: 14px; background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; margin-bottom: 30px; border-left: 2px solid var(--accent); }}
             
-            /* FORM GRID */
             .history-grid {{ display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #222; }}
             .history-team-label {{ font-size: 10px; color: #666; font-weight: 900; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px; }}
             .pill-row {{ display: flex; gap: 5px; }}
@@ -228,7 +237,6 @@ def create_page(matches):
             .pill.w {{ background: var(--win); }}
             .pill.l {{ background: var(--loss); opacity: 0.4; }}
 
-            /* PRO BET TICKET */
             .bet-ticket {{ background: #fff; color: #000; padding: 25px; border-radius: 12px; position: relative; border-top: 4px dashed #ccc; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }}
             .bet-ticket::before {{ content: 'REKOMENDACJA SYSTEMU PRO'; position: absolute; top: -10px; left: 50%; transform: translateX(-50%); background: var(--gold); padding: 4px 12px; font-size: 10px; font-weight: 900; border-radius: 10px; letter-spacing: 0.5px; white-space: nowrap; }}
             .bet-main {{ font-size: 22px; font-weight: 900; margin-bottom: 10px; color: #111; letter-spacing: -0.5px; }}
@@ -238,7 +246,7 @@ def create_page(matches):
     <body>
         <h1>🏀 NBA PRO ANALYTICS</h1>
         <div class="status-bar">
-            <div class="status-item"><div class="dot green"></div>Data: {date_display}</div>
+            <div class="status-item"><div class="dot green"></div>AI Model: Gemini 1.5 PRO (002)</div>
             <div class="status-item"><div class="dot blue"></div>Aktualizacja: {last_update}</div>
         </div>
         
