@@ -9,7 +9,15 @@ import time
 api_key = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
-# --- BAZA WIEDZY I ŹRÓDEŁ ---
+# --- LISTA MODELI (PRIORYTETY) ---
+# Skrypt będzie próbował ich po kolei.
+AI_MODELS = [
+    "gemini-2.0-flash-exp", # 1. Najnowszy geniusz (Eksperymentalny)
+    "gemini-1.5-pro",       # 2. Standardowy PRO
+    "gemini-1.5-flash"      # 3. Niezawodny i szybki (Fallback)
+]
+
+# --- BAZA WIEDZY ---
 TRUSTED_SOURCES = [
     "cleaningtheglass.com",
     "dunksandthrees.com",
@@ -24,7 +32,6 @@ def get_official_schedule():
     now = datetime.datetime.now()
     date_str = now.strftime("%Y%m%d")
     
-    # API ESPN
     url = f"http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates={date_str}"
     
     try:
@@ -42,12 +49,10 @@ def get_official_schedule():
             home_team = next(c for c in competitors if c['homeAway'] == 'home')
             away_team = next(c for c in competitors if c['homeAway'] == 'away')
             
-            # Czas
             date_obj = datetime.datetime.strptime(competition['date'], "%Y-%m-%dT%H:%M%SZ")
             date_pl = date_obj + datetime.timedelta(hours=1)
             time_str = date_pl.strftime("%H:%M")
             
-            # Loga
             h_logo = home_team['team'].get('logo', 'https://cdn.nba.com/logos/nba/nba-logoman-75-plus/primary/L/logo.svg')
             a_logo = away_team['team'].get('logo', 'https://cdn.nba.com/logos/nba/nba-logoman-75-plus/primary/L/logo.svg')
 
@@ -69,71 +74,71 @@ def get_official_schedule():
 
 def get_ai_analysis(schedule_list):
     """
-    Wysyła mecze do analizy AI (Wersja PRO).
+    Wysyła mecze do analizy AI z mechanizmem FALLBACK.
     """
     if not schedule_list:
         return []
 
-    # --- ZMIANA NA NAJNOWSZY MODEL PRO ---
-    # Używamy konkretnej wersji '002', która jest stabilniejsza w API
-    try:
-        model = genai.GenerativeModel('gemini-1.5-pro-002')
-    except:
-        # Fallback na standardowy pro, jeśli 002 nie działa w danym regionie
-        model = genai.GenerativeModel('gemini-1.5-pro')
-    
     matches_text = json.dumps(schedule_list, indent=2)
     sources_str = ", ".join(TRUSTED_SOURCES)
 
     prompt = f"""
-    Jesteś ELITARNYM analitykiem NBA (Sports Data Scientist). 
-    Analizujesz oficjalną listę meczów na dziś:
+    Jesteś ELITARNYM analitykiem NBA. 
+    Masz tu oficjalną listę meczów (JSON):
     {matches_text}
 
     TWOJE ZADANIE:
-    Przeprowadź głęboką analizę każdego meczu. Używaj zaawansowanych metryk.
+    Dla każdego meczu dopisz analizę, typ i formę.
     
     WYMAGANIA:
-    1. 'bet': MUSI zawierać TYP (np. "Celtics -5.5", "Over 220.5") oraz UZASADNIENIE liczbowe (np. "NetRtg +12.5 w domu", "Pace 102.4").
-    2. 'last_games': Podaj formę ostatnich 3 meczów w formacie "W,L,W | L,L,W".
-    3. 'star': Daj 'true' TYLKO dla 2-3 meczów z największym "value" (Sharp Plays).
-    4. 'analysis': Zwięzła, profesjonalna analiza taktyczna (matchupy, kontuzje kluczowe).
+    1. 'bet': Podaj TYP (np. "Lakers -5.5") i konkretne liczby (np. "Pace 101.2, DefRtg 109").
+    2. 'last_games': Podaj formę z 5 OSTATNICH MECZÓW w formacie: "W,L,W,W,L | L,L,W,L,W" (Gospodarz | Goście). Musi być 5 wyników!
+    3. 'star': Daj 'true' TYLKO dla 2-3 najlepszych typów (Sharp Plays).
+    4. 'analysis': Krótka analiza taktyczna.
     
     WAŻNE:
     - Nie zmieniaj pól 'home_logo', 'away_logo', 'time'.
-    - Zwróć CZYSTY JSON (listę obiektów).
+    - Zwróć CZYSTY JSON (listę obiektów). Bez markdowna.
     """
     
-    content = ""
-    try:
-        # Model Pro może "myśleć" dłużej, to normalne
-        print("Wysyłam zapytanie do Gemini 1.5 PRO...")
-        response = model.generate_content(prompt)
-        content = response.text.strip()
-        
-        # Czyszczenie JSON
-        start_idx = content.find('[')
-        end_idx = content.rfind(']')
-        
-        if start_idx != -1 and end_idx != -1:
-            content = content[start_idx : end_idx + 1]
-            return json.loads(content)
-        else:
-            print("Błąd: AI nie zwróciło poprawnej listy JSON.")
-            return schedule_list
+    # --- PĘTLA FALLBACK ---
+    for model_name in AI_MODELS:
+        print(f"🤖 Próba analizy modelem: {model_name}...")
+        try:
+            model = genai.GenerativeModel(model_name)
+            response = model.generate_content(prompt)
+            content = response.text.strip()
             
-    except Exception as e:
-        print(f"Krytyczny błąd AI (Pro): {e}")
-        if "429" in str(e):
-            print("Przekroczono limit zapytań (Quota). Spróbuj ponownie później.")
-        elif "404" in str(e):
-            print("Model PRO niedostępny. Sprawdź nazwę modelu.")
-        return schedule_list
+            # Czyszczenie JSON
+            start_idx = content.find('[')
+            end_idx = content.rfind(']')
+            
+            if start_idx != -1 and end_idx != -1:
+                content = content[start_idx : end_idx + 1]
+                data = json.loads(content)
+                print(f"✅ Sukces! Analiza wykonana przez {model_name}.")
+                # Dodajemy info o modelu do pierwszego elementu (opcjonalnie, do debugowania)
+                if data:
+                    data[0]['ai_model_used'] = model_name
+                return data
+            else:
+                print(f"⚠️ Model {model_name} zwrócił błędny format JSON. Próbuję kolejny...")
+                
+        except Exception as e:
+            print(f"❌ Błąd modelu {model_name}: {e}")
+            print("➡️ Przełączam na model zapasowy...")
+            time.sleep(1) # Krótka przerwa przed kolejną próbą
+
+    print("❌ WSZYSTKIE MODELE ZAWIODŁY. Zwracam puste dane.")
+    return schedule_list
 
 def create_page(matches):
     now_pl = datetime.datetime.now() + datetime.timedelta(hours=1)
     last_update = now_pl.strftime("%H:%M")
     date_display = now_pl.strftime("%d.%m.%Y")
+    
+    # Wyciągamy nazwę użytego modelu (jeśli dodaliśmy ją w funkcji get_ai_analysis)
+    used_model = matches[0].get('ai_model_used', 'Gemini 1.5 Flash (Fallback)') if matches else "Brak danych"
     
     current_hour = now_pl.hour
     if current_hour < 7: next_up = "07:00 (Wyniki)"
@@ -152,7 +157,8 @@ def create_page(matches):
         
         analysis = m.get('analysis', 'Oczekiwanie na dane eksperckie...')
         bet = m.get('bet', 'Analiza w toku.')
-        last_games = m.get('last_games', '-,-,- | -,-,-')
+        # Domyślnie 5 kresek
+        last_games = m.get('last_games', '-,-,-,-,- | -,-,-,-,-')
         
         cards_html += f"""
         <div class="card {star_class}" onclick="openModal('{m['home']}', '{m['away']}', `{analysis}`, `{last_games}`, `{bet}`, '{h_logo}', '{a_logo}')">
@@ -205,7 +211,6 @@ def create_page(matches):
             
             .card-teams {{ display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }}
             
-            /* CSS FIX: LOGO I TEKST */
             .team {{ 
                 display: flex; 
                 flex-direction: column; 
@@ -246,7 +251,7 @@ def create_page(matches):
     <body>
         <h1>🏀 NBA PRO ANALYTICS</h1>
         <div class="status-bar">
-            <div class="status-item"><div class="dot green"></div>AI Model: Gemini 1.5 PRO (002)</div>
+            <div class="status-item"><div class="dot green"></div>AI Model: {used_model}</div>
             <div class="status-item"><div class="dot blue"></div>Aktualizacja: {last_update}</div>
         </div>
         
