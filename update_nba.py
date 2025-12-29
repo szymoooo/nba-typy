@@ -8,7 +8,7 @@ import requests
 api_key = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
-# --- BAZA WIEDZY I ŹRÓDEŁ ---
+# --- BAZA WIEDZY ---
 TRUSTED_SOURCES = [
     "cleaningtheglass.com",
     "dunksandthrees.com",
@@ -19,13 +19,10 @@ TRUSTED_SOURCES = [
 def get_official_schedule():
     """
     Pobiera oficjalny terminarz z API ESPN.
-    To ta funkcja, która w Twoim teście zwróciła poprawne 11 meczów.
     """
     now = datetime.datetime.now()
-    # Format daty dla ESPN: YYYYMMDD
     date_str = now.strftime("%Y%m%d")
     
-    # Oficjalne, darmowe API ESPN
     url = f"http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates={date_str}"
     
     try:
@@ -40,16 +37,15 @@ def get_official_schedule():
             competition = event['competitions'][0]
             competitors = competition['competitors']
             
-            # Wyciągamy dane drużyn
             home_team = next(c for c in competitors if c['homeAway'] == 'home')
             away_team = next(c for c in competitors if c['homeAway'] == 'away')
             
-            # Konwersja czasu z UTC na czas Polski (+1h)
+            # Czas
             date_obj = datetime.datetime.strptime(competition['date'], "%Y-%m-%dT%H:%M%SZ")
             date_pl = date_obj + datetime.timedelta(hours=1)
             time_str = date_pl.strftime("%H:%M")
             
-            # Pobieramy gotowe linki do logo z API (to eliminuje błędy 404)
+            # Loga z API ESPN
             h_logo = home_team['team'].get('logo', 'https://cdn.nba.com/logos/nba/nba-logoman-75-plus/primary/L/logo.svg')
             a_logo = away_team['team'].get('logo', 'https://cdn.nba.com/logos/nba/nba-logoman-75-plus/primary/L/logo.svg')
 
@@ -71,58 +67,61 @@ def get_official_schedule():
 
 def get_ai_analysis(schedule_list):
     """
-    Wysyła listę meczów do Gemini Pro, aby dodać analizę i typy.
+    Wysyła mecze do analizy AI.
     """
     if not schedule_list:
         return []
 
-    # Używamy modelu PRO dla lepszej jakości analizy
     model = genai.GenerativeModel('gemini-1.5-pro')
     
-    # Zamieniamy listę meczów na tekst dla AI
     matches_text = json.dumps(schedule_list, indent=2)
     sources_str = ", ".join(TRUSTED_SOURCES)
 
     prompt = f"""
     Jesteś ELITARNYM analitykiem NBA. 
-    Otrzymujesz OFICJALNĄ listę meczów na dziś (pobraną z ESPN):
+    Masz tu oficjalną listę meczów (JSON):
     {matches_text}
 
     TWOJE ZADANIE:
-    1. Przeprowadź research (Google Search) używając źródeł: {sources_str}.
-    2. Dla każdego meczu z listy przygotuj analizę bukmacherską.
-
-    WYMAGANIA:
-    - 'bet': Podaj typ (Spread, Over/Under lub Moneyline) i KONKRETNE uzasadnienie liczbowe (np. pace, net rating).
-    - 'last_games': Podaj formę z 3 ostatnich meczów w formacie "W,L,W | L,L,W" (Gospodarz | Goście).
-    - 'star': Oznacz jako 'true' TYLKO 2-3 mecze o najwyższym prawdopodobieństwie (Sharp Plays).
-    - 'analysis': Krótka, merytoryczna analiza taktyczna.
+    Dla każdego meczu dopisz analizę, typ i formę.
     
-    WAŻNE: 
-    - Nie zmieniaj pól 'home_logo', 'away_logo', 'time'. Zwróć je tak jak dostałeś.
-    - Zwróć PEŁNY JSON z uzupełnionymi polami.
+    WYMAGANIA:
+    1. 'bet': Typ + konkretne liczby (np. Pace, NetRtg).
+    2. 'last_games': Forma ostatnich 3 meczów "W,L,W | L,L,W".
+    3. 'star': true dla 2-3 najlepszych typów (Sharp Plays).
+    4. 'analysis': Krótka analiza taktyczna.
+    
+    WAŻNE:
+    - Nie zmieniaj pól 'home_logo', 'away_logo', 'time'.
+    - Zwróć CZYSTY JSON (listę obiektów). Bez markdowna (```json).
     """
     
     try:
         response = model.generate_content(prompt)
         content = response.text.strip()
-        # Czyszczenie odpowiedzi z markdown
-        if "```json" in content:
-            content = content.split("```json")[1].split("```")[0].strip()
-        elif "```" in content:
-            content = content.split("```")[1].split("```")[0].strip()
+        
+        # --- ULEPSZONE CZYSZCZENIE JSON ---
+        # Znajdujemy początek [ i koniec ] listy JSON
+        start_idx = content.find('[')
+        end_idx = content.rfind(']')
+        
+        if start_idx != -1 and end_idx != -1:
+            content = content[start_idx : end_idx + 1]
+            return json.loads(content)
+        else:
+            print("Błąd: AI nie zwróciło poprawnej listy JSON.")
+            return schedule_list
             
-        return json.loads(content)
     except Exception as e:
-        print(f"Błąd analizy AI: {e}")
-        # W razie błędu AI, zwracamy listę meczów bez analizy (żeby strona nie była pusta)
+        print(f"Krytyczny błąd AI: {e}")
+        print("Treść odpowiedzi (debug):", content[:100]) # Pokaż początek błędu
         return schedule_list
 
 def create_page(matches):
     now_pl = datetime.datetime.now() + datetime.timedelta(hours=1)
     last_update = now_pl.strftime("%H:%M")
+    date_display = now_pl.strftime("%d.%m.%Y")
     
-    # Logika statusu
     current_hour = now_pl.hour
     if current_hour < 7: next_up = "07:00 (Wyniki)"
     elif current_hour < 15: next_up = "15:10 (Analiza)"
@@ -135,12 +134,10 @@ def create_page(matches):
         star_class = "star-card" if is_star else ""
         star_badge = '<div class="badge">💎 SHARP PLAY</div>' if is_star else ""
         
-        # Pobieramy loga bezpośrednio z danych (bo mamy je z ESPN)
         h_logo = m.get('home_logo', '')
         a_logo = m.get('away_logo', '')
         
-        # Zabezpieczenie na wypadek gdyby AI nie zdążyło wygenerować opisu
-        analysis = m.get('analysis', 'Trwa generowanie analizy eksperckiej...')
+        analysis = m.get('analysis', 'System oczekuje na dane...')
         bet = m.get('bet', 'Analiza w toku.')
         last_games = m.get('last_games', '-,-,- | -,-,-')
         
@@ -171,13 +168,13 @@ def create_page(matches):
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>NBA PRO ANALYTICS</title>
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
+        <link href="[https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap](https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap)" rel="stylesheet">
         <style>
             :root {{ --bg: #050505; --card-bg: #111; --accent: #00ff88; --gold: #ffd700; --win: #00c853; --loss: #ff3d00; --text-muted: #888; }}
             body {{ background: var(--bg); color: white; font-family: 'Montserrat', sans-serif; margin: 0; padding: 20px; }}
             h1 {{ text-align: center; color: var(--accent); text-transform: uppercase; font-weight: 900; letter-spacing: 2px; text-shadow: 0 0 15px rgba(0, 255, 136, 0.3); }}
             
-            .status-bar {{ display: flex; justify-content: center; gap: 15px; margin-bottom: 40px; font-size: 11px; text-transform: uppercase; letter-spacing: 1px; }}
+            .status-bar {{ display: flex; justify-content: center; gap: 15px; margin-bottom: 40px; font-size: 11px; text-transform: uppercase; letter-spacing: 1px; flex-wrap: wrap; }}
             .status-item {{ display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.03); padding: 8px 16px; border-radius: 20px; border: 1px solid #222; }}
             .dot {{ width: 6px; height: 6px; border-radius: 50%; }}
             .dot.green {{ background: var(--win); box-shadow: 0 0 8px var(--win); }}
@@ -185,6 +182,7 @@ def create_page(matches):
 
             .container {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto; }}
             
+            /* CSS FIX: Poprawa centrowania logo */
             .card {{ background: var(--card-bg); border-radius: 16px; padding: 25px; position: relative; overflow: hidden; border: 1px solid #222; transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); cursor: pointer; }}
             .card:hover {{ transform: translateY(-5px); border-color: var(--accent); box-shadow: 0 10px 30px -10px rgba(0, 255, 136, 0.2); }}
             .star-card {{ border: 1px solid var(--gold); background: linear-gradient(145deg, #1a1a10 0%, #111 100%); }}
@@ -192,9 +190,20 @@ def create_page(matches):
             .badge {{ position: absolute; top: 15px; right: -32px; background: var(--gold); color: #000; font-size: 10px; font-weight: 900; padding: 6px 35px; transform: rotate(45deg); box-shadow: 0 2px 10px rgba(0,0,0,0.5); letter-spacing: 1px; }}
             
             .card-header-time {{ font-size: 12px; color: var(--text-muted); margin-bottom: 20px; font-weight: 700; letter-spacing: 1px; }}
+            
             .card-teams {{ display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }}
-            .team img {{ width: 80px; height: 80px; object-fit: contain; filter: drop-shadow(0 0 8px rgba(0,0,0,0.5)); }}
-            .team p {{ font-size: 15px; font-weight: 800; margin-top: 12px; letter-spacing: -0.5px; }}
+            
+            /* KLUCZOWA ZMIANA CSS TUTAJ: */
+            .team {{ 
+                display: flex; 
+                flex-direction: column; 
+                align-items: center; 
+                justify-content: flex-start;
+                width: 40%; 
+            }}
+            .team img {{ width: 80px; height: 80px; object-fit: contain; filter: drop-shadow(0 0 8px rgba(0,0,0,0.5)); margin-bottom: 10px; }}
+            .team p {{ font-size: 15px; font-weight: 800; margin: 0; text-align: center; letter-spacing: -0.5px; line-height: 1.2; }}
+            
             .vs-text {{ font-size: 24px; font-weight: 900; color: #333; font-style: italic; }}
             .card-action {{ text-align: center; margin-top: 25px; color: var(--accent); font-size: 11px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; }}
 
@@ -229,7 +238,7 @@ def create_page(matches):
     <body>
         <h1>🏀 NBA PRO ANALYTICS</h1>
         <div class="status-bar">
-            <div class="status-item"><div class="dot green"></div>AI Model: Gemini 1.5 Pro</div>
+            <div class="status-item"><div class="dot green"></div>Data: {date_display}</div>
             <div class="status-item"><div class="dot blue"></div>Aktualizacja: {last_update}</div>
         </div>
         
@@ -302,14 +311,10 @@ def create_page(matches):
         f.write(html)
 
 if __name__ == "__main__":
-    # 1. Pobieramy PEWNY terminarz z ESPN
     schedule = get_official_schedule()
     
     if schedule:
-        # 2. Wysyłamy do Gemini po analizę PRO
         data = get_ai_analysis(schedule)
-        
-        # 3. Budujemy stronę
         create_page(data)
     else:
         print("Błąd: Nie udało się pobrać danych z ESPN.")
