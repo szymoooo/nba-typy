@@ -3,21 +3,32 @@ import google.generativeai as genai
 
 # Konfiguracja API
 api_key = os.environ.get("GEMINI_API_KEY")
-if not api_key:
-    print("Brak klucza API!")
-
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-1.5-flash-latest')
+
+# Zmieniamy na model 'gemini-1.0-pro' lub spróbujemy bez wersji beta
+# To jest najbardziej stabilna konfiguracja dla skryptów automatycznych
+model = genai.GenerativeModel('gemini-pro')
 
 def get_nba_data():
-    prompt = "Podaj szybką analizę 3 meczów NBA na dziś (29.12.2025): Knicks-Pelicans, Heat-Nuggets, Suns-Wizards. Sformatuj jako tabelę HTML (tylko <table>...</table>). Nie używaj znaczników ```."
+    prompt = """
+    Jesteś ekspertem NBA. Przygotuj krótką analizę 3 meczów na dziś (29.12.2025): 
+    Knicks-Pelicans, Heat-Nuggets, Suns-Wizards. 
+    Skup się na kontuzjach i typie (kto wygra). 
+    Zwróć TYLKO tabelę HTML (tag <table>). 
+    Użyj stylu: tabela z obramowaniem, ciemne tło.
+    """
     try:
+        # Próba wygenerowania treści
         response = model.generate_content(prompt)
-        # Czyszczenie odpowiedzi z ewentualnych znaczników markdown
-        clean_html = response.text.replace('```html', '').replace('```', '').strip()
-        return clean_html
+        return response.text.replace('```html', '').replace('```', '').strip()
     except Exception as e:
-        return f"<p>Błąd połączenia z AI: {e}</p>"
+        # Jeśli gemini-pro też zawiedzie, spróbujemy ostatniej szansy
+        try:
+            model_fallback = genai.GenerativeModel('gemini-1.5-flash')
+            response = model_fallback.generate_content(prompt)
+            return response.text.replace('```html', '').replace('```', '').strip()
+        except Exception as e2:
+            return f"<p>Błąd krytyczny modeli AI: {e2}</p>"
 
 def create_page(content):
     html = f"""
@@ -27,15 +38,19 @@ def create_page(content):
         <meta charset="UTF-8">
         <style>
             body {{ background:#111; color:#eee; text-align:center; font-family: sans-serif; padding: 20px; }}
-            table {{ margin: 20px auto; border-collapse: collapse; width: 80%; background: #222; }}
+            table {{ margin: 20px auto; border-collapse: collapse; width: 90%; background: #222; }}
             th, td {{ padding: 12px; border: 1px solid #444; text-align: left; }}
             th {{ background: #333; color: #f39c12; }}
+            .highlight {{ color: #2ecc71; font-weight: bold; }}
         </style>
     </head>
     <body>
-        <h1>🏀 NBA Raport Live - 19:30</h1>
-        <p>Status na dzień: 29.12.2025</p>
-        {content}
+        <h1>🏀 NBA RAPORT LIVE</h1>
+        <p>Ostatnia aktualizacja: {os.popen('date').read()}</p>
+        <div style="max-width: 800px; margin: 0 auto;">
+            {content}
+        </div>
+        <p style="color: #666;">Dane pobierane automatycznie przez Agenta Gemini</p>
     </body>
     </html>
     """
