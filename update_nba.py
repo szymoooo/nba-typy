@@ -2,80 +2,111 @@ import os
 import google.generativeai as genai
 import json
 import datetime
+import requests
 
 # --- KONFIGURACJA ---
 api_key = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
-# --- MAPA NAPRAWIAJĄCA LOGA ESPN (BŁĘDY 404) ---
-# Klucz: Oficjalny skrót NBA (zawsze 3 litery)
-# Wartość: Skrót używany przez ESPN w linkach do obrazków
-ESPN_FIX = {
-    "uta": "utah",  # Fix dla Jazz
-    "nop": "no",    # Fix dla Pelicans
-    "gsw": "gs",    # Fix dla Warriors
-    "nyk": "ny",    # Fix dla Knicks
-    "sas": "sa",    # Fix dla Spurs
-    "phx": "phx",   # Phoenix jest ok, ale dla pewności
-    "was": "wsh",   # Fix dla Wizards
-    "bkn": "bkn",
-    "cha": "cha",
-    "tor": "tor",
-    "hou": "hou"
-}
-
 # --- BAZA WIEDZY I ŹRÓDEŁ ---
 TRUSTED_SOURCES = [
-    "nba.com/games",
-    "espn.com/nba/schedule",
+    "cleaningtheglass.com",
+    "dunksandthrees.com",
     "rotowire.com/basketball/nba-lineups.php",
-    "cleaningtheglass.com"
+    "actionnetwork.com/nba/public-betting"
 ]
 
-def get_nba_analysis():
-    # Pobieramy datę systemową
-    # UWAGA: Jeśli testujesz to w innym dniu niż mecz, AI może zgłupieć. 
-    # Zakładam, że skrypt uruchamiasz w dniu meczowym.
-    now_pl = datetime.datetime.now() + datetime.timedelta(hours=1)
-    today_str = now_pl.strftime("%Y-%m-%d") # Np. 2025-12-29
+def get_official_schedule():
+    """
+    Pobiera oficjalny terminarz z API ESPN.
+    To ta funkcja, która w Twoim teście zwróciła poprawne 11 meczów.
+    """
+    now = datetime.datetime.now()
+    # Format daty dla ESPN: YYYYMMDD
+    date_str = now.strftime("%Y%m%d")
     
-    # Model PRO (skoro masz dostęp)
-    model = genai.GenerativeModel('gemini-1.5-pro')
+    # Oficjalne, darmowe API ESPN
+    url = f"http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates={date_str}"
+    
+    try:
+        print(f"Pobieranie terminarza z ESPN dla daty: {date_str}...")
+        r = requests.get(url)
+        data = r.json()
+        
+        matches = []
+        events = data.get('events', [])
+        
+        for event in events:
+            competition = event['competitions'][0]
+            competitors = competition['competitors']
+            
+            # Wyciągamy dane drużyn
+            home_team = next(c for c in competitors if c['homeAway'] == 'home')
+            away_team = next(c for c in competitors if c['homeAway'] == 'away')
+            
+            # Konwersja czasu z UTC na czas Polski (+1h)
+            date_obj = datetime.datetime.strptime(competition['date'], "%Y-%m-%dT%H:%M%SZ")
+            date_pl = date_obj + datetime.timedelta(hours=1)
+            time_str = date_pl.strftime("%H:%M")
+            
+            # Pobieramy gotowe linki do logo z API (to eliminuje błędy 404)
+            h_logo = home_team['team'].get('logo', 'https://cdn.nba.com/logos/nba/nba-logoman-75-plus/primary/L/logo.svg')
+            a_logo = away_team['team'].get('logo', 'https://cdn.nba.com/logos/nba/nba-logoman-75-plus/primary/L/logo.svg')
 
+            match_info = {
+                "home": home_team['team']['displayName'],
+                "home_id": home_team['team']['abbreviation'],
+                "home_logo": h_logo,
+                "away": away_team['team']['displayName'],
+                "away_id": away_team['team']['abbreviation'],
+                "away_logo": a_logo,
+                "time": time_str
+            }
+            matches.append(match_info)
+            
+        return matches
+    except Exception as e:
+        print(f"Błąd pobierania z ESPN: {e}")
+        return []
+
+def get_ai_analysis(schedule_list):
+    """
+    Wysyła listę meczów do Gemini Pro, aby dodać analizę i typy.
+    """
+    if not schedule_list:
+        return []
+
+    # Używamy modelu PRO dla lepszej jakości analizy
+    model = genai.GenerativeModel('gemini-1.5-pro')
+    
+    # Zamieniamy listę meczów na tekst dla AI
+    matches_text = json.dumps(schedule_list, indent=2)
     sources_str = ", ".join(TRUSTED_SOURCES)
 
     prompt = f"""
-    DZISIAJ JEST: {today_str}.
-    TWOIM JEDYNYM CELEM JEST POBRANIE PRAWDZIWEGO TERMINARZA I ANALIZA.
+    Jesteś ELITARNYM analitykiem NBA. 
+    Otrzymujesz OFICJALNĄ listę meczów na dziś (pobraną z ESPN):
+    {matches_text}
+
+    TWOJE ZADANIE:
+    1. Przeprowadź research (Google Search) używając źródeł: {sources_str}.
+    2. Dla każdego meczu z listy przygotuj analizę bukmacherską.
+
+    WYMAGANIA:
+    - 'bet': Podaj typ (Spread, Over/Under lub Moneyline) i KONKRETNE uzasadnienie liczbowe (np. pace, net rating).
+    - 'last_games': Podaj formę z 3 ostatnich meczów w formacie "W,L,W | L,L,W" (Gospodarz | Goście).
+    - 'star': Oznacz jako 'true' TYLKO 2-3 mecze o najwyższym prawdopodobieństwie (Sharp Plays).
+    - 'analysis': Krótka, merytoryczna analiza taktyczna.
     
-    KROK 1 (KRYTYCZNY): TERMINARZ
-    - Użyj Google Search, aby znaleźć listę meczów NBA zaplanowanych DOKŁADNIE na datę {today_str}.
-    - Ignoruj mecze z wczoraj lub jutra. Interesuje nas TYLKO ta noc.
-    - Jeśli data to 2025-12-29, to szukaj meczów: Bucks vs Hornets, Suns vs Wizards, Warriors vs Nets, Nuggets vs Heat, Magic vs Raptors, Wolves vs Bulls, Pacers vs Rockets, Knicks vs Pelicans, Hawks vs Thunder, Cavs vs Spurs, Mavs vs Blazers.
-    
-    KROK 2: ANALIZA
-    - Dla KAŻDEGO znalezionego meczu przygotuj analizę.
-    - 'bet': Musi zawierać konkretne liczby (np. "Średnia z 5 meczów: 112 pkt").
-    - 'last_games': Format "W,L,W | L,W,L".
-    - 'home_id' / 'away_id': Użyj standardowych 3-literowych skrótów NBA (np. UTA, NOP, GSW).
-    
-    Zwróć TYLKO czysty JSON w formacie listy:
-    [
-      {{
-        "home": "Utah Jazz", "home_id": "UTA",
-        "away": "San Antonio Spurs", "away_id": "SAS",
-        "time": "02:00",
-        "star": false,
-        "analysis": "...",
-        "last_games": "...",
-        "bet": "..."
-      }}
-    ]
+    WAŻNE: 
+    - Nie zmieniaj pól 'home_logo', 'away_logo', 'time'. Zwróć je tak jak dostałeś.
+    - Zwróć PEŁNY JSON z uzupełnionymi polami.
     """
     
     try:
         response = model.generate_content(prompt)
         content = response.text.strip()
+        # Czyszczenie odpowiedzi z markdown
         if "```json" in content:
             content = content.split("```json")[1].split("```")[0].strip()
         elif "```" in content:
@@ -83,8 +114,9 @@ def get_nba_analysis():
             
         return json.loads(content)
     except Exception as e:
-        print(f"Błąd analizy: {e}")
-        return []
+        print(f"Błąd analizy AI: {e}")
+        # W razie błędu AI, zwracamy listę meczów bez analizy (żeby strona nie była pusta)
+        return schedule_list
 
 def create_page(matches):
     now_pl = datetime.datetime.now() + datetime.timedelta(hours=1)
@@ -103,34 +135,28 @@ def create_page(matches):
         star_class = "star-card" if is_star else ""
         star_badge = '<div class="badge">💎 SHARP PLAY</div>' if is_star else ""
         
-        # --- NAPRAWA LOGO ESPN (Hardcoded Fix) ---
-        raw_h = m.get('home_id', 'NBA').lower()
-        raw_a = m.get('away_id', 'NBA').lower()
+        # Pobieramy loga bezpośrednio z danych (bo mamy je z ESPN)
+        h_logo = m.get('home_logo', '')
+        a_logo = m.get('away_logo', '')
         
-        # Mapowanie na dziwne kody ESPN
-        h_espn = ESPN_FIX.get(raw_h, raw_h)
-        a_espn = ESPN_FIX.get(raw_a, raw_a)
-        
-        h_logo = f"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/{h_espn}.png"
-        a_logo = f"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/{a_espn}.png"
-        
-        # Fallback na NBA.com
-        h_fallback = f"https://cdn.nba.com/logos/nba/{raw_h.upper()}/global/L/logo.svg"
-        a_fallback = f"https://cdn.nba.com/logos/nba/{raw_a.upper()}/global/L/logo.svg"
+        # Zabezpieczenie na wypadek gdyby AI nie zdążyło wygenerować opisu
+        analysis = m.get('analysis', 'Trwa generowanie analizy eksperckiej...')
+        bet = m.get('bet', 'Analiza w toku.')
+        last_games = m.get('last_games', '-,-,- | -,-,-')
         
         cards_html += f"""
-        <div class="card {star_class}" onclick="openModal('{m['home']}', '{m['away']}', `{m['analysis']}`, `{m['last_games']}`, `{m['bet']}`, '{h_logo}', '{a_logo}')">
+        <div class="card {star_class}" onclick="openModal('{m['home']}', '{m['away']}', `{analysis}`, `{last_games}`, `{bet}`, '{h_logo}', '{a_logo}')">
             <div class="card-bg-pattern"></div>
             {star_badge}
             <div class="card-header-time">🕒 {m['time']}</div>
             <div class="card-teams">
                 <div class="team">
-                    <img src="{h_logo}" onerror="this.src='{h_fallback}'">
+                    <img src="{h_logo}">
                     <p>{m['home']}</p>
                 </div>
                 <div class="vs-text">VS</div>
                 <div class="team">
-                    <img src="{a_logo}" onerror="this.src='{a_fallback}'">
+                    <img src="{a_logo}">
                     <p>{m['away']}</p>
                 </div>
             </div>
@@ -276,8 +302,14 @@ def create_page(matches):
         f.write(html)
 
 if __name__ == "__main__":
-    data = get_nba_analysis()
-    if data:
+    # 1. Pobieramy PEWNY terminarz z ESPN
+    schedule = get_official_schedule()
+    
+    if schedule:
+        # 2. Wysyłamy do Gemini po analizę PRO
+        data = get_ai_analysis(schedule)
+        
+        # 3. Budujemy stronę
         create_page(data)
     else:
-        print("Błąd: Nie udało się pobrać danych.")
+        print("Błąd: Nie udało się pobrać danych z ESPN.")
