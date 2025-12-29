@@ -3,74 +3,124 @@ import google.generativeai as genai
 import json
 import datetime
 
-# --- KONFIGURACJA API ---
+# --- KONFIGURACJA ---
 api_key = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
+# --- SŁOWNIK TŁUMACZĄCY SKRÓTY NA KODY ESPN (Naprawa błędów 404) ---
+# Tłumaczy standardowe ID (np. NOP) na ID używane przez serwery ESPN (np. no)
+ESPN_FIX = {
+    "uta": "utah",
+    "nop": "no",
+    "gsw": "gs",
+    "nyk": "ny",
+    "sas": "sa",
+    "phx": "phx", # Czasem bywa pho, ale phx jest bezpieczniejsze
+    "was": "wsh",
+    "bkn": "bkn"
+}
+
+# --- BAZA WIEDZY (Eksperckie źródła) ---
+TRUSTED_SOURCES = [
+    "official.nba.com/injury-report",
+    "cleaningtheglass.com",
+    "dunksandthrees.com",
+    "rotowire.com/basketball/nba-lineups.php",
+    "actionnetwork.com/nba/public-betting",
+    "statmuse.com",
+    "covers.com/sport/basketball/nba/trends"
+]
+
 def get_nba_analysis():
     now_pl = datetime.datetime.now() + datetime.timedelta(hours=1)
-    today_str = now_pl.strftime("%d.%m.%Y")
+    today_str = now_pl.strftime("%Y-%m-%d")
     
-    try:
-        available_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
-        model_name = available_models[0] if available_models else 'gemini-1.5-flash'
-        model = genai.GenerativeModel(model_name)
-    except:
-        model = genai.GenerativeModel('gemini-1.5-pro')
+    # Model PRO
+    model = genai.GenerativeModel('gemini-1.5-pro')
 
-    # WZMOCNIONY PROMPT: Wymuszamy wszystkie mecze i korektę czasu
+    sources_str = ", ".join(TRUSTED_SOURCES)
+
     prompt = f"""
-    Jesteś ekspertem NBA. DZISIAJ JEST {today_str}. 
-    SKORZYSTAJ Z WYSZUKIWARKI I PODAJ LISTĘ WSZYSTKICH MECZÓW NBA NA NAJBLIŻSZĄ NOC (NAJLEPIEJ 10-15 MECZÓW).
+    Jesteś ELITARNYM analitykiem NBA. DZISIAJ JEST {today_str}.
     
-    WAŻNE WYMAGANIA:
-    1. 'time': Podaj czas rozpoczęcia meczu (np. 01:00, 02:30). Pamiętaj o korekcie na czas polski (+1h względem standardowych wyników Google jeśli są w UTC).
-    2. 'last_games': Podaj formę osobno dla gospodarzy i gości w formacie: "Gosp: W,L,W | Goście: L,W,W".
-    3. 'home_id' / 'away_id': Oficjalne skróty (np. OKC, MEM, LAL).
+    KROK 1: RESEARCH
+    - Użyj Google Search. Przeszukaj źródła: {sources_str}.
+    - Znajdź OFICJALNY terminarz na noc {today_str}.
     
-    Format JSON:
+    KROK 2: ADVANCED ANALYTICS
+    - Analizuj Four Factors, Pace, Matchupy i Sharp Money.
+    - Nie pisz ogólników. Używaj liczb!
+    
+    KROK 3: JSON
+    Stwórz listę WSZYSTKICH meczów tej nocy.
+    
+    WYMAGANIA JSON:
+    - 'home_id' / 'away_id': Użyj standardowych skrótów 3-literowych (np. UTA, NOP, LAL, BOS).
+    - 'analysis': Krótka, gęsta od danych analiza.
+    - 'bet': Typ + Uzasadnienie statystyczne.
+    - 'last_games': "W,L,W | L,L,W".
+    - 'time': Czas polski.
+
+    Zwróć TYLKO czysty JSON:
     [
       {{
-        "home": "Cavaliers", "home_id": "CLE",
-        "away": "Celtics", "away_id": "BOS",
-        "time": "01:30",
+        "home": "Utah Jazz", "home_id": "UTA",
+        "away": "Pelicans", "away_id": "NOP",
+        "time": "02:00",
         "star": true,
-        "analysis": "Krótki opis...",
-        "last_games": "Gosp: W,W,L | Goście: W,L,W",
-        "bet": "Nazwa typu. Uzasadnienie..."
+        "analysis": "...",
+        "last_games": "...",
+        "bet": "..."
       }}
     ]
-    Zwróć TYLKO czysty JSON.
     """
     
     try:
         response = model.generate_content(prompt)
-        clean_json = response.text.replace('```json', '').replace('```', '').strip()
-        return json.loads(clean_json)
+        content = response.text.strip()
+        if "```json" in content:
+            content = content.split("```json")[1].split("```")[0].strip()
+        elif "```" in content:
+            content = content.split("```")[1].split("```")[0].strip()
+            
+        return json.loads(content)
     except Exception as e:
-        print(f"Błąd: {e}")
+        print(f"Błąd analizy PRO: {e}")
         return []
 
 def create_page(matches):
     now_pl = datetime.datetime.now() + datetime.timedelta(hours=1)
     last_update = now_pl.strftime("%H:%M")
-    date_display = now_pl.strftime("%d.%m.%Y")
     
     current_hour = now_pl.hour
-    if current_hour < 7: next_up = "07:00"
-    elif current_hour < 15: next_up = "15:10"
-    elif current_hour < 19: next_up = "19:30"
-    elif current_hour < 23: next_up = "23:00"
+    if current_hour < 7: next_up = "07:00 (Wyniki)"
+    elif current_hour < 15: next_up = "15:10 (Wczesny Raport)"
+    elif current_hour < 19: next_up = "19:30 (Finalny Raport)"
+    elif current_hour < 23: next_up = "23:00 (Last Minute)"
     else: next_up = "Jutro 07:00"
 
     cards_html = ""
     for m in matches:
         is_star = m.get('star', False)
         star_class = "star-card" if is_star else ""
-        star_badge = '<div class="badge">🔥 PEWNIAK DNIA</div>' if is_star else ""
-        h_id, a_id = m.get('home_id', 'NBA').lower(), m.get('away_id', 'NBA').lower()
-        h_logo = f"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/{h_id}.png"
-        a_logo = f"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/{a_id}.png"
+        star_badge = '<div class="badge">💎 SHARP PLAY</div>' if is_star else ""
+        
+        # --- NAPRAWA LOGO ESPN ---
+        # Pobieramy ID od AI (np. 'uta')
+        raw_h = m.get('home_id', 'NBA').lower()
+        raw_a = m.get('away_id', 'NBA').lower()
+        
+        # Sprawdzamy czy mamy "tłumaczenie" w słowniku ESPN_FIX. 
+        # Jeśli tak, używamy go (np. 'utah'). Jeśli nie, zostawiamy oryginał.
+        h_espn = ESPN_FIX.get(raw_h, raw_h)
+        a_espn = ESPN_FIX.get(raw_a, raw_a)
+        
+        h_logo = f"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/{h_espn}.png"
+        a_logo = f"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/{a_espn}.png"
+        
+        # Fallback pozostaje na NBA.com (tam używa się zawsze standardowych skrótów)
+        h_fallback = f"https://cdn.nba.com/logos/nba/{raw_h.upper()}/global/L/logo.svg"
+        a_fallback = f"https://cdn.nba.com/logos/nba/{raw_a.upper()}/global/L/logo.svg"
         
         cards_html += f"""
         <div class="card {star_class}" onclick="openModal('{m['home']}', '{m['away']}', `{m['analysis']}`, `{m['last_games']}`, `{m['bet']}`, '{h_logo}', '{a_logo}')">
@@ -78,11 +128,17 @@ def create_page(matches):
             {star_badge}
             <div class="card-header-time">🕒 {m['time']}</div>
             <div class="card-teams">
-                <div class="team"><img src="{h_logo}"><p>{m['home']}</p></div>
+                <div class="team">
+                    <img src="{h_logo}" onerror="this.src='{h_fallback}'">
+                    <p>{m['home']}</p>
+                </div>
                 <div class="vs-text">VS</div>
-                <div class="team"><img src="{a_logo}"><p>{m['away']}</p></div>
+                <div class="team">
+                    <img src="{a_logo}" onerror="this.src='{a_fallback}'">
+                    <p>{m['away']}</p>
+                </div>
             </div>
-             <div class="card-action">SZCZEGÓŁY ANALIZY →</div>
+             <div class="card-action">ANALIZA EKSPERCKA →</div>
         </div>
         """
 
@@ -92,62 +148,69 @@ def create_page(matches):
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>NBA Raport Pro</title>
+        <title>NBA PRO ANALYTICS</title>
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
         <style>
-            :root {{ --bg: #0a0a0a; --card-bg: #141414; --accent: #00f2ff; --gold: #ffbd00; --win: #00c853; --loss: #d50000; --text-muted: #a0a0a0; }}
-            body {{ background: var(--bg); color: white; font-family: 'Montserrat', sans-serif; margin: 0; padding: 20px; min-height: 100vh; }}
-            h1 {{ text-align: center; color: var(--accent); text-transform: uppercase; font-weight: 900; font-size: 28px; }}
+            :root {{ --bg: #050505; --card-bg: #111; --accent: #00ff88; --gold: #ffd700; --win: #00c853; --loss: #ff3d00; --text-muted: #888; }}
+            body {{ background: var(--bg); color: white; font-family: 'Montserrat', sans-serif; margin: 0; padding: 20px; }}
+            h1 {{ text-align: center; color: var(--accent); text-transform: uppercase; font-weight: 900; letter-spacing: 2px; text-shadow: 0 0 15px rgba(0, 255, 136, 0.3); }}
             
-            .status-bar {{ display: flex; justify-content: center; gap: 15px; margin-bottom: 40px; font-size: 12px; }}
-            .status-item {{ display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.05); padding: 8px 16px; border-radius: 20px; border: 1px solid #333; }}
-            .dot {{ width: 8px; height: 8px; border-radius: 50%; }}
-            .dot.green {{ background: var(--win); box-shadow: 0 0 10px var(--win); }}
-            .dot.blue {{ background: var(--accent); box-shadow: 0 0 10px var(--accent); }}
+            .status-bar {{ display: flex; justify-content: center; gap: 15px; margin-bottom: 40px; font-size: 11px; text-transform: uppercase; letter-spacing: 1px; }}
+            .status-item {{ display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.03); padding: 8px 16px; border-radius: 20px; border: 1px solid #222; }}
+            .dot {{ width: 6px; height: 6px; border-radius: 50%; }}
+            .dot.green {{ background: var(--win); box-shadow: 0 0 8px var(--win); }}
+            .dot.blue {{ background: var(--accent); box-shadow: 0 0 8px var(--accent); }}
 
-            .container {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 30px; max-width: 1200px; margin: 0 auto; }}
+            .container {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto; }}
             
-            .card {{ background: var(--card-bg); border-radius: 20px; padding: 25px; position: relative; overflow: hidden; border: 1px solid #2a2a2a; transition: 0.3s; cursor: pointer; }}
-            .card:hover {{ transform: translateY(-5px); border-color: var(--accent); }}
-            .badge {{ position: absolute; top: 20px; right: -35px; background: var(--gold); color: #000; font-size: 11px; font-weight: 900; padding: 8px 40px; transform: rotate(45deg); }}
+            .card {{ background: var(--card-bg); border-radius: 16px; padding: 25px; position: relative; overflow: hidden; border: 1px solid #222; transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); cursor: pointer; }}
+            .card:hover {{ transform: translateY(-5px); border-color: var(--accent); box-shadow: 0 10px 30px -10px rgba(0, 255, 136, 0.2); }}
+            .star-card {{ border: 1px solid var(--gold); background: linear-gradient(145deg, #1a1a10 0%, #111 100%); }}
             
-            .card-header-time {{ font-size: 13px; color: var(--text-muted); margin-bottom: 15px; font-weight: 700; }}
-            .card-teams {{ display: flex; justify-content: space-between; align-items: center; }}
-            .team {{ text-align: center; width: 40%; }}
-            .team img {{ width: 85px; height: 85px; object-fit: contain; }}
-            .team p {{ font-size: 17px; font-weight: 800; margin-top: 10px; }}
-            .vs-text {{ font-size: 22px; font-weight: 900; color: #333; }}
-            .card-action {{ text-align: center; margin-top: 20px; color: var(--accent); font-size: 12px; font-weight: 700; letter-spacing: 1px; }}
+            .badge {{ position: absolute; top: 15px; right: -32px; background: var(--gold); color: #000; font-size: 10px; font-weight: 900; padding: 6px 35px; transform: rotate(45deg); box-shadow: 0 2px 10px rgba(0,0,0,0.5); letter-spacing: 1px; }}
+            
+            .card-header-time {{ font-size: 12px; color: var(--text-muted); margin-bottom: 20px; font-weight: 700; letter-spacing: 1px; }}
+            .card-teams {{ display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }}
+            .team img {{ width: 80px; height: 80px; object-fit: contain; filter: drop-shadow(0 0 8px rgba(0,0,0,0.5)); }}
+            .team p {{ font-size: 15px; font-weight: 800; margin-top: 12px; letter-spacing: -0.5px; }}
+            .vs-text {{ font-size: 24px; font-weight: 900; color: #333; font-style: italic; }}
+            .card-action {{ text-align: center; margin-top: 25px; color: var(--accent); font-size: 11px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; }}
 
-            /* POPRAWIONY MODAL */
-            .modal {{ display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.96); z-index: 1000; align-items:center; justify-content:center; backdrop-filter: blur(10px); padding: 15px; }}
-            .modal-content {{ background: #1a1a1a; width: 100%; max-width: 650px; border-radius: 25px; border: 1px solid #333; position: relative; }}
-            .modal-header {{ background: #111; padding: 35px; text-align: center; border-bottom: 1px solid #333; border-radius: 25px 25px 0 0; }}
-            .modal-header img {{ width: 80px; height: 80px; }} /* LOGA +10% */
-            .modal-body {{ padding: 35px; }}
-            .close-btn {{ position: absolute; top: 15px; right: 20px; cursor: pointer; color: white; font-size: 35px; z-index: 11; }}
+            /* MODAL PRO */
+            .modal {{ display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.95); z-index: 1000; align-items:center; justify-content:center; padding: 10px; backdrop-filter: blur(8px); }}
+            .modal-content {{ background: #0f0f0f; width: 100%; max-width: 600px; border-radius: 20px; border: 1px solid #333; position: relative; overflow: hidden; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.7); }}
             
-            .info-label {{ color: var(--accent); font-size: 12px; font-weight: 800; text-transform: uppercase; display: block; margin-bottom: 12px; }}
-            .analysis-box {{ color: #ddd; line-height: 1.7; font-size: 15px; background: rgba(255,255,255,0.04); padding: 20px; border-radius: 15px; margin-bottom: 25px; }}
+            .modal-header {{ background: linear-gradient(180deg, #161616 0%, #0f0f0f 100%); padding: 40px 20px; text-align: center; border-bottom: 1px solid #222; }}
+            .modal-header img {{ width: 90px; height: 90px; }}
+            .modal-body {{ padding: 30px; }}
+            .close-btn {{ position: absolute; top: 15px; right: 20px; cursor: pointer; color: #666; font-size: 28px; transition: 0.2s; }}
+            .close-btn:hover {{ color: white; }}
             
-            .history-row {{ margin-bottom: 20px; }}
-            .history-pills {{ display: flex; gap: 8px; flex-wrap: wrap; margin-top: 5px; }}
-            .pill {{ padding: 6px 14px; border-radius: 8px; font-size: 12px; font-weight: 900; }}
-            .pill.w {{ background: var(--win); color: white; }}
-            .pill.l {{ background: var(--loss); color: white; }}
+            .info-label {{ color: var(--accent); font-size: 11px; font-weight: 800; text-transform: uppercase; display: block; margin-bottom: 12px; letter-spacing: 1px; opacity: 0.8; }}
+            .analysis-box {{ color: #ccc; line-height: 1.7; font-size: 14px; background: rgba(255,255,255,0.03); padding: 20px; border-radius: 12px; margin-bottom: 30px; border-left: 2px solid var(--accent); }}
+            
+            /* FORM GRID */
+            .history-grid {{ display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #222; }}
+            .history-team-label {{ font-size: 10px; color: #666; font-weight: 900; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px; }}
+            .pill-row {{ display: flex; gap: 5px; }}
+            .pill {{ width: 28px; height: 28px; display: flex; align-items: center; justify-content: center; border-radius: 6px; font-size: 12px; font-weight: 800; color: white; }}
+            .pill.w {{ background: var(--win); }}
+            .pill.l {{ background: var(--loss); opacity: 0.4; }}
 
-            .bet-ticket {{ background: #fff; color: #000; padding: 25px; position: relative; margin-top: 30px; border-top: 4px dashed #ccc; border-radius: 0 0 15px 15px; }}
-            .bet-ticket::before {{ content: 'REKOMENDACJA EKSPERTA'; position: absolute; top: -12px; left: 50%; transform: translateX(-50%); background: var(--gold); padding: 4px 15px; font-size: 11px; font-weight: 900; border-radius: 15px; }}
-            .bet-main {{ font-size: 19px; font-weight: 900; margin-bottom: 8px; color: #000; }}
-            .bet-desc {{ font-size: 14px; color: #333; line-height: 1.5; font-weight: 500; }}
+            /* PRO BET TICKET */
+            .bet-ticket {{ background: #fff; color: #000; padding: 25px; border-radius: 12px; position: relative; border-top: 4px dashed #ccc; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }}
+            .bet-ticket::before {{ content: 'REKOMENDACJA SYSTEMU PRO'; position: absolute; top: -10px; left: 50%; transform: translateX(-50%); background: var(--gold); padding: 4px 12px; font-size: 10px; font-weight: 900; border-radius: 10px; letter-spacing: 0.5px; white-space: nowrap; }}
+            .bet-main {{ font-size: 22px; font-weight: 900; margin-bottom: 10px; color: #111; letter-spacing: -0.5px; }}
+            .bet-desc {{ font-size: 13px; color: #444; line-height: 1.5; font-weight: 600; padding-top: 10px; border-top: 1px solid #eee; }}
         </style>
     </head>
     <body>
-        <h1>🏀 NBA RAPORT PRO</h1>
+        <h1>🏀 NBA PRO ANALYTICS</h1>
         <div class="status-bar">
-            <div class="status-item"><div class="dot green"></div>Aktualizacja: {last_update}</div>
-            <div class="status-item"><div class="dot blue"></div>Następna: {next_up}</div>
+            <div class="status-item"><div class="dot green"></div>AI Model: Gemini 1.5 Pro</div>
+            <div class="status-item"><div class="dot blue"></div>Aktualizacja: {last_update}</div>
         </div>
+        
         <div class="container">{cards_html}</div>
 
         <div id="modal" class="modal" onclick="this.style.display='none'">
@@ -156,16 +219,24 @@ def create_page(matches):
                 <div class="modal-header">
                     <div style="display:flex; justify-content:center; align-items:center; gap:30px;">
                         <img id="h-logo-m" src="">
-                        <span style="font-size:28px; font-weight:900; color:#333;">VS</span>
+                        <span style="font-size:24px; font-weight:900; color:#333; font-style:italic;">VS</span>
                         <img id="a-logo-m" src="">
                     </div>
                 </div>
                 <div class="modal-body">
-                    <span class="info-label">📋 Analiza taktyczna</span>
+                    <span class="info-label">📋 Analiza Advanced Stats</span>
                     <div id="m-analysis" class="analysis-box"></div>
                     
-                    <span class="info-label">📈 Ostatnie mecze (Forma)</span>
-                    <div id="m-history" class="history-row"></div>
+                    <div class="history-grid">
+                        <div>
+                            <div class="history-team-label" id="h-name-label">Gospodarze</div>
+                            <div id="h-pills" class="pill-row"></div>
+                        </div>
+                        <div>
+                            <div class="history-team-label" id="a-name-label">Goście</div>
+                            <div id="a-pills" class="pill-row"></div>
+                        </div>
+                    </div>
 
                     <div class="bet-ticket">
                         <div id="m-bet-main" class="bet-main"></div>
@@ -176,29 +247,27 @@ def create_page(matches):
         </div>
 
         <script>
-            function formatHistory(text) {{
-                // Rozdzielamy na Gosp i Goście
-                let teams = text.split('|');
-                return teams.map(team => {{
-                    let parts = team.split(':');
-                    let name = parts[0] || '';
-                    let results = parts[1] || '';
-                    let pills = results.split(',').map(res => {{
-                        let r = res.trim().toLowerCase();
-                        if(r.includes('w')) return `<span class="pill w">W</span>`;
-                        if(r.includes('l')) return `<span class="pill l">L</span>`;
-                        return res;
-                    }}).join('');
-                    return `<div style="margin-bottom:10px;"><small style="color:#888;">${{name.toUpperCase()}}:</small><div class="history-pills">${{pills}}</div></div>`;
-                }}).join('');
-            }}
-
             function openModal(h, a, an, hi, be, hl, al) {{
                 document.getElementById('m-analysis').innerText = an;
-                document.getElementById('m-history').innerHTML = formatHistory(hi);
-                let parts = be.split('. ');
-                document.getElementById('m-bet-main').innerText = parts[0];
-                document.getElementById('m-bet-desc').innerText = parts.slice(1).join('. ');
+                document.getElementById('h-name-label').innerText = h;
+                document.getElementById('a-name-label').innerText = a;
+                
+                let [h_res, a_res] = hi.split('|');
+                const h_pills = h_res ? h_res.split(',').map(r => `<div class="pill ${{r.trim().toLowerCase() === 'w' ? 'w' : 'l'}}">${{r.trim().toUpperCase()}}</div>`).join('') : '';
+                const a_pills = a_res ? a_res.split(',').map(r => `<div class="pill ${{r.trim().toLowerCase() === 'w' ? 'w' : 'l'}}">${{r.trim().toUpperCase()}}</div>`).join('') : '';
+                
+                document.getElementById('h-pills').innerHTML = h_pills;
+                document.getElementById('a-pills').innerHTML = a_pills;
+
+                let firstPeriod = be.indexOf('.');
+                if(firstPeriod !== -1) {{
+                    document.getElementById('m-bet-main').innerText = be.substring(0, firstPeriod);
+                    document.getElementById('m-bet-desc').innerText = be.substring(firstPeriod + 1);
+                }} else {{
+                    document.getElementById('m-bet-main').innerText = be;
+                    document.getElementById('m-bet-desc').innerText = "";
+                }}
+                
                 document.getElementById('h-logo-m').src = hl;
                 document.getElementById('a-logo-m').src = al;
                 document.getElementById('modal').style.display = 'flex';
@@ -212,4 +281,7 @@ def create_page(matches):
 
 if __name__ == "__main__":
     data = get_nba_analysis()
-    create_page(data)
+    if data:
+        create_page(data)
+    else:
+        print("Błąd: Nie udało się pobrać danych.")
