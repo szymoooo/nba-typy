@@ -7,7 +7,7 @@ if not api_key:
     print("Brak klucza API!")
 
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-1.5-flash-latest')
 
 def get_nba_data():
     prompt = "Podaj szybką analizę 3 meczów NBA na dziś (29.12.2025): Knicks-Pelicans, Heat-Nuggets, Suns-Wizards. Sformatuj jako tabelę HTML (tylko <table>...</table>). Nie używaj znaczników ```."
