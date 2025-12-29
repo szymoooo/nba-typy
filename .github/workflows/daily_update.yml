@@ -1,7 +1,7 @@
 name: NBA Daily Update Test
 on:
   schedule:
-    - cron: '8 13 * * *' # 13:08 UTC = 14:08 czasu polskiego
+    - cron: '0 14 * * *' # 13:08 UTC = 14:08 czasu polskiego
   workflow_dispatch: # Przycisk do ręcznego odpalenia
 
 jobs:
