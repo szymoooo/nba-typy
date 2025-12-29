@@ -7,67 +7,65 @@ import datetime
 api_key = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
-# --- SŁOWNIK TŁUMACZĄCY SKRÓTY NA KODY ESPN (Naprawa błędów 404) ---
-# Tłumaczy standardowe ID (np. NOP) na ID używane przez serwery ESPN (np. no)
+# --- MAPA NAPRAWIAJĄCA LOGA ESPN (BŁĘDY 404) ---
+# Klucz: Oficjalny skrót NBA (zawsze 3 litery)
+# Wartość: Skrót używany przez ESPN w linkach do obrazków
 ESPN_FIX = {
-    "uta": "utah",
-    "nop": "no",
-    "gsw": "gs",
-    "nyk": "ny",
-    "sas": "sa",
-    "phx": "phx", # Czasem bywa pho, ale phx jest bezpieczniejsze
-    "was": "wsh",
-    "bkn": "bkn"
+    "uta": "utah",  # Fix dla Jazz
+    "nop": "no",    # Fix dla Pelicans
+    "gsw": "gs",    # Fix dla Warriors
+    "nyk": "ny",    # Fix dla Knicks
+    "sas": "sa",    # Fix dla Spurs
+    "phx": "phx",   # Phoenix jest ok, ale dla pewności
+    "was": "wsh",   # Fix dla Wizards
+    "bkn": "bkn",
+    "cha": "cha",
+    "tor": "tor",
+    "hou": "hou"
 }
 
-# --- BAZA WIEDZY (Eksperckie źródła) ---
+# --- BAZA WIEDZY I ŹRÓDEŁ ---
 TRUSTED_SOURCES = [
-    "official.nba.com/injury-report",
-    "cleaningtheglass.com",
-    "dunksandthrees.com",
+    "nba.com/games",
+    "espn.com/nba/schedule",
     "rotowire.com/basketball/nba-lineups.php",
-    "actionnetwork.com/nba/public-betting",
-    "statmuse.com",
-    "covers.com/sport/basketball/nba/trends"
+    "cleaningtheglass.com"
 ]
 
 def get_nba_analysis():
+    # Pobieramy datę systemową
+    # UWAGA: Jeśli testujesz to w innym dniu niż mecz, AI może zgłupieć. 
+    # Zakładam, że skrypt uruchamiasz w dniu meczowym.
     now_pl = datetime.datetime.now() + datetime.timedelta(hours=1)
-    today_str = now_pl.strftime("%Y-%m-%d")
+    today_str = now_pl.strftime("%Y-%m-%d") # Np. 2025-12-29
     
-    # Model PRO
+    # Model PRO (skoro masz dostęp)
     model = genai.GenerativeModel('gemini-1.5-pro')
 
     sources_str = ", ".join(TRUSTED_SOURCES)
 
     prompt = f"""
-    Jesteś ELITARNYM analitykiem NBA. DZISIAJ JEST {today_str}.
+    DZISIAJ JEST: {today_str}.
+    TWOIM JEDYNYM CELEM JEST POBRANIE PRAWDZIWEGO TERMINARZA I ANALIZA.
     
-    KROK 1: RESEARCH
-    - Użyj Google Search. Przeszukaj źródła: {sources_str}.
-    - Znajdź OFICJALNY terminarz na noc {today_str}.
+    KROK 1 (KRYTYCZNY): TERMINARZ
+    - Użyj Google Search, aby znaleźć listę meczów NBA zaplanowanych DOKŁADNIE na datę {today_str}.
+    - Ignoruj mecze z wczoraj lub jutra. Interesuje nas TYLKO ta noc.
+    - Jeśli data to 2025-12-29, to szukaj meczów: Bucks vs Hornets, Suns vs Wizards, Warriors vs Nets, Nuggets vs Heat, Magic vs Raptors, Wolves vs Bulls, Pacers vs Rockets, Knicks vs Pelicans, Hawks vs Thunder, Cavs vs Spurs, Mavs vs Blazers.
     
-    KROK 2: ADVANCED ANALYTICS
-    - Analizuj Four Factors, Pace, Matchupy i Sharp Money.
-    - Nie pisz ogólników. Używaj liczb!
+    KROK 2: ANALIZA
+    - Dla KAŻDEGO znalezionego meczu przygotuj analizę.
+    - 'bet': Musi zawierać konkretne liczby (np. "Średnia z 5 meczów: 112 pkt").
+    - 'last_games': Format "W,L,W | L,W,L".
+    - 'home_id' / 'away_id': Użyj standardowych 3-literowych skrótów NBA (np. UTA, NOP, GSW).
     
-    KROK 3: JSON
-    Stwórz listę WSZYSTKICH meczów tej nocy.
-    
-    WYMAGANIA JSON:
-    - 'home_id' / 'away_id': Użyj standardowych skrótów 3-literowych (np. UTA, NOP, LAL, BOS).
-    - 'analysis': Krótka, gęsta od danych analiza.
-    - 'bet': Typ + Uzasadnienie statystyczne.
-    - 'last_games': "W,L,W | L,L,W".
-    - 'time': Czas polski.
-
-    Zwróć TYLKO czysty JSON:
+    Zwróć TYLKO czysty JSON w formacie listy:
     [
       {{
         "home": "Utah Jazz", "home_id": "UTA",
-        "away": "Pelicans", "away_id": "NOP",
+        "away": "San Antonio Spurs", "away_id": "SAS",
         "time": "02:00",
-        "star": true,
+        "star": false,
         "analysis": "...",
         "last_games": "...",
         "bet": "..."
@@ -85,18 +83,18 @@ def get_nba_analysis():
             
         return json.loads(content)
     except Exception as e:
-        print(f"Błąd analizy PRO: {e}")
+        print(f"Błąd analizy: {e}")
         return []
 
 def create_page(matches):
     now_pl = datetime.datetime.now() + datetime.timedelta(hours=1)
     last_update = now_pl.strftime("%H:%M")
     
+    # Logika statusu
     current_hour = now_pl.hour
     if current_hour < 7: next_up = "07:00 (Wyniki)"
-    elif current_hour < 15: next_up = "15:10 (Wczesny Raport)"
-    elif current_hour < 19: next_up = "19:30 (Finalny Raport)"
-    elif current_hour < 23: next_up = "23:00 (Last Minute)"
+    elif current_hour < 15: next_up = "15:10 (Analiza)"
+    elif current_hour < 19: next_up = "19:30 (Update)"
     else: next_up = "Jutro 07:00"
 
     cards_html = ""
@@ -105,20 +103,18 @@ def create_page(matches):
         star_class = "star-card" if is_star else ""
         star_badge = '<div class="badge">💎 SHARP PLAY</div>' if is_star else ""
         
-        # --- NAPRAWA LOGO ESPN ---
-        # Pobieramy ID od AI (np. 'uta')
+        # --- NAPRAWA LOGO ESPN (Hardcoded Fix) ---
         raw_h = m.get('home_id', 'NBA').lower()
         raw_a = m.get('away_id', 'NBA').lower()
         
-        # Sprawdzamy czy mamy "tłumaczenie" w słowniku ESPN_FIX. 
-        # Jeśli tak, używamy go (np. 'utah'). Jeśli nie, zostawiamy oryginał.
+        # Mapowanie na dziwne kody ESPN
         h_espn = ESPN_FIX.get(raw_h, raw_h)
         a_espn = ESPN_FIX.get(raw_a, raw_a)
         
         h_logo = f"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/{h_espn}.png"
         a_logo = f"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/{a_espn}.png"
         
-        # Fallback pozostaje na NBA.com (tam używa się zawsze standardowych skrótów)
+        # Fallback na NBA.com
         h_fallback = f"https://cdn.nba.com/logos/nba/{raw_h.upper()}/global/L/logo.svg"
         a_fallback = f"https://cdn.nba.com/logos/nba/{raw_a.upper()}/global/L/logo.svg"
         
