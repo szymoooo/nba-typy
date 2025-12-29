@@ -1,8 +1,13 @@
 name: NBA Daily Update Test
 on:
   schedule:
-    - cron: '10 14 * * *' # 14:10 UTC = 15:10 czasu polskiego
-  workflow_dispatch:      # Przycisk do ręcznego odpalenia
+    # 07:00 (wyniki z nocy) -> 06:00 UTC
+    # 15:10 (pierwszy raport) -> 14:10 UTC
+    # 19:30 (finalny raport przed meczami) -> 18:30 UTC
+    # 23:00 (późne mecze / last minute) -> 22:00 UTC
+    - cron: '0 6,18,22 * * *'
+    - cron: '10 14 * * *'
+  workflow_dispatch: 
 
 jobs:
   update-page:
