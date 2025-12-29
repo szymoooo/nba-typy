@@ -16,7 +16,7 @@ def get_nba_analysis():
         model_name = available_models[0] if available_models else 'gemini-1.5-flash'
         model = genai.GenerativeModel(model_name)
     except:
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        model = genai.GenerativeModel('gemini-1.5-pro')
 
     # WZMOCNIONY PROMPT: Wymuszamy wszystkie mecze i korektę czasu
     prompt = f"""
