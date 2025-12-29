@@ -1,14 +1,14 @@
 name: NBA Daily Update Test
 on:
   schedule:
-    - cron: '0 14 * * *' # 13:08 UTC = 14:08 czasu polskiego
-  workflow_dispatch: # Przycisk do ręcznego odpalenia
+    - cron: '10 14 * * *' # 14:10 UTC = 15:10 czasu polskiego
+  workflow_dispatch:      # Przycisk do ręcznego odpalenia
 
 jobs:
   update-page:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # To pozwala skryptowi stworzyć plik index.html
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - name: Set up Python
