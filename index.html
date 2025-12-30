@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>NBA PUBLIC HUB</title>
+        <title>NBA PUBLIC SCOREBOARD</title>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏀</text></svg>">
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
         <style>
@@ -26,85 +26,114 @@
             h1 { font-weight: 900; letter-spacing: -1px; margin: 0; color: var(--accent); font-size: 2.5rem; }
             .subtitle { color: var(--subtext); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; margin-top: 10px; }
             
-            /* UKŁAD GRID - 2 KOLUMNY */
+            /* GRID */
             .grid {
                 display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-                gap: 20px;
+                grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); /* Szersze karty */
+                gap: 25px;
             }
             
-            /* KARTA MECZU */
+            /* NOWY DESIGN KARTY */
             .card { 
                 background: var(--card-bg); 
                 border: 1px solid var(--border); 
-                border-radius: 16px; 
+                border-radius: 20px; /* Bardziej zaokrąglone */
                 overflow: hidden; 
                 display: flex; 
                 flex-direction: column;
-                transition: transform 0.2s;
-                box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+                transition: transform 0.2s, box-shadow 0.2s;
+                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
             }
             
-            .card:hover { transform: translateY(-3px); border-color: var(--accent); }
+            .card:hover { transform: translateY(-5px); box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3); border-color: var(--accent); }
             
             .card-header { 
-                background: rgba(0,0,0,0.2); 
-                padding: 10px 20px; 
+                background: rgba(0,0,0,0.3); 
+                padding: 12px 25px; 
                 display: flex; 
-                justify-content: space-between; 
+                justify-content: center; 
                 align-items: center; 
                 border-bottom: 1px solid var(--border);
             }
             
-            .status { font-size: 0.7rem; font-weight: 800; color: var(--subtext); text-transform: uppercase; letter-spacing: 0.5px; }
+            .status { font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }
             .live { color: #ef4444; animation: pulse 1.5s infinite; }
             
-            .matchup { display: flex; justify-content: space-between; align-items: center; padding: 25px 20px; }
-            .team { text-align: center; width: 40%; display: flex; flex-direction: column; align-items: center; }
-            .team-name { font-weight: 800; font-size: 1.1rem; display: block; margin-bottom: 4px; }
-            .team-rec { font-size: 0.75rem; color: var(--subtext); font-family: monospace; }
+            /* NOWY LAYOUT MATCHUP */
+            .matchup { display: flex; justify-content: space-between; align-items: center; padding: 35px 30px; }
             
-            .score { font-size: 2rem; font-weight: 900; margin-top: 8px; }
-            .score.winner { color: var(--win); text-shadow: 0 0 10px rgba(16, 185, 129, 0.2); }
-            .score.loser { color: var(--subtext); opacity: 0.5; }
+            .team { 
+                text-align: center; 
+                width: 30%; 
+                display: flex; 
+                flex-direction: column; 
+                align-items: center; 
+            }
             
-            .vs { color: var(--border); font-style: italic; font-weight: 900; font-size: 1.2rem; }
+            .team-name { 
+                font-weight: 900; 
+                font-size: 1rem; 
+                display: block; 
+                margin-bottom: 15px; /* Odstęp nazwy od logo */
+                text-transform: uppercase;
+                letter-spacing: 0.5px;
+            }
             
-            /* SEKCJA PROGNOZY */
+            .team-logo {
+                width: 80px;
+                height: 80px;
+                object-fit: contain;
+                filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3)); /* Cień pod logo */
+            }
+            
+            /* NOWY SCORE CONTAINER (ŚRODEK) */
+            .score-container {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 15px;
+            }
+            
+            .score { font-size: 2.8rem; font-weight: 900; line-height: 1; }
+            .score.winner { color: var(--win); text-shadow: 0 0 20px rgba(16, 185, 129, 0.4); }
+            .score.loser { color: var(--subtext); opacity: 0.4; }
+            
+            .vs-sep { color: var(--border); font-style: italic; font-weight: 900; font-size: 1.5rem; }
+            
+            /* PROGNOZA */
             .prediction-box { 
-                background: rgba(0,0,0,0.3); 
-                padding: 15px; 
+                background: rgba(15, 23, 42, 0.6); /* Ciemniejsze tło */
+                padding: 20px; 
                 text-align: center; 
                 border-top: 1px solid var(--border); 
                 margin-top: auto;
             }
             
-            .pred-label { font-size: 0.65rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; }
-            .pred-val { font-size: 1rem; font-weight: 900; margin-top: 5px; color: var(--accent); }
+            .pred-label { font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 5px; }
+            .pred-val { font-size: 1.2rem; font-weight: 900; color: var(--text); }
             
-            /* WERYFIKACJA (WIN/LOSS) */
             .result-badge {
                 display: inline-block;
-                padding: 4px 12px;
+                padding: 6px 14px;
                 border-radius: 20px;
                 font-size: 0.75rem;
                 font-weight: 800;
-                margin-top: 8px;
+                margin-top: 10px;
+                text-transform: uppercase;
             }
-            .res-win { background: rgba(16, 185, 129, 0.15); color: var(--win); border: 1px solid var(--win); }
-            .res-loss { background: rgba(239, 68, 68, 0.15); color: var(--loss); border: 1px solid var(--loss); }
+            .res-win { background: rgba(16, 185, 129, 0.2); color: var(--win); border: 1px solid var(--win); }
+            .res-loss { background: rgba(239, 68, 68, 0.2); color: var(--loss); border: 1px solid var(--loss); }
             
             .footer { text-align: center; color: var(--subtext); font-size: 0.75rem; margin-top: 50px; padding-bottom: 20px; }
-            
             @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
-            @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } }
+            @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } .matchup { padding: 25px 15px; } .score { font-size: 2.2rem; } .team-logo { width: 60px; height: 60px; } }
         </style>
     </head>
     <body>
         <div class="container">
             <header>
                 <h1>NBA PUBLIC HUB</h1>
-                <div class="subtitle">Live Scores & Automated Trend Predictions</div>
+                <div class="subtitle">Live Scores & Automated Models</div>
             </header>
             
             <div class="grid">
@@ -117,14 +146,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Bucks</span>
-                        <span class="team-rec">14-19</span>
-                        <div class="score winner">123</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg" class="team-logo" alt="Bucks">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score winner">123</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score loser">113</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Hornets</span>
-                        <span class="team-rec">11-21</span>
-                        <div class="score loser">113</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg" class="team-logo" alt="Hornets">
                     </div>
                 </div>
                 
@@ -143,14 +178,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Suns</span>
-                        <span class="team-rec">19-13</span>
-                        <div class="score winner">115</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg" class="team-logo" alt="Suns">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score winner">115</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score loser">101</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Wizards</span>
-                        <span class="team-rec">7-24</span>
-                        <div class="score loser">101</div>
+                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="Wizards">
                     </div>
                 </div>
                 
@@ -169,14 +210,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Warriors</span>
-                        <span class="team-rec">17-16</span>
-                        <div class="score winner">120</div>
+                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="Warriors">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score winner">120</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score loser">107</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Nets</span>
-                        <span class="team-rec">10-20</span>
-                        <div class="score loser">107</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg" class="team-logo" alt="Nets">
                     </div>
                 </div>
                 
@@ -195,14 +242,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Nuggets</span>
-                        <span class="team-rec">22-10</span>
-                        <div class="score loser">123</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg" class="team-logo" alt="Nuggets">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score loser">123</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score winner">147</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Heat</span>
-                        <span class="team-rec">18-15</span>
-                        <div class="score winner">147</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg" class="team-logo" alt="Heat">
                     </div>
                 </div>
                 
@@ -221,14 +274,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Magic</span>
-                        <span class="team-rec">18-15</span>
-                        <div class="score loser">106</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg" class="team-logo" alt="Magic">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score loser">106</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score winner">107</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Raptors</span>
-                        <span class="team-rec">20-14</span>
-                        <div class="score winner">107</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg" class="team-logo" alt="Raptors">
                     </div>
                 </div>
                 
@@ -247,14 +306,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Timberwolves</span>
-                        <span class="team-rec">21-12</span>
-                        <div class="score winner">136</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg" class="team-logo" alt="Timberwolves">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score winner">136</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score loser">101</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Bulls</span>
-                        <span class="team-rec">15-17</span>
-                        <div class="score loser">101</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg" class="team-logo" alt="Bulls">
                     </div>
                 </div>
                 
@@ -273,14 +338,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Pacers</span>
-                        <span class="team-rec">6-27</span>
-                        <div class="score loser">119</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg" class="team-logo" alt="Pacers">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score loser">119</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score winner">126</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Rockets</span>
-                        <span class="team-rec">20-10</span>
-                        <div class="score winner">126</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg" class="team-logo" alt="Rockets">
                     </div>
                 </div>
                 
@@ -299,14 +370,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Knicks</span>
-                        <span class="team-rec">23-9</span>
-                        <div class="score winner">130</div>
+                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="Knicks">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score winner">130</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score loser">125</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Pelicans</span>
-                        <span class="team-rec">8-26</span>
-                        <div class="score loser">125</div>
+                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="Pelicans">
                     </div>
                 </div>
                 
@@ -325,14 +402,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Hawks</span>
-                        <span class="team-rec">15-19</span>
-                        <div class="score loser">129</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg" class="team-logo" alt="Hawks">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score loser">129</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score winner">140</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Thunder</span>
-                        <span class="team-rec">28-5</span>
-                        <div class="score winner">140</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg" class="team-logo" alt="Thunder">
                     </div>
                 </div>
                 
@@ -351,14 +434,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Cavaliers</span>
-                        <span class="team-rec">18-16</span>
-                        <div class="score winner">113</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg" class="team-logo" alt="Cavaliers">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score winner">113</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score loser">101</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Spurs</span>
-                        <span class="team-rec">23-9</span>
-                        <div class="score loser">101</div>
+                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="Spurs">
                     </div>
                 </div>
                 
@@ -377,14 +466,20 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Mavericks</span>
-                        <span class="team-rec">12-22</span>
-                        <div class="score loser">122</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg" class="team-logo" alt="Mavericks">
                     </div>
-                    <div class="vs">@</div>
+                    
+                    <div class="score-container">
+                        
+                    <span class="score loser">122</span>
+                    <span class="vs-sep">:</span>
+                    <span class="score winner">125</span>
+                
+                    </div>
+                    
                     <div class="team">
                         <span class="team-name">Trail Blazers</span>
-                        <span class="team-rec">14-19</span>
-                        <div class="score winner">125</div>
+                        <img src="https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg" class="team-logo" alt="Trail Blazers">
                     </div>
                 </div>
                 
@@ -397,7 +492,7 @@
             
             </div>
             <div class="footer">
-                Automatyczna aktualizacja: 2025-12-30 13:40
+                Automatyczna aktualizacja: 2025-12-30 13:53 | Data Source: ESPN
             </div>
         </div>
     </body>
