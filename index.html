@@ -29,15 +29,15 @@
             /* GRID */
             .grid {
                 display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); /* Szersze karty */
+                grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
                 gap: 25px;
             }
             
-            /* NOWY DESIGN KARTY */
+            /* KARTA */
             .card { 
                 background: var(--card-bg); 
                 border: 1px solid var(--border); 
-                border-radius: 20px; /* Bardziej zaokrąglone */
+                border-radius: 20px;
                 overflow: hidden; 
                 display: flex; 
                 flex-direction: column;
@@ -59,7 +59,7 @@
             .status { font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }
             .live { color: #ef4444; animation: pulse 1.5s infinite; }
             
-            /* NOWY LAYOUT MATCHUP */
+            /* MATCHUP */
             .matchup { display: flex; justify-content: space-between; align-items: center; padding: 35px 30px; }
             
             .team { 
@@ -74,7 +74,7 @@
                 font-weight: 900; 
                 font-size: 1rem; 
                 display: block; 
-                margin-bottom: 15px; /* Odstęp nazwy od logo */
+                margin-bottom: 15px; 
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
             }
@@ -83,10 +83,10 @@
                 width: 80px;
                 height: 80px;
                 object-fit: contain;
-                filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3)); /* Cień pod logo */
+                filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3));
             }
             
-            /* NOWY SCORE CONTAINER (ŚRODEK) */
+            /* SCORE */
             .score-container {
                 display: flex;
                 align-items: center;
@@ -102,27 +102,17 @@
             
             /* PROGNOZA */
             .prediction-box { 
-                background: rgba(15, 23, 42, 0.6); /* Ciemniejsze tło */
+                background: rgba(15, 23, 42, 0.6);
                 padding: 20px; 
                 text-align: center; 
                 border-top: 1px solid var(--border); 
                 margin-top: auto;
             }
             
-            .pred-label { font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 5px; }
-            .pred-val { font-size: 1.2rem; font-weight: 900; color: var(--text); }
+            .pred-label { font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 8px; }
+            .pred-val { font-size: 1.2rem; font-weight: 900; color: var(--text); display: flex; align-items: center; justify-content: center; gap: 8px; }
             
-            .result-badge {
-                display: inline-block;
-                padding: 6px 14px;
-                border-radius: 20px;
-                font-size: 0.75rem;
-                font-weight: 800;
-                margin-top: 10px;
-                text-transform: uppercase;
-            }
-            .res-win { background: rgba(16, 185, 129, 0.2); color: var(--win); border: 1px solid var(--win); }
-            .res-loss { background: rgba(239, 68, 68, 0.2); color: var(--loss); border: 1px solid var(--loss); }
+            /* Usunięte style badge, teraz ikona jest inline */
             
             .footer { text-align: center; color: var(--subtext); font-size: 0.75rem; margin-top: 50px; padding-bottom: 20px; }
             @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
@@ -165,8 +155,7 @@
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Bucks</div>
-                    <div class="result-badge res-win">TRAFIONY ✅</div>
+                    <div class="pred-val">Bucks<span style="color: #10b981; margin-left: 8px;">✅</span></div>
                 </div>
             </div>
             
@@ -191,14 +180,13 @@
                     
                     <div class="team">
                         <span class="team-name">Wizards</span>
-                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="Wizards">
+                        <img src="https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg" class="team-logo" alt="Wizards">
                     </div>
                 </div>
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Suns</div>
-                    <div class="result-badge res-win">TRAFIONY ✅</div>
+                    <div class="pred-val">Suns<span style="color: #10b981; margin-left: 8px;">✅</span></div>
                 </div>
             </div>
             
@@ -210,7 +198,7 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Warriors</span>
-                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="Warriors">
+                        <img src="https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg" class="team-logo" alt="Warriors">
                     </div>
                     
                     <div class="score-container">
@@ -229,8 +217,7 @@
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Warriors</div>
-                    <div class="result-badge res-win">TRAFIONY ✅</div>
+                    <div class="pred-val">Warriors<span style="color: #10b981; margin-left: 8px;">✅</span></div>
                 </div>
             </div>
             
@@ -261,8 +248,7 @@
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Nuggets</div>
-                    <div class="result-badge res-loss">PUDŁO ❌</div>
+                    <div class="pred-val">Nuggets<span style="color: #ef4444; margin-left: 8px;">❌</span></div>
                 </div>
             </div>
             
@@ -293,8 +279,7 @@
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Raptors</div>
-                    <div class="result-badge res-win">TRAFIONY ✅</div>
+                    <div class="pred-val">Raptors<span style="color: #10b981; margin-left: 8px;">✅</span></div>
                 </div>
             </div>
             
@@ -325,8 +310,7 @@
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Timberwolves</div>
-                    <div class="result-badge res-win">TRAFIONY ✅</div>
+                    <div class="pred-val">Timberwolves<span style="color: #10b981; margin-left: 8px;">✅</span></div>
                 </div>
             </div>
             
@@ -357,8 +341,7 @@
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Rockets</div>
-                    <div class="result-badge res-win">TRAFIONY ✅</div>
+                    <div class="pred-val">Rockets<span style="color: #10b981; margin-left: 8px;">✅</span></div>
                 </div>
             </div>
             
@@ -370,7 +353,7 @@
                 <div class="matchup">
                     <div class="team">
                         <span class="team-name">Knicks</span>
-                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="Knicks">
+                        <img src="https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg" class="team-logo" alt="Knicks">
                     </div>
                     
                     <div class="score-container">
@@ -383,14 +366,13 @@
                     
                     <div class="team">
                         <span class="team-name">Pelicans</span>
-                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="Pelicans">
+                        <img src="https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg" class="team-logo" alt="Pelicans">
                     </div>
                 </div>
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Knicks</div>
-                    <div class="result-badge res-win">TRAFIONY ✅</div>
+                    <div class="pred-val">Knicks<span style="color: #10b981; margin-left: 8px;">✅</span></div>
                 </div>
             </div>
             
@@ -421,8 +403,7 @@
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Thunder</div>
-                    <div class="result-badge res-win">TRAFIONY ✅</div>
+                    <div class="pred-val">Thunder<span style="color: #10b981; margin-left: 8px;">✅</span></div>
                 </div>
             </div>
             
@@ -447,14 +428,13 @@
                     
                     <div class="team">
                         <span class="team-name">Spurs</span>
-                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="Spurs">
+                        <img src="https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg" class="team-logo" alt="Spurs">
                     </div>
                 </div>
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Spurs</div>
-                    <div class="result-badge res-loss">PUDŁO ❌</div>
+                    <div class="pred-val">Spurs<span style="color: #ef4444; margin-left: 8px;">❌</span></div>
                 </div>
             </div>
             
@@ -485,14 +465,13 @@
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Trail Blazers</div>
-                    <div class="result-badge res-win">TRAFIONY ✅</div>
+                    <div class="pred-val">Trail Blazers<span style="color: #10b981; margin-left: 8px;">✅</span></div>
                 </div>
             </div>
             
             </div>
             <div class="footer">
-                Automatyczna aktualizacja: 2025-12-30 14:32 | Data Source: ESPN
+                Automatyczna aktualizacja: 2025-12-30 14:39 | Data Source: ESPN
             </div>
         </div>
     </body>
