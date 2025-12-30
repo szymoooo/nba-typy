@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 # ==========================================
-# ⚙️ KONFIGURACJA (BIG LOGO WATERMARK EDITION)
+# ⚙️ KONFIGURACJA (PUBLIC BOT - BOTTOM TEXT)
 # ==========================================
 ESPN_API = "http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 
@@ -73,7 +73,7 @@ def get_team_logo(abbr):
     return DEFAULT_LOGO
 
 def generate_html():
-    print("🚀 URUCHAMIAM PUBLIC BOT (BIG LOGO WATERMARK)...")
+    print("🚀 URUCHAMIAM PUBLIC BOT (TEXT BOTTOM)...")
     
     data = get_espn_data()
     if not data or 'events' not in data:
@@ -139,7 +139,7 @@ def generate_html():
                 justify-content: center; 
                 align-items: center; 
                 border-bottom: 1px solid var(--border);
-                position: relative; z-index: 2; /* Header na wierzchu */
+                position: relative; z-index: 2;
             }}
             
             .status {{ font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }}
@@ -150,47 +150,49 @@ def generate_html():
                 display: flex; 
                 justify-content: space-between; 
                 align-items: center; 
-                padding: 35px 30px; 
-                position: relative; /* Ważne dla logo absolute */
+                padding: 30px 20px; /* Zmniejszyłem lekko padding, bo logo jest duże */
+                position: relative;
+                flex-grow: 1;
             }}
             
-            /* TEAM CONTAINER */
+            /* TEAM CONTAINER (ZMIANA) */
             .team {{ 
                 text-align: center; 
                 width: 30%; 
-                display: flex; 
-                flex-direction: column; 
-                align-items: center; 
+                height: 140px; /* Stała wysokość, żeby zmieścić logo i tekst */
+                position: relative; /* Ważne dla absolute text */
+                display: flex;
                 justify-content: center;
-                position: relative; /* Żeby logo pozycjonowało się względem tego pudełka */
-                min-height: 100px; /* Zabezpieczenie wysokości */
+                align-items: center;
             }}
             
+            /* NAZWA DRUŻYNY - NA SAMYM DOLE */
             .team-name {{ 
                 font-weight: 900; 
-                font-size: 1.2rem; 
-                display: block; 
+                font-size: 0.85rem; 
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
-                position: relative;
-                z-index: 2; /* Tekst NA WIERZCHU */
-                text-shadow: 0 2px 4px rgba(0,0,0,0.9); /* Cień pod tekstem dla czytelności */
+                
+                position: absolute; /* Przyklejamy do dołu */
+                bottom: 0;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 100%;
+                
+                z-index: 3; /* Nad logiem */
+                text-shadow: 0 2px 4px rgba(0,0,0,1); /* Mocny cień, żeby było widać na logo */
+                padding-bottom: 5px;
             }}
             
-            /* LOGO - ZMIANA STYLU WG ŻYCZENIA */
+            /* LOGO - DUŻE */
             .team-logo {{
                 width: 120px;
                 height: 120px;
                 object-fit: contain;
-                margin: 0;
-                
-                /* Pozycjonowanie absolutne - "pod spodem" */
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%); /* Idealne centrowanie */
-                z-index: 1; /* Pod tekstem */
-                opacity: 0.4; /* Przezroczystość, żeby nie zasłaniać tekstu */
+                z-index: 1;
+                opacity: 0.9; /* Lekko przezroczyste */
+                /* Logo jest wyśrodkowane przez flex w .team */
+                margin-bottom: 15px; /* Lekkie odsunięcie w górę od tekstu */
             }}
             
             /* SCORE */
@@ -199,7 +201,7 @@ def generate_html():
                 align-items: center;
                 justify-content: center;
                 gap: 15px;
-                position: relative; z-index: 2; /* Wynik na wierzchu */
+                position: relative; z-index: 2;
             }}
             
             .score {{ font-size: 2.8rem; font-weight: 900; line-height: 1; text-shadow: 0 2px 5px rgba(0,0,0,0.8); }}
@@ -263,7 +265,7 @@ def generate_html():
             h_score = int(home_team.get('score', 0))
             a_score = int(away_team.get('score', 0))
             
-            # Rekordy (dla logiki)
+            # Rekordy
             h_record_str = next((s['summary'] for s in home_team.get('records', []) if s['type'] == 'total'), "0-0")
             a_record_str = next((s['summary'] for s in away_team.get('records', []) if s['type'] == 'total'), "0-0")
 
@@ -322,7 +324,7 @@ def generate_html():
             
             prediction_content = f'{predicted_winner}{outcome_icon}'
 
-            # KARTA Z ODWRÓCONĄ KOLEJNOŚCIĄ (IMG, SPAN) I BIG LOGO
+            # KARTA Z NAPRAWIONYM UKŁADEM
             html += f"""
             <div class="card">
                 <div class="card-header">
@@ -370,7 +372,7 @@ def generate_html():
     
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
-    print("✅ Strona wygenerowana (BIG LOGO BG).")
+    print("✅ Strona wygenerowana (LOGO TOP, TEXT BOTTOM).")
 
 if __name__ == "__main__":
     generate_html()
