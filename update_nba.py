@@ -4,20 +4,22 @@ from datetime import datetime
 import os
 
 # ==========================================
-# ⚙️ KONFIGURACJA (PUBLIC BOT - LOGO EDITION)
+# ⚙️ KONFIGURACJA (PUBLIC BOT - FINAL CLEAN)
 # ==========================================
 ESPN_API = "http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 
-# Słownik mapujący skróty nazw drużyn na oficjalne logotypy NBA (CDN)
+# Rozszerzony słownik logo (ESPN używa czasem skrótów 2-literowych)
 NBA_LOGOS = {
     'ATL': 'https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg',
     'BOS': 'https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg',
     'CLE': 'https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg',
     'NOP': 'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg',
+    'NO':  'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg', # Fix Pelicans
     'CHI': 'https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg',
     'DAL': 'https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg',
     'DEN': 'https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg',
     'GSW': 'https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg',
+    'GS':  'https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg', # Fix Warriors
     'HOU': 'https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg',
     'LAC': 'https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg',
     'LAL': 'https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg',
@@ -26,6 +28,7 @@ NBA_LOGOS = {
     'MIN': 'https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg',
     'BKN': 'https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg',
     'NYK': 'https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg',
+    'NY':  'https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg', # Fix Knicks
     'ORL': 'https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg',
     'IND': 'https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg',
     'PHI': 'https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg',
@@ -33,6 +36,7 @@ NBA_LOGOS = {
     'POR': 'https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg',
     'SAC': 'https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg',
     'SAS': 'https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg',
+    'SA':  'https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg', # Fix Spurs
     'OKC': 'https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg',
     'TOR': 'https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg',
     'UTA': 'https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg',
@@ -40,7 +44,10 @@ NBA_LOGOS = {
     'WAS': 'https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg',
     'DET': 'https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg',
     'CHA': 'https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg',
+    'WSH': 'https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg',
+    'UTAH': 'https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg',
 }
+DEFAULT_LOGO = 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg'
 
 def get_espn_data():
     try:
@@ -60,8 +67,14 @@ def parse_record(record_str):
     except:
         return 0.0
 
+def get_team_logo(abbr):
+    # Najpierw szukamy w słowniku po skrócie (obsługa NY, NO, GS, SA)
+    if abbr in NBA_LOGOS:
+        return NBA_LOGOS[abbr]
+    return DEFAULT_LOGO
+
 def generate_html():
-    print("🚀 URUCHAMIAM PUBLIC BOT (LOGO DESIGN)...")
+    print("🚀 URUCHAMIAM PUBLIC BOT (FIXED LOGOS & UI)...")
     
     data = get_espn_data()
     if not data or 'events' not in data:
@@ -70,7 +83,7 @@ def generate_html():
 
     events = data['events']
     
-    # --- NAGŁÓWEK HTML (Zaktualizowane Style CSS) ---
+    # --- NAGŁÓWEK HTML ---
     html = f"""
     <!DOCTYPE html>
     <html lang="pl">
@@ -102,15 +115,15 @@ def generate_html():
             /* GRID */
             .grid {{
                 display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); /* Szersze karty */
+                grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
                 gap: 25px;
             }}
             
-            /* NOWY DESIGN KARTY */
+            /* KARTA */
             .card {{ 
                 background: var(--card-bg); 
                 border: 1px solid var(--border); 
-                border-radius: 20px; /* Bardziej zaokrąglone */
+                border-radius: 20px;
                 overflow: hidden; 
                 display: flex; 
                 flex-direction: column;
@@ -132,7 +145,7 @@ def generate_html():
             .status {{ font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }}
             .live {{ color: #ef4444; animation: pulse 1.5s infinite; }}
             
-            /* NOWY LAYOUT MATCHUP */
+            /* MATCHUP */
             .matchup {{ display: flex; justify-content: space-between; align-items: center; padding: 35px 30px; }}
             
             .team {{ 
@@ -147,7 +160,7 @@ def generate_html():
                 font-weight: 900; 
                 font-size: 1rem; 
                 display: block; 
-                margin-bottom: 15px; /* Odstęp nazwy od logo */
+                margin-bottom: 15px; 
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
             }}
@@ -156,10 +169,10 @@ def generate_html():
                 width: 80px;
                 height: 80px;
                 object-fit: contain;
-                filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3)); /* Cień pod logo */
+                filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3));
             }}
             
-            /* NOWY SCORE CONTAINER (ŚRODEK) */
+            /* SCORE */
             .score-container {{
                 display: flex;
                 align-items: center;
@@ -175,27 +188,17 @@ def generate_html():
             
             /* PROGNOZA */
             .prediction-box {{ 
-                background: rgba(15, 23, 42, 0.6); /* Ciemniejsze tło */
+                background: rgba(15, 23, 42, 0.6);
                 padding: 20px; 
                 text-align: center; 
                 border-top: 1px solid var(--border); 
                 margin-top: auto;
             }}
             
-            .pred-label {{ font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 5px; }}
-            .pred-val {{ font-size: 1.2rem; font-weight: 900; color: var(--text); }}
+            .pred-label {{ font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 8px; }}
+            .pred-val {{ font-size: 1.2rem; font-weight: 900; color: var(--text); display: flex; align-items: center; justify-content: center; gap: 8px; }}
             
-            .result-badge {{
-                display: inline-block;
-                padding: 6px 14px;
-                border-radius: 20px;
-                font-size: 0.75rem;
-                font-weight: 800;
-                margin-top: 10px;
-                text-transform: uppercase;
-            }}
-            .res-win {{ background: rgba(16, 185, 129, 0.2); color: var(--win); border: 1px solid var(--win); }}
-            .res-loss {{ background: rgba(239, 68, 68, 0.2); color: var(--loss); border: 1px solid var(--loss); }}
+            /* Usunięte style badge, teraz ikona jest inline */
             
             .footer {{ text-align: center; color: var(--subtext); font-size: 0.75rem; margin-top: 50px; padding-bottom: 20px; }}
             @keyframes pulse {{ 0% {{ opacity: 1; }} 50% {{ opacity: 0.5; }} 100% {{ opacity: 1; }} }}
@@ -226,13 +229,14 @@ def generate_html():
             
             h_name = home_team['team']['shortDisplayName']
             a_name = away_team['team']['shortDisplayName']
-            # Skróty dla logo (np. LAL, BOS)
+            
+            # Skróty dla logo
             h_abbr = home_team['team']['abbreviation']
             a_abbr = away_team['team']['abbreviation']
 
-            # Pobieranie URL logo (zabezpieczenie przed brakiem w słowniku)
-            h_logo_url = NBA_LOGOS.get(h_abbr, 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg')
-            a_logo_url = NBA_LOGOS.get(a_abbr, 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg')
+            # POBIERANIE LOGO Z NAPRAWIONYM SŁOWNIKIEM
+            h_logo_url = get_team_logo(h_abbr)
+            a_logo_url = get_team_logo(a_abbr)
             
             # Rekordy i Wyniki
             h_record_str = next((s['summary'] for s in home_team.get('records', []) if s['type'] == 'total'), "0-0")
@@ -241,19 +245,17 @@ def generate_html():
             h_score = int(home_team.get('score', 0))
             a_score = int(away_team.get('score', 0))
             
-            # === LOGIKA PROGNOZY (TREND FOLLOWER) ===
+            # === LOGIKA PROGNOZY ===
             h_pct = parse_record(h_record_str)
             a_pct = parse_record(a_record_str)
             
             predicted_winner = ""
             if (h_pct + 0.05) > a_pct:
                 predicted_winner = h_name
-                prediction_reason = "Bilans + Home Court"
             else:
                 predicted_winner = a_name
-                prediction_reason = "Lepszy Bilans"
             
-            # === LOGIKA WERYFIKACJI ===
+            # === LOGIKA WERYFIKACJI (Inline Icon) ===
             is_final = (state == 'post')
             actual_winner = ""
             
@@ -263,10 +265,8 @@ def generate_html():
             score_display_html = ""
 
             if state == 'pre':
-                # Przed meczem - pokazujemy "VS"
                  score_display_html = f'<span class="vs-sep" style="font-size: 2rem;">VS</span>'
             else:
-                # W trakcie lub po - pokazujemy WYNIKI
                 if is_final:
                     if h_score > a_score:
                         actual_winner = h_name
@@ -290,17 +290,18 @@ def generate_html():
                 status_class += " live"
                 status_text = "🔴 " + status['shortDetail']
 
-            prediction_html = f'<div class="pred-val">{predicted_winner}</div>'
-            result_badge = ""
+            # TWORZENIE IKONY WYNIKU (INLINE)
+            outcome_icon = ""
             if is_final:
                 if predicted_winner == actual_winner:
-                    result_badge = '<div class="result-badge res-win">TRAFIONY ✅</div>'
+                    outcome_icon = '<span style="color: #10b981; margin-left: 8px;">✅</span>' # Zielony ptaszek
                 else:
-                    result_badge = '<div class="result-badge res-loss">PUDŁO ❌</div>'
-            else:
-                result_badge = f'<div style="font-size:0.7rem; color:#666; margin-top:4px; text-transform:uppercase;">{prediction_reason}</div>'
+                    outcome_icon = '<span style="color: #ef4444; margin-left: 8px;">❌</span>' # Czerwony krzyżyk
+            
+            # Łączymy nazwę z ikoną w jednej linii
+            prediction_content = f'{predicted_winner}{outcome_icon}'
 
-            # KARTA (NOWY UKŁAD)
+            # KARTA
             html += f"""
             <div class="card">
                 <div class="card-header">
@@ -325,14 +326,13 @@ def generate_html():
                 
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    {prediction_html}
-                    {result_badge}
+                    <div class="pred-val">{prediction_content}</div>
                 </div>
             </div>
             """
             count += 1
         except Exception as e:
-            # print(f"Błąd: {e}") # Debug
+            # print(f"Błąd: {e}") 
             continue
 
     if count == 0:
@@ -350,7 +350,7 @@ def generate_html():
     
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
-    print("✅ Strona wygenerowana (LOGO DESIGN + SCORES).")
+    print("✅ Strona wygenerowana (LOGO FIX + INLINE RESULTS).")
 
 if __name__ == "__main__":
     generate_html()
