@@ -4,12 +4,12 @@ from datetime import datetime
 import os
 
 # ==========================================
-# ⚙️ KONFIGURACJA (STABLE CYBERPUNK NEON)
+# ⚙️ KONFIGURACJA (CYBERPUNK NEON EDITION)
 # ==========================================
 ESPN_API = "http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 
-# Zapasowy słownik logo (używany tylko gdy ESPN nie poda swojego)
-NBA_LOGOS_FALLBACK = {
+# Słownik mapujący skróty nazw drużyn na oficjalne logotypy NBA (CDN)
+NBA_LOGOS = {
     'ATL': 'https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg',
     'BOS': 'https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg',
     'CLE': 'https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg',
@@ -40,11 +40,7 @@ NBA_LOGOS_FALLBACK = {
     'WAS': 'https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg',
     'DET': 'https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg',
     'CHA': 'https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg',
-    'NOP': 'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg',
-    'NO': 'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg',
-    'UTAH': 'https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg',
 }
-DEFAULT_LOGO = 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg'
 
 def get_espn_data():
     try:
@@ -64,14 +60,8 @@ def parse_record(record_str):
     except:
         return 0.0
 
-def get_team_logo(team_data):
-    if 'logo' in team_data: return team_data['logo']
-    abbr = team_data.get('abbreviation')
-    if abbr in NBA_LOGOS_FALLBACK: return NBA_LOGOS_FALLBACK[abbr]
-    return DEFAULT_LOGO
-
 def generate_html():
-    print("🚀 URUCHAMIAM STABLE CYBERPUNK ENGINE...")
+    print("🚀 URUCHAMIAM PUBLIC BOT (CYBERPUNK STYLE)...")
     
     data = get_espn_data()
     if not data or 'events' not in data:
@@ -80,14 +70,14 @@ def generate_html():
 
     events = data['events']
     
-    # --- NAGŁÓWEK HTML ---
+    # --- NAGŁÓWEK HTML (Nowe style CSS) ---
     html = f"""
     <!DOCTYPE html>
     <html lang="pl">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>PRO ANALYTICS HUB</title>
+        <title>NBA NEON HUB</title>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏀</text></svg>">
         <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
         <style>
@@ -98,6 +88,7 @@ def generate_html():
                 --neon-purple: #bd00ff;
                 --neon-green: #00ff9f;
                 --text: #ffffff;
+                --win: #10b981; 
                 --loss: #ef4444; 
             }}
             
@@ -105,7 +96,7 @@ def generate_html():
                 background-color: var(--bg); 
                 background-image: radial-gradient(circle at 50% 50%, #111 0%, #000 100%);
                 color: var(--text); 
-                font-family: 'Orbitron', sans-serif;
+                font-family: 'Orbitron', sans-serif; /* Główna czcionka neonowa */
                 margin: 0; 
                 padding: 30px 20px;
             }}
@@ -119,6 +110,7 @@ def generate_html():
             }}
             .subtitle {{ color: #888; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; margin-top: 15px; font-family: sans-serif; }}
             
+            /* GRID */
             .grid {{
                 display: grid;
                 grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
@@ -131,6 +123,7 @@ def generate_html():
                 border-radius: 15px;
                 position: relative;
                 overflow: hidden;
+                /* Efekt głównej ramki neonowej */
                 box-shadow: 
                     0 0 5px rgba(0, 243, 255, 0.2),
                     0 0 15px rgba(189, 0, 255, 0.2),
@@ -140,21 +133,33 @@ def generate_html():
                 flex-direction: column;
             }}
 
+            /* Pasek statusu na górze */
             .status-bar {{
-                text-align: center; padding: 8px; font-size: 0.7rem; letter-spacing: 1px;
-                background: rgba(0,0,0,0.5); color: #aaa; border-bottom: 1px solid #222;
+                text-align: center;
+                padding: 8px;
+                font-size: 0.7rem;
+                letter-spacing: 1px;
+                background: rgba(0,0,0,0.5);
+                color: #aaa;
+                border-bottom: 1px solid #222;
             }}
             .live {{ color: var(--loss); text-shadow: 0 0 10px var(--loss); }}
 
             /* GŁÓWNA SEKCJA MECZU */
             .neon-matchup {{
-                display: flex; justify-content: space-between; align-items: center;
-                padding: 30px 20px; position: relative;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 30px 20px;
+                position: relative;
             }}
 
-            /* Zespoły */
+            /* Zespoły - kontenery z kolorowym blaskiem */
             .team-neon-box {{
-                text-align: center; width: 30%; padding: 15px; border-radius: 10px;
+                text-align: center;
+                width: 30%;
+                padding: 15px;
+                border-radius: 10px;
                 background: rgba(255,255,255,0.03);
             }}
 
@@ -175,6 +180,7 @@ def generate_html():
             .team-name {{ 
                 font-weight: 900; font-size: 1.2rem; display: block; margin-bottom: 15px; text-transform: uppercase; 
             }}
+            
             .team-logo {{
                 width: 90px; height: 90px; object-fit: contain;
                 filter: drop-shadow(0 0 10px rgba(255,255,255,0.3));
@@ -182,29 +188,42 @@ def generate_html():
 
             /* ŚRODEK - CYFROWY WYNIK */
             .digital-scoreboard {{
-                font-family: 'Share Tech Mono', monospace;
-                background: #000; padding: 15px 25px; border-radius: 8px;
-                border: 2px solid #333; box-shadow: inset 0 0 20px rgba(0,0,0,0.8);
-                text-align: center; position: relative;
+                font-family: 'Share Tech Mono', monospace; /* Czcionka cyfrowa */
+                background: #000;
+                padding: 15px 25px;
+                border-radius: 8px;
+                border: 2px solid #333;
+                box-shadow: inset 0 0 20px rgba(0,0,0,0.8);
+                text-align: center;
+                position: relative;
             }}
+            /* Efekt skanowania/siatki na ekranie */
+            .digital-scoreboard::after {{
+                content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+                background: repeating-linear-gradient(0deg, rgba(0,0,0,0.2) 0px, rgba(0,0,0,0.2) 2px, transparent 2px, transparent 4px);
+                pointer-events: none;
+            }}
+
             .score-line {{ font-size: 3rem; font-weight: 400; letter-spacing: 2px; display: flex; gap: 10px; justify-content: center; }}
             .digit {{ color: #fff; text-shadow: 0 0 15px #fff; }}
+            .digit-sep {{ color: #555; animation: blink 1s infinite; }}
             .digit.winner {{ color: var(--neon-green); text-shadow: 0 0 20px var(--neon-green); }}
             .digit.loser {{ color: #555; text-shadow: none; }}
 
-            .vs-neon {{
-                font-size: 1.5rem; font-weight: 900; color: #fff; margin-top: 15px;
-                text-shadow: 0 0 10px #fff, 0 0 20px var(--neon-blue);
-            }}
-
             /* DOLNY PANEL PROGNOZY */
             .neon-prediction-panel {{ 
-                background: rgba(0,0,0,0.4); padding: 20px; text-align: center; 
-                border-top: 2px solid #222; position: relative; margin-top: auto;
+                background: rgba(0,0,0,0.4);
+                padding: 20px; 
+                text-align: center; 
+                border-top: 2px solid #222;
+                position: relative;
+                margin-top: auto;
             }}
+            /* Zielony akcent na dole */
             .neon-prediction-panel::before {{
                 content: ''; position: absolute; bottom: 0; left: 20%; right: 20%; height: 2px;
-                background: var(--neon-green); box-shadow: 0 0 20px var(--neon-green), 0 0 40px var(--neon-green);
+                background: var(--neon-green);
+                box-shadow: 0 0 20px var(--neon-green), 0 0 40px var(--neon-green);
             }}
             
             .pred-label {{ font-size: 0.7rem; color: #888; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 10px; }}
@@ -213,12 +232,13 @@ def generate_html():
             .result-badge {{
                 display: inline-block; padding: 6px 16px; border-radius: 4px;
                 font-size: 0.8rem; font-weight: 800; margin-top: 12px; text-transform: uppercase; letter-spacing: 1px;
+                box-shadow: 0 0 15px currentColor;
             }}
-            .res-win {{ color: #000; background: var(--neon-green); box-shadow: 0 0 15px var(--neon-green); }}
-            .res-loss {{ color: #fff; background: var(--loss); box-shadow: 0 0 15px var(--loss); }}
+            .res-win {{ color: var(--bg); background: var(--neon-green); }}
+            .res-loss {{ color: var(--bg); background: var(--loss); }}
             
             .footer {{ text-align: center; color: #555; font-size: 0.75rem; margin-top: 60px; padding-bottom: 20px; font-family: sans-serif; }}
-            
+            @keyframes blink {{ 50% {{ opacity: 0; }} }}
             @media (max-width: 768px) {{ .grid {{ grid-template-columns: 1fr; }} .neon-matchup {{ flex-direction: column; gap: 20px; }} .team-neon-box {{ width: 80%; }} .score-line {{ font-size: 2.5rem; }} }}
         </style>
     </head>
@@ -244,20 +264,22 @@ def generate_html():
             home_team = next(t for t in competitors if t['homeAway'] == 'home')
             away_team = next(t for t in competitors if t['homeAway'] == 'away')
             
+            # Nazwy dla wyświetlacza (krótkie, np. LAL)
             h_abbr = home_team['team']['abbreviation']
             a_abbr = away_team['team']['abbreviation']
+            # Pełne nazwy dla prognozy
             h_full_name = home_team['team']['shortDisplayName']
             a_full_name = away_team['team']['shortDisplayName']
 
             # Loga
-            h_logo_url = get_team_logo(home_team['team'])
-            a_logo_url = get_team_logo(away_team['team'])
+            h_logo_url = NBA_LOGOS.get(h_abbr, 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg')
+            a_logo_url = NBA_LOGOS.get(a_abbr, 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg')
             
-            # Rekordy
+            # Rekordy do modelu
             h_record_str = next((s['summary'] for s in home_team.get('records', []) if s['type'] == 'total'), "0-0")
             a_record_str = next((s['summary'] for s in away_team.get('records', []) if s['type'] == 'total'), "0-0")
             
-            # Wyniki
+            # Wyniki (stringi do wyświetlacza)
             h_score_str = home_team.get('score', '0')
             a_score_str = away_team.get('score', '0')
             
@@ -283,13 +305,10 @@ def generate_html():
             h_digit_class = "digit"
             
             scoreboard_content = ""
-            vs_element = ""
 
             if state == 'pre':
-                 scoreboard_content = f'<span class="digit">---</span><span style="color:#555">:</span><span class="digit">---</span>'
-                 vs_element = '<div class="vs-neon">VS</div>'
+                 scoreboard_content = f'<span class="digit">---</span><span class="digit-sep">:</span><span class="digit">---</span>'
             else:
-                vs_element = '<div class="vs-neon" style="font-size:1.2rem; margin-top:10px; color:#aaa; text-shadow:none;">FINAL</div>'
                 if is_final:
                     if int(h_score_str) > int(a_score_str):
                         actual_winner_abbr = h_abbr
@@ -302,7 +321,7 @@ def generate_html():
                 
                 scoreboard_content = f"""
                     <span class="{a_digit_class}">{a_score_str}</span>
-                    <span style="color:#555">:</span>
+                    <span class="digit-sep">:</span>
                     <span class="{h_digit_class}">{h_score_str}</span>
                 """
 
@@ -320,7 +339,7 @@ def generate_html():
                 else:
                     result_badge = '<div class="result-badge res-loss">PUDŁO ❌</div>'
 
-            # KARTA (STABLE CYBERPUNK LAYOUT)
+            # KARTA (CYBERPUNK LAYOUT)
             html += f"""
             <div class="card">
                 <div class="status-bar {status_class}">{status_text}</div>
@@ -331,13 +350,10 @@ def generate_html():
                         <img src="{a_logo_url}" class="team-logo" alt="{a_abbr}">
                     </div>
                     
-                    <div class="scoreboard-container" style="display:flex; flex-direction:column; align-items:center;">
-                        <div class="digital-scoreboard">
-                            <div class="score-line">
-                                {scoreboard_content}
-                            </div>
+                    <div class="digital-scoreboard">
+                        <div class="score-line">
+                            {scoreboard_content}
                         </div>
-                        {vs_element}
                     </div>
                     
                     <div class="team-neon-box team-right">
@@ -355,20 +371,16 @@ def generate_html():
             """
             count += 1
         except Exception as e:
+            # print(f"Błąd: {e}")
             continue
 
     if count == 0:
-        html += """
-        <div style="grid-column: 1/-1; text-align:center; padding: 50px; background: rgba(0,0,0,0.5); border-radius: 20px; border: 1px solid #333;">
-            <h2 style="color: #888; text-transform: uppercase; letter-spacing: 2px;">System Standby</h2>
-            <p style="color: #666;">Brak zaplanowanych meczów w strumieniu danych ESPN.</p>
-        </div>
-        """
+        html += "<p style='text-align:center; color:#888;'>Brak meczów w harmonogramie ESPN.</p>"
 
     html += f"""
             </div>
             <div class="footer">
-                SYSTEM STATUS: ONLINE | LAST SCAN: {datetime.now().strftime("%Y-%m-%d %H:%M")} | SOURCE: ESPN API
+                SYSTEM STATUS: ONLINE | LAST UPDATE: {datetime.now().strftime("%Y-%m-%d %H:%M")} | SOURCE: ESPN API
             </div>
         </div>
     </body>
@@ -377,7 +389,7 @@ def generate_html():
     
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
-    print("✅ Strona wygenerowana (STABLE CYBERPUNK).")
+    print("✅ Strona wygenerowana (CYBERPUNK NEON STYLE).")
 
 if __name__ == "__main__":
     generate_html()
