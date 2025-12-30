@@ -1,20 +1,16 @@
-name: NBA Daily Update Test
+name: NBA Public Media Bot
 
 on:
   schedule:
-    # 07:00 (wyniki z nocy) -> 06:00 UTC
-    # 15:10 (pierwszy raport) -> 14:10 UTC
-    # 19:30 (finalny raport przed meczami) -> 18:30 UTC
-    # 23:00 (późne mecze / last minute) -> 22:00 UTC
-    - cron: '0 6,18,22 * * *'
-    - cron: '10 14 * * *'
-  workflow_dispatch: 
+    # 08:00 PL, 12:00 PL, 18:00 PL
+    - cron: '0 7,11,17 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-page:
+  public-analysis:
     runs-on: ubuntu-latest
     
     steps:
@@ -26,20 +22,16 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        # TU BYŁ BŁĄD - Dodałem 'requests'
         run: |
           python -m pip install --upgrade pip
-          pip install requests google-generativeai
+          pip install requests
 
-      - name: Run NBA Agent
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Run ESPN Media Model
         run: python update_nba.py
 
       - name: Commit and Push
         run: |
-          git config --global user.name 'NBA Agent'
-          git config --global user.email 'agent@nba.ai'
+          git config --global user.name 'ESPN Bot'
+          git config --global user.email 'bot@espn.nba'
           git add index.html
-          git commit -m "Aktualizacja raportu NBA" || exit 0
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update from Public API" && git push)
