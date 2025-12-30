@@ -4,12 +4,12 @@ from datetime import datetime
 import os
 
 # ==========================================
-# ⚙️ KONFIGURACJA (CYBERPUNK NEON EDITION)
+# ⚙️ KONFIGURACJA (ULTIMATE NEON CYBERPUNK)
 # ==========================================
 ESPN_API = "http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 
-# Słownik mapujący skróty nazw drużyn na oficjalne logotypy NBA (CDN)
-NBA_LOGOS = {
+# Zapasowy słownik logo (używany tylko gdy ESPN nie poda swojego)
+NBA_LOGOS_FALLBACK = {
     'ATL': 'https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg',
     'BOS': 'https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg',
     'CLE': 'https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg',
@@ -40,7 +40,11 @@ NBA_LOGOS = {
     'WAS': 'https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg',
     'DET': 'https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg',
     'CHA': 'https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg',
+    'NOP': 'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg', # Dodatkowe dla New Orleans
+    'NO': 'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg',
+    'UTAH': 'https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg', # Dodatkowe dla Utah
 }
+DEFAULT_LOGO = 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg'
 
 def get_espn_data():
     try:
@@ -60,8 +64,20 @@ def parse_record(record_str):
     except:
         return 0.0
 
+# Funkcja pomocnicza do pobierania logo
+def get_team_logo(team_data):
+    # 1. Próba pobrania z danych ESPN
+    if 'logo' in team_data:
+        return team_data['logo']
+    # 2. Próba pobrania ze słownika fallback na podstawie skrótu
+    abbr = team_data.get('abbreviation')
+    if abbr in NBA_LOGOS_FALLBACK:
+        return NBA_LOGOS_FALLBACK[abbr]
+    # 3. Ostateczność
+    return DEFAULT_LOGO
+
 def generate_html():
-    print("🚀 URUCHAMIAM PUBLIC BOT (CYBERPUNK STYLE)...")
+    print("🚀 URUCHAMIAM CYBERPUNK ENGINE (FIXED LOGOS)...")
     
     data = get_espn_data()
     if not data or 'events' not in data:
@@ -70,176 +86,169 @@ def generate_html():
 
     events = data['events']
     
-    # --- NAGŁÓWEK HTML (Nowe style CSS) ---
+    # --- NAGŁÓWEK HTML ---
     html = f"""
     <!DOCTYPE html>
     <html lang="pl">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>NBA NEON HUB</title>
+        <title>PRO ANALYTICS HUB</title>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏀</text></svg>">
         <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
         <style>
             :root {{ 
-                --bg: #050505;
-                --card-dark: #0a0a0f;
+                --bg: #020205;
+                --card-dark: #0a0a12;
                 --neon-blue: #00f3ff;
-                --neon-purple: #bd00ff;
+                --neon-purple: #d400ff;
                 --neon-green: #00ff9f;
                 --text: #ffffff;
-                --win: #10b981; 
-                --loss: #ef4444; 
+                --loss: #ff2a6d; 
             }}
             
             body {{ 
                 background-color: var(--bg); 
-                background-image: radial-gradient(circle at 50% 50%, #111 0%, #000 100%);
+                /* Tło jak płyta główna */
+                background-image: 
+                    linear-gradient(rgba(0, 243, 255, 0.05) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(0, 243, 255, 0.05) 1px, transparent 1px);
+                background-size: 20px 20px;
                 color: var(--text); 
-                font-family: 'Orbitron', sans-serif; /* Główna czcionka neonowa */
+                font-family: 'Orbitron', sans-serif;
                 margin: 0; 
                 padding: 30px 20px;
             }}
             .container {{ max-width: 1200px; margin: 0 auto; }}
             
-            header {{ text-align: center; margin-bottom: 50px; }}
+            header {{ text-align: center; margin-bottom: 60px; position: relative; }}
             h1 {{ 
-                font-weight: 900; letter-spacing: 2px; margin: 0; font-size: 2.5rem; text-transform: uppercase;
-                color: var(--text);
-                text-shadow: 0 0 10px var(--neon-blue), 0 0 20px var(--neon-blue), 0 0 40px var(--neon-blue);
+                font-weight: 900; letter-spacing: 3px; margin: 0; font-size: 2.8rem; text-transform: uppercase;
+                color: var(--neon-blue);
+                text-shadow: 0 0 15px var(--neon-blue), 0 0 30px var(--neon-blue);
+                display: inline-block;
+                padding: 10px 30px;
+                border: 2px solid var(--neon-blue);
+                border-radius: 50px;
+                box-shadow: inset 0 0 20px var(--neon-blue), 0 0 20px var(--neon-blue);
             }}
-            .subtitle {{ color: #888; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; margin-top: 15px; font-family: sans-serif; }}
+            .subtitle {{ color: #888; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 2px; margin-top: 25px; font-family: sans-serif; }}
             
-            /* GRID */
             .grid {{
                 display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-                gap: 40px;
+                grid-template-columns: repeat(auto-fit, minmax(550px, 1fr));
+                gap: 50px;
             }}
             
-            /* CYBERPUNK CARD */
+            /* --- CYBERPUNK CARD DESIGN --- */
             .card {{ 
                 background: var(--card-dark);
-                border-radius: 15px;
+                border-radius: 20px;
                 position: relative;
                 overflow: hidden;
-                /* Efekt głównej ramki neonowej */
-                box-shadow: 
-                    0 0 5px rgba(0, 243, 255, 0.2),
-                    0 0 15px rgba(189, 0, 255, 0.2),
-                    inset 0 0 20px rgba(0,0,0,0.8);
-                border: 2px solid #222;
+                box-shadow: 0 0 30px rgba(0,0,0,0.5);
                 display: flex;
                 flex-direction: column;
+                border: 1px solid #1a1a2e;
             }}
 
-            /* Pasek statusu na górze */
-            .status-bar {{
-                text-align: center;
-                padding: 8px;
-                font-size: 0.7rem;
-                letter-spacing: 1px;
-                background: rgba(0,0,0,0.5);
-                color: #aaa;
-                border-bottom: 1px solid #222;
-            }}
-            .live {{ color: var(--loss); text-shadow: 0 0 10px var(--loss); }}
-
-            /* GŁÓWNA SEKCJA MECZU */
-            .neon-matchup {{
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                padding: 30px 20px;
-                position: relative;
-            }}
-
-            /* Zespoły - kontenery z kolorowym blaskiem */
-            .team-neon-box {{
-                text-align: center;
-                width: 30%;
-                padding: 15px;
-                border-radius: 10px;
-                background: rgba(255,255,255,0.03);
-            }}
-
-            /* Lewa strona - Niebieski Neon */
-            .team-left {{
-                border: 1px solid var(--neon-blue);
-                box-shadow: inset 0 0 15px rgba(0, 243, 255, 0.3);
-            }}
-            .team-left .team-name {{ color: var(--neon-blue); text-shadow: 0 0 10px var(--neon-blue); }}
-
-            /* Prawa strona - Fioletowy Neon */
-            .team-right {{
-                border: 1px solid var(--neon-purple);
-                box-shadow: inset 0 0 15px rgba(189, 0, 255, 0.3);
-            }}
-            .team-right .team-name {{ color: var(--neon-purple); text-shadow: 0 0 10px var(--neon-purple); }}
-
-            .team-name {{ 
-                font-weight: 900; font-size: 1.2rem; display: block; margin-bottom: 15px; text-transform: uppercase; 
-            }}
-            
-            .team-logo {{
-                width: 90px; height: 90px; object-fit: contain;
-                filter: drop-shadow(0 0 10px rgba(255,255,255,0.3));
-            }}
-
-            /* ŚRODEK - CYFROWY WYNIK */
-            .digital-scoreboard {{
-                font-family: 'Share Tech Mono', monospace; /* Czcionka cyfrowa */
-                background: #000;
-                padding: 15px 25px;
-                border-radius: 8px;
-                border: 2px solid #333;
-                box-shadow: inset 0 0 20px rgba(0,0,0,0.8);
-                text-align: center;
-                position: relative;
-            }}
-            /* Efekt skanowania/siatki na ekranie */
-            .digital-scoreboard::after {{
-                content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0;
-                background: repeating-linear-gradient(0deg, rgba(0,0,0,0.2) 0px, rgba(0,0,0,0.2) 2px, transparent 2px, transparent 4px);
+            /* Efekt "tłoczenia" i linii na karcie */
+            .card::before {{
+                content: ''; position: absolute; top: 0; left: 0; right: 0; height: 100%;
+                background: 
+                    linear-gradient(90deg, transparent 49%, rgba(0, 243, 255, 0.03) 50%, transparent 51%),
+                    linear-gradient(transparent 49%, rgba(212, 0, 255, 0.03) 50%, transparent 51%);
+                background-size: 30px 30px;
                 pointer-events: none;
             }}
 
-            .score-line {{ font-size: 3rem; font-weight: 400; letter-spacing: 2px; display: flex; gap: 10px; justify-content: center; }}
-            .digit {{ color: #fff; text-shadow: 0 0 15px #fff; }}
-            .digit-sep {{ color: #555; animation: blink 1s infinite; }}
-            .digit.winner {{ color: var(--neon-green); text-shadow: 0 0 20px var(--neon-green); }}
-            .digit.loser {{ color: #555; text-shadow: none; }}
-
-            /* DOLNY PANEL PROGNOZY */
-            .neon-prediction-panel {{ 
-                background: rgba(0,0,0,0.4);
-                padding: 20px; 
-                text-align: center; 
-                border-top: 2px solid #222;
-                position: relative;
-                margin-top: auto;
+            .status-bar {{
+                text-align: center; padding: 10px; font-size: 0.75rem; letter-spacing: 2px;
+                background: rgba(0,0,0,0.6); color: #aaa; border-bottom: 1px solid #222;
+                font-weight: 700;
             }}
-            /* Zielony akcent na dole */
-            .neon-prediction-panel::before {{
-                content: ''; position: absolute; bottom: 0; left: 20%; right: 20%; height: 2px;
-                background: var(--neon-green);
-                box-shadow: 0 0 20px var(--neon-green), 0 0 40px var(--neon-green);
+            .live {{ color: var(--loss); text-shadow: 0 0 15px var(--loss); }}
+
+            .neon-matchup {{
+                display: flex; justify-content: space-between; align-items: center;
+                padding: 40px 30px; position: relative;
+            }}
+
+            /* KONTENERY ZESPOŁÓW */
+            .team-neon-box {{
+                text-align: center; width: 28%; padding: 20px 15px; border-radius: 15px;
+                background: rgba(0,0,0,0.4);
+                display: flex; flex-direction: column; align-items: center;
+            }}
+
+            /* Lewa (Goście) - Niebieski */
+            .team-left {{
+                border: 2px solid var(--neon-blue);
+                box-shadow: inset 0 0 25px rgba(0, 243, 255, 0.2), 0 0 15px rgba(0, 243, 255, 0.1);
+            }}
+            .team-left .team-name {{ color: var(--neon-blue); text-shadow: 0 0 15px var(--neon-blue); }}
+
+            /* Prawa (Gospodarze) - Fioletowy */
+            .team-right {{
+                border: 2px solid var(--neon-purple);
+                box-shadow: inset 0 0 25px rgba(212, 0, 255, 0.2), 0 0 15px rgba(212, 0, 255, 0.1);
+            }}
+            .team-right .team-name {{ color: var(--neon-purple); text-shadow: 0 0 15px var(--neon-purple); }}
+
+            .team-name {{ 
+                font-weight: 900; font-size: 1.4rem; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 1px;
+            }}
+            .team-logo {{
+                width: 100px; height: 100px; object-fit: contain;
+                filter: drop-shadow(0 0 15px rgba(255,255,255,0.2));
+            }}
+
+            /* ŚRODEK - WYNIK */
+            .scoreboard-container {{
+                display: flex; flex-direction: column; align-items: center; justify-content: center;
             }}
             
-            .pred-label {{ font-size: 0.7rem; color: #888; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 10px; }}
-            .pred-val {{ font-size: 1.3rem; font-weight: 900; color: var(--text); text-transform: uppercase; letter-spacing: 1px; text-shadow: 0 0 10px rgba(255,255,255,0.5); }}
+            .digital-scoreboard {{
+                font-family: 'Share Tech Mono', monospace;
+                background: #000; padding: 15px 30px; border-radius: 10px;
+                border: 3px solid #333;
+                box-shadow: inset 0 0 30px rgba(0,0,0,0.9), 0 0 20px rgba(0,243,255,0.1);
+                text-align: center; position: relative;
+            }}
+            .score-line {{ font-size: 3.5rem; font-weight: 400; letter-spacing: 3px; display: flex; gap: 15px; justify-content: center; }}
+            .digit {{ color: #fff; text-shadow: 0 0 20px #fff; }}
+            .digit.winner {{ color: var(--neon-green); text-shadow: 0 0 25px var(--neon-green); }}
+            .digit.loser {{ color: #666; text-shadow: none; opacity: 0.7; }}
+            
+            .vs-neon {{
+                font-size: 1.8rem; font-weight: 900; color: #fff; margin-top: 20px;
+                text-shadow: 0 0 10px #fff, 0 0 20px var(--neon-blue), 0 0 30px var(--neon-purple);
+            }}
+
+            /* DOLNY PANEL */
+            .neon-prediction-panel {{ 
+                background: rgba(0,0,0,0.5); padding: 25px; text-align: center; 
+                border-top: 2px solid #222; position: relative; margin-top: auto;
+            }}
+            .neon-prediction-panel::before {{
+                content: ''; position: absolute; bottom: 0; left: 30%; right: 30%; height: 3px;
+                background: var(--neon-green);
+                box-shadow: 0 0 25px var(--neon-green), 0 0 50px var(--neon-green);
+            }}
+            
+            .pred-label {{ font-size: 0.75rem; color: #888; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 12px; }}
+            .pred-val {{ font-size: 1.5rem; font-weight: 900; color: var(--text); text-transform: uppercase; letter-spacing: 1px; text-shadow: 0 0 15px rgba(255,255,255,0.4); }}
             
             .result-badge {{
-                display: inline-block; padding: 6px 16px; border-radius: 4px;
-                font-size: 0.8rem; font-weight: 800; margin-top: 12px; text-transform: uppercase; letter-spacing: 1px;
-                box-shadow: 0 0 15px currentColor;
+                display: inline-block; padding: 8px 20px; border-radius: 50px;
+                font-size: 0.9rem; font-weight: 800; margin-top: 15px; text-transform: uppercase; letter-spacing: 1px;
             }}
-            .res-win {{ color: var(--bg); background: var(--neon-green); }}
-            .res-loss {{ color: var(--bg); background: var(--loss); }}
+            .res-win {{ color: #000; background: var(--neon-green); box-shadow: 0 0 20px var(--neon-green); }}
+            .res-loss {{ color: #fff; background: var(--loss); box-shadow: 0 0 20px var(--loss); }}
             
-            .footer {{ text-align: center; color: #555; font-size: 0.75rem; margin-top: 60px; padding-bottom: 20px; font-family: sans-serif; }}
-            @keyframes blink {{ 50% {{ opacity: 0; }} }}
-            @media (max-width: 768px) {{ .grid {{ grid-template-columns: 1fr; }} .neon-matchup {{ flex-direction: column; gap: 20px; }} .team-neon-box {{ width: 80%; }} .score-line {{ font-size: 2.5rem; }} }}
+            .footer {{ text-align: center; color: #555; font-size: 0.75rem; margin-top: 80px; padding-bottom: 30px; font-family: sans-serif; letter-spacing: 1px; }}
+            
+            @media (max-width: 768px) {{ .grid {{ grid-template-columns: 1fr; }} .neon-matchup {{ flex-direction: column; gap: 30px; }} .team-neon-box {{ width: 80%; }} .score-line {{ font-size: 3rem; }} }}
         </style>
     </head>
     <body>
@@ -264,22 +273,21 @@ def generate_html():
             home_team = next(t for t in competitors if t['homeAway'] == 'home')
             away_team = next(t for t in competitors if t['homeAway'] == 'away')
             
-            # Nazwy dla wyświetlacza (krótkie, np. LAL)
+            # Nazwy
             h_abbr = home_team['team']['abbreviation']
             a_abbr = away_team['team']['abbreviation']
-            # Pełne nazwy dla prognozy
             h_full_name = home_team['team']['shortDisplayName']
             a_full_name = away_team['team']['shortDisplayName']
 
-            # Loga
-            h_logo_url = NBA_LOGOS.get(h_abbr, 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg')
-            a_logo_url = NBA_LOGOS.get(a_abbr, 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg')
+            # LOGA - Nowa logika pobierania
+            h_logo_url = get_team_logo(home_team['team'])
+            a_logo_url = get_team_logo(away_team['team'])
             
-            # Rekordy do modelu
+            # Rekordy
             h_record_str = next((s['summary'] for s in home_team.get('records', []) if s['type'] == 'total'), "0-0")
             a_record_str = next((s['summary'] for s in away_team.get('records', []) if s['type'] == 'total'), "0-0")
             
-            # Wyniki (stringi do wyświetlacza)
+            # Wyniki
             h_score_str = home_team.get('score', '0')
             a_score_str = away_team.get('score', '0')
             
@@ -305,10 +313,13 @@ def generate_html():
             h_digit_class = "digit"
             
             scoreboard_content = ""
+            vs_element = ""
 
             if state == 'pre':
-                 scoreboard_content = f'<span class="digit">---</span><span class="digit-sep">:</span><span class="digit">---</span>'
+                 scoreboard_content = f'<span class="digit">---</span><span style="color:#555">:</span><span class="digit">---</span>'
+                 vs_element = '<div class="vs-neon">VS</div>'
             else:
+                vs_element = '<div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>'
                 if is_final:
                     if int(h_score_str) > int(a_score_str):
                         actual_winner_abbr = h_abbr
@@ -321,7 +332,7 @@ def generate_html():
                 
                 scoreboard_content = f"""
                     <span class="{a_digit_class}">{a_score_str}</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="{h_digit_class}">{h_score_str}</span>
                 """
 
@@ -339,7 +350,7 @@ def generate_html():
                 else:
                     result_badge = '<div class="result-badge res-loss">PUDŁO ❌</div>'
 
-            # KARTA (CYBERPUNK LAYOUT)
+            # KARTA (ULTIMATE CYBERPUNK LAYOUT)
             html += f"""
             <div class="card">
                 <div class="status-bar {status_class}">{status_text}</div>
@@ -350,10 +361,13 @@ def generate_html():
                         <img src="{a_logo_url}" class="team-logo" alt="{a_abbr}">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            {scoreboard_content}
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                {scoreboard_content}
+                            </div>
                         </div>
+                        {vs_element}
                     </div>
                     
                     <div class="team-neon-box team-right">
@@ -371,16 +385,20 @@ def generate_html():
             """
             count += 1
         except Exception as e:
-            # print(f"Błąd: {e}")
             continue
 
     if count == 0:
-        html += "<p style='text-align:center; color:#888;'>Brak meczów w harmonogramie ESPN.</p>"
+        html += """
+        <div style="grid-column: 1/-1; text-align:center; padding: 50px; background: rgba(0,0,0,0.5); border-radius: 20px; border: 1px solid #333;">
+            <h2 style="color: #888; text-transform: uppercase; letter-spacing: 2px;">System Standby</h2>
+            <p style="color: #666;">Brak zaplanowanych meczów w strumieniu danych ESPN.</p>
+        </div>
+        """
 
     html += f"""
             </div>
             <div class="footer">
-                SYSTEM STATUS: ONLINE | LAST UPDATE: {datetime.now().strftime("%Y-%m-%d %H:%M")} | SOURCE: ESPN API
+                SYSTEM STATUS: ONLINE | LAST SCAN: {datetime.now().strftime("%Y-%m-%d %H:%M")} | SOURCE: ESPN API
             </div>
         </div>
     </body>
@@ -389,7 +407,7 @@ def generate_html():
     
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
-    print("✅ Strona wygenerowana (CYBERPUNK NEON STYLE).")
+    print("✅ Strona wygenerowana (ULTIMATE NEON FIX).")
 
 if __name__ == "__main__":
     generate_html()
