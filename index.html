@@ -4,169 +4,162 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>NBA NEON HUB</title>
+        <title>PRO ANALYTICS HUB</title>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏀</text></svg>">
         <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
         <style>
             :root { 
-                --bg: #050505;
-                --card-dark: #0a0a0f;
+                --bg: #020205;
+                --card-dark: #0a0a12;
                 --neon-blue: #00f3ff;
-                --neon-purple: #bd00ff;
+                --neon-purple: #d400ff;
                 --neon-green: #00ff9f;
                 --text: #ffffff;
-                --win: #10b981; 
-                --loss: #ef4444; 
+                --loss: #ff2a6d; 
             }
             
             body { 
                 background-color: var(--bg); 
-                background-image: radial-gradient(circle at 50% 50%, #111 0%, #000 100%);
+                /* Tło jak płyta główna */
+                background-image: 
+                    linear-gradient(rgba(0, 243, 255, 0.05) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(0, 243, 255, 0.05) 1px, transparent 1px);
+                background-size: 20px 20px;
                 color: var(--text); 
-                font-family: 'Orbitron', sans-serif; /* Główna czcionka neonowa */
+                font-family: 'Orbitron', sans-serif;
                 margin: 0; 
                 padding: 30px 20px;
             }
             .container { max-width: 1200px; margin: 0 auto; }
             
-            header { text-align: center; margin-bottom: 50px; }
+            header { text-align: center; margin-bottom: 60px; position: relative; }
             h1 { 
-                font-weight: 900; letter-spacing: 2px; margin: 0; font-size: 2.5rem; text-transform: uppercase;
-                color: var(--text);
-                text-shadow: 0 0 10px var(--neon-blue), 0 0 20px var(--neon-blue), 0 0 40px var(--neon-blue);
+                font-weight: 900; letter-spacing: 3px; margin: 0; font-size: 2.8rem; text-transform: uppercase;
+                color: var(--neon-blue);
+                text-shadow: 0 0 15px var(--neon-blue), 0 0 30px var(--neon-blue);
+                display: inline-block;
+                padding: 10px 30px;
+                border: 2px solid var(--neon-blue);
+                border-radius: 50px;
+                box-shadow: inset 0 0 20px var(--neon-blue), 0 0 20px var(--neon-blue);
             }
-            .subtitle { color: #888; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; margin-top: 15px; font-family: sans-serif; }
+            .subtitle { color: #888; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 2px; margin-top: 25px; font-family: sans-serif; }
             
-            /* GRID */
             .grid {
                 display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-                gap: 40px;
+                grid-template-columns: repeat(auto-fit, minmax(550px, 1fr));
+                gap: 50px;
             }
             
-            /* CYBERPUNK CARD */
+            /* --- CYBERPUNK CARD DESIGN --- */
             .card { 
                 background: var(--card-dark);
-                border-radius: 15px;
+                border-radius: 20px;
                 position: relative;
                 overflow: hidden;
-                /* Efekt głównej ramki neonowej */
-                box-shadow: 
-                    0 0 5px rgba(0, 243, 255, 0.2),
-                    0 0 15px rgba(189, 0, 255, 0.2),
-                    inset 0 0 20px rgba(0,0,0,0.8);
-                border: 2px solid #222;
+                box-shadow: 0 0 30px rgba(0,0,0,0.5);
                 display: flex;
                 flex-direction: column;
+                border: 1px solid #1a1a2e;
             }
 
-            /* Pasek statusu na górze */
-            .status-bar {
-                text-align: center;
-                padding: 8px;
-                font-size: 0.7rem;
-                letter-spacing: 1px;
-                background: rgba(0,0,0,0.5);
-                color: #aaa;
-                border-bottom: 1px solid #222;
-            }
-            .live { color: var(--loss); text-shadow: 0 0 10px var(--loss); }
-
-            /* GŁÓWNA SEKCJA MECZU */
-            .neon-matchup {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                padding: 30px 20px;
-                position: relative;
-            }
-
-            /* Zespoły - kontenery z kolorowym blaskiem */
-            .team-neon-box {
-                text-align: center;
-                width: 30%;
-                padding: 15px;
-                border-radius: 10px;
-                background: rgba(255,255,255,0.03);
-            }
-
-            /* Lewa strona - Niebieski Neon */
-            .team-left {
-                border: 1px solid var(--neon-blue);
-                box-shadow: inset 0 0 15px rgba(0, 243, 255, 0.3);
-            }
-            .team-left .team-name { color: var(--neon-blue); text-shadow: 0 0 10px var(--neon-blue); }
-
-            /* Prawa strona - Fioletowy Neon */
-            .team-right {
-                border: 1px solid var(--neon-purple);
-                box-shadow: inset 0 0 15px rgba(189, 0, 255, 0.3);
-            }
-            .team-right .team-name { color: var(--neon-purple); text-shadow: 0 0 10px var(--neon-purple); }
-
-            .team-name { 
-                font-weight: 900; font-size: 1.2rem; display: block; margin-bottom: 15px; text-transform: uppercase; 
-            }
-            
-            .team-logo {
-                width: 90px; height: 90px; object-fit: contain;
-                filter: drop-shadow(0 0 10px rgba(255,255,255,0.3));
-            }
-
-            /* ŚRODEK - CYFROWY WYNIK */
-            .digital-scoreboard {
-                font-family: 'Share Tech Mono', monospace; /* Czcionka cyfrowa */
-                background: #000;
-                padding: 15px 25px;
-                border-radius: 8px;
-                border: 2px solid #333;
-                box-shadow: inset 0 0 20px rgba(0,0,0,0.8);
-                text-align: center;
-                position: relative;
-            }
-            /* Efekt skanowania/siatki na ekranie */
-            .digital-scoreboard::after {
-                content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0;
-                background: repeating-linear-gradient(0deg, rgba(0,0,0,0.2) 0px, rgba(0,0,0,0.2) 2px, transparent 2px, transparent 4px);
+            /* Efekt "tłoczenia" i linii na karcie */
+            .card::before {
+                content: ''; position: absolute; top: 0; left: 0; right: 0; height: 100%;
+                background: 
+                    linear-gradient(90deg, transparent 49%, rgba(0, 243, 255, 0.03) 50%, transparent 51%),
+                    linear-gradient(transparent 49%, rgba(212, 0, 255, 0.03) 50%, transparent 51%);
+                background-size: 30px 30px;
                 pointer-events: none;
             }
 
-            .score-line { font-size: 3rem; font-weight: 400; letter-spacing: 2px; display: flex; gap: 10px; justify-content: center; }
-            .digit { color: #fff; text-shadow: 0 0 15px #fff; }
-            .digit-sep { color: #555; animation: blink 1s infinite; }
-            .digit.winner { color: var(--neon-green); text-shadow: 0 0 20px var(--neon-green); }
-            .digit.loser { color: #555; text-shadow: none; }
-
-            /* DOLNY PANEL PROGNOZY */
-            .neon-prediction-panel { 
-                background: rgba(0,0,0,0.4);
-                padding: 20px; 
-                text-align: center; 
-                border-top: 2px solid #222;
-                position: relative;
-                margin-top: auto;
+            .status-bar {
+                text-align: center; padding: 10px; font-size: 0.75rem; letter-spacing: 2px;
+                background: rgba(0,0,0,0.6); color: #aaa; border-bottom: 1px solid #222;
+                font-weight: 700;
             }
-            /* Zielony akcent na dole */
-            .neon-prediction-panel::before {
-                content: ''; position: absolute; bottom: 0; left: 20%; right: 20%; height: 2px;
-                background: var(--neon-green);
-                box-shadow: 0 0 20px var(--neon-green), 0 0 40px var(--neon-green);
+            .live { color: var(--loss); text-shadow: 0 0 15px var(--loss); }
+
+            .neon-matchup {
+                display: flex; justify-content: space-between; align-items: center;
+                padding: 40px 30px; position: relative;
+            }
+
+            /* KONTENERY ZESPOŁÓW */
+            .team-neon-box {
+                text-align: center; width: 28%; padding: 20px 15px; border-radius: 15px;
+                background: rgba(0,0,0,0.4);
+                display: flex; flex-direction: column; align-items: center;
+            }
+
+            /* Lewa (Goście) - Niebieski */
+            .team-left {
+                border: 2px solid var(--neon-blue);
+                box-shadow: inset 0 0 25px rgba(0, 243, 255, 0.2), 0 0 15px rgba(0, 243, 255, 0.1);
+            }
+            .team-left .team-name { color: var(--neon-blue); text-shadow: 0 0 15px var(--neon-blue); }
+
+            /* Prawa (Gospodarze) - Fioletowy */
+            .team-right {
+                border: 2px solid var(--neon-purple);
+                box-shadow: inset 0 0 25px rgba(212, 0, 255, 0.2), 0 0 15px rgba(212, 0, 255, 0.1);
+            }
+            .team-right .team-name { color: var(--neon-purple); text-shadow: 0 0 15px var(--neon-purple); }
+
+            .team-name { 
+                font-weight: 900; font-size: 1.4rem; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 1px;
+            }
+            .team-logo {
+                width: 100px; height: 100px; object-fit: contain;
+                filter: drop-shadow(0 0 15px rgba(255,255,255,0.2));
+            }
+
+            /* ŚRODEK - WYNIK */
+            .scoreboard-container {
+                display: flex; flex-direction: column; align-items: center; justify-content: center;
             }
             
-            .pred-label { font-size: 0.7rem; color: #888; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 10px; }
-            .pred-val { font-size: 1.3rem; font-weight: 900; color: var(--text); text-transform: uppercase; letter-spacing: 1px; text-shadow: 0 0 10px rgba(255,255,255,0.5); }
+            .digital-scoreboard {
+                font-family: 'Share Tech Mono', monospace;
+                background: #000; padding: 15px 30px; border-radius: 10px;
+                border: 3px solid #333;
+                box-shadow: inset 0 0 30px rgba(0,0,0,0.9), 0 0 20px rgba(0,243,255,0.1);
+                text-align: center; position: relative;
+            }
+            .score-line { font-size: 3.5rem; font-weight: 400; letter-spacing: 3px; display: flex; gap: 15px; justify-content: center; }
+            .digit { color: #fff; text-shadow: 0 0 20px #fff; }
+            .digit.winner { color: var(--neon-green); text-shadow: 0 0 25px var(--neon-green); }
+            .digit.loser { color: #666; text-shadow: none; opacity: 0.7; }
+            
+            .vs-neon {
+                font-size: 1.8rem; font-weight: 900; color: #fff; margin-top: 20px;
+                text-shadow: 0 0 10px #fff, 0 0 20px var(--neon-blue), 0 0 30px var(--neon-purple);
+            }
+
+            /* DOLNY PANEL */
+            .neon-prediction-panel { 
+                background: rgba(0,0,0,0.5); padding: 25px; text-align: center; 
+                border-top: 2px solid #222; position: relative; margin-top: auto;
+            }
+            .neon-prediction-panel::before {
+                content: ''; position: absolute; bottom: 0; left: 30%; right: 30%; height: 3px;
+                background: var(--neon-green);
+                box-shadow: 0 0 25px var(--neon-green), 0 0 50px var(--neon-green);
+            }
+            
+            .pred-label { font-size: 0.75rem; color: #888; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 12px; }
+            .pred-val { font-size: 1.5rem; font-weight: 900; color: var(--text); text-transform: uppercase; letter-spacing: 1px; text-shadow: 0 0 15px rgba(255,255,255,0.4); }
             
             .result-badge {
-                display: inline-block; padding: 6px 16px; border-radius: 4px;
-                font-size: 0.8rem; font-weight: 800; margin-top: 12px; text-transform: uppercase; letter-spacing: 1px;
-                box-shadow: 0 0 15px currentColor;
+                display: inline-block; padding: 8px 20px; border-radius: 50px;
+                font-size: 0.9rem; font-weight: 800; margin-top: 15px; text-transform: uppercase; letter-spacing: 1px;
             }
-            .res-win { color: var(--bg); background: var(--neon-green); }
-            .res-loss { color: var(--bg); background: var(--loss); }
+            .res-win { color: #000; background: var(--neon-green); box-shadow: 0 0 20px var(--neon-green); }
+            .res-loss { color: #fff; background: var(--loss); box-shadow: 0 0 20px var(--loss); }
             
-            .footer { text-align: center; color: #555; font-size: 0.75rem; margin-top: 60px; padding-bottom: 20px; font-family: sans-serif; }
-            @keyframes blink { 50% { opacity: 0; } }
-            @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } .neon-matchup { flex-direction: column; gap: 20px; } .team-neon-box { width: 80%; } .score-line { font-size: 2.5rem; } }
+            .footer { text-align: center; color: #555; font-size: 0.75rem; margin-top: 80px; padding-bottom: 30px; font-family: sans-serif; letter-spacing: 1px; }
+            
+            @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } .neon-matchup { flex-direction: column; gap: 30px; } .team-neon-box { width: 80%; } .score-line { font-size: 3rem; } }
         </style>
     </head>
     <body>
@@ -184,22 +177,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">MIL</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg" class="team-logo" alt="MIL">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" class="team-logo" alt="MIL">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit winner">123</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit loser">113</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">CHA</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg" class="team-logo" alt="CHA">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png" class="team-logo" alt="CHA">
                     </div>
                 </div>
                 
@@ -216,22 +212,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">PHX</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg" class="team-logo" alt="PHX">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png" class="team-logo" alt="PHX">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit winner">115</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit loser">101</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">WSH</span>
-                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="WSH">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png" class="team-logo" alt="WSH">
                     </div>
                 </div>
                 
@@ -248,22 +247,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">GS</span>
-                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="GS">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png" class="team-logo" alt="GS">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit winner">120</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit loser">107</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">BKN</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg" class="team-logo" alt="BKN">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" class="team-logo" alt="BKN">
                     </div>
                 </div>
                 
@@ -280,22 +282,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">DEN</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg" class="team-logo" alt="DEN">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png" class="team-logo" alt="DEN">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit loser">123</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit winner">147</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">MIA</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg" class="team-logo" alt="MIA">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" class="team-logo" alt="MIA">
                     </div>
                 </div>
                 
@@ -312,22 +317,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">ORL</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg" class="team-logo" alt="ORL">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png" class="team-logo" alt="ORL">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit loser">106</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit winner">107</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">TOR</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg" class="team-logo" alt="TOR">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png" class="team-logo" alt="TOR">
                     </div>
                 </div>
                 
@@ -344,22 +352,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">MIN</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg" class="team-logo" alt="MIN">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png" class="team-logo" alt="MIN">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit winner">136</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit loser">101</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">CHI</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg" class="team-logo" alt="CHI">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png" class="team-logo" alt="CHI">
                     </div>
                 </div>
                 
@@ -376,22 +387,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">IND</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg" class="team-logo" alt="IND">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" class="team-logo" alt="IND">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit loser">119</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit winner">126</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">HOU</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg" class="team-logo" alt="HOU">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png" class="team-logo" alt="HOU">
                     </div>
                 </div>
                 
@@ -408,22 +422,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">NY</span>
-                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="NY">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png" class="team-logo" alt="NY">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit winner">130</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit loser">125</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">NO</span>
-                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="NO">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png" class="team-logo" alt="NO">
                     </div>
                 </div>
                 
@@ -440,22 +457,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">ATL</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg" class="team-logo" alt="ATL">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png" class="team-logo" alt="ATL">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit loser">129</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit winner">140</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">OKC</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg" class="team-logo" alt="OKC">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png" class="team-logo" alt="OKC">
                     </div>
                 </div>
                 
@@ -472,22 +492,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">CLE</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg" class="team-logo" alt="CLE">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png" class="team-logo" alt="CLE">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit winner">113</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit loser">101</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">SA</span>
-                        <img src="https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg" class="team-logo" alt="SA">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png" class="team-logo" alt="SA">
                     </div>
                 </div>
                 
@@ -504,22 +527,25 @@
                 <div class="neon-matchup">
                     <div class="team-neon-box team-left">
                         <span class="team-name">DAL</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg" class="team-logo" alt="DAL">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png" class="team-logo" alt="DAL">
                     </div>
                     
-                    <div class="digital-scoreboard">
-                        <div class="score-line">
-                            
+                    <div class="scoreboard-container">
+                        <div class="digital-scoreboard">
+                            <div class="score-line">
+                                
                     <span class="digit loser">122</span>
-                    <span class="digit-sep">:</span>
+                    <span style="color:#555">:</span>
                     <span class="digit winner">125</span>
                 
+                            </div>
                         </div>
+                        <div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>
                     </div>
                     
                     <div class="team-neon-box team-right">
                         <span class="team-name">POR</span>
-                        <img src="https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg" class="team-logo" alt="POR">
+                        <img src="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png" class="team-logo" alt="POR">
                     </div>
                 </div>
                 
@@ -532,7 +558,7 @@
             
             </div>
             <div class="footer">
-                SYSTEM STATUS: ONLINE | LAST UPDATE: 2025-12-30 14:11 | SOURCE: ESPN API
+                SYSTEM STATUS: ONLINE | LAST SCAN: 2025-12-30 14:17 | SOURCE: ESPN API
             </div>
         </div>
     </body>
