@@ -4,10 +4,11 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>NBA MEDIA PICKS</title>
+        <title>NBA PUBLIC HUB</title>
+        <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏀</text></svg>">
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
         <style>
-            :root { --bg: #09090b; --card: #18181b; --accent: #3b82f6; --text: #fff; --win: #22c55e; --loss: #ef4444; }
+            :root { --bg: #09090b; --card: #18181b; --accent: #3b82f6; --text: #fff; --win: #22c55e; --loss: #ef4444; --border: #27272a; }
             body { background-color: var(--bg); color: var(--text); font-family: 'Montserrat', sans-serif; margin: 0; padding: 20px; }
             .container { max-width: 800px; margin: 0 auto; }
             
@@ -15,28 +16,36 @@
             h1 { font-weight: 900; letter-spacing: -1px; margin: 0; color: var(--accent); }
             .subtitle { color: #71717a; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; margin-top: 10px; }
             
-            .card { background: var(--card); border: 1px solid #27272a; border-radius: 12px; margin-bottom: 20px; overflow: hidden; }
-            .card-header { background: #27272a; padding: 15px; display: flex; justify-content: space-between; align-items: center; }
-            .status { font-size: 0.7rem; font-weight: bold; color: #a1a1aa; }
+            .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; margin-bottom: 20px; overflow: hidden; display: flex; flex-direction: column; }
             
-            .matchup { display: flex; justify-content: space-between; align-items: center; padding: 20px; }
-            .team { text-align: center; width: 45%; }
-            .team-name { font-weight: 800; font-size: 1.2rem; display: block; }
-            .team-rec { font-size: 0.8rem; color: #71717a; }
-            .vs { color: #52525b; font-style: italic; font-weight: 900; }
+            .card-header { background: #27272a; padding: 10px 15px; display: flex; justify-content: space-between; align-items: center; }
+            .status { font-size: 0.7rem; font-weight: bold; color: #a1a1aa; text-transform: uppercase; }
+            .live { color: #ef4444; animation: pulse 2s infinite; }
             
-            .prediction { background: rgba(59, 130, 246, 0.1); padding: 15px; text-align: center; border-top: 1px solid #27272a; }
-            .pred-label { font-size: 0.7rem; color: var(--accent); text-transform: uppercase; font-weight: 700; }
-            .pred-val { font-size: 1.1rem; font-weight: 900; margin-top: 5px; }
+            .matchup { display: flex; justify-content: space-between; align-items: center; padding: 20px; flex-grow: 1; }
+            .team { text-align: center; width: 45%; display: flex; flex-direction: column; align-items: center; }
+            .team-name { font-weight: 800; font-size: 1.1rem; display: block; margin-bottom: 5px; }
+            .team-rec { font-size: 0.75rem; color: #71717a; }
+            .score { font-size: 1.8rem; font-weight: 900; margin-top: 5px; }
+            .score.winner { color: var(--win); }
+            .score.loser { color: #71717a; opacity: 0.6; }
+            
+            .vs { color: #52525b; font-style: italic; font-weight: 900; font-size: 0.9rem; }
+            
+            .prediction { background: rgba(59, 130, 246, 0.1); padding: 15px; text-align: center; border-top: 1px solid var(--border); }
+            .pred-label { font-size: 0.65rem; color: var(--accent); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; }
+            .pred-val { font-size: 1rem; font-weight: 900; margin-top: 5px; }
             
             .footer { text-align: center; color: #52525b; font-size: 0.7rem; margin-top: 40px; }
+            
+            @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
         </style>
     </head>
     <body>
         <div class="container">
             <header>
-                <h1>NBA PUBLIC BOT</h1>
-                <div class="subtitle">Źródło danych: ESPN API &bull; Model: Trend Follower</div>
+                <h1>NBA PUBLIC HUB</h1>
+                <div class="subtitle">Dane: ESPN API &bull; Live Scores & Predictions</div>
             </header>
     
             <div class="card">
@@ -45,19 +54,18 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Milwaukee Bucks</span>
+                        <span class="team-name">Bucks</span>
                         <span class="team-rec">14-19</span>
+                        <div class="score winner">123</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">Charlotte Hornets</span>
+                        <span class="team-name">Hornets</span>
                         <span class="team-rec">11-21</span>
+                        <div class="score loser">113</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">Milwaukee Bucks (Lepszy Bilans)</div>
-                </div>
+                
             </div>
             
             <div class="card">
@@ -66,19 +74,18 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Phoenix Suns</span>
+                        <span class="team-name">Suns</span>
                         <span class="team-rec">19-13</span>
+                        <div class="score winner">115</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">Washington Wizards</span>
+                        <span class="team-name">Wizards</span>
                         <span class="team-rec">7-24</span>
+                        <div class="score loser">101</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">Phoenix Suns (Lepszy Bilans)</div>
-                </div>
+                
             </div>
             
             <div class="card">
@@ -87,19 +94,18 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Golden State Warriors</span>
+                        <span class="team-name">Warriors</span>
                         <span class="team-rec">17-16</span>
+                        <div class="score winner">120</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">Brooklyn Nets</span>
+                        <span class="team-name">Nets</span>
                         <span class="team-rec">10-20</span>
+                        <div class="score loser">107</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">Golden State Warriors (Lepszy Bilans)</div>
-                </div>
+                
             </div>
             
             <div class="card">
@@ -108,19 +114,18 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Denver Nuggets</span>
+                        <span class="team-name">Nuggets</span>
                         <span class="team-rec">22-10</span>
+                        <div class="score loser">123</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">Miami Heat</span>
+                        <span class="team-name">Heat</span>
                         <span class="team-rec">18-15</span>
+                        <div class="score winner">147</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">Denver Nuggets (Lepszy Bilans)</div>
-                </div>
+                
             </div>
             
             <div class="card">
@@ -129,19 +134,18 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Orlando Magic</span>
+                        <span class="team-name">Magic</span>
                         <span class="team-rec">18-15</span>
+                        <div class="score loser">106</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">Toronto Raptors</span>
+                        <span class="team-name">Raptors</span>
                         <span class="team-rec">20-14</span>
+                        <div class="score winner">107</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">Toronto Raptors (Bilans + Home Court)</div>
-                </div>
+                
             </div>
             
             <div class="card">
@@ -150,19 +154,18 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Minnesota Timberwolves</span>
+                        <span class="team-name">Timberwolves</span>
                         <span class="team-rec">21-12</span>
+                        <div class="score winner">136</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">Chicago Bulls</span>
+                        <span class="team-name">Bulls</span>
                         <span class="team-rec">15-17</span>
+                        <div class="score loser">101</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">Minnesota Timberwolves (Lepszy Bilans)</div>
-                </div>
+                
             </div>
             
             <div class="card">
@@ -171,19 +174,18 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Indiana Pacers</span>
+                        <span class="team-name">Pacers</span>
                         <span class="team-rec">6-27</span>
+                        <div class="score loser">119</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">Houston Rockets</span>
+                        <span class="team-name">Rockets</span>
                         <span class="team-rec">20-10</span>
+                        <div class="score winner">126</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">Houston Rockets (Bilans + Home Court)</div>
-                </div>
+                
             </div>
             
             <div class="card">
@@ -192,19 +194,18 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">New York Knicks</span>
+                        <span class="team-name">Knicks</span>
                         <span class="team-rec">23-9</span>
+                        <div class="score winner">130</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">New Orleans Pelicans</span>
+                        <span class="team-name">Pelicans</span>
                         <span class="team-rec">8-26</span>
+                        <div class="score loser">125</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">New York Knicks (Lepszy Bilans)</div>
-                </div>
+                
             </div>
             
             <div class="card">
@@ -213,19 +214,18 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Atlanta Hawks</span>
+                        <span class="team-name">Hawks</span>
                         <span class="team-rec">15-19</span>
+                        <div class="score loser">129</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">Oklahoma City Thunder</span>
+                        <span class="team-name">Thunder</span>
                         <span class="team-rec">28-5</span>
+                        <div class="score winner">140</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">Oklahoma City Thunder (Bilans + Home Court)</div>
-                </div>
+                
             </div>
             
             <div class="card">
@@ -234,19 +234,18 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Cleveland Cavaliers</span>
+                        <span class="team-name">Cavaliers</span>
                         <span class="team-rec">18-16</span>
+                        <div class="score winner">113</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">San Antonio Spurs</span>
+                        <span class="team-name">Spurs</span>
                         <span class="team-rec">23-9</span>
+                        <div class="score loser">101</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">San Antonio Spurs (Bilans + Home Court)</div>
-                </div>
+                
             </div>
             
             <div class="card">
@@ -255,23 +254,22 @@
                 </div>
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Dallas Mavericks</span>
+                        <span class="team-name">Mavericks</span>
                         <span class="team-rec">12-22</span>
+                        <div class="score loser">122</div>
                     </div>
                     <div class="vs">@</div>
                     <div class="team">
-                        <span class="team-name">Portland Trail Blazers</span>
+                        <span class="team-name">Trail Blazers</span>
                         <span class="team-rec">14-19</span>
+                        <div class="score winner">125</div>
                     </div>
                 </div>
-                <div class="prediction">
-                    <div class="pred-label">WSKAZANIE MODELU PUBLICZNEGO</div>
-                    <div class="pred-val">Portland Trail Blazers (Bilans + Home Court)</div>
-                </div>
+                
             </div>
             
             <div class="footer">
-                Automatyczna aktualizacja: 2025-12-30 13:15
+                Automatyczna aktualizacja: 2025-12-30 13:32
             </div>
         </div>
     </body>
