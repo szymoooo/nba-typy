@@ -4,11 +4,11 @@ from datetime import datetime
 import os
 
 # ==========================================
-# ⚙️ KONFIGURACJA (ULTRA-NEON PLASMA EDITION)
+# ⚙️ KONFIGURACJA (ULTIMATE NEON CYBERPUNK)
 # ==========================================
 ESPN_API = "http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 
-# Zapasowy słownik logo
+# Zapasowy słownik logo (używany tylko gdy ESPN nie poda swojego)
 NBA_LOGOS_FALLBACK = {
     'ATL': 'https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg',
     'BOS': 'https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg',
@@ -40,6 +40,9 @@ NBA_LOGOS_FALLBACK = {
     'WAS': 'https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg',
     'DET': 'https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg',
     'CHA': 'https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg',
+    'NOP': 'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg', # Dodatkowe dla New Orleans
+    'NO': 'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg',
+    'UTAH': 'https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg', # Dodatkowe dla Utah
 }
 DEFAULT_LOGO = 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg'
 
@@ -61,14 +64,20 @@ def parse_record(record_str):
     except:
         return 0.0
 
+# Funkcja pomocnicza do pobierania logo
 def get_team_logo(team_data):
-    if 'logo' in team_data: return team_data['logo']
+    # 1. Próba pobrania z danych ESPN
+    if 'logo' in team_data:
+        return team_data['logo']
+    # 2. Próba pobrania ze słownika fallback na podstawie skrótu
     abbr = team_data.get('abbreviation')
-    if abbr in NBA_LOGOS_FALLBACK: return NBA_LOGOS_FALLBACK[abbr]
+    if abbr in NBA_LOGOS_FALLBACK:
+        return NBA_LOGOS_FALLBACK[abbr]
+    # 3. Ostateczność
     return DEFAULT_LOGO
 
 def generate_html():
-    print("🚀 URUCHAMIAM ULTRA-NEON ENGINE...")
+    print("🚀 URUCHAMIAM CYBERPUNK ENGINE (FIXED LOGOS)...")
     
     data = get_espn_data()
     if not data or 'events' not in data:
@@ -77,7 +86,7 @@ def generate_html():
 
     events = data['events']
     
-    # --- NAGŁÓWEK HTML (ULTRA NEON CSS) ---
+    # --- NAGŁÓWEK HTML ---
     html = f"""
     <!DOCTYPE html>
     <html lang="pl">
@@ -89,153 +98,157 @@ def generate_html():
         <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
         <style>
             :root {{ 
-                --bg: #010103;
-                --card-dark: #07070a;
-                /* Ultra nasycone kolory */
-                --neon-cyan: #00ffff;
-                --neon-magenta: #ff00ff;
-                --neon-gold: #ffcc00;
-                --neon-green: #39ff14;
+                --bg: #020205;
+                --card-dark: #0a0a12;
+                --neon-blue: #00f3ff;
+                --neon-purple: #d400ff;
+                --neon-green: #00ff9f;
                 --text: #ffffff;
-                --loss: #ff0055; 
+                --loss: #ff2a6d; 
             }}
             
             body {{ 
                 background-color: var(--bg); 
-                /* Tło circuit board */
-                background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10 10h80v80h-80z' fill='none' stroke='%23111' stroke-width='1'/%3E%3Cpath d='M30 10v20h-20' fill='none' stroke='%23222' stroke-width='2'/%3E%3Cpath d='M70 10v30h20' fill='none' stroke='%23222' stroke-width='2'/%3E%3Cpath d='M10 70h30v20' fill='none' stroke='%23222' stroke-width='2'/%3E%3Ccircle cx='30' cy='30' r='3' fill='%231a1a1a'/%3E%3Ccircle cx='70' cy='40' r='3' fill='%231a1a1a'/%3E%3C/svg%3E");
+                /* Tło jak płyta główna */
+                background-image: 
+                    linear-gradient(rgba(0, 243, 255, 0.05) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(0, 243, 255, 0.05) 1px, transparent 1px);
+                background-size: 20px 20px;
                 color: var(--text); 
                 font-family: 'Orbitron', sans-serif;
                 margin: 0; 
-                padding: 40px 20px;
+                padding: 30px 20px;
             }}
             .container {{ max-width: 1200px; margin: 0 auto; }}
             
-            /* Animacja pulsowania prądu */
-            @keyframes electricity-pulse {{
-                0% {{ box-shadow: inset 0 0 10px var(--neon-color), 0 0 10px var(--neon-color); opacity: 0.8; }}
-                100% {{ box-shadow: inset 0 0 25px var(--neon-color), 0 0 30px var(--neon-color), 0 0 50px var(--neon-color); opacity: 1; }}
-            }}
-
-            header {{ text-align: center; margin-bottom: 70px; position: relative; }}
+            header {{ text-align: center; margin-bottom: 60px; position: relative; }}
             h1 {{ 
-                font-weight: 900; letter-spacing: 4px; margin: 0; font-size: 3rem; text-transform: uppercase;
-                color: #fff;
-                /* Efekt złotego neonu na górze */
-                text-shadow: 
-                    0 0 5px #fff,
-                    0 0 10px var(--neon-gold),
-                    0 0 30px var(--neon-gold),
-                    0 0 50px var(--neon-gold);
-                border: 3px solid #fff;
-                padding: 15px 40px;
-                border-radius: 10px;
-                box-shadow: 
-                    inset 0 0 20px var(--neon-gold),
-                    0 0 20px var(--neon-gold);
+                font-weight: 900; letter-spacing: 3px; margin: 0; font-size: 2.8rem; text-transform: uppercase;
+                color: var(--neon-blue);
+                text-shadow: 0 0 15px var(--neon-blue), 0 0 30px var(--neon-blue);
+                display: inline-block;
+                padding: 10px 30px;
+                border: 2px solid var(--neon-blue);
+                border-radius: 50px;
+                box-shadow: inset 0 0 20px var(--neon-blue), 0 0 20px var(--neon-blue);
             }}
-            .subtitle {{ color: #aaa; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 2px; margin-top: 30px; }}
+            .subtitle {{ color: #888; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 2px; margin-top: 25px; font-family: sans-serif; }}
             
             .grid {{
-                display: grid; grid-template-columns: repeat(auto-fit, minmax(550px, 1fr)); gap: 60px;
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(550px, 1fr));
+                gap: 50px;
             }}
             
-            /* === KARTA GŁÓWNA === */
+            /* --- CYBERPUNK CARD DESIGN --- */
             .card {{ 
-                background: var(--card-dark); border-radius: 25px; position: relative; overflow: hidden;
-                border: 2px solid #222;
-                box-shadow: 0 0 50px rgba(0,0,0,0.8);
+                background: var(--card-dark);
+                border-radius: 20px;
+                position: relative;
+                overflow: hidden;
+                box-shadow: 0 0 30px rgba(0,0,0,0.5);
+                display: flex;
+                flex-direction: column;
+                border: 1px solid #1a1a2e;
             }}
-            /* Subtelne linie tła na karcie */
-            .card::after {{
-                content: ''; position: absolute; inset: 0;
-                background: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
-                background-size: 20px 20px; pointer-events: none; z-index: 0;
+
+            /* Efekt "tłoczenia" i linii na karcie */
+            .card::before {{
+                content: ''; position: absolute; top: 0; left: 0; right: 0; height: 100%;
+                background: 
+                    linear-gradient(90deg, transparent 49%, rgba(0, 243, 255, 0.03) 50%, transparent 51%),
+                    linear-gradient(transparent 49%, rgba(212, 0, 255, 0.03) 50%, transparent 51%);
+                background-size: 30px 30px;
+                pointer-events: none;
             }}
 
             .status-bar {{
-                text-align: center; padding: 12px; font-size: 0.8rem; letter-spacing: 2px; z-index: 2; position: relative;
-                background: rgba(0,0,0,0.8); color: #888; border-bottom: 2px solid #222; font-weight: 700;
+                text-align: center; padding: 10px; font-size: 0.75rem; letter-spacing: 2px;
+                background: rgba(0,0,0,0.6); color: #aaa; border-bottom: 1px solid #222;
+                font-weight: 700;
             }}
-            .live {{ color: var(--loss); text-shadow: 0 0 20px var(--loss); }}
+            .live {{ color: var(--loss); text-shadow: 0 0 15px var(--loss); }}
 
             .neon-matchup {{
                 display: flex; justify-content: space-between; align-items: center;
-                padding: 50px 30px; position: relative; z-index: 2;
+                padding: 40px 30px; position: relative;
             }}
 
-            /* === KONTENERY ZESPOŁÓW (RURY Z PRĄDEM) === */
+            /* KONTENERY ZESPOŁÓW */
             .team-neon-box {{
-                text-align: center; width: 28%; padding: 25px 15px; border-radius: 20px;
-                background: rgba(0,0,0,0.6);
+                text-align: center; width: 28%; padding: 20px 15px; border-radius: 15px;
+                background: rgba(0,0,0,0.4);
                 display: flex; flex-direction: column; align-items: center;
-                /* Imitacja szklanej rury */
-                border: 3px solid rgba(255,255,255,0.8); 
-                animation: electricity-pulse 2s infinite alternate ease-in-out;
             }}
 
-            /* Lewa (Goście) - Cyjan */
-            .team-left {{ --neon-color: var(--neon-cyan); }}
-            .team-left .team-name {{ color: var(--neon-cyan); text-shadow: 0 0 20px var(--neon-cyan); }}
+            /* Lewa (Goście) - Niebieski */
+            .team-left {{
+                border: 2px solid var(--neon-blue);
+                box-shadow: inset 0 0 25px rgba(0, 243, 255, 0.2), 0 0 15px rgba(0, 243, 255, 0.1);
+            }}
+            .team-left .team-name {{ color: var(--neon-blue); text-shadow: 0 0 15px var(--neon-blue); }}
 
-            /* Prawa (Gospodarze) - Magenta */
-            .team-right {{ --neon-color: var(--neon-magenta); }}
-            .team-right .team-name {{ color: var(--neon-magenta); text-shadow: 0 0 20px var(--neon-magenta); }}
+            /* Prawa (Gospodarze) - Fioletowy */
+            .team-right {{
+                border: 2px solid var(--neon-purple);
+                box-shadow: inset 0 0 25px rgba(212, 0, 255, 0.2), 0 0 15px rgba(212, 0, 255, 0.1);
+            }}
+            .team-right .team-name {{ color: var(--neon-purple); text-shadow: 0 0 15px var(--neon-purple); }}
 
             .team-name {{ 
-                font-weight: 900; font-size: 1.6rem; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 1px;
+                font-weight: 900; font-size: 1.4rem; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 1px;
             }}
-            /* Loga świecące */
             .team-logo {{
-                width: 110px; height: 110px; object-fit: contain;
-                filter: drop-shadow(0 0 20px var(--neon-color));
+                width: 100px; height: 100px; object-fit: contain;
+                filter: drop-shadow(0 0 15px rgba(255,255,255,0.2));
             }}
 
-            /* === ŚRODEK - WYNIK === */
-            .scoreboard-container {{ display: flex; flex-direction: column; align-items: center; }}
+            /* ŚRODEK - WYNIK */
+            .scoreboard-container {{
+                display: flex; flex-direction: column; align-items: center; justify-content: center;
+            }}
             
             .digital-scoreboard {{
                 font-family: 'Share Tech Mono', monospace;
-                background: #000; padding: 20px 35px; border-radius: 15px;
-                border: 4px solid #fff;
-                /* Efekt niebieskiego ekranu */
-                box-shadow: inset 0 0 40px var(--neon-cyan), 0 0 30px var(--neon-cyan);
+                background: #000; padding: 15px 30px; border-radius: 10px;
+                border: 3px solid #333;
+                box-shadow: inset 0 0 30px rgba(0,0,0,0.9), 0 0 20px rgba(0,243,255,0.1);
                 text-align: center; position: relative;
             }}
-            .score-line {{ font-size: 4rem; font-weight: 400; letter-spacing: 4px; display: flex; gap: 15px; justify-content: center; }}
-            .digit {{ color: #fff; text-shadow: 0 0 25px #fff; }}
-            .digit.winner {{ color: var(--neon-green); text-shadow: 0 0 40px var(--neon-green); }}
-            .digit.loser {{ color: #444; text-shadow: none; opacity: 0.6; }}
+            .score-line {{ font-size: 3.5rem; font-weight: 400; letter-spacing: 3px; display: flex; gap: 15px; justify-content: center; }}
+            .digit {{ color: #fff; text-shadow: 0 0 20px #fff; }}
+            .digit.winner {{ color: var(--neon-green); text-shadow: 0 0 25px var(--neon-green); }}
+            .digit.loser {{ color: #666; text-shadow: none; opacity: 0.7; }}
             
             .vs-neon {{
-                font-size: 2rem; font-weight: 900; color: #fff; margin-top: 25px;
-                text-shadow: 0 0 10px #fff, 0 0 30px var(--neon-cyan), 0 0 50px var(--neon-magenta);
+                font-size: 1.8rem; font-weight: 900; color: #fff; margin-top: 20px;
+                text-shadow: 0 0 10px #fff, 0 0 20px var(--neon-blue), 0 0 30px var(--neon-purple);
             }}
 
-            /* === DOLNY PANEL (ZŁOTY AKCENT) === */
+            /* DOLNY PANEL */
             .neon-prediction-panel {{ 
-                background: rgba(0,0,0,0.7); padding: 30px; text-align: center; 
-                border-top: 3px solid #fff; position: relative; margin-top: auto; z-index: 2;
-                box-shadow: inset 0 0 30px var(--neon-gold);
+                background: rgba(0,0,0,0.5); padding: 25px; text-align: center; 
+                border-top: 2px solid #222; position: relative; margin-top: auto;
+            }}
+            .neon-prediction-panel::before {{
+                content: ''; position: absolute; bottom: 0; left: 30%; right: 30%; height: 3px;
+                background: var(--neon-green);
+                box-shadow: 0 0 25px var(--neon-green), 0 0 50px var(--neon-green);
             }}
             
-            .pred-label {{ font-size: 0.8rem; color: #aaa; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 15px; }}
-            .pred-val {{ 
-                font-size: 1.8rem; font-weight: 900; color: #fff; text-transform: uppercase; letter-spacing: 2px; 
-                text-shadow: 0 0 20px var(--neon-gold), 0 0 40px var(--neon-gold);
-            }}
+            .pred-label {{ font-size: 0.75rem; color: #888; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 12px; }}
+            .pred-val {{ font-size: 1.5rem; font-weight: 900; color: var(--text); text-transform: uppercase; letter-spacing: 1px; text-shadow: 0 0 15px rgba(255,255,255,0.4); }}
             
             .result-badge {{
-                display: inline-block; padding: 10px 25px; border-radius: 50px;
-                font-size: 1rem; font-weight: 800; margin-top: 20px; text-transform: uppercase; letter-spacing: 1px;
-                color: #000; border: 2px solid #fff;
+                display: inline-block; padding: 8px 20px; border-radius: 50px;
+                font-size: 0.9rem; font-weight: 800; margin-top: 15px; text-transform: uppercase; letter-spacing: 1px;
             }}
-            .res-win {{ background: var(--neon-green); box-shadow: 0 0 30px var(--neon-green); }}
-            .res-loss {{ background: var(--loss); color: #fff; box-shadow: 0 0 30px var(--loss); }}
+            .res-win {{ color: #000; background: var(--neon-green); box-shadow: 0 0 20px var(--neon-green); }}
+            .res-loss {{ color: #fff; background: var(--loss); box-shadow: 0 0 20px var(--loss); }}
             
-            .footer {{ text-align: center; color: #666; font-size: 0.8rem; margin-top: 80px; padding-bottom: 40px; letter-spacing: 1px; }}
+            .footer {{ text-align: center; color: #555; font-size: 0.75rem; margin-top: 80px; padding-bottom: 30px; font-family: sans-serif; letter-spacing: 1px; }}
             
-            @media (max-width: 768px) {{ .grid {{ grid-template-columns: 1fr; }} .neon-matchup {{ flex-direction: column; gap: 40px; }} .team-neon-box {{ width: 90%; }} .score-line {{ font-size: 3.5rem; }} }}
+            @media (max-width: 768px) {{ .grid {{ grid-template-columns: 1fr; }} .neon-matchup {{ flex-direction: column; gap: 30px; }} .team-neon-box {{ width: 80%; }} .score-line {{ font-size: 3rem; }} }}
         </style>
     </head>
     <body>
@@ -260,12 +273,13 @@ def generate_html():
             home_team = next(t for t in competitors if t['homeAway'] == 'home')
             away_team = next(t for t in competitors if t['homeAway'] == 'away')
             
+            # Nazwy
             h_abbr = home_team['team']['abbreviation']
             a_abbr = away_team['team']['abbreviation']
             h_full_name = home_team['team']['shortDisplayName']
             a_full_name = away_team['team']['shortDisplayName']
 
-            # Loga
+            # LOGA - Nowa logika pobierania
             h_logo_url = get_team_logo(home_team['team'])
             a_logo_url = get_team_logo(away_team['team'])
             
@@ -305,7 +319,7 @@ def generate_html():
                  scoreboard_content = f'<span class="digit">---</span><span style="color:#555">:</span><span class="digit">---</span>'
                  vs_element = '<div class="vs-neon">VS</div>'
             else:
-                vs_element = '<div class="vs-neon" style="font-size:1.4rem; margin-top:15px; color:#aaa; text-shadow:none;">FINAL</div>'
+                vs_element = '<div class="vs-neon" style="font-size:1.2rem; margin-top:10px;">FINAL</div>'
                 if is_final:
                     if int(h_score_str) > int(a_score_str):
                         actual_winner_abbr = h_abbr
@@ -336,7 +350,7 @@ def generate_html():
                 else:
                     result_badge = '<div class="result-badge res-loss">PUDŁO ❌</div>'
 
-            # KARTA (ULTRA NEON LAYOUT)
+            # KARTA (ULTIMATE CYBERPUNK LAYOUT)
             html += f"""
             <div class="card">
                 <div class="status-bar {status_class}">{status_text}</div>
@@ -375,8 +389,8 @@ def generate_html():
 
     if count == 0:
         html += """
-        <div style="grid-column: 1/-1; text-align:center; padding: 50px; background: rgba(0,0,0,0.6); border-radius: 20px; border: 2px solid #333; box-shadow: 0 0 30px rgba(0,243,255,0.2);">
-            <h2 style="color: #888; text-transform: uppercase; letter-spacing: 2px; text-shadow: 0 0 10px var(--neon-cyan);">System Standby</h2>
+        <div style="grid-column: 1/-1; text-align:center; padding: 50px; background: rgba(0,0,0,0.5); border-radius: 20px; border: 1px solid #333;">
+            <h2 style="color: #888; text-transform: uppercase; letter-spacing: 2px;">System Standby</h2>
             <p style="color: #666;">Brak zaplanowanych meczów w strumieniu danych ESPN.</p>
         </div>
         """
@@ -393,7 +407,7 @@ def generate_html():
     
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
-    print("✅ Strona wygenerowana (ULTRA-NEON PLASMA).")
+    print("✅ Strona wygenerowana (ULTIMATE NEON FIX).")
 
 if __name__ == "__main__":
     generate_html()
