@@ -4,22 +4,22 @@ from datetime import datetime
 import os
 
 # ==========================================
-# ⚙️ KONFIGURACJA (PUBLIC BOT - FINAL CLEAN)
+# ⚙️ KONFIGURACJA (BIG LOGO WATERMARK EDITION)
 # ==========================================
 ESPN_API = "http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 
-# Rozszerzony słownik logo (ESPN używa czasem skrótów 2-literowych)
+# Rozszerzony słownik logo
 NBA_LOGOS = {
     'ATL': 'https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg',
     'BOS': 'https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg',
     'CLE': 'https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg',
     'NOP': 'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg',
-    'NO':  'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg', # Fix Pelicans
+    'NO':  'https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg',
     'CHI': 'https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg',
     'DAL': 'https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg',
     'DEN': 'https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg',
     'GSW': 'https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg',
-    'GS':  'https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg', # Fix Warriors
+    'GS':  'https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg',
     'HOU': 'https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg',
     'LAC': 'https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg',
     'LAL': 'https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg',
@@ -28,7 +28,7 @@ NBA_LOGOS = {
     'MIN': 'https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg',
     'BKN': 'https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg',
     'NYK': 'https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg',
-    'NY':  'https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg', # Fix Knicks
+    'NY':  'https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg',
     'ORL': 'https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg',
     'IND': 'https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg',
     'PHI': 'https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg',
@@ -36,7 +36,7 @@ NBA_LOGOS = {
     'POR': 'https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg',
     'SAC': 'https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg',
     'SAS': 'https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg',
-    'SA':  'https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg', # Fix Spurs
+    'SA':  'https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg',
     'OKC': 'https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg',
     'TOR': 'https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg',
     'UTA': 'https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg',
@@ -68,13 +68,12 @@ def parse_record(record_str):
         return 0.0
 
 def get_team_logo(abbr):
-    # Najpierw szukamy w słowniku po skrócie (obsługa NY, NO, GS, SA)
     if abbr in NBA_LOGOS:
         return NBA_LOGOS[abbr]
     return DEFAULT_LOGO
 
 def generate_html():
-    print("🚀 URUCHAMIAM PUBLIC BOT (FIXED LOGOS & UI)...")
+    print("🚀 URUCHAMIAM PUBLIC BOT (BIG LOGO WATERMARK)...")
     
     data = get_espn_data()
     if not data or 'events' not in data:
@@ -140,36 +139,58 @@ def generate_html():
                 justify-content: center; 
                 align-items: center; 
                 border-bottom: 1px solid var(--border);
+                position: relative; z-index: 2; /* Header na wierzchu */
             }}
             
             .status {{ font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }}
             .live {{ color: #ef4444; animation: pulse 1.5s infinite; }}
             
-            /* MATCHUP */
-            .matchup {{ display: flex; justify-content: space-between; align-items: center; padding: 35px 30px; }}
+            /* MATCHUP CONTAINER */
+            .matchup {{ 
+                display: flex; 
+                justify-content: space-between; 
+                align-items: center; 
+                padding: 35px 30px; 
+                position: relative; /* Ważne dla logo absolute */
+            }}
             
+            /* TEAM CONTAINER */
             .team {{ 
                 text-align: center; 
                 width: 30%; 
                 display: flex; 
                 flex-direction: column; 
                 align-items: center; 
+                justify-content: center;
+                position: relative; /* Żeby logo pozycjonowało się względem tego pudełka */
+                min-height: 100px; /* Zabezpieczenie wysokości */
             }}
             
             .team-name {{ 
                 font-weight: 900; 
-                font-size: 1rem; 
+                font-size: 1.2rem; 
                 display: block; 
-                margin-bottom: 15px; 
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
+                position: relative;
+                z-index: 2; /* Tekst NA WIERZCHU */
+                text-shadow: 0 2px 4px rgba(0,0,0,0.9); /* Cień pod tekstem dla czytelności */
             }}
             
+            /* LOGO - ZMIANA STYLU WG ŻYCZENIA */
             .team-logo {{
-                width: 80px;
-                height: 80px;
+                width: 120px;
+                height: 120px;
                 object-fit: contain;
-                filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3));
+                margin: 0;
+                
+                /* Pozycjonowanie absolutne - "pod spodem" */
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%); /* Idealne centrowanie */
+                z-index: 1; /* Pod tekstem */
+                opacity: 0.4; /* Przezroczystość, żeby nie zasłaniać tekstu */
             }}
             
             /* SCORE */
@@ -178,11 +199,12 @@ def generate_html():
                 align-items: center;
                 justify-content: center;
                 gap: 15px;
+                position: relative; z-index: 2; /* Wynik na wierzchu */
             }}
             
-            .score {{ font-size: 2.8rem; font-weight: 900; line-height: 1; }}
-            .score.winner {{ color: var(--win); text-shadow: 0 0 20px rgba(16, 185, 129, 0.4); }}
-            .score.loser {{ color: var(--subtext); opacity: 0.4; }}
+            .score {{ font-size: 2.8rem; font-weight: 900; line-height: 1; text-shadow: 0 2px 5px rgba(0,0,0,0.8); }}
+            .score.winner {{ color: var(--win); }}
+            .score.loser {{ color: var(--subtext); opacity: 0.8; }}
             
             .vs-sep {{ color: var(--border); font-style: italic; font-weight: 900; font-size: 1.5rem; }}
             
@@ -193,16 +215,15 @@ def generate_html():
                 text-align: center; 
                 border-top: 1px solid var(--border); 
                 margin-top: auto;
+                position: relative; z-index: 2;
             }}
             
             .pred-label {{ font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 8px; }}
             .pred-val {{ font-size: 1.2rem; font-weight: 900; color: var(--text); display: flex; align-items: center; justify-content: center; gap: 8px; }}
             
-            /* Usunięte style badge, teraz ikona jest inline */
-            
             .footer {{ text-align: center; color: var(--subtext); font-size: 0.75rem; margin-top: 50px; padding-bottom: 20px; }}
             @keyframes pulse {{ 0% {{ opacity: 1; }} 50% {{ opacity: 0.5; }} 100% {{ opacity: 1; }} }}
-            @media (max-width: 768px) {{ .grid {{ grid-template-columns: 1fr; }} .matchup {{ padding: 25px 15px; }} .score {{ font-size: 2.2rem; }} .team-logo {{ width: 60px; height: 60px; }} }}
+            @media (max-width: 768px) {{ .grid {{ grid-template-columns: 1fr; }} .matchup {{ padding: 25px 15px; }} .score {{ font-size: 2.2rem; }} }}
         </style>
     </head>
     <body>
@@ -230,21 +251,22 @@ def generate_html():
             h_name = home_team['team']['shortDisplayName']
             a_name = away_team['team']['shortDisplayName']
             
-            # Skróty dla logo
+            # Skróty
             h_abbr = home_team['team']['abbreviation']
             a_abbr = away_team['team']['abbreviation']
 
-            # POBIERANIE LOGO Z NAPRAWIONYM SŁOWNIKIEM
+            # LOGO
             h_logo_url = get_team_logo(h_abbr)
             a_logo_url = get_team_logo(a_abbr)
             
-            # Rekordy i Wyniki
-            h_record_str = next((s['summary'] for s in home_team.get('records', []) if s['type'] == 'total'), "0-0")
-            a_record_str = next((s['summary'] for s in away_team.get('records', []) if s['type'] == 'total'), "0-0")
-            
+            # Wyniki
             h_score = int(home_team.get('score', 0))
             a_score = int(away_team.get('score', 0))
             
+            # Rekordy (dla logiki)
+            h_record_str = next((s['summary'] for s in home_team.get('records', []) if s['type'] == 'total'), "0-0")
+            a_record_str = next((s['summary'] for s in away_team.get('records', []) if s['type'] == 'total'), "0-0")
+
             # === LOGIKA PROGNOZY ===
             h_pct = parse_record(h_record_str)
             a_pct = parse_record(a_record_str)
@@ -255,7 +277,7 @@ def generate_html():
             else:
                 predicted_winner = a_name
             
-            # === LOGIKA WERYFIKACJI (Inline Icon) ===
+            # === LOGIKA WYNIKÓW ===
             is_final = (state == 'post')
             actual_winner = ""
             
@@ -283,25 +305,24 @@ def generate_html():
                     <span class="{h_score_class}">{h_score}</span>
                 """
 
-            # === BUDOWANIE ELEMENTÓW HTML ===
+            # Status
             status_text = status['detail']
             status_class = "status"
             if state == 'in': 
                 status_class += " live"
                 status_text = "🔴 " + status['shortDetail']
 
-            # TWORZENIE IKONY WYNIKU (INLINE)
+            # Ikona wyniku
             outcome_icon = ""
             if is_final:
                 if predicted_winner == actual_winner:
-                    outcome_icon = '<span style="color: #10b981; margin-left: 8px;">✅</span>' # Zielony ptaszek
+                    outcome_icon = '<span style="color: #10b981; margin-left: 8px;">✅</span>'
                 else:
-                    outcome_icon = '<span style="color: #ef4444; margin-left: 8px;">❌</span>' # Czerwony krzyżyk
+                    outcome_icon = '<span style="color: #ef4444; margin-left: 8px;">❌</span>'
             
-            # Łączymy nazwę z ikoną w jednej linii
             prediction_content = f'{predicted_winner}{outcome_icon}'
 
-            # KARTA
+            # KARTA Z ODWRÓCONĄ KOLEJNOŚCIĄ (IMG, SPAN) I BIG LOGO
             html += f"""
             <div class="card">
                 <div class="card-header">
@@ -310,8 +331,8 @@ def generate_html():
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">{a_name}</span>
                         <img src="{a_logo_url}" class="team-logo" alt="{a_name}">
+                        <span class="team-name">{a_name}</span>
                     </div>
                     
                     <div class="score-container">
@@ -319,8 +340,8 @@ def generate_html():
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">{h_name}</span>
                         <img src="{h_logo_url}" class="team-logo" alt="{h_name}">
+                        <span class="team-name">{h_name}</span>
                     </div>
                 </div>
                 
@@ -332,7 +353,6 @@ def generate_html():
             """
             count += 1
         except Exception as e:
-            # print(f"Błąd: {e}") 
             continue
 
     if count == 0:
@@ -350,7 +370,7 @@ def generate_html():
     
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
-    print("✅ Strona wygenerowana (LOGO FIX + INLINE RESULTS).")
+    print("✅ Strona wygenerowana (BIG LOGO BG).")
 
 if __name__ == "__main__":
     generate_html()
