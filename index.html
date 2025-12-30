@@ -54,36 +54,58 @@
                 justify-content: center; 
                 align-items: center; 
                 border-bottom: 1px solid var(--border);
+                position: relative; z-index: 2; /* Header na wierzchu */
             }
             
             .status { font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }
             .live { color: #ef4444; animation: pulse 1.5s infinite; }
             
-            /* MATCHUP */
-            .matchup { display: flex; justify-content: space-between; align-items: center; padding: 35px 30px; }
+            /* MATCHUP CONTAINER */
+            .matchup { 
+                display: flex; 
+                justify-content: space-between; 
+                align-items: center; 
+                padding: 35px 30px; 
+                position: relative; /* Ważne dla logo absolute */
+            }
             
+            /* TEAM CONTAINER */
             .team { 
                 text-align: center; 
                 width: 30%; 
                 display: flex; 
                 flex-direction: column; 
                 align-items: center; 
+                justify-content: center;
+                position: relative; /* Żeby logo pozycjonowało się względem tego pudełka */
+                min-height: 100px; /* Zabezpieczenie wysokości */
             }
             
             .team-name { 
                 font-weight: 900; 
-                font-size: 1rem; 
+                font-size: 1.2rem; 
                 display: block; 
-                margin-bottom: 15px; 
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
+                position: relative;
+                z-index: 2; /* Tekst NA WIERZCHU */
+                text-shadow: 0 2px 4px rgba(0,0,0,0.9); /* Cień pod tekstem dla czytelności */
             }
             
+            /* LOGO - ZMIANA STYLU WG ŻYCZENIA */
             .team-logo {
-                width: 80px;
-                height: 80px;
+                width: 120px;
+                height: 120px;
                 object-fit: contain;
-                filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3));
+                margin: 0;
+                
+                /* Pozycjonowanie absolutne - "pod spodem" */
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%); /* Idealne centrowanie */
+                z-index: 1; /* Pod tekstem */
+                opacity: 0.4; /* Przezroczystość, żeby nie zasłaniać tekstu */
             }
             
             /* SCORE */
@@ -92,11 +114,12 @@
                 align-items: center;
                 justify-content: center;
                 gap: 15px;
+                position: relative; z-index: 2; /* Wynik na wierzchu */
             }
             
-            .score { font-size: 2.8rem; font-weight: 900; line-height: 1; }
-            .score.winner { color: var(--win); text-shadow: 0 0 20px rgba(16, 185, 129, 0.4); }
-            .score.loser { color: var(--subtext); opacity: 0.4; }
+            .score { font-size: 2.8rem; font-weight: 900; line-height: 1; text-shadow: 0 2px 5px rgba(0,0,0,0.8); }
+            .score.winner { color: var(--win); }
+            .score.loser { color: var(--subtext); opacity: 0.8; }
             
             .vs-sep { color: var(--border); font-style: italic; font-weight: 900; font-size: 1.5rem; }
             
@@ -107,16 +130,15 @@
                 text-align: center; 
                 border-top: 1px solid var(--border); 
                 margin-top: auto;
+                position: relative; z-index: 2;
             }
             
             .pred-label { font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 8px; }
             .pred-val { font-size: 1.2rem; font-weight: 900; color: var(--text); display: flex; align-items: center; justify-content: center; gap: 8px; }
             
-            /* Usunięte style badge, teraz ikona jest inline */
-            
             .footer { text-align: center; color: var(--subtext); font-size: 0.75rem; margin-top: 50px; padding-bottom: 20px; }
             @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
-            @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } .matchup { padding: 25px 15px; } .score { font-size: 2.2rem; } .team-logo { width: 60px; height: 60px; } }
+            @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } .matchup { padding: 25px 15px; } .score { font-size: 2.2rem; } }
         </style>
     </head>
     <body>
@@ -135,8 +157,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Bucks</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg" class="team-logo" alt="Bucks">
+                        <span class="team-name">Bucks</span>
                     </div>
                     
                     <div class="score-container">
@@ -148,8 +170,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Hornets</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg" class="team-logo" alt="Hornets">
+                        <span class="team-name">Hornets</span>
                     </div>
                 </div>
                 
@@ -166,8 +188,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Suns</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg" class="team-logo" alt="Suns">
+                        <span class="team-name">Suns</span>
                     </div>
                     
                     <div class="score-container">
@@ -179,8 +201,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Wizards</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg" class="team-logo" alt="Wizards">
+                        <span class="team-name">Wizards</span>
                     </div>
                 </div>
                 
@@ -197,8 +219,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Warriors</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg" class="team-logo" alt="Warriors">
+                        <span class="team-name">Warriors</span>
                     </div>
                     
                     <div class="score-container">
@@ -210,8 +232,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Nets</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg" class="team-logo" alt="Nets">
+                        <span class="team-name">Nets</span>
                     </div>
                 </div>
                 
@@ -228,8 +250,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Nuggets</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg" class="team-logo" alt="Nuggets">
+                        <span class="team-name">Nuggets</span>
                     </div>
                     
                     <div class="score-container">
@@ -241,8 +263,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Heat</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg" class="team-logo" alt="Heat">
+                        <span class="team-name">Heat</span>
                     </div>
                 </div>
                 
@@ -259,8 +281,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Magic</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg" class="team-logo" alt="Magic">
+                        <span class="team-name">Magic</span>
                     </div>
                     
                     <div class="score-container">
@@ -272,8 +294,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Raptors</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg" class="team-logo" alt="Raptors">
+                        <span class="team-name">Raptors</span>
                     </div>
                 </div>
                 
@@ -290,8 +312,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Timberwolves</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg" class="team-logo" alt="Timberwolves">
+                        <span class="team-name">Timberwolves</span>
                     </div>
                     
                     <div class="score-container">
@@ -303,8 +325,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Bulls</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg" class="team-logo" alt="Bulls">
+                        <span class="team-name">Bulls</span>
                     </div>
                 </div>
                 
@@ -321,8 +343,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Pacers</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg" class="team-logo" alt="Pacers">
+                        <span class="team-name">Pacers</span>
                     </div>
                     
                     <div class="score-container">
@@ -334,8 +356,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Rockets</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg" class="team-logo" alt="Rockets">
+                        <span class="team-name">Rockets</span>
                     </div>
                 </div>
                 
@@ -352,8 +374,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Knicks</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg" class="team-logo" alt="Knicks">
+                        <span class="team-name">Knicks</span>
                     </div>
                     
                     <div class="score-container">
@@ -365,8 +387,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Pelicans</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg" class="team-logo" alt="Pelicans">
+                        <span class="team-name">Pelicans</span>
                     </div>
                 </div>
                 
@@ -383,8 +405,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Hawks</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg" class="team-logo" alt="Hawks">
+                        <span class="team-name">Hawks</span>
                     </div>
                     
                     <div class="score-container">
@@ -396,8 +418,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Thunder</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg" class="team-logo" alt="Thunder">
+                        <span class="team-name">Thunder</span>
                     </div>
                 </div>
                 
@@ -414,8 +436,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Cavaliers</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg" class="team-logo" alt="Cavaliers">
+                        <span class="team-name">Cavaliers</span>
                     </div>
                     
                     <div class="score-container">
@@ -427,8 +449,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Spurs</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg" class="team-logo" alt="Spurs">
+                        <span class="team-name">Spurs</span>
                     </div>
                 </div>
                 
@@ -445,8 +467,8 @@
                 
                 <div class="matchup">
                     <div class="team">
-                        <span class="team-name">Mavericks</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg" class="team-logo" alt="Mavericks">
+                        <span class="team-name">Mavericks</span>
                     </div>
                     
                     <div class="score-container">
@@ -458,8 +480,8 @@
                     </div>
                     
                     <div class="team">
-                        <span class="team-name">Trail Blazers</span>
                         <img src="https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg" class="team-logo" alt="Trail Blazers">
+                        <span class="team-name">Trail Blazers</span>
                     </div>
                 </div>
                 
@@ -471,7 +493,7 @@
             
             </div>
             <div class="footer">
-                Automatyczna aktualizacja: 2025-12-30 14:39 | Data Source: ESPN
+                Automatyczna aktualizacja: 2025-12-30 14:54 | Data Source: ESPN
             </div>
         </div>
     </body>
