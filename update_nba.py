@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 # ==========================================
-# ⚙️ KONFIGURACJA (PUBLIC BOT - BOTTOM TEXT)
+# ⚙️ KONFIGURACJA
 # ==========================================
 ESPN_API = "http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 
@@ -72,17 +72,26 @@ def get_team_logo(abbr):
         return NBA_LOGOS[abbr]
     return DEFAULT_LOGO
 
+# --- NOWA FUNKCJA DLA GEMINI ---
+def save_picks_for_gemini(picks):
+    with open("propozycje_typow.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(picks))
+    print(f"✅ Zapisano {len(picks)} typów do pliku propozycje_typow.txt dla audytu Gemini.")
+
 def generate_html():
-    print("🚀 URUCHAMIAM PUBLIC BOT (TEXT BOTTOM)...")
+    print("🚀 URUCHAMIAM NBA UPDATE BOT...")
     
     data = get_espn_data()
     if not data or 'events' not in data:
-        print("❌ Brak danych.")
+        print("❌ Brak danych z ESPN.")
         return
 
     events = data['events']
     
-    # --- NAGŁÓWEK HTML ---
+    # Lista do zbierania typów dla Gemini
+    picks_for_gemini = []
+
+    # --- NAGŁÓWEK I STYLE HTML ---
     html = f"""
     <!DOCTYPE html>
     <html lang="pl">
@@ -111,14 +120,12 @@ def generate_html():
             h1 {{ font-weight: 900; letter-spacing: -1px; margin: 0; color: var(--accent); font-size: 2.5rem; }}
             .subtitle {{ color: var(--subtext); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; margin-top: 10px; }}
             
-            /* GRID */
             .grid {{
                 display: grid;
                 grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
                 gap: 25px;
             }}
             
-            /* KARTA */
             .card {{ 
                 background: var(--card-bg); 
                 border: 1px solid var(--border); 
@@ -145,57 +152,49 @@ def generate_html():
             .status {{ font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }}
             .live {{ color: #ef4444; animation: pulse 1.5s infinite; }}
             
-            /* MATCHUP CONTAINER */
             .matchup {{ 
                 display: flex; 
                 justify-content: space-between; 
                 align-items: center; 
-                padding: 30px 20px; /* Zmniejszyłem lekko padding, bo logo jest duże */
+                padding: 30px 20px; 
                 position: relative;
                 flex-grow: 1;
             }}
             
-            /* TEAM CONTAINER (ZMIANA) */
             .team {{ 
                 text-align: center; 
                 width: 30%; 
-                height: 140px; /* Stała wysokość, żeby zmieścić logo i tekst */
-                position: relative; /* Ważne dla absolute text */
+                height: 140px; 
+                position: relative; 
                 display: flex;
                 justify-content: center;
                 align-items: center;
             }}
             
-            /* NAZWA DRUŻYNY - NA SAMYM DOLE */
             .team-name {{ 
                 font-weight: 900; 
                 font-size: 0.85rem; 
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
-                
-                position: absolute; /* Przyklejamy do dołu */
+                position: absolute; 
                 bottom: 0;
                 left: 50%;
                 transform: translateX(-50%);
                 width: 100%;
-                
-                z-index: 3; /* Nad logiem */
-                text-shadow: 0 2px 4px rgba(0,0,0,1); /* Mocny cień, żeby było widać na logo */
+                z-index: 3; 
+                text-shadow: 0 2px 4px rgba(0,0,0,1); 
                 padding-bottom: 5px;
             }}
             
-            /* LOGO - DUŻE */
             .team-logo {{
                 width: 120px;
                 height: 120px;
                 object-fit: contain;
                 z-index: 1;
-                opacity: 0.9; /* Lekko przezroczyste */
-                /* Logo jest wyśrodkowane przez flex w .team */
-                margin-bottom: 15px; /* Lekkie odsunięcie w górę od tekstu */
+                opacity: 0.9; 
+                margin-bottom: 15px; 
             }}
             
-            /* SCORE */
             .score-container {{
                 display: flex;
                 align-items: center;
@@ -210,7 +209,6 @@ def generate_html():
             
             .vs-sep {{ color: var(--border); font-style: italic; font-weight: 900; font-size: 1.5rem; }}
             
-            /* PROGNOZA */
             .prediction-box {{ 
                 background: rgba(15, 23, 42, 0.6);
                 padding: 20px; 
@@ -234,7 +232,6 @@ def generate_html():
                 <h1>NBA PUBLIC HUB</h1>
                 <div class="subtitle">Live Scores & Automated Models</div>
             </header>
-            
             <div class="grid">
     """
 
@@ -252,8 +249,6 @@ def generate_html():
             
             h_name = home_team['team']['shortDisplayName']
             a_name = away_team['team']['shortDisplayName']
-            
-            # Skróty
             h_abbr = home_team['team']['abbreviation']
             a_abbr = away_team['team']['abbreviation']
 
@@ -261,11 +256,9 @@ def generate_html():
             h_logo_url = get_team_logo(h_abbr)
             a_logo_url = get_team_logo(a_abbr)
             
-            # Wyniki
+            # Wyniki i Rekordy
             h_score = int(home_team.get('score', 0))
             a_score = int(away_team.get('score', 0))
-            
-            # Rekordy
             h_record_str = next((s['summary'] for s in home_team.get('records', []) if s['type'] == 'total'), "0-0")
             a_record_str = next((s['summary'] for s in away_team.get('records', []) if s['type'] == 'total'), "0-0")
 
@@ -273,33 +266,31 @@ def generate_html():
             h_pct = parse_record(h_record_str)
             a_pct = parse_record(a_record_str)
             
-            predicted_winner = ""
             if (h_pct + 0.05) > a_pct:
                 predicted_winner = h_name
             else:
                 predicted_winner = a_name
             
-            # === LOGIKA WYNIKÓW ===
+            # DODAJEMY DO LISTY DLA GEMINI (tylko nadchodzące mecze)
+            if state == 'pre':
+                picks_for_gemini.append(f"{a_name} @ {h_name} -> Typ: {predicted_winner}")
+
+            # === LOGIKA WYNIKÓW HTML ===
             is_final = (state == 'post')
             actual_winner = ""
-            
             h_score_class = "score"
             a_score_class = "score"
             
-            score_display_html = ""
-
             if state == 'pre':
                  score_display_html = f'<span class="vs-sep" style="font-size: 2rem;">VS</span>'
             else:
                 if is_final:
                     if h_score > a_score:
                         actual_winner = h_name
-                        h_score_class += " winner"
-                        a_score_class += " loser"
+                        h_score_class += " winner"; a_score_class += " loser"
                     else:
                         actual_winner = a_name
-                        a_score_class += " winner"
-                        h_score_class += " loser"
+                        a_score_class += " winner"; h_score_class += " loser"
                 
                 score_display_html = f"""
                     <span class="{a_score_class}">{a_score}</span>
@@ -317,36 +308,29 @@ def generate_html():
             # Ikona wyniku
             outcome_icon = ""
             if is_final:
-                if predicted_winner == actual_winner:
-                    outcome_icon = '<span style="color: #10b981; margin-left: 8px;">✅</span>'
-                else:
-                    outcome_icon = '<span style="color: #ef4444; margin-left: 8px;">❌</span>'
+                outcome_icon = ' <span style="color: #10b981;">✅</span>' if predicted_winner == actual_winner else ' <span style="color: #ef4444;">❌</span>'
             
             prediction_content = f'{predicted_winner}{outcome_icon}'
 
-            # KARTA Z NAPRAWIONYM UKŁADEM
+            # Budowanie karty HTML
             html += f"""
             <div class="card">
                 <div class="card-header">
                     <span class="{status_class}">{status_text}</span>
                 </div>
-                
                 <div class="matchup">
                     <div class="team">
                         <img src="{a_logo_url}" class="team-logo" alt="{a_name}">
                         <span class="team-name">{a_name}</span>
                     </div>
-                    
                     <div class="score-container">
                         {score_display_html}
                     </div>
-                    
                     <div class="team">
                         <img src="{h_logo_url}" class="team-logo" alt="{h_name}">
                         <span class="team-name">{h_name}</span>
                     </div>
                 </div>
-                
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
                     <div class="pred-val">{prediction_content}</div>
@@ -355,11 +339,13 @@ def generate_html():
             """
             count += 1
         except Exception as e:
+            print(f"Błąd przy przetwarzaniu meczu: {e}")
             continue
 
     if count == 0:
         html += "<p style='text-align:center; color:#888;'>Brak meczów w harmonogramie ESPN.</p>"
 
+    # Zamknięcie HTML
     html += f"""
             </div>
             <div class="footer">
@@ -370,9 +356,12 @@ def generate_html():
     </html>
     """
     
+    # ZAPIS PLIKÓW
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
-    print("✅ Strona wygenerowana (LOGO TOP, TEXT BOTTOM).")
+    
+    save_picks_for_gemini(picks_for_gemini)
+    print("✅ Wszystkie zadania zakończone sukcesem.")
 
 if __name__ == "__main__":
     generate_html()
