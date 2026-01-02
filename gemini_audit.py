@@ -3,6 +3,7 @@ from google.genai import types
 import os
 import datetime
 import pytz
+import re
 
 # Konfiguracja klienta
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
@@ -21,21 +22,21 @@ def run_audit():
     with open('propozycje_typow.txt', 'r', encoding='utf-8') as f:
         typy = f.read()
 
-    if not typy:
+    if not typy or len(typy.strip()) < 5:
         print("Brak typów do analizy.")
         return
 
-    # INSTRUKCJA SYSTEMOWA - TO TU BLOKUJEMY HALUCYNACJE
+    # INSTRUKCJA SYSTEMOWA - BLOKADA HALUCYNACJI
     system_instruction = f"""
     Jesteś rygorystycznym analitykiem NBA. Twoja wiedza wewnętrzna jest przestarzała. 
     DZISIEJSZA DATA TO: {today_date}.
     
     ZASADY:
-    1. UŻYWAJ WYŁĄCZNIE narzędzia Google Search. 
-    2. IGNORUJ dane z lat 2024, 2025 i wcześniejszych. Jeśli news nie dotyczy STYCZNIA 2026, odrzuć go.
-    3. Jeśli nie znajdziesz potwierdzonych informacji o kontuzjach z DZISIAJ ({today_date}), napisz 'Brak aktualnych raportów dla tego meczu'. 
-    4. NIE ZGADUJ. Nie przewiduj na podstawie "historii". Sprawdzaj faktyczne statusy: 'Out', 'Questionable', 'Game-time decision'.
-    5. Twoim celem jest uratowanie skuteczności 80% mojego modelu przed nagłymi zmianami w składzie.
+    1. UŻYWAJ WYŁĄCZNIE narzędzia Google Search do sprawdzenia aktualnych składów. 
+    2. IGNORUJ dane z lat 2024, 2025. Interesuje Cię tylko STYCZEŃ 2026.
+    3. Jeśli nie znajdziesz potwierdzonych informacji o kontuzjach z DZISIAJ ({today_date}), napisz 'Brak aktualnych raportów (Injury Report) na tę chwilę'. 
+    4. NIE ZGADUJ. Sprawdzaj statusy: 'Out', 'Questionable', 'GTD'.
+    5. Odpowiadaj krótko, w punktach.
     """
 
     prompt = f"""
@@ -43,67 +44,78 @@ def run_audit():
     {typy}
 
     Dla każdego meczu określ:
-    - Status gwiazd (Injury Report).
-    - Czy typ jest [✅ ZATWIERDZONY] czy [⚠️ RYZYKOWNY].
-    - Uzasadnij wybór konkretnymi nazwiskami z dzisiejszego raportu.
+    - Kluczowe braki w składach.
+    - Werdykt: [✅ ZATWIERDZONY] lub [⚠️ RYZYKOWNY].
     """
 
-    print(f"🚀 Uruchamiam rygorystyczny audyt live dla daty: {today_date}...")
+    print(f"🚀 Uruchamiam rygorystyczny audyt live ({today_date})...")
 
-    # Wywołanie modelu z instrukcją blokującą halucynacje
-    response = client.models.generate_content(
-        model="gemini-2.0-flash",
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            system_instruction=system_instruction,
-            tools=[types.Tool(google_search=types.GoogleSearchRetrieval())]
+    try:
+        # Zmieniamy na 1.5-flash (stabilniejszy darmowy limit) i poprawiamy Tool
+        response = client.models.generate_content(
+            model="gemini-1.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                system_instruction=system_instruction,
+                tools=[types.Tool(google_search=types.GoogleSearch())]
+            )
         )
-    )
-    
+        
+        tekst_analizy = response.text
+    except Exception as e:
+        print(f"Błąd API Gemini: {e}")
+        return
+
     # Zapis do pliku tekstowego
     with open('finalny_raport_dnia.txt', 'w', encoding='utf-8') as f:
         f.write(f"--- KRYTYCZNY AUDYT LIVE ({today_date} {current_time} ET) ---\n")
-        f.write("Źródło danych: Google Search Live (Jan 2026)\n\n")
-        f.write(response.text)
+        f.write(tekst_analizy)
 
-    # Wstrzykiwanie do HTML (wizualna sekcja)
+    # Wstrzykiwanie do HTML
     if os.path.exists('index.html'):
         try:
             with open('index.html', 'r', encoding='utf-8') as f:
                 html_content = f.read()
 
-            formatowany_tekst = response.text.replace('\n', '<br>')
+            formatowany_tekst = tekst_analizy.replace('\n', '<br>')
+            
+            # Unikalne znaczniki, żeby skrypt mógł podmieniać raport, a nie dodawać nowe
+            start_tag = ""
+            end_tag = ""
             
             analiza_html = f"""
+            {start_tag}
             <div class="container" style="margin-top: 40px; margin-bottom: 40px;">
                 <div style="background: #0f172a; border: 2px solid #ef4444; border-radius: 20px; padding: 30px; box-shadow: 0 0 20px rgba(239, 68, 68, 0.2);">
                     <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
                         <span style="font-size: 2rem;">🛡️</span>
-                        <h2 style="margin: 0; font-weight: 900; color: #ef4444; text-transform: uppercase;">Weryfikator Składów AI (LIVE 2026)</h2>
+                        <h2 style="margin: 0; font-weight: 900; color: #ef4444; text-transform: uppercase; font-family: 'Montserrat', sans-serif;">Weryfikator Składów AI (LIVE 2026)</h2>
                     </div>
-                    <div style="color: #94a3b8; font-size: 0.8rem; border-bottom: 1px solid #334155; padding-bottom: 10px; margin-bottom: 20px;">
-                        DANE Z DNIA: {today_date} | STATUS: Zweryfikowano przez Google Search
+                    <div style="color: #94a3b8; font-size: 0.8rem; border-bottom: 1px solid #334155; padding-bottom: 10px; margin-bottom: 20px; font-family: 'Montserrat', sans-serif;">
+                        DANE Z DNIA: {today_date} | STATUS: Google Search Live
                     </div>
                     <div style="color: #f8fafc; line-height: 1.8; font-family: 'Montserrat', sans-serif;">
                         {formatowany_tekst}
                     </div>
                 </div>
             </div>
+            {end_tag}
             """
 
-            import re
-            if "" in html_content:
-                html_content = re.sub(r'.*?', analiza_html, html_content, flags=re.DOTALL)
+            # Jeśli raport już istnieje, podmiana. Jeśli nie, wstawienie przed </body>
+            if start_tag in html_content:
+                html_content = re.sub(f'{start_tag}.*?{end_tag}', analiza_html, html_content, flags=re.DOTALL)
             else:
                 html_content = html_content.replace('</body>', analiza_html + '</body>')
 
             with open('index.html', 'w', encoding='utf-8') as f:
                 f.write(html_content)
             
+            print("✅ Raport dodany do index.html")
         except Exception as e:
             print(f"Błąd HTML: {e}")
     
-    print("✅ Audyt zakończony. Halucynacje zablokowane.")
+    print("✅ Audyt zakończony sukcesem.")
 
 if __name__ == "__main__":
     run_audit()
