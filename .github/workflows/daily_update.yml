@@ -3,7 +3,7 @@ name: NBA Public Media Bot
 on:
   schedule:
     # 08:00 PL, 12:00 PL, 18:00 PL
-    - cron: '0 7,11,17 * * *'
+    cron: '0 16,18,21 * * *'
   workflow_dispatch:
 
 permissions:
