@@ -26,14 +26,12 @@
             h1 { font-weight: 900; letter-spacing: -1px; margin: 0; color: var(--accent); font-size: 2.5rem; }
             .subtitle { color: var(--subtext); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; margin-top: 10px; }
             
-            /* GRID */
             .grid {
                 display: grid;
                 grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
                 gap: 25px;
             }
             
-            /* KARTA */
             .card { 
                 background: var(--card-bg); 
                 border: 1px solid var(--border); 
@@ -60,57 +58,49 @@
             .status { font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }
             .live { color: #ef4444; animation: pulse 1.5s infinite; }
             
-            /* MATCHUP CONTAINER */
             .matchup { 
                 display: flex; 
                 justify-content: space-between; 
                 align-items: center; 
-                padding: 30px 20px; /* Zmniejszyłem lekko padding, bo logo jest duże */
+                padding: 30px 20px; 
                 position: relative;
                 flex-grow: 1;
             }
             
-            /* TEAM CONTAINER (ZMIANA) */
             .team { 
                 text-align: center; 
                 width: 30%; 
-                height: 140px; /* Stała wysokość, żeby zmieścić logo i tekst */
-                position: relative; /* Ważne dla absolute text */
+                height: 140px; 
+                position: relative; 
                 display: flex;
                 justify-content: center;
                 align-items: center;
             }
             
-            /* NAZWA DRUŻYNY - NA SAMYM DOLE */
             .team-name { 
                 font-weight: 900; 
                 font-size: 0.85rem; 
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
-                
-                position: absolute; /* Przyklejamy do dołu */
+                position: absolute; 
                 bottom: 0;
                 left: 50%;
                 transform: translateX(-50%);
                 width: 100%;
-                
-                z-index: 3; /* Nad logiem */
-                text-shadow: 0 2px 4px rgba(0,0,0,1); /* Mocny cień, żeby było widać na logo */
+                z-index: 3; 
+                text-shadow: 0 2px 4px rgba(0,0,0,1); 
                 padding-bottom: 5px;
             }
             
-            /* LOGO - DUŻE */
             .team-logo {
                 width: 120px;
                 height: 120px;
                 object-fit: contain;
                 z-index: 1;
-                opacity: 0.9; /* Lekko przezroczyste */
-                /* Logo jest wyśrodkowane przez flex w .team */
-                margin-bottom: 15px; /* Lekkie odsunięcie w górę od tekstu */
+                opacity: 0.9; 
+                margin-bottom: 15px; 
             }
             
-            /* SCORE */
             .score-container {
                 display: flex;
                 align-items: center;
@@ -125,7 +115,6 @@
             
             .vs-sep { color: var(--border); font-style: italic; font-weight: 900; font-size: 1.5rem; }
             
-            /* PROGNOZA */
             .prediction-box { 
                 background: rgba(15, 23, 42, 0.6);
                 padding: 20px; 
@@ -149,167 +138,241 @@
                 <h1>NBA PUBLIC HUB</h1>
                 <div class="subtitle">Live Scores & Automated Models</div>
             </header>
-            
             <div class="grid">
     
             <div class="card">
                 <div class="card-header">
-                    <span class="status">Final</span>
+                    <span class="status">Fri, January 2nd at 7:00 PM EST</span>
                 </div>
-                
                 <div class="matchup">
                     <div class="team">
-                        <img src="https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg" class="team-logo" alt="Rockets">
-                        <span class="team-name">Rockets</span>
+                        <img src="https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg" class="team-logo" alt="Spurs">
+                        <span class="team-name">Spurs</span>
                     </div>
-                    
                     <div class="score-container">
-                        
-                    <span class="score winner">120</span>
-                    <span class="vs-sep">:</span>
-                    <span class="score loser">96</span>
-                
+                        <span class="vs-sep" style="font-size: 2rem;">VS</span>
                     </div>
-                    
+                    <div class="team">
+                        <img src="https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg" class="team-logo" alt="Pacers">
+                        <span class="team-name">Pacers</span>
+                    </div>
+                </div>
+                <div class="prediction-box">
+                    <div class="pred-label">Prognoza Modelu Publicznego</div>
+                    <div class="pred-val">Spurs</div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <span class="status">Fri, January 2nd at 7:00 PM EST</span>
+                </div>
+                <div class="matchup">
                     <div class="team">
                         <img src="https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg" class="team-logo" alt="Nets">
                         <span class="team-name">Nets</span>
                     </div>
+                    <div class="score-container">
+                        <span class="vs-sep" style="font-size: 2rem;">VS</span>
+                    </div>
+                    <div class="team">
+                        <img src="https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg" class="team-logo" alt="Wizards">
+                        <span class="team-name">Wizards</span>
+                    </div>
                 </div>
-                
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Rockets<span style="color: #10b981; margin-left: 8px;">✅</span></div>
+                    <div class="pred-val">Nets</div>
                 </div>
             </div>
             
             <div class="card">
                 <div class="card-header">
-                    <span class="status">Final</span>
+                    <span class="status">Fri, January 2nd at 7:30 PM EST</span>
                 </div>
-                
                 <div class="matchup">
                     <div class="team">
-                        <img src="https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg" class="team-logo" alt="Heat">
-                        <span class="team-name">Heat</span>
+                        <img src="https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg" class="team-logo" alt="Nuggets">
+                        <span class="team-name">Nuggets</span>
                     </div>
-                    
                     <div class="score-container">
-                        
-                    <span class="score winner">118</span>
-                    <span class="vs-sep">:</span>
-                    <span class="score loser">112</span>
-                
+                        <span class="vs-sep" style="font-size: 2rem;">VS</span>
                     </div>
-                    
                     <div class="team">
-                        <img src="https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg" class="team-logo" alt="Pistons">
-                        <span class="team-name">Pistons</span>
+                        <img src="https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg" class="team-logo" alt="Cavaliers">
+                        <span class="team-name">Cavaliers</span>
                     </div>
                 </div>
-                
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Pistons<span style="color: #ef4444; margin-left: 8px;">❌</span></div>
+                    <div class="pred-val">Nuggets</div>
                 </div>
             </div>
             
             <div class="card">
                 <div class="card-header">
-                    <span class="status">Final</span>
+                    <span class="status">Fri, January 2nd at 7:30 PM EST</span>
                 </div>
-                
                 <div class="matchup">
                     <div class="team">
-                        <img src="https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg" class="team-logo" alt="76ers">
-                        <span class="team-name">76ers</span>
+                        <img src="https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg" class="team-logo" alt="Hawks">
+                        <span class="team-name">Hawks</span>
                     </div>
-                    
                     <div class="score-container">
-                        
-                    <span class="score winner">123</span>
-                    <span class="vs-sep">:</span>
-                    <span class="score loser">108</span>
-                
+                        <span class="vs-sep" style="font-size: 2rem;">VS</span>
                     </div>
-                    
                     <div class="team">
-                        <img src="https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg" class="team-logo" alt="Mavericks">
-                        <span class="team-name">Mavericks</span>
+                        <img src="https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg" class="team-logo" alt="Knicks">
+                        <span class="team-name">Knicks</span>
                     </div>
                 </div>
-                
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">76ers<span style="color: #10b981; margin-left: 8px;">✅</span></div>
+                    <div class="pred-val">Knicks</div>
                 </div>
             </div>
             
             <div class="card">
                 <div class="card-header">
-                    <span class="status">Final</span>
+                    <span class="status">Fri, January 2nd at 8:00 PM EST</span>
                 </div>
-                
                 <div class="matchup">
                     <div class="team">
-                        <img src="https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg" class="team-logo" alt="Celtics">
-                        <span class="team-name">Celtics</span>
+                        <img src="https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg" class="team-logo" alt="Magic">
+                        <span class="team-name">Magic</span>
                     </div>
-                    
                     <div class="score-container">
-                        
-                    <span class="score winner">120</span>
-                    <span class="vs-sep">:</span>
-                    <span class="score loser">106</span>
-                
+                        <span class="vs-sep" style="font-size: 2rem;">VS</span>
                     </div>
-                    
+                    <div class="team">
+                        <img src="https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg" class="team-logo" alt="Bulls">
+                        <span class="team-name">Bulls</span>
+                    </div>
+                </div>
+                <div class="prediction-box">
+                    <div class="pred-label">Prognoza Modelu Publicznego</div>
+                    <div class="pred-val">Magic</div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <span class="status">Fri, January 2nd at 8:00 PM EST</span>
+                </div>
+                <div class="matchup">
+                    <div class="team">
+                        <img src="https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg" class="team-logo" alt="Hornets">
+                        <span class="team-name">Hornets</span>
+                    </div>
+                    <div class="score-container">
+                        <span class="vs-sep" style="font-size: 2rem;">VS</span>
+                    </div>
+                    <div class="team">
+                        <img src="https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg" class="team-logo" alt="Bucks">
+                        <span class="team-name">Bucks</span>
+                    </div>
+                </div>
+                <div class="prediction-box">
+                    <div class="pred-label">Prognoza Modelu Publicznego</div>
+                    <div class="pred-val">Bucks</div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <span class="status">Fri, January 2nd at 8:00 PM EST</span>
+                </div>
+                <div class="matchup">
+                    <div class="team">
+                        <img src="https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg" class="team-logo" alt="Trail Blazers">
+                        <span class="team-name">Trail Blazers</span>
+                    </div>
+                    <div class="score-container">
+                        <span class="vs-sep" style="font-size: 2rem;">VS</span>
+                    </div>
+                    <div class="team">
+                        <img src="https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg" class="team-logo" alt="Pelicans">
+                        <span class="team-name">Pelicans</span>
+                    </div>
+                </div>
+                <div class="prediction-box">
+                    <div class="pred-label">Prognoza Modelu Publicznego</div>
+                    <div class="pred-val">Trail Blazers</div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <span class="status">Fri, January 2nd at 9:00 PM EST</span>
+                </div>
+                <div class="matchup">
                     <div class="team">
                         <img src="https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg" class="team-logo" alt="Kings">
                         <span class="team-name">Kings</span>
                     </div>
+                    <div class="score-container">
+                        <span class="vs-sep" style="font-size: 2rem;">VS</span>
+                    </div>
+                    <div class="team">
+                        <img src="https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg" class="team-logo" alt="Suns">
+                        <span class="team-name">Suns</span>
+                    </div>
                 </div>
-                
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Celtics<span style="color: #10b981; margin-left: 8px;">✅</span></div>
+                    <div class="pred-val">Suns</div>
                 </div>
             </div>
             
             <div class="card">
                 <div class="card-header">
-                    <span class="status">Final</span>
+                    <span class="status">Fri, January 2nd at 10:00 PM EST</span>
                 </div>
-                
                 <div class="matchup">
                     <div class="team">
-                        <img src="https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg" class="team-logo" alt="Jazz">
-                        <span class="team-name">Jazz</span>
+                        <img src="https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg" class="team-logo" alt="Thunder">
+                        <span class="team-name">Thunder</span>
                     </div>
-                    
                     <div class="score-container">
-                        
-                    <span class="score loser">101</span>
-                    <span class="vs-sep">:</span>
-                    <span class="score winner">118</span>
-                
+                        <span class="vs-sep" style="font-size: 2rem;">VS</span>
                     </div>
-                    
                     <div class="team">
-                        <img src="https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg" class="team-logo" alt="Clippers">
-                        <span class="team-name">Clippers</span>
+                        <img src="https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg" class="team-logo" alt="Warriors">
+                        <span class="team-name">Warriors</span>
                     </div>
                 </div>
-                
                 <div class="prediction-box">
                     <div class="pred-label">Prognoza Modelu Publicznego</div>
-                    <div class="pred-val">Clippers<span style="color: #10b981; margin-left: 8px;">✅</span></div>
+                    <div class="pred-val">Thunder</div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <span class="status">Fri, January 2nd at 10:30 PM EST</span>
+                </div>
+                <div class="matchup">
+                    <div class="team">
+                        <img src="https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg" class="team-logo" alt="Grizzlies">
+                        <span class="team-name">Grizzlies</span>
+                    </div>
+                    <div class="score-container">
+                        <span class="vs-sep" style="font-size: 2rem;">VS</span>
+                    </div>
+                    <div class="team">
+                        <img src="https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg" class="team-logo" alt="Lakers">
+                        <span class="team-name">Lakers</span>
+                    </div>
+                </div>
+                <div class="prediction-box">
+                    <div class="pred-label">Prognoza Modelu Publicznego</div>
+                    <div class="pred-val">Lakers</div>
                 </div>
             </div>
             
             </div>
             <div class="footer">
-                Automatyczna aktualizacja: 2026-01-02 07:21 | Data Source: ESPN
+                Automatyczna aktualizacja: 2026-01-02 17:17 | Data Source: ESPN
             </div>
         </div>
     </body>
