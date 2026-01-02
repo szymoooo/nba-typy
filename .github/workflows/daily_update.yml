@@ -2,8 +2,7 @@ name: NBA Public Media Bot
 
 on:
   schedule:
-    # 08:00 PL (7 UTC), 12:00 PL (11 UTC), 18:00 PL (17 UTC)
-    # Plus Twoje dodatkowe godziny, o które pytałeś
+    # 08:00, 12:00, 18:00, 20:00, 22:00 czasu PL
     - cron: '0 7,11,17,19,21 * * *'
   workflow_dispatch:
 
@@ -39,6 +38,11 @@ jobs:
         run: |
           git config --global user.name 'ESPN Bot'
           git config --global user.email 'bot@espn.nba'
-          # Dodajemy index.html oraz raport wygenerowany przez Gemini
-          git add index.html finalny_raport_dnia.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update from Public API + Gemini Audit" && git push)
+          
+          # Dodajemy pliki tylko wtedy, gdy faktycznie istnieją na dysku
+          [ -f index.html ] && git add index.html
+          [ -f finalny_raport_dnia.txt ] && git add finalny_raport_dnia.txt
+          [ -f propozycje_typow.txt ] && git add propozycje_typow.txt
+          
+          # Jeśli są zmiany (staged), zrób commit i wypchnij do repozytorium
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated NBA Update & Gemini Audit" && git push)
