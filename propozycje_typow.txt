@@ -1,9 +1,0 @@
-Lakers @ Wizards -> Typ: Lakers
-Raptors @ Magic -> Typ: Raptors
-Kings @ Celtics -> Typ: Celtics
-Trail Blazers @ Knicks -> Typ: Knicks
-Grizzlies @ Pelicans -> Typ: Grizzlies
-Cavaliers @ Suns -> Typ: Suns
-Clippers @ Nuggets -> Typ: Nuggets
-Nets @ Jazz -> Typ: Jazz
-Pistons @ Warriors -> Typ: Pistons
