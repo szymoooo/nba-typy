@@ -1,6 +1,3 @@
-Nets @ Hawks -> Typ: Hawks
-Raptors @ Bucks -> Typ: Raptors
-Nuggets @ Warriors -> Typ: Nuggets
 Mavericks @ Pacers -> Typ: Mavericks
 Hornets @ Wizards -> Typ: Hornets
 Celtics @ Lakers -> Typ: Lakers
