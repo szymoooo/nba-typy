@@ -1,0 +1,10 @@
+Lakers @ Pistons -> Typ: Pistons
+Pacers @ Magic -> Typ: Magic
+Thunder @ 76ers -> Typ: Thunder
+Spurs @ Heat -> Typ: Spurs
+Grizzlies @ Hawks -> Typ: Hawks
+Rockets @ Bulls -> Typ: Rockets
+Raptors @ Jazz -> Typ: Raptors
+Warriors @ Mavericks -> Typ: Warriors
+Nets @ Trail Blazers -> Typ: Trail Blazers
+Bucks @ Clippers -> Typ: Clippers
