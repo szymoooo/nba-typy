@@ -1,31 +1,39 @@
 name: Recover Archive
+
 on:
   workflow_dispatch:
+
 jobs:
   recover:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
       - name: Install dependencies
         run: pip install requests
+
       - name: Run recovery script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python recover_archive.py
+
       - name: Fix target blank in archive
         run: python fix_target_blank.py
+
       - name: Commit and push archive
-         run: |
+        run: |
           git config user.name "Archive Bot"
           git config user.email "bot@nba-freepicks.com"
           git add archive/ index.html
-          git diff --staged --quiet && echo "Brak zmian" || git commit -m "Fix target blank in archive and index" && git push
+          git diff --staged --quiet && echo "No changes" || git commit -m "Fix target blank in archive and index" && git push
