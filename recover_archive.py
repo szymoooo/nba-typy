@@ -10,7 +10,7 @@ from collections import defaultdict
 # ==========================================
 GITHUB_USER  = "szymoooo"
 GITHUB_REPO  = "nba-typy"
-GITHUB_TOKEN = ""  # Opcjonalnie - zostaw puste dla publicznego repo
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")  # Czyta automatycznie z GitHub Actions
 
 # ==========================================
 # 🔧 HELPERS
@@ -63,12 +63,20 @@ def group_by_date(commits):
 
 def fetch_index_html_at_commit(sha):
     """Pobiera zawartość index.html dla konkretnego commita"""
+    import base64, time
     url = (f"https://api.github.com/repos/{GITHUB_USER}/{GITHUB_REPO}"
            f"/contents/index.html?ref={sha}")
     r = requests.get(url, headers=github_headers(), timeout=15)
+    if r.status_code == 403:
+        # Rate limit - poczekaj i spróbuj ponownie
+        reset = int(r.headers.get("X-RateLimit-Reset", 0))
+        wait  = max(reset - int(datetime.now(timezone.utc).timestamp()), 0) + 5
+        print(f"   ⏳ Rate limit! Czekam {wait}s...")
+        time.sleep(wait)
+        r = requests.get(url, headers=github_headers(), timeout=15)
     if r.status_code != 200:
+        print(f"   ⚠️  HTTP {r.status_code}: {r.json().get('message', '')}")
         return None
-    import base64
     content_b64 = r.json().get("content", "")
     return base64.b64decode(content_b64).decode("utf-8", errors="replace")
 
