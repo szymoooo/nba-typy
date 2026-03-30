@@ -10,7 +10,7 @@ from collections import defaultdict
 # ==========================================
 GITHUB_USER  = "szymoooo"
 GITHUB_REPO  = "nba-typy"
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")  # Czyta automatycznie z GitHub Actions
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 # ==========================================
 # 🔧 HELPERS
@@ -46,19 +46,42 @@ def get_all_commits():
     return commits
 
 def group_by_date(commits):
-    """Grupuje commity po dacie (UTC) i zwraca ostatni commit każdego dnia"""
+    """
+    Logika archiwum:
+    - Mecze NBA grają się w nocy polskiego czasu
+    - 23:00 CET (21:00 UTC) = propozycje PRZED meczami danego dnia
+    - Rano następnego dnia 07:00 lub 11:00 UTC = rozliczone wyniki (Final)
+
+    Dla archiwum dnia X chcemy PIERWSZY commit dnia X+1 (rano) =
+    rozliczone wyniki z nocy X na X+1.
+
+    Wyjątek: dla ostatniego dnia bierzemy ostatni dostępny commit.
+    """
     by_date = defaultdict(list)
     for c in commits:
-        dt_str = c["commit"]["committer"]["date"]  # np. "2026-03-29T22:15:00Z"
+        dt_str = c["commit"]["committer"]["date"]
         dt = datetime.fromisoformat(dt_str.replace("Z", "+00:00"))
         day = dt.strftime("%Y-%m-%d")
         by_date[day].append((dt, c["sha"]))
 
-    # Bierzemy ostatni commit każdego dnia (największy timestamp = wieczorny z wynikami)
-    result = {}
-    for day, entries in by_date.items():
-        entries.sort(key=lambda x: x[0])
-        result[day] = entries[-1][1]  # ostatnie SHA danego dnia
+    for day in by_date:
+        by_date[day].sort(key=lambda x: x[0])
+
+    all_days = sorted(by_date.keys())
+    result   = {}
+
+    for i, day in enumerate(all_days):
+        next_day = all_days[i + 1] if i + 1 < len(all_days) else None
+
+        if next_day:
+            best_dt, best_sha = by_date[next_day][0]
+            result[day] = best_sha
+            print(f"   {day} → commit z {next_day} {best_dt.strftime('%H:%M')} UTC (poranne rozliczenie) ✓")
+        else:
+            best_dt, best_sha = by_date[day][-1]
+            result[day] = best_sha
+            print(f"   {day} → commit z {best_dt.strftime('%H:%M')} UTC (ostatni dostępny)")
+
     return result
 
 def fetch_index_html_at_commit(sha):
@@ -68,7 +91,6 @@ def fetch_index_html_at_commit(sha):
            f"/contents/index.html?ref={sha}")
     r = requests.get(url, headers=github_headers(), timeout=15)
     if r.status_code == 403:
-        # Rate limit - poczekaj i spróbuj ponownie
         reset = int(r.headers.get("X-RateLimit-Reset", 0))
         wait  = max(reset - int(datetime.now(timezone.utc).timestamp()), 0) + 5
         print(f"   ⏳ Rate limit! Czekam {wait}s...")
@@ -81,28 +103,27 @@ def fetch_index_html_at_commit(sha):
     return base64.b64decode(content_b64).decode("utf-8", errors="replace")
 
 def patch_html_for_archive(html, date_str, archive_prefix="../"):
-    """
-    Patchuje stary index.html żeby działał jako strona archiwalna:
-    - Dodaje przycisk Back to today
-    - Dodaje sekcję historii jeśli jej nie ma
-    - Naprawia relative paths
-    """
-    # Dodaj back button za <body> lub za otwarciem .container
-    back_btn = f'''<a href="{archive_prefix}index.html" style="display:inline-flex;align-items:center;gap:8px;background:#1e293b;border:1px solid #334155;color:#60a5fa;font-family:'Montserrat',sans-serif;font-size:.85rem;font-weight:700;text-decoration:none;padding:10px 20px;border-radius:12px;margin-bottom:30px;transition:background .15s,border-color .15s;" onmouseover="this.style.background='#1e3a5f';this.style.borderColor='#3b82f6'" onmouseout="this.style.background='#1e293b';this.style.borderColor='#334155'">← Back to today</a>'''
+    """Patchuje stary index.html żeby działał jako strona archiwalna"""
+
+    back_btn = (
+        f'<a href="{archive_prefix}index.html" '
+        f'style="display:inline-flex;align-items:center;gap:8px;background:#1e293b;'
+        f'border:1px solid #334155;color:#60a5fa;font-family:\'Montserrat\',sans-serif;'
+        f'font-size:.85rem;font-weight:700;text-decoration:none;padding:10px 20px;'
+        f'border-radius:12px;margin-bottom:30px;" '
+        f'onmouseover="this.style.background=\'#1e3a5f\';this.style.borderColor=\'#3b82f6\'" '
+        f'onmouseout="this.style.background=\'#1e293b\';this.style.borderColor=\'#334155\'">'
+        f'← Back to today</a>'
+    )
 
     # Wstaw back button po pierwszym <div class="container">
-    html = html.replace(
-        '<div class="container">',
-        f'<div class="container">\n        {back_btn}',
-        1
-    )
+    html = html.replace('<div class="container">', f'<div class="container">\n        {back_btn}', 1)
 
-    # Podmień <title> żeby była widoczna data
-    html = re.sub(
-        r'<title>.*?</title>',
-        f'<title>NBA Public AI Picks — {date_str}</title>',
-        html
-    )
+    # Podmień <title>
+    html = re.sub(r'<title>.*?</title>', f'<title>NBA Public AI Picks — {date_str}</title>', html)
+
+    # Usuń target="_blank" z linków archiwum (otwierać w tej samej karcie)
+    html = html.replace(' target="_blank"', '')
 
     return html
 
@@ -134,19 +155,20 @@ def recover_archive():
 
     os.makedirs("archive", exist_ok=True)
 
-    commits  = get_all_commits()
-    by_date  = group_by_date(commits)
+    commits = get_all_commits()
+
+    print("\n📅 Wybieram najlepszy commit dla każdego dnia:")
+    by_date = group_by_date(commits)
+
     existing = set(load_archive_index())
+    saved    = []
+    skipped  = []
 
-    print(f"📅 Znaleziono {len(by_date)} unikalnych dni w historii\n")
-
-    saved = []
-    skipped = []
+    print(f"\n⬇️  Pobieram pliki HTML ({len(by_date)} dni)...\n")
 
     for day in sorted(by_date.keys()):
         archive_path = f"archive/{day}.html"
 
-        # Pomiń jeśli już istnieje
         if os.path.exists(archive_path):
             print(f"⏭️  {day} — już istnieje, pomijam")
             skipped.append(day)
@@ -154,18 +176,16 @@ def recover_archive():
             continue
 
         sha = by_date[day]
-        print(f"⬇️  {day} — pobieram SHA: {sha[:8]}...")
+        print(f"⬇️  {day} — SHA: {sha[:8]}...")
 
         html = fetch_index_html_at_commit(sha)
         if not html:
-            print(f"   ❌ Nie udało się pobrać — pomijam")
+            print(f"   ❌ Nie udało się pobrać")
             continue
 
-        # Formatuj datę do wyświetlenia
-        dt = datetime.strptime(day, "%Y-%m-%d")
+        dt           = datetime.strptime(day, "%Y-%m-%d")
         date_display = dt.strftime("%B %d, %Y")
-
-        patched = patch_html_for_archive(html, date_display)
+        patched      = patch_html_for_archive(html, date_display)
 
         with open(archive_path, "w", encoding="utf-8") as f:
             f.write(patched)
@@ -173,12 +193,10 @@ def recover_archive():
         print(f"   ✅ Zapisano {archive_path}")
         saved.append(day)
 
-    # Zaktualizuj index.json
     save_archive_index(saved)
 
     print(f"\n🏀 Gotowe! Odzyskano {len(saved) - len(skipped)} nowych dni,")
     print(f"   pominięto {len(skipped)} już istniejących.")
-    print(f"\n📁 Wrzuć folder 'archive/' na GitHub i gotowe!")
 
 if __name__ == "__main__":
     recover_archive()
