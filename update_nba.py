@@ -1,14 +1,14 @@
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
+import shutil
 
 # ==========================================
 # ⚙️ KONFIGURACJA
 # ==========================================
 ESPN_API = "http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 
-# Rozszerzony słownik logo
 NBA_LOGOS = {
     'ATL': 'https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg',
     'BOS': 'https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg',
@@ -40,14 +40,19 @@ NBA_LOGOS = {
     'OKC': 'https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg',
     'TOR': 'https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg',
     'UTA': 'https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg',
+    'UTAH':'https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg',
     'MEM': 'https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg',
     'WAS': 'https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg',
+    'WSH': 'https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg',
     'DET': 'https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg',
     'CHA': 'https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg',
-    'WSH': 'https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg',
-    'UTAH': 'https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg',
 }
 DEFAULT_LOGO = 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg'
+
+
+# ==========================================
+# 🔧 HELPERS
+# ==========================================
 
 def get_espn_data():
     try:
@@ -68,252 +73,483 @@ def parse_record(record_str):
         return 0.0
 
 def get_team_logo(abbr):
-    if abbr in NBA_LOGOS:
-        return NBA_LOGOS[abbr]
-    return DEFAULT_LOGO
+    return NBA_LOGOS.get(abbr, DEFAULT_LOGO)
 
-# --- NOWA FUNKCJA DLA GEMINI ---
 def save_picks_for_gemini(picks):
     with open("propozycje_typow.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(picks))
-    print(f"✅ Zapisano {len(picks)} typów do pliku propozycje_typow.txt dla audytu Gemini.")
+    print(f"✅ Zapisano {len(picks)} typów do propozycje_typow.txt")
 
-def generate_html():
-    print("🚀 URUCHAMIAM NBA UPDATE BOT...")
-    
-    data = get_espn_data()
-    if not data or 'events' not in data:
-        print("❌ Brak danych z ESPN.")
-        return
 
-    events = data['events']
-    
-    # Lista do zbierania typów dla Gemini
-    picks_for_gemini = []
+# ==========================================
+# 🎨 WSPÓLNY CSS + HISTORIA (reużywany w obu plikach)
+# ==========================================
 
-    # --- NAGŁÓWEK I STYLE HTML ---
-    html = f"""
-    <!DOCTYPE html>
-    <html lang="pl">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>NBA PUBLIC SCOREBOARD</title>
-        <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏀</text></svg>">
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
-        <style>
-            :root {{ 
-                --bg: #0f172a; 
-                --card-bg: #1e293b; 
-                --accent: #3b82f6; 
-                --text: #f8fafc; 
-                --subtext: #94a3b8;
-                --win: #10b981; 
-                --loss: #ef4444; 
-                --border: #334155; 
-            }}
-            
-            body {{ background-color: var(--bg); color: var(--text); font-family: 'Montserrat', sans-serif; margin: 0; padding: 20px; }}
-            .container {{ max-width: 1200px; margin: 0 auto; }}
-            
-            header {{ text-align: center; margin-bottom: 40px; padding-bottom: 20px; border-bottom: 1px solid var(--border); }}
-            h1 {{ font-weight: 900; letter-spacing: -1px; margin: 0; color: var(--accent); font-size: 2.5rem; }}
-            .subtitle {{ color: var(--subtext); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; margin-top: 10px; }}
-            
-            .grid {{
-                display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
-                gap: 25px;
-            }}
-            
-            .card {{ 
-                background: var(--card-bg); 
-                border: 1px solid var(--border); 
-                border-radius: 20px;
-                overflow: hidden; 
-                display: flex; 
-                flex-direction: column;
-                transition: transform 0.2s, box-shadow 0.2s;
-                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
-            }}
-            
-            .card:hover {{ transform: translateY(-5px); box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3); border-color: var(--accent); }}
-            
-            .card-header {{ 
-                background: rgba(0,0,0,0.3); 
-                padding: 12px 25px; 
-                display: flex; 
-                justify-content: center; 
-                align-items: center; 
-                border-bottom: 1px solid var(--border);
-                position: relative; z-index: 2;
-            }}
-            
-            .status {{ font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }}
-            .live {{ color: #ef4444; animation: pulse 1.5s infinite; }}
-            
-            .matchup {{ 
-                display: flex; 
-                justify-content: space-between; 
-                align-items: center; 
-                padding: 30px 20px; 
-                position: relative;
-                flex-grow: 1;
-            }}
-            
-            .team {{ 
-                text-align: center; 
-                width: 30%; 
-                height: 140px; 
-                position: relative; 
-                display: flex;
-                justify-content: center;
-                align-items: center;
-            }}
-            
-            .team-name {{ 
-                font-weight: 900; 
-                font-size: 0.85rem; 
-                text-transform: uppercase;
-                letter-spacing: 0.5px;
-                position: absolute; 
-                bottom: 0;
-                left: 50%;
-                transform: translateX(-50%);
-                width: 100%;
-                z-index: 3; 
-                text-shadow: 0 2px 4px rgba(0,0,0,1); 
-                padding-bottom: 5px;
-            }}
-            
-            .team-logo {{
-                width: 120px;
-                height: 120px;
-                object-fit: contain;
-                z-index: 1;
-                opacity: 0.9; 
-                margin-bottom: 15px; 
-            }}
-            
-            .score-container {{
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                gap: 15px;
-                position: relative; z-index: 2;
-            }}
-            
-            .score {{ font-size: 2.8rem; font-weight: 900; line-height: 1; text-shadow: 0 2px 5px rgba(0,0,0,0.8); }}
-            .score.winner {{ color: var(--win); }}
-            .score.loser {{ color: var(--subtext); opacity: 0.8; }}
-            
-            .vs-sep {{ color: var(--border); font-style: italic; font-weight: 900; font-size: 1.5rem; }}
-            
-            .prediction-box {{ 
-                background: rgba(15, 23, 42, 0.6);
-                padding: 20px; 
-                text-align: center; 
-                border-top: 1px solid var(--border); 
-                margin-top: auto;
-                position: relative; z-index: 2;
-            }}
-            
-            .pred-label {{ font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 8px; }}
-            .pred-val {{ font-size: 1.2rem; font-weight: 900; color: var(--text); display: flex; align-items: center; justify-content: center; gap: 8px; }}
-            
-            .footer {{ text-align: center; color: var(--subtext); font-size: 0.75rem; margin-top: 50px; padding-bottom: 20px; }}
-            @keyframes pulse {{ 0% {{ opacity: 1; }} 50% {{ opacity: 0.5; }} 100% {{ opacity: 1; }} }}
-            @media (max-width: 768px) {{ .grid {{ grid-template-columns: 1fr; }} .matchup {{ padding: 25px 15px; }} .score {{ font-size: 2.2rem; }} }}
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <header>
-                <h1>NBA PUBLIC HUB</h1>
-                <div class="subtitle">Live Scores & Automated Models</div>
-            </header>
-            <div class="grid">
+def get_shared_styles():
+    return """
+        :root {
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --accent: #3b82f6;
+            --text: #f8fafc;
+            --subtext: #94a3b8;
+            --win: #10b981;
+            --loss: #ef4444;
+            --border: #334155;
+        }
+        * { box-sizing: border-box; }
+        body {
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid var(--border);
+        }
+        h1 {
+            font-weight: 900;
+            letter-spacing: -1px;
+            margin: 0;
+            color: var(--accent);
+            font-size: 2.5rem;
+        }
+        .subtitle {
+            color: var(--subtext);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 10px;
+        }
+
+        /* ── GAME CARDS ── */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+            gap: 25px;
+        }
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.2);
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 25px -5px rgba(0,0,0,0.3);
+            border-color: var(--accent);
+        }
+        .card-header {
+            background: rgba(0,0,0,0.3);
+            padding: 12px 25px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-bottom: 1px solid var(--border);
+        }
+        .status { font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }
+        .live { color: #ef4444; animation: pulse 1.5s infinite; }
+        .matchup {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 30px 20px;
+            flex-grow: 1;
+        }
+        .team {
+            text-align: center;
+            width: 30%;
+            height: 140px;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .team-name {
+            font-weight: 900;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100%;
+            text-shadow: 0 2px 4px rgba(0,0,0,1);
+            padding-bottom: 5px;
+        }
+        .team-logo {
+            width: 120px;
+            height: 120px;
+            object-fit: contain;
+            opacity: 0.9;
+            margin-bottom: 15px;
+        }
+        .score-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+        }
+        .score { font-size: 2.8rem; font-weight: 900; line-height: 1; text-shadow: 0 2px 5px rgba(0,0,0,0.8); }
+        .score.winner { color: var(--win); }
+        .score.loser   { color: var(--subtext); opacity: 0.8; }
+        .vs-sep { color: var(--border); font-style: italic; font-weight: 900; font-size: 1.5rem; }
+        .prediction-box {
+            background: rgba(15,23,42,0.6);
+            padding: 20px;
+            text-align: center;
+            border-top: 1px solid var(--border);
+            margin-top: auto;
+        }
+        .pred-label { font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 8px; }
+        .pred-val { font-size: 1.2rem; font-weight: 900; color: var(--text); display: flex; align-items: center; justify-content: center; gap: 8px; }
+
+        /* ── HISTORY SECTION ── */
+        .history-section {
+            margin-top: 80px;
+            padding-top: 40px;
+            border-top: 1px solid var(--border);
+        }
+        .history-section h2 {
+            text-align: center;
+            color: var(--accent);
+            font-size: 1.6rem;
+            font-weight: 900;
+            margin-bottom: 6px;
+        }
+        .hist-sub {
+            text-align: center;
+            color: var(--subtext);
+            font-size: 0.9rem;
+            margin-bottom: 32px;
+        }
+        .hist-picker {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            align-items: stretch;
+            max-width: 720px;
+            margin: 0 auto;
+        }
+        .hist-btn {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 16px 24px;
+            cursor: pointer;
+            font-family: 'Montserrat', sans-serif;
+            color: var(--text);
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            min-width: 150px;
+            flex: 1;
+            transition: background 0.15s, border-color 0.15s, transform 0.15s;
+            text-align: left;
+        }
+        .hist-btn:hover, .hist-btn.active {
+            background: #1e3a5f;
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+        .btn-label {
+            font-size: 0.68rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--subtext);
+        }
+        .hist-btn.active .btn-label { color: #60a5fa; }
+        .btn-date { font-size: 0.92rem; font-weight: 800; color: var(--text); }
+
+        /* Calendar button */
+        .hist-cal-btn {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 16px 24px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex: 1;
+            min-width: 190px;
+            position: relative;
+            transition: background 0.15s, border-color 0.15s, transform 0.15s;
+        }
+        .hist-cal-btn:hover, .hist-cal-btn.active {
+            background: #1e3a5f;
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+        .hist-cal-btn.active .btn-label { color: #60a5fa; }
+        .hist-cal-btn .btn-date { color: #60a5fa; font-size: 0.92rem; font-weight: 800; }
+
+        /* Divider */
+        .hist-divider {
+            width: 1px;
+            background: var(--border);
+            align-self: stretch;
+            flex-shrink: 0;
+            margin: 0 2px;
+        }
+
+        /* Result row */
+        .hist-result {
+            display: none;
+            align-items: center;
+            gap: 12px;
+            max-width: 720px;
+            margin: 20px auto 0;
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 16px 22px;
+            font-size: 0.9rem;
+            color: var(--subtext);
+        }
+        .hist-result.show { display: flex; }
+        .hist-result .arrow { color: var(--accent); font-size: 1.2rem; }
+        .hist-result strong { color: var(--text); }
+        .hist-result a {
+            margin-left: auto;
+            background: var(--accent);
+            color: #fff;
+            font-weight: 700;
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 8px 18px;
+            border-radius: 10px;
+            text-decoration: none;
+            white-space: nowrap;
+            transition: background 0.15s;
+        }
+        .hist-result a:hover { background: #2563eb; }
+
+        /* ── ARCHIVE PAGE BACK BUTTON ── */
+        .back-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            color: #60a5fa;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            transition: background 0.15s, border-color 0.15s;
+        }
+        .back-btn:hover { background: #1e3a5f; border-color: var(--accent); }
+
+        .footer {
+            text-align: center;
+            color: var(--subtext);
+            font-size: 0.75rem;
+            margin-top: 50px;
+            padding-bottom: 20px;
+        }
+
+        @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.5; } }
+        @media (max-width: 768px) {
+            .grid { grid-template-columns: 1fr; }
+            .matchup { padding: 25px 15px; }
+            .score { font-size: 2.2rem; }
+            .hist-picker { flex-direction: column; }
+            .hist-divider { display: none; }
+        }
     """
 
-    count = 0
+def get_history_js(archive_prefix=""):
+    """
+    archive_prefix: "" dla index.html (archive/DATE.html)
+                    "../" dla archive/DATE.html (../archive/DATE.html)
+    """
+    return f"""
+    <script>
+        const today = new Date();
+        function fmtDisplay(d) {{
+            return d.toLocaleDateString('en-US', {{ month: 'long', day: 'numeric', year: 'numeric' }});
+        }}
+        function fmtSlug(d) {{
+            const y = d.getFullYear();
+            const m = String(d.getMonth()+1).padStart(2,'0');
+            const dd = String(d.getDate()).padStart(2,'0');
+            return `${{y}}-${{m}}-${{dd}}`;
+        }}
+        function offsetDay(n) {{
+            const d = new Date(today);
+            d.setDate(d.getDate() + n);
+            return d;
+        }}
+        const yday = offsetDay(-1);
+        const db4  = offsetDay(-2);
+        document.getElementById('lbl-yesterday').textContent = fmtDisplay(yday);
+        document.getElementById('lbl-dayb4').textContent     = fmtDisplay(db4);
+
+        function clearActive() {{
+            ['btn-yesterday','btn-dayb4','cal-btn'].forEach(id =>
+                document.getElementById(id).classList.remove('active')
+            );
+        }}
+        function showResult(label, slug) {{
+            document.getElementById('res-date').textContent = label;
+            document.getElementById('res-link').href = '{archive_prefix}archive/' + slug + '.html';
+            document.getElementById('hist-result').classList.add('show');
+        }}
+        function selectDay(which) {{
+            clearActive();
+            const d = which === 'yesterday' ? yday : db4;
+            document.getElementById('btn-' + which).classList.add('active');
+            document.getElementById('cal-display').textContent = 'Open calendar';
+            document.getElementById('cal-btn').classList.remove('active');
+            showResult(fmtDisplay(d), fmtSlug(d));
+        }}
+        function selectCustom(val) {{
+            if (!val) return;
+            clearActive();
+            const parts = val.split('-');
+            const d = new Date(+parts[0], +parts[1]-1, +parts[2]);
+            document.getElementById('cal-display').textContent = fmtDisplay(d);
+            document.getElementById('cal-btn').classList.add('active');
+            showResult(fmtDisplay(d), fmtSlug(d));
+        }}
+        // Otwieramy kalendarz kliknięciem w cały przycisk
+        document.getElementById('cal-btn').addEventListener('click', function() {{
+            document.getElementById('hidden-date').showPicker
+                ? document.getElementById('hidden-date').showPicker()
+                : document.getElementById('hidden-date').click();
+        }});
+    </script>
+    """
+
+def get_history_html_block():
+    return """
+        <div id="history" class="history-section">
+            <h2>📖 Prediction History</h2>
+            <p class="hist-sub">Archive of previous days AI predictions</p>
+
+            <div class="hist-picker">
+                <button class="hist-btn" id="btn-yesterday" onclick="selectDay('yesterday')">
+                    <span class="btn-label">Yesterday</span>
+                    <span class="btn-date" id="lbl-yesterday">—</span>
+                </button>
+                <button class="hist-btn" id="btn-dayb4" onclick="selectDay('dayb4')">
+                    <span class="btn-label">Day before</span>
+                    <span class="btn-date" id="lbl-dayb4">—</span>
+                </button>
+                <div class="hist-divider"></div>
+                <div class="hist-cal-btn" id="cal-btn">
+                    <svg width="22" height="22" viewBox="0 0 22 22" fill="none" style="flex-shrink:0">
+                        <rect x="2" y="4" width="18" height="16" rx="3" stroke="#60a5fa" stroke-width="1.2" fill="none"/>
+                        <line x1="2" y1="8.5" x2="20" y2="8.5" stroke="#60a5fa" stroke-width="1.2"/>
+                        <line x1="7" y1="2" x2="7" y2="6" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round"/>
+                        <line x1="15" y1="2" x2="15" y2="6" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round"/>
+                    </svg>
+                    <div>
+                        <div class="btn-label">Pick a date</div>
+                        <div class="btn-date" id="cal-display" style="color:#60a5fa;">Open calendar</div>
+                    </div>
+                    <input type="date" id="hidden-date" style="position:absolute;opacity:0;width:1px;height:1px;pointer-events:none;" onchange="selectCustom(this.value)">
+                </div>
+            </div>
+
+            <div class="hist-result" id="hist-result">
+                <span class="arrow">→</span>
+                <span>Archive for <strong id="res-date"></strong></span>
+                <a href="#" id="res-link" target="_blank">View picks ↗</a>
+            </div>
+        </div>
+    """
+
+
+# ==========================================
+# 🃏 BUDOWANIE KART MECZÓW
+# ==========================================
+
+def build_game_cards(events):
+    cards_html = ""
+    picks_for_gemini = []
+
     for event in events:
         try:
             competition = event['competitions'][0]
-            competitors = competition['competitors']
-            status = event['status']['type']
-            state = status['state'] # 'pre', 'in', 'post'
-            
-            # Pobieranie drużyn
+            competitors  = competition['competitors']
+            status       = event['status']['type']
+            state        = status['state']
+
             home_team = next(t for t in competitors if t['homeAway'] == 'home')
             away_team = next(t for t in competitors if t['homeAway'] == 'away')
-            
-            h_name = home_team['team']['shortDisplayName']
-            a_name = away_team['team']['shortDisplayName']
-            h_abbr = home_team['team']['abbreviation']
-            a_abbr = away_team['team']['abbreviation']
 
-            # LOGO
+            h_name  = home_team['team']['shortDisplayName']
+            a_name  = away_team['team']['shortDisplayName']
+            h_abbr  = home_team['team']['abbreviation']
+            a_abbr  = away_team['team']['abbreviation']
+
             h_logo_url = get_team_logo(h_abbr)
             a_logo_url = get_team_logo(a_abbr)
-            
-            # Wyniki i Rekordy
+
             h_score = int(home_team.get('score', 0))
             a_score = int(away_team.get('score', 0))
             h_record_str = next((s['summary'] for s in home_team.get('records', []) if s['type'] == 'total'), "0-0")
             a_record_str = next((s['summary'] for s in away_team.get('records', []) if s['type'] == 'total'), "0-0")
 
-            # === LOGIKA PROGNOZY ===
             h_pct = parse_record(h_record_str)
             a_pct = parse_record(a_record_str)
-            
-            if (h_pct + 0.05) > a_pct:
-                predicted_winner = h_name
-            else:
-                predicted_winner = a_name
-            
-            # DODAJEMY DO LISTY DLA GEMINI (tylko nadchodzące mecze)
+            predicted_winner = h_name if (h_pct + 0.05) > a_pct else a_name
+
             if state == 'pre':
                 picks_for_gemini.append(f"{a_name} @ {h_name} -> Typ: {predicted_winner}")
 
-            # === LOGIKA WYNIKÓW HTML ===
             is_final = (state == 'post')
-            actual_winner = ""
             h_score_class = "score"
             a_score_class = "score"
-            
+            actual_winner = ""
+
             if state == 'pre':
-                 score_display_html = f'<span class="vs-sep" style="font-size: 2rem;">VS</span>'
+                score_display_html = '<span class="vs-sep" style="font-size:2rem;">VS</span>'
             else:
                 if is_final:
                     if h_score > a_score:
-                        actual_winner = h_name
-                        h_score_class += " winner"; a_score_class += " loser"
+                        actual_winner   = h_name
+                        h_score_class  += " winner"
+                        a_score_class  += " loser"
                     else:
-                        actual_winner = a_name
-                        a_score_class += " winner"; h_score_class += " loser"
-                
+                        actual_winner   = a_name
+                        a_score_class  += " winner"
+                        h_score_class  += " loser"
                 score_display_html = f"""
                     <span class="{a_score_class}">{a_score}</span>
                     <span class="vs-sep">:</span>
                     <span class="{h_score_class}">{h_score}</span>
                 """
 
-            # Status
-            status_text = status['detail']
+            status_text  = status['detail']
             status_class = "status"
-            if state == 'in': 
+            if state == 'in':
                 status_class += " live"
-                status_text = "🔴 " + status['shortDetail']
+                status_text   = "🔴 " + status['shortDetail']
 
-            # Ikona wyniku
             outcome_icon = ""
             if is_final:
-                outcome_icon = ' <span style="color: #10b981;">✅</span>' if predicted_winner == actual_winner else ' <span style="color: #ef4444;">❌</span>'
-            
-            prediction_content = f'{predicted_winner}{outcome_icon}'
+                outcome_icon = ' <span style="color:#10b981;">✅</span>' if predicted_winner == actual_winner else ' <span style="color:#ef4444;">❌</span>'
 
-            # Budowanie karty HTML
-            html += f"""
+            cards_html += f"""
             <div class="card">
                 <div class="card-header">
                     <span class="{status_class}">{status_text}</span>
@@ -333,35 +569,110 @@ def generate_html():
                 </div>
                 <div class="prediction-box">
                     <div class="pred-label">Public AI Model Picks</div>
-                    <div class="pred-val">{prediction_content}</div>
+                    <div class="pred-val">{predicted_winner}{outcome_icon}</div>
                 </div>
             </div>
             """
-            count += 1
         except Exception as e:
-            print(f"Błąd przy przetwarzaniu meczu: {e}")
+            print(f"Błąd przy meczu: {e}")
             continue
 
-    if count == 0:
-        html += "<p style='text-align:center; color:#888;'>Brak meczów w harmonogramie ESPN.</p>"
+    return cards_html, picks_for_gemini
 
-    # Zamknięcie HTML
-    html += f"""
-            </div>
-            <div class="footer">
-                Last updated: {datetime.now().strftime("%B %d, %Y at %H:%M")} 
-            </div>
+
+# ==========================================
+# 📄 GENEROWANIE HTML
+# ==========================================
+
+def build_page(title_date, cards_html, is_archive=False, archive_prefix=""):
+    back_button = ""
+    if is_archive:
+        back_button = f'<a href="{archive_prefix}index.html" class="back-btn">← Back to today</a>'
+
+    history_block = get_history_html_block()
+    history_js    = get_history_js(archive_prefix=archive_prefix)
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA Public AI Picks — {title_date}</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏀</text></svg>">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
+    <style>{get_shared_styles()}</style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>NBA PUBLIC HUB</h1>
+            <div class="subtitle">Live Scores & Public AI Model Picks — {title_date}</div>
+        </header>
+
+        {back_button}
+
+        <div class="grid">
+            {cards_html if cards_html else '<p style="text-align:center;color:#888;">No games scheduled.</p>'}
         </div>
-    </body>
-    </html>
-    """
-    
-    # ZAPIS PLIKÓW
+
+        {history_block}
+
+        <div class="footer">
+            Last updated: {datetime.now().strftime("%B %d, %Y at %H:%M")}
+        </div>
+    </div>
+    {history_js}
+</body>
+</html>"""
+
+
+# ==========================================
+# 🚀 GŁÓWNA FUNKCJA
+# ==========================================
+
+def generate_html():
+    print("🚀 URUCHAMIAM NBA UPDATE BOT...")
+
+    data = get_espn_data()
+    if not data or 'events' not in data:
+        print("❌ Brak danych z ESPN.")
+        return
+
+    events = data['events']
+    today_str   = datetime.now().strftime("%B %d, %Y")
+    today_slug  = datetime.now().strftime("%Y-%m-%d")
+
+    cards_html, picks_for_gemini = build_game_cards(events)
+
+    # ── 1. Zapisz index.html (dzisiejszy dzień) ──
+    index_content = build_page(
+        title_date    = today_str,
+        cards_html    = cards_html,
+        is_archive    = False,
+        archive_prefix= ""
+    )
     with open("index.html", "w", encoding="utf-8") as f:
-        f.write(html)
-    
+        f.write(index_content)
+    print(f"✅ Zapisano index.html")
+
+    # ── 2. Zapisz archiwum archive/YYYY-MM-DD.html ──
+    os.makedirs("archive", exist_ok=True)
+    archive_path    = f"archive/{today_slug}.html"
+    archive_content = build_page(
+        title_date    = today_str,
+        cards_html    = cards_html,
+        is_archive    = True,
+        archive_prefix= "../"
+    )
+    with open(archive_path, "w", encoding="utf-8") as f:
+        f.write(archive_content)
+    print(f"✅ Zapisano {archive_path}")
+
+    # ── 3. Zapisz typy dla Gemini ──
     save_picks_for_gemini(picks_for_gemini)
-    print("✅ Wszystkie zadania zakończone sukcesem.")
+
+    print("🏀 Wszystkie zadania zakończone sukcesem.")
+
 
 if __name__ == "__main__":
     generate_html()
