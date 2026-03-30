@@ -332,7 +332,7 @@ def generate_html():
                     </div>
                 </div>
                 <div class="prediction-box">
-                    <div class="pred-label">Prognoza Modelu Publicznego</div>
+                    <div class="pred-label">Public AI Model Picks</div>
                     <div class="pred-val">{prediction_content}</div>
                 </div>
             </div>
@@ -349,7 +349,7 @@ def generate_html():
     html += f"""
             </div>
             <div class="footer">
-                Automatyczna aktualizacja: {datetime.now().strftime("%Y-%m-%d %H:%M")} | Data Source: ESPN
+                Last updated: {datetime.now().strftime("%B %d, %Y at %H:%M")} 
             </div>
         </div>
     </body>
