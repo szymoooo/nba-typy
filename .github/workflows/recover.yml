@@ -1,0 +1,37 @@
+name: Recover Archive
+
+on:
+  workflow_dispatch:  # uruchamiasz ręcznie jednym kliknięciem
+
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # pobiera CAŁĄ historię commitów
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run recovery script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python recover_archive.py
+
+      - name: Commit and push archive
+        run: |
+          git config user.name "Archive Bot"
+          git config user.email "bot@nba-freepicks.com"
+          git add archive/
+          git diff --staged --quiet || git commit -m "Recover historical archive from commit history"
+          git push
