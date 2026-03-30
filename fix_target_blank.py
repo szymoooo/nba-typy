@@ -3,7 +3,7 @@ import glob
 
 # Usuwa target="_blank" ze wszystkich istniejących plików archiwum
 
-files = glob.glob("archive/*.html")
+files = glob.glob("archive/*.html") + ["index.html"]
 fixed = 0
 
 for path in files:
