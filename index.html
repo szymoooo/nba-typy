@@ -26,7 +26,6 @@
             padding: 20px;
         }
         .container { max-width: 1200px; margin: 0 auto; }
-
         header {
             text-align: center;
             margin-bottom: 40px;
@@ -47,8 +46,6 @@
             letter-spacing: 1px;
             margin-top: 10px;
         }
-
-        /* ── GAME CARDS ── */
         .grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
@@ -135,7 +132,7 @@
         .pred-label { font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 8px; }
         .pred-val { font-size: 1.2rem; font-weight: 900; color: var(--text); display: flex; align-items: center; justify-content: center; gap: 8px; }
 
-        /* ── HISTORY SECTION ── */
+        /* ── HISTORY ── */
         .history-section {
             margin-top: 80px;
             padding-top: 40px;
@@ -178,10 +175,15 @@
             transition: background 0.15s, border-color 0.15s, transform 0.15s;
             text-align: left;
         }
-        .hist-btn:hover, .hist-btn.active {
+        .hist-btn:hover:not(.disabled), .hist-btn.active {
             background: #1e3a5f;
             border-color: var(--accent);
             transform: translateY(-2px);
+        }
+        .hist-btn.disabled {
+            opacity: 0.35;
+            cursor: not-allowed;
+            filter: grayscale(1);
         }
         .btn-label {
             font-size: 0.68rem;
@@ -192,8 +194,8 @@
         }
         .hist-btn.active .btn-label { color: #60a5fa; }
         .btn-date { font-size: 0.92rem; font-weight: 800; color: var(--text); }
+        .hist-btn.disabled .btn-date { color: var(--subtext); }
 
-        /* Calendar button */
         .hist-cal-btn {
             background: var(--card-bg);
             border: 1px solid var(--border);
@@ -216,7 +218,6 @@
         .hist-cal-btn.active .btn-label { color: #60a5fa; }
         .hist-cal-btn .btn-date { color: #60a5fa; font-size: 0.92rem; font-weight: 800; }
 
-        /* Divider */
         .hist-divider {
             width: 1px;
             background: var(--border);
@@ -225,21 +226,27 @@
             margin: 0 2px;
         }
 
-        /* Result row */
-        .hist-result {
-            display: none;
-            align-items: center;
-            gap: 12px;
+        .hist-result, .hist-noarchive {
             max-width: 720px;
             margin: 20px auto 0;
-            background: var(--card-bg);
-            border: 1px solid var(--border);
             border-radius: 14px;
             padding: 16px 22px;
             font-size: 0.9rem;
+            display: none;
+            align-items: center;
+            gap: 12px;
+        }
+        .hist-result {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
             color: var(--subtext);
         }
-        .hist-result.show { display: flex; }
+        .hist-noarchive {
+            background: rgba(239,68,68,0.08);
+            border: 1px solid rgba(239,68,68,0.25);
+            color: #fca5a5;
+        }
+        .hist-result.show, .hist-noarchive.show { display: flex; }
         .hist-result .arrow { color: var(--accent); font-size: 1.2rem; }
         .hist-result strong { color: var(--text); }
         .hist-result a {
@@ -258,7 +265,6 @@
         }
         .hist-result a:hover { background: #2563eb; }
 
-        /* ── ARCHIVE PAGE BACK BUTTON ── */
         .back-btn {
             display: inline-flex;
             align-items: center;
@@ -284,7 +290,6 @@
             margin-top: 50px;
             padding-bottom: 20px;
         }
-
         @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.5; } }
         @media (max-width: 768px) {
             .grid { grid-template-columns: 1fr; }
@@ -557,13 +562,13 @@
             <p class="hist-sub">Archive of previous days AI predictions</p>
 
             <div class="hist-picker">
-                <button class="hist-btn" id="btn-yesterday" onclick="selectDay('yesterday')">
+                <button class="hist-btn" id="btn-yesterday" onclick="trySelectDay('yesterday')">
                     <span class="btn-label">Yesterday</span>
-                    <span class="btn-date" id="lbl-yesterday">—</span>
+                    <span class="btn-date" id="lbl-yesterday">Loading...</span>
                 </button>
-                <button class="hist-btn" id="btn-dayb4" onclick="selectDay('dayb4')">
+                <button class="hist-btn" id="btn-dayb4" onclick="trySelectDay('dayb4')">
                     <span class="btn-label">Day before</span>
-                    <span class="btn-date" id="lbl-dayb4">—</span>
+                    <span class="btn-date" id="lbl-dayb4">Loading...</span>
                 </button>
                 <div class="hist-divider"></div>
                 <div class="hist-cal-btn" id="cal-btn">
@@ -577,7 +582,9 @@
                         <div class="btn-label">Pick a date</div>
                         <div class="btn-date" id="cal-display" style="color:#60a5fa;">Open calendar</div>
                     </div>
-                    <input type="date" id="hidden-date" style="position:absolute;opacity:0;width:1px;height:1px;pointer-events:none;" onchange="selectCustom(this.value)">
+                    <input type="date" id="hidden-date"
+                           style="position:absolute;opacity:0;width:1px;height:1px;pointer-events:none;"
+                           onchange="selectCustom(this.value)">
                 </div>
             </div>
 
@@ -586,16 +593,26 @@
                 <span>Archive for <strong id="res-date"></strong></span>
                 <a href="#" id="res-link" target="_blank">View picks ↗</a>
             </div>
+
+            <div class="hist-noarchive" id="hist-noarchive">
+                <span>⚠️</span>
+                <span>No archive for <strong id="noarch-date"></strong> — no picks were generated for this date.</span>
+            </div>
         </div>
     
 
         <div class="footer">
-            Last updated: March 30, 2026 at 11:46
+            Last updated: March 30, 2026 at 12:17
         </div>
     </div>
     
     <script>
+        const ARCHIVE_PREFIX = '';
+        let availableDates = new Set();
+        let pickerReady = false;
+
         const today = new Date();
+
         function fmtDisplay(d) {
             return d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
         }
@@ -610,43 +627,86 @@
             d.setDate(d.getDate() + n);
             return d;
         }
+
         const yday = offsetDay(-1);
         const db4  = offsetDay(-2);
-        document.getElementById('lbl-yesterday').textContent = fmtDisplay(yday);
-        document.getElementById('lbl-dayb4').textContent     = fmtDisplay(db4);
+
+        // Wczytaj dostępne daty z index.json
+        fetch(ARCHIVE_PREFIX + 'archive/index.json?v=' + Date.now())
+            .then(r => r.json())
+            .then(data => {
+                availableDates = new Set(data.dates || []);
+            })
+            .catch(() => { /* brak pliku = brak archiwum */ })
+            .finally(() => {
+                pickerReady = true;
+                initPicker();
+            });
+
+        function initPicker() {
+            document.getElementById('lbl-yesterday').textContent = fmtDisplay(yday);
+            document.getElementById('lbl-dayb4').textContent     = fmtDisplay(db4);
+
+            if (!availableDates.has(fmtSlug(yday))) {
+                document.getElementById('btn-yesterday').classList.add('disabled');
+            }
+            if (!availableDates.has(fmtSlug(db4))) {
+                document.getElementById('btn-dayb4').classList.add('disabled');
+            }
+        }
 
         function clearActive() {
             ['btn-yesterday','btn-dayb4','cal-btn'].forEach(id =>
                 document.getElementById(id).classList.remove('active')
             );
+            document.getElementById('hist-result').classList.remove('show');
+            document.getElementById('hist-noarchive').classList.remove('show');
         }
+
         function showResult(label, slug) {
             document.getElementById('res-date').textContent = label;
-            document.getElementById('res-link').href = 'archive/' + slug + '.html';
+            document.getElementById('res-link').href = ARCHIVE_PREFIX + 'archive/' + slug + '.html';
             document.getElementById('hist-result').classList.add('show');
+            document.getElementById('hist-noarchive').classList.remove('show');
         }
-        function selectDay(which) {
+
+        function showNoArchive(label) {
+            document.getElementById('noarch-date').textContent = label;
+            document.getElementById('hist-noarchive').classList.add('show');
+            document.getElementById('hist-result').classList.remove('show');
+        }
+
+        function trySelectDay(which) {
+            const btn = document.getElementById('btn-' + which);
+            if (btn.classList.contains('disabled')) return;
             clearActive();
             const d = which === 'yesterday' ? yday : db4;
-            document.getElementById('btn-' + which).classList.add('active');
+            btn.classList.add('active');
             document.getElementById('cal-display').textContent = 'Open calendar';
             document.getElementById('cal-btn').classList.remove('active');
             showResult(fmtDisplay(d), fmtSlug(d));
         }
+
         function selectCustom(val) {
             if (!val) return;
             clearActive();
             const parts = val.split('-');
-            const d = new Date(+parts[0], +parts[1]-1, +parts[2]);
-            document.getElementById('cal-display').textContent = fmtDisplay(d);
+            const d     = new Date(+parts[0], +parts[1]-1, +parts[2]);
+            const slug  = fmtSlug(d);
+            const label = fmtDisplay(d);
+            document.getElementById('cal-display').textContent = label;
             document.getElementById('cal-btn').classList.add('active');
-            showResult(fmtDisplay(d), fmtSlug(d));
+
+            if (pickerReady && availableDates.size > 0 && !availableDates.has(slug)) {
+                showNoArchive(label);
+            } else {
+                showResult(label, slug);
+            }
         }
-        // Otwieramy kalendarz kliknięciem w cały przycisk
+
         document.getElementById('cal-btn').addEventListener('click', function() {
-            document.getElementById('hidden-date').showPicker
-                ? document.getElementById('hidden-date').showPicker()
-                : document.getElementById('hidden-date').click();
+            const inp = document.getElementById('hidden-date');
+            if (inp.showPicker) inp.showPicker(); else inp.click();
         });
     </script>
     
