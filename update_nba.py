@@ -2,7 +2,6 @@ import requests
 import json
 from datetime import datetime, timedelta
 import os
-import shutil
 
 # ==========================================
 # ⚙️ KONFIGURACJA
@@ -80,9 +79,25 @@ def save_picks_for_gemini(picks):
         f.write("\n".join(picks))
     print(f"✅ Zapisano {len(picks)} typów do propozycje_typow.txt")
 
+def load_archive_dates():
+    """Wczytuje istniejące daty z archive/index.json"""
+    index_path = "archive/index.json"
+    if os.path.exists(index_path):
+        with open(index_path, "r", encoding="utf-8") as f:
+            return json.load(f).get("dates", [])
+    return []
+
+def save_archive_dates(dates):
+    """Zapisuje zaktualizowaną listę dat do archive/index.json"""
+    os.makedirs("archive", exist_ok=True)
+    sorted_dates = sorted(set(dates), reverse=True)
+    with open("archive/index.json", "w", encoding="utf-8") as f:
+        json.dump({"dates": sorted_dates}, f, indent=2)
+    print(f"✅ Zaktualizowano archive/index.json ({len(sorted_dates)} dat)")
+
 
 # ==========================================
-# 🎨 WSPÓLNY CSS + HISTORIA (reużywany w obu plikach)
+# 🎨 WSPÓLNY CSS
 # ==========================================
 
 def get_shared_styles():
@@ -106,7 +121,6 @@ def get_shared_styles():
             padding: 20px;
         }
         .container { max-width: 1200px; margin: 0 auto; }
-
         header {
             text-align: center;
             margin-bottom: 40px;
@@ -127,8 +141,6 @@ def get_shared_styles():
             letter-spacing: 1px;
             margin-top: 10px;
         }
-
-        /* ── GAME CARDS ── */
         .grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
@@ -215,7 +227,7 @@ def get_shared_styles():
         .pred-label { font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 8px; }
         .pred-val { font-size: 1.2rem; font-weight: 900; color: var(--text); display: flex; align-items: center; justify-content: center; gap: 8px; }
 
-        /* ── HISTORY SECTION ── */
+        /* ── HISTORY ── */
         .history-section {
             margin-top: 80px;
             padding-top: 40px;
@@ -258,10 +270,15 @@ def get_shared_styles():
             transition: background 0.15s, border-color 0.15s, transform 0.15s;
             text-align: left;
         }
-        .hist-btn:hover, .hist-btn.active {
+        .hist-btn:hover:not(.disabled), .hist-btn.active {
             background: #1e3a5f;
             border-color: var(--accent);
             transform: translateY(-2px);
+        }
+        .hist-btn.disabled {
+            opacity: 0.35;
+            cursor: not-allowed;
+            filter: grayscale(1);
         }
         .btn-label {
             font-size: 0.68rem;
@@ -272,8 +289,8 @@ def get_shared_styles():
         }
         .hist-btn.active .btn-label { color: #60a5fa; }
         .btn-date { font-size: 0.92rem; font-weight: 800; color: var(--text); }
+        .hist-btn.disabled .btn-date { color: var(--subtext); }
 
-        /* Calendar button */
         .hist-cal-btn {
             background: var(--card-bg);
             border: 1px solid var(--border);
@@ -296,7 +313,6 @@ def get_shared_styles():
         .hist-cal-btn.active .btn-label { color: #60a5fa; }
         .hist-cal-btn .btn-date { color: #60a5fa; font-size: 0.92rem; font-weight: 800; }
 
-        /* Divider */
         .hist-divider {
             width: 1px;
             background: var(--border);
@@ -305,21 +321,27 @@ def get_shared_styles():
             margin: 0 2px;
         }
 
-        /* Result row */
-        .hist-result {
-            display: none;
-            align-items: center;
-            gap: 12px;
+        .hist-result, .hist-noarchive {
             max-width: 720px;
             margin: 20px auto 0;
-            background: var(--card-bg);
-            border: 1px solid var(--border);
             border-radius: 14px;
             padding: 16px 22px;
             font-size: 0.9rem;
+            display: none;
+            align-items: center;
+            gap: 12px;
+        }
+        .hist-result {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
             color: var(--subtext);
         }
-        .hist-result.show { display: flex; }
+        .hist-noarchive {
+            background: rgba(239,68,68,0.08);
+            border: 1px solid rgba(239,68,68,0.25);
+            color: #fca5a5;
+        }
+        .hist-result.show, .hist-noarchive.show { display: flex; }
         .hist-result .arrow { color: var(--accent); font-size: 1.2rem; }
         .hist-result strong { color: var(--text); }
         .hist-result a {
@@ -338,7 +360,6 @@ def get_shared_styles():
         }
         .hist-result a:hover { background: #2563eb; }
 
-        /* ── ARCHIVE PAGE BACK BUTTON ── */
         .back-btn {
             display: inline-flex;
             align-items: center;
@@ -364,7 +385,6 @@ def get_shared_styles():
             margin-top: 50px;
             padding-bottom: 20px;
         }
-
         @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.5; } }
         @media (max-width: 768px) {
             .grid { grid-template-columns: 1fr; }
@@ -375,14 +395,66 @@ def get_shared_styles():
         }
     """
 
+
+# ==========================================
+# 📅 HISTORY HTML + JS
+# ==========================================
+
+def get_history_html_block():
+    return """
+        <div id="history" class="history-section">
+            <h2>📖 Prediction History</h2>
+            <p class="hist-sub">Archive of previous days AI predictions</p>
+
+            <div class="hist-picker">
+                <button class="hist-btn" id="btn-yesterday" onclick="trySelectDay('yesterday')">
+                    <span class="btn-label">Yesterday</span>
+                    <span class="btn-date" id="lbl-yesterday">Loading...</span>
+                </button>
+                <button class="hist-btn" id="btn-dayb4" onclick="trySelectDay('dayb4')">
+                    <span class="btn-label">Day before</span>
+                    <span class="btn-date" id="lbl-dayb4">Loading...</span>
+                </button>
+                <div class="hist-divider"></div>
+                <div class="hist-cal-btn" id="cal-btn">
+                    <svg width="22" height="22" viewBox="0 0 22 22" fill="none" style="flex-shrink:0">
+                        <rect x="2" y="4" width="18" height="16" rx="3" stroke="#60a5fa" stroke-width="1.2" fill="none"/>
+                        <line x1="2" y1="8.5" x2="20" y2="8.5" stroke="#60a5fa" stroke-width="1.2"/>
+                        <line x1="7" y1="2" x2="7" y2="6" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round"/>
+                        <line x1="15" y1="2" x2="15" y2="6" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round"/>
+                    </svg>
+                    <div>
+                        <div class="btn-label">Pick a date</div>
+                        <div class="btn-date" id="cal-display" style="color:#60a5fa;">Open calendar</div>
+                    </div>
+                    <input type="date" id="hidden-date"
+                           style="position:absolute;opacity:0;width:1px;height:1px;pointer-events:none;"
+                           onchange="selectCustom(this.value)">
+                </div>
+            </div>
+
+            <div class="hist-result" id="hist-result">
+                <span class="arrow">→</span>
+                <span>Archive for <strong id="res-date"></strong></span>
+                <a href="#" id="res-link" target="_blank">View picks ↗</a>
+            </div>
+
+            <div class="hist-noarchive" id="hist-noarchive">
+                <span>⚠️</span>
+                <span>No archive for <strong id="noarch-date"></strong> — no picks were generated for this date.</span>
+            </div>
+        </div>
+    """
+
 def get_history_js(archive_prefix=""):
-    """
-    archive_prefix: "" dla index.html (archive/DATE.html)
-                    "../" dla archive/DATE.html (../archive/DATE.html)
-    """
     return f"""
     <script>
+        const ARCHIVE_PREFIX = '{archive_prefix}';
+        let availableDates = new Set();
+        let pickerReady = false;
+
         const today = new Date();
+
         function fmtDisplay(d) {{
             return d.toLocaleDateString('en-US', {{ month: 'long', day: 'numeric', year: 'numeric' }});
         }}
@@ -397,84 +469,88 @@ def get_history_js(archive_prefix=""):
             d.setDate(d.getDate() + n);
             return d;
         }}
+
         const yday = offsetDay(-1);
         const db4  = offsetDay(-2);
-        document.getElementById('lbl-yesterday').textContent = fmtDisplay(yday);
-        document.getElementById('lbl-dayb4').textContent     = fmtDisplay(db4);
+
+        // Wczytaj dostępne daty z index.json
+        fetch(ARCHIVE_PREFIX + 'archive/index.json?v=' + Date.now())
+            .then(r => r.json())
+            .then(data => {{
+                availableDates = new Set(data.dates || []);
+            }})
+            .catch(() => {{ /* brak pliku = brak archiwum */ }})
+            .finally(() => {{
+                pickerReady = true;
+                initPicker();
+            }});
+
+        function initPicker() {{
+            document.getElementById('lbl-yesterday').textContent = fmtDisplay(yday);
+            document.getElementById('lbl-dayb4').textContent     = fmtDisplay(db4);
+
+            if (!availableDates.has(fmtSlug(yday))) {{
+                document.getElementById('btn-yesterday').classList.add('disabled');
+            }}
+            if (!availableDates.has(fmtSlug(db4))) {{
+                document.getElementById('btn-dayb4').classList.add('disabled');
+            }}
+        }}
 
         function clearActive() {{
             ['btn-yesterday','btn-dayb4','cal-btn'].forEach(id =>
                 document.getElementById(id).classList.remove('active')
             );
+            document.getElementById('hist-result').classList.remove('show');
+            document.getElementById('hist-noarchive').classList.remove('show');
         }}
+
         function showResult(label, slug) {{
             document.getElementById('res-date').textContent = label;
-            document.getElementById('res-link').href = '{archive_prefix}archive/' + slug + '.html';
+            document.getElementById('res-link').href = ARCHIVE_PREFIX + 'archive/' + slug + '.html';
             document.getElementById('hist-result').classList.add('show');
+            document.getElementById('hist-noarchive').classList.remove('show');
         }}
-        function selectDay(which) {{
+
+        function showNoArchive(label) {{
+            document.getElementById('noarch-date').textContent = label;
+            document.getElementById('hist-noarchive').classList.add('show');
+            document.getElementById('hist-result').classList.remove('show');
+        }}
+
+        function trySelectDay(which) {{
+            const btn = document.getElementById('btn-' + which);
+            if (btn.classList.contains('disabled')) return;
             clearActive();
             const d = which === 'yesterday' ? yday : db4;
-            document.getElementById('btn-' + which).classList.add('active');
+            btn.classList.add('active');
             document.getElementById('cal-display').textContent = 'Open calendar';
             document.getElementById('cal-btn').classList.remove('active');
             showResult(fmtDisplay(d), fmtSlug(d));
         }}
+
         function selectCustom(val) {{
             if (!val) return;
             clearActive();
             const parts = val.split('-');
-            const d = new Date(+parts[0], +parts[1]-1, +parts[2]);
-            document.getElementById('cal-display').textContent = fmtDisplay(d);
+            const d     = new Date(+parts[0], +parts[1]-1, +parts[2]);
+            const slug  = fmtSlug(d);
+            const label = fmtDisplay(d);
+            document.getElementById('cal-display').textContent = label;
             document.getElementById('cal-btn').classList.add('active');
-            showResult(fmtDisplay(d), fmtSlug(d));
+
+            if (pickerReady && availableDates.size > 0 && !availableDates.has(slug)) {{
+                showNoArchive(label);
+            }} else {{
+                showResult(label, slug);
+            }}
         }}
-        // Otwieramy kalendarz kliknięciem w cały przycisk
+
         document.getElementById('cal-btn').addEventListener('click', function() {{
-            document.getElementById('hidden-date').showPicker
-                ? document.getElementById('hidden-date').showPicker()
-                : document.getElementById('hidden-date').click();
+            const inp = document.getElementById('hidden-date');
+            if (inp.showPicker) inp.showPicker(); else inp.click();
         }});
     </script>
-    """
-
-def get_history_html_block():
-    return """
-        <div id="history" class="history-section">
-            <h2>📖 Prediction History</h2>
-            <p class="hist-sub">Archive of previous days AI predictions</p>
-
-            <div class="hist-picker">
-                <button class="hist-btn" id="btn-yesterday" onclick="selectDay('yesterday')">
-                    <span class="btn-label">Yesterday</span>
-                    <span class="btn-date" id="lbl-yesterday">—</span>
-                </button>
-                <button class="hist-btn" id="btn-dayb4" onclick="selectDay('dayb4')">
-                    <span class="btn-label">Day before</span>
-                    <span class="btn-date" id="lbl-dayb4">—</span>
-                </button>
-                <div class="hist-divider"></div>
-                <div class="hist-cal-btn" id="cal-btn">
-                    <svg width="22" height="22" viewBox="0 0 22 22" fill="none" style="flex-shrink:0">
-                        <rect x="2" y="4" width="18" height="16" rx="3" stroke="#60a5fa" stroke-width="1.2" fill="none"/>
-                        <line x1="2" y1="8.5" x2="20" y2="8.5" stroke="#60a5fa" stroke-width="1.2"/>
-                        <line x1="7" y1="2" x2="7" y2="6" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round"/>
-                        <line x1="15" y1="2" x2="15" y2="6" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round"/>
-                    </svg>
-                    <div>
-                        <div class="btn-label">Pick a date</div>
-                        <div class="btn-date" id="cal-display" style="color:#60a5fa;">Open calendar</div>
-                    </div>
-                    <input type="date" id="hidden-date" style="position:absolute;opacity:0;width:1px;height:1px;pointer-events:none;" onchange="selectCustom(this.value)">
-                </div>
-            </div>
-
-            <div class="hist-result" id="hist-result">
-                <span class="arrow">→</span>
-                <span>Archive for <strong id="res-date"></strong></span>
-                <a href="#" id="res-link" target="_blank">View picks ↗</a>
-            </div>
-        </div>
     """
 
 
@@ -526,13 +602,13 @@ def build_game_cards(events):
             else:
                 if is_final:
                     if h_score > a_score:
-                        actual_winner   = h_name
-                        h_score_class  += " winner"
-                        a_score_class  += " loser"
+                        actual_winner  = h_name
+                        h_score_class += " winner"
+                        a_score_class += " loser"
                     else:
-                        actual_winner   = a_name
-                        a_score_class  += " winner"
-                        h_score_class  += " loser"
+                        actual_winner  = a_name
+                        a_score_class += " winner"
+                        h_score_class += " loser"
                 score_display_html = f"""
                     <span class="{a_score_class}">{a_score}</span>
                     <span class="vs-sep">:</span>
@@ -581,16 +657,13 @@ def build_game_cards(events):
 
 
 # ==========================================
-# 📄 GENEROWANIE HTML
+# 📄 BUDOWANIE STRONY
 # ==========================================
 
 def build_page(title_date, cards_html, is_archive=False, archive_prefix=""):
     back_button = ""
     if is_archive:
         back_button = f'<a href="{archive_prefix}index.html" class="back-btn">← Back to today</a>'
-
-    history_block = get_history_html_block()
-    history_js    = get_history_js(archive_prefix=archive_prefix)
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -612,16 +685,16 @@ def build_page(title_date, cards_html, is_archive=False, archive_prefix=""):
         {back_button}
 
         <div class="grid">
-            {cards_html if cards_html else '<p style="text-align:center;color:#888;">No games scheduled.</p>'}
+            {cards_html if cards_html.strip() else '<p style="text-align:center;color:#888;">No games scheduled.</p>'}
         </div>
 
-        {history_block}
+        {get_history_html_block()}
 
         <div class="footer">
             Last updated: {datetime.now().strftime("%B %d, %Y at %H:%M")}
         </div>
     </div>
-    {history_js}
+    {get_history_js(archive_prefix=archive_prefix)}
 </body>
 </html>"""
 
@@ -638,37 +711,31 @@ def generate_html():
         print("❌ Brak danych z ESPN.")
         return
 
-    events = data['events']
-    today_str   = datetime.now().strftime("%B %d, %Y")
-    today_slug  = datetime.now().strftime("%Y-%m-%d")
+    events     = data['events']
+    today_str  = datetime.now().strftime("%B %d, %Y")
+    today_slug = datetime.now().strftime("%Y-%m-%d")
 
     cards_html, picks_for_gemini = build_game_cards(events)
 
-    # ── 1. Zapisz index.html (dzisiejszy dzień) ──
-    index_content = build_page(
-        title_date    = today_str,
-        cards_html    = cards_html,
-        is_archive    = False,
-        archive_prefix= ""
-    )
+    # ── 1. index.html ──
     with open("index.html", "w", encoding="utf-8") as f:
-        f.write(index_content)
-    print(f"✅ Zapisano index.html")
+        f.write(build_page(title_date=today_str, cards_html=cards_html,
+                           is_archive=False, archive_prefix=""))
+    print("✅ Zapisano index.html")
 
-    # ── 2. Zapisz archiwum archive/YYYY-MM-DD.html ──
+    # ── 2. archive/YYYY-MM-DD.html ──
     os.makedirs("archive", exist_ok=True)
-    archive_path    = f"archive/{today_slug}.html"
-    archive_content = build_page(
-        title_date    = today_str,
-        cards_html    = cards_html,
-        is_archive    = True,
-        archive_prefix= "../"
-    )
-    with open(archive_path, "w", encoding="utf-8") as f:
-        f.write(archive_content)
-    print(f"✅ Zapisano {archive_path}")
+    with open(f"archive/{today_slug}.html", "w", encoding="utf-8") as f:
+        f.write(build_page(title_date=today_str, cards_html=cards_html,
+                           is_archive=True, archive_prefix="../"))
+    print(f"✅ Zapisano archive/{today_slug}.html")
 
-    # ── 3. Zapisz typy dla Gemini ──
+    # ── 3. Zaktualizuj archive/index.json ──
+    existing = load_archive_dates()
+    existing.append(today_slug)
+    save_archive_dates(existing)
+
+    # ── 4. Typy dla Gemini ──
     save_picks_for_gemini(picks_for_gemini)
 
     print("🏀 Wszystkie zadania zakończone sukcesem.")
