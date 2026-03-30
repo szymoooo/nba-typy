@@ -24,9 +24,8 @@ jobs:
       - name: Fix target blank in archive
         run: python fix_target_blank.py
       - name: Commit and push archive
-        run: |
+         run: |
           git config user.name "Archive Bot"
           git config user.email "bot@nba-freepicks.com"
-          git add archive/
-          git diff --staged --quiet || git commit -m "Recover historical archive from commit history"
-          git push
+          git add archive/ index.html
+          git diff --staged --quiet && echo "Brak zmian" || git commit -m "Fix target blank in archive and index" && git push
