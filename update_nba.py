@@ -436,7 +436,7 @@ def get_history_html_block():
             <div class="hist-result" id="hist-result">
                 <span class="arrow">→</span>
                 <span>Archive for <strong id="res-date"></strong></span>
-                <a href="#" id="res-link" target="_blank">View picks ↗</a>
+                <a href="#" id="res-link">View picks ↗</a>
             </div>
 
             <div class="hist-noarchive" id="hist-noarchive">
@@ -561,6 +561,7 @@ def get_history_js(archive_prefix=""):
 def build_game_cards(events):
     cards_html = ""
     picks_for_gemini = []
+    game_summaries = []  # dla meta tagów SEO
 
     for event in events:
         try:
@@ -591,6 +592,15 @@ def build_game_cards(events):
 
             if state == 'pre':
                 picks_for_gemini.append(f"{a_name} @ {h_name} -> Typ: {predicted_winner}")
+
+            # SEO summary dla tego meczu
+            if state == 'post':
+                result_txt = f"{actual_winner} won {max(h_score,a_score)}-{min(h_score,a_score)}" if actual_winner else ""
+                game_summaries.append(f"{a_name} vs {h_name}: AI picked {predicted_winner}, {result_txt}")
+            elif state == 'pre':
+                game_summaries.append(f"{a_name} vs {h_name}: AI prediction — {predicted_winner} to win")
+            else:
+                game_summaries.append(f"{a_name} vs {h_name} (live): AI picked {predicted_winner}")
 
             is_final = (state == 'post')
             h_score_class = "score"
@@ -653,24 +663,51 @@ def build_game_cards(events):
             print(f"Błąd przy meczu: {e}")
             continue
 
-    return cards_html, picks_for_gemini
+    return cards_html, picks_for_gemini, game_summaries
 
 
 # ==========================================
 # 📄 BUDOWANIE STRONY
 # ==========================================
 
-def build_page(title_date, cards_html, is_archive=False, archive_prefix=""):
+def build_page(title_date, cards_html, game_summaries=None, is_archive=False, archive_prefix="", today_slug=""):
     back_button = ""
     if is_archive:
         back_button = f'<a href="{archive_prefix}index.html" class="back-btn">← Back to today</a>'
+
+    game_summaries = game_summaries or []
+    games_meta = " | ".join(game_summaries[:6])  # max 6 meczów w opisie
+    if is_archive:
+        meta_title       = f"NBA AI Picks {title_date} — Predictions & Results"
+        meta_desc        = f"NBA AI model predictions for {title_date}. {games_meta}"
+        canonical_url    = f"https://nba-freepicks.com/archive/{today_slug}.html"
+    else:
+        meta_title       = f"NBA AI Picks Today {title_date} — Free Predictions"
+        meta_desc        = f"Free NBA AI predictions for {title_date}. {games_meta}" if games_meta else f"Daily NBA game predictions powered by AI model. Free picks for every game — {title_date}."
+        canonical_url    = "https://nba-freepicks.com/"
+
+    meta_desc = meta_desc[:160]  # Google ucina po 160 znakach
 
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NBA Public AI Picks — {title_date}</title>
+    <title>{meta_title}</title>
+    <meta name="description" content="{meta_desc}">
+    <meta name="keywords" content="NBA picks, NBA predictions, NBA AI picks, free NBA picks, NBA picks today, {title_date} NBA">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="{canonical_url}">
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{meta_title}">
+    <meta property="og:description" content="{meta_desc}">
+    <meta property="og:url" content="{canonical_url}">
+    <meta property="og:site_name" content="NBA Free Picks">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{meta_title}">
+    <meta name="twitter:description" content="{meta_desc}">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏀</text></svg>">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
     <style>{get_shared_styles()}</style>
@@ -699,6 +736,42 @@ def build_page(title_date, cards_html, is_archive=False, archive_prefix=""):
 </html>"""
 
 
+
+# ==========================================
+# 🗺️ SITEMAP + ROBOTS
+# ==========================================
+
+def generate_sitemap(all_dates):
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>']
+    lines.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+    lines.append('  <url>')
+    lines.append('    <loc>https://nba-freepicks.com/</loc>')
+    lines.append('    <changefreq>daily</changefreq>')
+    lines.append('    <priority>1.0</priority>')
+    lines.append('  </url>')
+    for d in sorted(set(all_dates), reverse=True):
+        lines.append('  <url>')
+        lines.append(f'    <loc>https://nba-freepicks.com/archive/{d}.html</loc>')
+        lines.append(f'    <lastmod>{d}</lastmod>')
+        lines.append('    <changefreq>never</changefreq>')
+        lines.append('    <priority>0.7</priority>')
+        lines.append('  </url>')
+    lines.append('</urlset>')
+    with open("sitemap.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    print(f"✅ Zapisano sitemap.xml ({len(all_dates)} URL)")
+
+def generate_robots():
+    robots = """User-agent: *
+Allow: /
+
+Sitemap: https://nba-freepicks.com/sitemap.xml
+"""
+    with open("robots.txt", "w", encoding="utf-8") as f:
+        f.write(robots)
+    print("✅ Zapisano robots.txt")
+
+
 # ==========================================
 # 🚀 GŁÓWNA FUNKCJA
 # ==========================================
@@ -715,19 +788,23 @@ def generate_html():
     today_str  = datetime.now().strftime("%B %d, %Y")
     today_slug = datetime.now().strftime("%Y-%m-%d")
 
-    cards_html, picks_for_gemini = build_game_cards(events)
+    cards_html, picks_for_gemini, game_summaries = build_game_cards(events)
 
     # ── 1. index.html ──
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(build_page(title_date=today_str, cards_html=cards_html,
-                           is_archive=False, archive_prefix=""))
+                           game_summaries=game_summaries,
+                           is_archive=False, archive_prefix="",
+                           today_slug=today_slug))
     print("✅ Zapisano index.html")
 
     # ── 2. archive/YYYY-MM-DD.html ──
     os.makedirs("archive", exist_ok=True)
     with open(f"archive/{today_slug}.html", "w", encoding="utf-8") as f:
         f.write(build_page(title_date=today_str, cards_html=cards_html,
-                           is_archive=True, archive_prefix="../"))
+                           game_summaries=game_summaries,
+                           is_archive=True, archive_prefix="../",
+                           today_slug=today_slug))
     print(f"✅ Zapisano archive/{today_slug}.html")
 
     # ── 3. Zaktualizuj archive/index.json ──
@@ -737,6 +814,12 @@ def generate_html():
 
     # ── 4. Typy dla Gemini ──
     save_picks_for_gemini(picks_for_gemini)
+
+    # ── 4. sitemap.xml ──
+    generate_sitemap(load_archive_dates() + [today_slug])
+
+    # ── 5. robots.txt ──
+    generate_robots()
 
     print("🏀 Wszystkie zadania zakończone sukcesem.")
 
