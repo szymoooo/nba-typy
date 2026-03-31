@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 import os
 
 # ==========================================
@@ -80,7 +80,6 @@ def save_picks_for_gemini(picks):
     print(f"✅ Zapisano {len(picks)} typów do propozycje_typow.txt")
 
 def load_archive_dates():
-    """Wczytuje istniejące daty z archive/index.json"""
     index_path = "archive/index.json"
     if os.path.exists(index_path):
         with open(index_path, "r", encoding="utf-8") as f:
@@ -88,12 +87,47 @@ def load_archive_dates():
     return []
 
 def save_archive_dates(dates):
-    """Zapisuje zaktualizowaną listę dat do archive/index.json"""
     os.makedirs("archive", exist_ok=True)
     sorted_dates = sorted(set(dates), reverse=True)
     with open("archive/index.json", "w", encoding="utf-8") as f:
         json.dump({"dates": sorted_dates}, f, indent=2)
     print(f"✅ Zaktualizowano archive/index.json ({len(sorted_dates)} dat)")
+
+
+# ==========================================
+# 🗺️ SITEMAP + ROBOTS
+# ==========================================
+
+def generate_sitemap(all_dates):
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>']
+    lines.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+    lines.append('  <url>')
+    lines.append('    <loc>https://nba-freepicks.com/</loc>')
+    lines.append('    <changefreq>daily</changefreq>')
+    lines.append('    <priority>1.0</priority>')
+    lines.append('  </url>')
+    for d in sorted(set(all_dates), reverse=True):
+        lines.append('  <url>')
+        lines.append(f'    <loc>https://nba-freepicks.com/archive/{d}.html</loc>')
+        lines.append(f'    <lastmod>{d}</lastmod>')
+        lines.append('    <changefreq>never</changefreq>')
+        lines.append('    <priority>0.7</priority>')
+        lines.append('  </url>')
+    lines.append('</urlset>')
+    with open("sitemap.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    print(f"✅ Zapisano sitemap.xml ({len(all_dates)} URL)")
+
+def generate_robots():
+    robots = (
+        "User-agent: *\n"
+        "Allow: /\n"
+        "\n"
+        "Sitemap: https://nba-freepicks.com/sitemap.xml\n"
+    )
+    with open("robots.txt", "w", encoding="utf-8") as f:
+        f.write(robots)
+    print("✅ Zapisano robots.txt")
 
 
 # ==========================================
@@ -473,34 +507,21 @@ def get_history_js(archive_prefix=""):
         const yday = offsetDay(-1);
         const db4  = offsetDay(-2);
 
-        // Wczytaj dostępne daty z index.json
         fetch(ARCHIVE_PREFIX + 'archive/index.json?v=' + Date.now())
             .then(r => r.json())
-            .then(data => {{
-                availableDates = new Set(data.dates || []);
-            }})
-            .catch(() => {{ /* brak pliku = brak archiwum */ }})
-            .finally(() => {{
-                pickerReady = true;
-                initPicker();
-            }});
+            .then(data => {{ availableDates = new Set(data.dates || []); }})
+            .catch(() => {{}})
+            .finally(() => {{ pickerReady = true; initPicker(); }});
 
         function initPicker() {{
             document.getElementById('lbl-yesterday').textContent = fmtDisplay(yday);
             document.getElementById('lbl-dayb4').textContent     = fmtDisplay(db4);
-
-            if (!availableDates.has(fmtSlug(yday))) {{
-                document.getElementById('btn-yesterday').classList.add('disabled');
-            }}
-            if (!availableDates.has(fmtSlug(db4))) {{
-                document.getElementById('btn-dayb4').classList.add('disabled');
-            }}
+            if (!availableDates.has(fmtSlug(yday))) document.getElementById('btn-yesterday').classList.add('disabled');
+            if (!availableDates.has(fmtSlug(db4)))  document.getElementById('btn-dayb4').classList.add('disabled');
         }}
 
         function clearActive() {{
-            ['btn-yesterday','btn-dayb4','cal-btn'].forEach(id =>
-                document.getElementById(id).classList.remove('active')
-            );
+            ['btn-yesterday','btn-dayb4','cal-btn'].forEach(id => document.getElementById(id).classList.remove('active'));
             document.getElementById('hist-result').classList.remove('show');
             document.getElementById('hist-noarchive').classList.remove('show');
         }}
@@ -538,7 +559,6 @@ def get_history_js(archive_prefix=""):
             const label = fmtDisplay(d);
             document.getElementById('cal-display').textContent = label;
             document.getElementById('cal-btn').classList.add('active');
-
             if (pickerReady && availableDates.size > 0 && !availableDates.has(slug)) {{
                 showNoArchive(label);
             }} else {{
@@ -559,9 +579,9 @@ def get_history_js(archive_prefix=""):
 # ==========================================
 
 def build_game_cards(events):
-    cards_html = ""
+    cards_html       = ""
     picks_for_gemini = []
-    game_summaries = []  # dla meta tagów SEO
+    game_summaries   = []  # dla meta tagów SEO
 
     for event in events:
         try:
@@ -593,15 +613,6 @@ def build_game_cards(events):
             if state == 'pre':
                 picks_for_gemini.append(f"{a_name} @ {h_name} -> Typ: {predicted_winner}")
 
-            # SEO summary dla tego meczu
-            if state == 'post':
-                result_txt = f"{actual_winner} won {max(h_score,a_score)}-{min(h_score,a_score)}" if actual_winner else ""
-                game_summaries.append(f"{a_name} vs {h_name}: AI picked {predicted_winner}, {result_txt}")
-            elif state == 'pre':
-                game_summaries.append(f"{a_name} vs {h_name}: AI prediction — {predicted_winner} to win")
-            else:
-                game_summaries.append(f"{a_name} vs {h_name} (live): AI picked {predicted_winner}")
-
             is_final = (state == 'post')
             h_score_class = "score"
             a_score_class = "score"
@@ -609,6 +620,7 @@ def build_game_cards(events):
 
             if state == 'pre':
                 score_display_html = '<span class="vs-sep" style="font-size:2rem;">VS</span>'
+                game_summaries.append(f"{a_name} vs {h_name}: AI prediction — {predicted_winner} to win")
             else:
                 if is_final:
                     if h_score > a_score:
@@ -619,6 +631,11 @@ def build_game_cards(events):
                         actual_winner  = a_name
                         a_score_class += " winner"
                         h_score_class += " loser"
+                    result_txt = f"{actual_winner} won {max(h_score,a_score)}-{min(h_score,a_score)}"
+                    game_summaries.append(f"{a_name} vs {h_name}: AI picked {predicted_winner}, {result_txt}")
+                else:
+                    game_summaries.append(f"{a_name} vs {h_name} (live): AI picked {predicted_winner}")
+
                 score_display_html = f"""
                     <span class="{a_score_class}">{a_score}</span>
                     <span class="vs-sep">:</span>
@@ -671,22 +688,25 @@ def build_game_cards(events):
 # ==========================================
 
 def build_page(title_date, cards_html, game_summaries=None, is_archive=False, archive_prefix="", today_slug=""):
+    game_summaries = game_summaries or []
+    games_meta = " | ".join(game_summaries[:5])
+
+    if is_archive:
+        meta_title    = f"NBA AI Picks {title_date} — Predictions & Results"
+        meta_desc     = f"NBA AI model predictions for {title_date}. {games_meta}"
+        canonical_url = f"https://nba-freepicks.com/archive/{today_slug}.html"
+    else:
+        meta_title    = f"NBA AI Picks Today {title_date} — Free Predictions"
+        meta_desc     = (f"Free NBA AI predictions for {title_date}. {games_meta}"
+                         if games_meta else
+                         f"Daily NBA game predictions powered by AI. Free picks for every game — {title_date}.")
+        canonical_url = "https://nba-freepicks.com/"
+
+    meta_desc = meta_desc[:160]
+
     back_button = ""
     if is_archive:
         back_button = f'<a href="{archive_prefix}index.html" class="back-btn">← Back to today</a>'
-
-    game_summaries = game_summaries or []
-    games_meta = " | ".join(game_summaries[:6])  # max 6 meczów w opisie
-    if is_archive:
-        meta_title       = f"NBA AI Picks {title_date} — Predictions & Results"
-        meta_desc        = f"NBA AI model predictions for {title_date}. {games_meta}"
-        canonical_url    = f"https://nba-freepicks.com/archive/{today_slug}.html"
-    else:
-        meta_title       = f"NBA AI Picks Today {title_date} — Free Predictions"
-        meta_desc        = f"Free NBA AI predictions for {title_date}. {games_meta}" if games_meta else f"Daily NBA game predictions powered by AI model. Free picks for every game — {title_date}."
-        canonical_url    = "https://nba-freepicks.com/"
-
-    meta_desc = meta_desc[:160]  # Google ucina po 160 znakach
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -698,13 +718,11 @@ def build_page(title_date, cards_html, game_summaries=None, is_archive=False, ar
     <meta name="keywords" content="NBA picks, NBA predictions, NBA AI picks, free NBA picks, NBA picks today, {title_date} NBA">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="{canonical_url}">
-    <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:title" content="{meta_title}">
     <meta property="og:description" content="{meta_desc}">
     <meta property="og:url" content="{canonical_url}">
     <meta property="og:site_name" content="NBA Free Picks">
-    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{meta_title}">
     <meta name="twitter:description" content="{meta_desc}">
@@ -736,42 +754,6 @@ def build_page(title_date, cards_html, game_summaries=None, is_archive=False, ar
 </html>"""
 
 
-
-# ==========================================
-# 🗺️ SITEMAP + ROBOTS
-# ==========================================
-
-def generate_sitemap(all_dates):
-    lines = ['<?xml version="1.0" encoding="UTF-8"?>']
-    lines.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
-    lines.append('  <url>')
-    lines.append('    <loc>https://nba-freepicks.com/</loc>')
-    lines.append('    <changefreq>daily</changefreq>')
-    lines.append('    <priority>1.0</priority>')
-    lines.append('  </url>')
-    for d in sorted(set(all_dates), reverse=True):
-        lines.append('  <url>')
-        lines.append(f'    <loc>https://nba-freepicks.com/archive/{d}.html</loc>')
-        lines.append(f'    <lastmod>{d}</lastmod>')
-        lines.append('    <changefreq>never</changefreq>')
-        lines.append('    <priority>0.7</priority>')
-        lines.append('  </url>')
-    lines.append('</urlset>')
-    with open("sitemap.xml", "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
-    print(f"✅ Zapisano sitemap.xml ({len(all_dates)} URL)")
-
-def generate_robots():
-    robots = """User-agent: *
-Allow: /
-
-Sitemap: https://nba-freepicks.com/sitemap.xml
-"""
-    with open("robots.txt", "w", encoding="utf-8") as f:
-        f.write(robots)
-    print("✅ Zapisano robots.txt")
-
-
 # ==========================================
 # 🚀 GŁÓWNA FUNKCJA
 # ==========================================
@@ -792,19 +774,27 @@ def generate_html():
 
     # ── 1. index.html ──
     with open("index.html", "w", encoding="utf-8") as f:
-        f.write(build_page(title_date=today_str, cards_html=cards_html,
-                           game_summaries=game_summaries,
-                           is_archive=False, archive_prefix="",
-                           today_slug=today_slug))
+        f.write(build_page(
+            title_date     = today_str,
+            cards_html     = cards_html,
+            game_summaries = game_summaries,
+            is_archive     = False,
+            archive_prefix = "",
+            today_slug     = today_slug
+        ))
     print("✅ Zapisano index.html")
 
     # ── 2. archive/YYYY-MM-DD.html ──
     os.makedirs("archive", exist_ok=True)
     with open(f"archive/{today_slug}.html", "w", encoding="utf-8") as f:
-        f.write(build_page(title_date=today_str, cards_html=cards_html,
-                           game_summaries=game_summaries,
-                           is_archive=True, archive_prefix="../",
-                           today_slug=today_slug))
+        f.write(build_page(
+            title_date     = today_str,
+            cards_html     = cards_html,
+            game_summaries = game_summaries,
+            is_archive     = True,
+            archive_prefix = "../",
+            today_slug     = today_slug
+        ))
     print(f"✅ Zapisano archive/{today_slug}.html")
 
     # ── 3. Zaktualizuj archive/index.json ──
@@ -812,14 +802,14 @@ def generate_html():
     existing.append(today_slug)
     save_archive_dates(existing)
 
-    # ── 4. Typy dla Gemini ──
-    save_picks_for_gemini(picks_for_gemini)
-
     # ── 4. sitemap.xml ──
-    generate_sitemap(load_archive_dates() + [today_slug])
+    generate_sitemap(load_archive_dates())
 
     # ── 5. robots.txt ──
     generate_robots()
+
+    # ── 6. Typy dla Gemini ──
+    save_picks_for_gemini(picks_for_gemini)
 
     print("🏀 Wszystkie zadania zakończone sukcesem.")
 
