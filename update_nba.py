@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 # ==========================================
-# ⚙️ KONFIGURACJA
+# KONFIGURACJA
 # ==========================================
 ESPN_API = "http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 GA4_ID   = "G-ZV0JG9D4QK"
@@ -51,7 +51,7 @@ DEFAULT_LOGO = 'https://cdn.nba.com/logos/nba/nba-logoman-70x70.svg'
 
 
 # ==========================================
-# 🔧 HELPERS
+# HELPERS
 # ==========================================
 
 def get_espn_data():
@@ -640,7 +640,7 @@ def build_game_cards(events):
 
 
 # ==========================================
-# GA4 SNIPPET
+# GA4
 # ==========================================
 
 def get_ga4_snippet():
@@ -744,7 +744,7 @@ def generate_html():
 
     cards_html, picks_for_gemini, game_summaries = build_game_cards(events)
 
-    # 1. index.html
+    # ── 1. index.html — zawsze aktualny ──
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(build_page(
             title_date     = today_str,
@@ -756,34 +756,54 @@ def generate_html():
         ))
     print("Zapisano index.html")
 
-    # 2. archive/YYYY-MM-DD.html
-    os.makedirs("archive", exist_ok=True)
-    with open(f"archive/{today_slug}.html", "w", encoding="utf-8") as f:
-        f.write(build_page(
-            title_date     = today_str,
-            cards_html     = cards_html,
-            game_summaries = game_summaries,
-            is_archive     = True,
-            archive_prefix = "../",
-            today_slug     = today_slug
-        ))
-    print(f"Zapisano archive/{today_slug}.html")
+    # ── 2. archive — TYLKO gdy wszystkie mecze zakonczone ──
+    archive_path = f"archive/{today_slug}.html"
 
-    # 3. archive/index.json
-    existing = load_archive_dates()
-    existing.append(today_slug)
-    save_archive_dates(existing)
+    if events:
+        all_final = all(
+            e['status']['type']['state'] == 'post'
+            for e in events
+        )
+    else:
+        all_final = False
 
-    # 4. sitemap.xml
-    generate_sitemap(load_archive_dates())
+    if all_final and not os.path.exists(archive_path):
+        # Wszystkie mecze Final i plik jeszcze nie istnieje — zapisujemy
+        os.makedirs("archive", exist_ok=True)
+        with open(archive_path, "w", encoding="utf-8") as f:
+            f.write(build_page(
+                title_date     = today_str,
+                cards_html     = cards_html,
+                game_summaries = game_summaries,
+                is_archive     = True,
+                archive_prefix = "../",
+                today_slug     = today_slug
+            ))
+        print(f"Zapisano archive/{today_slug}.html (wszystkie mecze Final)")
 
-    # 5. robots.txt
+        # Zaktualizuj archive/index.json i sitemap tylko gdy nowy plik
+        existing = load_archive_dates()
+        existing.append(today_slug)
+        save_archive_dates(existing)
+        generate_sitemap(load_archive_dates())
+
+    elif all_final and os.path.exists(archive_path):
+        print(f"archive/{today_slug}.html juz istnieje — pomijam")
+
+    else:
+        states = [e['status']['type']['state'] for e in events]
+        print(f"Archiwum NIE zapisane — mecze w toku: {states}")
+
+    # ── 3. robots.txt ── (zawsze)
     generate_robots()
 
-    # 6. Typy dla Gemini
-    save_picks_for_gemini(picks_for_gemini)
+    # ── 4. Typy dla Gemini ── (tylko gdy mecze przed rozpoczeciem)
+    if picks_for_gemini:
+        save_picks_for_gemini(picks_for_gemini)
+    else:
+        print("Brak typow pre-game do zapisania")
 
-    print("Wszystkie zadania zakonczone sukcesem.")
+    print("Wszystkie zadania zakonczone.")
 
 
 if __name__ == "__main__":
