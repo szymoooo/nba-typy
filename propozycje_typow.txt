@@ -1,7 +1,3 @@
-Bulls @ Wizards -> Typ: Bulls
-Timberwolves @ Pacers -> Typ: Timberwolves
-Bucks @ Nets -> Typ: Bucks
-Heat @ Raptors -> Typ: Raptors
 Hornets @ Celtics -> Typ: Celtics
 Jazz @ Pelicans -> Typ: Pelicans
 Kings @ Warriors -> Typ: Warriors
