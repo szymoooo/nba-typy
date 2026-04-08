@@ -1,4 +1,7 @@
-Kings @ Warriors -> Typ: Warriors
-Thunder @ Lakers -> Typ: Thunder
-Mavericks @ Clippers -> Typ: Clippers
-Rockets @ Suns -> Typ: Rockets
+Hawks @ Cavaliers -> Typ: Cavaliers
+Timberwolves @ Magic -> Typ: Timberwolves
+Bucks @ Pistons -> Typ: Pistons
+Grizzlies @ Nuggets -> Typ: Nuggets
+Trail Blazers @ Spurs -> Typ: Spurs
+Thunder @ Clippers -> Typ: Thunder
+Mavericks @ Suns -> Typ: Suns
