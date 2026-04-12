@@ -1,10 +1,3 @@
-Magic @ Celtics -> Typ: Celtics
-Wizards @ Cavaliers -> Typ: Cavaliers
-Pistons @ Pacers -> Typ: Pistons
-Hawks @ Heat -> Typ: Heat
-Hornets @ Knicks -> Typ: Knicks
-Bucks @ 76ers -> Typ: 76ers
-Nets @ Raptors -> Typ: Raptors
 Bulls @ Mavericks -> Typ: Bulls
 Grizzlies @ Rockets -> Typ: Rockets
 Pelicans @ Timberwolves -> Typ: Timberwolves
