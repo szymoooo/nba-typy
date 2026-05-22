@@ -16,7 +16,7 @@ import datetime
 import pytz
 import re
 
-OUTPUT_DIR = "output"
+OUTPUT_DIR = "euroleague"
 INDEX_PATH = os.path.join(OUTPUT_DIR, "index.html")
 PICKS_PATH = os.path.join(OUTPUT_DIR, "propozycje_typow.txt")
 

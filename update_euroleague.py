@@ -25,7 +25,8 @@ from datetime import datetime, timezone, timedelta
 # ==========================================
 SEASON_CODE = "E2025"  # E2025 = sezon 2025-26 (E2026 dla nast.)
 COMPETITION = "E"      # "E" = EuroLeague, "U" = EuroCup
-OUTPUT_DIR = "output"
+OUTPUT_DIR = "euroleague"      # produkcyjny folder serwowany przez GH Pages jako /euroleague/
+DEBUG_DIR = "euroleague/_debug"  # dumpy z API (debug) - obok HTML, ale w podfolderze
 
 # Wlacz/wylacz prawdziwa analize AI Gemini z Google Search.
 # True  = Gemini analizuje kazdy mecz (forma, kontuzje, head-to-head, faza)
@@ -127,6 +128,7 @@ def fetch_json(url, params=None, timeout=15):
 def try_endpoints(endpoints, kind):
     """Probuje kandydatow po kolei. Zwraca (label, data) gdzie data to dict/list (JSON) albo ('XML', text)."""
     print(f"-> Probuje endpointy ({kind}):")
+    os.makedirs(DEBUG_DIR, exist_ok=True)
     for label, url, params in endpoints:
         result, status, err = fetch_json(url, params)
         if result is None:
@@ -135,7 +137,7 @@ def try_endpoints(endpoints, kind):
         # XML response
         if isinstance(result, tuple) and result[0] == "XML":
             print(f"   [OK-XML] {label} -> {url} (HTTP {status})")
-            debug_path = os.path.join(OUTPUT_DIR, f"debug_{kind}_{label}.xml")
+            debug_path = os.path.join(DEBUG_DIR, f"debug_{kind}_{label}.xml")
             try:
                 with open(debug_path, "w", encoding="utf-8") as f:
                     f.write(result[1])
@@ -145,7 +147,7 @@ def try_endpoints(endpoints, kind):
             return label, result
         # JSON response
         print(f"   [OK] {label} -> {url} (HTTP {status})")
-        debug_path = os.path.join(OUTPUT_DIR, f"debug_{kind}_{label}.json")
+        debug_path = os.path.join(DEBUG_DIR, f"debug_{kind}_{label}.json")
         try:
             with open(debug_path, "w", encoding="utf-8") as f:
                 json.dump(result, f, indent=2, ensure_ascii=False, default=str)
