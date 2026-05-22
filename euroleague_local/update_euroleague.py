@@ -425,13 +425,32 @@ Odpowiedz WYLACZNIE czystym JSON-em (bez markdown, bez komentarzy):
 
     try:
         from google.genai import types
-        response = client.models.generate_content(
-            model=AI_MODEL,
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                tools=[types.Tool(google_search=types.GoogleSearch())]
-            )
-        )
+        last_err = None
+        # Retry przy chwilowych bledach (503 UNAVAILABLE = Google przeciazony)
+        for attempt in range(3):
+            try:
+                response = client.models.generate_content(
+                    model=AI_MODEL,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        tools=[types.Tool(google_search=types.GoogleSearch())]
+                    )
+                )
+                last_err = None
+                break
+            except Exception as e:
+                last_err = e
+                err_str = str(e)
+                # Retry tylko dla bledow tymczasowych (503, 429, network)
+                if "503" in err_str or "UNAVAILABLE" in err_str or "429" in err_str:
+                    wait = 5 * (attempt + 1)  # 5s, 10s, 15s
+                    print(f"   ! AI tymczasowo niedostepny ({err_str[:60]}...), retry za {wait}s")
+                    time.sleep(wait)
+                    continue
+                # Inne bledy - nie retry
+                raise
+        if last_err is not None:
+            raise last_err
         text = (response.text or "").strip()
 
         # Ekstrakcja JSON-a (czasem Gemini owinie w ```json ... ```)
@@ -460,8 +479,25 @@ Odpowiedz WYLACZNIE czystym JSON-em (bez markdown, bez komentarzy):
         return None
 
 
-def predict_winner(home, away, pct_map, game_context):
-    """Wybiera zwyciezce. Probuje AI (Gemini + Google Search), fallback na formule.
+def _is_game_started(game_context):
+    """Czy start meczu juz minal (czas <= teraz)? Bezpieczny fallback na False."""
+    date_str = game_context.get("date") or ""
+    if not date_str:
+        return False
+    try:
+        s = date_str.replace("Z", "+00:00")
+        game_dt = datetime.fromisoformat(s)
+        if game_dt.tzinfo is None:
+            # API zwykle zwraca UTC z 'Z', ale na wszelki wypadek
+            game_dt = game_dt.replace(tzinfo=timezone.utc)
+        return game_dt <= datetime.now(timezone.utc)
+    except Exception:
+        return False
+
+
+def predict_winner(home, away, pct_map, game_context, state="pre"):
+    """Wybiera zwyciezce. AI tylko dla meczow ktore JESZCZE SIE NIE ZACZELY,
+    dla zaczelych/zakonczonych = formula (szybciej, bez marnowania quoty AI).
     Zwraca tylko nazwe zwyciezcy (string) - reszta idzie do _ai_log."""
     h_name = home.get("name") or home.get("code") or "Home"
     a_name = away.get("name") or away.get("code") or "Away"
@@ -471,6 +507,16 @@ def predict_winner(home, away, pct_map, game_context):
     a_pct = pct_map.get(a_code, 0.0)
 
     formula_pick = h_name if (h_pct + 0.05) > a_pct else a_name
+
+    # Dla zakonczonych meczow nie wolamy AI - typ jest tylko do pokazania ✓/✗
+    if state == "post":
+        return formula_pick
+
+    # Dwojny check: API moze pokazywac "confirmed" mimo ze mecz juz trwa.
+    # Po prostu sprawdzamy czy start_time juz minal.
+    if _is_game_started(game_context):
+        print(f"   [TIME-skip] {a_name} vs {h_name} -> mecz juz w trakcie/skonczony, uzywam formule")
+        return formula_pick
 
     if USE_AI_PREDICTIONS:
         ai_result = predict_winner_ai(home, away, h_pct, a_pct, game_context)
@@ -608,7 +654,7 @@ def build_game_cards(games, pct_map):
                 "date": g.get("date") or g.get("utcDate"),
                 "round": (g.get("round") or {}).get("name") if isinstance(g.get("round"), dict) else None,
             }
-            predicted_winner = predict_winner(home, away, pct_map, game_context)
+            predicted_winner = predict_winner(home, away, pct_map, game_context, state=state)
 
             if state == "pre":
                 tip = fmt_game_time(g.get("date") or g.get("utcDate"))
