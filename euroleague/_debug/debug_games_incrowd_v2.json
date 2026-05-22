@@ -2,6 +2,123 @@
   "status": "success",
   "data": [
     {
+      "id": "32e0be44-4ef1-516d-9706-27b3c4203992",
+      "identifier": "E2025_406",
+      "code": 406,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "1c3f93b7-fd11-438e-9d5d-77a998c1a1e9",
+        "name": "Group CHAMPIONSHIP GAME ",
+        "order": 3
+      },
+      "phaseType": {
+        "code": "FF",
+        "name": "Final Four",
+        "alias": "FINAL FOUR",
+        "isGroupPhase": false
+      },
+      "round": {
+        "round": 47,
+        "name": "Round 47",
+        "alias": "Round 47"
+      },
+      "date": "2026-05-24T18:00:00.000Z",
+      "status": "confirmed",
+      "minute": null,
+      "remainingTime": null,
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "OLY",
+        "name": "Olympiacos Piraeus",
+        "abbreviatedName": "Olympiacos",
+        "tla": "OLY",
+        "score": 0,
+        "standingsScore": 0,
+        "quarters": {
+          "q1": 0,
+          "q2": 0,
+          "q3": 0,
+          "q4": 0,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": ""
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+        },
+        "editorialName": "Olympiacos"
+      },
+      "away": {
+        "code": "MAD",
+        "name": "Real Madrid",
+        "abbreviatedName": "Real",
+        "tla": "RMB",
+        "score": 0,
+        "standingsScore": 0,
+        "quarters": {
+          "q1": 0,
+          "q2": 0,
+          "q3": 0,
+          "q4": 0,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": ""
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
+        },
+        "editorialName": "Real"
+      },
+      "referees": null,
+      "venue": {
+        "code": "AUM6",
+        "name": "TELEKOM CENTER ATHENS",
+        "capacity": 18500,
+        "address": "37 Kifisias Avenue, 15123 Marousi",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 0,
+      "audienceConfirmed": false,
+      "broadcasters": [
+        {
+          "name": "FanDuel",
+          "countryCode": "US",
+          "linkUrl": "https://fanduel.com/watch/video/event-fanduel-tv-extra-5f78",
+          "imageUrl": "https://media-cdn.cortextech.io/440d24fe-2f9e-4579-a2e0-597567a54235.png"
+        },
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
       "id": "57942dd6-941c-5ce7-a25b-9a6eed8ea9d4",
       "identifier": "E2025_405",
       "code": 405,
@@ -43,7 +160,7 @@
         "abbreviatedName": "Valencia",
         "tla": "VBC",
         "score": 90,
-        "standingsScore": 0,
+        "standingsScore": 90,
         "quarters": {
           "q1": 28,
           "q2": 28,
@@ -70,7 +187,7 @@
         "abbreviatedName": "Real",
         "tla": "RMB",
         "score": 105,
-        "standingsScore": 0,
+        "standingsScore": 105,
         "quarters": {
           "q1": 26,
           "q2": 36,
@@ -133,7 +250,7 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 0,
-      "audienceConfirmed": false,
+      "audienceConfirmed": true,
       "broadcasters": [
         {
           "name": "FanDuel",
@@ -6482,148 +6599,6 @@
       ]
     },
     {
-      "id": "977a7294-e6d8-57db-ba3e-97058e54ba67",
-      "identifier": "E2025_357",
-      "code": 357,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 36,
-        "name": "Round 36",
-        "alias": "Round 36"
-      },
-      "date": "2026-04-07T18:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "VIR",
-        "name": "Virtus Bologna",
-        "abbreviatedName": "Virtus",
-        "tla": "VIR",
-        "score": 80,
-        "standingsScore": 80,
-        "quarters": {
-          "q1": 16,
-          "q2": 27,
-          "q3": 15,
-          "q4": 22,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "JAKOVLJEVIC, NENAD"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/1362801d-dd09-4fd0-932d-ead56063ab77.png"
-        },
-        "editorialName": "Virtus"
-      },
-      "away": {
-        "code": "MUN",
-        "name": "FC Bayern Munich",
-        "abbreviatedName": "Bayern",
-        "tla": "BAY",
-        "score": 85,
-        "standingsScore": 85,
-        "quarters": {
-          "q1": 23,
-          "q2": 20,
-          "q3": 23,
-          "q4": 19,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "PESIC, SVETISLAV"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
-        },
-        "editorialName": "Bayern"
-      },
-      "referees": [
-        {
-          "code": "OJFC",
-          "name": "JAVOR, DAMIR",
-          "number": 1,
-          "alias": "JAVOR, D.",
-          "country": {
-            "code": "SLO",
-            "name": "Slovenia"
-          }
-        },
-        {
-          "code": "OACA",
-          "name": "RYZHYK, BORYS",
-          "number": 2,
-          "alias": "RYZHYK, B.",
-          "country": {
-            "code": "UKR",
-            "name": "Ukraine"
-          }
-        },
-        {
-          "code": "QJLU",
-          "name": "UDYANSKYY, EDUARD",
-          "number": 3,
-          "alias": "UDYANSKYY, E.",
-          "country": {
-            "code": "GBR",
-            "name": "United Kingdom"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AUK2",
-        "name": "VIRTUS ARENA",
-        "capacity": 8900,
-        "address": "Viale della Fiera, 40128, Bologna",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 5637,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "78950204-e726-5b75-9a25-1efc254fbb51",
       "identifier": "E2025_353",
       "code": 353,
@@ -6903,6 +6878,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 12297,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "977a7294-e6d8-57db-ba3e-97058e54ba67",
+      "identifier": "E2025_357",
+      "code": 357,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 36,
+        "name": "Round 36",
+        "alias": "Round 36"
+      },
+      "date": "2026-04-07T18:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "VIR",
+        "name": "Virtus Bologna",
+        "abbreviatedName": "Virtus",
+        "tla": "VIR",
+        "score": 80,
+        "standingsScore": 80,
+        "quarters": {
+          "q1": 16,
+          "q2": 27,
+          "q3": 15,
+          "q4": 22,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "JAKOVLJEVIC, NENAD"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/1362801d-dd09-4fd0-932d-ead56063ab77.png"
+        },
+        "editorialName": "Virtus"
+      },
+      "away": {
+        "code": "MUN",
+        "name": "FC Bayern Munich",
+        "abbreviatedName": "Bayern",
+        "tla": "BAY",
+        "score": 85,
+        "standingsScore": 85,
+        "quarters": {
+          "q1": 23,
+          "q2": 20,
+          "q3": 23,
+          "q4": 19,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "PESIC, SVETISLAV"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+        },
+        "editorialName": "Bayern"
+      },
+      "referees": [
+        {
+          "code": "OJFC",
+          "name": "JAVOR, DAMIR",
+          "number": 1,
+          "alias": "JAVOR, D.",
+          "country": {
+            "code": "SLO",
+            "name": "Slovenia"
+          }
+        },
+        {
+          "code": "OACA",
+          "name": "RYZHYK, BORYS",
+          "number": 2,
+          "alias": "RYZHYK, B.",
+          "country": {
+            "code": "UKR",
+            "name": "Ukraine"
+          }
+        },
+        {
+          "code": "QJLU",
+          "name": "UDYANSKYY, EDUARD",
+          "number": 3,
+          "alias": "UDYANSKYY, E.",
+          "country": {
+            "code": "GBR",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AUK2",
+        "name": "VIRTUS ARENA",
+        "capacity": 8900,
+        "address": "Viale della Fiera, 40128, Bologna",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 5637,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -8198,148 +8315,6 @@
       ]
     },
     {
-      "id": "14126793-d007-5fc7-abb1-37084022ca60",
-      "identifier": "E2025_347",
-      "code": 347,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 35,
-        "name": "Round 35",
-        "alias": "Round 35"
-      },
-      "date": "2026-04-02T18:00:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "DUB",
-        "name": "Dubai Basketball",
-        "abbreviatedName": "Dubai",
-        "tla": "DUB",
-        "score": 101,
-        "standingsScore": 101,
-        "quarters": {
-          "q1": 24,
-          "q2": 23,
-          "q3": 26,
-          "q4": 28,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "GOLEMAC, JURICA"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
-        },
-        "editorialName": "Dubai"
-      },
-      "away": {
-        "code": "MCO",
-        "name": "AS Monaco",
-        "abbreviatedName": "Monaco",
-        "tla": "ASM",
-        "score": 91,
-        "standingsScore": 91,
-        "quarters": {
-          "q1": 18,
-          "q2": 29,
-          "q3": 24,
-          "q4": 20,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "MARKOISHVILI, MANUCHAR"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/89ed276a-2ba3-413f-8ea2-b3be209ca129.png"
-        },
-        "editorialName": "Monaco"
-      },
-      "referees": [
-        {
-          "code": "OJCL",
-          "name": "LOTTERMOSER, ROBERT",
-          "number": 1,
-          "alias": "LOTTERMOSER, R.",
-          "country": {
-            "code": "GER",
-            "name": "Germany"
-          }
-        },
-        {
-          "code": "OJIL",
-          "name": "HORDOV, TOMISLAV ",
-          "number": 2,
-          "alias": "HORDOV, T.",
-          "country": {
-            "code": "CRO",
-            "name": "Croatia"
-          }
-        },
-        {
-          "code": "OJJA",
-          "name": "RADOJKOVIC, JOSIP ",
-          "number": 3,
-          "alias": "RADOJKOVIC, J.",
-          "country": {
-            "code": "CRO",
-            "name": "Croatia"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AHX1",
-        "name": "ZETRA ARENA",
-        "capacity": 10000,
-        "address": "",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 5916,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "0398b703-471b-5836-af6f-fcb62f28d75f",
       "identifier": "E2025_342",
       "code": 342,
@@ -8471,6 +8446,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 20120,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "14126793-d007-5fc7-abb1-37084022ca60",
+      "identifier": "E2025_347",
+      "code": 347,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 35,
+        "name": "Round 35",
+        "alias": "Round 35"
+      },
+      "date": "2026-04-02T18:00:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "DUB",
+        "name": "Dubai Basketball",
+        "abbreviatedName": "Dubai",
+        "tla": "DUB",
+        "score": 101,
+        "standingsScore": 101,
+        "quarters": {
+          "q1": 24,
+          "q2": 23,
+          "q3": 26,
+          "q4": 28,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "GOLEMAC, JURICA"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
+        },
+        "editorialName": "Dubai"
+      },
+      "away": {
+        "code": "MCO",
+        "name": "AS Monaco",
+        "abbreviatedName": "Monaco",
+        "tla": "ASM",
+        "score": 91,
+        "standingsScore": 91,
+        "quarters": {
+          "q1": 18,
+          "q2": 29,
+          "q3": 24,
+          "q4": 20,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "MARKOISHVILI, MANUCHAR"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/89ed276a-2ba3-413f-8ea2-b3be209ca129.png"
+        },
+        "editorialName": "Monaco"
+      },
+      "referees": [
+        {
+          "code": "OJCL",
+          "name": "LOTTERMOSER, ROBERT",
+          "number": 1,
+          "alias": "LOTTERMOSER, R.",
+          "country": {
+            "code": "GER",
+            "name": "Germany"
+          }
+        },
+        {
+          "code": "OJIL",
+          "name": "HORDOV, TOMISLAV ",
+          "number": 2,
+          "alias": "HORDOV, T.",
+          "country": {
+            "code": "CRO",
+            "name": "Croatia"
+          }
+        },
+        {
+          "code": "OJJA",
+          "name": "RADOJKOVIC, JOSIP ",
+          "number": 3,
+          "alias": "RADOJKOVIC, J.",
+          "country": {
+            "code": "CRO",
+            "name": "Croatia"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AHX1",
+        "name": "ZETRA ARENA",
+        "capacity": 10000,
+        "address": "",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 5916,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -9920,148 +10037,6 @@
       ]
     },
     {
-      "id": "caf8cf78-896b-5853-a9f6-37fb81e17ca2",
-      "identifier": "E2025_331",
-      "code": 331,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 34,
-        "name": "Round 34",
-        "alias": "Round 34"
-      },
-      "date": "2026-03-26T19:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "MIL",
-        "name": "EA7 Emporio Armani Milan",
-        "abbreviatedName": "Milan",
-        "tla": "EA7",
-        "score": 103,
-        "standingsScore": 103,
-        "quarters": {
-          "q1": 32,
-          "q2": 25,
-          "q3": 22,
-          "q4": 24,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "POETA, GIUSEPPE"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
-        },
-        "editorialName": "Milan"
-      },
-      "away": {
-        "code": "VIR",
-        "name": "Virtus Bologna",
-        "abbreviatedName": "Virtus",
-        "tla": "VIR",
-        "score": 87,
-        "standingsScore": 87,
-        "quarters": {
-          "q1": 19,
-          "q2": 30,
-          "q3": 17,
-          "q4": 21,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "IVANOVIC, DUSKO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/1362801d-dd09-4fd0-932d-ead56063ab77.png"
-        },
-        "editorialName": "Virtus"
-      },
-      "referees": [
-        {
-          "code": "OAEN",
-          "name": "PEREZ, MIGUEL ANGEL",
-          "number": 1,
-          "alias": "PEREZ, M.",
-          "country": {
-            "code": "ESP",
-            "name": "Spain"
-          }
-        },
-        {
-          "code": "OJLM",
-          "name": "NEDOVIC, MILAN",
-          "number": 2,
-          "alias": "NEDOVIC, M.",
-          "country": {
-            "code": "SLO",
-            "name": "Slovenia"
-          }
-        },
-        {
-          "code": "OJJF",
-          "name": "BALAK, AMIT",
-          "number": 3,
-          "alias": "BALAK, A.",
-          "country": {
-            "code": "ISR",
-            "name": "Israel"
-          }
-        }
-      ],
-      "venue": {
-        "code": "ASX7",
-        "name": "UNIPOL FORUM",
-        "capacity": 11200,
-        "address": "Via G. Di Vittorio 6, 20090 Assago",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 8564,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "13161721-a849-54df-a5c0-b5188d955487",
       "identifier": "E2025_332",
       "code": 332,
@@ -10193,6 +10168,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 8896,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "caf8cf78-896b-5853-a9f6-37fb81e17ca2",
+      "identifier": "E2025_331",
+      "code": 331,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 34,
+        "name": "Round 34",
+        "alias": "Round 34"
+      },
+      "date": "2026-03-26T19:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "MIL",
+        "name": "EA7 Emporio Armani Milan",
+        "abbreviatedName": "Milan",
+        "tla": "EA7",
+        "score": 103,
+        "standingsScore": 103,
+        "quarters": {
+          "q1": 32,
+          "q2": 25,
+          "q3": 22,
+          "q4": 24,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "POETA, GIUSEPPE"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
+        },
+        "editorialName": "Milan"
+      },
+      "away": {
+        "code": "VIR",
+        "name": "Virtus Bologna",
+        "abbreviatedName": "Virtus",
+        "tla": "VIR",
+        "score": 87,
+        "standingsScore": 87,
+        "quarters": {
+          "q1": 19,
+          "q2": 30,
+          "q3": 17,
+          "q4": 21,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "IVANOVIC, DUSKO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/1362801d-dd09-4fd0-932d-ead56063ab77.png"
+        },
+        "editorialName": "Virtus"
+      },
+      "referees": [
+        {
+          "code": "OAEN",
+          "name": "PEREZ, MIGUEL ANGEL",
+          "number": 1,
+          "alias": "PEREZ, M.",
+          "country": {
+            "code": "ESP",
+            "name": "Spain"
+          }
+        },
+        {
+          "code": "OJLM",
+          "name": "NEDOVIC, MILAN",
+          "number": 2,
+          "alias": "NEDOVIC, M.",
+          "country": {
+            "code": "SLO",
+            "name": "Slovenia"
+          }
+        },
+        {
+          "code": "OJJF",
+          "name": "BALAK, AMIT",
+          "number": 3,
+          "alias": "BALAK, A.",
+          "country": {
+            "code": "ISR",
+            "name": "Israel"
+          }
+        }
+      ],
+      "venue": {
+        "code": "ASX7",
+        "name": "UNIPOL FORUM",
+        "capacity": 11200,
+        "address": "Via G. Di Vittorio 6, 20090 Assago",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 8564,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -10772,148 +10889,6 @@
       ]
     },
     {
-      "id": "d535cd88-c855-5572-9e23-4854826683fc",
-      "identifier": "E2025_327",
-      "code": 327,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 33,
-        "name": "Round 33",
-        "alias": "Round 33"
-      },
-      "date": "2026-03-24T19:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "PAM",
-        "name": "Valencia Basket",
-        "abbreviatedName": "Valencia",
-        "tla": "VBC",
-        "score": 85,
-        "standingsScore": 85,
-        "quarters": {
-          "q1": 25,
-          "q2": 17,
-          "q3": 25,
-          "q4": 18,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "MARTINEZ, PEDRO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/d88f3c71-1519-4b19-8cfb-99e26a4c008e.png"
-        },
-        "editorialName": "Valencia"
-      },
-      "away": {
-        "code": "OLY",
-        "name": "Olympiacos Piraeus",
-        "abbreviatedName": "Olympiacos",
-        "tla": "OLY",
-        "score": 84,
-        "standingsScore": 84,
-        "quarters": {
-          "q1": 23,
-          "q2": 27,
-          "q3": 19,
-          "q4": 15,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "BARTZOKAS, GEORGIOS"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
-        },
-        "editorialName": "Olympiacos"
-      },
-      "referees": [
-        {
-          "code": "OJLM",
-          "name": "NEDOVIC, MILAN",
-          "number": 1,
-          "alias": "NEDOVIC, M.",
-          "country": {
-            "code": "SLO",
-            "name": "Slovenia"
-          }
-        },
-        {
-          "code": "OJIT",
-          "name": "KOLJENSIC, MILOS ",
-          "number": 2,
-          "alias": "KOLJENSIC, M.",
-          "country": {
-            "code": "MNE",
-            "name": "Montenegro"
-          }
-        },
-        {
-          "code": "QJMD",
-          "name": "KONSTANTINOVS, KRISTAPS",
-          "number": 3,
-          "alias": "KONSTANTINOVS, K.",
-          "country": {
-            "code": "LAT",
-            "name": "Latvia"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AVJ1",
-        "name": "ROIG ARENA",
-        "capacity": 15600,
-        "address": "C/ del Bomber Ramon Duart, 12, Quatre Carreres, 46013 Valencia ",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 13108,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "5cf87104-8378-57ac-8f50-f78ae6bb16a4",
       "identifier": "E2025_323",
       "code": 323,
@@ -11045,6 +11020,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 4861,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "d535cd88-c855-5572-9e23-4854826683fc",
+      "identifier": "E2025_327",
+      "code": 327,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 33,
+        "name": "Round 33",
+        "alias": "Round 33"
+      },
+      "date": "2026-03-24T19:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "PAM",
+        "name": "Valencia Basket",
+        "abbreviatedName": "Valencia",
+        "tla": "VBC",
+        "score": 85,
+        "standingsScore": 85,
+        "quarters": {
+          "q1": 25,
+          "q2": 17,
+          "q3": 25,
+          "q4": 18,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "MARTINEZ, PEDRO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/d88f3c71-1519-4b19-8cfb-99e26a4c008e.png"
+        },
+        "editorialName": "Valencia"
+      },
+      "away": {
+        "code": "OLY",
+        "name": "Olympiacos Piraeus",
+        "abbreviatedName": "Olympiacos",
+        "tla": "OLY",
+        "score": 84,
+        "standingsScore": 84,
+        "quarters": {
+          "q1": 23,
+          "q2": 27,
+          "q3": 19,
+          "q4": 15,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "BARTZOKAS, GEORGIOS"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+        },
+        "editorialName": "Olympiacos"
+      },
+      "referees": [
+        {
+          "code": "OJLM",
+          "name": "NEDOVIC, MILAN",
+          "number": 1,
+          "alias": "NEDOVIC, M.",
+          "country": {
+            "code": "SLO",
+            "name": "Slovenia"
+          }
+        },
+        {
+          "code": "OJIT",
+          "name": "KOLJENSIC, MILOS ",
+          "number": 2,
+          "alias": "KOLJENSIC, M.",
+          "country": {
+            "code": "MNE",
+            "name": "Montenegro"
+          }
+        },
+        {
+          "code": "QJMD",
+          "name": "KONSTANTINOVS, KRISTAPS",
+          "number": 3,
+          "alias": "KONSTANTINOVS, K.",
+          "country": {
+            "code": "LAT",
+            "name": "Latvia"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AVJ1",
+        "name": "ROIG ARENA",
+        "capacity": 15600,
+        "address": "C/ del Bomber Ramon Duart, 12, Quatre Carreres, 46013 Valencia ",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 13108,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -11198,148 +11315,6 @@
       ]
     },
     {
-      "id": "97446998-ba6c-51ac-9c52-b6cbd051d7cd",
-      "identifier": "E2025_329",
-      "code": 329,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 33,
-        "name": "Round 33",
-        "alias": "Round 33"
-      },
-      "date": "2026-03-24T18:00:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "ZAL",
-        "name": "Zalgiris Kaunas",
-        "abbreviatedName": "Zalgiris",
-        "tla": "ZAL",
-        "score": 78,
-        "standingsScore": 78,
-        "quarters": {
-          "q1": 18,
-          "q2": 16,
-          "q3": 29,
-          "q4": 15,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "MASIULIS, TOMAS"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
-        },
-        "editorialName": "Zalgiris"
-      },
-      "away": {
-        "code": "MUN",
-        "name": "FC Bayern Munich",
-        "abbreviatedName": "Bayern",
-        "tla": "BAY",
-        "score": 71,
-        "standingsScore": 71,
-        "quarters": {
-          "q1": 18,
-          "q2": 20,
-          "q3": 19,
-          "q4": 14,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "MUTAPCIC, EMIR"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
-        },
-        "editorialName": "Bayern"
-      },
-      "referees": [
-        {
-          "code": "OAEF",
-          "name": "GARCIA, JUAN CARLOS",
-          "number": 1,
-          "alias": "GARCIA GONZALEZ, J.C.",
-          "country": {
-            "code": "ESP",
-            "name": "Spain"
-          }
-        },
-        {
-          "code": "OJGK",
-          "name": "PETEK, SASO",
-          "number": 2,
-          "alias": "PETEK, S.",
-          "country": {
-            "code": "SLO",
-            "name": "Slovenia"
-          }
-        },
-        {
-          "code": "OJFV",
-          "name": "TRAWICKI, TOMASZ",
-          "number": 3,
-          "alias": "TRAWICKI, T.",
-          "country": {
-            "code": "POL",
-            "name": "Poland"
-          }
-        }
-      ],
-      "venue": {
-        "code": "ATJ",
-        "name": "ZALGIRIO ARENA",
-        "capacity": 15415,
-        "address": "Karaliaus Mindaugo Av. 50, 44287 Kaunas",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 14777,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "34a669cc-b74e-574a-ba6f-93ef022dbd8b",
       "identifier": "E2025_321",
       "code": 321,
@@ -11471,6 +11446,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 4505,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "97446998-ba6c-51ac-9c52-b6cbd051d7cd",
+      "identifier": "E2025_329",
+      "code": 329,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 33,
+        "name": "Round 33",
+        "alias": "Round 33"
+      },
+      "date": "2026-03-24T18:00:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "ZAL",
+        "name": "Zalgiris Kaunas",
+        "abbreviatedName": "Zalgiris",
+        "tla": "ZAL",
+        "score": 78,
+        "standingsScore": 78,
+        "quarters": {
+          "q1": 18,
+          "q2": 16,
+          "q3": 29,
+          "q4": 15,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "MASIULIS, TOMAS"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
+        },
+        "editorialName": "Zalgiris"
+      },
+      "away": {
+        "code": "MUN",
+        "name": "FC Bayern Munich",
+        "abbreviatedName": "Bayern",
+        "tla": "BAY",
+        "score": 71,
+        "standingsScore": 71,
+        "quarters": {
+          "q1": 18,
+          "q2": 20,
+          "q3": 19,
+          "q4": 14,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "MUTAPCIC, EMIR"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+        },
+        "editorialName": "Bayern"
+      },
+      "referees": [
+        {
+          "code": "OAEF",
+          "name": "GARCIA, JUAN CARLOS",
+          "number": 1,
+          "alias": "GARCIA GONZALEZ, J.C.",
+          "country": {
+            "code": "ESP",
+            "name": "Spain"
+          }
+        },
+        {
+          "code": "OJGK",
+          "name": "PETEK, SASO",
+          "number": 2,
+          "alias": "PETEK, S.",
+          "country": {
+            "code": "SLO",
+            "name": "Slovenia"
+          }
+        },
+        {
+          "code": "OJFV",
+          "name": "TRAWICKI, TOMASZ",
+          "number": 3,
+          "alias": "TRAWICKI, T.",
+          "country": {
+            "code": "POL",
+            "name": "Poland"
+          }
+        }
+      ],
+      "venue": {
+        "code": "ATJ",
+        "name": "ZALGIRIO ARENA",
+        "capacity": 15415,
+        "address": "Karaliaus Mindaugo Av. 50, 44287 Kaunas",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 14777,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -13476,148 +13593,6 @@
       ]
     },
     {
-      "id": "de729257-ef6f-50e0-9aa3-0ba82e3c6c5d",
-      "identifier": "E2025_309",
-      "code": 309,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 31,
-        "name": "Round 31",
-        "alias": "Round 31"
-      },
-      "date": "2026-03-13T19:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "MIL",
-        "name": "EA7 Emporio Armani Milan",
-        "abbreviatedName": "Milan",
-        "tla": "EA7",
-        "score": 96,
-        "standingsScore": 96,
-        "quarters": {
-          "q1": 25,
-          "q2": 28,
-          "q3": 21,
-          "q4": 22,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "POETA, GIUSEPPE"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
-        },
-        "editorialName": "Milan"
-      },
-      "away": {
-        "code": "TEL",
-        "name": "Maccabi Rapyd Tel Aviv",
-        "abbreviatedName": "Maccabi",
-        "tla": "MTA",
-        "score": 87,
-        "standingsScore": 87,
-        "quarters": {
-          "q1": 26,
-          "q2": 16,
-          "q3": 25,
-          "q4": 20,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "KATTASH, ODED"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
-        },
-        "editorialName": "Maccabi"
-      },
-      "referees": [
-        {
-          "code": "OJIL",
-          "name": "HORDOV, TOMISLAV ",
-          "number": 1,
-          "alias": "HORDOV, T.",
-          "country": {
-            "code": "CRO",
-            "name": "Croatia"
-          }
-        },
-        {
-          "code": "OJLQ",
-          "name": "ALIAGA, JORDI",
-          "number": 2,
-          "alias": "ALIAGA, J.",
-          "country": {
-            "code": "ESP",
-            "name": "Spain"
-          }
-        },
-        {
-          "code": "QJLT",
-          "name": "THEPENIER, HUGUES",
-          "number": 3,
-          "alias": "THEPENIER, H.",
-          "country": {
-            "code": "FRA",
-            "name": "France"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AUD",
-        "name": "ALLIANZ CLOUD",
-        "capacity": 5420,
-        "address": "Via Marco Cremosano, 2, 20148 Milano",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 4230,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "164ff056-70a5-5f2e-abc8-f7280fcdf2c2",
       "identifier": "E2025_310",
       "code": 310,
@@ -13749,6 +13724,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 0,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "de729257-ef6f-50e0-9aa3-0ba82e3c6c5d",
+      "identifier": "E2025_309",
+      "code": 309,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 31,
+        "name": "Round 31",
+        "alias": "Round 31"
+      },
+      "date": "2026-03-13T19:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "MIL",
+        "name": "EA7 Emporio Armani Milan",
+        "abbreviatedName": "Milan",
+        "tla": "EA7",
+        "score": 96,
+        "standingsScore": 96,
+        "quarters": {
+          "q1": 25,
+          "q2": 28,
+          "q3": 21,
+          "q4": 22,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "POETA, GIUSEPPE"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
+        },
+        "editorialName": "Milan"
+      },
+      "away": {
+        "code": "TEL",
+        "name": "Maccabi Rapyd Tel Aviv",
+        "abbreviatedName": "Maccabi",
+        "tla": "MTA",
+        "score": 87,
+        "standingsScore": 87,
+        "quarters": {
+          "q1": 26,
+          "q2": 16,
+          "q3": 25,
+          "q4": 20,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "KATTASH, ODED"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
+        },
+        "editorialName": "Maccabi"
+      },
+      "referees": [
+        {
+          "code": "OJIL",
+          "name": "HORDOV, TOMISLAV ",
+          "number": 1,
+          "alias": "HORDOV, T.",
+          "country": {
+            "code": "CRO",
+            "name": "Croatia"
+          }
+        },
+        {
+          "code": "OJLQ",
+          "name": "ALIAGA, JORDI",
+          "number": 2,
+          "alias": "ALIAGA, J.",
+          "country": {
+            "code": "ESP",
+            "name": "Spain"
+          }
+        },
+        {
+          "code": "QJLT",
+          "name": "THEPENIER, HUGUES",
+          "number": 3,
+          "alias": "THEPENIER, H.",
+          "country": {
+            "code": "FRA",
+            "name": "France"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AUD",
+        "name": "ALLIANZ CLOUD",
+        "capacity": 5420,
+        "address": "Via Marco Cremosano, 2, 20148 Milano",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 4230,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -13902,148 +14019,6 @@
       ]
     },
     {
-      "id": "b9ac3ac2-a6ef-5b66-8b5f-a56586f07044",
-      "identifier": "E2025_302",
-      "code": 302,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 31,
-        "name": "Round 31",
-        "alias": "Round 31"
-      },
-      "date": "2026-03-12T20:00:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "PRS",
-        "name": "Paris Basketball",
-        "abbreviatedName": "Paris",
-        "tla": "PBB",
-        "score": 90,
-        "standingsScore": 90,
-        "quarters": {
-          "q1": 17,
-          "q2": 14,
-          "q3": 29,
-          "q4": 30,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "TABELLINI, FRANCESCO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
-        },
-        "editorialName": "Paris"
-      },
-      "away": {
-        "code": "ASV",
-        "name": "LDLC ASVEL Villeurbanne",
-        "abbreviatedName": "ASVEL",
-        "tla": "ASV",
-        "score": 81,
-        "standingsScore": 81,
-        "quarters": {
-          "q1": 23,
-          "q2": 17,
-          "q3": 13,
-          "q4": 28,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "POUPET, PIERRIC"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
-        },
-        "editorialName": "ASVEL"
-      },
-      "referees": [
-        {
-          "code": "OACI",
-          "name": "BELOSEVIC, ILIJA",
-          "number": 1,
-          "alias": "BELOSEVIC, I.",
-          "country": {
-            "code": "SRB",
-            "name": "Serbia"
-          }
-        },
-        {
-          "code": "QJMD",
-          "name": "KONSTANTINOVS, KRISTAPS",
-          "number": 2,
-          "alias": "KONSTANTINOVS, K.",
-          "country": {
-            "code": "LAT",
-            "name": "Latvia"
-          }
-        },
-        {
-          "code": "OJJA",
-          "name": "RADOJKOVIC, JOSIP ",
-          "number": 3,
-          "alias": "RADOJKOVIC, J.",
-          "country": {
-            "code": "CRO",
-            "name": "Croatia"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AVB11",
-        "name": "ADIDAS ARENA",
-        "capacity": 8000,
-        "address": "56 Boulevard Ney, 75018 Paris, France",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 7694,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "beeaac78-ef6d-5f55-bb29-4de3d8af6ae1",
       "identifier": "E2025_305",
       "code": 305,
@@ -14175,6 +14150,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 18913,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "b9ac3ac2-a6ef-5b66-8b5f-a56586f07044",
+      "identifier": "E2025_302",
+      "code": 302,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 31,
+        "name": "Round 31",
+        "alias": "Round 31"
+      },
+      "date": "2026-03-12T20:00:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "PRS",
+        "name": "Paris Basketball",
+        "abbreviatedName": "Paris",
+        "tla": "PBB",
+        "score": 90,
+        "standingsScore": 90,
+        "quarters": {
+          "q1": 17,
+          "q2": 14,
+          "q3": 29,
+          "q4": 30,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "TABELLINI, FRANCESCO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+        },
+        "editorialName": "Paris"
+      },
+      "away": {
+        "code": "ASV",
+        "name": "LDLC ASVEL Villeurbanne",
+        "abbreviatedName": "ASVEL",
+        "tla": "ASV",
+        "score": 81,
+        "standingsScore": 81,
+        "quarters": {
+          "q1": 23,
+          "q2": 17,
+          "q3": 13,
+          "q4": 28,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "POUPET, PIERRIC"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+        },
+        "editorialName": "ASVEL"
+      },
+      "referees": [
+        {
+          "code": "OACI",
+          "name": "BELOSEVIC, ILIJA",
+          "number": 1,
+          "alias": "BELOSEVIC, I.",
+          "country": {
+            "code": "SRB",
+            "name": "Serbia"
+          }
+        },
+        {
+          "code": "QJMD",
+          "name": "KONSTANTINOVS, KRISTAPS",
+          "number": 2,
+          "alias": "KONSTANTINOVS, K.",
+          "country": {
+            "code": "LAT",
+            "name": "Latvia"
+          }
+        },
+        {
+          "code": "OJJA",
+          "name": "RADOJKOVIC, JOSIP ",
+          "number": 3,
+          "alias": "RADOJKOVIC, J.",
+          "country": {
+            "code": "CRO",
+            "name": "Croatia"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AVB11",
+        "name": "ADIDAS ARENA",
+        "capacity": 8000,
+        "address": "56 Boulevard Ney, 75018 Paris, France",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 7694,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -17050,148 +17167,6 @@
       ]
     },
     {
-      "id": "62aa0ac5-31f1-5be7-987d-4ca136a6a86d",
-      "identifier": "E2025_286",
-      "code": 286,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 29,
-        "name": "Round 29",
-        "alias": "Round 29"
-      },
-      "date": "2026-02-25T19:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "RED",
-        "name": "Crvena Zvezda Meridianbet Belgrade",
-        "abbreviatedName": "Crvena Zvezda",
-        "tla": "CZV",
-        "score": 91,
-        "standingsScore": 91,
-        "quarters": {
-          "q1": 19,
-          "q2": 25,
-          "q3": 21,
-          "q4": 26,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "OBRADOVIC, SASA"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
-        },
-        "editorialName": "Crvena Zvezda"
-      },
-      "away": {
-        "code": "IST",
-        "name": "Anadolu Efes Istanbul",
-        "abbreviatedName": "Anadolu Efes",
-        "tla": "EFS",
-        "score": 81,
-        "standingsScore": 81,
-        "quarters": {
-          "q1": 23,
-          "q2": 14,
-          "q3": 25,
-          "q4": 19,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "LASO, PABLO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/9a463aa2-ceb2-481c-9a95-1cddee0a248e.png"
-        },
-        "editorialName": "Efes"
-      },
-      "referees": [
-        {
-          "code": "OJGG",
-          "name": "CORTES, CARLOS",
-          "number": 1,
-          "alias": "CORTES, C.",
-          "country": {
-            "code": "ESP",
-            "name": "Spain"
-          }
-        },
-        {
-          "code": "OJLQ",
-          "name": "ALIAGA, JORDI",
-          "number": 2,
-          "alias": "ALIAGA, J.",
-          "country": {
-            "code": "ESP",
-            "name": "Spain"
-          }
-        },
-        {
-          "code": "QJLT",
-          "name": "THEPENIER, HUGUES",
-          "number": 3,
-          "alias": "THEPENIER, H.",
-          "country": {
-            "code": "FRA",
-            "name": "France"
-          }
-        }
-      ],
-      "venue": {
-        "code": "ATM8",
-        "name": "BELGRADE ARENA",
-        "capacity": 21000,
-        "address": "Bulevar Arsenija Carnojevica 58, 11070 Belgrade - Serbia",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 16797,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "5ec7bf58-e934-5dba-8012-3752d36d03ec",
       "identifier": "E2025_282",
       "code": 282,
@@ -17331,6 +17306,148 @@
           "linkUrl": "https://fanduel.com/watch/video/event-fanduel-tv-extra-5f78",
           "imageUrl": "https://media-cdn.cortextech.io/440d24fe-2f9e-4579-a2e0-597567a54235.png"
         },
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "62aa0ac5-31f1-5be7-987d-4ca136a6a86d",
+      "identifier": "E2025_286",
+      "code": 286,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 29,
+        "name": "Round 29",
+        "alias": "Round 29"
+      },
+      "date": "2026-02-25T19:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "RED",
+        "name": "Crvena Zvezda Meridianbet Belgrade",
+        "abbreviatedName": "Crvena Zvezda",
+        "tla": "CZV",
+        "score": 91,
+        "standingsScore": 91,
+        "quarters": {
+          "q1": 19,
+          "q2": 25,
+          "q3": 21,
+          "q4": 26,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "OBRADOVIC, SASA"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+        },
+        "editorialName": "Crvena Zvezda"
+      },
+      "away": {
+        "code": "IST",
+        "name": "Anadolu Efes Istanbul",
+        "abbreviatedName": "Anadolu Efes",
+        "tla": "EFS",
+        "score": 81,
+        "standingsScore": 81,
+        "quarters": {
+          "q1": 23,
+          "q2": 14,
+          "q3": 25,
+          "q4": 19,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "LASO, PABLO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/9a463aa2-ceb2-481c-9a95-1cddee0a248e.png"
+        },
+        "editorialName": "Efes"
+      },
+      "referees": [
+        {
+          "code": "OJGG",
+          "name": "CORTES, CARLOS",
+          "number": 1,
+          "alias": "CORTES, C.",
+          "country": {
+            "code": "ESP",
+            "name": "Spain"
+          }
+        },
+        {
+          "code": "OJLQ",
+          "name": "ALIAGA, JORDI",
+          "number": 2,
+          "alias": "ALIAGA, J.",
+          "country": {
+            "code": "ESP",
+            "name": "Spain"
+          }
+        },
+        {
+          "code": "QJLT",
+          "name": "THEPENIER, HUGUES",
+          "number": 3,
+          "alias": "THEPENIER, H.",
+          "country": {
+            "code": "FRA",
+            "name": "France"
+          }
+        }
+      ],
+      "venue": {
+        "code": "ATM8",
+        "name": "BELGRADE ARENA",
+        "capacity": 21000,
+        "address": "Bulevar Arsenija Carnojevica 58, 11070 Belgrade - Serbia",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 16797,
+      "audienceConfirmed": true,
+      "broadcasters": [
         {
           "name": "EUROLEAGUE.TV",
           "countryCode": null,
@@ -18352,148 +18469,6 @@
       ]
     },
     {
-      "id": "27643462-d13b-52c2-9769-30f66d8ec58e",
-      "identifier": "E2025_274",
-      "code": 274,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 28,
-        "name": "Round 28",
-        "alias": "Round 28"
-      },
-      "date": "2026-02-12T19:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "PAM",
-        "name": "Valencia Basket",
-        "abbreviatedName": "Valencia",
-        "tla": "VBC",
-        "score": 82,
-        "standingsScore": 82,
-        "quarters": {
-          "q1": 22,
-          "q2": 22,
-          "q3": 19,
-          "q4": 19,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "MARTINEZ, PEDRO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/d88f3c71-1519-4b19-8cfb-99e26a4c008e.png"
-        },
-        "editorialName": "Valencia"
-      },
-      "away": {
-        "code": "ASV",
-        "name": "LDLC ASVEL Villeurbanne",
-        "abbreviatedName": "ASVEL",
-        "tla": "ASV",
-        "score": 67,
-        "standingsScore": 67,
-        "quarters": {
-          "q1": 17,
-          "q2": 16,
-          "q3": 12,
-          "q4": 22,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "POUPET, PIERRIC"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
-        },
-        "editorialName": "ASVEL"
-      },
-      "referees": [
-        {
-          "code": "OJFC",
-          "name": "JAVOR, DAMIR",
-          "number": 1,
-          "alias": "JAVOR, D.",
-          "country": {
-            "code": "SLO",
-            "name": "Slovenia"
-          }
-        },
-        {
-          "code": "OJIT",
-          "name": "KOLJENSIC, MILOS ",
-          "number": 2,
-          "alias": "KOLJENSIC, M.",
-          "country": {
-            "code": "MNE",
-            "name": "Montenegro"
-          }
-        },
-        {
-          "code": "QJMM",
-          "name": "PITSILKAS, VASSILIS",
-          "number": 3,
-          "alias": "PITSILKAS, V.",
-          "country": {
-            "code": "GRE",
-            "name": "Greece"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AVJ1",
-        "name": "ROIG ARENA",
-        "capacity": 15600,
-        "address": "C/ del Bomber Ramon Duart, 12, Quatre Carreres, 46013 Valencia ",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 13210,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "d2afc85f-dfdc-5b76-a064-65d2e394ee44",
       "identifier": "E2025_275",
       "code": 275,
@@ -18625,6 +18600,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 4368,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "27643462-d13b-52c2-9769-30f66d8ec58e",
+      "identifier": "E2025_274",
+      "code": 274,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 28,
+        "name": "Round 28",
+        "alias": "Round 28"
+      },
+      "date": "2026-02-12T19:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "PAM",
+        "name": "Valencia Basket",
+        "abbreviatedName": "Valencia",
+        "tla": "VBC",
+        "score": 82,
+        "standingsScore": 82,
+        "quarters": {
+          "q1": 22,
+          "q2": 22,
+          "q3": 19,
+          "q4": 19,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "MARTINEZ, PEDRO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/d88f3c71-1519-4b19-8cfb-99e26a4c008e.png"
+        },
+        "editorialName": "Valencia"
+      },
+      "away": {
+        "code": "ASV",
+        "name": "LDLC ASVEL Villeurbanne",
+        "abbreviatedName": "ASVEL",
+        "tla": "ASV",
+        "score": 67,
+        "standingsScore": 67,
+        "quarters": {
+          "q1": 17,
+          "q2": 16,
+          "q3": 12,
+          "q4": 22,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "POUPET, PIERRIC"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+        },
+        "editorialName": "ASVEL"
+      },
+      "referees": [
+        {
+          "code": "OJFC",
+          "name": "JAVOR, DAMIR",
+          "number": 1,
+          "alias": "JAVOR, D.",
+          "country": {
+            "code": "SLO",
+            "name": "Slovenia"
+          }
+        },
+        {
+          "code": "OJIT",
+          "name": "KOLJENSIC, MILOS ",
+          "number": 2,
+          "alias": "KOLJENSIC, M.",
+          "country": {
+            "code": "MNE",
+            "name": "Montenegro"
+          }
+        },
+        {
+          "code": "QJMM",
+          "name": "PITSILKAS, VASSILIS",
+          "number": 3,
+          "alias": "PITSILKAS, V.",
+          "country": {
+            "code": "GRE",
+            "name": "Greece"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AVJ1",
+        "name": "ROIG ARENA",
+        "capacity": 15600,
+        "address": "C/ del Bomber Ramon Duart, 12, Quatre Carreres, 46013 Valencia ",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 13210,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -20630,9 +20747,9 @@
       ]
     },
     {
-      "id": "fca0b3d0-ac6f-5498-8aee-4703654749c6",
-      "identifier": "E2025_256",
-      "code": 256,
+      "id": "f135fd92-2fd2-5b58-a6fe-e2d4914ec618",
+      "identifier": "E2025_254",
+      "code": 254,
       "season": {
         "code": "E2025",
         "name": "EuroLeague 2025-26",
@@ -20666,17 +20783,17 @@
       "quarter": null,
       "quarterMinute": null,
       "home": {
-        "code": "MUN",
-        "name": "FC Bayern Munich",
-        "abbreviatedName": "Bayern",
-        "tla": "BAY",
-        "score": 81,
-        "standingsScore": 81,
+        "code": "MIL",
+        "name": "EA7 Emporio Armani Milan",
+        "abbreviatedName": "Milan",
+        "tla": "EA7",
+        "score": 109,
+        "standingsScore": 109,
         "quarters": {
-          "q1": 21,
-          "q2": 13,
-          "q3": 18,
-          "q4": 29,
+          "q1": 32,
+          "q2": 25,
+          "q3": 27,
+          "q4": 25,
           "ot1": null,
           "ot2": null,
           "ot3": null,
@@ -20685,25 +20802,25 @@
         },
         "coach": {
           "code": "",
-          "name": "PESIC, SVETISLAV"
+          "name": "POETA, GIUSEPPE"
         },
         "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
         },
-        "editorialName": "Bayern"
+        "editorialName": "Milan"
       },
       "away": {
-        "code": "PRS",
-        "name": "Paris Basketball",
-        "abbreviatedName": "Paris",
-        "tla": "PBB",
-        "score": 75,
-        "standingsScore": 75,
+        "code": "BAS",
+        "name": "Kosner Baskonia Vitoria-Gasteiz",
+        "abbreviatedName": "Baskonia",
+        "tla": "KBA",
+        "score": 89,
+        "standingsScore": 89,
         "quarters": {
-          "q1": 18,
-          "q2": 13,
-          "q3": 18,
-          "q4": 26,
+          "q1": 29,
+          "q2": 27,
+          "q3": 15,
+          "q4": 18,
           "ot1": null,
           "ot2": null,
           "ot3": null,
@@ -20712,55 +20829,55 @@
         },
         "coach": {
           "code": "",
-          "name": "TABELLINI, FRANCESCO"
+          "name": "GALBIATI, PAOLO"
         },
         "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+          "crest": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
         },
-        "editorialName": "Paris"
+        "editorialName": "Baskonia"
       },
       "referees": [
         {
-          "code": "OJCZ",
-          "name": "RADOVIC, SRETEN",
+          "code": "OJDL",
+          "name": "MOGULKOC, EMIN",
           "number": 1,
-          "alias": "RADOVIC, S.",
-          "country": {
-            "code": "CRO",
-            "name": "Croatia"
-          }
-        },
-        {
-          "code": "OJLM",
-          "name": "NEDOVIC, MILAN",
-          "number": 2,
-          "alias": "NEDOVIC, M.",
-          "country": {
-            "code": "SLO",
-            "name": "Slovenia"
-          }
-        },
-        {
-          "code": "QJMC",
-          "name": "CELIK, HUSEYIN",
-          "number": 3,
-          "alias": "CELIK, H.",
+          "alias": "MOGULKOC, E.",
           "country": {
             "code": "TUR",
             "name": "Turkiye"
           }
+        },
+        {
+          "code": "OACA",
+          "name": "RYZHYK, BORYS",
+          "number": 2,
+          "alias": "RYZHYK, B.",
+          "country": {
+            "code": "UKR",
+            "name": "Ukraine"
+          }
+        },
+        {
+          "code": "QJMH",
+          "name": "BITTNER, STEVE",
+          "number": 3,
+          "alias": "BITTNER, S.",
+          "country": {
+            "code": "GER",
+            "name": "Germany"
+          }
         }
       ],
       "venue": {
-        "code": "AVE1",
-        "name": "SAP GARDEN",
-        "capacity": 11500,
-        "address": "Toni-Merkens-Weg 4, 80809 Munich - Germany",
+        "code": "AUD",
+        "name": "ALLIANZ CLOUD",
+        "capacity": 5420,
+        "address": "Via Marco Cremosano, 2, 20148 Milano",
         "notes": ""
       },
       "confirmedDate": true,
       "confirmedTime": true,
-      "audience": 10596,
+      "audience": 3339,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -20914,9 +21031,9 @@
       ]
     },
     {
-      "id": "f135fd92-2fd2-5b58-a6fe-e2d4914ec618",
-      "identifier": "E2025_254",
-      "code": 254,
+      "id": "fca0b3d0-ac6f-5498-8aee-4703654749c6",
+      "identifier": "E2025_256",
+      "code": 256,
       "season": {
         "code": "E2025",
         "name": "EuroLeague 2025-26",
@@ -20950,17 +21067,17 @@
       "quarter": null,
       "quarterMinute": null,
       "home": {
-        "code": "MIL",
-        "name": "EA7 Emporio Armani Milan",
-        "abbreviatedName": "Milan",
-        "tla": "EA7",
-        "score": 109,
-        "standingsScore": 109,
+        "code": "MUN",
+        "name": "FC Bayern Munich",
+        "abbreviatedName": "Bayern",
+        "tla": "BAY",
+        "score": 81,
+        "standingsScore": 81,
         "quarters": {
-          "q1": 32,
-          "q2": 25,
-          "q3": 27,
-          "q4": 25,
+          "q1": 21,
+          "q2": 13,
+          "q3": 18,
+          "q4": 29,
           "ot1": null,
           "ot2": null,
           "ot3": null,
@@ -20969,25 +21086,25 @@
         },
         "coach": {
           "code": "",
-          "name": "POETA, GIUSEPPE"
+          "name": "PESIC, SVETISLAV"
         },
         "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
+          "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
         },
-        "editorialName": "Milan"
+        "editorialName": "Bayern"
       },
       "away": {
-        "code": "BAS",
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "abbreviatedName": "Baskonia",
-        "tla": "KBA",
-        "score": 89,
-        "standingsScore": 89,
+        "code": "PRS",
+        "name": "Paris Basketball",
+        "abbreviatedName": "Paris",
+        "tla": "PBB",
+        "score": 75,
+        "standingsScore": 75,
         "quarters": {
-          "q1": 29,
-          "q2": 27,
-          "q3": 15,
-          "q4": 18,
+          "q1": 18,
+          "q2": 13,
+          "q3": 18,
+          "q4": 26,
           "ot1": null,
           "ot2": null,
           "ot3": null,
@@ -20996,55 +21113,55 @@
         },
         "coach": {
           "code": "",
-          "name": "GALBIATI, PAOLO"
+          "name": "TABELLINI, FRANCESCO"
         },
         "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+          "crest": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
         },
-        "editorialName": "Baskonia"
+        "editorialName": "Paris"
       },
       "referees": [
         {
-          "code": "OJDL",
-          "name": "MOGULKOC, EMIN",
+          "code": "OJCZ",
+          "name": "RADOVIC, SRETEN",
           "number": 1,
-          "alias": "MOGULKOC, E.",
+          "alias": "RADOVIC, S.",
+          "country": {
+            "code": "CRO",
+            "name": "Croatia"
+          }
+        },
+        {
+          "code": "OJLM",
+          "name": "NEDOVIC, MILAN",
+          "number": 2,
+          "alias": "NEDOVIC, M.",
+          "country": {
+            "code": "SLO",
+            "name": "Slovenia"
+          }
+        },
+        {
+          "code": "QJMC",
+          "name": "CELIK, HUSEYIN",
+          "number": 3,
+          "alias": "CELIK, H.",
           "country": {
             "code": "TUR",
             "name": "Turkiye"
           }
-        },
-        {
-          "code": "OACA",
-          "name": "RYZHYK, BORYS",
-          "number": 2,
-          "alias": "RYZHYK, B.",
-          "country": {
-            "code": "UKR",
-            "name": "Ukraine"
-          }
-        },
-        {
-          "code": "QJMH",
-          "name": "BITTNER, STEVE",
-          "number": 3,
-          "alias": "BITTNER, S.",
-          "country": {
-            "code": "GER",
-            "name": "Germany"
-          }
         }
       ],
       "venue": {
-        "code": "AUD",
-        "name": "ALLIANZ CLOUD",
-        "capacity": 5420,
-        "address": "Via Marco Cremosano, 2, 20148 Milano",
+        "code": "AVE1",
+        "name": "SAP GARDEN",
+        "capacity": 11500,
+        "address": "Toni-Merkens-Weg 4, 80809 Munich - Germany",
         "notes": ""
       },
       "confirmedDate": true,
       "confirmedTime": true,
-      "audience": 3339,
+      "audience": 10596,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -27730,148 +27847,6 @@
       ]
     },
     {
-      "id": "2b1c28f9-4ae6-5047-8eb3-77f367e869cf",
-      "identifier": "E2025_207",
-      "code": 207,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 21,
-        "name": "Round 21",
-        "alias": "Round 21"
-      },
-      "date": "2026-01-09T19:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "MIL",
-        "name": "EA7 Emporio Armani Milan",
-        "abbreviatedName": "Milan",
-        "tla": "EA7",
-        "score": 87,
-        "standingsScore": 87,
-        "quarters": {
-          "q1": 16,
-          "q2": 22,
-          "q3": 24,
-          "q4": 25,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "POETA, GIUSEPPE"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
-        },
-        "editorialName": "Milan"
-      },
-      "away": {
-        "code": "IST",
-        "name": "Anadolu Efes Istanbul",
-        "abbreviatedName": "Anadolu Efes",
-        "tla": "EFS",
-        "score": 74,
-        "standingsScore": 74,
-        "quarters": {
-          "q1": 27,
-          "q2": 22,
-          "q3": 8,
-          "q4": 17,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "LASO, PABLO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/9a463aa2-ceb2-481c-9a95-1cddee0a248e.png"
-        },
-        "editorialName": "Efes"
-      },
-      "referees": [
-        {
-          "code": "OADJ",
-          "name": "PUKL,SASA",
-          "number": 1,
-          "alias": "PUKL,S.",
-          "country": {
-            "code": "SLO",
-            "name": "Slovenia"
-          }
-        },
-        {
-          "code": "OJGK",
-          "name": "PETEK, SASO",
-          "number": 2,
-          "alias": "PETEK, S.",
-          "country": {
-            "code": "SLO",
-            "name": "Slovenia"
-          }
-        },
-        {
-          "code": "QJMQ",
-          "name": "BAENA, ALBERTO",
-          "number": 3,
-          "alias": "BAENA, A.",
-          "country": {
-            "code": "ESP",
-            "name": "Spain"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AUD",
-        "name": "ALLIANZ CLOUD",
-        "capacity": 5420,
-        "address": "Via Marco Cremosano, 2, 20148 Milano",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 5362,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "75314d67-ea3e-5a04-b5a6-32e56b78f22b",
       "identifier": "E2025_206",
       "code": 206,
@@ -28003,6 +27978,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 7836,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "2b1c28f9-4ae6-5047-8eb3-77f367e869cf",
+      "identifier": "E2025_207",
+      "code": 207,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 21,
+        "name": "Round 21",
+        "alias": "Round 21"
+      },
+      "date": "2026-01-09T19:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "MIL",
+        "name": "EA7 Emporio Armani Milan",
+        "abbreviatedName": "Milan",
+        "tla": "EA7",
+        "score": 87,
+        "standingsScore": 87,
+        "quarters": {
+          "q1": 16,
+          "q2": 22,
+          "q3": 24,
+          "q4": 25,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "POETA, GIUSEPPE"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
+        },
+        "editorialName": "Milan"
+      },
+      "away": {
+        "code": "IST",
+        "name": "Anadolu Efes Istanbul",
+        "abbreviatedName": "Anadolu Efes",
+        "tla": "EFS",
+        "score": 74,
+        "standingsScore": 74,
+        "quarters": {
+          "q1": 27,
+          "q2": 22,
+          "q3": 8,
+          "q4": 17,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "LASO, PABLO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/9a463aa2-ceb2-481c-9a95-1cddee0a248e.png"
+        },
+        "editorialName": "Efes"
+      },
+      "referees": [
+        {
+          "code": "OADJ",
+          "name": "PUKL,SASA",
+          "number": 1,
+          "alias": "PUKL,S.",
+          "country": {
+            "code": "SLO",
+            "name": "Slovenia"
+          }
+        },
+        {
+          "code": "OJGK",
+          "name": "PETEK, SASO",
+          "number": 2,
+          "alias": "PETEK, S.",
+          "country": {
+            "code": "SLO",
+            "name": "Slovenia"
+          }
+        },
+        {
+          "code": "QJMQ",
+          "name": "BAENA, ALBERTO",
+          "number": 3,
+          "alias": "BAENA, A.",
+          "country": {
+            "code": "ESP",
+            "name": "Spain"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AUD",
+        "name": "ALLIANZ CLOUD",
+        "capacity": 5420,
+        "address": "Via Marco Cremosano, 2, 20148 Milano",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 5362,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -34546,148 +34663,6 @@
       ]
     },
     {
-      "id": "fa11932c-92c6-50e7-9f13-007b85c969f1",
-      "identifier": "E2025_159",
-      "code": 159,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 16,
-        "name": "Round 16",
-        "alias": "Round 16"
-      },
-      "date": "2025-12-17T19:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "PAR",
-        "name": "Partizan Mozzart Bet Belgrade",
-        "abbreviatedName": "Partizan",
-        "tla": "PAR",
-        "score": 68,
-        "standingsScore": 68,
-        "quarters": {
-          "q1": 19,
-          "q2": 18,
-          "q3": 15,
-          "q4": 16,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "OCOKOLJIC, MIRKO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
-        },
-        "editorialName": "Partizan"
-      },
-      "away": {
-        "code": "VIR",
-        "name": "Virtus Bologna",
-        "abbreviatedName": "Virtus",
-        "tla": "VIR",
-        "score": 86,
-        "standingsScore": 86,
-        "quarters": {
-          "q1": 24,
-          "q2": 16,
-          "q3": 23,
-          "q4": 23,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "IVANOVIC, DUSKO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/1362801d-dd09-4fd0-932d-ead56063ab77.png"
-        },
-        "editorialName": "Virtus"
-      },
-      "referees": [
-        {
-          "code": "OAEF",
-          "name": "GARCIA, JUAN CARLOS",
-          "number": 1,
-          "alias": "GARCIA GONZALEZ, J.C.",
-          "country": {
-            "code": "ESP",
-            "name": "Spain"
-          }
-        },
-        {
-          "code": "OACA",
-          "name": "RYZHYK, BORYS",
-          "number": 2,
-          "alias": "RYZHYK, B.",
-          "country": {
-            "code": "UKR",
-            "name": "Ukraine"
-          }
-        },
-        {
-          "code": "QJLU",
-          "name": "UDYANSKYY, EDUARD",
-          "number": 3,
-          "alias": "UDYANSKYY, E.",
-          "country": {
-            "code": "GBR",
-            "name": "United Kingdom"
-          }
-        }
-      ],
-      "venue": {
-        "code": "ATM8",
-        "name": "BELGRADE ARENA",
-        "capacity": 21000,
-        "address": "Bulevar Arsenija Carnojevica 58, 11070 Belgrade - Serbia",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 16435,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "b1dc9e40-b0a7-5486-9b38-8d77d8288e47",
       "identifier": "E2025_157",
       "code": 157,
@@ -34819,6 +34794,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 7234,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "fa11932c-92c6-50e7-9f13-007b85c969f1",
+      "identifier": "E2025_159",
+      "code": 159,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 16,
+        "name": "Round 16",
+        "alias": "Round 16"
+      },
+      "date": "2025-12-17T19:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "PAR",
+        "name": "Partizan Mozzart Bet Belgrade",
+        "abbreviatedName": "Partizan",
+        "tla": "PAR",
+        "score": 68,
+        "standingsScore": 68,
+        "quarters": {
+          "q1": 19,
+          "q2": 18,
+          "q3": 15,
+          "q4": 16,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "OCOKOLJIC, MIRKO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+        },
+        "editorialName": "Partizan"
+      },
+      "away": {
+        "code": "VIR",
+        "name": "Virtus Bologna",
+        "abbreviatedName": "Virtus",
+        "tla": "VIR",
+        "score": 86,
+        "standingsScore": 86,
+        "quarters": {
+          "q1": 24,
+          "q2": 16,
+          "q3": 23,
+          "q4": 23,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "IVANOVIC, DUSKO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/1362801d-dd09-4fd0-932d-ead56063ab77.png"
+        },
+        "editorialName": "Virtus"
+      },
+      "referees": [
+        {
+          "code": "OAEF",
+          "name": "GARCIA, JUAN CARLOS",
+          "number": 1,
+          "alias": "GARCIA GONZALEZ, J.C.",
+          "country": {
+            "code": "ESP",
+            "name": "Spain"
+          }
+        },
+        {
+          "code": "OACA",
+          "name": "RYZHYK, BORYS",
+          "number": 2,
+          "alias": "RYZHYK, B.",
+          "country": {
+            "code": "UKR",
+            "name": "Ukraine"
+          }
+        },
+        {
+          "code": "QJLU",
+          "name": "UDYANSKYY, EDUARD",
+          "number": 3,
+          "alias": "UDYANSKYY, E.",
+          "country": {
+            "code": "GBR",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "venue": {
+        "code": "ATM8",
+        "name": "BELGRADE ARENA",
+        "capacity": 21000,
+        "address": "Bulevar Arsenija Carnojevica 58, 11070 Belgrade - Serbia",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 16435,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -35966,9 +36083,9 @@
       ]
     },
     {
-      "id": "2a0614e0-9f77-5a86-9075-bc91fb343973",
-      "identifier": "E2025_148",
-      "code": 148,
+      "id": "52a87820-df44-5f44-aa31-5fc97bf07793",
+      "identifier": "E2025_149",
+      "code": 149,
       "season": {
         "code": "E2025",
         "name": "EuroLeague 2025-26",
@@ -36002,17 +36119,17 @@
       "quarter": null,
       "quarterMinute": null,
       "home": {
-        "code": "BAR",
-        "name": "FC Barcelona",
-        "abbreviatedName": "Barcelona",
-        "tla": "BAR",
-        "score": 98,
-        "standingsScore": 98,
+        "code": "PAR",
+        "name": "Partizan Mozzart Bet Belgrade",
+        "abbreviatedName": "Partizan",
+        "tla": "PAR",
+        "score": 79,
+        "standingsScore": 79,
         "quarters": {
-          "q1": 21,
-          "q2": 21,
-          "q3": 30,
-          "q4": 26,
+          "q1": 15,
+          "q2": 20,
+          "q3": 14,
+          "q4": 30,
           "ot1": null,
           "ot2": null,
           "ot3": null,
@@ -36021,25 +36138,25 @@
         },
         "coach": {
           "code": "",
-          "name": "PASCUAL, XAVI"
+          "name": "OCOKOLJIC, MIRKO"
         },
         "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
+          "crest": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
         },
-        "editorialName": "Barcelona"
+        "editorialName": "Partizan"
       },
       "away": {
-        "code": "OLY",
-        "name": "Olympiacos Piraeus",
-        "abbreviatedName": "Olympiacos",
-        "tla": "OLY",
-        "score": 85,
-        "standingsScore": 85,
+        "code": "RED",
+        "name": "Crvena Zvezda Meridianbet Belgrade",
+        "abbreviatedName": "Crvena Zvezda",
+        "tla": "CZV",
+        "score": 76,
+        "standingsScore": 76,
         "quarters": {
-          "q1": 22,
-          "q2": 17,
-          "q3": 17,
-          "q4": 29,
+          "q1": 18,
+          "q2": 21,
+          "q3": 21,
+          "q4": 16,
           "ot1": null,
           "ot2": null,
           "ot3": null,
@@ -36048,55 +36165,55 @@
         },
         "coach": {
           "code": "",
-          "name": "BARTZOKAS, GEORGIOS"
+          "name": "OBRADOVIC, SASA"
         },
         "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+          "crest": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
         },
-        "editorialName": "Olympiacos"
+        "editorialName": "Crvena Zvezda"
       },
       "referees": [
         {
-          "code": "OJCZ",
-          "name": "RADOVIC, SRETEN",
+          "code": "OJIZ",
+          "name": "PERUGA, CARLOS",
           "number": 1,
-          "alias": "RADOVIC, S.",
+          "alias": "PERUGA, C.",
           "country": {
-            "code": "CRO",
-            "name": "Croatia"
+            "code": "ESP",
+            "name": "Spain"
           }
         },
         {
-          "code": "OJLN",
-          "name": "RACYS, SAULIUS",
+          "code": "OAEO",
+          "name": "PEREZ, EMILIO",
           "number": 2,
-          "alias": "RACYS, S.",
+          "alias": "PEREZ PIZARRO, E.",
           "country": {
-            "code": "SWE",
-            "name": "Sweden"
+            "code": "ESP",
+            "name": "Spain"
           }
         },
         {
-          "code": "QJMI",
-          "name": "BOUBERT, MAXIME",
+          "code": "QJMD",
+          "name": "KONSTANTINOVS, KRISTAPS",
           "number": 3,
-          "alias": "BOUBERT, M.",
+          "alias": "KONSTANTINOVS, K.",
           "country": {
-            "code": "FRA",
-            "name": "France"
+            "code": "LAT",
+            "name": "Latvia"
           }
         }
       ],
       "venue": {
-        "code": "AMH",
-        "name": "PALAU BLAUGRANA",
-        "capacity": 7585,
-        "address": "Aristides Maillol Av S/N, 08028 Barcelona",
+        "code": "ATM8",
+        "name": "BELGRADE ARENA",
+        "capacity": 21000,
+        "address": "Bulevar Arsenija Carnojevica 58, 11070 Belgrade - Serbia",
         "notes": ""
       },
       "confirmedDate": true,
       "confirmedTime": true,
-      "audience": 5572,
+      "audience": 21854,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -36250,9 +36367,9 @@
       ]
     },
     {
-      "id": "52a87820-df44-5f44-aa31-5fc97bf07793",
-      "identifier": "E2025_149",
-      "code": 149,
+      "id": "2a0614e0-9f77-5a86-9075-bc91fb343973",
+      "identifier": "E2025_148",
+      "code": 148,
       "season": {
         "code": "E2025",
         "name": "EuroLeague 2025-26",
@@ -36286,17 +36403,17 @@
       "quarter": null,
       "quarterMinute": null,
       "home": {
-        "code": "PAR",
-        "name": "Partizan Mozzart Bet Belgrade",
-        "abbreviatedName": "Partizan",
-        "tla": "PAR",
-        "score": 79,
-        "standingsScore": 79,
+        "code": "BAR",
+        "name": "FC Barcelona",
+        "abbreviatedName": "Barcelona",
+        "tla": "BAR",
+        "score": 98,
+        "standingsScore": 98,
         "quarters": {
-          "q1": 15,
-          "q2": 20,
-          "q3": 14,
-          "q4": 30,
+          "q1": 21,
+          "q2": 21,
+          "q3": 30,
+          "q4": 26,
           "ot1": null,
           "ot2": null,
           "ot3": null,
@@ -36305,25 +36422,25 @@
         },
         "coach": {
           "code": "",
-          "name": "OCOKOLJIC, MIRKO"
+          "name": "PASCUAL, XAVI"
         },
         "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+          "crest": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
         },
-        "editorialName": "Partizan"
+        "editorialName": "Barcelona"
       },
       "away": {
-        "code": "RED",
-        "name": "Crvena Zvezda Meridianbet Belgrade",
-        "abbreviatedName": "Crvena Zvezda",
-        "tla": "CZV",
-        "score": 76,
-        "standingsScore": 76,
+        "code": "OLY",
+        "name": "Olympiacos Piraeus",
+        "abbreviatedName": "Olympiacos",
+        "tla": "OLY",
+        "score": 85,
+        "standingsScore": 85,
         "quarters": {
-          "q1": 18,
-          "q2": 21,
-          "q3": 21,
-          "q4": 16,
+          "q1": 22,
+          "q2": 17,
+          "q3": 17,
+          "q4": 29,
           "ot1": null,
           "ot2": null,
           "ot3": null,
@@ -36332,55 +36449,55 @@
         },
         "coach": {
           "code": "",
-          "name": "OBRADOVIC, SASA"
+          "name": "BARTZOKAS, GEORGIOS"
         },
         "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+          "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
         },
-        "editorialName": "Crvena Zvezda"
+        "editorialName": "Olympiacos"
       },
       "referees": [
         {
-          "code": "OJIZ",
-          "name": "PERUGA, CARLOS",
+          "code": "OJCZ",
+          "name": "RADOVIC, SRETEN",
           "number": 1,
-          "alias": "PERUGA, C.",
+          "alias": "RADOVIC, S.",
           "country": {
-            "code": "ESP",
-            "name": "Spain"
+            "code": "CRO",
+            "name": "Croatia"
           }
         },
         {
-          "code": "OAEO",
-          "name": "PEREZ, EMILIO",
+          "code": "OJLN",
+          "name": "RACYS, SAULIUS",
           "number": 2,
-          "alias": "PEREZ PIZARRO, E.",
+          "alias": "RACYS, S.",
           "country": {
-            "code": "ESP",
-            "name": "Spain"
+            "code": "SWE",
+            "name": "Sweden"
           }
         },
         {
-          "code": "QJMD",
-          "name": "KONSTANTINOVS, KRISTAPS",
+          "code": "QJMI",
+          "name": "BOUBERT, MAXIME",
           "number": 3,
-          "alias": "KONSTANTINOVS, K.",
+          "alias": "BOUBERT, M.",
           "country": {
-            "code": "LAT",
-            "name": "Latvia"
+            "code": "FRA",
+            "name": "France"
           }
         }
       ],
       "venue": {
-        "code": "ATM8",
-        "name": "BELGRADE ARENA",
-        "capacity": 21000,
-        "address": "Bulevar Arsenija Carnojevica 58, 11070 Belgrade - Serbia",
+        "code": "AMH",
+        "name": "PALAU BLAUGRANA",
+        "capacity": 7585,
+        "address": "Aristides Maillol Av S/N, 08028 Barcelona",
         "notes": ""
       },
       "confirmedDate": true,
       "confirmedTime": true,
-      "audience": 21854,
+      "audience": 5572,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -39540,148 +39657,6 @@
       ]
     },
     {
-      "id": "7b9d5295-a9ac-5bec-a394-549c4a22534d",
-      "identifier": "E2025_122",
-      "code": 122,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 13,
-        "name": "Round 13",
-        "alias": "Round 13"
-      },
-      "date": "2025-11-25T18:00:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "HTA",
-        "name": "Hapoel IBI Tel Aviv",
-        "abbreviatedName": "Hapoel Tel Aviv",
-        "tla": "HTA",
-        "score": 74,
-        "standingsScore": 74,
-        "quarters": {
-          "q1": 18,
-          "q2": 18,
-          "q3": 22,
-          "q4": 16,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "ITOUDIS, DIMITRIS"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
-        },
-        "editorialName": "Hapoel Tel Aviv"
-      },
-      "away": {
-        "code": "MAD",
-        "name": "Real Madrid",
-        "abbreviatedName": "Real",
-        "tla": "RMB",
-        "score": 75,
-        "standingsScore": 75,
-        "quarters": {
-          "q1": 22,
-          "q2": 17,
-          "q3": 21,
-          "q4": 15,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "SCARIOLO, SERGIO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
-        },
-        "editorialName": "Real"
-      },
-      "referees": [
-        {
-          "code": "OJCZ",
-          "name": "RADOVIC, SRETEN",
-          "number": 1,
-          "alias": "RADOVIC, S.",
-          "country": {
-            "code": "CRO",
-            "name": "Croatia"
-          }
-        },
-        {
-          "code": "OJLP",
-          "name": "SUKYS, ARTURAS",
-          "number": 2,
-          "alias": "SUKYS, A.",
-          "country": {
-            "code": "LTU",
-            "name": "Lithuania"
-          }
-        },
-        {
-          "code": "QJMI",
-          "name": "BOUBERT, MAXIME",
-          "number": 3,
-          "alias": "BOUBERT, M.",
-          "country": {
-            "code": "FRA",
-            "name": "France"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AVN1",
-        "name": "ARENA BOTEVGRAD",
-        "capacity": 4000,
-        "address": "",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 3420,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "9ea10110-9dfe-5195-8595-f8845aa38802",
       "identifier": "E2025_125",
       "code": 125,
@@ -39813,6 +39788,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 14755,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "7b9d5295-a9ac-5bec-a394-549c4a22534d",
+      "identifier": "E2025_122",
+      "code": 122,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 13,
+        "name": "Round 13",
+        "alias": "Round 13"
+      },
+      "date": "2025-11-25T18:00:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "HTA",
+        "name": "Hapoel IBI Tel Aviv",
+        "abbreviatedName": "Hapoel Tel Aviv",
+        "tla": "HTA",
+        "score": 74,
+        "standingsScore": 74,
+        "quarters": {
+          "q1": 18,
+          "q2": 18,
+          "q3": 22,
+          "q4": 16,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "ITOUDIS, DIMITRIS"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+        },
+        "editorialName": "Hapoel Tel Aviv"
+      },
+      "away": {
+        "code": "MAD",
+        "name": "Real Madrid",
+        "abbreviatedName": "Real",
+        "tla": "RMB",
+        "score": 75,
+        "standingsScore": 75,
+        "quarters": {
+          "q1": 22,
+          "q2": 17,
+          "q3": 21,
+          "q4": 15,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "SCARIOLO, SERGIO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
+        },
+        "editorialName": "Real"
+      },
+      "referees": [
+        {
+          "code": "OJCZ",
+          "name": "RADOVIC, SRETEN",
+          "number": 1,
+          "alias": "RADOVIC, S.",
+          "country": {
+            "code": "CRO",
+            "name": "Croatia"
+          }
+        },
+        {
+          "code": "OJLP",
+          "name": "SUKYS, ARTURAS",
+          "number": 2,
+          "alias": "SUKYS, A.",
+          "country": {
+            "code": "LTU",
+            "name": "Lithuania"
+          }
+        },
+        {
+          "code": "QJMI",
+          "name": "BOUBERT, MAXIME",
+          "number": 3,
+          "alias": "BOUBERT, M.",
+          "country": {
+            "code": "FRA",
+            "name": "France"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AVN1",
+        "name": "ARENA BOTEVGRAD",
+        "capacity": 4000,
+        "address": "",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 3420,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -41558,148 +41675,6 @@
       ]
     },
     {
-      "id": "7f42e618-d30c-571f-8f08-947ca68c4cd8",
-      "identifier": "E2025_108",
-      "code": 108,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 11,
-        "name": "Round 11",
-        "alias": "Round 11"
-      },
-      "date": "2025-11-14T19:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "MIL",
-        "name": "EA7 Emporio Armani Milan",
-        "abbreviatedName": "Milan",
-        "tla": "EA7",
-        "score": 88,
-        "standingsScore": 88,
-        "quarters": {
-          "q1": 27,
-          "q2": 20,
-          "q3": 20,
-          "q4": 21,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "POETA, GIUSEPPE"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
-        },
-        "editorialName": "Milan"
-      },
-      "away": {
-        "code": "OLY",
-        "name": "Olympiacos Piraeus",
-        "abbreviatedName": "Olympiacos",
-        "tla": "OLY",
-        "score": 87,
-        "standingsScore": 87,
-        "quarters": {
-          "q1": 21,
-          "q2": 22,
-          "q3": 13,
-          "q4": 31,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "BARTZOKAS, GEORGIOS"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
-        },
-        "editorialName": "Olympiacos"
-      },
-      "referees": [
-        {
-          "code": "OJLL",
-          "name": "DIFALLAH, MEHDI",
-          "number": 1,
-          "alias": "DIFALLAH, M.",
-          "country": {
-            "code": "FRA",
-            "name": "France"
-          }
-        },
-        {
-          "code": "OAEO",
-          "name": "PEREZ, EMILIO",
-          "number": 2,
-          "alias": "PEREZ PIZARRO, E.",
-          "country": {
-            "code": "ESP",
-            "name": "Spain"
-          }
-        },
-        {
-          "code": "OJDF",
-          "name": "LATISEVS, OLEGS",
-          "number": 3,
-          "alias": "LATISEVS, O.",
-          "country": {
-            "code": "LAT",
-            "name": "Latvia"
-          }
-        }
-      ],
-      "venue": {
-        "code": "ASX7",
-        "name": "UNIPOL FORUM",
-        "capacity": 11200,
-        "address": "Via G. Di Vittorio 6, 20090 Assago",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 10237,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "f5d8398f-0298-5c45-a8dc-a6a5ff8cf11e",
       "identifier": "E2025_109",
       "code": 109,
@@ -41831,6 +41806,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 5264,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "7f42e618-d30c-571f-8f08-947ca68c4cd8",
+      "identifier": "E2025_108",
+      "code": 108,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 11,
+        "name": "Round 11",
+        "alias": "Round 11"
+      },
+      "date": "2025-11-14T19:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "MIL",
+        "name": "EA7 Emporio Armani Milan",
+        "abbreviatedName": "Milan",
+        "tla": "EA7",
+        "score": 88,
+        "standingsScore": 88,
+        "quarters": {
+          "q1": 27,
+          "q2": 20,
+          "q3": 20,
+          "q4": 21,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "POETA, GIUSEPPE"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
+        },
+        "editorialName": "Milan"
+      },
+      "away": {
+        "code": "OLY",
+        "name": "Olympiacos Piraeus",
+        "abbreviatedName": "Olympiacos",
+        "tla": "OLY",
+        "score": 87,
+        "standingsScore": 87,
+        "quarters": {
+          "q1": 21,
+          "q2": 22,
+          "q3": 13,
+          "q4": 31,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "BARTZOKAS, GEORGIOS"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+        },
+        "editorialName": "Olympiacos"
+      },
+      "referees": [
+        {
+          "code": "OJLL",
+          "name": "DIFALLAH, MEHDI",
+          "number": 1,
+          "alias": "DIFALLAH, M.",
+          "country": {
+            "code": "FRA",
+            "name": "France"
+          }
+        },
+        {
+          "code": "OAEO",
+          "name": "PEREZ, EMILIO",
+          "number": 2,
+          "alias": "PEREZ PIZARRO, E.",
+          "country": {
+            "code": "ESP",
+            "name": "Spain"
+          }
+        },
+        {
+          "code": "OJDF",
+          "name": "LATISEVS, OLEGS",
+          "number": 3,
+          "alias": "LATISEVS, O.",
+          "country": {
+            "code": "LAT",
+            "name": "Latvia"
+          }
+        }
+      ],
+      "venue": {
+        "code": "ASX7",
+        "name": "UNIPOL FORUM",
+        "capacity": 11200,
+        "address": "Via G. Di Vittorio 6, 20090 Assago",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 10237,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -44966,148 +45083,6 @@
       ]
     },
     {
-      "id": "cea8a07c-846d-536f-b237-3282cb590e40",
-      "identifier": "E2025_86",
-      "code": 86,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 9,
-        "name": "Round 9",
-        "alias": "Round 9"
-      },
-      "date": "2025-11-06T20:00:00.000Z",
-      "status": "result",
-      "minute": "45:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "TEL",
-        "name": "Maccabi Rapyd Tel Aviv",
-        "abbreviatedName": "Maccabi",
-        "tla": "MTA",
-        "score": 107,
-        "standingsScore": 96,
-        "quarters": {
-          "q1": 26,
-          "q2": 23,
-          "q3": 27,
-          "q4": 20,
-          "ot1": 11,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "KATTASH, ODED"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
-        },
-        "editorialName": "Maccabi"
-      },
-      "away": {
-        "code": "MCO",
-        "name": "AS Monaco",
-        "abbreviatedName": "Monaco",
-        "tla": "ASM",
-        "score": 112,
-        "standingsScore": 96,
-        "quarters": {
-          "q1": 22,
-          "q2": 24,
-          "q3": 25,
-          "q4": 25,
-          "ot1": 16,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "SPANOULIS, VASSILIS"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/89ed276a-2ba3-413f-8ea2-b3be209ca129.png"
-        },
-        "editorialName": "Monaco"
-      },
-      "referees": [
-        {
-          "code": "OJIL",
-          "name": "HORDOV, TOMISLAV ",
-          "number": 1,
-          "alias": "HORDOV, T.",
-          "country": {
-            "code": "CRO",
-            "name": "Croatia"
-          }
-        },
-        {
-          "code": "OJFQ",
-          "name": "FOUFIS, IOANNIS",
-          "number": 2,
-          "alias": "FOUFIS, I.",
-          "country": {
-            "code": "GRE",
-            "name": "Greece"
-          }
-        },
-        {
-          "code": "QJMA",
-          "name": "TSAROUCHA, VASILIKI",
-          "number": 3,
-          "alias": "TSAROUCHA, V.",
-          "country": {
-            "code": "GRE",
-            "name": "Greece"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AUF4",
-        "name": "ALEKSANDAR NIKOLIC HALL",
-        "capacity": 8000,
-        "address": "Carlija Caplina 39, Belgrade 11000, Serbia",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 212,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "6fe89f07-54a6-5ce9-82ad-e629c1724e3a",
       "identifier": "E2025_81",
       "code": 81,
@@ -45239,6 +45214,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 5043,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "cea8a07c-846d-536f-b237-3282cb590e40",
+      "identifier": "E2025_86",
+      "code": 86,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 9,
+        "name": "Round 9",
+        "alias": "Round 9"
+      },
+      "date": "2025-11-06T20:00:00.000Z",
+      "status": "result",
+      "minute": "45:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "TEL",
+        "name": "Maccabi Rapyd Tel Aviv",
+        "abbreviatedName": "Maccabi",
+        "tla": "MTA",
+        "score": 107,
+        "standingsScore": 96,
+        "quarters": {
+          "q1": 26,
+          "q2": 23,
+          "q3": 27,
+          "q4": 20,
+          "ot1": 11,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "KATTASH, ODED"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
+        },
+        "editorialName": "Maccabi"
+      },
+      "away": {
+        "code": "MCO",
+        "name": "AS Monaco",
+        "abbreviatedName": "Monaco",
+        "tla": "ASM",
+        "score": 112,
+        "standingsScore": 96,
+        "quarters": {
+          "q1": 22,
+          "q2": 24,
+          "q3": 25,
+          "q4": 25,
+          "ot1": 16,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "SPANOULIS, VASSILIS"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/89ed276a-2ba3-413f-8ea2-b3be209ca129.png"
+        },
+        "editorialName": "Monaco"
+      },
+      "referees": [
+        {
+          "code": "OJIL",
+          "name": "HORDOV, TOMISLAV ",
+          "number": 1,
+          "alias": "HORDOV, T.",
+          "country": {
+            "code": "CRO",
+            "name": "Croatia"
+          }
+        },
+        {
+          "code": "OJFQ",
+          "name": "FOUFIS, IOANNIS",
+          "number": 2,
+          "alias": "FOUFIS, I.",
+          "country": {
+            "code": "GRE",
+            "name": "Greece"
+          }
+        },
+        {
+          "code": "QJMA",
+          "name": "TSAROUCHA, VASILIKI",
+          "number": 3,
+          "alias": "TSAROUCHA, V.",
+          "country": {
+            "code": "GRE",
+            "name": "Greece"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AUF4",
+        "name": "ALEKSANDAR NIKOLIC HALL",
+        "capacity": 8000,
+        "address": "Carlija Caplina 39, Belgrade 11000, Serbia",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 212,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -45818,148 +45935,6 @@
       ]
     },
     {
-      "id": "9c3ef12a-3173-534c-96ce-b9d4219f96fe",
-      "identifier": "E2025_80",
-      "code": 80,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 8,
-        "name": "Round 8",
-        "alias": "Round 8"
-      },
-      "date": "2025-10-31T19:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "PAR",
-        "name": "Partizan Mozzart Bet Belgrade",
-        "abbreviatedName": "Partizan",
-        "tla": "PAR",
-        "score": 76,
-        "standingsScore": 76,
-        "quarters": {
-          "q1": 17,
-          "q2": 24,
-          "q3": 15,
-          "q4": 20,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "OBRADOVIC, ZELJKO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
-        },
-        "editorialName": "Partizan"
-      },
-      "away": {
-        "code": "BAR",
-        "name": "FC Barcelona",
-        "abbreviatedName": "Barcelona",
-        "tla": "BAR",
-        "score": 78,
-        "standingsScore": 78,
-        "quarters": {
-          "q1": 18,
-          "q2": 15,
-          "q3": 25,
-          "q4": 20,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "PENARROYA, JOAN"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
-        },
-        "editorialName": "Barcelona"
-      },
-      "referees": [
-        {
-          "code": "OJDL",
-          "name": "MOGULKOC, EMIN",
-          "number": 1,
-          "alias": "MOGULKOC, E.",
-          "country": {
-            "code": "TUR",
-            "name": "Turkiye"
-          }
-        },
-        {
-          "code": "OJDE",
-          "name": "SHEMMESH, SEFFI",
-          "number": 2,
-          "alias": "SHEMMESH, S.",
-          "country": {
-            "code": "ISR",
-            "name": "Israel"
-          }
-        },
-        {
-          "code": "QJML",
-          "name": "PEER, ADAR",
-          "number": 3,
-          "alias": "PEER, A.",
-          "country": {
-            "code": "ISR",
-            "name": "Israel"
-          }
-        }
-      ],
-      "venue": {
-        "code": "ATM8",
-        "name": "BELGRADE ARENA",
-        "capacity": 21000,
-        "address": "Bulevar Arsenija Carnojevica 58, 11070 Belgrade - Serbia",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 20003,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "4d7b5587-9c3d-5263-b54b-e47ca29e1ab1",
       "identifier": "E2025_78",
       "code": 78,
@@ -46091,6 +46066,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 7708,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "9c3ef12a-3173-534c-96ce-b9d4219f96fe",
+      "identifier": "E2025_80",
+      "code": 80,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 8,
+        "name": "Round 8",
+        "alias": "Round 8"
+      },
+      "date": "2025-10-31T19:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "PAR",
+        "name": "Partizan Mozzart Bet Belgrade",
+        "abbreviatedName": "Partizan",
+        "tla": "PAR",
+        "score": 76,
+        "standingsScore": 76,
+        "quarters": {
+          "q1": 17,
+          "q2": 24,
+          "q3": 15,
+          "q4": 20,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "OBRADOVIC, ZELJKO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+        },
+        "editorialName": "Partizan"
+      },
+      "away": {
+        "code": "BAR",
+        "name": "FC Barcelona",
+        "abbreviatedName": "Barcelona",
+        "tla": "BAR",
+        "score": 78,
+        "standingsScore": 78,
+        "quarters": {
+          "q1": 18,
+          "q2": 15,
+          "q3": 25,
+          "q4": 20,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "PENARROYA, JOAN"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
+        },
+        "editorialName": "Barcelona"
+      },
+      "referees": [
+        {
+          "code": "OJDL",
+          "name": "MOGULKOC, EMIN",
+          "number": 1,
+          "alias": "MOGULKOC, E.",
+          "country": {
+            "code": "TUR",
+            "name": "Turkiye"
+          }
+        },
+        {
+          "code": "OJDE",
+          "name": "SHEMMESH, SEFFI",
+          "number": 2,
+          "alias": "SHEMMESH, S.",
+          "country": {
+            "code": "ISR",
+            "name": "Israel"
+          }
+        },
+        {
+          "code": "QJML",
+          "name": "PEER, ADAR",
+          "number": 3,
+          "alias": "PEER, A.",
+          "country": {
+            "code": "ISR",
+            "name": "Israel"
+          }
+        }
+      ],
+      "venue": {
+        "code": "ATM8",
+        "name": "BELGRADE ARENA",
+        "capacity": 21000,
+        "address": "Bulevar Arsenija Carnojevica 58, 11070 Belgrade - Serbia",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 20003,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -46528,148 +46645,6 @@
       ]
     },
     {
-      "id": "1c4ca1fc-2c7a-50a9-972f-b29f4c36ef93",
-      "identifier": "E2025_71",
-      "code": 71,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 8,
-        "name": "Round 8",
-        "alias": "Round 8"
-      },
-      "date": "2025-10-30T19:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "MIL",
-        "name": "EA7 Emporio Armani Milan",
-        "abbreviatedName": "Milan",
-        "tla": "EA7",
-        "score": 86,
-        "standingsScore": 86,
-        "quarters": {
-          "q1": 23,
-          "q2": 24,
-          "q3": 20,
-          "q4": 19,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "MESSINA, ETTORE"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
-        },
-        "editorialName": "Milan"
-      },
-      "away": {
-        "code": "PRS",
-        "name": "Paris Basketball",
-        "abbreviatedName": "Paris",
-        "tla": "PBB",
-        "score": 77,
-        "standingsScore": 77,
-        "quarters": {
-          "q1": 15,
-          "q2": 12,
-          "q3": 26,
-          "q4": 24,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "TABELLINI, FRANCESCO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
-        },
-        "editorialName": "Paris"
-      },
-      "referees": [
-        {
-          "code": "OJIZ",
-          "name": "PERUGA, CARLOS",
-          "number": 1,
-          "alias": "PERUGA, C.",
-          "country": {
-            "code": "ESP",
-            "name": "Spain"
-          }
-        },
-        {
-          "code": "OJLQ",
-          "name": "ALIAGA, JORDI",
-          "number": 2,
-          "alias": "ALIAGA, J.",
-          "country": {
-            "code": "ESP",
-            "name": "Spain"
-          }
-        },
-        {
-          "code": "OJLI",
-          "name": "PEERANDI, RAIN",
-          "number": 3,
-          "alias": "PEERANDI, R.",
-          "country": {
-            "code": "EST",
-            "name": "Estonia"
-          }
-        }
-      ],
-      "venue": {
-        "code": "ASX7",
-        "name": "UNIPOL FORUM",
-        "capacity": 11200,
-        "address": "Via G. Di Vittorio 6, 20090 Assago",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 7005,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "5e074307-ce28-5f55-894e-1e605b950915",
       "identifier": "E2025_75",
       "code": 75,
@@ -46943,6 +46918,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 11500,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "1c4ca1fc-2c7a-50a9-972f-b29f4c36ef93",
+      "identifier": "E2025_71",
+      "code": 71,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 8,
+        "name": "Round 8",
+        "alias": "Round 8"
+      },
+      "date": "2025-10-30T19:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "MIL",
+        "name": "EA7 Emporio Armani Milan",
+        "abbreviatedName": "Milan",
+        "tla": "EA7",
+        "score": 86,
+        "standingsScore": 86,
+        "quarters": {
+          "q1": 23,
+          "q2": 24,
+          "q3": 20,
+          "q4": 19,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "MESSINA, ETTORE"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/9512ee73-a0f1-4647-a01e-3c2938aba6b8.png"
+        },
+        "editorialName": "Milan"
+      },
+      "away": {
+        "code": "PRS",
+        "name": "Paris Basketball",
+        "abbreviatedName": "Paris",
+        "tla": "PBB",
+        "score": 77,
+        "standingsScore": 77,
+        "quarters": {
+          "q1": 15,
+          "q2": 12,
+          "q3": 26,
+          "q4": 24,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "TABELLINI, FRANCESCO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+        },
+        "editorialName": "Paris"
+      },
+      "referees": [
+        {
+          "code": "OJIZ",
+          "name": "PERUGA, CARLOS",
+          "number": 1,
+          "alias": "PERUGA, C.",
+          "country": {
+            "code": "ESP",
+            "name": "Spain"
+          }
+        },
+        {
+          "code": "OJLQ",
+          "name": "ALIAGA, JORDI",
+          "number": 2,
+          "alias": "ALIAGA, J.",
+          "country": {
+            "code": "ESP",
+            "name": "Spain"
+          }
+        },
+        {
+          "code": "OJLI",
+          "name": "PEERANDI, RAIN",
+          "number": 3,
+          "alias": "PEERANDI, R.",
+          "country": {
+            "code": "EST",
+            "name": "Estonia"
+          }
+        }
+      ],
+      "venue": {
+        "code": "ASX7",
+        "name": "UNIPOL FORUM",
+        "capacity": 11200,
+        "address": "Via G. Di Vittorio 6, 20090 Assago",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 7005,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -53770,148 +53887,6 @@
       ]
     },
     {
-      "id": "d4f8bae2-571d-5684-8e68-bec843f2be6b",
-      "identifier": "E2025_22",
-      "code": 22,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 3,
-        "name": "Round 3",
-        "alias": "Round 3"
-      },
-      "date": "2025-10-09T18:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "BAS",
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "abbreviatedName": "Baskonia",
-        "tla": "KBA",
-        "score": 84,
-        "standingsScore": 84,
-        "quarters": {
-          "q1": 14,
-          "q2": 22,
-          "q3": 20,
-          "q4": 28,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "GALBIATI, PAOLO"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
-        },
-        "editorialName": "Baskonia"
-      },
-      "away": {
-        "code": "PAN",
-        "name": "Panathinaikos AKTOR Athens",
-        "abbreviatedName": "Panathinaikos",
-        "tla": "PAO",
-        "score": 86,
-        "standingsScore": 86,
-        "quarters": {
-          "q1": 20,
-          "q2": 22,
-          "q3": 29,
-          "q4": 15,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "ATAMAN, ERGIN"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
-        },
-        "editorialName": "Panathinaikos"
-      },
-      "referees": [
-        {
-          "code": "OJFC",
-          "name": "JAVOR, DAMIR",
-          "number": 1,
-          "alias": "JAVOR, D.",
-          "country": {
-            "code": "SLO",
-            "name": "Slovenia"
-          }
-        },
-        {
-          "code": "QJMF",
-          "name": "KARDUM, LUKA",
-          "number": 2,
-          "alias": "KARDUM, L.",
-          "country": {
-            "code": "CRO",
-            "name": "Croatia"
-          }
-        },
-        {
-          "code": "QJMC",
-          "name": "CELIK, HUSEYIN",
-          "number": 3,
-          "alias": "CELIK, H.",
-          "country": {
-            "code": "TUR",
-            "name": "Turkiye"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AUC",
-        "name": "BUESA ARENA",
-        "capacity": 15431,
-        "address": "Ctra.  Zurbano s/n, 01013 Vitoria",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 8662,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "18d499e0-2099-5320-bfc3-c30fb1504a70",
       "identifier": "E2025_26",
       "code": 26,
@@ -54185,6 +54160,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 6668,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "d4f8bae2-571d-5684-8e68-bec843f2be6b",
+      "identifier": "E2025_22",
+      "code": 22,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 3,
+        "name": "Round 3",
+        "alias": "Round 3"
+      },
+      "date": "2025-10-09T18:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "BAS",
+        "name": "Kosner Baskonia Vitoria-Gasteiz",
+        "abbreviatedName": "Baskonia",
+        "tla": "KBA",
+        "score": 84,
+        "standingsScore": 84,
+        "quarters": {
+          "q1": 14,
+          "q2": 22,
+          "q3": 20,
+          "q4": 28,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "GALBIATI, PAOLO"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+        },
+        "editorialName": "Baskonia"
+      },
+      "away": {
+        "code": "PAN",
+        "name": "Panathinaikos AKTOR Athens",
+        "abbreviatedName": "Panathinaikos",
+        "tla": "PAO",
+        "score": 86,
+        "standingsScore": 86,
+        "quarters": {
+          "q1": 20,
+          "q2": 22,
+          "q3": 29,
+          "q4": 15,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "ATAMAN, ERGIN"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
+        },
+        "editorialName": "Panathinaikos"
+      },
+      "referees": [
+        {
+          "code": "OJFC",
+          "name": "JAVOR, DAMIR",
+          "number": 1,
+          "alias": "JAVOR, D.",
+          "country": {
+            "code": "SLO",
+            "name": "Slovenia"
+          }
+        },
+        {
+          "code": "QJMF",
+          "name": "KARDUM, LUKA",
+          "number": 2,
+          "alias": "KARDUM, L.",
+          "country": {
+            "code": "CRO",
+            "name": "Croatia"
+          }
+        },
+        {
+          "code": "QJMC",
+          "name": "CELIK, HUSEYIN",
+          "number": 3,
+          "alias": "CELIK, H.",
+          "country": {
+            "code": "TUR",
+            "name": "Turkiye"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AUC",
+        "name": "BUESA ARENA",
+        "capacity": 15431,
+        "address": "Ctra.  Zurbano s/n, 01013 Vitoria",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 8662,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -55474,148 +55591,6 @@
       ]
     },
     {
-      "id": "d0b5568c-88b5-54af-a276-aca996fc7277",
-      "identifier": "E2025_11",
-      "code": 11,
-      "season": {
-        "code": "E2025",
-        "name": "EuroLeague 2025-26",
-        "alias": "2025-26",
-        "year": 2025
-      },
-      "competition": {
-        "code": "E",
-        "name": "Euroleague"
-      },
-      "group": {
-        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
-        "name": "Group Regular Season",
-        "order": 1
-      },
-      "phaseType": {
-        "code": "RS",
-        "name": "Regular Season",
-        "alias": "REGULAR SEASON",
-        "isGroupPhase": true
-      },
-      "round": {
-        "round": 2,
-        "name": "Round 2",
-        "alias": "Round 2"
-      },
-      "date": "2025-10-02T18:30:00.000Z",
-      "status": "result",
-      "minute": "40:00",
-      "remainingTime": "00:00",
-      "quarter": null,
-      "quarterMinute": null,
-      "home": {
-        "code": "MUN",
-        "name": "FC Bayern Munich",
-        "abbreviatedName": "Bayern",
-        "tla": "BAY",
-        "score": 97,
-        "standingsScore": 97,
-        "quarters": {
-          "q1": 24,
-          "q2": 26,
-          "q3": 27,
-          "q4": 20,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "HERBERT, GORDON"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
-        },
-        "editorialName": "Bayern"
-      },
-      "away": {
-        "code": "RED",
-        "name": "Crvena Zvezda Meridianbet Belgrade",
-        "abbreviatedName": "Crvena Zvezda",
-        "tla": "CZV",
-        "score": 88,
-        "standingsScore": 88,
-        "quarters": {
-          "q1": 28,
-          "q2": 27,
-          "q3": 16,
-          "q4": 17,
-          "ot1": null,
-          "ot2": null,
-          "ot3": null,
-          "ot4": null,
-          "ot5": null
-        },
-        "coach": {
-          "code": "",
-          "name": "SFAIROPOULOS, IOANNIS"
-        },
-        "imageUrls": {
-          "crest": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
-        },
-        "editorialName": "Crvena Zvezda"
-      },
-      "referees": [
-        {
-          "code": "OJDF",
-          "name": "LATISEVS, OLEGS",
-          "number": 1,
-          "alias": "LATISEVS, O.",
-          "country": {
-            "code": "LAT",
-            "name": "Latvia"
-          }
-        },
-        {
-          "code": "OJFQ",
-          "name": "FOUFIS, IOANNIS",
-          "number": 2,
-          "alias": "FOUFIS, I.",
-          "country": {
-            "code": "GRE",
-            "name": "Greece"
-          }
-        },
-        {
-          "code": "OAEZ",
-          "name": "VYKLICKY, ROBERT",
-          "number": 3,
-          "alias": "VYKLICKY, R.",
-          "country": {
-            "code": "CZE",
-            "name": "Czech Republic"
-          }
-        }
-      ],
-      "venue": {
-        "code": "AVE1",
-        "name": "SAP GARDEN",
-        "capacity": 11500,
-        "address": "Toni-Merkens-Weg 4, 80809 Munich - Germany",
-        "notes": ""
-      },
-      "confirmedDate": true,
-      "confirmedTime": true,
-      "audience": 11500,
-      "audienceConfirmed": true,
-      "broadcasters": [
-        {
-          "name": "EUROLEAGUE.TV",
-          "countryCode": null,
-          "linkUrl": "https://euroleague.tv/home",
-          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
-        }
-      ]
-    },
-    {
       "id": "c8c65d2c-ccf2-5f23-b27f-5c52f1a91bb3",
       "identifier": "E2025_12",
       "code": 12,
@@ -55747,6 +55722,148 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 19214,
+      "audienceConfirmed": true,
+      "broadcasters": [
+        {
+          "name": "EUROLEAGUE.TV",
+          "countryCode": null,
+          "linkUrl": "https://euroleague.tv/home",
+          "imageUrl": "https://media-cdn.incrowdsports.com/012569cb-88ac-4c9d-aad8-19c8c9501f15.png"
+        }
+      ]
+    },
+    {
+      "id": "d0b5568c-88b5-54af-a276-aca996fc7277",
+      "identifier": "E2025_11",
+      "code": 11,
+      "season": {
+        "code": "E2025",
+        "name": "EuroLeague 2025-26",
+        "alias": "2025-26",
+        "year": 2025
+      },
+      "competition": {
+        "code": "E",
+        "name": "Euroleague"
+      },
+      "group": {
+        "id": "b423dc4c-c635-422d-ad84-83cbe5caf086",
+        "name": "Group Regular Season",
+        "order": 1
+      },
+      "phaseType": {
+        "code": "RS",
+        "name": "Regular Season",
+        "alias": "REGULAR SEASON",
+        "isGroupPhase": true
+      },
+      "round": {
+        "round": 2,
+        "name": "Round 2",
+        "alias": "Round 2"
+      },
+      "date": "2025-10-02T18:30:00.000Z",
+      "status": "result",
+      "minute": "40:00",
+      "remainingTime": "00:00",
+      "quarter": null,
+      "quarterMinute": null,
+      "home": {
+        "code": "MUN",
+        "name": "FC Bayern Munich",
+        "abbreviatedName": "Bayern",
+        "tla": "BAY",
+        "score": 97,
+        "standingsScore": 97,
+        "quarters": {
+          "q1": 24,
+          "q2": 26,
+          "q3": 27,
+          "q4": 20,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "HERBERT, GORDON"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+        },
+        "editorialName": "Bayern"
+      },
+      "away": {
+        "code": "RED",
+        "name": "Crvena Zvezda Meridianbet Belgrade",
+        "abbreviatedName": "Crvena Zvezda",
+        "tla": "CZV",
+        "score": 88,
+        "standingsScore": 88,
+        "quarters": {
+          "q1": 28,
+          "q2": 27,
+          "q3": 16,
+          "q4": 17,
+          "ot1": null,
+          "ot2": null,
+          "ot3": null,
+          "ot4": null,
+          "ot5": null
+        },
+        "coach": {
+          "code": "",
+          "name": "SFAIROPOULOS, IOANNIS"
+        },
+        "imageUrls": {
+          "crest": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+        },
+        "editorialName": "Crvena Zvezda"
+      },
+      "referees": [
+        {
+          "code": "OJDF",
+          "name": "LATISEVS, OLEGS",
+          "number": 1,
+          "alias": "LATISEVS, O.",
+          "country": {
+            "code": "LAT",
+            "name": "Latvia"
+          }
+        },
+        {
+          "code": "OJFQ",
+          "name": "FOUFIS, IOANNIS",
+          "number": 2,
+          "alias": "FOUFIS, I.",
+          "country": {
+            "code": "GRE",
+            "name": "Greece"
+          }
+        },
+        {
+          "code": "OAEZ",
+          "name": "VYKLICKY, ROBERT",
+          "number": 3,
+          "alias": "VYKLICKY, R.",
+          "country": {
+            "code": "CZE",
+            "name": "Czech Republic"
+          }
+        }
+      ],
+      "venue": {
+        "code": "AVE1",
+        "name": "SAP GARDEN",
+        "capacity": 11500,
+        "address": "Toni-Merkens-Weg 4, 80809 Munich - Germany",
+        "notes": ""
+      },
+      "confirmedDate": true,
+      "confirmedTime": true,
+      "audience": 11500,
       "audienceConfirmed": true,
       "broadcasters": [
         {
@@ -57179,9 +57296,9 @@
     }
   ],
   "metadata": {
-    "createdAt": "2026-05-22T20:43:18.80352631Z",
-    "pageItems": 401,
-    "totalItems": 401,
+    "createdAt": "2026-05-22T21:22:04.058067356Z",
+    "pageItems": 402,
+    "totalItems": 402,
     "totalPages": 1,
     "pageNumber": 0,
     "pageSize": 500,
