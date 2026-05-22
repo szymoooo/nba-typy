@@ -52,9 +52,9 @@ def run_audit():
     print(f"🚀 Uruchamiam rygorystyczny audyt live ({today_date})...")
 
     try:
-        # Wywołanie modelu Gemini 1.5 Flash (stabilne limity darmowe)
+        # Wywołanie modelu Gemini 2.5 Flash (1.5-flash wycofany 24.09.2025)
         response = client.models.generate_content(
-            model="gemini-1.5-flash",
+            model="gemini-2.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 system_instruction=system_instruction,

@@ -33,7 +33,7 @@ OUTPUT_DIR = "output"
 # False = czysta formula W-L + 5% home advantage (bez internetu, bez AI).
 # Jesli True ale brak klucza/blad - automatyczny fallback na formule.
 USE_AI_PREDICTIONS = True
-AI_MODEL = "gemini-1.5-flash"  # darmowy, szybki, dobre limity
+AI_MODEL = "gemini-2.5-flash"  # darmowy, szybki, dobre limity (1.5-flash wycofany 09/2025)
 
 # Lista kandydatow dla GAMES (probujemy po kolei, uzywamy pierwszego ktory odpowie 200 + JSON)
 GAMES_ENDPOINTS = [
