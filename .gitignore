@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Env / secrets
+.env
+.env.local
+
+# Stary lokalny folder testowy EuroLeague (przed migracja do /euroleague/)
+euroleague_local/output/
+euroleague_local/__pycache__/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store

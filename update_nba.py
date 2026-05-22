@@ -76,23 +76,24 @@ def get_team_logo(abbr):
     return NBA_LOGOS.get(abbr, DEFAULT_LOGO)
 
 def save_picks_for_gemini(picks):
-    with open("propozycje_typow.txt", "w", encoding="utf-8") as f:
+    os.makedirs("nba", exist_ok=True)
+    with open("nba/propozycje_typow.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(picks))
-    print(f"Zapisano {len(picks)} typow do propozycje_typow.txt")
+    print(f"Zapisano {len(picks)} typow do nba/propozycje_typow.txt")
 
 def load_archive_dates():
-    index_path = "archive/index.json"
+    index_path = "nba/archive/index.json"
     if os.path.exists(index_path):
         with open(index_path, "r", encoding="utf-8") as f:
             return json.load(f).get("dates", [])
     return []
 
 def save_archive_dates(dates):
-    os.makedirs("archive", exist_ok=True)
+    os.makedirs("nba/archive", exist_ok=True)
     sorted_dates = sorted(set(dates), reverse=True)
-    with open("archive/index.json", "w", encoding="utf-8") as f:
+    with open("nba/archive/index.json", "w", encoding="utf-8") as f:
         json.dump({"dates": sorted_dates}, f, indent=2)
-    print(f"Zaktualizowano archive/index.json ({len(sorted_dates)} dat)")
+    print(f"Zaktualizowano nba/archive/index.json ({len(sorted_dates)} dat)")
 
 
 # ==========================================
@@ -102,14 +103,28 @@ def save_archive_dates(dates):
 def generate_sitemap(all_dates):
     lines = ['<?xml version="1.0" encoding="UTF-8"?>']
     lines.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+    # Hub
     lines.append('  <url>')
     lines.append('    <loc>https://nba-freepicks.com/</loc>')
     lines.append('    <changefreq>daily</changefreq>')
     lines.append('    <priority>1.0</priority>')
     lines.append('  </url>')
+    # NBA root
+    lines.append('  <url>')
+    lines.append('    <loc>https://nba-freepicks.com/nba/</loc>')
+    lines.append('    <changefreq>daily</changefreq>')
+    lines.append('    <priority>0.9</priority>')
+    lines.append('  </url>')
+    # EuroLeague root
+    lines.append('  <url>')
+    lines.append('    <loc>https://nba-freepicks.com/euroleague/</loc>')
+    lines.append('    <changefreq>daily</changefreq>')
+    lines.append('    <priority>0.9</priority>')
+    lines.append('  </url>')
+    # NBA archive
     for d in sorted(set(all_dates), reverse=True):
         lines.append('  <url>')
-        lines.append(f'    <loc>https://nba-freepicks.com/archive/{d}.html</loc>')
+        lines.append(f'    <loc>https://nba-freepicks.com/nba/archive/{d}.html</loc>')
         lines.append(f'    <lastmod>{d}</lastmod>')
         lines.append('    <changefreq>never</changefreq>')
         lines.append('    <priority>0.7</priority>')
@@ -117,7 +132,7 @@ def generate_sitemap(all_dates):
     lines.append('</urlset>')
     with open("sitemap.xml", "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    print(f"Zapisano sitemap.xml ({len(all_dates)} URL)")
+    print(f"Zapisano sitemap.xml ({len(all_dates)} archiwalnych URL + hub + 2 ligi)")
 
 def generate_robots():
     robots = (
@@ -665,13 +680,13 @@ def build_page(title_date, cards_html, game_summaries=None, is_archive=False, ar
     if is_archive:
         meta_title    = f"NBA AI Picks {title_date} - Predictions & Results"
         meta_desc     = f"NBA AI model predictions for {title_date}. {games_meta}"
-        canonical_url = f"https://nba-freepicks.com/archive/{today_slug}.html"
+        canonical_url = f"https://nba-freepicks.com/nba/archive/{today_slug}.html"
     else:
         meta_title    = f"NBA AI Picks Today {title_date} - Free Predictions"
         meta_desc     = (f"Free NBA AI predictions for {title_date}. {games_meta}"
                          if games_meta else
                          f"Daily NBA game predictions powered by AI. Free picks for every game - {title_date}.")
-        canonical_url = "https://nba-freepicks.com/"
+        canonical_url = "https://nba-freepicks.com/nba/"
 
     meta_desc = meta_desc[:160]
 
@@ -744,8 +759,9 @@ def generate_html():
 
     cards_html, picks_for_gemini, game_summaries = build_game_cards(events)
 
-    # ── 1. index.html — zawsze aktualny ──
-    with open("index.html", "w", encoding="utf-8") as f:
+    # ── 1. nba/index.html — zawsze aktualny ──
+    os.makedirs("nba", exist_ok=True)
+    with open("nba/index.html", "w", encoding="utf-8") as f:
         f.write(build_page(
             title_date     = today_str,
             cards_html     = cards_html,
@@ -754,10 +770,10 @@ def generate_html():
             archive_prefix = "",
             today_slug     = today_slug
         ))
-    print("Zapisano index.html")
+    print("Zapisano nba/index.html")
 
     # ── 2. archive — TYLKO gdy wszystkie mecze zakonczone ──
-    archive_path = f"archive/{today_slug}.html"
+    archive_path = f"nba/archive/{today_slug}.html"
 
     if events:
         all_final = all(
@@ -769,7 +785,7 @@ def generate_html():
 
     if all_final and not os.path.exists(archive_path):
         # Wszystkie mecze Final i plik jeszcze nie istnieje — zapisujemy
-        os.makedirs("archive", exist_ok=True)
+        os.makedirs("nba/archive", exist_ok=True)
         with open(archive_path, "w", encoding="utf-8") as f:
             f.write(build_page(
                 title_date     = today_str,
@@ -779,16 +795,16 @@ def generate_html():
                 archive_prefix = "../",
                 today_slug     = today_slug
             ))
-        print(f"Zapisano archive/{today_slug}.html (wszystkie mecze Final)")
+        print(f"Zapisano nba/archive/{today_slug}.html (wszystkie mecze Final)")
 
-        # Zaktualizuj archive/index.json i sitemap tylko gdy nowy plik
+        # Zaktualizuj nba/archive/index.json i sitemap tylko gdy nowy plik
         existing = load_archive_dates()
         existing.append(today_slug)
         save_archive_dates(existing)
         generate_sitemap(load_archive_dates())
 
     elif all_final and os.path.exists(archive_path):
-        print(f"archive/{today_slug}.html juz istnieje — pomijam")
+        print(f"nba/archive/{today_slug}.html juz istnieje — pomijam")
 
     else:
         states = [e['status']['type']['state'] for e in events]

@@ -16,11 +16,15 @@ def run_audit():
     current_time = now.strftime("%H:%M")
 
     # Sprawdzenie czy plik z typami istnieje
-    if not os.path.exists('propozycje_typow.txt'):
-        print("Nie znaleziono pliku propozycje_typow.txt")
+    picks_path = 'nba/propozycje_typow.txt'
+    index_path = 'nba/index.html'
+    raport_path = 'nba/finalny_raport_dnia.txt'
+
+    if not os.path.exists(picks_path):
+        print(f"Nie znaleziono pliku {picks_path}")
         return
 
-    with open('propozycje_typow.txt', 'r', encoding='utf-8') as f:
+    with open(picks_path, 'r', encoding='utf-8') as f:
         typy = f.read()
 
     if not typy or len(typy.strip()) < 5:
@@ -52,9 +56,9 @@ def run_audit():
     print(f"🚀 Uruchamiam rygorystyczny audyt live ({today_date})...")
 
     try:
-        # Wywołanie modelu Gemini 1.5 Flash (stabilne limity darmowe)
+        # Wywołanie modelu Gemini 2.5 Flash (1.5-flash wycofany 24.09.2025)
         response = client.models.generate_content(
-            model="gemini-1.5-flash",
+            model="gemini-2.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 system_instruction=system_instruction,
@@ -68,14 +72,15 @@ def run_audit():
         return
 
     # Zapis do pliku tekstowego (backup)
-    with open('finalny_raport_dnia.txt', 'w', encoding='utf-8') as f:
+    os.makedirs('nba', exist_ok=True)
+    with open(raport_path, 'w', encoding='utf-8') as f:
         f.write(f"--- KRYTYCZNY AUDYT LIVE ({today_date} {current_time} ET) ---\n")
         f.write(tekst_analizy)
 
     # Wstrzykiwanie do HTML
-    if os.path.exists('index.html'):
+    if os.path.exists(index_path):
         try:
-            with open('index.html', 'r', encoding='utf-8') as f:
+            with open(index_path, 'r', encoding='utf-8') as f:
                 html_content = f.read()
 
             formatowany_tekst = tekst_analizy.replace('\n', '<br>')
@@ -117,10 +122,10 @@ def run_audit():
                 else:
                     html_content = html_content.replace('</body>', analiza_html + '</body>')
 
-            with open('index.html', 'w', encoding='utf-8') as f:
+            with open(index_path, 'w', encoding='utf-8') as f:
                 f.write(html_content)
             
-            print("✅ Raport pomyślnie wstrzyknięty do index.html")
+            print("✅ Raport pomyślnie wstrzyknięty do nba/index.html")
         except Exception as e:
             print(f"Błąd podczas edycji HTML: {e}")
     

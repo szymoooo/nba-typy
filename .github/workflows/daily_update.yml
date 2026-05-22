@@ -1,10 +1,12 @@
-name: NBA Public Media Bot
+name: NBA + EuroLeague Public Media Bot
 on:
   schedule:
     # Co 20 minut w godzinach 17:00-08:00 UTC (19:00-10:00 CET)
     # czyli pokrywa wszystkie mecze NBA grane w nocy polskiego czasu
     - cron: '0,20,40 17-23 * * *'   # 17:00-23:59 UTC
     - cron: '0,20,40 0-8  * * *'    # 00:00-08:59 UTC
+    # EuroLeague: w godzinach europejskich (16:00-23:00 CET = 14:00-21:00 UTC)
+    - cron: '15 14-21 * * *'        # raz na godzine, w okolicach :15
   workflow_dispatch:
 
 permissions:
@@ -27,25 +29,44 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests google-genai pytz
 
-      - name: Run ESPN Media Model
+      # ============= NBA =============
+      - name: Run NBA ESPN Media Model
         run: python update_nba.py
 
-      - name: Run Gemini Audit (Risk Check)
+      - name: Run NBA Gemini Audit (Risk Check)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python gemini_audit.py
 
+      # ============= EuroLeague =============
+      - name: Run EuroLeague AI Picks
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python update_euroleague.py
+        continue-on-error: true   # nie psuj NBA jak EL coś sypnie
+
+      - name: Run EuroLeague Lineup Audit
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python euroleague_audit.py
+        continue-on-error: true
+
+      # ============= Commit =============
       - name: Commit and Push
         run: |
           git config --global user.name 'ESPN Bot'
           git config --global user.email 'bot@espn.nba'
 
+          # Hub i wspolne pliki
           [ -f index.html ]               && git add index.html
-          [ -f finalny_raport_dnia.txt ]  && git add finalny_raport_dnia.txt
-          [ -f propozycje_typow.txt ]     && git add propozycje_typow.txt
           [ -f sitemap.xml ]              && git add sitemap.xml
           [ -f robots.txt ]               && git add robots.txt
-          [ -d archive ]                  && git add archive/
+
+          # NBA
+          [ -d nba ]                      && git add nba/
+
+          # EuroLeague
+          [ -d euroleague ]               && git add euroleague/
 
           git diff --quiet && git diff --staged --quiet || \
-            (git commit -m "NBA Update $(date -u +%H:%M UTC)" && git push)
+            (git commit -m "Daily Update $(date -u +%H:%M UTC)" && git push)

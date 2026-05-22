@@ -16,7 +16,7 @@ import datetime
 import pytz
 import re
 
-OUTPUT_DIR = "output"
+OUTPUT_DIR = "euroleague"
 INDEX_PATH = os.path.join(OUTPUT_DIR, "index.html")
 PICKS_PATH = os.path.join(OUTPUT_DIR, "propozycje_typow.txt")
 
@@ -70,7 +70,7 @@ def run_audit():
 
     try:
         response = client.models.generate_content(
-            model="gemini-1.5-flash",
+            model="gemini-2.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 system_instruction=system_instruction,
