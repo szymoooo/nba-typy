@@ -8,10 +8,11 @@ Działa **całkowicie lokalnie**, nie ingeruje w działającą stronę NBA.
 1. Pobiera terminarz i tabelę EuroLeague z oficjalnego, darmowego API
    ([api-live.euroleague.net](https://api-live.euroleague.net))
 2. Filtruje mecze na dziś
-3. Liczy typ na podstawie bilansu W-L (jak w NBA)
+3. **Typuje zwycięzcę** — domyślnie **AI Gemini z Google Search**
+   analizuje formę, head-to-head, kontuzje, specyfikę fazy.
+   Fallback: formuła W-L gdy brak klucza/AI niedostępne.
 4. Generuje statyczny `output/index.html` w identycznym stylu jak NBA
-5. (Opcjonalnie) Gemini z Google Search sprawdza składy/kontuzje
-   i wstrzykuje raport do strony
+5. (Opcjonalnie) Drugi pass Gemini sprawdza składy i wstrzykuje raport
 
 ## Wymagania
 
@@ -19,79 +20,89 @@ Działa **całkowicie lokalnie**, nie ingeruje w działającą stronę NBA.
 pip install requests pytz google-generativeai
 ```
 
-> Pakiet Gemini potrzebny tylko do audytu kontuzji. Sam scraper potrzebuje tylko `requests` i `pytz`.
+> Pakiet `google-generativeai` potrzebny do AI prediction i audytu kontuzji.
+> Bez niego skrypt nadal działa, używa formuły W-L.
 
 ## Krok 1: Wygeneruj stronę
 
+### Tryb AI (rekomendowany) — Gemini analizuje każdy mecz
+
 ```bash
 cd euroleague_local
+export GEMINI_API_KEY=twoj_klucz_z_aistudio
 python update_euroleague.py
 ```
 
-Po sukcesie zobaczysz logi typu:
+Output:
 
 ```
-=== URUCHAMIAM EUROLEAGUE UPDATE (19:42) ===
-   Data: 2026-05-22 (May 22, 2026)
--> Pobieram tabele EuroLeague...
-   Zaladowano statystyki dla 20 druzyn
--> Pobieram terminarz EuroLeague (sezon E2025)...
-   API zwrocilo 380 meczow w sezonie
-   Mecze na 2026-05-22: 4
--> Zapisano output/index.html
-   Zapisano 4 typow do output/propozycje_typow.txt
-=== GOTOWE. Otworz output/index.html w przegladarce. ===
+   Tryb predykcji: AI (gemini-1.5-flash + Google Search)
+...
+   [AI] Real Madrid vs Valencia Basket -> Real Madrid (conf 7/10)
+   [AI] Olympiacos vs Fenerbahce -> Olympiacos (conf 8/10)
 ```
 
-Otwórz `output/index.html` w przeglądarce - powinieneś zobaczyć siatkę meczów EuroLeague.
+Pełne analizy AI (uzasadnienia, key factors) zapisują się do
+**`output/ai_analyses.json`** — strona pokazuje **tylko nazwę zespołu**.
 
-## Krok 2 (opcjonalnie): Audyt Gemini
+### Tryb formuła (bez AI)
 
 ```bash
-export GEMINI_API_KEY=twoj_klucz_z_aistudio
+unset GEMINI_API_KEY  # albo zmień USE_AI_PREDICTIONS=False w skrypcie
+python update_euroleague.py
+```
+
+Output:
+
+```
+   Tryb predykcji: FORMULA W-L (brak GEMINI_API_KEY)
+```
+
+## Krok 2 (opcjonalnie): Audyt składów
+
+```bash
 python euroleague_audit.py
 ```
 
 Pod meczami pojawi się sekcja `EuroLeague Lineup Audit AI`
-z weryfikacją składów dla każdego typu (✅/⚠️).
+z weryfikacją kontuzji dla każdego typu (✅/⚠️).
 
-## Co dostosować po pierwszym teście
-
-| Co | Gdzie | Kiedy |
-|---|---|---|
-| Logo brakującej drużyny | `update_euroleague.py` -> `EUROLEAGUE_LOGOS` | Jeśli na karcie wisi pomarańczowa kulka zamiast logo |
-| Mapowanie statusu API | `update_euroleague.py` -> `map_status()` | Jeśli wszystkie mecze pokazują się jako "Scheduled" mimo że są live/final |
-| Strefa czasowa | `update_euroleague.py` -> `get_today_date_str()` | Jeśli "dziś" nie pasuje do prawdziwej daty meczów |
-| Endpoint sezonu | `SEASON_CODE = "E2025"` | Po sezonie, na nowy: `E2026` |
-
-## Struktura plików
+## Co się gdzie zapisuje
 
 ```
-euroleague_local/
-├── update_euroleague.py    # główny skrypt, generator HTML
-├── euroleague_audit.py     # audyt Gemini (kontuzje/składy)
-├── README_EUROLEAGUE.md    # ten plik
-└── output/
-    ├── index.html          # WYNIK - otwórz w przeglądarce
-    ├── propozycje_typow.txt  # input dla Gemini audit
-    └── finalny_raport_dnia.txt  # backup raportu Gemini
+output/
+├── index.html                  # WYNIK - otwórz w przeglądarce
+├── propozycje_typow.txt        # input dla audytu kontuzji
+├── ai_analyses.json            # PEŁNE analizy AI (reasoning, confidence,
+│                                 key_factors) - tylko dla developera
+├── debug_games_*.json          # surowy dump z API (debug)
+├── debug_standings_*.xml       # tabela XML (debug)
+└── finalny_raport_dnia.txt     # backup raportu Gemini z audytu
 ```
+
+**Strona pokazuje tylko nazwę zwycięzcy.** Reasoning, confidence i key factors
+trafiają wyłącznie do `ai_analyses.json` — zaglądnij tam żeby zobaczyć
+co Gemini myślało o każdym meczu.
+
+## Limity Gemini free tier
+
+- 15 requestów na minutę (RPM)
+- 1500 requestów dziennie
+- W 1 dniu EuroLeague max ~10 meczów → spokojnie się mieścimy
+- Skrypt robi `time.sleep(1)` między meczami żeby nie przekroczyć RPM
+
+## Co dostosować
+
+| Co | Gdzie |
+|---|---|
+| Wyłącz AI, zostaw formułę W-L | `USE_AI_PREDICTIONS = False` w `update_euroleague.py` |
+| Zmień model Gemini | `AI_MODEL = "gemini-1.5-pro"` (lepszy, ale wolniejszy/droższy) |
+| Sezon (po skończeniu) | `SEASON_CODE = "E2026"` |
+| EuroCup zamiast EuroLeague | `COMPETITION = "U"` |
 
 ## Co dalej
 
 Po działającym MVP:
-1. Przeniesiemy do osobnego repo `euroleague-typy`
-2. Dodamy GitHub Actions (jak `daily_update.yml` w nba-typy)
-3. Deploy na GitHub Pages + opcjonalna domena
-4. Powielenie schematu dla EuroCup (jedna zmiana: `COMPETITION = "U"`)
-5. Powielenie dla ACB (Hiszpania) - inny adapter API
-6. Powielenie dla PLK - scraper plk.pl + strefabasketu fallback
-
-## Znane ograniczenia
-
-- **Brak archiwum** - MVP generuje tylko dzisiejsze mecze, bez historii.
-  Jak NBA, dodamy gdy potwierdzimy że dane się zgadzają.
-- **Logos jako Wikipedia URL** - prymarnie API daje crest URL,
-  Wikipedia tylko jako fallback. Mogą być przerwy w niektórych klubach.
-- **Brak GA4 / sitemap / robots** - bo to lokalny test, nie prod.
-  Dodamy przy deploy.
+1. Przeniesiemy do osobnego repo `euroleague-typy` lub deploy `/euroleague/` na nba-freepicks.com
+2. GitHub Actions co X minut (jak `daily_update.yml` w nba-typy)
+3. Powielenie schematu dla EuroCup, ACB (Hiszpania), PLK

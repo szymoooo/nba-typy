@@ -15,6 +15,8 @@ Wynik: output/index.html (otwórz w przeglądarce)
 import requests
 import json
 import os
+import re
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 
@@ -24,6 +26,14 @@ from datetime import datetime, timezone, timedelta
 SEASON_CODE = "E2025"  # E2025 = sezon 2025-26 (E2026 dla nast.)
 COMPETITION = "E"      # "E" = EuroLeague, "U" = EuroCup
 OUTPUT_DIR = "output"
+
+# Wlacz/wylacz prawdziwa analize AI Gemini z Google Search.
+# True  = Gemini analizuje kazdy mecz (forma, kontuzje, head-to-head, faza)
+#         i sam wybiera zwyciezce. Wymaga GEMINI_API_KEY w env.
+# False = czysta formula W-L + 5% home advantage (bez internetu, bez AI).
+# Jesli True ale brak klucza/blad - automatyczny fallback na formule.
+USE_AI_PREDICTIONS = True
+AI_MODEL = "gemini-1.5-flash"  # darmowy, szybki, dobre limity
 
 # Lista kandydatow dla GAMES (probujemy po kolei, uzywamy pierwszego ktory odpowie 200 + JSON)
 GAMES_ENDPOINTS = [
@@ -310,6 +320,206 @@ def save_picks_for_audit(picks, today_slug):
 
 
 # ==========================================
+# AI PREDICTIONS (Gemini + Google Search)
+# ==========================================
+
+# Cache klienta Gemini (zeby nie tworzyc go dla kazdego meczu)
+_gemini_client = None
+_ai_log = []  # tu zbieramy wszystkie analizy AI z reasoning'iem
+
+
+def _get_gemini_client():
+    """Lazy init klienta Gemini. Zwraca None jesli brak klucza/biblioteki."""
+    global _gemini_client
+    if _gemini_client is not None:
+        return _gemini_client
+    if not os.environ.get("GEMINI_API_KEY"):
+        return None
+    try:
+        from google import genai
+        _gemini_client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+        return _gemini_client
+    except ImportError:
+        print("   ! Brak biblioteki google-generativeai. Zainstaluj: pip install google-generativeai")
+        return None
+    except Exception as e:
+        print(f"   ! Blad inicjalizacji Gemini: {e}")
+        return None
+
+
+def _normalize_winner_name(ai_winner, h_name, a_name):
+    """Dopasowuje nazwe od AI do jednej z dwoch druzyn (case-insensitive, partial match)."""
+    if not ai_winner:
+        return None
+    ai_low = ai_winner.lower().strip()
+    h_low = (h_name or "").lower()
+    a_low = (a_name or "").lower()
+    # Dokladne dopasowanie
+    if ai_low == h_low:
+        return h_name
+    if ai_low == a_low:
+        return a_name
+    # Czesciowe dopasowanie w obie strony
+    if ai_low in h_low or h_low in ai_low:
+        return h_name
+    if ai_low in a_low or a_low in ai_low:
+        return a_name
+    # Sprawdz po slowach kluczowych (np. "Real" -> "Real Madrid")
+    for word in ai_low.split():
+        if len(word) >= 4:
+            if word in h_low:
+                return h_name
+            if word in a_low:
+                return a_name
+    return None
+
+
+def predict_winner_ai(home, away, h_pct, a_pct, game_context):
+    """Gemini z Google Search analizuje mecz i wybiera zwyciezce.
+    Zwraca dict {winner, confidence, reasoning, key_factors} albo None na blad."""
+    client = _get_gemini_client()
+    if client is None:
+        return None
+
+    h_name = home.get("name") or home.get("code") or "Home"
+    a_name = away.get("name") or away.get("code") or "Away"
+
+    phase = game_context.get("phase") or "Sezon zasadniczy"
+    date_iso = game_context.get("date") or ""
+    today = datetime.now().strftime("%Y-%m-%d")
+
+    prompt = f"""
+Mecz EuroLeague: {a_name} (gosc) vs {h_name} (gospodarz)
+Faza: {phase}
+Data meczu: {date_iso[:10]}
+DZISIEJSZA DATA: {today}
+
+Bilans w sezonie regularnym 2025-26:
+  - {a_name}: {a_pct:.0%} skutecznosci
+  - {h_name}: {h_pct:.0%} skutecznosci
+
+ZADANIE: Wytypuj zwyciezce tego konkretnego meczu.
+
+PROCES (uzyj Google Search):
+1. Sprawdz forme ostatnich 5 meczow obu druzyn
+2. Sprawdz bezposrednie spotkania w sezonie 2025-26
+3. Sprawdz kluczowe kontuzje na {today}
+4. Uwzglednij specyfike fazy "{phase}":
+   - Final Four / Playoffs = single elimination, neutralny parkiet, doswiadczenie kluczowe
+   - Regular Season = forma i bilans glowne kryterium
+5. Sprawdz historyczne osiagniecia obu klubow w tej fazie
+
+PRZYKLADAJ DUZA WAGE do:
+- aktualnych kontuzji
+- kontekstu fazy (F4 != faza zasadnicza)
+- formy (ostatnie 5 meczow > caly sezon)
+
+Odpowiedz WYLACZNIE czystym JSON-em (bez markdown, bez komentarzy):
+{{
+  "winner_name": "<dokladna nazwa z dwoch: '{h_name}' lub '{a_name}'>",
+  "confidence": <liczba 1-10 gdzie 10 = pewny>,
+  "reasoning": "<2-3 zdania uzasadnienia po polsku>",
+  "key_factors": ["<czynnik 1>", "<czynnik 2>", "<czynnik 3>"]
+}}
+"""
+
+    try:
+        from google.genai import types
+        response = client.models.generate_content(
+            model=AI_MODEL,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                tools=[types.Tool(google_search=types.GoogleSearch())]
+            )
+        )
+        text = (response.text or "").strip()
+
+        # Ekstrakcja JSON-a (czasem Gemini owinie w ```json ... ```)
+        json_match = re.search(r'\{.*\}', text, re.DOTALL)
+        if not json_match:
+            print(f"   ! AI nie zwrocilo JSON-a dla {a_name} vs {h_name}")
+            return None
+        data = json.loads(json_match.group())
+
+        # Normalizacja nazwy zwyciezcy do jednej z dwoch druzyn
+        ai_winner_raw = data.get("winner_name", "")
+        winner = _normalize_winner_name(ai_winner_raw, h_name, a_name)
+        if not winner:
+            print(f"   ! AI zwrocilo nieznana druzyne '{ai_winner_raw}' dla {a_name} vs {h_name}")
+            return None
+
+        return {
+            "winner": winner,
+            "confidence": int(data.get("confidence", 5)),
+            "reasoning": data.get("reasoning", ""),
+            "key_factors": data.get("key_factors", []),
+            "raw_winner_name": ai_winner_raw,
+        }
+    except Exception as e:
+        print(f"   ! Blad AI predict ({a_name} vs {h_name}): {e}")
+        return None
+
+
+def predict_winner(home, away, pct_map, game_context):
+    """Wybiera zwyciezce. Probuje AI (Gemini + Google Search), fallback na formule.
+    Zwraca tylko nazwe zwyciezcy (string) - reszta idzie do _ai_log."""
+    h_name = home.get("name") or home.get("code") or "Home"
+    a_name = away.get("name") or away.get("code") or "Away"
+    h_code = (home.get("code") or "").upper()
+    a_code = (away.get("code") or "").upper()
+    h_pct = pct_map.get(h_code, 0.0)
+    a_pct = pct_map.get(a_code, 0.0)
+
+    formula_pick = h_name if (h_pct + 0.05) > a_pct else a_name
+
+    if USE_AI_PREDICTIONS:
+        ai_result = predict_winner_ai(home, away, h_pct, a_pct, game_context)
+        if ai_result:
+            print(f"   [AI] {a_name} vs {h_name} -> {ai_result['winner']} "
+                  f"(conf {ai_result['confidence']}/10)")
+            _ai_log.append({
+                "matchup": f"{a_name} @ {h_name}",
+                "phase": game_context.get("phase"),
+                "date": game_context.get("date"),
+                "ai_pick": ai_result["winner"],
+                "formula_pick": formula_pick,
+                "agreement": ai_result["winner"] == formula_pick,
+                "confidence": ai_result["confidence"],
+                "reasoning": ai_result["reasoning"],
+                "key_factors": ai_result["key_factors"],
+            })
+            time.sleep(1)  # delikatny rate-limit dla free tier
+            return ai_result["winner"]
+        else:
+            print(f"   [FORMULA-fallback] {a_name} vs {h_name} -> {formula_pick}")
+            _ai_log.append({
+                "matchup": f"{a_name} @ {h_name}",
+                "ai_pick": None,
+                "formula_pick": formula_pick,
+                "note": "AI nie zwrocilo wyniku, uzyto formuły W-L",
+            })
+            return formula_pick
+    else:
+        return formula_pick
+
+
+def save_ai_log(today_slug):
+    """Zapisuje pelny log analiz AI do output/ai_analyses.json (dla developera)."""
+    if not _ai_log:
+        return
+    path = os.path.join(OUTPUT_DIR, "ai_analyses.json")
+    payload = {
+        "generated_at": datetime.now().isoformat(),
+        "date": today_slug,
+        "model": AI_MODEL,
+        "matches": _ai_log,
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2, ensure_ascii=False)
+    print(f"   Zapisano analizy AI do {path}")
+
+
+# ==========================================
 # CSS
 # ==========================================
 
@@ -392,10 +602,13 @@ def build_game_cards(games, pct_map):
 
             state, status_text_raw = map_status(g.get("status") or g.get("statusType"))
 
-            # Predykcja: home advantage 0.05 (jak NBA)
-            h_pct = pct_map.get(h_code, 0.0)
-            a_pct = pct_map.get(a_code, 0.0)
-            predicted_winner = h_name if (h_pct + 0.05) > a_pct else a_name
+            # Predykcja: AI (Gemini + Google Search) z fallbackiem na formule W-L
+            game_context = {
+                "phase": (g.get("phaseType") or {}).get("name") if isinstance(g.get("phaseType"), dict) else g.get("phaseType"),
+                "date": g.get("date") or g.get("utcDate"),
+                "round": (g.get("round") or {}).get("name") if isinstance(g.get("round"), dict) else None,
+            }
+            predicted_winner = predict_winner(home, away, pct_map, game_context)
 
             if state == "pre":
                 tip = fmt_game_time(g.get("date") or g.get("utcDate"))
@@ -515,12 +728,22 @@ def main():
     today_str = datetime.now().strftime("%B %d, %Y")
     print(f"   Data: {today_slug} ({today_str})")
     print(f"   Sezon: {SEASON_CODE}, Liga: {COMPETITION}")
+
+    # Tryb predykcji
+    if USE_AI_PREDICTIONS and os.environ.get("GEMINI_API_KEY"):
+        print(f"   Tryb predykcji: AI ({AI_MODEL} + Google Search)")
+    elif USE_AI_PREDICTIONS:
+        print(f"   Tryb predykcji: FORMULA W-L (brak GEMINI_API_KEY)")
+    else:
+        print(f"   Tryb predykcji: FORMULA W-L (USE_AI_PREDICTIONS=False)")
     print()
 
     pct_map = fetch_standings_map()
     print()
     games, src_label = fetch_games_for_date(today_slug)
 
+    if games:
+        print()
     cards_html, picks, summaries = build_game_cards(games, pct_map)
 
     out_path = os.path.join(OUTPUT_DIR, "index.html")
@@ -532,6 +755,8 @@ def main():
         save_picks_for_audit(picks, today_slug)
     else:
         print("   Brak typow pre-game (gry juz w trakcie/zakonczone albo brak meczow).")
+
+    save_ai_log(today_slug)
 
     if not pct_map and not games:
         print("\n!! ZADEN endpoint nie zadzialal. Sprawdz pliki output/debug_*.json")
