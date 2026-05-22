@@ -15,6 +15,7 @@ Wynik: output/index.html (otwórz w przeglądarce)
 import requests
 import json
 import os
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 
 # ==========================================
@@ -114,25 +115,16 @@ def fetch_json(url, params=None, timeout=15):
 
 
 def try_endpoints(endpoints, kind):
-    """Probuje kandydatow po kolei. Zwraca (label, data, raw_text_for_debug) lub (None, None, None)."""
+    """Probuje kandydatow po kolei. Zwraca (label, data) gdzie data to dict/list (JSON) albo ('XML', text)."""
     print(f"-> Probuje endpointy ({kind}):")
     for label, url, params in endpoints:
         result, status, err = fetch_json(url, params)
-        if result is not None and result != "XML":
-            print(f"   [OK] {label} -> {url} (HTTP {status})")
-            # Zapisz dump do debug
-            debug_path = os.path.join(OUTPUT_DIR, f"debug_{kind}_{label}.json")
-            try:
-                with open(debug_path, "w", encoding="utf-8") as f:
-                    json.dump(result if isinstance(result, (dict, list)) else {"raw": str(result)},
-                              f, indent=2, ensure_ascii=False, default=str)
-                print(f"        zapisano dump: {debug_path}")
-            except Exception:
-                pass
-            return label, result
-        elif isinstance(result, tuple) and result[0] == "XML":
-            print(f"   [XML] {label} -> dostalem XML, parser JSON nie obsluguje (na razie)")
-            # Zapisz tez surowy XML zeby user mogl pokazac
+        if result is None:
+            print(f"   [FAIL] {label} -> HTTP {status} {err if err else ''}")
+            continue
+        # XML response
+        if isinstance(result, tuple) and result[0] == "XML":
+            print(f"   [OK-XML] {label} -> {url} (HTTP {status})")
             debug_path = os.path.join(OUTPUT_DIR, f"debug_{kind}_{label}.xml")
             try:
                 with open(debug_path, "w", encoding="utf-8") as f:
@@ -140,9 +132,38 @@ def try_endpoints(endpoints, kind):
                 print(f"        zapisano dump XML: {debug_path}")
             except Exception:
                 pass
-        else:
-            print(f"   [FAIL] {label} -> HTTP {status} {err if err else ''}")
+            return label, result
+        # JSON response
+        print(f"   [OK] {label} -> {url} (HTTP {status})")
+        debug_path = os.path.join(OUTPUT_DIR, f"debug_{kind}_{label}.json")
+        try:
+            with open(debug_path, "w", encoding="utf-8") as f:
+                json.dump(result, f, indent=2, ensure_ascii=False, default=str)
+            print(f"        zapisano dump: {debug_path}")
+        except Exception:
+            pass
+        return label, result
     return None, None
+
+
+def parse_standings_xml(xml_text):
+    """Parser XML EuroLeague v1/standings -> {code: win_pct}."""
+    pct_map = {}
+    try:
+        root = ET.fromstring(xml_text)
+        for team in root.iter("team"):
+            code = (team.findtext("code") or "").strip().upper()
+            try:
+                wins = int(team.findtext("wins") or 0)
+                losses = int(team.findtext("losses") or 0)
+            except (TypeError, ValueError):
+                wins, losses = 0, 0
+            total = wins + losses
+            if code and total > 0:
+                pct_map[code] = wins / total
+    except Exception as e:
+        print(f"   Blad parsowania XML standings: {e}")
+    return pct_map
 
 
 def get_today_date_str():
@@ -189,10 +210,16 @@ def fetch_standings_map():
     """Zwraca {team_code: win_pct} dla wszystkich druzyn."""
     label, data = try_endpoints(STANDINGS_ENDPOINTS, "standings")
     if data is None:
-        print("   ZADEN endpoint standings nie zwrocil JSONa. Predykcje beda 50/50.")
+        print("   ZADEN endpoint standings nie zwrocil danych. Predykcje beda 50/50.")
         return {}
 
-    # Probujemy roznych ksztaltow odpowiedzi
+    # XML path (v1/standings zwraca XML)
+    if isinstance(data, tuple) and data[0] == "XML":
+        pct_map = parse_standings_xml(data[1])
+        print(f"   {label}: zaladowano statystyki dla {len(pct_map)} druzyn (XML)")
+        return pct_map
+
+    # JSON path - probujemy roznych ksztaltow odpowiedzi
     teams = []
     if isinstance(data, dict):
         d = data.get("data", data)
@@ -248,11 +275,11 @@ def get_team_logo(team_obj):
 def map_status(status_raw):
     """API status -> ('pre'|'in'|'post', display_text)."""
     s = (status_raw or "").lower()
-    if s in ("scheduled", "pre", "upcoming", "notstarted", ""):
+    if s in ("scheduled", "pre", "upcoming", "notstarted", "confirmed", ""):
         return "pre", "Scheduled"
-    if s in ("live", "in_progress", "inplay", "started"):
+    if s in ("live", "in_progress", "inplay", "started", "playing"):
         return "in", "LIVE"
-    if s in ("result", "finished", "post", "ended", "final"):
+    if s in ("result", "finished", "post", "ended", "final", "played"):
         return "post", "Final"
     return "pre", "Scheduled"
 
@@ -310,10 +337,10 @@ def get_shared_styles():
         .card-header {{ background: rgba(0,0,0,0.3); padding: 12px 25px; display: flex; justify-content: center; align-items: center; border-bottom: 1px solid var(--border); }}
         .status {{ font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }}
         .live {{ color: #ef4444; animation: pulse 1.5s infinite; }}
-        .matchup {{ display: flex; justify-content: space-between; align-items: center; padding: 30px 20px; flex-grow: 1; }}
-        .team {{ text-align: center; width: 30%; height: 140px; position: relative; display: flex; justify-content: center; align-items: center; }}
-        .team-name {{ font-weight: 900; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.5px; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); width: 100%; text-shadow: 0 2px 4px rgba(0,0,0,1); padding-bottom: 5px; }}
-        .team-logo {{ width: 120px; height: 120px; object-fit: contain; opacity: 0.9; margin-bottom: 15px; }}
+        .matchup {{ display: flex; justify-content: space-between; align-items: stretch; padding: 30px 20px; flex-grow: 1; gap: 12px; }}
+        .team {{ text-align: center; flex: 1; min-width: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; }}
+        .team-name {{ font-weight: 900; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.5px; width: 100%; line-height: 1.25; text-shadow: 0 2px 4px rgba(0,0,0,0.6); word-wrap: break-word; }}
+        .team-logo {{ width: 100px; height: 100px; object-fit: contain; opacity: 0.95; }}
         .score-container {{ display: flex; align-items: center; justify-content: center; gap: 15px; }}
         .score {{ font-size: 2.8rem; font-weight: 900; line-height: 1; text-shadow: 0 2px 5px rgba(0,0,0,0.8); }}
         .score.winner {{ color: var(--win); }}
