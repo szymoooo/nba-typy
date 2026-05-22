@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PLK AI Picks - Orlen Basket Liga Free Predictions</title>
-    <meta name="description" content="Darmowe codzienne typy PLK (Orlen Basket Liga) generowane przez AI. Strona zostanie wypelniona danymi po pierwszym uruchomieniu update_plk.py.">
+    <title>PLK AI Picks Today May 22, 2026 - Free Predictions Orlen Basket Liga</title>
+    <meta name="description" content="Daily PLK (Orlen Basket Liga) game predictions powered by AI. Free picks for every game - May 22, 2026.">
     <meta name="robots" content="index, follow">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#x1F3C0;</text></svg>">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
@@ -15,35 +15,58 @@
             --accent: #dc2626;
             --text: #f8fafc;
             --subtext: #94a3b8;
+            --win: #10b981;
+            --loss: #ef4444;
             --border: #334155;
         }
         * { box-sizing: border-box; }
         body { background-color: var(--bg); color: var(--text); font-family: 'Montserrat', sans-serif; margin: 0; padding: 20px; }
-        .container { max-width: 900px; margin: 0 auto; }
+        .container { max-width: 1200px; margin: 0 auto; }
         header { text-align: center; margin-bottom: 40px; padding-bottom: 20px; border-bottom: 1px solid var(--border); }
         h1 { font-weight: 900; letter-spacing: -1px; margin: 0; color: var(--accent); font-size: 2.5rem; }
         .subtitle { color: var(--subtext); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; margin-top: 10px; }
-        .empty { text-align: center; color: #888; padding: 60px 20px; font-size: 1rem; line-height: 1.8; }
-        .empty .ico { font-size: 3rem; margin-bottom: 16px; display: block; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); gap: 25px; }
+        .card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 20px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.2s, box-shadow 0.2s; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.2); }
+        .card:hover { transform: translateY(-5px); box-shadow: 0 20px 25px -5px rgba(0,0,0,0.3); border-color: var(--accent); }
+        .card-header { background: rgba(0,0,0,0.3); padding: 12px 25px; display: flex; justify-content: center; align-items: center; border-bottom: 1px solid var(--border); }
+        .status { font-size: 0.75rem; font-weight: 900; color: var(--subtext); text-transform: uppercase; letter-spacing: 1px; }
+        .live { color: #ef4444; animation: pulse 1.5s infinite; }
+        .matchup { display: flex; justify-content: space-between; align-items: stretch; padding: 30px 20px; flex-grow: 1; gap: 12px; }
+        .team { text-align: center; flex: 1; min-width: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; }
+        .team-name { font-weight: 900; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.5px; width: 100%; line-height: 1.25; text-shadow: 0 2px 4px rgba(0,0,0,0.6); word-wrap: break-word; }
+        .team-logo { width: 100px; height: 100px; object-fit: contain; opacity: 0.95; background: rgba(255,255,255,0.04); border-radius: 12px; padding: 6px; }
+        .score-container { display: flex; align-items: center; justify-content: center; gap: 15px; }
+        .score { font-size: 2.8rem; font-weight: 900; line-height: 1; text-shadow: 0 2px 5px rgba(0,0,0,0.8); }
+        .score.winner { color: var(--win); }
+        .score.loser { color: var(--subtext); opacity: 0.8; }
+        .vs-sep { color: var(--border); font-style: italic; font-weight: 900; font-size: 1.5rem; }
+        .prediction-box { background: rgba(15,23,42,0.6); padding: 20px; text-align: center; border-top: 1px solid var(--border); margin-top: auto; }
+        .pred-label { font-size: 0.7rem; color: var(--subtext); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 8px; }
+        .pred-val { font-size: 1.2rem; font-weight: 900; color: var(--text); display: flex; align-items: center; justify-content: center; gap: 8px; }
         .footer { text-align: center; color: var(--subtext); font-size: 0.75rem; margin-top: 50px; padding-bottom: 20px; }
-        .footer a { color: var(--accent); }
+        .empty { text-align: center; color: #888; padding: 60px 20px; font-size: 1rem; line-height: 1.6; }
+        .empty .ico { font-size: 3rem; margin-bottom: 16px; display: block; }
+        @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.5; } }
+        @media (max-width: 768px) {
+            .grid { grid-template-columns: 1fr; }
+            .matchup { padding: 25px 15px; }
+            .score { font-size: 2.2rem; }
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
             <h1>PLK PUBLIC HUB</h1>
-            <div class="subtitle">Orlen Basket Liga &middot; Public AI Model Picks</div>
+            <div class="subtitle">Orlen Basket Liga &middot; Live Scores &amp; Public AI Model Picks &mdash; May 22, 2026</div>
         </header>
 
-        <div class="empty">
-            <span class="ico">&#127936;</span>
-            Strona PLK zostanie wypelniona danymi przy najblizszym automatycznym przebiegu botow.
-            <br><small>Mozesz tez uruchomic recznie: <code>python update_plk.py</code></small>
+        <div class="grid">
+            <div class="empty"><span class="ico">&#127936;</span>Brak meczow PLK na dzis.<br><small>Sprawdz pozniej lub wybierz inna date.</small></div>
         </div>
 
         <div class="footer">
-            <a href="/">&larr; Wroc do hubu</a>
+            Last updated: May 22, 2026 at 19:42 &middot; Data source: Sofascore public API
         </div>
     </div>
 </body>
