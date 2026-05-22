@@ -22,11 +22,41 @@ from datetime import datetime, timezone, timedelta
 # ==========================================
 SEASON_CODE = "E2025"  # E2025 = sezon 2025-26 (E2026 dla nast.)
 COMPETITION = "E"      # "E" = EuroLeague, "U" = EuroCup
-API_BASE = "https://api-live.euroleague.net/v3"
-GAMES_URL = f"{API_BASE}/competitions/{COMPETITION}/seasons/{SEASON_CODE}/games"
-STANDINGS_URL = f"{API_BASE}/competitions/{COMPETITION}/seasons/{SEASON_CODE}/standings"
-
 OUTPUT_DIR = "output"
+
+# Lista kandydatow dla GAMES (probujemy po kolei, uzywamy pierwszego ktory odpowie 200 + JSON)
+GAMES_ENDPOINTS = [
+    ("incrowd_v2",
+     f"https://feeds.incrowdsports.com/provider/euroleague-feeds/v2/competitions/{COMPETITION}/seasons/{SEASON_CODE}/games",
+     {"limit": 500}),
+    ("v3",
+     f"https://api-live.euroleague.net/v3/competitions/{COMPETITION}/seasons/{SEASON_CODE}/games",
+     {"limit": 500}),
+    ("v2",
+     f"https://api-live.euroleague.net/v2/competitions/{COMPETITION}/seasons/{SEASON_CODE}/games",
+     {"limit": 500}),
+    ("v1_schedules",
+     f"https://api-live.euroleague.net/v1/schedules",
+     {"seasonCode": SEASON_CODE}),
+    ("v1_results",
+     f"https://api-live.euroleague.net/v1/results",
+     {"seasonCode": SEASON_CODE}),
+]
+
+STANDINGS_ENDPOINTS = [
+    ("incrowd_v2",
+     f"https://feeds.incrowdsports.com/provider/euroleague-feeds/v2/competitions/{COMPETITION}/seasons/{SEASON_CODE}/standings",
+     {}),
+    ("v3",
+     f"https://api-live.euroleague.net/v3/competitions/{COMPETITION}/seasons/{SEASON_CODE}/standings",
+     {}),
+    ("v2",
+     f"https://api-live.euroleague.net/v2/competitions/{COMPETITION}/seasons/{SEASON_CODE}/standings",
+     {}),
+    ("v1_standings",
+     f"https://api-live.euroleague.net/v1/standings",
+     {"seasonCode": SEASON_CODE}),
+]
 BRAND_TITLE = "EUROLEAGUE PUBLIC HUB"
 BRAND_ACCENT = "#ff6600"   # pomarańcz EuroLeague
 BRAND_DOMAIN = "https://euroleague-freepicks.com"  # placeholder
@@ -66,71 +96,136 @@ DEFAULT_LOGO = "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewB
 # ==========================================
 
 def fetch_json(url, params=None, timeout=15):
-    """Bezpieczne pobranie JSON z fallbackiem."""
+    """Bezpieczne pobranie JSON z fallbackiem na XML."""
     try:
         r = requests.get(url, params=params or {},
                          headers={"Accept": "application/json",
-                                  "User-Agent": "Mozilla/5.0 (euroleague-freepicks/0.1)"},
+                                  "User-Agent": "Mozilla/5.0 (euroleague-freepicks/0.2)"},
                          timeout=timeout)
         if r.status_code != 200:
-            print(f"   {url} -> HTTP {r.status_code}")
-            return None
-        return r.json()
+            return None, r.status_code, r.text[:300]
+        ct = r.headers.get("Content-Type", "")
+        if "json" in ct or r.text.lstrip().startswith(("{", "[")):
+            return r.json(), 200, None
+        # fallback - probujemy XML
+        return ("XML", r.text), 200, None
     except Exception as e:
-        print(f"   Blad polaczenia z {url}: {e}")
-        return None
+        return None, None, str(e)[:300]
+
+
+def try_endpoints(endpoints, kind):
+    """Probuje kandydatow po kolei. Zwraca (label, data, raw_text_for_debug) lub (None, None, None)."""
+    print(f"-> Probuje endpointy ({kind}):")
+    for label, url, params in endpoints:
+        result, status, err = fetch_json(url, params)
+        if result is not None and result != "XML":
+            print(f"   [OK] {label} -> {url} (HTTP {status})")
+            # Zapisz dump do debug
+            debug_path = os.path.join(OUTPUT_DIR, f"debug_{kind}_{label}.json")
+            try:
+                with open(debug_path, "w", encoding="utf-8") as f:
+                    json.dump(result if isinstance(result, (dict, list)) else {"raw": str(result)},
+                              f, indent=2, ensure_ascii=False, default=str)
+                print(f"        zapisano dump: {debug_path}")
+            except Exception:
+                pass
+            return label, result
+        elif isinstance(result, tuple) and result[0] == "XML":
+            print(f"   [XML] {label} -> dostalem XML, parser JSON nie obsluguje (na razie)")
+            # Zapisz tez surowy XML zeby user mogl pokazac
+            debug_path = os.path.join(OUTPUT_DIR, f"debug_{kind}_{label}.xml")
+            try:
+                with open(debug_path, "w", encoding="utf-8") as f:
+                    f.write(result[1])
+                print(f"        zapisano dump XML: {debug_path}")
+            except Exception:
+                pass
+        else:
+            print(f"   [FAIL] {label} -> HTTP {status} {err if err else ''}")
+    return None, None
 
 
 def get_today_date_str():
     """Lokalna data UTC+1/+2 (Europa). Zwraca YYYY-MM-DD."""
-    # CET/CEST - mecze EuroLeague rozgrywane są wieczorami w Europie
-    cet = timezone(timedelta(hours=2))  # uproszczenie; pytz daje DST
+    cet = timezone(timedelta(hours=2))  # CEST uproszczone
     return datetime.now(cet).strftime("%Y-%m-%d")
 
 
 def fetch_games_for_date(date_str):
-    """Pobiera mecze, filtruje na daną datę. Zwraca listę dictów lub []."""
-    print(f"-> Pobieram terminarz EuroLeague (sezon {SEASON_CODE})...")
-    data = fetch_json(GAMES_URL, params={"limit": 500})
-    if not data:
-        return []
-    games = data.get("data", []) if isinstance(data, dict) else (data if isinstance(data, list) else [])
-    print(f"   API zwrocilo {len(games)} meczow w sezonie")
+    """Pobiera mecze, filtruje na dana date. Zwraca (lista, label_zrodla)."""
+    label, data = try_endpoints(GAMES_ENDPOINTS, "games")
+    if data is None:
+        print("   ZADEN endpoint games nie zwrocil JSONa.")
+        return [], None
+
+    # Normalizacja: rozne API zwracaja rozna strukture
+    games = []
+    if isinstance(data, dict):
+        games = (data.get("data") or data.get("games") or
+                 data.get("schedule") or data.get("results") or [])
+    elif isinstance(data, list):
+        games = data
+
+    if not isinstance(games, list):
+        print(f"   Nieoczekiwana struktura games z {label}: {type(games)}")
+        games = []
+
+    print(f"   {label} zwrocil {len(games)} meczow")
 
     today_games = []
     for g in games:
-        gdate_raw = g.get("date") or g.get("utcDate") or ""
-        # date format: "2026-05-22T19:00:00" lub "2026-05-22T17:00:00Z"
+        if not isinstance(g, dict):
+            continue
+        gdate_raw = (g.get("date") or g.get("utcDate") or
+                     g.get("startDate") or g.get("gameDate") or "")
         gdate = gdate_raw[:10] if isinstance(gdate_raw, str) else ""
         if gdate == date_str:
             today_games.append(g)
     print(f"   Mecze na {date_str}: {len(today_games)}")
-    return today_games
+    return today_games, label
 
 
 def fetch_standings_map():
     """Zwraca {team_code: win_pct} dla wszystkich druzyn."""
-    print("-> Pobieram tabele EuroLeague...")
-    data = fetch_json(STANDINGS_URL)
-    if not data:
+    label, data = try_endpoints(STANDINGS_ENDPOINTS, "standings")
+    if data is None:
+        print("   ZADEN endpoint standings nie zwrocil JSONa. Predykcje beda 50/50.")
         return {}
+
+    # Probujemy roznych ksztaltow odpowiedzi
     teams = []
     if isinstance(data, dict):
-        teams = data.get("data", {}).get("teams", []) if isinstance(data.get("data"), dict) else data.get("data", [])
+        d = data.get("data", data)
+        if isinstance(d, dict):
+            teams = d.get("teams") or d.get("standings") or []
+        elif isinstance(d, list):
+            teams = d
     elif isinstance(data, list):
         teams = data
 
     pct_map = {}
     for t in teams:
-        team_obj = t.get("team", t)  # czasem zagniezdzone, czasem flat
-        code = (team_obj.get("code") or team_obj.get("tvCode") or "").upper()
+        if not isinstance(t, dict):
+            continue
+        team_obj = t.get("team", t)
+        if isinstance(team_obj, dict):
+            code = (team_obj.get("code") or team_obj.get("tvCode")
+                    or team_obj.get("clubCode") or "").upper()
+        else:
+            code = ""
+        if not code:
+            code = (t.get("teamCode") or t.get("code") or "").upper()
         if not code:
             continue
-        wins = t.get("won", t.get("wins", 0)) or 0
-        losses = t.get("lost", t.get("losses", 0)) or 0
+        wins = t.get("won") or t.get("wins") or t.get("gamesWon") or 0
+        losses = t.get("lost") or t.get("losses") or t.get("gamesLost") or 0
+        try:
+            wins, losses = int(wins), int(losses)
+        except Exception:
+            wins, losses = 0, 0
         total = wins + losses
         pct_map[code] = (wins / total) if total > 0 else 0.0
-    print(f"   Zaladowano statystyki dla {len(pct_map)} druzyn")
+    print(f"   {label}: zaladowano statystyki dla {len(pct_map)} druzyn")
     return pct_map
 
 
@@ -392,23 +487,34 @@ def main():
     today_slug = get_today_date_str()
     today_str = datetime.now().strftime("%B %d, %Y")
     print(f"   Data: {today_slug} ({today_str})")
+    print(f"   Sezon: {SEASON_CODE}, Liga: {COMPETITION}")
+    print()
 
     pct_map = fetch_standings_map()
-    games = fetch_games_for_date(today_slug)
+    print()
+    games, src_label = fetch_games_for_date(today_slug)
 
     cards_html, picks, summaries = build_game_cards(games, pct_map)
 
     out_path = os.path.join(OUTPUT_DIR, "index.html")
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(build_page(today_str, cards_html, summaries))
-    print(f"-> Zapisano {out_path}")
+    print(f"\n-> Zapisano {out_path}")
 
     if picks:
         save_picks_for_audit(picks, today_slug)
     else:
         print("   Brak typow pre-game (gry juz w trakcie/zakonczone albo brak meczow).")
 
-    print(f"=== GOTOWE. Otworz {out_path} w przegladarce. ===")
+    if not pct_map and not games:
+        print("\n!! ZADEN endpoint nie zadzialal. Sprawdz pliki output/debug_*.json")
+        print("   lub wyslij wynik tego skryptu do supportu.")
+    elif not games:
+        print(f"\n   Brak meczow EuroLeague na {today_slug}.")
+        print(f"   Mozliwe ze dzis nie ma kolejki, albo trzeba zmienic SEASON_CODE.")
+        print(f"   Aktualnie: {SEASON_CODE}. Sprawdz output/debug_games_*.json - czy sa tam mecze?")
+
+    print(f"\n=== GOTOWE. Otworz {out_path} w przegladarce. ===")
 
 
 if __name__ == "__main__":
