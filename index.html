@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basketball Free Picks - NBA &amp; EuroLeague AI Predictions</title>
-    <meta name="description" content="Free daily basketball AI predictions. NBA and EuroLeague picks powered by AI with live scores and lineup audits. Choose a league.">
-    <meta name="keywords" content="NBA picks, EuroLeague picks, basketball predictions, free AI picks, basketball today">
+    <title>Basketball Free Picks - NBA, EuroLeague &amp; PLK AI Predictions</title>
+    <meta name="description" content="Free daily basketball AI predictions. NBA, EuroLeague and PLK (Orlen Basket Liga) picks powered by AI with live scores and lineup audits. Choose a league.">
+    <meta name="keywords" content="NBA picks, EuroLeague picks, PLK picks, Orlen Basket Liga, basketball predictions, free AI picks, basketball today">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://nba-freepicks.com/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Basketball Free Picks - NBA &amp; EuroLeague AI Predictions">
-    <meta property="og:description" content="Free daily basketball AI predictions for NBA and EuroLeague.">
+    <meta property="og:title" content="Basketball Free Picks - NBA, EuroLeague &amp; PLK AI Predictions">
+    <meta property="og:description" content="Free daily basketball AI predictions for NBA, EuroLeague and PLK.">
     <meta property="og:url" content="https://nba-freepicks.com/">
     <meta property="og:site_name" content="Basketball Free Picks">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Basketball Free Picks - NBA &amp; EuroLeague AI Predictions">
-    <meta name="twitter:description" content="Free daily basketball AI predictions for NBA and EuroLeague.">
+    <meta name="twitter:title" content="Basketball Free Picks - NBA, EuroLeague &amp; PLK AI Predictions">
+    <meta name="twitter:description" content="Free daily basketball AI predictions for NBA, EuroLeague and PLK.">
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZV0JG9D4QK"></script>
     <script>
@@ -35,6 +35,7 @@
             --border: #334155;
             --nba: #3b82f6;
             --euroleague: #ff6600;
+            --plk: #dc2626;
         }
         * { box-sizing: border-box; }
         body {
@@ -49,7 +50,7 @@
             padding: 40px 20px;
         }
         .hub-container {
-            max-width: 1100px;
+            max-width: 1300px;
             margin: 0 auto;
             width: 100%;
         }
@@ -62,7 +63,7 @@
             letter-spacing: -2px;
             margin: 0 0 12px;
             font-size: 3.5rem;
-            background: linear-gradient(120deg, var(--nba) 0%, var(--euroleague) 100%);
+            background: linear-gradient(120deg, var(--nba) 0%, var(--euroleague) 50%, var(--plk) 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -81,7 +82,7 @@
         }
         .league-grid {
             display: grid;
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: repeat(3, 1fr);
             gap: 30px;
         }
         .league-card {
@@ -119,6 +120,10 @@
             border-color: var(--euroleague);
             box-shadow: 0 25px 50px -12px rgba(255, 102, 0, 0.35);
         }
+        .league-card.plk:hover {
+            border-color: var(--plk);
+            box-shadow: 0 25px 50px -12px rgba(220, 38, 38, 0.35);
+        }
         .league-logo {
             width: 160px;
             height: 160px;
@@ -141,6 +146,7 @@
         }
         .league-card.nba .league-name { color: var(--nba); }
         .league-card.euroleague .league-name { color: var(--euroleague); }
+        .league-card.plk .league-name { color: var(--plk); }
         .league-sub {
             color: var(--subtext);
             font-size: 0.85rem;
@@ -169,6 +175,10 @@
             background: rgba(255, 102, 0, 0.15);
             border-color: var(--euroleague);
         }
+        .league-card.plk:hover .league-cta {
+            background: rgba(220, 38, 38, 0.15);
+            border-color: var(--plk);
+        }
         .hub-footer {
             text-align: center;
             color: var(--subtext);
@@ -181,6 +191,9 @@
             border-bottom: 1px dotted var(--border);
         }
         .hub-footer a:hover { color: var(--text); }
+        @media (max-width: 1024px) {
+            .league-grid { grid-template-columns: 1fr; gap: 20px; }
+        }
         @media (max-width: 768px) {
             .hub-title { font-size: 2.4rem; letter-spacing: -1px; }
             .hub-tagline { font-size: 0.85rem; letter-spacing: 2px; }
@@ -220,12 +233,23 @@
                 <p class="league-sub">Final Four &middot; Gemini AI &middot; Live Predictions</p>
                 <span class="league-cta">View EuroLeague picks &rarr;</span>
             </a>
+
+            <a href="/plk/" class="league-card plk" aria-label="PLK Orlen Basket Liga AI Picks">
+                <img src="https://upload.wikimedia.org/commons/thumb/1/12/Flag_of_Poland.svg/640px-Flag_of_Poland.svg.png"
+                     alt="PLK logo"
+                     class="league-logo"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2244%22 fill=%22none%22 stroke=%22%23dc2626%22 stroke-width=%223%22/><text y=%2262%22 x=%2250%22 text-anchor=%22middle%22 font-size=%2242%22 fill=%22%23dc2626%22>%F0%9F%8F%80</text></svg>';">
+                <h2 class="league-name">PLK</h2>
+                <p class="league-sub">Orlen Basket Liga &middot; Gemini AI &middot; Polskie Typy</p>
+                <span class="league-cta">Zobacz typy PLK &rarr;</span>
+            </a>
         </div>
 
         <div class="hub-footer">
             Updated daily &middot; Public AI model picks &middot;
             <a href="/nba/">NBA</a> &middot;
-            <a href="/euroleague/">EuroLeague</a>
+            <a href="/euroleague/">EuroLeague</a> &middot;
+            <a href="/plk/">PLK</a>
         </div>
     </div>
 </body>

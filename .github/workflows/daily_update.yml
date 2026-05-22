@@ -1,11 +1,11 @@
-name: NBA + EuroLeague Public Media Bot
+name: NBA + EuroLeague + PLK Public Media Bot
 on:
   schedule:
     # Co 20 minut w godzinach 17:00-08:00 UTC (19:00-10:00 CET)
     # czyli pokrywa wszystkie mecze NBA grane w nocy polskiego czasu
     - cron: '0,20,40 17-23 * * *'   # 17:00-23:59 UTC
     - cron: '0,20,40 0-8  * * *'    # 00:00-08:59 UTC
-    # EuroLeague: w godzinach europejskich (16:00-23:00 CET = 14:00-21:00 UTC)
+    # EuroLeague + PLK: w godzinach europejskich (16:00-23:00 CET = 14:00-21:00 UTC)
     - cron: '15 14-21 * * *'        # raz na godzine, w okolicach :15
   workflow_dispatch:
 
@@ -51,6 +51,19 @@ jobs:
         run: python euroleague_audit.py
         continue-on-error: true
 
+      # ============= PLK (Orlen Basket Liga) =============
+      - name: Run PLK AI Picks
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python update_plk.py
+        continue-on-error: true   # nie psuj NBA/EL jak PLK cos sypnie
+
+      - name: Run PLK Lineup Audit
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python plk_audit.py
+        continue-on-error: true
+
       # ============= Commit =============
       - name: Commit and Push
         run: |
@@ -67,6 +80,9 @@ jobs:
 
           # EuroLeague
           [ -d euroleague ]               && git add euroleague/
+
+          # PLK
+          [ -d plk ]                      && git add plk/
 
           git diff --quiet && git diff --staged --quiet || \
             (git commit -m "Daily Update $(date -u +%H:%M UTC)" && git push)
