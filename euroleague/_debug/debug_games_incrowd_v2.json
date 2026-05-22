@@ -32,7 +32,7 @@
         "alias": "Round 46"
       },
       "date": "2026-05-22T18:00:00.000Z",
-      "status": "live",
+      "status": "result",
       "minute": "40:00",
       "remainingTime": "00:00",
       "quarter": null,
@@ -57179,7 +57179,7 @@
     }
   ],
   "metadata": {
-    "createdAt": "2026-05-22T20:05:11.31920065Z",
+    "createdAt": "2026-05-22T20:43:18.80352631Z",
     "pageItems": 401,
     "totalItems": 401,
     "totalPages": 1,
