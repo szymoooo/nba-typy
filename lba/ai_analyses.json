@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-05-23T16:15:23.994093",
+  "generated_at": "2026-05-23T16:42:08.443654",
   "date": "2026-05-23",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Germani Brescia @ Pallacanestro Trieste",
-      "ai_pick": null,
+      "day": "Quarti di Finale - Gara  4",
+      "date": "2026-05-23T20:00:00.000+02:00",
+      "ai_pick": "Germani Brescia",
       "formula_pick": "Germani Brescia",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Germani Brescia prowadzi w serii 2-1 i zwyciężyło w Gara 3 na wyjeździe, co świadczy o ich silnej formie i odporności. Mimo że Pallacanestro Trieste będzie grać u siebie w meczu o wszystko, to Brescia, nawet bez kluczowego gracza Amedeo Della Valle, ma większe szanse na przypieczętowanie awansu ze względu na lepszą dynamikę serii i ogólną siłę składu.",
+      "key_factors": [
+        "Germani Brescia prowadzi w serii 2-1 i wygrała Gara 3 na wyjeździe, co daje im przewagę psychologiczną.",
+        "Pallacanestro Trieste gra u siebie w meczu, który może zadecydować o ich odpadnięciu z playoffów, co zwiększa presję i motywację.",
+        "Amedeo Della Valle z Germani Brescia jest kontuzjowany i był nieobecny w Gara 3, prawdopodobnie będzie nieobecny również w Gara 4.",
+        "Brescia pokazała zdolność do wygrywania ważnych meczów na wyjeździe, nawet bez kluczowych zawodników."
+      ],
+      "injury_notes": "Germani Brescia jest osłabiona brakiem Amedeo Della Valle, który był kontuzjowany z powodu problemu mięśniowego w Gara 3 (21 maja 2026) i prawdopodobnie nadal jest poza grą na 23 maja 2026. W przypadku Pallacanestro Trieste nie odnotowano nowych, istotnych kontuzji bezpośrednio przed Gara 4, które wykluczałyby kluczowych graczy, chociaż pojawiła się ogólna wzmianka o kontuzjach w drużynie."
     }
   ]
 }
