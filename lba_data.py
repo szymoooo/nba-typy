@@ -83,17 +83,22 @@ def _fetch_json(url, label, timeout=15):
 
 def get_season_ids(year=None):
     """Zwraca {regular: c_id, playoff: c_id} dla danego sezonu (rok=2025 -> 2025/26).
-    Jeśli year=None, bierze aktualny rok w sezonie (lipiec+ -> rok+1)."""
+    Jeśli year=None, bierze rok startowy sezonu (przed lipcem -> rok-1, od lipca -> rok bieżący).
+    API legabasket.it przechowuje year=2025 dla sezonu 2025/26."""
     if year is None:
         now = datetime.now()
+        # Sezon 2025/26 startuje jesienią 2025; rok startowy = bieżący rok jeśli >= lipiec,
+        # w przeciwnym razie rok poprzedni (np. maj 2026 -> sezon 2025/26 -> year=2025)
         year = now.year if now.month >= 7 else now.year - 1
 
     if _cache["championships"] is None:
         url = f"{LBA_BASE}/championships/get-championships?current=1&items=1000"
         data = _fetch_json(url, "championships")
         if data:
+            # API zwraca klucz "competitions" (nie "championships")
             arr = data if isinstance(data, list) else (
-                data.get("data") or data.get("championships") or []
+                data.get("competitions") or data.get("championships") or
+                data.get("data") or []
             )
             _cache["championships"] = arr if isinstance(arr, list) else []
             _save_debug("championships", data)
@@ -107,10 +112,11 @@ def get_season_ids(year=None):
         if c.get("year") != year:
             continue
         code = c.get("code", "").lower()
-        ctype = c.get("ctype_code", "").lower()
-        if ctype == "rs" or "regular" in code:
+        ctype = (c.get("ctype_code") or "").lower()
+        ctype_name = (c.get("ctype_name") or "").lower()
+        if ctype == "rs" or "regular" in code or "regular" in ctype_name:
             regular_id = c.get("id")
-        elif ctype in ("po", "pf") or "playoff" in code:
+        elif ctype in ("po", "pf") or "playoff" in code or "playoff" in ctype_name:
             playoff_id = c.get("id")
 
     print(f"   [lba] sezon {year}: regular={regular_id} playoff={playoff_id}")

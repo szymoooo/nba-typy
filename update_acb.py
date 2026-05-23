@@ -26,7 +26,7 @@ import requests
 LEAGUE_NAME = "Liga Endesa (ACB)"
 OUTPUT_DIR = "acb"
 DEBUG_DIR = "acb/_debug"
-SOFA_TOURNAMENT_ID = 65   # ACB Liga Endesa w Sofascore
+SOFA_TOURNAMENT_ID = 264  # ACB Liga Endesa w Sofascore (64=2nd Division, 264=Liga Endesa)
 SOFA_SEASON_YEAR = "2025"  # sezon 2025/26
 
 USE_AI_PREDICTIONS = os.environ.get("PLK_LIVE_MODE", "").lower() not in ("true", "1", "yes")
