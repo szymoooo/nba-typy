@@ -171,18 +171,26 @@ def fetch_player_stats(c_id, round_type="last"):
 
 def build_table_from_matches(c_id):
     """Buduje bilans W-L dla każdej drużyny z wyników meczów Regular Season.
+    Liczy też bilans dom/wyjazd oraz zapamiętuje chronologiczną listę wyników
+    (do formy i streaku).
     Używane zamiast brakującego /api/standings."""
     if c_id in _cache["table"]:
         return _cache["table"][c_id]
 
     cal = fetch_calendar(c_id)
     matches = cal.get("matches") or []
-    table = {}  # team_id -> {name, wins, losses, pts_for, pts_against}
+    table = {}  # team_id -> {name, wins, losses, wins_home, losses_home,
+                #              wins_away, losses_away, pts_for, pts_against,
+                #              results: [{date, opponent, score, win, home}]}
 
-    for m in matches:
+    # Sortuj po dacie rosnąco żeby results były chronologiczne
+    def _sort_key(m):
+        return m.get("match_datetime") or ""
+    matches_sorted = sorted(matches, key=_sort_key)
+
+    for m in matches_sorted:
         status = str(m.get("game_status") or "0")
-        if status not in ("2", "3"):  # 2=played, 3=finished (guessing - sprawdź)
-            # Fallback: mecz jest zakończony jeśli ma wynik != 0-0 i datę w przeszłości
+        if status not in ("2", "3"):
             h_score = int(m.get("home_final_score") or 0)
             v_score = int(m.get("visitor_final_score") or 0)
             if h_score == 0 and v_score == 0:
@@ -194,25 +202,45 @@ def build_table_from_matches(c_id):
         v_name = m.get("v_team_name") or "?"
         h_score = int(m.get("home_final_score") or 0)
         v_score = int(m.get("visitor_final_score") or 0)
+        date = (m.get("match_datetime") or "")[:10]
+        day_name = m.get("day_name") or ""
 
-        if h_id not in table:
-            table[h_id] = {"name": h_name, "team_id": h_id, "wins": 0, "losses": 0,
-                           "pts_for": 0, "pts_against": 0}
-        if v_id not in table:
-            table[v_id] = {"name": v_name, "team_id": v_id, "wins": 0, "losses": 0,
-                           "pts_for": 0, "pts_against": 0}
-
-        table[h_id]["pts_for"] += h_score
-        table[h_id]["pts_against"] += v_score
-        table[v_id]["pts_for"] += v_score
-        table[v_id]["pts_against"] += h_score
-
-        if h_score > v_score:
-            table[h_id]["wins"] += 1
-            table[v_id]["losses"] += 1
-        elif v_score > h_score:
-            table[v_id]["wins"] += 1
-            table[h_id]["losses"] += 1
+        for tid, tname, opp_name, opp_score, my_score, is_home in [
+            (h_id, h_name, v_name, v_score, h_score, True),
+            (v_id, v_name, h_name, h_score, v_score, False),
+        ]:
+            if tid not in table:
+                table[tid] = {
+                    "name": tname, "team_id": tid,
+                    "wins": 0, "losses": 0,
+                    "wins_home": 0, "losses_home": 0,
+                    "wins_away": 0, "losses_away": 0,
+                    "pts_for": 0, "pts_against": 0,
+                    "results": [],  # [{date, opponent, score, win, home, day}]
+                }
+            won = my_score > opp_score
+            table[tid]["pts_for"] += my_score
+            table[tid]["pts_against"] += opp_score
+            if won:
+                table[tid]["wins"] += 1
+                if is_home:
+                    table[tid]["wins_home"] += 1
+                else:
+                    table[tid]["wins_away"] += 1
+            else:
+                table[tid]["losses"] += 1
+                if is_home:
+                    table[tid]["losses_home"] += 1
+                else:
+                    table[tid]["losses_away"] += 1
+            table[tid]["results"].append({
+                "date": date,
+                "day": day_name,
+                "opponent": opp_name,
+                "score": f"{my_score}-{opp_score}",
+                "win": won,
+                "home": is_home,
+            })
 
     _cache["table"][c_id] = table
     print(f"   [lba] table/{c_id} obliczona z meczow -> {len(table)} druzyn")
@@ -310,18 +338,30 @@ def logo_url(logo_key, cdn_url=None):
 # ============================================================
 
 def get_top_scorers_by_team(players, team_id, n=3):
-    """Top N strzelców danej drużyny z listy statystyk."""
+    """Top N strzelców danej drużyny z listy statystyk.
+    Zwraca PPG, APG, RPG, MPG jeśli dostępne w API."""
     team = [p for p in (players or []) if p.get("team_id") == team_id]
     team.sort(key=lambda p: float(p.get("score") or 0), reverse=True)
     out = []
     for p in team[:n]:
-        out.append({
+        entry = {
             "name": f"{p.get('name', '')} {p.get('surname', '')}".strip(),
             "player_id": p.get("player_id"),
             "ppg": round(float(p.get("score") or 0), 1),
             "mpg": round(float(p.get("minutes") or 0), 1),
             "presences": p.get("presences"),
-        })
+        }
+        # APG i RPG — legabasket zwraca "assists" i "rebounds" per mecz
+        if p.get("assists") is not None:
+            entry["apg"] = round(float(p.get("assists") or 0), 1)
+        if p.get("rebounds") is not None:
+            entry["rpg"] = round(float(p.get("rebounds") or 0), 1)
+        # Dodatkowe przydatne stats jeśli są
+        if p.get("steals") is not None:
+            entry["spg"] = round(float(p.get("steals") or 0), 1)
+        if p.get("field_goal_percentage") is not None:
+            entry["fg_pct"] = round(float(p.get("field_goal_percentage") or 0), 1)
+        out.append(entry)
     return out
 
 
@@ -383,3 +423,84 @@ def get_series_state(matches, h_id, v_id, h_name, v_name):
             v_wins += 1
     return {"h_name": h_name, "v_name": v_name, "h_wins": h_wins, "v_wins": v_wins,
             "total": h_wins + v_wins}
+
+
+
+# ============================================================
+# Helpers - forma, streak, bilans dom/wyjazd
+# (korzystają z results[] wyliczonych w build_table_from_matches)
+# ============================================================
+
+def get_recent_games(table, team_id, n=5):
+    """Ostatnie N zakończonych meczów drużyny, chronologicznie (najnowszy ostatni).
+    Zwraca listę dict: {date, day, opponent, score, win, home}"""
+    row = table.get(team_id) or {}
+    results = row.get("results") or []
+    return results[-n:] if len(results) >= n else results[:]
+
+
+def get_streak(table, team_id, n=15):
+    """Streak ostatnich N meczów jako string 'WWLWWLW...' (najnowszy z prawej).
+    Używamy W/L żeby było czytelne dla AI."""
+    results = (table.get(team_id) or {}).get("results") or []
+    recent = results[-n:] if len(results) >= n else results[:]
+    return "".join("W" if r["win"] else "L" for r in recent) or "-"
+
+
+def get_home_away_record(table, team_id):
+    """Zwraca dict {wins_home, losses_home, wins_away, losses_away}."""
+    row = table.get(team_id) or {}
+    return {
+        "wins_home":   row.get("wins_home", 0),
+        "losses_home": row.get("losses_home", 0),
+        "wins_away":   row.get("wins_away", 0),
+        "losses_away": row.get("losses_away", 0),
+    }
+
+
+def format_recent_games(results):
+    """Formatuje listę wyników do czytelnego tekstu dla AI."""
+    if not results:
+        return "  - brak danych"
+    lines = []
+    for r in results:
+        where = "dom" if r.get("home") else "wyj"
+        wl = "W" if r.get("win") else "L"
+        day = f" ({r['day']})" if r.get("day") else ""
+        lines.append(f"  - {r['date']}{day} [{where}] vs {r['opponent']}: {r['score']} -> {wl}")
+    return "\n".join(lines)
+
+
+def format_top_scorers(scorers):
+    """Formatuje top scorerów do czytelnego tekstu dla AI."""
+    if not scorers:
+        return "  - brak danych"
+    lines = []
+    for s in scorers:
+        parts = [f"{s['name']}: {s['ppg']} ppg"]
+        if s.get("apg") is not None:
+            parts.append(f"{s['apg']} apg")
+        if s.get("rpg") is not None:
+            parts.append(f"{s['rpg']} rpg")
+        if s.get("spg") is not None:
+            parts.append(f"{s['spg']} spg")
+        if s.get("mpg"):
+            parts.append(f"{s['mpg']} min")
+        if s.get("fg_pct") is not None:
+            parts.append(f"FG {s['fg_pct']}%")
+        if s.get("presences"):
+            parts.append(f"({s['presences']} meczow)")
+        lines.append("  - " + ", ".join(parts))
+    return "\n".join(lines)
+
+
+def get_ppg_papg(table, team_id):
+    """Zwraca (ppg, papg, net_rtg) drużyny."""
+    row = table.get(team_id) or {}
+    g = row.get("wins", 0) + row.get("losses", 0)
+    if g == 0:
+        return 0.0, 0.0, 0.0
+    ppg = round(row.get("pts_for", 0) / g, 1)
+    papg = round(row.get("pts_against", 0) / g, 1)
+    net = round(ppg - papg, 1)
+    return ppg, papg, net
