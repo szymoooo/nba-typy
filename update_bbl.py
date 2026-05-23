@@ -1,6 +1,8 @@
 """
 BBL (easyCredit BBL, Niemcy) Free Picks.
-Sofascore tournament_id=105. Identyczna architektura co update_acb.py.
+
+Zrodlo danych: TheSportsDB public API (key=123, brak auth, nie blokuje CI).
+https://www.thesportsdb.com/league/4441-german-bbl
 
 URUCHOMIENIE LOKALNE:
     export GEMINI_API_KEY=...
@@ -20,14 +22,17 @@ import requests
 LEAGUE_NAME = "easyCredit BBL"
 OUTPUT_DIR = "bbl"
 DEBUG_DIR = "bbl/_debug"
-SOFA_TOURNAMENT_ID = 227  # BBL easyCredit Bundesliga (105=404 Not Found, 227=BBL Germany)
-SOFA_SEASON_ID = 79994     # sezon 25/26 - hardkodowany fallback gdy API niedostepne
-SOFA_SEASON_YEAR = "25/26"
+
+# TheSportsDB - darmowe API, nie blokuje GitHub Actions
+# https://www.thesportsdb.com/league/4441-german-bbl
+TSDB_LEAGUE_ID = "4441"
+TSDB_API_KEY = "123"  # publiczny darmowy klucz
+TSDB_BASE = f"https://www.thesportsdb.com/api/v1/json/{TSDB_API_KEY}"
 
 USE_AI_PREDICTIONS = os.environ.get("PLK_LIVE_MODE", "").lower() not in ("true", "1", "yes")
 AI_MODEL = "gemini-2.5-flash"
 BRAND_TITLE = "BBL PUBLIC HUB"
-BRAND_ACCENT = "#e30613"  # czerwień BBL
+BRAND_ACCENT = "#e30613"
 
 DEFAULT_LOGO = (
     "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>"
@@ -37,32 +42,37 @@ DEFAULT_LOGO = (
 )
 
 CET = timezone(timedelta(hours=2))
-SOFA_HEADERS = {
+TSDB_HEADERS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                    "AppleWebKit/537.36 (KHTML, like Gecko) "
                    "Chrome/123.0.0.0 Safari/537.36"),
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "de,en-US;q=0.9,en;q=0.8",
-    "Referer": "https://www.sofascore.com/",
+    "Accept": "application/json",
 }
 
 _gemini_client = None
 _ai_log = []
 
 
-def _sofa_fetch(url):
+# ==========================================
+# THESPORTSDB HELPERS
+# ==========================================
+
+def _tsdb_fetch(url):
     try:
-        r = requests.get(url, headers=SOFA_HEADERS, timeout=15)
-        return r.json() if r.status_code == 200 else None
+        r = requests.get(url, headers=TSDB_HEADERS, timeout=15)
+        if r.status_code != 200:
+            print(f"   [tsdb] HTTP {r.status_code}: {url}")
+            return None
+        return r.json()
     except Exception as e:
-        print(f"   [sofa-EXC] {type(e).__name__}: {e}")
+        print(f"   [tsdb-EXC] {type(e).__name__}: {e}")
         return None
 
 
 def _save_debug(name, data):
     try:
         os.makedirs(DEBUG_DIR, exist_ok=True)
-        with open(os.path.join(DEBUG_DIR, f"sofa_{name}.json"), "w", encoding="utf-8") as f:
+        with open(os.path.join(DEBUG_DIR, f"tsdb_{name}.json"), "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False, default=str)
     except Exception:
         pass
@@ -72,116 +82,97 @@ def get_today_str():
     return datetime.now(CET).strftime("%Y-%m-%d")
 
 
-def fetch_sofa_season_id():
-    """Pobiera aktualny season_id dla BBL z Sofascore.
-    GitHub Actions IP jest blokowane przez Sofascore - fallback na SOFA_SEASON_ID."""
-    data = _sofa_fetch(f"https://api.sofascore.com/api/v1/unique-tournament/{SOFA_TOURNAMENT_ID}/seasons")
-    if not data:
-        print(f"   [sofa] BBL /seasons niedostepne (blocked?) - fallback id={SOFA_SEASON_ID}")
-        return SOFA_SEASON_ID
-    _save_debug("seasons", data)
-    seasons = data.get("seasons") or []
-    print(f"   [sofa] BBL dostepne sezony: {[(s.get('name'), s.get('year'), s.get('id')) for s in seasons[:5]]}")
-    for s in seasons:
-        year = str(s.get("year") or "")
-        if ("25/26" in year or "2025/2026" in year or
-                year == "2025" or year.startswith("2025")):
-            print(f"   [sofa] BBL sezon: {s.get('name')} (id={s.get('id')})")
-            return s.get("id")
-    if seasons:
-        s = seasons[0]
-        print(f"   [sofa] BBL sezon (fallback latest): {s.get('name')} (id={s.get('id')})")
-        return s.get("id")
-    return SOFA_SEASON_ID
-
-
-def fetch_sofa_games_today(season_id, today_slug):
+def fetch_games_today(today_slug):
+    """Pobiera mecze BBL na dziś z TheSportsDB.
+    Łączy next + last 15 eventów i filtruje po dacie."""
     games = []
-    for kind in ("next", "last"):
-        data = _sofa_fetch(
-            f"https://api.sofascore.com/api/v1/unique-tournament/{SOFA_TOURNAMENT_ID}"
-            f"/season/{season_id}/events/{kind}/0"
-        )
+    seen = set()
+
+    for endpoint in ("eventsnextleague", "eventspastleague"):
+        data = _tsdb_fetch(f"{TSDB_BASE}/{endpoint}.php?id={TSDB_LEAGUE_ID}")
         if not data:
             continue
-        if kind == "next":
-            _save_debug("events_next", data)
+        if endpoint == "eventsnextleague":
+            _save_debug("next", data)
         for ev in data.get("events") or []:
-            ts = ev.get("startTimestamp")
-            if not ts:
+            eid = ev.get("idEvent")
+            if eid in seen:
                 continue
-            try:
-                dt = datetime.fromtimestamp(int(ts), tz=CET)
-            except Exception:
-                continue
-            if dt.strftime("%Y-%m-%d") == today_slug:
+            seen.add(eid)
+            if ev.get("dateEvent") == today_slug:
                 games.append(ev)
-    print(f"   [sofa] BBL mecze na {today_slug}: {len(games)}")
+
+    print(f"   [tsdb] BBL mecze na {today_slug}: {len(games)}")
     return games
 
 
-def fetch_sofa_standings(season_id):
-    data = _sofa_fetch(
-        f"https://api.sofascore.com/api/v1/unique-tournament/{SOFA_TOURNAMENT_ID}"
-        f"/season/{season_id}/standings/total"
+def fetch_standings():
+    """Pobiera tabelę BBL z TheSportsDB -> {team_name: win_pct}."""
+    data = _tsdb_fetch(
+        f"{TSDB_BASE}/lookuptable.php?l={TSDB_LEAGUE_ID}&s=2025-2026"
     )
     if not data:
         return {}
-    _save_debug("standings", data)
+    _save_debug("table", data)
     pct_map = {}
-    for table in data.get("standings") or []:
-        for row in table.get("rows") or []:
-            team = row.get("team") or {}
-            tid = team.get("id")
-            wins = int(row.get("wins", 0) or 0)
-            losses = int(row.get("losses", 0) or 0)
-            total = wins + losses
-            if tid:
-                pct_map[tid] = (wins / total) if total > 0 else 0.0
-    print(f"   [sofa] BBL standings: {len(pct_map)} druzyn")
+    for row in data.get("table") or []:
+        name = row.get("strTeam") or ""
+        played = int(row.get("intPlayed") or 0)
+        wins = int(row.get("intWin") or 0)
+        if name and played > 0:
+            pct_map[name] = wins / played
+    print(f"   [tsdb] BBL standings: {len(pct_map)} druzyn")
     return pct_map
 
 
-def sofa_game_status(ev):
-    t = ((ev.get("status") or {}).get("type") or "").lower()
-    if t in ("notstarted", "scheduled"):
+def game_status(ev):
+    """Zwraca 'pre' | 'in' | 'post'."""
+    status = (ev.get("strStatus") or ev.get("strProgress") or "").lower()
+    if status in ("match finished", "ft", "aet", "finished"):
+        return "post"
+    if status in ("", "not started", "ns"):
         return "pre"
-    if t in ("inprogress", "live"):
-        return "in"
-    return "post"
+    # live / in progress
+    return "in"
 
 
-def sofa_fmt_time(ev):
-    ts = ev.get("startTimestamp")
-    if not ts:
-        return ""
+def fmt_time(ev):
+    """Godzina lokalnie (CET) z pola strTimeLocal np. '16:30:00' -> '16:30 CET'."""
+    t = (ev.get("strTimeLocal") or ev.get("strTime") or "")
+    if t and len(t) >= 5:
+        return t[:5] + " CET"
+    return ""
+
+
+def team_logo(ev, side):
+    """URL logo drużyny (home/away) z TheSportsDB."""
+    key = "strHomeTeamBadge" if side == "home" else "strAwayTeamBadge"
+    return ev.get(key) or DEFAULT_LOGO
+
+
+def score(ev, side):
+    key = "intHomeScore" if side == "home" else "intAwayScore"
+    val = ev.get(key)
     try:
-        return datetime.fromtimestamp(int(ts), tz=CET).strftime("%H:%M") + " CET"
-    except Exception:
-        return ""
-
-
-def sofa_score(ev, side):
-    key = "homeScore" if side == "home" else "awayScore"
-    sc = ev.get(key) or {}
-    if isinstance(sc, dict):
-        v = sc.get("current")
-        if v is None:
-            v = sc.get("display")
-        try:
-            return int(v) if v is not None else 0
-        except Exception:
-            return 0
-    try:
-        return int(sc)
+        return int(val) if val is not None else 0
     except Exception:
         return 0
 
 
-def sofa_team_logo(team):
-    tid = (team or {}).get("id")
-    return f"https://api.sofascore.app/api/v1/team/{tid}/image" if tid else DEFAULT_LOGO
+def pct_for_team(pct_map, team_name):
+    """Szuka win% dla druzyny - dopasowanie po nazwie (ignoruje case/prefix)."""
+    if team_name in pct_map:
+        return pct_map[team_name]
+    tl = team_name.lower()
+    for k, v in pct_map.items():
+        if k.lower() == tl or k.lower() in tl or tl in k.lower():
+            return v
+    return 0.0
 
+
+# ==========================================
+# AI
+# ==========================================
 
 def _get_gemini():
     global _gemini_client
@@ -215,14 +206,11 @@ def _norm_name(ai_name, h, a):
     return None
 
 
-def predict_ai(home, away, h_pct, a_pct, ev, today):
+def predict_ai(h_name, a_name, h_pct, a_pct, ev, today):
     client = _get_gemini()
     if not client:
         return None
-    h_name = home.get("name", "Home")
-    a_name = away.get("name", "Away")
-    phase = ((ev.get("roundInfo") or {}).get("name") or
-             str((ev.get("roundInfo") or {}).get("round") or "Sezon zasadniczy"))
+    phase = ev.get("strRound") or ev.get("intRound") or "Sezon zasadniczy"
 
     prompt = f"""
 Mecz BBL (easyCredit Bundesliga, Niemcy): {a_name} (gość) vs {h_name} (gospodarz)
@@ -230,22 +218,21 @@ Faza: {phase}
 Dzisiejsza data: {today}
 
 Bilans sezon 2025/26 BBL:
-  - {h_name}: {h_pct:.0%} skuteczność
-  - {a_name}: {a_pct:.0%} skuteczność
+  - {h_name}: {h_pct:.0%} skutecznosc
+  - {a_name}: {a_pct:.0%} skutecznosc
 
-ZADANIE: Wytypuj zwycięzcę. Użyj Google Search:
-1. Forma ostatnich 5 meczów obu drużyn w BBL
+ZADANIE: Wytypuj zwyciezce. Uzyj Google Search:
+1. Forma ostatnich 5 meczow obu druzyn w BBL
 2. Aktualne kontuzje ({today}) - basketball-bundesliga.de, sport1.de
 3. H2H w tym sezonie
 
 Odpowiedz TYLKO czystym JSON (bez markdown):
 {{
-  "winner_name": "<dokładna nazwa: '{h_name}' lub '{a_name}'>",
+  "winner_name": "<dokladna nazwa: '{h_name}' lub '{a_name}'>",
   "confidence": <1-10>,
   "reasoning": "<2-3 zdania po polsku>",
   "key_factors": ["<czynnik 1>", "<czynnik 2>", "<czynnik 3>"],
-  "injury_notes": "<co znalazłeś na dziś lub 'brak istotnych braków'>",
-  "agreement_with_odds": "no_odds"
+  "injury_notes": "<co znalazles na dzis lub 'brak istotnych brakow'>"
 }}
 """
     try:
@@ -288,36 +275,33 @@ Odpowiedz TYLKO czystym JSON (bez markdown):
 
 
 def predict(ev, pct_map, today_slug):
-    home = ev.get("homeTeam") or {}
-    away = ev.get("awayTeam") or {}
-    h_name = home.get("name", "Home")
-    a_name = away.get("name", "Away")
-    h_id = home.get("id")
-    a_id = away.get("id")
-    h_pct = pct_map.get(h_id, 0.0)
-    a_pct = pct_map.get(a_id, 0.0)
+    h_name = ev.get("strHomeTeam", "Home")
+    a_name = ev.get("strAwayTeam", "Away")
+    h_pct = pct_for_team(pct_map, h_name)
+    a_pct = pct_for_team(pct_map, a_name)
     formula = h_name if (h_pct + 0.05) > a_pct else a_name
 
-    state = sofa_game_status(ev)
-    if state == "post":
+    status = game_status(ev)
+    if status == "post":
         return formula
 
-    ts = ev.get("startTimestamp")
-    if ts:
-        try:
-            if datetime.fromtimestamp(int(ts), tz=CET) <= datetime.now(CET):
-                print(f"   [TIME-skip] {a_name} vs {h_name} -> formula")
-                return formula
-        except Exception:
-            pass
+    # Nie typuj jak mecz już trwa
+    date_str = ev.get("strTimestamp") or f"{today_slug}T00:00:00"
+    try:
+        game_dt = datetime.fromisoformat(date_str).replace(tzinfo=CET)
+        if game_dt <= datetime.now(CET):
+            print(f"   [TIME-skip] {a_name} vs {h_name} -> formula")
+            return formula
+    except Exception:
+        pass
 
     if USE_AI_PREDICTIONS:
-        result = predict_ai(home, away, h_pct, a_pct, ev, today_slug)
+        result = predict_ai(h_name, a_name, h_pct, a_pct, ev, today_slug)
         if result:
             print(f"   [AI] {a_name} vs {h_name} -> {result['winner']} (conf {result['confidence']}/10)")
             _ai_log.append({
                 "matchup": f"{a_name} @ {h_name}",
-                "phase": ((ev.get("roundInfo") or {}).get("name") or "?"),
+                "phase": str(ev.get("strRound") or "?"),
                 "ai_pick": result["winner"],
                 "formula_pick": formula,
                 "agreement": result["winner"] == formula,
@@ -348,8 +332,9 @@ def save_ai_log(today_slug):
         if not ai:
             print(f"\n   [{i}] {m['matchup']}: BRAK AI -> {m.get('formula_pick')}")
             continue
+        ag = "ZGODNE" if m.get("agreement") else "ROZNI sie od formuly"
         print(f"\n   [{i}] {m['matchup']}  [{m.get('phase') or '-'}]")
-        print(f"       AI pick: {ai}  (conf {m.get('confidence')}/10)")
+        print(f"       AI pick: {ai}  (conf {m.get('confidence')}/10)  [{ag}]")
         print(textwrap.fill(m.get("reasoning") or "(brak)", width=72,
                             initial_indent="       Reason:  ",
                             subsequent_indent="                "))
@@ -361,8 +346,12 @@ def save_picks(picks, today_slug):
     with open(os.path.join(OUTPUT_DIR, "propozycje_typow.txt"), "w", encoding="utf-8") as f:
         f.write(f"# BBL typy na {today_slug}\n")
         f.write("\n".join(picks))
-    print(f"   Zapisano {len(picks)} typów")
+    print(f"   Zapisano {len(picks)} typow")
 
+
+# ==========================================
+# HTML
+# ==========================================
 
 CSS = f"""
 :root{{--bg:#0f172a;--card:#1e293b;--acc:{BRAND_ACCENT};--tx:#f8fafc;
@@ -406,30 +395,28 @@ def build_cards(games, pct_map, today_slug):
     summaries = []
     for ev in games:
         try:
-            home = ev.get("homeTeam") or {}
-            away = ev.get("awayTeam") or {}
-            h_name = home.get("name", "?")
-            a_name = away.get("name", "?")
-            h_logo = sofa_team_logo(home)
-            a_logo = sofa_team_logo(away)
-            h_score = sofa_score(ev, "home")
-            a_score = sofa_score(ev, "away")
-            state = sofa_game_status(ev)
+            h_name = ev.get("strHomeTeam", "?")
+            a_name = ev.get("strAwayTeam", "?")
+            h_logo = team_logo(ev, "home")
+            a_logo = team_logo(ev, "away")
+            h_score = score(ev, "home")
+            a_score = score(ev, "away")
+            status = game_status(ev)
             pick = predict(ev, pct_map, today_slug)
 
-            if state == "pre":
-                tip = sofa_fmt_time(ev)
-                status = tip or "Scheduled"
+            if status == "pre":
+                tip = fmt_time(ev)
+                status_label = tip or "Scheduled"
                 score_html = '<span class="vs">VS</span>'
                 picks.append(f"{a_name} @ {h_name} -> Typ: {pick}")
                 summaries.append(f"{a_name} vs {h_name}: AI prediction - {pick} to win")
                 outcome = ""
-            elif state == "in":
-                status = "LIVE"
+            elif status == "in":
+                status_label = "LIVE"
                 score_html = f'<span class="score">{a_score}</span><span class="vs">:</span><span class="score">{h_score}</span>'
                 outcome = ""
             else:
-                status = "Final"
+                status_label = "Final"
                 actual = h_name if h_score > a_score else (a_name if a_score > h_score else "")
                 hc = "score win" if h_score > a_score else ("score lose" if h_score < a_score else "score")
                 ac = "score win" if a_score > h_score else ("score lose" if a_score < h_score else "score")
@@ -437,10 +424,10 @@ def build_cards(games, pct_map, today_slug):
                 outcome = (' <span style="color:#10b981">&#10003;</span>' if actual and pick == actual
                            else (' <span style="color:#ef4444">&#10007;</span>' if actual else ""))
 
-            live_class = " live" if state == "in" else ""
+            live_class = " live" if status == "in" else ""
             cards.append(f"""
             <div class="card">
-              <div class="card-h{live_class}">{status}</div>
+              <div class="card-h{live_class}">{status_label}</div>
               <div class="matchup">
                 <div class="team">
                   <img src="{a_logo}" alt="{a_name}" onerror="this.src='{DEFAULT_LOGO}'">
@@ -458,7 +445,7 @@ def build_cards(games, pct_map, today_slug):
               </div>
             </div>""")
         except Exception as e:
-            print(f"   Błąd przy meczu BBL: {e}")
+            print(f"   Blad przy meczu BBL: {e}")
     return "".join(cards), picks, summaries
 
 
@@ -481,15 +468,19 @@ def build_page(title_date, cards_html, summaries):
       <div class="sub">{LEAGUE_NAME} &middot; Live Scores &amp; AI Model Picks &mdash; {title_date}</div>
     </header>
     <div class="grid">
-      {cards_html or '<div class="empty"><span class="ico">&#127936;</span>Brak meczów BBL na dziś.</div>'}
+      {cards_html or '<div class="empty"><span class="ico">&#127936;</span>Brak meczow BBL na dzis.</div>'}
     </div>
     <div class="footer">
-      Last updated: {datetime.now().strftime("%B %d, %Y at %H:%M")} &middot; Data: Sofascore
+      Last updated: {datetime.now().strftime("%B %d, %Y at %H:%M")} &middot; Data: TheSportsDB
     </div>
   </div>
 </body>
 </html>"""
 
+
+# ==========================================
+# MAIN
+# ==========================================
 
 def main():
     print(f"=== URUCHAMIAM BBL UPDATE ({datetime.now().strftime('%H:%M')}) ===")
@@ -503,16 +494,10 @@ def main():
         print(f"   Tryb: AI ({AI_MODEL})")
     else:
         print(f"   Tryb: FORMULA W-L")
+    print(f"   Zrodlo: TheSportsDB (league {TSDB_LEAGUE_ID})")
 
-    season_id = fetch_sofa_season_id()
-    if not season_id:
-        print("!! Brak season_id BBL - pusta strona")
-        with open(os.path.join(OUTPUT_DIR, "index.html"), "w") as f:
-            f.write(build_page(today_str, "", []))
-        return
-
-    pct_map = fetch_sofa_standings(season_id)
-    games = fetch_sofa_games_today(season_id, today_slug)
+    pct_map = fetch_standings()
+    games = fetch_games_today(today_slug)
 
     cards_html, picks, summaries = build_cards(games, pct_map, today_slug)
 
@@ -524,7 +509,7 @@ def main():
     if picks:
         save_picks(picks, today_slug)
     else:
-        print("   Brak typów pre-game.")
+        print("   Brak typow pre-game.")
 
     save_ai_log(today_slug)
     print(f"\n=== GOTOWE. Otworz {out} ===")
