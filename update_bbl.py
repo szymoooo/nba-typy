@@ -20,7 +20,7 @@ import requests
 LEAGUE_NAME = "easyCredit BBL"
 OUTPUT_DIR = "bbl"
 DEBUG_DIR = "bbl/_debug"
-SOFA_TOURNAMENT_ID = 105
+SOFA_TOURNAMENT_ID = 227  # BBL easyCredit Bundesliga (105=404 Not Found, 227=BBL Germany)
 SOFA_SEASON_YEAR = "2025"
 
 USE_AI_PREDICTIONS = os.environ.get("PLK_LIVE_MODE", "").lower() not in ("true", "1", "yes")
