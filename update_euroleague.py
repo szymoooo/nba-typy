@@ -551,6 +551,50 @@ def predict_winner(home, away, pct_map, game_context, state="pre"):
         return formula_pick
 
 
+def _print_ai_summary(league_label):
+    """Wypisuje w terminalu pelny dev-print analiz AI: pick, conf,
+    reasoning, key_factors, agreement z formula. Strona publiczna pokazuje
+    tylko pick - to jest dla admina do weryfikacji logiki AI."""
+    import textwrap
+    if not _ai_log:
+        return
+    bar = "=" * 72
+    print(f"\n{bar}")
+    print(f"   ANALIZY AI / DEV PRINT  ({league_label})")
+    print(f"{bar}")
+    for i, m in enumerate(_ai_log, 1):
+        matchup = m.get("matchup", "?")
+        phase = m.get("phase") or "-"
+        ai_pick = m.get("ai_pick")
+        formula_pick = m.get("formula_pick", "-")
+        if ai_pick is None:
+            print(f"\n   [{i}] {matchup}  (phase: {phase})")
+            print(f"       AI:        BRAK ODPOWIEDZI -> fallback formula")
+            print(f"       Formula:   {formula_pick}")
+            note = m.get("note")
+            if note:
+                print(f"       Note:      {note}")
+            continue
+        conf = m.get("confidence", "?")
+        agreement = "ZGODNE z formula" if m.get("agreement") else "ROZNI sie od formuly"
+        reasoning = (m.get("reasoning") or "").strip() or "(brak)"
+        factors = m.get("key_factors") or []
+        print(f"\n   [{i}] {matchup}  (phase: {phase})")
+        print(f"       AI pick:   {ai_pick}   (conf {conf}/10)")
+        print(f"       Formula:   {formula_pick}   [{agreement}]")
+        wrapped = textwrap.fill(
+            reasoning, width=72,
+            initial_indent="       Reason:    ",
+            subsequent_indent="                  ",
+        )
+        print(wrapped)
+        if factors:
+            print(f"       Czynniki:")
+            for f in factors:
+                print(f"         - {f}")
+    print(f"\n{bar}\n")
+
+
 def save_ai_log(today_slug):
     """Zapisuje pelny log analiz AI do output/ai_analyses.json (dla developera)."""
     if not _ai_log:
@@ -565,6 +609,7 @@ def save_ai_log(today_slug):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
     print(f"   Zapisano analizy AI do {path}")
+    _print_ai_summary("EuroLeague")
 
 
 # ==========================================
