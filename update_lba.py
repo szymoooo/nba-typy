@@ -220,6 +220,7 @@ def predict_ai(match, table, all_matches, player_stats, today):
     prompt = build_prompt(match, table, all_matches, player_stats, today)
     try:
         from google.genai import types
+        resp = None
         for attempt in range(3):
             try:
                 resp = client.models.generate_content(
@@ -235,6 +236,8 @@ def predict_ai(match, table, all_matches, player_stats, today):
                     time.sleep(5 * (attempt + 1))
                     continue
                 raise
+        if resp is None:
+            return None
         text = (resp.text or "").strip()
         m = re.search(r'\{.*\}', text, re.DOTALL)
         if not m:
