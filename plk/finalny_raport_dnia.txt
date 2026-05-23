@@ -1,24 +1,42 @@
---- AUDYT PLK LIVE (2026-05-23 09:10 CET) ---
-Oto analiza Twoich typów PLK na dzień 2026-05-23:
+--- AUDYT PLK LIVE (2026-05-23 09:30 CET) ---
+Analiza meczu: AMW Arka Gdynia (gość) @ WKS Śląsk Wrocław (gospodarz)
 
 ---
 
-**AMW Arka Gdynia @ WKS Śląsk Wrocław**
-*   **Mecz:** Ćwierćfinał play-off, Mecz #5. Seria jest remisowa 2-2.
-*   **Data i Godzina:** 23.05.2026, 19:00.
-*   **Miejsce:** Hala Orbita, Wrocław. Śląsk Wrocław ma przewagę własnego parkietu w tym decydującym meczu.
+### 1. Kluczowe braki w składach:
 
-*   **Kluczowe braki w składach (2026-05-23):**
-    *   **AMW Arka Gdynia:**
-        *   Milan Barbitch: Doznał kontuzji stawu skokowego przed play-offami. Jednakże, badania nie wykazały uszkodzeń więzadeł ani struktur kostnych, a zawodnik wrócił do gry i był kluczową postacią w meczach 3 i 4, przyczyniając się do wyrównania serii na 2-2. ✅ Gotowy do gry.
-        *   Brak aktualnych raportów o innych brakach w składzie.
-    *   **WKS Śląsk Wrocław:**
-        *   Issuf Sanon: Kontuzjowany od 1 maja 2026 r. (komunikat medyczny). Został określony jako "ważny zawodnik". Brak aktualnych informacji o jego powrocie na mecz 23.05.2026. ⚠️ Prawdopodobna absencja lub ograniczona dyspozycyjność.
-        *   Inne doniesienia o kontuzjach w WKS Śląsk Wrocław (Marc Llinares, Petr Schwarz, Adrian Łyszczarz, Patryk Janasik) dotyczą sekcji piłkarskiej lub oldbojów i nie są związane z drużyną koszykówki. Brak aktualnych raportów o innych brakach w składzie koszykarskiego WKS Śląsk Wrocław.
+*   **WKS Śląsk Wrocław:**
+    *   ❌ Issuf Sanon (rozgrywający/rzucający) – Złamanie zmęczeniowe V kości śródstopia, kontuzja zgłoszona 1 maja 2026. Powrót do gry zależny od procesu gojenia i rehabilitacji. Jest to kluczowy brak, ponieważ Sanon jest jednym z czołowych strzelców drużyny (11.2 Pkt/mecz w sezonie 2025/2026).
+    *   Brak innych aktualnych raportów o brakach w składzie drużyny koszykarskiej WKS Śląsk Wrocław. Wyszukiwania dotyczące kontuzji piłkarzy (Adrian Łyszczarz, Patryk Janasik, Petr Schwarz) lub drużyny oldbojów WKS Śląsk Wrocław nie są związane z meczem koszykarskim.
+*   **AMW Arka Gdynia:**
+    *   ✅ Milan Barbitch (rozgrywający/rzucający) – Kontuzja stawu skokowego przed play-offami. Wrócił do składu na mecz nr 3 (18.05.2026) i zagrał w meczu nr 4 (20.05.2026), zdobywając 18 punktów. Jest dostępny do gry.
+    *   Brak aktualnych raportów o innych brakach w składzie.
 
-*   **Werdykt dla typu AMW Arka Gdynia:** [⚠️ RYZYKOWNY]
-    *   To decydujący Mecz 5 ćwierćfinału, gdzie emocje i stawka są najwyższe.
-    *   Śląsk Wrocław gra u siebie, co jest znaczącą przewagą w play-offach.
-    *   Arka Gdynia pokazała ogromną wolę walki, wracając z wyniku 0-2 na 2-2, głównie dzięki powrotowi Milana Barbitcha.
-    *   Potencjalna absencja Issufa Sanona w Śląsku jest znaczącym osłabieniem dla drużyny gospodarzy.
-    *   Mimo momentum Arki i możliwej absencji kluczowego gracza Śląska, wygrana na wyjeździe w decydującym meczu serii do trzech zwycięstw jest zawsze trudnym zadaniem.
+### 2. Aktualna forma top scorerów:
+
+*   **WKS Śląsk Wrocław:**
+    *   **Kadre Gray** (rozgrywający): Lider punktowy drużyny w sezonie (15.7 Pkt/mecz). W meczu nr 3 zdobył 7 punktów. Statystyki z meczu nr 4 nie są dostępne dla niego indywidualnie jako czołowego strzelca, ale ogólnie drużyna przegrała.
+    *   **Jakub Nizioł** (niski/silny skrzydłowy): W sezonie 10.3 Pkt/mecz. Bardzo dobra forma w ostatnich meczach serii: 20 punktów w meczu nr 4 i 19 punktów w meczu nr 3.
+    *   **Noah Kirkwood** (niski skrzydłowy): W sezonie 12.3 Pkt/mecz. 11 punktów w meczu nr 4 i 8 punktów w meczu nr 3.
+    *   **Stefan Djordjević** (środkowy): W sezonie 12.2 Pkt/mecz. Zdobył 9 punktów w meczu nr 3.
+*   **AMW Arka Gdynia:**
+    *   **Jarosław Zyskowski** (silny skrzydłowy): Lider punktowy drużyny w sezonie (13.8 Pkt/mecz). Dobra forma w ostatnich meczach: 14 punktów w meczu nr 4 i 11 punktów w meczu nr 3.
+    *   **Michael Okauru** (rzucający obrońca): W sezonie 11.7 Pkt/mecz. Zdobył 10 punktów w meczu nr 4.
+    *   **Jakub Garbacz** (niski skrzydłowy): W sezonie 11.1 Pkt/mecz. Zdobył 5 punktów w meczu nr 4 i 11 punktów w meczu nr 3.
+    *   **Krešimir Ljubičić** (środkowy): W sezonie 11 Pkt/mecz. Zdobył 10 punktów w meczu nr 3.
+    *   **Luke Barrett** (niski skrzydłowy): W sezonie 8.9 Pkt/mecz. Fenomenalna forma w ostatnich meczach serii: 22 punkty w meczu nr 4 i 25 punktów w meczu nr 3.
+    *   **Milan Barbitch** (rozgrywający/rzucający): Po powrocie po kontuzji, zdobył 18 punktów w meczu nr 4 i 5 punktów w meczu nr 3.
+    *   **Kamil Łączyński** (rozgrywający): Zdobył 1 punkt w meczu nr 4 i 11 punktów w meczu nr 3.
+    *   **Einaras Tubutis** (silny skrzydłowy): Zdobył 13 punktów w meczu nr 3.
+
+### 3. Werdykt:
+
+**⚠️ RYZYKOWNY**
+
+**Uzasadnienie:**
+*   **Kontuzje:** WKS Śląsk Wrocław ma osłabiony skład brakiem Issufa Sanona, co jest znaczącą stratą dla ofensywy.
+*   **Momentum:** AMW Arka Gdynia zbudowała silne momentum, wygrywając dwa ostatnie mecze i doprowadzając do remisu w serii (2-2).
+*   **Decydujący mecz:** Mecz nr 5 w serii play-off jest decydującym spotkaniem, co zwiększa wagę przewagi własnego parkietu dla Śląska. Mimo to, Arka udowodniła, że potrafi grać pod presją.
+*   **Forma strzelców:** Luke Barrett z Arki jest w wyśmienitej formie w tej serii play-off, zdobywając odpowiednio 25 i 22 punkty w ostatnich dwóch meczach. Milan Barbitch również wrócił do formy po kontuzji, notując 18 punktów w meczu nr 4. Po stronie Śląska, Jakub Nizioł także prezentuje się bardzo dobrze, co jest kluczowe w obliczu kontuzji Sanona.
+
+Typ na AMW Arka Gdynia jest ryzykowny, pomimo ich ostatniego momentum. Śląsk Wrocław gra u siebie w decydującym meczu, co jest dużym atutem, a kontuzja Issufa Sanona, choć osłabia, nie przekreśla ich szans całkowicie, zwłaszcza że inni zawodnicy, jak Jakub Nizioł, przejmują odpowiedzialność punktową. Arka pokazała jednak niesamowitą wolę walki i potrafiła odwrócić losy serii.

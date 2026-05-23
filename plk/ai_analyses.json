@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T07:10:28.174174",
+  "generated_at": "2026-05-23T07:30:26.656062",
   "date": "2026-05-23",
   "league": "PLK",
   "model": "gemini-2.5-flash",
@@ -13,15 +13,14 @@
       "ai_pick": "AMW Arka Gdynia",
       "formula_pick": "WKS Śląsk Wrocław",
       "agreement": false,
-      "confidence": 8,
-      "reasoning": "AMW Arka Gdynia ma silne momentum po wygraniu dwóch ostatnich meczów serii, w tym dramatycznego zwycięstwa po dogrywce w meczu numer 4, gdzie odrobiła znaczącą stratę. Dodatkowo, WKS Śląsk Wrocław prawdopodobnie nadal będzie musiał radzić sobie bez kontuzjowanego Issufa Sanona, co jest poważnym osłabieniem dla gospodarzy. Mimo przewagi własnej hali, Śląsk przegrał oba poprzednie mecze ćwierćfinałowe u siebie.",
+      "confidence": 7,
+      "reasoning": "AMW Arka Gdynia zbudowała silne momentum, wygrywając dwa ostatnie mecze ćwierćfinałowej serii, w tym decydujący mecz 4 po dogrywce. Powrót Milana Barbitcha znacząco wzmocnił drużynę Arki, która nie przegrała z nim w składzie w tej fazie play-off. Mimo przewagi własnego parkietu WKS Śląska Wrocław, obecna forma i psychologiczna przewaga Arki mogą być decydujące.",
       "key_factors": [
-        "Silne momentum AMW Arki Gdynia (2 zwycięstwa z rzędu w serii)",
-        "Poważna kontuzja Issufa Sanona w zespole WKS Śląsk Wrocław",
-        "Zwycięstwo AMW Arki Gdynia po dramatycznej dogrywce w meczu numer 4, budujące morale",
-        "WKS Śląsk Wrocław przegrał ostatnie dwa mecze u siebie w tej serii"
+        "Momentum AMW Arka Gdynia (2 zwycięstwa z rzędu w serii ćwierćfinałowej)",
+        "Powrót Milana Barbitcha do składu Arki i jego wpływ na wyniki drużyny",
+        "Przewaga własnego parkietu WKS Śląsk Wrocław w decydującym meczu numer 5"
       ],
-      "injury_notes": "WKS Śląsk Wrocław prawdopodobnie nadal będzie bez Issufa Sanona, który na dzień 1 maja 2026 roku zmagał się ze złamaniem zmęczeniowym V kości śródstopia; jego powrót zależy od procesu gojenia i rehabilitacji. Milan Barbitch z AMW Arki Gdynia wrócił do gry w meczu numer 3 i był kluczowy w meczu numer 4.",
+      "injury_notes": "Milan Barbitch (AMW Arka Gdynia) wrócił do składu w trzecim meczu serii po kontuzji kostki i od tego czasu jego drużyna wygrała dwa spotkania. Status Issufa Sanona (WKS Śląsk Wrocław), który był kontuzjowany 1 maja, jest niejasny na dzień meczu, jednak Kadre Gray (WKS Śląsk Wrocław) uzyskał 5 fauli w poprzednim meczu, co może mieć wpływ na dzisiejszą grę.",
       "agreement_with_odds": "no_odds"
     }
   ]
