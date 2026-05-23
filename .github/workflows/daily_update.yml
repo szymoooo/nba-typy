@@ -1,13 +1,26 @@
 name: NBA + EuroLeague + PLK Public Media Bot
 on:
   schedule:
+    # ---- NBA ----
     # Co 20 minut w godzinach 17:00-08:00 UTC (19:00-10:00 CET)
-    # czyli pokrywa wszystkie mecze NBA grane w nocy polskiego czasu
-    - cron: '0,20,40 17-23 * * *'   # 17:00-23:59 UTC
-    - cron: '0,20,40 0-8  * * *'    # 00:00-08:59 UTC
-    # EuroLeague + PLK: w godzinach europejskich (16:00-23:00 CET = 14:00-21:00 UTC)
-    - cron: '15 14-21 * * *'        # raz na godzine, w okolicach :15
+    - cron: '0,20,40 17-23 * * *'
+    - cron: '0,20,40 0-8  * * *'
+
+    # ---- EuroLeague / PLK - pełna analiza ----
+    # Raz dziennie rano (08:00 UTC = 10:00 CET) - generuj typy z AI
+    - cron: '0 8 * * *'
+
+    # ---- EuroLeague / PLK - live tracking ----
+    # Co 15 minut w godzinach europejskich (14:00-22:00 UTC = 16:00-00:00 CET)
+    # Obsługa: pre-game check (30-90 min przed), live scores, post-game wyniki
+    - cron: '0,15,30,45 14-22 * * *'
+
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Tryb (full/live/pre-game, pusty = auto)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -29,7 +42,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests google-genai pytz
 
-      # ============= NBA =============
+      # ============= NBA (zawsze pełny run w nocy) =============
       - name: Run NBA ESPN Media Model
         run: python update_nba.py
 
@@ -43,7 +56,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python update_euroleague.py
-        continue-on-error: true   # nie psuj NBA jak EL coś sypnie
+        continue-on-error: true
 
       - name: Run EuroLeague Lineup Audit
         env:
@@ -51,18 +64,71 @@ jobs:
         run: python euroleague_audit.py
         continue-on-error: true
 
-      # ============= PLK (Orlen Basket Liga) =============
-      - name: Run PLK AI Picks
+      # ============= PLK - wykryj tryb =============
+      - name: Detect PLK run mode
+        id: plk_mode
+        run: |
+          # Jesli workflow_dispatch z wymuszonym trybem - uzyj go
+          FORCED="${{ github.event.inputs.mode }}"
+          if [ -n "$FORCED" ]; then
+            echo "mode=$FORCED" >> $GITHUB_OUTPUT
+            echo "PLK mode (forced): $FORCED"
+          else
+            python run_mode.py plk
+            MODE=$(cat .run_mode_plk 2>/dev/null || echo "full")
+            echo "mode=$MODE" >> $GITHUB_OUTPUT
+            echo "PLK mode (auto): $MODE"
+          fi
+        continue-on-error: true
+
+      # ---- PLK: full (typy + audit z AI) ----
+      - name: PLK Full - AI Picks
+        if: |
+          steps.plk_mode.outputs.mode == 'full' ||
+          steps.plk_mode.outputs.mode == ''
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python update_plk.py
-        continue-on-error: true   # nie psuj NBA/EL jak PLK cos sypnie
+        continue-on-error: true
 
-      - name: Run PLK Lineup Audit
+      - name: PLK Full - Lineup Audit
+        if: |
+          steps.plk_mode.outputs.mode == 'full' ||
+          steps.plk_mode.outputs.mode == ''
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python plk_audit.py
         continue-on-error: true
+
+      # ---- PLK: pre-game (ostatni check przed meczem - kontuzje!) ----
+      - name: PLK Pre-Game - Lineup Audit ONLY
+        if: steps.plk_mode.outputs.mode == 'pre-game'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          echo "=== PRE-GAME CHECK: audit kontuzji przed startem meczu ==="
+          python plk_audit.py
+        continue-on-error: true
+
+      # ---- PLK: live + post (tylko scores, zero Gemini) ----
+      - name: PLK Live/Post - Scores Update (no AI)
+        if: |
+          steps.plk_mode.outputs.mode == 'live' ||
+          steps.plk_mode.outputs.mode == 'post'
+        env:
+          PLK_LIVE_MODE: "true"
+        run: |
+          echo "=== LIVE/POST UPDATE: tylko wyniki, bez AI ==="
+          python update_plk.py
+        continue-on-error: true
+
+      # ---- PLK: skip / idle ----
+      - name: PLK Skip
+        if: |
+          steps.plk_mode.outputs.mode == 'skip' ||
+          steps.plk_mode.outputs.mode == 'idle'
+        run: |
+          echo "PLK: tryb ${{ steps.plk_mode.outputs.mode }} - pomijam (pick już jest lub brak meczów)"
 
       # ============= Commit =============
       - name: Commit and Push
@@ -70,19 +136,12 @@ jobs:
           git config --global user.name 'ESPN Bot'
           git config --global user.email 'bot@espn.nba'
 
-          # Hub i wspolne pliki
-          [ -f index.html ]               && git add index.html
-          [ -f sitemap.xml ]              && git add sitemap.xml
-          [ -f robots.txt ]               && git add robots.txt
-
-          # NBA
-          [ -d nba ]                      && git add nba/
-
-          # EuroLeague
-          [ -d euroleague ]               && git add euroleague/
-
-          # PLK
-          [ -d plk ]                      && git add plk/
+          [ -f index.html ]     && git add index.html
+          [ -f sitemap.xml ]    && git add sitemap.xml
+          [ -f robots.txt ]     && git add robots.txt
+          [ -d nba ]            && git add nba/
+          [ -d euroleague ]     && git add euroleague/
+          [ -d plk ]            && git add plk/
 
           git diff --quiet && git diff --staged --quiet || \
-            (git commit -m "Daily Update $(date -u '+%H:%M UTC')" && git push)
+            (git commit -m "Update $(date -u '+%H:%M UTC') [PLK:${{ steps.plk_mode.outputs.mode }}]" && git push)
