@@ -1,0 +1,320 @@
+{
+  "competition": {
+    "id": 595,
+    "year": 2025,
+    "code": "2025_play_off_serie_a",
+    "name": "Playoff Serie A",
+    "full_name": "Playoff Serie A",
+    "focus_on": true,
+    "homepage_slider": true,
+    "scoreboard_live": true,
+    "homepage_calendar": true,
+    "show_cover_image_homepage": true,
+    "show_detail_teams_logo": true,
+    "status": 1,
+    "championship_type_id": 2,
+    "championship_series_id": 1,
+    "seo_meta_title": "",
+    "seo_meta_description": "",
+    "ctype_name": "Play Off",
+    "ctype_code": "PO",
+    "serie_name": "Serie A",
+    "serie_code": "A1",
+    "logo_key": "AV4NnbuUnneNLcHakK7CNs29",
+    "background_key": null,
+    "cover_key": null
+  },
+  "matches": [
+    {
+      "id": 25339,
+      "game_status": "0",
+      "championship_id": 595,
+      "championships_day_id": 4472,
+      "year": 2025,
+      "number": 4,
+      "match_datetime": "2026-05-23T20:00:00.000+02:00",
+      "match_hh": 20,
+      "match_mm": 0,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
+      "target_score": null,
+      "additional_time": 0,
+      "plant_id": 42,
+      "websocket_match_id": "1674755",
+      "ticketing_url": null,
+      "has_streaming": 0,
+      "match_serie": "1-2",
+      "match_hw": 1,
+      "match_vw": 2,
+      "updated_at": "2026-05-21T22:08:46.442+02:00",
+      "h_team_id": 1721,
+      "h_team_name": "Pallacanestro Trieste",
+      "h_club_code": "TRI",
+      "h_team_enabled": true,
+      "home_logo_key": "n7mBcEjt1p6CqM1fpaNLf8Sf",
+      "v_team_id": 1713,
+      "v_team_name": "Germani Brescia",
+      "v_club_code": "BRE",
+      "v_team_enabled": true,
+      "v_logo_key": "4VQTNve4bj562gsk2iL5PBcq",
+      "town_id": 3267,
+      "plant_name": "PalaTrieste",
+      "town_name": "Trieste",
+      "day_code": "4",
+      "day_serial": 2004,
+      "day_name": "Quarti di Finale - Gara  4",
+      "match_serie_key": "1713_1721"
+    },
+    {
+      "id": 25340,
+      "game_status": "0",
+      "championship_id": 595,
+      "championships_day_id": 4472,
+      "year": 2025,
+      "number": 4,
+      "match_datetime": "2026-05-24T17:00:00.000+02:00",
+      "match_hh": 17,
+      "match_mm": 0,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
+      "target_score": null,
+      "additional_time": 0,
+      "plant_id": 58,
+      "websocket_match_id": "1674756",
+      "ticketing_url": null,
+      "has_streaming": 0,
+      "match_serie": "2-1",
+      "match_hw": 2,
+      "match_vw": 1,
+      "updated_at": "2026-05-22T21:59:52.422+02:00",
+      "h_team_id": 1718,
+      "h_team_name": "Dolomiti Energia Trentino",
+      "h_club_code": "TRN",
+      "h_team_enabled": true,
+      "home_logo_key": "FBNPmcdEp4ymTqXcYyTfxWLA",
+      "v_team_id": 1712,
+      "v_team_name": "Virtus Olidata Bologna",
+      "v_club_code": "BOL",
+      "v_team_enabled": true,
+      "v_logo_key": "HRX9Wp5BEw1nVnA2ArDX64R9",
+      "town_id": 2418,
+      "plant_name": "BTS Arena",
+      "town_name": "Trento",
+      "day_code": "4",
+      "day_serial": 2004,
+      "day_name": "Quarti di Finale - Gara  4",
+      "match_serie_key": "1712_1718"
+    },
+    {
+      "id": 25341,
+      "game_status": "0",
+      "championship_id": 595,
+      "championships_day_id": 4472,
+      "year": 2025,
+      "number": 4,
+      "match_datetime": "2026-05-24T18:00:00.000+02:00",
+      "match_hh": 18,
+      "match_mm": 0,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
+      "target_score": null,
+      "additional_time": 0,
+      "plant_id": 167,
+      "websocket_match_id": "1674757",
+      "ticketing_url": null,
+      "has_streaming": 0,
+      "match_serie": "1-2",
+      "match_hw": 1,
+      "match_vw": 2,
+      "updated_at": "2026-05-22T23:01:46.522+02:00",
+      "h_team_id": 1720,
+      "h_team_name": "Bertram Derthona Tortona",
+      "h_club_code": "TOR",
+      "h_team_enabled": true,
+      "home_logo_key": "gn2AC153GWgtZzYGb6RearWj",
+      "v_team_id": 1724,
+      "v_team_name": "Umana Reyer Venezia",
+      "v_club_code": "VEN",
+      "v_team_enabled": true,
+      "v_logo_key": "WgraaLBwXnKWsQW8sRUsrE74",
+      "town_id": 5130,
+      "plant_name": "Nova Arena",
+      "town_name": "Tortona",
+      "day_code": "4",
+      "day_serial": 2004,
+      "day_name": "Quarti di Finale - Gara  4",
+      "match_serie_key": "1720_1724"
+    }
+  ],
+  "referees": {
+    "25339": [
+      "GIOVANNETTI",
+      "BONGIORNI",
+      "LUCOTTI"
+    ]
+  },
+  "broadcasters": {
+    "25339": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      },
+      {
+        "name": "SkySportBasket",
+        "logo": "P5BD129wViAuxiVzdcxEY5dD"
+      }
+    ],
+    "25340": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      },
+      {
+        "name": "SkySportBasket",
+        "logo": "P5BD129wViAuxiVzdcxEY5dD"
+      },
+      {
+        "name": "Cielo",
+        "logo": "TdQNBYrbL3bTH7JsCc5rUH2c"
+      }
+    ],
+    "25341": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      }
+    ]
+  },
+  "videos": {},
+  "filters": {
+    "days": [
+      {
+        "id": 4469,
+        "event_serial": 2001,
+        "code": "1",
+        "name": "Quarti di Finale - Gara  1",
+        "focus_on": false
+      },
+      {
+        "id": 4470,
+        "event_serial": 2002,
+        "code": "2",
+        "name": "Quarti di Finale - Gara  2",
+        "focus_on": false
+      },
+      {
+        "id": 4471,
+        "event_serial": 2003,
+        "code": "3",
+        "name": "Quarti di Finale - Gara  3",
+        "focus_on": false
+      },
+      {
+        "id": 4472,
+        "event_serial": 2004,
+        "code": "4",
+        "name": "Quarti di Finale - Gara  4",
+        "focus_on": true
+      },
+      {
+        "id": 4473,
+        "event_serial": 2005,
+        "code": "5",
+        "name": "Quarti di Finale - Gara  5",
+        "focus_on": false
+      },
+      {
+        "id": 4474,
+        "event_serial": 3001,
+        "code": "1",
+        "name": "Semifinali - Gara 1",
+        "focus_on": false
+      },
+      {
+        "id": 4475,
+        "event_serial": 3002,
+        "code": "2",
+        "name": "Semifinali - Gara 2",
+        "focus_on": false
+      },
+      {
+        "id": 4476,
+        "event_serial": 3003,
+        "code": "3",
+        "name": "Semifinali - Gara 3",
+        "focus_on": false
+      },
+      {
+        "id": 4477,
+        "event_serial": 3004,
+        "code": "4",
+        "name": "Semifinali - Gara 4",
+        "focus_on": false
+      },
+      {
+        "id": 4478,
+        "event_serial": 3005,
+        "code": "5",
+        "name": "Semifinali - Gara 5",
+        "focus_on": false
+      },
+      {
+        "id": 4479,
+        "event_serial": 4001,
+        "code": "1",
+        "name": "Finale - Gara 1",
+        "focus_on": false
+      },
+      {
+        "id": 4480,
+        "event_serial": 4002,
+        "code": "2",
+        "name": "Finale - Gara 2",
+        "focus_on": false
+      },
+      {
+        "id": 4481,
+        "event_serial": 4003,
+        "code": "3",
+        "name": "Finale - Gara 3",
+        "focus_on": false
+      },
+      {
+        "id": 4482,
+        "event_serial": 4004,
+        "code": "4",
+        "name": "Finale - Gara 4",
+        "focus_on": false
+      },
+      {
+        "id": 4483,
+        "event_serial": 4005,
+        "code": "5",
+        "name": "Finale - Gara 5",
+        "focus_on": false
+      }
+    ],
+    "phases": [
+      {
+        "id": 5,
+        "phase_name": "Quarti",
+        "phase_code": "Qua",
+        "data_sort": "desc"
+      },
+      {
+        "id": 6,
+        "phase_name": "Semifinali",
+        "phase_code": "SF",
+        "data_sort": "desc"
+      },
+      {
+        "id": 7,
+        "phase_name": "Finale",
+        "phase_code": "FIN",
+        "data_sort": "desc"
+      }
+    ]
+  },
+  "cache_key": "tCK:1779518733_mlCK:1779552228_cmCK:1779483706_cdCK:1779518733_vCK:1779487319",
+  "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
+}

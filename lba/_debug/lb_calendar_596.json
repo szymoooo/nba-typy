@@ -1,0 +1,608 @@
+{
+  "competition": {
+    "id": 596,
+    "year": 2025,
+    "code": "2025_regular_season_serie_a",
+    "name": "Regular Season A 2025",
+    "full_name": "Regular Season 2025/26",
+    "focus_on": false,
+    "homepage_slider": false,
+    "scoreboard_live": true,
+    "homepage_calendar": false,
+    "show_cover_image_homepage": true,
+    "show_detail_teams_logo": true,
+    "status": 1,
+    "championship_type_id": 4,
+    "championship_series_id": 1,
+    "seo_meta_title": "",
+    "seo_meta_description": "",
+    "ctype_name": "Regular Season",
+    "ctype_code": "RS",
+    "serie_name": "Serie A",
+    "serie_code": "A1",
+    "logo_key": "pPKrU5HAaZiGU6dgWuFgWrFa",
+    "background_key": null,
+    "cover_key": null
+  },
+  "matches": [
+    {
+      "id": 25251,
+      "game_status": "2",
+      "championship_id": 596,
+      "championships_day_id": 4446,
+      "year": 2025,
+      "number": 30,
+      "match_datetime": "2026-05-10T17:00:00.000+02:00",
+      "match_hh": 17,
+      "match_mm": 0,
+      "home_final_score": 78,
+      "visitor_final_score": 77,
+      "target_score": null,
+      "additional_time": 0,
+      "plant_id": 44,
+      "websocket_match_id": "1674667",
+      "ticketing_url": "https://legabasket.vivaticket.it/it/extsearch/nutribullet-treviso-basket",
+      "has_streaming": 0,
+      "updated_at": "2026-05-10T19:14:37.041+02:00",
+      "h_team_id": 1722,
+      "h_team_name": "NutriBullet Treviso Basket",
+      "h_club_code": "TVB",
+      "h_team_enabled": true,
+      "home_logo_key": "DWqcboTpYk2f7aUcfrtyhx99",
+      "v_team_id": 1716,
+      "v_team_name": "UNA Hotels Reggio Emilia",
+      "v_club_code": "REM",
+      "v_team_enabled": true,
+      "v_logo_key": "Mpy3yH2Gkym3wVX21n8WpsAs",
+      "town_id": 2814,
+      "plant_name": "Palaverde",
+      "town_name": "Villorba",
+      "day_code": "30",
+      "day_serial": 30,
+      "day_name": "30° Giornata",
+      "match_serie_key": "1716_1722"
+    },
+    {
+      "id": 25246,
+      "game_status": "2",
+      "championship_id": 596,
+      "championships_day_id": 4446,
+      "year": 2025,
+      "number": 30,
+      "match_datetime": "2026-05-10T17:00:00.000+02:00",
+      "match_hh": 17,
+      "match_mm": 0,
+      "home_final_score": 104,
+      "visitor_final_score": 85,
+      "target_score": null,
+      "additional_time": 0,
+      "plant_id": 63,
+      "websocket_match_id": "1674662",
+      "ticketing_url": "https://legabasket.vivaticket.it/it/extsearch/virtus-bologna",
+      "has_streaming": 0,
+      "updated_at": "2026-05-10T18:53:32.655+02:00",
+      "h_team_id": 1712,
+      "h_team_name": "Virtus Olidata Bologna",
+      "h_club_code": "BOL",
+      "h_team_enabled": true,
+      "home_logo_key": "HRX9Wp5BEw1nVnA2ArDX64R9",
+      "v_team_id": 1723,
+      "v_team_name": "Openjobmetis Varese",
+      "v_club_code": "VAR",
+      "v_team_enabled": true,
+      "v_logo_key": "Sm9gR7DrAwMm1tJsP4dTCtgN",
+      "town_id": 3451,
+      "plant_name": "Virtus Arena",
+      "town_name": "Bologna",
+      "day_code": "30",
+      "day_serial": 30,
+      "day_name": "30° Giornata",
+      "match_serie_key": "1712_1723"
+    },
+    {
+      "id": 25250,
+      "game_status": "2",
+      "championship_id": 596,
+      "championships_day_id": 4446,
+      "year": 2025,
+      "number": 30,
+      "match_datetime": "2026-05-10T17:00:00.000+02:00",
+      "match_hh": 17,
+      "match_mm": 0,
+      "home_final_score": 89,
+      "visitor_final_score": 94,
+      "target_score": null,
+      "additional_time": 0,
+      "plant_id": 42,
+      "websocket_match_id": "1674666",
+      "ticketing_url": "https://legabasket.vivaticket.it/it/extsearch/pallacanestro-trieste-basket",
+      "has_streaming": 0,
+      "updated_at": "2026-05-10T18:58:26.844+02:00",
+      "h_team_id": 1721,
+      "h_team_name": "Pallacanestro Trieste",
+      "h_club_code": "TRI",
+      "h_team_enabled": true,
+      "home_logo_key": "n7mBcEjt1p6CqM1fpaNLf8Sf",
+      "v_team_id": 1725,
+      "v_team_name": "Vanoli Basket Cremona",
+      "v_club_code": "CRE",
+      "v_team_enabled": true,
+      "v_logo_key": "Wz486jJ2b62hL5bWCPcbFK7S",
+      "town_id": 3267,
+      "plant_name": "PalaTrieste",
+      "town_name": "Trieste",
+      "day_code": "30",
+      "day_serial": 30,
+      "day_name": "30° Giornata",
+      "match_serie_key": "1721_1725"
+    },
+    {
+      "id": 25253,
+      "game_status": "2",
+      "championship_id": 596,
+      "championships_day_id": 4446,
+      "year": 2025,
+      "number": 30,
+      "match_datetime": "2026-05-10T17:00:00.000+02:00",
+      "match_hh": 17,
+      "match_mm": 0,
+      "home_final_score": 98,
+      "visitor_final_score": 71,
+      "target_score": null,
+      "additional_time": 0,
+      "plant_id": 48,
+      "websocket_match_id": "1674669",
+      "ticketing_url": "https://legabasket.vivaticket.it/it/extsearch/napolibasket",
+      "has_streaming": 0,
+      "updated_at": "2026-05-10T18:50:28.910+02:00",
+      "h_team_id": 1715,
+      "h_team_name": "Guerri Napoli",
+      "h_club_code": "NAP",
+      "h_team_enabled": true,
+      "home_logo_key": "dnTBkx1HCB9Sr9WHZCCUENmq",
+      "v_team_id": 1727,
+      "v_team_name": "APU Old Wild West Udine",
+      "v_club_code": "UDI",
+      "v_team_enabled": true,
+      "v_logo_key": "MSMdody8RAqEmUC6zocgY5bt",
+      "town_id": 5276,
+      "plant_name": "Alcott Arena",
+      "town_name": "Napoli",
+      "day_code": "30",
+      "day_serial": 30,
+      "day_name": "30° Giornata",
+      "match_serie_key": "1715_1727"
+    },
+    {
+      "id": 25247,
+      "game_status": "2",
+      "championship_id": 596,
+      "championships_day_id": 4446,
+      "year": 2025,
+      "number": 30,
+      "match_datetime": "2026-05-10T17:00:00.000+02:00",
+      "match_hh": 17,
+      "match_mm": 0,
+      "home_final_score": 92,
+      "visitor_final_score": 71,
+      "target_score": null,
+      "additional_time": 0,
+      "plant_id": 61,
+      "websocket_match_id": "1674663",
+      "ticketing_url": "https://legabasket.vivaticket.it/it/extsearch/germani-brescia",
+      "has_streaming": 0,
+      "updated_at": "2026-05-10T19:08:57.053+02:00",
+      "h_team_id": 1713,
+      "h_team_name": "Germani Brescia",
+      "h_club_code": "BRE",
+      "h_team_enabled": true,
+      "home_logo_key": "4VQTNve4bj562gsk2iL5PBcq",
+      "v_team_id": 1717,
+      "v_team_name": "Banco di Sardegna Sassari",
+      "v_club_code": "SAS",
+      "v_team_enabled": true,
+      "v_logo_key": "F5Nz7SxE9quRiQVwJEBYncbQ",
+      "town_id": 1549,
+      "plant_name": "Palaleonessa A2A",
+      "town_name": "Brescia",
+      "day_code": "30",
+      "day_serial": 30,
+      "day_name": "30° Giornata",
+      "match_serie_key": "1713_1717"
+    },
+    {
+      "id": 25252,
+      "game_status": "2",
+      "championship_id": 596,
+      "championships_day_id": 4446,
+      "year": 2025,
+      "number": 30,
+      "match_datetime": "2026-05-10T17:00:00.000+02:00",
+      "match_hh": 17,
+      "match_mm": 0,
+      "home_final_score": 75,
+      "visitor_final_score": 78,
+      "target_score": null,
+      "additional_time": 0,
+      "plant_id": 57,
+      "websocket_match_id": "1674668",
+      "ticketing_url": "https://legabasket.vivaticket.it/it/extsearch/umana-reyer-venezia",
+      "has_streaming": 0,
+      "updated_at": "2026-05-10T18:50:11.013+02:00",
+      "h_team_id": 1724,
+      "h_team_name": "Umana Reyer Venezia",
+      "h_club_code": "VEN",
+      "h_team_enabled": true,
+      "home_logo_key": "WgraaLBwXnKWsQW8sRUsrE74",
+      "v_team_id": 1720,
+      "v_team_name": "Bertram Derthona Tortona",
+      "v_club_code": "TOR",
+      "v_team_enabled": true,
+      "v_logo_key": "gn2AC153GWgtZzYGb6RearWj",
+      "town_id": 9660,
+      "plant_name": "Palasport Taliercio",
+      "town_name": "Mestre",
+      "day_code": "30",
+      "day_serial": 30,
+      "day_name": "30° Giornata",
+      "match_serie_key": "1720_1724"
+    },
+    {
+      "id": 25249,
+      "game_status": "2",
+      "championship_id": 596,
+      "championships_day_id": 4446,
+      "year": 2025,
+      "number": 30,
+      "match_datetime": "2026-05-10T17:00:00.000+02:00",
+      "match_hh": 17,
+      "match_mm": 0,
+      "home_final_score": 84,
+      "visitor_final_score": 74,
+      "target_score": null,
+      "additional_time": 0,
+      "plant_id": 58,
+      "websocket_match_id": "1674665",
+      "ticketing_url": "https://legabasket.vivaticket.it/it/extsearch/dolomiti-energia-trentino",
+      "has_streaming": 0,
+      "updated_at": "2026-05-10T18:50:47.818+02:00",
+      "h_team_id": 1718,
+      "h_team_name": "Dolomiti Energia Trentino",
+      "h_club_code": "TRN",
+      "h_team_enabled": true,
+      "home_logo_key": "FBNPmcdEp4ymTqXcYyTfxWLA",
+      "v_team_id": 1714,
+      "v_team_name": "EA7 Emporio Armani Milano",
+      "v_club_code": "MIL",
+      "v_team_enabled": true,
+      "v_logo_key": "uhXQM9TfW57tdmwtRszMaEXx",
+      "town_id": 2418,
+      "plant_name": "BTS Arena",
+      "town_name": "Trento",
+      "day_code": "30",
+      "day_serial": 30,
+      "day_name": "30° Giornata",
+      "match_serie_key": "1714_1718"
+    }
+  ],
+  "referees": {
+    "25246": [
+      "ROSSI",
+      "SAHIN",
+      "LUCOTTI"
+    ],
+    "25247": [
+      "GRIGIONI",
+      "NOCE",
+      "MINIATI"
+    ],
+    "25249": [
+      "LANZARINI",
+      "QUARTA",
+      "CAPOTORTO"
+    ],
+    "25250": [
+      "BORGIONI",
+      "BONGIORNI",
+      "CATANI"
+    ],
+    "25251": [
+      "GONELLA",
+      "VALZANI",
+      "DIONISI"
+    ],
+    "25252": [
+      "GIOVANNETTI",
+      "BORGO",
+      "BARTOLOMEO"
+    ],
+    "25253": [
+      "BARTOLI",
+      "MARZIALI",
+      "ATTARD"
+    ]
+  },
+  "broadcasters": {
+    "25246": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      }
+    ],
+    "25247": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      }
+    ],
+    "25249": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      },
+      {
+        "name": "SkySportBasket",
+        "logo": "P5BD129wViAuxiVzdcxEY5dD"
+      }
+    ],
+    "25250": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      }
+    ],
+    "25251": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      }
+    ],
+    "25252": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      },
+      {
+        "name": "SkySport256",
+        "logo": "sNF1zDTnWjyefE7DQiwZJPZQ"
+      }
+    ],
+    "25253": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      }
+    ]
+  },
+  "videos": {},
+  "filters": {
+    "days": [
+      {
+        "id": 4417,
+        "event_serial": 1,
+        "code": "1",
+        "name": "1° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4424,
+        "event_serial": 2,
+        "code": "2",
+        "name": "2° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4425,
+        "event_serial": 3,
+        "code": "3",
+        "name": "3° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4426,
+        "event_serial": 4,
+        "code": "4",
+        "name": "4° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4427,
+        "event_serial": 5,
+        "code": "5",
+        "name": "5° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4428,
+        "event_serial": 6,
+        "code": "6",
+        "name": "6° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4429,
+        "event_serial": 7,
+        "code": "7",
+        "name": "7° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4430,
+        "event_serial": 8,
+        "code": "8",
+        "name": "8° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4431,
+        "event_serial": 9,
+        "code": "9",
+        "name": "9° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4418,
+        "event_serial": 10,
+        "code": "10",
+        "name": "10° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4419,
+        "event_serial": 11,
+        "code": "11",
+        "name": "11° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4420,
+        "event_serial": 12,
+        "code": "12",
+        "name": "12° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4421,
+        "event_serial": 13,
+        "code": "13",
+        "name": "13° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4422,
+        "event_serial": 14,
+        "code": "14",
+        "name": "14° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4423,
+        "event_serial": 15,
+        "code": "15",
+        "name": "15° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4432,
+        "event_serial": 16,
+        "code": "16",
+        "name": "16° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4433,
+        "event_serial": 17,
+        "code": "17",
+        "name": "17° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4434,
+        "event_serial": 18,
+        "code": "18",
+        "name": "18° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4435,
+        "event_serial": 19,
+        "code": "19",
+        "name": "19° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4436,
+        "event_serial": 20,
+        "code": "20",
+        "name": "20° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4437,
+        "event_serial": 21,
+        "code": "21",
+        "name": "21° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4438,
+        "event_serial": 22,
+        "code": "22",
+        "name": "22° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4439,
+        "event_serial": 23,
+        "code": "23",
+        "name": "23° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4440,
+        "event_serial": 24,
+        "code": "24",
+        "name": "24° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4441,
+        "event_serial": 25,
+        "code": "25",
+        "name": "25° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4442,
+        "event_serial": 26,
+        "code": "26",
+        "name": "26° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4443,
+        "event_serial": 27,
+        "code": "27",
+        "name": "27° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4444,
+        "event_serial": 28,
+        "code": "28",
+        "name": "28° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4445,
+        "event_serial": 29,
+        "code": "29",
+        "name": "29° Giornata",
+        "focus_on": false
+      },
+      {
+        "id": 4446,
+        "event_serial": 30,
+        "code": "30",
+        "name": "30° Giornata",
+        "focus_on": true
+      }
+    ],
+    "phases": [
+      {
+        "id": 1,
+        "phase_name": "Andata",
+        "phase_code": "And",
+        "data_sort": "desc"
+      },
+      {
+        "id": 2,
+        "phase_name": "Ritorno",
+        "phase_code": "Rit",
+        "data_sort": "desc"
+      }
+    ]
+  },
+  "cache_key": "tCK:1779518733_mlCK:1779552228_cmCK:1778433277_cdCK:1778069791_vCK:1779487319",
+  "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
+}

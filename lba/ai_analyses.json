@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-05-23T16:15:23.994093",
+  "date": "2026-05-23",
+  "league": "LBA",
+  "model": "gemini-2.5-flash",
+  "matches": [
+    {
+      "matchup": "Germani Brescia @ Pallacanestro Trieste",
+      "ai_pick": null,
+      "formula_pick": "Germani Brescia",
+      "note": "AI fallback"
+    }
+  ]
+}
