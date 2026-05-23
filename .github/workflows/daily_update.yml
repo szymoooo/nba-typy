@@ -130,6 +130,13 @@ jobs:
         run: |
           echo "PLK: tryb ${{ steps.plk_mode.outputs.mode }} - pomijam (pick już jest lub brak meczów)"
 
+      # ============= LBA (Lega Basket Serie A - Włochy) =============
+      - name: LBA AI Picks
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python update_lba.py
+        continue-on-error: true
+
       # ============= Commit =============
       - name: Commit and Push
         run: |
@@ -142,6 +149,7 @@ jobs:
           [ -d nba ]            && git add nba/
           [ -d euroleague ]     && git add euroleague/
           [ -d plk ]            && git add plk/
+          [ -d lba ]            && git add lba/
 
           git diff --quiet && git diff --staged --quiet || \
             (git commit -m "Update $(date -u '+%H:%M UTC') [PLK:${{ steps.plk_mode.outputs.mode }}]" && git push)
