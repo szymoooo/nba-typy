@@ -1,9 +1,12 @@
 """
 PLK (Polska Liga Koszykowki / Orlen Basket Liga) Free Picks - generator typow.
 
-Klon mechaniki update_euroleague.py, ale dla polskiej PLK.
-Zrodlo danych: nieoficjalne JSON API Sofascore (free, no-auth, uzywane
-przez ich publiczna strone). PLK = uniqueTournament id 263.
+ARCHITEKTURA (v2):
+  - Primary source: PulsBasketu Public API (api.pulsbasketu.com)
+    Bogata analityka per-team: ortg/drtg/NetRtg, eFG%, polish_pts_perc,
+    opponent stats (jak rywale graja przeciw nam), top scorerzy.
+    Trzy endpointy: /games-list, /table, /season-teams/{id}
+  - Fallback: Sofascore (uniqueTournament=263) - na wypadek awarii pulsbasketu
 
 URUCHOMIENIE LOKALNE:
     pip install requests google-genai pytz
@@ -13,39 +16,33 @@ URUCHOMIENIE LOKALNE:
 Wynik: plk/index.html (otworz w przegladarce)
 """
 
-import requests
-import json
 import os
 import re
+import json
 import time
+import textwrap
 from datetime import datetime, timezone, timedelta
+
+import requests
+
+import plk_data as pb
+
 
 # ==========================================
 # KONFIGURACJA
 # ==========================================
-TOURNAMENT_ID = 263            # Sofascore uniqueTournament id dla PLK / Orlen Basket Liga
 TOURNAMENT_NAME_PL = "Orlen Basket Liga"
-OUTPUT_DIR = "plk"             # produkcyjny folder serwowany przez GH Pages jako /plk/
-DEBUG_DIR = "plk/_debug"       # dumpy z API (debug)
+OUTPUT_DIR = "plk"
+DEBUG_DIR = "plk/_debug"
 
-# Wlacz/wylacz prawdziwa analize AI Gemini z Google Search.
+# AI
 USE_AI_PREDICTIONS = True
 AI_MODEL = "gemini-2.5-flash"
 
+# Brand
 BRAND_TITLE = "PLK PUBLIC HUB"
-BRAND_ACCENT = "#dc2626"        # czerwien Polski / PLK
+BRAND_ACCENT = "#dc2626"
 BRAND_DOMAIN = "https://nba-freepicks.com/plk/"
-
-SOFA_BASE = "https://api.sofascore.com/api/v1"
-SOFA_HEADERS = {
-    # Sofascore zwraca 403 bez wiarygodnego User-Agenta
-    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                   "Chrome/123.0.0.0 Safari/537.36"),
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "pl,en-US;q=0.9,en;q=0.8",
-    "Referer": "https://www.sofascore.com/",
-}
 
 DEFAULT_LOGO = (
     "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>"
@@ -54,189 +51,15 @@ DEFAULT_LOGO = (
     "%F0%9F%8F%80</text></svg>"
 )
 
-
-# ==========================================
-# API CLIENT (Sofascore)
-# ==========================================
-
-def fetch_json(url, timeout=15):
-    """Bezpieczne pobranie JSON. Zwraca (data, status, err_text)."""
-    try:
-        r = requests.get(url, headers=SOFA_HEADERS, timeout=timeout)
-        if r.status_code != 200:
-            return None, r.status_code, r.text[:300]
-        return r.json(), 200, None
-    except Exception as e:
-        return None, None, str(e)[:300]
-
-
-def _dump_debug(name, data):
-    try:
-        os.makedirs(DEBUG_DIR, exist_ok=True)
-        path = os.path.join(DEBUG_DIR, f"debug_{name}.json")
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False, default=str)
-        print(f"        zapisano dump: {path}")
-    except Exception:
-        pass
-
-
-def fetch_current_season_id():
-    """Pobiera liste sezonow PLK i wybiera najnowszy (2025-26 lub kolejny)."""
-    url = f"{SOFA_BASE}/unique-tournament/{TOURNAMENT_ID}/seasons"
-    data, status, err = fetch_json(url)
-    if not data:
-        print(f"   [FAIL] /seasons -> HTTP {status} {err or ''}")
-        return None
-    _dump_debug("seasons", data)
-    seasons = data.get("seasons") or []
-    if not seasons:
-        return None
-
-    # Najnowsze sezony zwykle sa na poczatku listy. Probujemy wybrac taki
-    # ktory zawiera "2025" w nazwie/yearze, w przeciwnym razie pierwszy z listy.
-    for s in seasons:
-        year = str(s.get("year") or "")
-        if "25/26" in year or "2025/26" in year or "2025-26" in year or year.startswith("25"):
-            print(f"   Wybrany sezon: {s.get('name')} (id={s.get('id')})")
-            return s.get("id")
-    s = seasons[0]
-    print(f"   Wybrany sezon (fallback - pierwszy z listy): {s.get('name')} (id={s.get('id')})")
-    return s.get("id")
-
-
-def fetch_events_for_season(season_id, kind="next"):
-    """kind = 'next' lub 'last'. Iteruje po stronach az do pustej."""
-    all_events = []
-    page = 0
-    while page < 20:  # safety
-        url = f"{SOFA_BASE}/unique-tournament/{TOURNAMENT_ID}/season/{season_id}/events/{kind}/{page}"
-        data, status, err = fetch_json(url)
-        if not data:
-            if page == 0:
-                print(f"   [FAIL] /events/{kind}/0 -> HTTP {status} {err or ''}")
-            break
-        if page == 0:
-            _dump_debug(f"events_{kind}_p0", data)
-        events = data.get("events") or []
-        if not events:
-            break
-        all_events.extend(events)
-        has_next = bool(data.get("hasNextPage"))
-        if not has_next:
-            break
-        page += 1
-        time.sleep(0.2)
-    print(f"   /events/{kind} zwrocil {len(all_events)} meczow")
-    return all_events
-
-
-def fetch_standings_map(season_id):
-    """Zwraca {team_id: win_pct} dla wszystkich druzyn."""
-    url = f"{SOFA_BASE}/unique-tournament/{TOURNAMENT_ID}/season/{season_id}/standings/total"
-    data, status, err = fetch_json(url)
-    if not data:
-        print(f"   [FAIL] /standings/total -> HTTP {status} {err or ''}")
-        return {}
-    _dump_debug("standings_total", data)
-
-    pct_map = {}
-    standings_list = data.get("standings") or []
-    for table in standings_list:
-        for row in table.get("rows") or []:
-            team = row.get("team") or {}
-            tid = team.get("id")
-            wins = row.get("wins", 0) or 0
-            losses = row.get("losses", 0) or 0
-            try:
-                wins, losses = int(wins), int(losses)
-            except Exception:
-                wins, losses = 0, 0
-            total = wins + losses
-            if tid:
-                pct_map[tid] = (wins / total) if total > 0 else 0.0
-    print(f"   Zaladowano statystyki dla {len(pct_map)} druzyn")
-    return pct_map
+CET = timezone(timedelta(hours=2))
 
 
 # ==========================================
-# HELPERS
+# HELPERS - UTILS
 # ==========================================
 
 def get_today_date_str():
-    """Lokalna data Polska (Europe/Warsaw, UTC+1/+2). Zwraca YYYY-MM-DD."""
-    cet = timezone(timedelta(hours=2))  # CEST uproszczone
-    return datetime.now(cet).strftime("%Y-%m-%d")
-
-
-def filter_events_for_date(events, date_str):
-    """Sofascore zwraca startTimestamp (unix UTC). Filtruj po lokalnej dacie PL."""
-    cet = timezone(timedelta(hours=2))
-    out = []
-    for ev in events:
-        ts = ev.get("startTimestamp")
-        if not ts:
-            continue
-        try:
-            dt = datetime.fromtimestamp(int(ts), tz=cet)
-        except Exception:
-            continue
-        if dt.strftime("%Y-%m-%d") == date_str:
-            out.append(ev)
-    return out
-
-
-def get_team_logo(team):
-    """Zwraca URL do logo druzyny w Sofascore."""
-    if not isinstance(team, dict):
-        return DEFAULT_LOGO
-    tid = team.get("id")
-    if tid:
-        return f"https://api.sofascore.app/api/v1/team/{tid}/image"
-    return DEFAULT_LOGO
-
-
-def map_status(ev):
-    """Sofascore status -> ('pre'|'in'|'post', display_text)."""
-    status = ev.get("status") or {}
-    t = (status.get("type") or "").lower()
-    desc = (status.get("description") or "").strip()
-    if t in ("notstarted", "scheduled", "delayed", "postponed"):
-        return "pre", desc or "Scheduled"
-    if t in ("inprogress", "live"):
-        return "in", desc or "LIVE"
-    if t in ("finished", "ended", "afterextra", "afterpenalties"):
-        return "post", "Final"
-    return "pre", desc or "Scheduled"
-
-
-def fmt_game_time(ts):
-    """Unix timestamp -> 'HH:MM CET' (czas polski)."""
-    if not ts:
-        return ""
-    try:
-        cet = timezone(timedelta(hours=2))
-        return datetime.fromtimestamp(int(ts), tz=cet).strftime("%H:%M") + " CET"
-    except Exception:
-        return ""
-
-
-def get_score(ev, side):
-    """side='home'|'away' -> int score (0 jesli brak)."""
-    key = "homeScore" if side == "home" else "awayScore"
-    sc = ev.get(key) or {}
-    if isinstance(sc, dict):
-        v = sc.get("current")
-        if v is None:
-            v = sc.get("display")
-        try:
-            return int(v) if v is not None else 0
-        except Exception:
-            return 0
-    try:
-        return int(sc)
-    except Exception:
-        return 0
+    return datetime.now(CET).strftime("%Y-%m-%d")
 
 
 def save_picks_for_audit(picks, today_slug):
@@ -296,52 +119,250 @@ def _normalize_winner_name(ai_winner, h_name, a_name):
     return None
 
 
-def predict_winner_ai(home, away, h_pct, a_pct, game_context):
+def _format_top_scorers(scorers):
+    if not scorers:
+        return "  - brak danych z PulsBasketu (sprawdz Google Search)"
+    lines = []
+    for s in scorers:
+        bits = [f"{s['name']}: {s['ppg']} ppg"]
+        if s.get("apg"):
+            bits.append(f"{s['apg']} apg")
+        if s.get("rpg"):
+            bits.append(f"{s['rpg']} rpg")
+        if s.get("mpg"):
+            bits.append(f"{s['mpg']} min")
+        if s.get("fouls"):
+            bits.append(f"{s['fouls']} fauli/mecz")
+        lines.append("  - " + ", ".join(bits))
+    return "\n".join(lines)
+
+
+def _format_recent_games(recent, team_id):
+    if not recent:
+        return "  - brak danych"
+    lines = []
+    for g in recent:
+        date = g.get("date", "")
+        opp = g.get("opponent", "?")
+        score = g.get("score", "")
+        role = g.get("role", "")
+        win = "W" if g.get("win") else "L"
+        lines.append(f"  - {date} {role} vs {opp}: {score} -> {win}")
+    return "\n".join(lines)
+
+
+def _format_advanced(adv):
+    if not adv:
+        return "  brak danych"
+    parts = []
+    if adv.get("ortg"):
+        parts.append(f"ORtg {adv['ortg']}")
+    if adv.get("drtg"):
+        parts.append(f"DRtg {adv['drtg']}")
+    if adv.get("net_rtg") is not None:
+        parts.append(f"NetRtg {adv['net_rtg']:+}")
+    if adv.get("efg"):
+        parts.append(f"eFG% {adv['efg']}")
+    if adv.get("ts"):
+        parts.append(f"TS% {adv['ts']}")
+    if adv.get("tov_perc"):
+        parts.append(f"TOV% {adv['tov_perc']}")
+    if adv.get("oreb_perc"):
+        parts.append(f"OREB% {adv['oreb_perc']}")
+    if adv.get("dreb_perc"):
+        parts.append(f"DREB% {adv['dreb_perc']}")
+    if adv.get("polish_pts_perc"):
+        parts.append(f"Polish PTS% {adv['polish_pts_perc']}")
+    if adv.get("bench_pts_perc"):
+        parts.append(f"Bench% {adv['bench_pts_perc']}")
+    return "  " + ", ".join(parts)
+
+
+def build_ai_prompt(home, away, today, table_by_id, all_games):
+    """Bogaty prompt z 11 sekcjami danych z PulsBasketu."""
+    h_id = home.get("team_id")
+    a_id = away.get("team_id")
+    h_name = home.get("name") or "Home"
+    a_name = away.get("name") or "Away"
+
+    # Bilans z table
+    h_rec = pb.get_team_record(table_by_id, h_id)
+    a_rec = pb.get_team_record(table_by_id, a_id)
+    h_pct = round(100 * h_rec["wins"] / max(1, h_rec["wins"] + h_rec["losses"]))
+    a_pct = round(100 * a_rec["wins"] / max(1, a_rec["wins"] + a_rec["losses"]))
+
+    # Forma - streak ostatnie 15
+    h_streak = pb.get_streak_last_n(table_by_id, h_id, 15) or "-"
+    a_streak = pb.get_streak_last_n(table_by_id, a_id, 15) or "-"
+
+    # Ostatnie 5 meczow
+    h_recent = pb.get_recent_games_for_team(table_by_id, h_id, 5)
+    a_recent = pb.get_recent_games_for_team(table_by_id, a_id, 5)
+
+    # Per-team rich data (advanced + opponent + top scorers)
+    h_st = pb.fetch_season_team(h_id) if h_id else None
+    a_st = pb.fetch_season_team(a_id) if a_id else None
+    h_adv = pb.get_advanced_stats(h_st)
+    a_adv = pb.get_advanced_stats(a_st)
+    h_opp = pb.get_opponent_avg_stats(h_st)
+    a_opp = pb.get_opponent_avg_stats(a_st)
+    h_top = pb.get_top_scorers_for_team(h_st, 3)
+    a_top = pb.get_top_scorers_for_team(a_st, 3)
+
+    # H2H
+    h2h = pb.get_h2h_in_season(all_games, h_id, a_id)
+    h2h_summary = pb.summarize_h2h(h2h, h_id, h_name, a_id, a_name)
+    h2h_lines = ("\n   ".join(h2h_summary["games"])) or "brak"
+
+    # Kursy
+    odds_h = home.get("__odds_home")  # dorzucone w build_game_cards
+    odds_a = home.get("__odds_away")
+    implied = pb.get_implied_probabilities(odds_h, odds_a) if (odds_h and odds_a) else None
+    odds_str = (f"H {odds_h} ({implied['home_pct'] if implied else '?'}%), "
+                f"A {odds_a} ({implied['away_pct'] if implied else '?'}%)") \
+        if (odds_h and odds_a) else "brak (mecz przed otwarciem rynku)"
+
+    # Faza i runda
+    phase = home.get("__stage_name") or "Sezon zasadniczy"
+    rnd = home.get("__round_name") or ""
+    arena = home.get("__arena") or ""
+    city = home.get("__city") or ""
+    referees = home.get("__referees") or []
+    ref_str = ", ".join(referees) if referees else "brak danych"
+
+    # ----- SKLADANIE PROMPTA -----
+    prompt = f"""
+=========================================================================
+SYSTEM
+=========================================================================
+Jestes ekspertem koszykarskim PLK (Orlen Basket Liga). DZISIEJSZA DATA: {today}.
+Twoja wiedza wewnetrzna jest przestarzala - sprawdzaj newsy przez Google
+Search. NIE ZGADUJ. Brak danych = "brak danych".
+
+=========================================================================
+MECZ DZISIAJ
+=========================================================================
+Faza:    {phase}
+Runda:   {rnd}
+Hala:    {arena}, {city}
+Sedziowie: {ref_str}
+
+GOSPODARZ: {h_name}
+GOSC:      {a_name}
+
+=========================================================================
+DANE Z PULSBASKETU.COM (sezon 2025/26 do dzisiaj)
+=========================================================================
+
+BILANS:
+   {h_name}: {h_rec['wins']}-{h_rec['losses']} ({h_pct}%, miejsce #{h_rec.get('real_position') or '?'})
+   {a_name}: {a_rec['wins']}-{a_rec['losses']} ({a_pct}%, miejsce #{a_rec.get('real_position') or '?'})
+
+DOM/WYJAZD:
+   {h_name} u siebie:    {h_rec['wins_home']}-{h_rec['losses_home']}
+   {a_name} na wyjezdzie: {a_rec['wins_away']}-{a_rec['losses_away']}
+
+FORMA - ostatnie 15 wynikow chronologicznie (W=wygrana, najnowszy z prawej):
+   {h_name}: {h_streak}
+   {a_name}: {a_streak}
+
+OSTATNIE 5 MECZOW:
+   {h_name}:
+{_format_recent_games(h_recent, h_id)}
+   {a_name}:
+{_format_recent_games(a_recent, a_id)}
+
+ATAK / OBRONA (sredni na mecz):
+   {h_name}: {h_rec['ppg']} pkt zdobytych / {h_rec['papg']} traconych  (NetRating prosty {h_rec['net_rating_simple']:+})
+   {a_name}: {a_rec['ppg']} pkt zdobytych / {a_rec['papg']} traconych  (NetRating prosty {a_rec['net_rating_simple']:+})
+
+ADVANCED METRICS (z PulsBasketu, sezon 2025/26):
+   {h_name}:
+{_format_advanced(h_adv)}
+   {a_name}:
+{_format_advanced(a_adv)}
+
+JAK RYWALE GRAJA PRZECIW NIM (sygnal slabosci defensywnych):
+   przeciw {h_name}: {h_opp.get('points', '?')} pkt/mecz, {h_opp.get('f3p', '?')}% za 3, {h_opp.get('rebounds', '?')} reb
+   przeciw {a_name}: {a_opp.get('points', '?')} pkt/mecz, {a_opp.get('f3p', '?')}% za 3, {a_opp.get('rebounds', '?')} reb
+
+TOP SCORERZY (z players[] danego zespolu):
+   {h_name}:
+{_format_top_scorers(h_top)}
+   {a_name}:
+{_format_top_scorers(a_top)}
+
+H2H W TYM SEZONIE (zakonczone spotkania):
+   {h2h_summary['summary']}
+   {h2h_lines}
+
+KURSY BUKMACHERSKIE (jezeli dostepne dla tego meczu):
+   {odds_str}
+
+=========================================================================
+PROCES (kazdy punkt - Google Search)
+=========================================================================
+1. KONTUZJE i ZMIANY W SKLADZIE na {today}:
+   - sport.pl, plk.pl, polskikosz.pl, sportowefakty.wp.pl
+   - Twitter/X klubow ({h_name}, {a_name})
+   - Czy lider druzyny jest niezdolny do gry?
+   - Czy ktos wraca z kontuzji?
+
+2. FOUL-OUTY i TECHNICZNE w poprzednim meczu serii:
+   - Czy lider {h_name} dostal 5 fauli/technicznego w meczu N-1?
+   - Jak druzyna radzila sobie wtedy bez niego?
+
+3. KONTEKST PLAYOFFU (jezeli faza != "Runda Zasadnicza"):
+   - Stan serii (np. 2-2)? Decydujacy mecz?
+   - Czy druzyna w zagrozeniu eliminacji ma "playoff desperation"?
+   - Format (do 5 / do 7)?
+
+4. FORMA 3 OSTATNICH MECZOW:
+   - Czy momentum sie buduje czy rozpada?
+   - Czy gra wynikla z dobrej pracy zespolu czy z formy 1 gracza?
+
+5. KURSY BUKMACHERSKIE jako prior:
+   - <1.40 = bardzo mocny faworyt, raczej szanuj
+   - 1.80/1.95 = wyrownane, kazdy detal sie liczy
+
+WAGA SYGNALOW (od najwazniejszego):
+   1. Aktualne kontuzje liderow
+   2. Forma 3 ostatnich meczow + streak
+   3. Przewaga domowa w playoffach
+   4. H2H w obecnej serii
+   5. Net Rating + Advanced (ORtg/DRtg)
+   6. Kursy bukmacherskie
+
+=========================================================================
+DODATKI OD ADMINA (zostaw puste albo dopisz):
+=========================================================================
+(brak)
+
+=========================================================================
+ODPOWIEDZ - czysty JSON, bez markdown
+=========================================================================
+{{
+  "winner_name": "<dokladna nazwa: '{h_name}' lub '{a_name}'>",
+  "confidence": <1-10>,
+  "reasoning": "<2-3 zdania po polsku>",
+  "key_factors": ["<czynnik 1>", "<czynnik 2>", "<czynnik 3>"],
+  "injury_notes": "<co znalazles na DZIS lub 'brak istotnych braków'>",
+  "agreement_with_odds": <true|false|"no_odds">
+}}
+"""
+    return prompt
+
+
+def predict_winner_ai(home, away, today, table_by_id, all_games):
+    """Odpala Gemini z bogatym promptem. Zwraca dict albo None."""
     client = _get_gemini_client()
     if client is None:
         return None
 
     h_name = home.get("name") or "Home"
     a_name = away.get("name") or "Away"
-    phase = game_context.get("phase") or "Sezon zasadniczy"
-    date_iso = game_context.get("date") or ""
-    today = datetime.now().strftime("%Y-%m-%d")
 
-    prompt = f"""
-Mecz polskiej PLK ({TOURNAMENT_NAME_PL}): {a_name} (gosc) vs {h_name} (gospodarz)
-Faza: {phase}
-Data meczu: {date_iso[:10]}
-DZISIEJSZA DATA: {today}
-
-Bilans w sezonie 2025-26 PLK:
-  - {a_name}: {a_pct:.0%} skutecznosci
-  - {h_name}: {h_pct:.0%} skutecznosci
-
-ZADANIE: Wytypuj zwyciezce tego konkretnego meczu PLK.
-
-PROCES (uzyj Google Search):
-1. Sprawdz forme ostatnich 5 meczow obu druzyn w PLK
-2. Sprawdz bezposrednie spotkania w sezonie 2025-26
-3. Sprawdz kluczowe kontuzje na {today} (sport.pl, plk.pl, polskikosz.pl)
-4. Uwzglednij specyfike fazy "{phase}":
-   - Faza zasadnicza = forma + bilans
-   - Play-off / cwiercfinal / polfinal / final = doswiadczenie kluczowe,
-     parkiet domowy mocniej liczy
-5. Sprawdz historyczne osiagniecia obu klubow w tej fazie
-
-PRZYKLADAJ DUZA WAGE do:
-- aktualnych kontuzji
-- formy (ostatnie 5 meczow > caly sezon)
-- atutu wlasnego parkietu w play-offach
-
-Odpowiedz WYLACZNIE czystym JSON-em (bez markdown, bez komentarzy):
-{{
-  "winner_name": "<dokladna nazwa z dwoch: '{h_name}' lub '{a_name}'>",
-  "confidence": <liczba 1-10 gdzie 10 = pewny>,
-  "reasoning": "<2-3 zdania uzasadnienia po polsku>",
-  "key_factors": ["<czynnik 1>", "<czynnik 2>", "<czynnik 3>"]
-}}
-"""
+    prompt = build_ai_prompt(home, away, today, table_by_id, all_games)
 
     try:
         from google.genai import types
@@ -362,7 +383,7 @@ Odpowiedz WYLACZNIE czystym JSON-em (bez markdown, bez komentarzy):
                 err_str = str(e)
                 if "503" in err_str or "UNAVAILABLE" in err_str or "429" in err_str:
                     wait = 5 * (attempt + 1)
-                    print(f"   ! AI tymczasowo niedostepny ({err_str[:60]}...), retry za {wait}s")
+                    print(f"   ! AI tymczasowo niedostepny ({err_str[:60]}), retry za {wait}s")
                     time.sleep(wait)
                     continue
                 raise
@@ -387,6 +408,8 @@ Odpowiedz WYLACZNIE czystym JSON-em (bez markdown, bez komentarzy):
             "confidence": int(data.get("confidence", 5)),
             "reasoning": data.get("reasoning", ""),
             "key_factors": data.get("key_factors", []),
+            "injury_notes": data.get("injury_notes", ""),
+            "agreement_with_odds": data.get("agreement_with_odds"),
             "raw_winner_name": ai_winner_raw,
         }
     except Exception as e:
@@ -394,48 +417,60 @@ Odpowiedz WYLACZNIE czystym JSON-em (bez markdown, bez komentarzy):
         return None
 
 
-def _is_game_started(ts):
-    """Czy start meczu (unix ts) juz minal?"""
-    if not ts:
-        return False
-    try:
-        return datetime.fromtimestamp(int(ts), tz=timezone.utc) <= datetime.now(timezone.utc)
-    except Exception:
-        return False
-
-
-def predict_winner(home, away, pct_map, game_context, state="pre"):
+def predict_winner_formula(home, away, table_by_id):
+    """Fallback formula: wins% + 5% home advantage."""
     h_name = home.get("name") or "Home"
     a_name = away.get("name") or "Away"
-    h_id = home.get("id")
-    a_id = away.get("id")
-    h_pct = pct_map.get(h_id, 0.0)
-    a_pct = pct_map.get(a_id, 0.0)
+    h_id = home.get("team_id")
+    a_id = away.get("team_id")
+    h_rec = pb.get_team_record(table_by_id, h_id)
+    a_rec = pb.get_team_record(table_by_id, a_id)
+    h_pct = h_rec["wins"] / max(1, h_rec["wins"] + h_rec["losses"])
+    a_pct = a_rec["wins"] / max(1, a_rec["wins"] + a_rec["losses"])
+    return h_name if (h_pct + 0.05) > a_pct else a_name
 
-    formula_pick = h_name if (h_pct + 0.05) > a_pct else a_name
+
+def _is_game_started(game):
+    if game.get("finished"):
+        return True
+    dt = pb.parse_game_date(game)
+    if dt is None:
+        return False
+    return dt <= datetime.now(CET)
+
+
+def predict_winner(home, away, table_by_id, all_games, game, today_slug, state="pre"):
+    """Wybiera zwyciezce. AI tylko dla pre-game."""
+    h_name = home.get("name") or "Home"
+    a_name = away.get("name") or "Away"
+
+    formula_pick = predict_winner_formula(home, away, table_by_id)
 
     if state == "post":
         return formula_pick
 
-    if _is_game_started(game_context.get("startTimestamp")):
-        print(f"   [TIME-skip] {a_name} vs {h_name} -> mecz juz w trakcie/skonczony, formula")
+    if _is_game_started(game):
+        print(f"   [TIME-skip] {a_name} vs {h_name} -> mecz w trakcie, formula")
         return formula_pick
 
     if USE_AI_PREDICTIONS:
-        ai_result = predict_winner_ai(home, away, h_pct, a_pct, game_context)
+        ai_result = predict_winner_ai(home, away, today_slug, table_by_id, all_games)
         if ai_result:
             print(f"   [AI] {a_name} vs {h_name} -> {ai_result['winner']} "
                   f"(conf {ai_result['confidence']}/10)")
             _ai_log.append({
                 "matchup": f"{a_name} @ {h_name}",
-                "phase": game_context.get("phase"),
-                "date": game_context.get("date"),
+                "phase": home.get("__stage_name"),
+                "round": home.get("__round_name"),
+                "date": game.get("date"),
                 "ai_pick": ai_result["winner"],
                 "formula_pick": formula_pick,
                 "agreement": ai_result["winner"] == formula_pick,
                 "confidence": ai_result["confidence"],
                 "reasoning": ai_result["reasoning"],
                 "key_factors": ai_result["key_factors"],
+                "injury_notes": ai_result.get("injury_notes", ""),
+                "agreement_with_odds": ai_result.get("agreement_with_odds"),
             })
             time.sleep(1)
             return ai_result["winner"]
@@ -450,6 +485,53 @@ def predict_winner(home, away, pct_map, game_context, state="pre"):
     return formula_pick
 
 
+def _print_ai_summary(league_label):
+    """Pretty-print analiz AI w terminalu (admin-only insight)."""
+    if not _ai_log:
+        return
+    bar = "=" * 72
+    print(f"\n{bar}")
+    print(f"   ANALIZY AI / DEV PRINT  ({league_label})")
+    print(f"{bar}")
+    for i, m in enumerate(_ai_log, 1):
+        matchup = m.get("matchup", "?")
+        phase = m.get("phase") or "-"
+        rnd = m.get("round") or ""
+        ai_pick = m.get("ai_pick")
+        formula_pick = m.get("formula_pick", "-")
+        if ai_pick is None:
+            print(f"\n   [{i}] {matchup}  ({phase} {rnd})")
+            print(f"       AI:        BRAK ODPOWIEDZI -> fallback formula")
+            print(f"       Formula:   {formula_pick}")
+            note = m.get("note")
+            if note:
+                print(f"       Note:      {note}")
+            continue
+        conf = m.get("confidence", "?")
+        agreement = "ZGODNE z formula" if m.get("agreement") else "ROZNI sie od formuly"
+        reasoning = (m.get("reasoning") or "").strip() or "(brak)"
+        factors = m.get("key_factors") or []
+        injury = (m.get("injury_notes") or "").strip()
+        odds_agree = m.get("agreement_with_odds")
+        print(f"\n   [{i}] {matchup}  ({phase} {rnd})")
+        print(f"       AI pick:   {ai_pick}   (conf {conf}/10)")
+        print(f"       Formula:   {formula_pick}   [{agreement}]")
+        if odds_agree is not None and odds_agree != "no_odds":
+            print(f"       Vs Odds:   {'zgodne' if odds_agree else 'KONTRA bukmacherzy'}")
+        print(textwrap.fill(reasoning, width=72,
+                            initial_indent="       Reason:    ",
+                            subsequent_indent="                  "))
+        if factors:
+            print(f"       Czynniki:")
+            for f in factors:
+                print(f"         - {f}")
+        if injury and injury.lower() not in ("brak istotnych braków", "brak danych"):
+            print(textwrap.fill(injury, width=72,
+                                initial_indent="       Kontuzje:  ",
+                                subsequent_indent="                  "))
+    print(f"\n{bar}\n")
+
+
 def save_ai_log(today_slug):
     if not _ai_log:
         return
@@ -459,15 +541,17 @@ def save_ai_log(today_slug):
         "date": today_slug,
         "league": "PLK",
         "model": AI_MODEL,
+        "data_source": "pulsbasketu.com",
         "matches": _ai_log,
     }
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
     print(f"   Zapisano analizy AI do {path}")
+    _print_ai_summary("PLK")
 
 
 # ==========================================
-# CSS
+# CSS (bez zmian)
 # ==========================================
 
 def get_shared_styles():
@@ -519,42 +603,46 @@ def get_shared_styles():
 
 
 # ==========================================
-# BUILDER KART MECZOW
+# BUILDER KART MECZOW (PulsBasketu format)
 # ==========================================
 
-def build_game_cards(events, pct_map):
+def build_game_cards(today_games, table_by_id, all_games, today_slug):
     cards_html = ""
     picks = []
     summaries = []
 
-    for ev in events:
+    for g in today_games:
         try:
-            home = ev.get("homeTeam") or {}
-            away = ev.get("awayTeam") or {}
+            home = dict(g.get("home_team") or {})
+            away = dict(g.get("away_team") or {})
             if not home or not away:
                 continue
 
-            h_name = home.get("name") or home.get("shortName") or "?"
-            a_name = away.get("name") or away.get("shortName") or "?"
-            h_logo = get_team_logo(home)
-            a_logo = get_team_logo(away)
-
-            h_score = get_score(ev, "home")
-            a_score = get_score(ev, "away")
-
-            state, _status_raw = map_status(ev)
-
-            ts = ev.get("startTimestamp")
-            game_context = {
-                "phase": (ev.get("roundInfo") or {}).get("name") or
-                         (ev.get("roundInfo") or {}).get("round"),
-                "date": datetime.fromtimestamp(ts, tz=timezone.utc).isoformat() if ts else "",
-                "startTimestamp": ts,
+            # Doklejamy meta z meczu do home/away dictow zeby przekazac do AI prompta
+            meta = {
+                "__odds_home": g.get("odds_home"),
+                "__odds_away": g.get("odds_away"),
+                "__stage_name": g.get("stage_name"),
+                "__round_name": g.get("round_name"),
+                "__arena": g.get("arena"),
+                "__city": g.get("city"),
+                "__referees": g.get("referees") or [],
             }
-            predicted_winner = predict_winner(home, away, pct_map, game_context, state=state)
+            home.update(meta)
+            away.update(meta)
+
+            h_name = home.get("name") or "?"
+            a_name = away.get("name") or "?"
+            h_logo = home.get("logo") or DEFAULT_LOGO
+            a_logo = away.get("logo") or DEFAULT_LOGO
+            h_score = int(home.get("score") or 0)
+            a_score = int(away.get("score") or 0)
+
+            state = pb.game_status(g)
+            predicted_winner = predict_winner(home, away, table_by_id, all_games, g, today_slug, state)
 
             if state == "pre":
-                tip = fmt_game_time(ts)
+                tip = pb.fmt_game_time(g)
                 status_text = tip if tip else "Scheduled"
                 picks.append(f"{a_name} @ {h_name} -> Typ: {predicted_winner}")
                 score_html = '<span class="vs-sep" style="font-size:2rem;">VS</span>'
@@ -567,7 +655,7 @@ def build_game_cards(events, pct_map):
                               f'<span class="score">{h_score}</span>')
                 summaries.append(f"{a_name} vs {h_name} (live): AI picked {predicted_winner}")
                 outcome_icon = ""
-            else:
+            else:  # post
                 status_text = "Final"
                 if h_score > a_score:
                     actual = h_name
@@ -622,7 +710,7 @@ def build_game_cards(events, pct_map):
 
 
 # ==========================================
-# BUILDER STRONY
+# BUILDER STRONY (bez zmian wzgledem v1)
 # ==========================================
 
 def build_page(title_date, cards_html, summaries):
@@ -658,11 +746,109 @@ def build_page(title_date, cards_html, summaries):
         </div>
 
         <div class="footer">
-            Last updated: {datetime.now().strftime("%B %d, %Y at %H:%M")} &middot; Data source: Sofascore public API
+            Last updated: {datetime.now().strftime("%B %d, %Y at %H:%M")} &middot; Data: pulsbasketu.com
         </div>
     </div>
 </body>
 </html>"""
+
+
+# ==========================================
+# FALLBACK SOFASCORE (legacy, na wypadek awarii pulsbasketu)
+# ==========================================
+
+SOFA_BASE = "https://api.sofascore.com/api/v1"
+SOFA_TOURNAMENT_ID = 263
+SOFA_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/123.0.0.0 Safari/537.36"),
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "pl,en-US;q=0.9,en;q=0.8",
+    "Referer": "https://www.sofascore.com/",
+}
+
+
+def _sofa_fetch(url):
+    try:
+        r = requests.get(url, headers=SOFA_HEADERS, timeout=15)
+        if r.status_code != 200:
+            return None
+        return r.json()
+    except Exception:
+        return None
+
+
+def fallback_sofascore_today(today_slug):
+    """Mininalny scenariusz: pobiera mecze sofascore, konwertuje na pulsbasketu format.
+    Wywolywany gdy pulsbasketu zwroci pustke."""
+    print("   [fallback] proba pobrania danych z sofascore...")
+    seasons = _sofa_fetch(f"{SOFA_BASE}/unique-tournament/{SOFA_TOURNAMENT_ID}/seasons")
+    if not seasons:
+        print("   [fallback] sofascore /seasons -> brak odpowiedzi")
+        return [], None
+
+    # wybierz aktualny sezon
+    current = None
+    for s in seasons.get("seasons") or []:
+        year = str(s.get("year") or "")
+        if "25/26" in year or year.startswith("25"):
+            current = s
+            break
+    if not current and (seasons.get("seasons") or []):
+        current = seasons["seasons"][0]
+    if not current:
+        return [], None
+
+    season_id = current.get("id")
+    out_games = []
+    for kind in ("next", "last"):
+        d = _sofa_fetch(f"{SOFA_BASE}/unique-tournament/{SOFA_TOURNAMENT_ID}/season/{season_id}/events/{kind}/0")
+        if not d:
+            continue
+        for ev in d.get("events") or []:
+            ts = ev.get("startTimestamp")
+            if not ts:
+                continue
+            try:
+                dt = datetime.fromtimestamp(int(ts), tz=CET)
+            except Exception:
+                continue
+            if dt.strftime("%Y-%m-%d") != today_slug:
+                continue
+            # konwertuj na pulsbasketu-like format
+            home = ev.get("homeTeam") or {}
+            away = ev.get("awayTeam") or {}
+            sc_h = (ev.get("homeScore") or {}).get("current") or 0
+            sc_a = (ev.get("awayScore") or {}).get("current") or 0
+            status_t = ((ev.get("status") or {}).get("type") or "").lower()
+            finished = status_t in ("finished", "ended", "afterextra", "afterpenalties")
+            out_games.append({
+                "game_id": ev.get("id"),
+                "date": dt.replace(tzinfo=None).isoformat(),
+                "finished": finished,
+                "home_team": {
+                    "team_id": None,  # sofa ID inne niz pulsbasketu
+                    "name": home.get("name", "?"),
+                    "score": sc_h,
+                    "logo": f"https://api.sofascore.app/api/v1/team/{home.get('id')}/image" if home.get("id") else DEFAULT_LOGO,
+                },
+                "away_team": {
+                    "team_id": None,
+                    "name": away.get("name", "?"),
+                    "score": sc_a,
+                    "logo": f"https://api.sofascore.app/api/v1/team/{away.get('id')}/image" if away.get("id") else DEFAULT_LOGO,
+                },
+                "stage_name": ((ev.get("roundInfo") or {}).get("name")) or None,
+                "round_name": str((ev.get("roundInfo") or {}).get("round") or "") or None,
+                "city": None,
+                "arena": None,
+                "referees": [],
+                "odds_home": None,
+                "odds_away": None,
+            })
+    print(f"   [fallback] sofascore znalazl {len(out_games)} meczow na {today_slug}")
+    return out_games, "sofascore"
 
 
 # ==========================================
@@ -675,8 +861,9 @@ def main():
 
     today_slug = get_today_date_str()
     today_str = datetime.now().strftime("%B %d, %Y")
+    season = pb.default_season()
     print(f"   Data: {today_slug} ({today_str})")
-    print(f"   Liga: {TOURNAMENT_NAME_PL} (Sofascore tournament id={TOURNAMENT_ID})")
+    print(f"   Liga: {TOURNAMENT_NAME_PL}, sezon API: {season}")
 
     if USE_AI_PREDICTIONS and os.environ.get("GEMINI_API_KEY"):
         print(f"   Tryb predykcji: AI ({AI_MODEL} + Google Search)")
@@ -686,27 +873,27 @@ def main():
         print(f"   Tryb predykcji: FORMULA W-L (USE_AI_PREDICTIONS=False)")
     print()
 
-    season_id = fetch_current_season_id()
-    if not season_id:
-        print("!! Nie udalo sie pobrac sezonu - sprawdz {DEBUG_DIR}/.")
-        # Generuj pusta strone, zeby link na hubie nie byl 404
-        out_path = os.path.join(OUTPUT_DIR, "index.html")
-        with open(out_path, "w", encoding="utf-8") as f:
-            f.write(build_page(today_str, "", []))
-        return
+    # ====== PRIMARY: PulsBasketu ======
+    print("=> Probuje PulsBasketu (primary):")
+    all_games = pb.fetch_games_list(season)
+    table_by_id = pb.fetch_table(season)
 
-    print()
-    pct_map = fetch_standings_map(season_id)
-    print()
-    next_events = fetch_events_for_season(season_id, "next")
-    last_events = fetch_events_for_season(season_id, "last")
-    all_events = next_events + last_events
+    today_games = pb.filter_games_for_date(all_games, today_slug) if all_games else []
+    source = "pulsbasketu" if (all_games or table_by_id) else None
 
-    today_events = filter_events_for_date(all_events, today_slug)
-    print(f"   Mecze na {today_slug}: {len(today_events)}")
+    # ====== FALLBACK: Sofascore (jak pulsbasketu padl) ======
+    if not all_games and not table_by_id:
+        print("=> PulsBasketu nie zwrocil danych - probuje fallback Sofascore")
+        today_games, source = fallback_sofascore_today(today_slug)
+        all_games = today_games  # tylko dzisiejsze (sofascore fallback)
+        table_by_id = {}  # pusta tabela -> AI dostanie 0-0, formula bedzie 50/50
+
+    print(f"\n   Zrodlo danych: {source or 'BRAK'}")
+    print(f"   Mecze na {today_slug}: {len(today_games)}")
     print()
 
-    cards_html, picks, summaries = build_game_cards(today_events, pct_map)
+    # ====== BUILD ======
+    cards_html, picks, summaries = build_game_cards(today_games, table_by_id, all_games, today_slug)
 
     out_path = os.path.join(OUTPUT_DIR, "index.html")
     with open(out_path, "w", encoding="utf-8") as f:
@@ -720,9 +907,9 @@ def main():
 
     save_ai_log(today_slug)
 
-    if not today_events:
-        print(f"\n   Brak meczow PLK na {today_slug}.")
-        print(f"   Sprawdz dump {DEBUG_DIR}/debug_events_next_p0.json - czy w API sa mecze?")
+    if not today_games:
+        print(f"\n   Brak meczow PLK na {today_slug} (zarowno z pulsbasketu jak i sofascore).")
+        print(f"   Sprawdz {DEBUG_DIR}/pb_*.json - czy w API sa mecze?")
 
     print(f"\n=== GOTOWE. Otworz {out_path} w przegladarce. ===")
 
