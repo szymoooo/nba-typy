@@ -1,9 +1,16 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-23 15:40 ET) ---
-Analiza meczu: Knicks @ Cavaliers
+--- KRYTYCZNY AUDYT LIVE (2026-05-23 15:52 ET) ---
+Analiza meczu: Knicks @ Cavaliers (2026-05-23)
 
-*   **Kluczowe braki w składach (2026-05-23):**
-    *   New York Knicks: Brak aktualnych raportów (Injury Report) na tę chwilę. Obaj zespoły mają pełne składy na Mecz 3 Finałów Konferencji Wschodniej.
-    *   Cleveland Cavaliers: Brak aktualnych raportów (Injury Report) na tę chwilę. Obaj zespoły mają pełne składy na Mecz 3 Finałów Konferencji Wschodniej. Cavaliers spodziewani są w swoim zwykłym składzie wyjściowym z Jamesem Hardenem, Donovanem Mitchellem, Maxem Strusem, Evanem Mobleyem i Jarrettem Allenem.
+*   **Kluczowe braki w składach:**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Zarówno Cleveland Cavaliers, jak i New York Knicks nie mają żadnych graczy zgłoszonych w raporcie kontuzji na Mecz 3 Finałów Konferencji Wschodniej.
+    *   Donovan Mitchell (Cavaliers) jest spodziewany na boisku, mimo spekulacji o jego zdrowiu.
+    *   Jalen Brunson (Knicks) również ma zagrać, pomimo wcześniejszego dyskomfortu w kostce.
+    *   James Harden (Cavaliers) jest zdolny do gry.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak kluczowych braków w składach obu drużyn na dzisiejszy mecz (2026-05-23) oznacza, że obie drużyny przystąpią do spotkania w pełnej sile. Typ na Cavaliers nie jest obarczony ryzykiem wynikającym z absencji zawodników.
+*   **Werdykt dla typu: Cavaliers**
+    *   [⚠️ RYZYKOWNY]
+    *   Knicks prowadzą w serii 2-0 po zwycięstwach w Meczach 1 i 2.
+    *   Knicks są w trakcie dziewięciomeczowej serii zwycięstw w play-offach.
+    *   Cavaliers, mimo gry u siebie, mają problem ze skutecznością (39% z gry, 26% za trzy w Mecz 2).
+    *   Defensywa Knicks jest bardzo skuteczna, a zespół posiada wielu graczy potrafiących zdobywać punkty (Jalen Brunson, Josh Hart, Karl-Anthony Towns, Mikal Bridges).
+    *   Chociaż brak kontuzji jest korzystny dla Cavaliers, dotychczasowa forma i przewaga Knicks sprawiają, że wygrana Cavaliers jest ryzykownym typem.
