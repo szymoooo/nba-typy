@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T07:52:43.334390",
+  "generated_at": "2026-05-23T07:56:42.364320",
   "date": "2026-05-23",
   "league": "PLK",
   "model": "gemini-2.5-flash",
@@ -13,16 +13,15 @@
       "ai_pick": "AMW Arka Gdynia",
       "formula_pick": "WKS Śląsk Wrocław",
       "agreement": false,
-      "confidence": 8,
-      "reasoning": "AMW Arka Gdynia posiada silne momentum, wygrywając dwa ostatnie mecze ćwierćfinałowej serii, oba rozgrywane na wyjeździe we Wrocławiu, co doprowadziło do remisu 2-2 w serii 'best-of-5'. Kluczowy gracz Śląska, Issuf Sanon, jest kontuzjowany, natomiast Milan Barbitch z Arki wrócił do pełnej formy i był bohaterem poprzedniego, zwycięskiego meczu.",
+      "confidence": 7,
+      "reasoning": "Mimo, że mecz rozgrywany jest we Wrocławiu, AMW Arka Gdynia ma silne momentum, wygrywając dwa ostatnie spotkania w tej serii, oba na wyjeździe. Seria jest remisowa 2-2, co czyni ten mecz decydującym, a Arka pokazała swoją skuteczność w krytycznych momentach na terenie rywala.",
       "key_factors": [
-        "Momentum AMW Arka Gdynia (dwie wygrane z rzędu w serii, obie na wyjeździe).",
-        "Kontuzja Issufa Sanona (WKS Śląsk Wrocław).",
-        "Powrót i dobra forma Milana Barbitcha (AMW Arka Gdynia).",
-        "Udowodniona zdolność Arki do wygrywania w Hali Orbita we Wrocławiu w tej serii."
+        "Arka Gdynia wygrała dwa ostatnie mecze serii na wyjeździe",
+        "Arka Gdynia ma pozytywne momentum (2 zwycięstwa z rzędu w play-offach)",
+        "Mecz decydujący (Game 5) z wynikiem 2-2 w serii"
       ],
-      "injury_notes": "WKS Śląsk Wrocław: Issuf Sanon doznał złamania zmęczeniowego V kości śródstopia i jego powrót do gry zależy od procesu gojenia i rehabilitacji, co oznacza, że jest niezdolny do gry. AMW Arka Gdynia: Milan Barbitch wrócił do składu po kontuzji doznanej w ostatniej kolejce rundy zasadniczej i zagrał w trzecim i czwartym meczu serii ćwierćfinałowej, będąc kluczowym zawodnikiem.",
-      "agreement_with_odds": false
+      "injury_notes": "Brak istotnych, potwierdzonych kontuzji kluczowych koszykarzy w obu drużynach na dzień dzisiejszy.",
+      "agreement_with_odds": "no_odds"
     }
   ]
 }
