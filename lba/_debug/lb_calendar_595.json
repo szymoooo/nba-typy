@@ -46,7 +46,7 @@
       "match_serie": "1-2",
       "match_hw": 1,
       "match_vw": 2,
-      "updated_at": "2026-05-23T19:38:47.671+02:00",
+      "updated_at": "2026-05-23T19:59:40.421+02:00",
       "h_team_id": 1721,
       "h_team_name": "Pallacanestro Trieste",
       "h_club_code": "TRI",
@@ -315,6 +315,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1779518733_mlCK:1779557199_cmCK:1779557927_cdCK:1779518733_vCK:1779487319",
+  "cache_key": "tCK:1779518733_mlCK:1779559290_cmCK:1779559180_cdCK:1779518733_vCK:1779487319",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }

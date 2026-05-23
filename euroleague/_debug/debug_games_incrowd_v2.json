@@ -91,7 +91,38 @@
         },
         "editorialName": "Real"
       },
-      "referees": null,
+      "referees": [
+        {
+          "code": "OJCZ",
+          "name": "RADOVIC, SRETEN",
+          "number": 1,
+          "alias": "RADOVIC, S.",
+          "country": {
+            "code": "CRO",
+            "name": "Croatia"
+          }
+        },
+        {
+          "code": "OJCL",
+          "name": "LOTTERMOSER, ROBERT",
+          "number": 2,
+          "alias": "LOTTERMOSER, R.",
+          "country": {
+            "code": "GER",
+            "name": "Germany"
+          }
+        },
+        {
+          "code": "OJDF",
+          "name": "LATISEVS, OLEGS",
+          "number": 3,
+          "alias": "LATISEVS, O.",
+          "country": {
+            "code": "LAT",
+            "name": "Latvia"
+          }
+        }
+      ],
       "venue": {
         "code": "AUM6",
         "name": "TELEKOM CENTER ATHENS",
@@ -57296,7 +57327,7 @@
     }
   ],
   "metadata": {
-    "createdAt": "2026-05-23T17:43:49.966404505Z",
+    "createdAt": "2026-05-23T18:02:05.281057297Z",
     "pageItems": 402,
     "totalItems": 402,
     "totalPages": 1,
