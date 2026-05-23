@@ -137,6 +137,20 @@ jobs:
         run: python update_lba.py
         continue-on-error: true
 
+      # ============= ACB (Liga Endesa - Hiszpania) =============
+      - name: ACB AI Picks
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python update_acb.py
+        continue-on-error: true
+
+      # ============= BBL (easyCredit Bundesliga - Niemcy) =============
+      - name: BBL AI Picks
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python update_bbl.py
+        continue-on-error: true
+
       # ============= Commit =============
       - name: Commit and Push
         run: |
@@ -150,6 +164,8 @@ jobs:
           [ -d euroleague ]     && git add euroleague/
           [ -d plk ]            && git add plk/
           [ -d lba ]            && git add lba/
+          [ -d acb ]            && git add acb/
+          [ -d bbl ]            && git add bbl/
 
           git diff --quiet && git diff --staged --quiet || \
             (git commit -m "Update $(date -u '+%H:%M UTC') [PLK:${{ steps.plk_mode.outputs.mode }}]" && git push)
