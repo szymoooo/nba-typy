@@ -558,55 +558,80 @@ def format_series_state_short(series_state, h_id, a_id, h_name, a_name):
 
 def get_top_scorers_in_series(series_player_stats, team_id, n=3):
     """Z odpowiedzi /playoff-series/{id}/players/stat-lines wyciaga top N
-    scorerow danej druzyny w tej serii."""
+    scorerow danej druzyny w tej serii.
+
+    Format odpowiedzi (PulsBasketu, fix #10 - podstawowa struktura):
+      {
+        "team_id": 9, "team_name": "AMW Arka Gdynia",
+        "full_name": "Luke Barrett", "position": "SF", "player_id": 7161,
+        "games": 4,                    # mecze w serii
+        "total_games_played": 34,      # mecze w sezonie
+        "stat_line": {points: 18.8, ... }   # SREDNIE (mimo ze 'stat_line' a nie 'avg')
+      }
+    """
     if not series_player_stats:
         return []
-    # struktura odpowiedzi roznie: lista plain albo {data: [...]}
-    players = (series_player_stats.get("data") if isinstance(series_player_stats, dict) else None) or \
-              (series_player_stats.get("players") if isinstance(series_player_stats, dict) else None) or \
-              (series_player_stats if isinstance(series_player_stats, list) else [])
+    # Lista moze byc plain albo {data: [...]} / {players: [...]}
+    players = series_player_stats if isinstance(series_player_stats, list) else (
+        (series_player_stats.get("data") if isinstance(series_player_stats, dict) else None) or
+        (series_player_stats.get("players") if isinstance(series_player_stats, dict) else None) or
+        []
+    )
     if not isinstance(players, list):
         return []
 
-    # filtruj po team_id
     def player_team(p):
         if not isinstance(p, dict):
             return None
-        # team_id moze byc na roznych poziomach
+        # team_id na top-level, fallback na zagniezdzone
         return (p.get("team_id") or
                 (p.get("team") or {}).get("team_id") or
                 (p.get("player_data") or {}).get("team_id"))
 
-    def player_ppg(p):
+    def player_name(p):
+        """Najpierw full_name (tak zwraca PulsBasketu), potem first+last fallbacki."""
         if not isinstance(p, dict):
-            return 0
-        # avg_stat_line.points albo stat_line.points
-        for key in ("avg_stat_line", "stat_line"):
-            sl = p.get(key) or {}
-            if isinstance(sl, dict) and sl.get("points") is not None:
-                return sl["points"]
-        return p.get("points") or 0
+            return "?"
+        full = p.get("full_name")
+        if full:
+            return full.strip()
+        pdata = p.get("player_data") or p.get("player") or {}
+        full = pdata.get("full_name")
+        if full:
+            return full.strip()
+        first = p.get("first_name") or pdata.get("first_name") or ""
+        last = p.get("last_name") or pdata.get("last_name") or ""
+        joined = (first + " " + last).strip()
+        return joined or pdata.get("name") or "?"
+
+    def player_stats(p):
+        """Zwraca slownik srednich (PulsBasketu nazywa to 'stat_line' chociaz to srednie).
+        Fallback na 'avg_stat_line' jak format kiedys sie zmieni."""
+        if not isinstance(p, dict):
+            return {}
+        return p.get("stat_line") or p.get("avg_stat_line") or {}
+
+    def player_ppg(p):
+        return player_stats(p).get("points") or 0
 
     team_players = [p for p in players if player_team(p) == team_id]
+    # Wykluczamy "is_total_player" (sumaryczne wirtualne wpisy zespolu)
+    team_players = [p for p in team_players if not p.get("is_total_player")]
     team_players.sort(key=player_ppg, reverse=True)
 
     out = []
     for p in team_players[:n]:
-        if not isinstance(p, dict):
-            continue
-        avg = p.get("avg_stat_line") or p.get("stat_line") or {}
-        pdata = p.get("player_data") or p.get("player") or {}
-        first = p.get("first_name") or pdata.get("first_name") or ""
-        last = p.get("last_name") or pdata.get("last_name") or ""
-        name = (first + " " + last).strip() or pdata.get("name") or "?"
+        sl = player_stats(p)
         out.append({
-            "name": name,
-            "ppg": round(avg.get("points", 0) or 0, 1),
-            "apg": round(avg.get("assists", 0) or 0, 1),
-            "rpg": round(avg.get("rebounds", 0) or 0, 1),
-            "fgp": avg.get("fgp"),
-            "f3p": avg.get("f3p"),
-            "fouls": round(avg.get("fouls", 0) or 0, 1),
-            "games_played": p.get("games_played") or pdata.get("games_played"),
+            "name": player_name(p),
+            "position": p.get("position"),
+            "player_id": p.get("player_id") or (p.get("player_data") or {}).get("player_id"),
+            "ppg": round(sl.get("points", 0) or 0, 1),
+            "apg": round(sl.get("assists", 0) or 0, 1),
+            "rpg": round(sl.get("rebounds", 0) or 0, 1),
+            "fgp": sl.get("fgp"),
+            "f3p": sl.get("f3p"),
+            "fouls": round(sl.get("fouls", 0) or 0, 1),
+            "games_in_series": p.get("games"),  # ile meczow zagral w tej serii
         })
     return out

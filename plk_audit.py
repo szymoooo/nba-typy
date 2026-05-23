@@ -89,26 +89,33 @@ def _format_series_top_scorers(series_id, h_id, a_id, h_name, a_name):
     h_top = pb.get_top_scorers_in_series(stats, h_id, 3)
     a_top = pb.get_top_scorers_in_series(stats, a_id, 3)
 
+    def fmt_player(s):
+        bits = [f"{s['name']} ({s.get('position') or '?'})"]
+        bits.append(f"{s['ppg']} ppg w serii")
+        if s.get("apg"):
+            bits.append(f"{s['apg']} apg")
+        if s.get("rpg"):
+            bits.append(f"{s['rpg']} rpg")
+        if s.get("fgp") is not None:
+            bits.append(f"FG {s['fgp']}%")
+        if s.get("f3p") is not None:
+            bits.append(f"3P {s['f3p']}%")
+        if s.get("fouls"):
+            bits.append(f"{s['fouls']} fauli/mecz")
+        if s.get("games_in_series"):
+            bits.append(f"{s['games_in_series']} mecz(y) w serii")
+        return "    - " + ", ".join(bits)
+
     lines = [f"  {h_name}:"]
-    for s in h_top or [{"name": "(brak danych)", "ppg": 0}]:
-        bits = [f"{s['name']}: {s['ppg']} ppg w serii"]
-        if s.get("apg"):
-            bits.append(f"{s['apg']} apg")
-        if s.get("rpg"):
-            bits.append(f"{s['rpg']} rpg")
-        if s.get("fouls"):
-            bits.append(f"{s['fouls']} fauli/mecz")
-        lines.append("    - " + ", ".join(bits))
+    if h_top:
+        lines.extend(fmt_player(s) for s in h_top)
+    else:
+        lines.append("    - (brak graczy w odpowiedzi API dla tej druzyny)")
     lines.append(f"  {a_name}:")
-    for s in a_top or [{"name": "(brak danych)", "ppg": 0}]:
-        bits = [f"{s['name']}: {s['ppg']} ppg w serii"]
-        if s.get("apg"):
-            bits.append(f"{s['apg']} apg")
-        if s.get("rpg"):
-            bits.append(f"{s['rpg']} rpg")
-        if s.get("fouls"):
-            bits.append(f"{s['fouls']} fauli/mecz")
-        lines.append("    - " + ", ".join(bits))
+    if a_top:
+        lines.extend(fmt_player(s) for s in a_top)
+    else:
+        lines.append("    - (brak graczy w odpowiedzi API dla tej druzyny)")
     return "\n".join(lines)
 
 
@@ -223,17 +230,30 @@ def run_audit():
 
     ZASADY:
     1. UZYWAJ WYLACZNIE narzedzia Google Search do sprawdzenia aktualnych skladow
-       i kontuzji.
+       i kontuzji KOSZYKARZY (nie pilkarzy).
     2. IGNORUJ dane sprzed sezonu 2025-26. Interesuje Cie {today_date}.
-    3. Sprawdzaj zrodla: plk.pl, polskikosz.pl, sportowefakty.wp.pl,
+    3. **WAZNE - WIELOSEKCYJNE KLUBY:** Niektore polskie kluby maja sekcje
+       koszykarska, pilkarska, oldbojow itd. Skupiaj sie WYLACZNIE na sekcji
+       koszykarki PLK. NIE WYMIENIAJ kontuzji ani niedostepnosci pilkarzy lub
+       zawodnikow innych sekcji - po prostu ich pomin. NIE pisz tez "informacja
+       o X jest nieistotna" - jesli nieistotne, pomin calkowicie.
+       Przyklad: WKS Slask Wroclaw ma druzyne pilkarska - kontuzje pilkarzy nie
+       sa istotne dla meczu koszykowki.
+    4. Sprawdzaj zrodla: plk.pl, polskikosz.pl, sportowefakty.wp.pl,
        sport.pl/koszykowka, eurosport.pl, oficjalne profile klubow PLK na X/Twitter,
        lokalne portale (np. nto.pl, gloswielkopolski.pl).
-    4. **WAZNE: Hala i miasto meczu sa podane w sekcji KONTEKST. NIE WYMYSLAJ ich.**
-       Jezeli kontekst mowi "Hala Orbita, Wroclaw" - to JEST tam mecz, nie pisz inaczej.
-    5. Jesli nie znajdziesz potwierdzonych informacji o kontuzjach z DZISIAJ ({today_date}),
-       napisz "Brak aktualnych raportow o brakach w skladzie".
-    6. NIE ZGADUJ. Sprawdzaj statusy: kontuzja (uraz/injured), niedyspozycja, zawieszenie.
-    7. Odpowiadaj krotko, w punktach, uzywaj emoji.
+       Filtruj tylko sekcje koszykarska.
+    5. **Hala i miasto meczu sa podane w sekcji KONTEKST. NIE WYMYSLAJ ich.**
+       Jezeli kontekst mowi "Hala Orbita, Wroclaw" - to JEST tam mecz.
+    6. **Dane top scorerow z PulsBasketu maja KONKRETNE NAZWISKA.** Uzywaj ich
+       wprost. NIE pisz "Zawodnik A (prawdopodobnie X)" ani "wiodacy strzelec
+       prawdopodobnie ma..." - jak masz dane, uzyj nazwiska. Jak nie masz
+       danych, napisz "brak danych z API dla tego zespolu".
+    7. Jesli nie znajdziesz potwierdzonych informacji o kontuzjach z DZISIAJ
+       ({today_date}), napisz "Brak istotnych brakow w skladzie koszykarskim".
+    8. NIE ZGADUJ. Sprawdzaj statusy: kontuzja (uraz/injured), niedyspozycja,
+       zawieszenie.
+    9. Odpowiadaj krotko, w punktach, uzywaj emoji.
     """
 
     prompt = f"""
