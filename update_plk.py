@@ -36,7 +36,8 @@ OUTPUT_DIR = "plk"
 DEBUG_DIR = "plk/_debug"
 
 # AI
-USE_AI_PREDICTIONS = True
+# PLK_LIVE_MODE=true -> pomija Gemini (tylko scores/HTML refresh, tani run)
+USE_AI_PREDICTIONS = os.environ.get("PLK_LIVE_MODE", "").lower() not in ("true", "1", "yes")
 AI_MODEL = "gemini-2.5-flash"
 
 # Brand
