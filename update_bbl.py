@@ -21,7 +21,8 @@ LEAGUE_NAME = "easyCredit BBL"
 OUTPUT_DIR = "bbl"
 DEBUG_DIR = "bbl/_debug"
 SOFA_TOURNAMENT_ID = 227  # BBL easyCredit Bundesliga (105=404 Not Found, 227=BBL Germany)
-SOFA_SEASON_YEAR = "2025"
+SOFA_SEASON_ID = 79994     # sezon 25/26 - hardkodowany fallback gdy API niedostepne
+SOFA_SEASON_YEAR = "25/26"
 
 USE_AI_PREDICTIONS = os.environ.get("PLK_LIVE_MODE", "").lower() not in ("true", "1", "yes")
 AI_MODEL = "gemini-2.5-flash"
@@ -72,25 +73,26 @@ def get_today_str():
 
 
 def fetch_sofa_season_id():
+    """Pobiera aktualny season_id dla BBL z Sofascore.
+    GitHub Actions IP jest blokowane przez Sofascore - fallback na SOFA_SEASON_ID."""
     data = _sofa_fetch(f"https://api.sofascore.com/api/v1/unique-tournament/{SOFA_TOURNAMENT_ID}/seasons")
     if not data:
-        return None
+        print(f"   [sofa] BBL /seasons niedostepne (blocked?) - fallback id={SOFA_SEASON_ID}")
+        return SOFA_SEASON_ID
     _save_debug("seasons", data)
     seasons = data.get("seasons") or []
     print(f"   [sofa] BBL dostepne sezony: {[(s.get('name'), s.get('year'), s.get('id')) for s in seasons[:5]]}")
     for s in seasons:
         year = str(s.get("year") or "")
-        # Sofascore moze zwracac: "25/26", "2025/2026", "2025", itp.
         if ("25/26" in year or "2025/2026" in year or
                 year == "2025" or year.startswith("2025")):
             print(f"   [sofa] BBL sezon: {s.get('name')} (id={s.get('id')})")
             return s.get("id")
-    # Fallback: najnowszy sezon
     if seasons:
         s = seasons[0]
         print(f"   [sofa] BBL sezon (fallback latest): {s.get('name')} (id={s.get('id')})")
         return s.get("id")
-    return None
+    return SOFA_SEASON_ID
 
 
 def fetch_sofa_games_today(season_id, today_slug):
