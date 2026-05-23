@@ -1,25 +1,30 @@
 {
-  "generated_at": "2026-05-23T17:44:28.387298",
-  "date": "2026-05-23",
+  "generated_at": "2026-05-23T22:38:30.952743",
+  "date": "2026-05-24",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Germani Brescia @ Pallacanestro Trieste",
+      "matchup": "Virtus Olidata Bologna @ Dolomiti Energia Trentino",
       "day": "Quarti di Finale - Gara  4",
-      "date": "2026-05-23T20:00:00.000+02:00",
-      "ai_pick": "Germani Brescia",
-      "formula_pick": "Germani Brescia",
+      "date": "2026-05-24T17:00:00.000+02:00",
+      "ai_pick": "Dolomiti Energia Trentino",
+      "formula_pick": "Dolomiti Energia Trentino",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Germani Brescia prowadzi w serii 2-1 i wygrała Gara 3 na wyjeździe, co świadczy o ich silnej grze zespołowej, nawet pomimo braku Amedeo Della Valle. Pallacanestro Trieste, mimo przewagi własnego parkietu, przegrała Gara 3 u siebie, a kontuzja kluczowego gracza Colbeya Rossa znacząco osłabia ich potencjał. Brescia ma impet i udowodniła zdolność do wygrywania ważnych meczów poza domem.",
+      "confidence": 9,
+      "reasoning": "Dolomiti Energia Trentino gra u siebie w Gara 4, mając na koncie dwa ostatnie zwycięstwa w serii, w tym dominującą wygraną w Gara 3. Virtus Olidata Bologna boryka się z licznymi kontuzjami kluczowych zawodników i ma negatywne momentum, przegrywając dwa ostatnie mecze.",
       "key_factors": [
-        "Prowadzenie Germani Brescia w serii 2-1 i momentum po wygranej w Gara 3 na wyjeździe.",
-        "Prawdopodobna absencja kluczowego gracza Pallacanestro Trieste, Colbeya Rossa (kontuzja łydki), która jest znaczącym osłabieniem.",
-        "Dominująca postawa Miro Bilana z Brescii w Gara 3 (20 punktów, 12 zbiórek).",
-        "Przewaga własnego parkietu dla Pallacanestro Trieste, ale nie wystarczyła ona w Gara 3."
+        "Przewaga własnego parkietu Trentino w kluczowym meczu",
+        "Poważne osłabienia kadrowe Virtus Olidata Bologna z powodu kontuzji",
+        "Momentum psychologiczne i sportowe po stronie Trentino"
       ],
-      "injury_notes": "Amedeo Della Valle (Germani Brescia) był wykluczony z Gara 3 z powodu problemów mięśniowych i prawdopodobnie jest niedostępny/wątpliwy na Gara 4. Colbey Ross (Pallacanestro Trieste) był wykluczony z Gara 3 z powodu problemów mięśniowych lewej łydki i prawdopodobnie jest niedostępny/wątpliwy na Gara 4. Status Lodovico Deangeli (Pallacanestro Trieste), który złamał przegrodę nosową w marcu 2026, nie jest jasno określony w kontekście dzisiejszego meczu, ale nie ma informacji o jego absencji w ostatnich meczach playoff."
+      "injury_notes": "Dolomiti Energia Trentino: Andrea Pecchia (kontuzja ścięgna podkolanowego, prawdopodobnie wykluczony). Virtus Olidata Bologna: Alessandro Pajola (kontuzja kolana, prawdopodobnie wykluczony do końca sezonu), Aliou Diarra (uraz mięśni brzucha, wątpliwy/day-to-day, opuścił Gara 3), Matteo Accorsi (zwichnięty palec, wykluczony), Derrick Alston Jr. (złamanie ręki, wykluczony). Luca Vildoza grał w Gara 3 i powinien być dostępny."
+    },
+    {
+      "matchup": "Umana Reyer Venezia @ Bertram Derthona Tortona",
+      "ai_pick": null,
+      "formula_pick": "Bertram Derthona Tortona",
+      "note": "AI fallback"
     }
   ]
 }
