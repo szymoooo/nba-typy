@@ -36,6 +36,7 @@
             --nba: #3b82f6;
             --euroleague: #ff6600;
             --plk: #dc2626;
+            --lba: #006db7;
         }
         * { box-sizing: border-box; }
         body {
@@ -82,7 +83,7 @@
         }
         .league-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(4, 1fr);
             gap: 30px;
         }
         .league-card {
@@ -124,6 +125,10 @@
             border-color: var(--plk);
             box-shadow: 0 25px 50px -12px rgba(220, 38, 38, 0.35);
         }
+        .league-card.lba:hover {
+            border-color: var(--lba);
+            box-shadow: 0 25px 50px -12px rgba(0, 109, 183, 0.35);
+        }
         .league-logo {
             width: 160px;
             height: 160px;
@@ -147,6 +152,7 @@
         .league-card.nba .league-name { color: var(--nba); }
         .league-card.euroleague .league-name { color: var(--euroleague); }
         .league-card.plk .league-name { color: var(--plk); }
+        .league-card.lba .league-name { color: var(--lba); }
         .league-sub {
             color: var(--subtext);
             font-size: 0.85rem;
@@ -179,6 +185,10 @@
             background: rgba(220, 38, 38, 0.15);
             border-color: var(--plk);
         }
+        .league-card.lba:hover .league-cta {
+            background: rgba(0, 109, 183, 0.15);
+            border-color: var(--lba);
+        }
         .hub-footer {
             text-align: center;
             color: var(--subtext);
@@ -192,7 +202,7 @@
         }
         .hub-footer a:hover { color: var(--text); }
         @media (max-width: 1024px) {
-            .league-grid { grid-template-columns: 1fr; gap: 20px; }
+            .league-grid { grid-template-columns: repeat(2, 1fr); gap: 20px; }
         }
         @media (max-width: 768px) {
             .hub-title { font-size: 2.4rem; letter-spacing: -1px; }
@@ -243,13 +253,24 @@
                 <p class="league-sub">Orlen Basket Liga &middot; Gemini AI &middot; Polskie Typy</p>
                 <span class="league-cta">Zobacz typy PLK &rarr;</span>
             </a>
+
+            <a href="/lba/" class="league-card lba" aria-label="LBA Lega Basket Serie A AI Picks">
+                <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Lega_Basket_Serie_A_logo.png"
+                     alt="LBA logo"
+                     class="league-logo"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2244%22 fill=%22none%22 stroke=%22%23006db7%22 stroke-width=%223%22/><text y=%2262%22 x=%2250%22 text-anchor=%22middle%22 font-size=%2242%22 fill=%22%23006db7%22>%F0%9F%8F%80</text></svg>';">
+                <h2 class="league-name">LBA</h2>
+                <p class="league-sub">Serie A Basket &middot; Gemini AI &middot; Italy</p>
+                <span class="league-cta">View LBA picks &rarr;</span>
+            </a>
         </div>
 
         <div class="hub-footer">
             Updated daily &middot; Public AI model picks &middot;
             <a href="/nba/">NBA</a> &middot;
             <a href="/euroleague/">EuroLeague</a> &middot;
-            <a href="/plk/">PLK</a>
+            <a href="/plk/">PLK</a> &middot;
+            <a href="/lba/">LBA</a>
         </div>
     </div>
 </body>
