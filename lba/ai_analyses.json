@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-05-23T22:38:30.952743",
+  "generated_at": "2026-05-23T22:57:52.913872",
   "date": "2026-05-24",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Virtus Olidata Bologna @ Dolomiti Energia Trentino",
-      "day": "Quarti di Finale - Gara  4",
-      "date": "2026-05-24T17:00:00.000+02:00",
-      "ai_pick": "Dolomiti Energia Trentino",
+      "ai_pick": null,
       "formula_pick": "Dolomiti Energia Trentino",
-      "agreement": true,
-      "confidence": 9,
-      "reasoning": "Dolomiti Energia Trentino gra u siebie w Gara 4, mając na koncie dwa ostatnie zwycięstwa w serii, w tym dominującą wygraną w Gara 3. Virtus Olidata Bologna boryka się z licznymi kontuzjami kluczowych zawodników i ma negatywne momentum, przegrywając dwa ostatnie mecze.",
-      "key_factors": [
-        "Przewaga własnego parkietu Trentino w kluczowym meczu",
-        "Poważne osłabienia kadrowe Virtus Olidata Bologna z powodu kontuzji",
-        "Momentum psychologiczne i sportowe po stronie Trentino"
-      ],
-      "injury_notes": "Dolomiti Energia Trentino: Andrea Pecchia (kontuzja ścięgna podkolanowego, prawdopodobnie wykluczony). Virtus Olidata Bologna: Alessandro Pajola (kontuzja kolana, prawdopodobnie wykluczony do końca sezonu), Aliou Diarra (uraz mięśni brzucha, wątpliwy/day-to-day, opuścił Gara 3), Matteo Accorsi (zwichnięty palec, wykluczony), Derrick Alston Jr. (złamanie ręki, wykluczony). Luca Vildoza grał w Gara 3 i powinien być dostępny."
+      "note": "AI fallback"
     },
     {
       "matchup": "Umana Reyer Venezia @ Bertram Derthona Tortona",

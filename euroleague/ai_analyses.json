@@ -1,23 +1,13 @@
 {
-  "generated_at": "2026-05-23T22:37:30.957107",
+  "generated_at": "2026-05-23T22:56:46.791107",
   "date": "2026-05-24",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Real Madrid @ Olympiacos Piraeus",
-      "phase": "Final Four",
-      "date": "2026-05-24T18:00:00.000Z",
-      "ai_pick": "Olympiacos Piraeus",
+      "ai_pick": null,
       "formula_pick": "Olympiacos Piraeus",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Olympiacos Piraeus wchodzi w finał z przewagą, mając za sobą imponujące zwycięstwo w półfinale i wsparcie domowej publiczności w Atenach. Real Madryt boryka się z poważnymi kontuzjami w strefie podkoszowej, tracąc Waltera Tavaresa, Alexa Lena i Usmana Garubę, co znacząco osłabia ich obronę i zbiórki. Choć Real Madryt ma ogromne doświadczenie w Final Four i pokonał Olympiacos w finale w 2023 roku, obecne osłabienia kadrowe są zbyt duże, aby ich zignorować w meczu o tak wysoką stawkę.",
-      "key_factors": [
-        "Poważne kontuzje kluczowych zawodników Realu Madryt (Tavares, Len, Garuba)",
-        "Przewaga własnego parkietu dla Olympiacos Piraeus w Atenach",
-        "Dobra forma Olympiacos Piraeus, w tym dominujące zwycięstwo w półfinale",
-        "Motywacja Olympiacos po przegranym finale w 2023 roku z Realem Madryt"
-      ]
+      "note": "AI nie zwrocilo wyniku, uzyto formuły W-L"
     }
   ]
 }
