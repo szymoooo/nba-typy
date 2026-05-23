@@ -19,15 +19,13 @@ import textwrap
 from datetime import datetime, timezone, timedelta
 import requests
 
+import tsdb_data as td
+
 LEAGUE_NAME = "Liga Endesa (ACB)"
 OUTPUT_DIR = "acb"
 DEBUG_DIR = "acb/_debug"
-
-# TheSportsDB - darmowe API, nie blokuje GitHub Actions
-# https://www.thesportsdb.com/league/4408-spanish-liga-acb
 TSDB_LEAGUE_ID = "4408"
-TSDB_API_KEY = "123"  # publiczny darmowy klucz
-TSDB_BASE = f"https://www.thesportsdb.com/api/v1/json/{TSDB_API_KEY}"
+TSDB_SEASON = "2025-2026"
 
 USE_AI_PREDICTIONS = os.environ.get("PLK_LIVE_MODE", "").lower() not in ("true", "1", "yes")
 AI_MODEL = "gemini-2.5-flash"
@@ -42,130 +40,12 @@ DEFAULT_LOGO = (
 )
 
 CET = timezone(timedelta(hours=2))
-TSDB_HEADERS = {
-    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                   "Chrome/123.0.0.0 Safari/537.36"),
-    "Accept": "application/json",
-}
-
 _gemini_client = None
 _ai_log = []
 
 
-# ==========================================
-# THESPORTSDB HELPERS
-# ==========================================
-
-def _tsdb_fetch(url):
-    try:
-        r = requests.get(url, headers=TSDB_HEADERS, timeout=15)
-        if r.status_code != 200:
-            print(f"   [tsdb] HTTP {r.status_code}: {url}")
-            return None
-        return r.json()
-    except Exception as e:
-        print(f"   [tsdb-EXC] {type(e).__name__}: {e}")
-        return None
-
-
-def _save_debug(name, data):
-    try:
-        os.makedirs(DEBUG_DIR, exist_ok=True)
-        with open(os.path.join(DEBUG_DIR, f"tsdb_{name}.json"), "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False, default=str)
-    except Exception:
-        pass
-
-
 def get_today_str():
     return datetime.now(CET).strftime("%Y-%m-%d")
-
-
-def fetch_games_today(today_slug):
-    """Pobiera mecze ACB na dzis z TheSportsDB.
-    Laczy next + last 15 eventow i filtruje po dacie."""
-    games = []
-    seen = set()
-
-    for endpoint in ("eventsnextleague", "eventspastleague"):
-        data = _tsdb_fetch(f"{TSDB_BASE}/{endpoint}.php?id={TSDB_LEAGUE_ID}")
-        if not data:
-            continue
-        if endpoint == "eventsnextleague":
-            _save_debug("next", data)
-        for ev in data.get("events") or []:
-            eid = ev.get("idEvent")
-            if eid in seen:
-                continue
-            seen.add(eid)
-            if ev.get("dateEvent") == today_slug:
-                games.append(ev)
-
-    print(f"   [tsdb] ACB mecze na {today_slug}: {len(games)}")
-    return games
-
-
-def fetch_standings():
-    """Pobiera tabele ACB z TheSportsDB -> {team_name: win_pct}."""
-    data = _tsdb_fetch(
-        f"{TSDB_BASE}/lookuptable.php?l={TSDB_LEAGUE_ID}&s=2025-2026"
-    )
-    if not data:
-        return {}
-    _save_debug("table", data)
-    pct_map = {}
-    for row in data.get("table") or []:
-        name = row.get("strTeam") or ""
-        played = int(row.get("intPlayed") or 0)
-        wins = int(row.get("intWin") or 0)
-        if name and played > 0:
-            pct_map[name] = wins / played
-    print(f"   [tsdb] ACB standings: {len(pct_map)} druzyn")
-    return pct_map
-
-
-def game_status(ev):
-    """Zwraca 'pre' | 'in' | 'post'."""
-    status = (ev.get("strStatus") or ev.get("strProgress") or "").lower()
-    if status in ("match finished", "ft", "aet", "finished"):
-        return "post"
-    if status in ("", "not started", "ns"):
-        return "pre"
-    return "in"
-
-
-def fmt_time(ev):
-    """Godzina CET z pola strTimeLocal np. '20:30:00' -> '20:30 CET'."""
-    t = (ev.get("strTimeLocal") or ev.get("strTime") or "")
-    if t and len(t) >= 5:
-        return t[:5] + " CET"
-    return ""
-
-
-def team_logo(ev, side):
-    key = "strHomeTeamBadge" if side == "home" else "strAwayTeamBadge"
-    return ev.get(key) or DEFAULT_LOGO
-
-
-def score(ev, side):
-    key = "intHomeScore" if side == "home" else "intAwayScore"
-    val = ev.get(key)
-    try:
-        return int(val) if val is not None else 0
-    except Exception:
-        return 0
-
-
-def pct_for_team(pct_map, team_name):
-    """Szuka win% dla druzyny - dopasowanie po nazwie."""
-    if team_name in pct_map:
-        return pct_map[team_name]
-    tl = team_name.lower()
-    for k, v in pct_map.items():
-        if k.lower() == tl or k.lower() in tl or tl in k.lower():
-            return v
-    return 0.0
 
 
 # ==========================================
@@ -204,36 +84,134 @@ def _norm_name(ai_name, h, a):
     return None
 
 
-def predict_ai(h_name, a_name, h_pct, a_pct, ev, today):
-    client = _get_gemini()
-    if not client:
-        return None
+def build_prompt(ev, table, season_events, today):
+    h_name = ev.get("strHomeTeam", "Home")
+    a_name = ev.get("strAwayTeam", "Away")
     phase = ev.get("strRound") or ev.get("intRound") or "Sezon zasadniczy"
+    venue = ev.get("strVenue") or "?"
+    city = ev.get("strCity") or ""
 
-    prompt = f"""
-Mecz ACB (Liga Endesa, Hiszpania): {a_name} (gosc) vs {h_name} (gospodarz)
-Faza: {phase}
-Dzisiejsza data: {today}
+    # Bilans ogolny
+    h_row = td.get_team_row(table, h_name)
+    a_row = td.get_team_row(table, a_name)
+    h_w, h_l = h_row.get("wins", 0), h_row.get("losses", 0)
+    a_w, a_l = a_row.get("wins", 0), a_row.get("losses", 0)
+    h_pct = round(100 * h_w / max(1, h_w + h_l))
+    a_pct = round(100 * a_w / max(1, a_w + a_l))
 
-Bilans sezon 2025/26 ACB:
-  - {h_name}: {h_pct:.0%} skutecznosc
-  - {a_name}: {a_pct:.0%} skutecznosc
+    # Dom/wyjazd
+    h_ha = td.get_home_away_record(table, h_name)
+    a_ha = td.get_home_away_record(table, a_name)
 
-ZADANIE: Wytypuj zwyciezce. Uzyj Google Search:
-1. Forma ostatnich 5 meczow obu druzyn w ACB
-2. Aktualne kontuzje ({today}) - acb.com, marca.com, sport.es, as.com
-3. H2H w tym sezonie
-4. Kontekst fazy (playoff = home court silniejsze)
+    # PPG / PAPG / NetRtg
+    h_ppg, h_papg, h_net = td.get_ppg_papg(table, h_name)
+    a_ppg, a_papg, a_net = td.get_ppg_papg(table, a_name)
 
-Odpowiedz TYLKO czystym JSON (bez markdown):
+    # Forma: streak 15 + ostatnie 5
+    h_streak = td.get_streak(table, h_name, 15)
+    a_streak = td.get_streak(table, a_name, 15)
+    h_recent = td.get_recent_games(table, h_name, 5)
+    a_recent = td.get_recent_games(table, a_name, 5)
+
+    # H2H
+    h2h = td.get_h2h(season_events, h_name, a_name)
+    h2h_text = td.format_h2h(h2h, h_name, a_name)
+
+    return f"""
+=========================================================================
+SYSTEM
+=========================================================================
+Jestes ekspertem koszykarskim ACB (Liga Endesa, Hiszpania).
+DZISIEJSZA DATA: {today}. Twoja wiedza jest przestarzala - sprawdzaj przez
+Google Search. NIE ZGADUJ. Brak danych = "brak danych".
+
+=========================================================================
+MECZ DZISIAJ
+=========================================================================
+Liga:    {LEAGUE_NAME}
+Runda:   {phase}
+Hala:    {venue}{', ' + city if city else ''}
+Tip-off: {td.fmt_time_cet(ev)}
+
+GOSPODARZ: {h_name}
+GOSC:      {a_name}
+
+=========================================================================
+DANE Z THESPORTSDB (sezon {TSDB_SEASON})
+=========================================================================
+
+BILANS OGOLNY:
+   {h_name}: {h_w}-{h_l} ({h_pct}%)
+   {a_name}: {a_w}-{a_l} ({a_pct}%)
+
+BILANS DOM / WYJAZD:
+   {h_name} u siebie:    {h_ha['wins_home']}-{h_ha['losses_home']}
+   {a_name} na wyjezdzie: {a_ha['wins_away']}-{a_ha['losses_away']}
+
+ATAK / OBRONA (srednie na mecz):
+   {h_name}: {h_ppg} pkt zdobytych / {h_papg} traconych  (NetRtg {h_net:+})
+   {a_name}: {a_ppg} pkt zdobytych / {a_papg} traconych  (NetRtg {a_net:+})
+
+FORMA - ostatnie 15 wynikow (W=wygrana, najnowszy z prawej):
+   {h_name}: {h_streak}
+   {a_name}: {a_streak}
+
+OSTATNIE 5 MECZOW:
+   {h_name}:
+{td.format_recent_games(h_recent)}
+   {a_name}:
+{td.format_recent_games(a_recent)}
+
+H2H W TYM SEZONIE (zakonczone spotkania):
+   {h2h_text}
+
+=========================================================================
+ZADANIE - Google Search dla kazdego punktu:
+=========================================================================
+1. KONTUZJE na {today}:
+   - acb.com, marca.com, sport.es, as.com, X/Twitter klubow
+   - Czy lider druzyny jest niezdolny do gry?
+   - Czy ktos wraca z kontuzji?
+
+2. FOUL-OUTY i TECHNICZNE w poprzednim meczu:
+   - Czy ktos dostal 5 fauli lub technicznego w ostatnim meczu?
+
+3. KONTEKST PLAYOFFU (jezeli faza != sezon zasadniczy):
+   - Stan serii? Decydujacy mecz?
+   - Efekt "playoff desperation" - druzyna zagroziona eliminacja gra agresywniej
+   - ACB playoff format do 3 wygranych
+
+4. FORMA 3 OSTATNICH MECZOW + momentum:
+   - Czy forma pochodzi z gry zespolowej czy z jednego gracza?
+
+WAGA SYGNALOW (od najwazniejszego):
+   1. Aktualne kontuzje liderow
+   2. Forma 3 ostatnich meczow + streak
+   3. Przewaga domowa (ACB: ~60% wygranych u siebie)
+   4. H2H w tym sezonie
+   5. NetRtg + bilans dom/wyjazd
+
+=========================================================================
+ODPOWIEDZ - czysty JSON, bez markdown:
+=========================================================================
 {{
   "winner_name": "<dokladna nazwa: '{h_name}' lub '{a_name}'>",
   "confidence": <1-10>,
   "reasoning": "<2-3 zdania po polsku>",
   "key_factors": ["<czynnik 1>", "<czynnik 2>", "<czynnik 3>"],
-  "injury_notes": "<co znalazles na dzis lub 'brak istotnych brakow'>"
+  "injury_notes": "<co znalazles na DZIS lub 'brak istotnych brakow'>",
+  "agreement_with_odds": "no_odds"
 }}
 """
+
+
+def predict_ai(ev, table, season_events, today):
+    client = _get_gemini()
+    if not client:
+        return None
+    h_name = ev.get("strHomeTeam", "Home")
+    a_name = ev.get("strAwayTeam", "Away")
+    prompt = build_prompt(ev, table, season_events, today)
     try:
         from google.genai import types
         resp = None
@@ -273,20 +251,20 @@ Odpowiedz TYLKO czystym JSON (bez markdown):
         return None
 
 
-def predict(ev, pct_map, today_slug):
+def predict(ev, table, season_events, today_slug):
     h_name = ev.get("strHomeTeam", "Home")
     a_name = ev.get("strAwayTeam", "Away")
-    h_pct = pct_for_team(pct_map, h_name)
-    a_pct = pct_for_team(pct_map, a_name)
+    h_pct = td.get_win_pct(table, h_name)
+    a_pct = td.get_win_pct(table, a_name)
     formula = h_name if (h_pct + 0.05) > a_pct else a_name
 
-    status = game_status(ev)
+    status = td.game_status(ev)
     if status == "post":
         return formula
 
-    date_str = ev.get("strTimestamp") or f"{today_slug}T00:00:00"
+    ts = ev.get("strTimestamp") or f"{today_slug}T00:00:00"
     try:
-        game_dt = datetime.fromisoformat(date_str).replace(tzinfo=CET)
+        game_dt = datetime.fromisoformat(ts).replace(tzinfo=CET)
         if game_dt <= datetime.now(CET):
             print(f"   [TIME-skip] {a_name} vs {h_name} -> formula")
             return formula
@@ -294,12 +272,12 @@ def predict(ev, pct_map, today_slug):
         pass
 
     if USE_AI_PREDICTIONS:
-        result = predict_ai(h_name, a_name, h_pct, a_pct, ev, today_slug)
+        result = predict_ai(ev, table, season_events, today_slug)
         if result:
             print(f"   [AI] {a_name} vs {h_name} -> {result['winner']} (conf {result['confidence']}/10)")
             _ai_log.append({
                 "matchup": f"{a_name} @ {h_name}",
-                "phase": str(ev.get("strRound") or "?"),
+                "phase": str(ev.get("strRound") or ev.get("intRound") or "?"),
                 "ai_pick": result["winner"],
                 "formula_pick": formula,
                 "agreement": result["winner"] == formula,
@@ -339,6 +317,11 @@ def save_ai_log(today_slug):
                             subsequent_indent="                 "))
         for f in (m.get("key_factors") or []):
             print(f"         - {f}")
+        inj = (m.get("injury_notes") or "").strip()
+        if inj and "brak" not in inj.lower():
+            print(textwrap.fill(inj, width=72,
+                                initial_indent="       Kontuzje: ",
+                                subsequent_indent="                 "))
     print(f"\n{bar}\n")
 
 
@@ -392,7 +375,7 @@ h1{{font-weight:900;letter-spacing:-1px;margin:0;color:var(--acc);font-size:2.5r
 """
 
 
-def build_cards(games, pct_map, today_slug):
+def build_cards(games, table, season_events, today_slug):
     cards = []
     picks = []
     summaries = []
@@ -400,15 +383,15 @@ def build_cards(games, pct_map, today_slug):
         try:
             h_name = ev.get("strHomeTeam", "?")
             a_name = ev.get("strAwayTeam", "?")
-            h_logo = team_logo(ev, "home")
-            a_logo = team_logo(ev, "away")
-            h_score = score(ev, "home")
-            a_score = score(ev, "away")
-            status = game_status(ev)
-            pick = predict(ev, pct_map, today_slug)
+            h_logo = td.team_logo(ev, "home", DEFAULT_LOGO)
+            a_logo = td.team_logo(ev, "away", DEFAULT_LOGO)
+            h_score = td.score(ev, "home")
+            a_score = td.score(ev, "away")
+            status = td.game_status(ev)
+            pick = predict(ev, table, season_events, today_slug)
 
             if status == "pre":
-                tip = fmt_time(ev)
+                tip = td.fmt_time_cet(ev)
                 status_label = tip or "Scheduled"
                 score_html = '<span class="vs">VS</span>'
                 picks.append(f"{a_name} @ {h_name} -> Typ: {pick}")
@@ -416,14 +399,18 @@ def build_cards(games, pct_map, today_slug):
                 outcome = ""
             elif status == "in":
                 status_label = "LIVE"
-                score_html = f'<span class="score">{a_score}</span><span class="vs">:</span><span class="score">{h_score}</span>'
+                score_html = (f'<span class="score">{a_score}</span>'
+                              f'<span class="vs">:</span>'
+                              f'<span class="score">{h_score}</span>')
                 outcome = ""
             else:
                 status_label = "Final"
                 actual = h_name if h_score > a_score else (a_name if a_score > h_score else "")
                 hc = "score win" if h_score > a_score else ("score lose" if h_score < a_score else "score")
                 ac = "score win" if a_score > h_score else ("score lose" if a_score < h_score else "score")
-                score_html = f'<span class="{ac}">{a_score}</span><span class="vs">:</span><span class="{hc}">{h_score}</span>'
+                score_html = (f'<span class="{ac}">{a_score}</span>'
+                              f'<span class="vs">:</span>'
+                              f'<span class="{hc}">{h_score}</span>')
                 if actual:
                     outcome = (' <span style="color:#10b981">&#10003;</span>' if pick == actual
                                else ' <span style="color:#ef4444">&#10007;</span>')
@@ -495,17 +482,21 @@ def main():
     today_slug = get_today_str()
     today_str = datetime.now().strftime("%B %d, %Y")
     print(f"   Data: {today_slug}")
-
-    if USE_AI_PREDICTIONS and os.environ.get("GEMINI_API_KEY"):
-        print(f"   Tryb: AI ({AI_MODEL})")
-    else:
-        print(f"   Tryb: FORMULA W-L")
+    print(f"   Tryb: {'AI (' + AI_MODEL + ')' if USE_AI_PREDICTIONS and os.environ.get('GEMINI_API_KEY') else 'FORMULA W-L'}")
     print(f"   Zrodlo: TheSportsDB (league {TSDB_LEAGUE_ID})")
 
-    pct_map = fetch_standings()
-    games = fetch_games_today(today_slug)
+    # Pelny sezon -> tabela + H2H
+    season_events = td.fetch_season_events(TSDB_LEAGUE_ID, TSDB_SEASON, DEBUG_DIR)
+    if season_events:
+        table = td.build_table_from_events(season_events)
+    else:
+        print("   [warn] Brak eventow sezonu, fallback na lookuptable")
+        table = td.fetch_table(TSDB_LEAGUE_ID, TSDB_SEASON, DEBUG_DIR)
 
-    cards_html, picks, summaries = build_cards(games, pct_map, today_slug)
+    # Mecze na dzis
+    games = td.fetch_games_today(TSDB_LEAGUE_ID, today_slug, DEBUG_DIR)
+
+    cards_html, picks, summaries = build_cards(games, table, season_events, today_slug)
 
     out = os.path.join(OUTPUT_DIR, "index.html")
     with open(out, "w", encoding="utf-8") as f:
