@@ -86,8 +86,11 @@ def run_audit():
             formatowany_tekst = tekst_analizy.replace('\n', '<br>')
             
             # UNIKALNE ZNACZNIKI DLA REGEX
-            start_tag = ""
-            end_tag = ""
+            # UWAGA: muszą być NIEPUSTYMI stringami, inaczej re.sub matchuje
+            # pusty ciag przed kazdym znakiem i wstawia raport tysiace razy.
+            # Bug ten rozdmuchywał nba/index.html do >100MB i blokował push.
+            start_tag = "<!-- AI_AUDIT_REPORT_START -->"
+            end_tag = "<!-- AI_AUDIT_REPORT_END -->"
             
             analiza_html = f"""{start_tag}
             <div style="margin: 40px auto; max-width: 1100px; padding: 0 20px;">
@@ -125,7 +128,13 @@ def run_audit():
             with open(index_path, 'w', encoding='utf-8') as f:
                 f.write(html_content)
             
-            print("✅ Raport pomyślnie wstrzyknięty do nba/index.html")
+            # SAFETY: alarm jak HTML znowu rosnie (np. dzieki innemu bug-owi).
+            # Limit GitHuba to 100MB, my hamujemy przy 5MB.
+            size_kb = os.path.getsize(index_path) / 1024
+            if size_kb > 5000:
+                print(f"!! UWAGA: nba/index.html ma {size_kb:.0f} KB - to nienormalnie duzo.")
+                print(f"!! Mozliwy regression bug w wstrzykiwaniu raportu. Sprawdz markery w pliku.")
+            print(f"✅ Raport pomyślnie wstrzyknięty do nba/index.html ({size_kb:.0f} KB)")
         except Exception as e:
             print(f"Błąd podczas edycji HTML: {e}")
     
