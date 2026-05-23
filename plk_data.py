@@ -392,3 +392,166 @@ def get_implied_probabilities(odds_home, odds_away):
         }
     except Exception:
         return None
+
+
+
+# ============================================================
+# PLAYOFF SERIES (dodane w fix/plk-audit-context)
+# ============================================================
+# Dodatkowe endpointy (z DevTools eksploracji 23/05/2026):
+#   /playoff-series/{id}                    - szczegoly serii (kto vs kto, stan)
+#   /playoff-series/{id}/players/stat-lines - per-player stats W TEJ SERII
+#   /playoff-series/{id}/teams/stat-lines   - per-team stats W TEJ SERII
+#   /playoff-series?league_id=plk&season=X  - lista wszystkich serii w sezonie
+
+_cache["playoff_series_list"] = None
+_cache["playoff_series"] = {}      # series_id -> data
+_cache["series_player_stats"] = {}  # (series_id, stat_type) -> data
+
+
+def fetch_playoff_series_list(season=None):
+    """Lista wszystkich serii playoff w sezonie. Cached."""
+    season = season or default_season()
+    if _cache["playoff_series_list"] is not None:
+        return _cache["playoff_series_list"]
+
+    url = f"{PB_BASE}/playoff-series?league_id={PB_LEAGUE}&season={season}"
+    data = _fetch_json(url, "playoff-series-list")
+    if data is None:
+        _cache["playoff_series_list"] = []
+        return []
+
+    series = data if isinstance(data, list) else (
+        data.get("series") or data.get("data") or []
+    )
+    if not isinstance(series, list):
+        series = []
+    print(f"   [pulsbasketu] /playoff-series -> {len(series)} serii")
+    _save_debug("playoff_series_list", data)
+    _cache["playoff_series_list"] = series
+    return series
+
+
+def fetch_playoff_series(series_id):
+    """Szczegoly konkretnej serii. Cached per series_id."""
+    if not series_id:
+        return None
+    if series_id in _cache["playoff_series"]:
+        return _cache["playoff_series"][series_id]
+
+    url = f"{PB_BASE}/playoff-series/{series_id}"
+    data = _fetch_json(url, f"playoff-series-{series_id}")
+    _cache["playoff_series"][series_id] = data
+    if data:
+        _save_debug(f"playoff_series_{series_id}", data)
+    return data
+
+
+def fetch_series_player_stats(series_id, season=None, stat_type="avg"):
+    """Per-player stats W KONKRETNEJ SERII (avg lub total).
+    Najwazniejsze dla audytu - mowi kto sie rozkreca, kto wypadl."""
+    if not series_id:
+        return None
+    season = season or default_season()
+    cache_key = (series_id, stat_type)
+    if cache_key in _cache["series_player_stats"]:
+        return _cache["series_player_stats"][cache_key]
+
+    url = (f"{PB_BASE}/playoff-series/{series_id}/players/stat-lines"
+           f"?season={season}&stat_line_type={stat_type}&series_id={series_id}")
+    data = _fetch_json(url, f"series-{series_id}-players-{stat_type}")
+    _cache["series_player_stats"][cache_key] = data
+    if data:
+        _save_debug(f"series_{series_id}_players_{stat_type}", data)
+    return data
+
+
+def find_series_for_match(game, all_series=None):
+    """Znajduje series_id dla danego meczu na podstawie team_id obu druzyn.
+    Patrzy na liste playoff-series i porownuje pary druzyn.
+    Zwraca (series_id, series_meta) albo (None, None)."""
+    if not game:
+        return None, None
+    h_id = (game.get("home_team") or {}).get("team_id")
+    a_id = (game.get("away_team") or {}).get("team_id")
+    if not h_id or not a_id:
+        return None, None
+
+    if all_series is None:
+        all_series = fetch_playoff_series_list()
+    if not all_series:
+        return None, None
+
+    target_pair = {h_id, a_id}
+    for s in all_series:
+        if not isinstance(s, dict):
+            continue
+        # struktura serii moze byc rozna - sprawdzamy kilka mozliwosci
+        team_a = s.get("team_a") or s.get("team_1") or {}
+        team_b = s.get("team_b") or s.get("team_2") or {}
+        if isinstance(team_a, dict) and isinstance(team_b, dict):
+            ta_id = team_a.get("team_id") or team_a.get("id")
+            tb_id = team_b.get("team_id") or team_b.get("id")
+            if ta_id and tb_id and {ta_id, tb_id} == target_pair:
+                return s.get("playoff_series_id") or s.get("series_id") or s.get("id"), s
+        # alternatywa: lista team_ids
+        team_ids = s.get("team_ids") or []
+        if isinstance(team_ids, list) and set(team_ids) == target_pair:
+            return s.get("playoff_series_id") or s.get("series_id") or s.get("id"), s
+    return None, None
+
+
+def get_top_scorers_in_series(series_player_stats, team_id, n=3):
+    """Z odpowiedzi /playoff-series/{id}/players/stat-lines wyciaga top N
+    scorerow danej druzyny w tej serii."""
+    if not series_player_stats:
+        return []
+    # struktura odpowiedzi roznie: lista plain albo {data: [...]}
+    players = (series_player_stats.get("data") if isinstance(series_player_stats, dict) else None) or \
+              (series_player_stats.get("players") if isinstance(series_player_stats, dict) else None) or \
+              (series_player_stats if isinstance(series_player_stats, list) else [])
+    if not isinstance(players, list):
+        return []
+
+    # filtruj po team_id
+    def player_team(p):
+        if not isinstance(p, dict):
+            return None
+        # team_id moze byc na roznych poziomach
+        return (p.get("team_id") or
+                (p.get("team") or {}).get("team_id") or
+                (p.get("player_data") or {}).get("team_id"))
+
+    def player_ppg(p):
+        if not isinstance(p, dict):
+            return 0
+        # avg_stat_line.points albo stat_line.points
+        for key in ("avg_stat_line", "stat_line"):
+            sl = p.get(key) or {}
+            if isinstance(sl, dict) and sl.get("points") is not None:
+                return sl["points"]
+        return p.get("points") or 0
+
+    team_players = [p for p in players if player_team(p) == team_id]
+    team_players.sort(key=player_ppg, reverse=True)
+
+    out = []
+    for p in team_players[:n]:
+        if not isinstance(p, dict):
+            continue
+        avg = p.get("avg_stat_line") or p.get("stat_line") or {}
+        pdata = p.get("player_data") or p.get("player") or {}
+        first = p.get("first_name") or pdata.get("first_name") or ""
+        last = p.get("last_name") or pdata.get("last_name") or ""
+        name = (first + " " + last).strip() or pdata.get("name") or "?"
+        out.append({
+            "name": name,
+            "ppg": round(avg.get("points", 0) or 0, 1),
+            "apg": round(avg.get("assists", 0) or 0, 1),
+            "rpg": round(avg.get("rebounds", 0) or 0, 1),
+            "fgp": avg.get("fgp"),
+            "f3p": avg.get("f3p"),
+            "fouls": round(avg.get("fouls", 0) or 0, 1),
+            "games_played": p.get("games_played") or pdata.get("games_played"),
+        })
+    return out
