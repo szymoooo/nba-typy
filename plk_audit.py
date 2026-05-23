@@ -147,7 +147,21 @@ Sedziowie: {ref_str}
         # spróbuj znaleźć series_id dla tej pary
         series_id, series_meta = pb.find_series_for_match(game, all_series)
         if series_id:
-            block += f"\nSERIA PLAYOFF #{series_id}:\n"
+            # czytelny stage + stan serii ("Slask 2-2 Arka")
+            stage_pl = pb.get_stage_pl((series_meta or {}).get("stage"))
+            series_state = pb.get_series_state(series_meta)
+            state_str = pb.format_series_state_short(series_state, h_id, a_id, h_name, a_name)
+            higher_seed = ""
+            if series_state:
+                h_higher = (series_state.get(h_id) or {}).get("higher_seed")
+                if h_higher is True:
+                    higher_seed = f" (wyzszy seed: {h_name})"
+                elif h_higher is False:
+                    higher_seed = f" (wyzszy seed: {a_name})"
+
+            block += f"\nSERIA PLAYOFF #{series_id} ({stage_pl}){higher_seed}:\n"
+            if state_str:
+                block += f"  STAN SERII: {state_str}\n"
             block += _format_series_history(series_meta, all_games, h_id, a_id, h_name, a_name)
             block += "\n\nTOP SCORERZY W TEJ SERII (per-player avg z /playoff-series/" \
                      f"{series_id}/players/stat-lines):\n"

@@ -466,10 +466,31 @@ def fetch_series_player_stats(series_id, season=None, stat_type="avg"):
     return data
 
 
+# Mapowanie stage z PulsBasketu na polskie nazwy uzywane w prompcie/UI.
+STAGE_PL = {
+    "quarter_finals": "Cwiercfinaly",
+    "semi_finals": "Polfinaly",
+    "finals": "Final",
+    "third_place": "Mecz o 3 miejsce",
+    "fifth_place": "Mecz o 5 miejsce",
+    "play_in": "Play-in",
+}
+
+
+def get_stage_pl(stage_code):
+    """'semi_finals' -> 'Polfinaly'. Fallback na sam kod jak nie znamy."""
+    if not stage_code:
+        return "?"
+    return STAGE_PL.get(stage_code, stage_code.replace("_", " ").title())
+
+
 def find_series_for_match(game, all_series=None):
-    """Znajduje series_id dla danego meczu na podstawie team_id obu druzyn.
-    Patrzy na liste playoff-series i porownuje pary druzyn.
-    Zwraca (series_id, series_meta) albo (None, None)."""
+    """Znajduje (series_id, series_meta) dla danego meczu po team_ids obu druzyn.
+    Format z PulsBasketu /playoff-series:
+        {id: 851, stage: "semi_finals", finished: false,
+         teams: [{data: {team_id: 37, ...}, wins: 2, seed: "1", higher_seed: true},
+                 {data: {team_id: 40, ...}, wins: 1, seed: "5", higher_seed: false}]}
+    Zwraca (None, None) gdy mapping niemozliwy."""
     if not game:
         return None, None
     h_id = (game.get("home_team") or {}).get("team_id")
@@ -486,19 +507,53 @@ def find_series_for_match(game, all_series=None):
     for s in all_series:
         if not isinstance(s, dict):
             continue
-        # struktura serii moze byc rozna - sprawdzamy kilka mozliwosci
-        team_a = s.get("team_a") or s.get("team_1") or {}
-        team_b = s.get("team_b") or s.get("team_2") or {}
-        if isinstance(team_a, dict) and isinstance(team_b, dict):
-            ta_id = team_a.get("team_id") or team_a.get("id")
-            tb_id = team_b.get("team_id") or team_b.get("id")
-            if ta_id and tb_id and {ta_id, tb_id} == target_pair:
-                return s.get("playoff_series_id") or s.get("series_id") or s.get("id"), s
-        # alternatywa: lista team_ids
-        team_ids = s.get("team_ids") or []
-        if isinstance(team_ids, list) and set(team_ids) == target_pair:
-            return s.get("playoff_series_id") or s.get("series_id") or s.get("id"), s
+        teams = s.get("teams") or []
+        team_ids = set()
+        for t in teams:
+            if not isinstance(t, dict):
+                continue
+            tdata = t.get("data") or {}
+            tid = tdata.get("team_id") or t.get("team_id")
+            if tid:
+                team_ids.add(tid)
+        if team_ids == target_pair:
+            return s.get("id") or s.get("playoff_series_id") or s.get("series_id"), s
     return None, None
+
+
+def get_series_state(series_meta):
+    """Wyciaga stan serii: {team_id: {name, wins, seed, higher_seed}}.
+    Zwraca None jak format nieznany."""
+    if not series_meta:
+        return None
+    teams = series_meta.get("teams") or []
+    if len(teams) != 2:
+        return None
+    out = {}
+    for t in teams:
+        if not isinstance(t, dict):
+            continue
+        data = t.get("data") or {}
+        tid = data.get("team_id")
+        if not tid:
+            continue
+        out[tid] = {
+            "name": data.get("team") or "?",
+            "abbr": data.get("abbr"),
+            "wins": int(t.get("wins", 0) or 0),
+            "seed": t.get("seed"),
+            "higher_seed": bool(t.get("higher_seed", False)),
+        }
+    return out or None
+
+
+def format_series_state_short(series_state, h_id, a_id, h_name, a_name):
+    """'WKS Slask Wroclaw 2-2 AMW Arka Gdynia' albo pusty string."""
+    if not series_state:
+        return ""
+    h_wins = (series_state.get(h_id) or {}).get("wins", "?")
+    a_wins = (series_state.get(a_id) or {}).get("wins", "?")
+    return f"{h_name} {h_wins}-{a_wins} {a_name}"
 
 
 def get_top_scorers_in_series(series_player_stats, team_id, n=3):
