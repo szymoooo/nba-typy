@@ -27,7 +27,7 @@
   "matches": [
     {
       "id": 25339,
-      "game_status": "0",
+      "game_status": "1",
       "championship_id": 595,
       "championships_day_id": 4472,
       "year": 2025,
@@ -35,8 +35,8 @@
       "match_datetime": "2026-05-23T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 0,
-      "visitor_final_score": 0,
+      "home_final_score": 35,
+      "visitor_final_score": 38,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 42,
@@ -46,7 +46,7 @@
       "match_serie": "1-2",
       "match_hw": 1,
       "match_vw": 2,
-      "updated_at": "2026-05-23T19:59:40.421+02:00",
+      "updated_at": "2026-05-23T20:41:51.954+02:00",
       "h_team_id": 1721,
       "h_team_name": "Pallacanestro Trieste",
       "h_club_code": "TRI",
@@ -315,6 +315,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1779518733_mlCK:1779559290_cmCK:1779559180_cdCK:1779518733_vCK:1779487319",
+  "cache_key": "tCK:1779518733_mlCK:1779561769_cmCK:1779561711_cdCK:1779518733_vCK:1779561716",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }

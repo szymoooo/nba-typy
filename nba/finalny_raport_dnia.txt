@@ -1,9 +1,14 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-23 13:43 ET) ---
-Analiza meczu na dzień 2026-05-23, oparta wyłącznie na danych ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-05-23 14:44 ET) ---
+Analiza meczu na dzień 2026-05-23:
 
-**Knicks @ Cavaliers -> Typ: Cavaliers**
+**Knicks @ Cavaliers**
+*   **Kluczowe braki w składach:**
+    *   New York Knicks: Brak aktualnych raportów (Injury Report) na tę chwilę. Wszyscy kluczowi gracze, w tym Jalen Brunson, są przewidywani do gry.
+    *   Cleveland Cavaliers: Brak aktualnych raportów (Injury Report) na tę chwilę. Wszyscy kluczowi gracze są przewidywani do gry.
+    *   Obie drużyny wchodzą w Mecz 3 Finałów Konferencji Wschodniej z pełnymi składami.
 
-*   **Kluczowe braki w składach (na podstawie danych ze STYCZNIA 2026):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby na kluczowe braki w składach New York Knicks lub Cleveland Cavaliers, biorąc pod uwagę ograniczenie do danych ze stycznia 2026 i braku konkretnego meczu z tego okresu do analizy.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Bez aktualnych danych dotyczących kontuzji z maja 2026 oraz przy ograniczeniu do danych ze stycznia 2026, trudno jest ocenić bieżącą siłę zespołów i przewidzieć wynik meczu. Dostępność kluczowych zawodników w dniu meczu (23 maja 2026) jest niemożliwa do zweryfikowania na podstawie danych sprzed czterech miesięcy.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Cavaliers grają u siebie w Cleveland i są faworytem z handicapem -2.5 punktu w tym meczu.
+    *   Knicks prowadzą w serii 2-0, co sprawia, że Mecz 3 jest "must-win" dla Cavaliers na własnym parkiecie.
+    *   Historycznie, drużyny przegrywające 0-2 w serii często wykazują zwiększoną pilność i intensywność obronną w Meczu 3 u siebie.
+    *   Brak kluczowych kontuzji w obu zespołach oznacza, że możemy spodziewać się najlepszych dostępnych składów.
