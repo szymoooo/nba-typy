@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T07:56:42.364320",
+  "generated_at": "2026-05-23T08:08:12.574084",
   "date": "2026-05-23",
   "league": "PLK",
   "model": "gemini-2.5-flash",
@@ -13,14 +13,15 @@
       "ai_pick": "AMW Arka Gdynia",
       "formula_pick": "WKS Śląsk Wrocław",
       "agreement": false,
-      "confidence": 7,
-      "reasoning": "Mimo, że mecz rozgrywany jest we Wrocławiu, AMW Arka Gdynia ma silne momentum, wygrywając dwa ostatnie spotkania w tej serii, oba na wyjeździe. Seria jest remisowa 2-2, co czyni ten mecz decydującym, a Arka pokazała swoją skuteczność w krytycznych momentach na terenie rywala.",
+      "confidence": 8,
+      "reasoning": "AMW Arka Gdynia wykazała się niezwykłą odpornością, odrabiając stratę 0-2 w serii i wygrywając dwa kolejne mecze na wyjeździe, w tym decydujący mecz numer cztery po dogrywce. To buduje ogromne momentum i świadczy o ich aktualnej, lepszej formie psychicznej i sportowej w kluczowych momentach. Powrót Milana Barbitcha dodał drużynie siły w ofensywie i stabilizacji, co było widoczne w poprzednich spotkaniach.",
       "key_factors": [
-        "Arka Gdynia wygrała dwa ostatnie mecze serii na wyjeździe",
-        "Arka Gdynia ma pozytywne momentum (2 zwycięstwa z rzędu w play-offach)",
-        "Mecz decydujący (Game 5) z wynikiem 2-2 w serii"
+        "Powrót Arki z wyniku 0-2 na 2-2 w serii",
+        "Wygranie dwóch kolejnych meczów na wyjeździe przez Arkę",
+        "Momentum psychologiczne po stronie Arki po wygranej w dogrywce",
+        "Dobra dyspozycja Milana Barbitcha od powrotu do składu Arki"
       ],
-      "injury_notes": "Brak istotnych, potwierdzonych kontuzji kluczowych koszykarzy w obu drużynach na dzień dzisiejszy.",
+      "injury_notes": "Brak istotnych braków. Milan Barbitch (AMW Arka Gdynia) powrócił do gry w trzecim meczu serii po kontuzji stawu skokowego i był kluczowym zawodnikiem w meczu numer cztery. Angel Nunez (WKS Śląsk Wrocław) również jest dostępny.",
       "agreement_with_odds": "no_odds"
     }
   ]
