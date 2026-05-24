@@ -75,8 +75,8 @@
       "match_datetime": "2026-05-24T17:00:00.000+02:00",
       "match_hh": 17,
       "match_mm": 0,
-      "home_final_score": 42,
-      "visitor_final_score": 49,
+      "home_final_score": 44,
+      "visitor_final_score": 53,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 58,
@@ -86,7 +86,7 @@
       "match_serie": "2-1",
       "match_hw": 2,
       "match_vw": 1,
-      "updated_at": "2026-05-24T17:50:19.162+02:00",
+      "updated_at": "2026-05-24T18:07:39.784+02:00",
       "h_team_id": 1718,
       "h_team_name": "Dolomiti Energia Trentino",
       "h_club_code": "TRN",
@@ -107,7 +107,7 @@
     },
     {
       "id": 25341,
-      "game_status": "0",
+      "game_status": "1",
       "championship_id": 595,
       "championships_day_id": 4472,
       "year": 2025,
@@ -115,8 +115,8 @@
       "match_datetime": "2026-05-24T18:00:00.000+02:00",
       "match_hh": 18,
       "match_mm": 0,
-      "home_final_score": 0,
-      "visitor_final_score": 0,
+      "home_final_score": 10,
+      "visitor_final_score": 7,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 167,
@@ -126,7 +126,7 @@
       "match_serie": "1-2",
       "match_hw": 1,
       "match_vw": 2,
-      "updated_at": "2026-05-24T17:40:34.321+02:00",
+      "updated_at": "2026-05-24T18:07:12.943+02:00",
       "h_team_id": 1720,
       "h_team_name": "Bertram Derthona Tortona",
       "h_club_code": "TOR",
@@ -325,6 +325,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1779518733_mlCK:1779637847_cmCK:1779637819_cdCK:1779518733_vCK:1779636427",
+  "cache_key": "tCK:1779518733_mlCK:1779638533_cmCK:1779638859_cdCK:1779518733_vCK:1779636427",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }
