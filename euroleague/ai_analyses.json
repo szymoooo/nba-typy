@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T05:50:51.245893",
+  "generated_at": "2026-05-24T08:12:12.780078",
   "date": "2026-05-24",
   "model": "gemini-2.5-flash",
   "matches": [
@@ -10,13 +10,13 @@
       "ai_pick": "Olympiacos Piraeus",
       "formula_pick": "Olympiacos Piraeus",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Olympiacos Piraeus jest przedstawiony jako najlepsza drużyna sezonu 2025-26, będąc rozstawiony z numerem jeden i prowadząc w kluczowych statystykach, takich jak punkty, asysty i wskaźnik efektywności (PIR). Dodatkowo, Olympiacos awansował do Final Four po dominującym zwycięstwie 3-0 w fazie playoff, co wskazuje na doskonałą aktualną formę. Real Madrid, mimo bogatej historii i doświadczenia w Final Four, nie miał tak dominującego bilansu w playoffach w tym hipotetycznym sezonie.",
+      "confidence": 8,
+      "reasoning": "Olympiacos Piraeus enters the final with a significant advantage due to Real Madrid's severe injury crisis, specifically affecting their entire center rotation (Tavares, Len, and Garuba are all out). While both teams are in excellent recent form and possess vast Final Four experience, the physical disparity in the paint and Olympiacos's strong fan support in Athens provide a crucial edge in this single-elimination championship game.",
       "key_factors": [
-        "Olympiacos top-seeded w sezonie 2025-26",
-        "Olympiacos liderem w statystykach ofensywnych i efektywności w sezonie 2025-26",
-        "Dominujące zwycięstwo Olympiacosu 3-0 w playoffach 2026",
-        "Doświadczenie w Final Four obu drużyn"
+        "Real Madrid key injuries (Tavares, Len, Garuba - all centers)",
+        "Olympiacos Piraeus has full roster strength, especially in big men",
+        "Home-court advantage for Olympiacos (Final Four in Athens)",
+        "Strong recent form of both teams"
       ]
     }
   ]
