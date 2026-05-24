@@ -20,7 +20,7 @@ import requests
 LEAGUE_NAME = "easyCredit BBL"
 OUTPUT_DIR = "bbl"
 DEBUG_DIR = "bbl/_debug"
-SOFA_TOURNAMENT_ID = 227  # BBL easyCredit Bundesliga (105=404 Not Found, 227=BBL Germany)
+SOFA_TOURNAMENT_ID = 4441  # BBL easyCredit Bundesliga (105=404 Not Found, 227=BBL Germany)
 SOFA_SEASON_ID = 79994     # sezon 25/26 - hardkodowany fallback gdy API niedostepne
 SOFA_SEASON_YEAR = "25/26"
 
