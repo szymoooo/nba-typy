@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-05-24T15:58:44.897643",
+  "date": "2026-05-24",
+  "league": "ACB",
+  "model": "gemini-2.5-flash",
+  "matches": [
+    {
+      "matchup": "Recoletas Salud San Pablo Burgos @ Joventut Badalona",
+      "ai_pick": null,
+      "formula_pick": "Joventut Badalona",
+      "note": "AI fallback"
+    }
+  ]
+}

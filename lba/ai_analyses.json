@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T15:01:09.648646",
+  "generated_at": "2026-05-24T15:58:02.295130",
   "date": "2026-05-24",
   "league": "LBA",
   "model": "gemini-2.5-flash",
@@ -12,14 +12,13 @@
       "formula_pick": "Bertram Derthona Tortona",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Bertram Derthona Tortona gra u siebie w kluczowym meczu Gara 4, który jest dla nich o być albo nie być w tej serii playoff. Ostatnie zwycięstwo w Gara 3 na własnym parkiecie (82-71) pokazuje ich zdolność do rywalizacji i odwracania losów serii, a przewaga własnej hali będzie dodatkowym atutem w meczu eliminacyjnym. Umana Reyer Venezia, mimo prowadzenia w serii 2-1, będzie pod presją zakończenia rywalizacji na wyjeździe.",
+      "reasoning": "Bertram Derthona Tortona pokazała dużą determinację, wygrywając Gara 3 na własnym parkiecie i zmniejszając stan serii do 1-2. Grając ponownie w Nova Arena w Gara 4, z możliwością wyrównania serii, drużyna gospodarzy będzie miała silne wsparcie fanów i ogromną motywację do zwycięstwa. Umana Reyer Venezia, mimo prowadzenia w serii, zmagała się w Gara 3 i będzie musiała zmierzyć się z bardzo zdeterminowanym przeciwnikiem na jego terenie.",
       "key_factors": [
-        "Przewaga własnego parkietu dla Bertram Derthona Tortona w meczu eliminacyjnym.",
-        "Momentum po zwycięstwie Bertram Derthona Tortona w Gara 3 (82-71).",
-        "Sytuacja 'być albo nie być' dla gospodarzy (Bertram Derthona Tortona), zmuszająca do maksymalnego wysiłku.",
-        "Brak jasnych informacji o powrocie kluczowych graczy Umana Reyer Venezia z długotrwałych kontuzji."
+        "Przewaga własnego parkietu Bertram Derthona Tortona",
+        "Momentum i pewność siebie po wygranej w Gara 3 dla Tortony",
+        "Wysoka stawka meczu dla Tortony, walczącej o wyrównanie serii"
       ],
-      "injury_notes": "Bertram Derthona Tortona: Dominik Olejniczak został wyrzucony z Gara 3 (22.05.2026) za wejście na parkiet podczas spięcia, wcześniej miał już trzy faule, co może wpłynąć na jego dostępność lub ostrożność w Gara 4. Brak aktualnych informacji o powrocie Ezry Manjona (kontuzja przywodziciela) i Artursa Strautinsa (kontuzja łydki), którzy byli kontuzjowani w grudniu 2025. Umana Reyer Venezia: Brak aktualnych informacji o powrocie Chrisa Hortona (kontuzja łydki z marca 2026), Stefana Nikolicia (operacja ręki ze stycznia 2026), Jordana Parksa (kontuzja uda z grudnia 2025) i Ky Bowmana (kontuzja kostki z października 2025)."
+      "injury_notes": "Brak istotnych nowych kontuzji zgłoszonych dla którejkolwiek z drużyn na dzień 24.05.2026. Chris Horton, Stefan Nikolic i Ky Bowman z Umana Reyer Venezia, którzy mieli wcześniejsze problemy zdrowotne, zagrali w Gara 3. Dominik Olejniczak z Bertram Derthona Tortona został wykluczony za faule w Gara 3, ale oczekuje się, że będzie dostępny w Gara 4. Arturs Strautins (Tortona) kontynuuje rekonwalescencję, ale jego status na Gara 4 nie został potwierdzony jako absencja."
     }
   ]
 }
