@@ -26,7 +26,7 @@ import requests
 LEAGUE_NAME = "Liga Endesa (ACB)"
 OUTPUT_DIR = "acb"
 DEBUG_DIR = "acb/_debug"
-SOFA_TOURNAMENT_ID = 264  # ACB Liga Endesa w Sofascore (65=2nd Division, 264=Liga Endesa)
+SOFA_TOURNAMENT_ID = 4408  # ACB Liga Endesa w Sofascore (65=2nd Division, 264=Liga Endesa)
 SOFA_SEASON_ID = 80922     # sezon 25/26 - hardkodowany fallback gdy API niedostepne
 SOFA_SEASON_YEAR = "25/26"
 
