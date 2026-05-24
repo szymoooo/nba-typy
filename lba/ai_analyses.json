@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-05-24T01:54:02.959039",
+  "generated_at": "2026-05-24T05:51:53.089865",
   "date": "2026-05-24",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Virtus Olidata Bologna @ Dolomiti Energia Trentino",
-      "ai_pick": null,
+      "day": "Quarti di Finale - Gara  4",
+      "date": "2026-05-24T17:00:00.000+02:00",
+      "ai_pick": "Dolomiti Energia Trentino",
       "formula_pick": "Dolomiti Energia Trentino",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Dolomiti Energia Trentino ma przewagę 2-1 w serii i rozgrywa czwarty mecz u siebie w BTS Arena, co daje im silną przewagę własnego parkietu, co jest kluczowe w fazie play-off. Drużyna Virtus Olidata Bologna zmaga się z poważnymi kontuzjami kluczowych zawodników (Derrick Alston Jr. z zakończonym sezonem, Alessandro Pajola z niepewnym powrotem, Aliou Diarra wątpliwy lub wykluczony), co znacząco osłabia ich skład i rotację. Trentino wygrało ostatnie dwa spotkania serii, co świadczy o ich aktualnej dobrej formie i momentum.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla Dolomiti Energia Trentino (Gara 4 w Trento)",
+        "Poważne kontuzje kluczowych zawodników Virtus Olidata Bologna (Derrick Alston Jr., Alessandro Pajola, Aliou Diarra)",
+        "Momentum po stronie Dolomiti Energia Trentino (wygrane Gara 2 i Gara 3)",
+        "Wysoka stawka meczu (Trentino ma szansę zakończyć serię i awansować)"
+      ],
+      "injury_notes": "Dolomiti Energia Trentino: DeVante' Jones jest niedostępny z powodu kontuzji pleców (opuścił Gara 3). Theo Airhienbuwa, który na początku maja miał problem z nadgarstkiem, był dostępny w składzie na Gara 3.\nVirtus Olidata Bologna: Derrick Alston Jr. doznał złamania ręki w Gara 1 (17 maja 2026) i jego sezon jest zakończony. Alessandro Pajola zmaga się z problemami z kolanem; jego powrót w play-offach jest niepewny, a sezon może być dla niego skończony (nie grał w Gara 1, 2, 3). Aliou Diarra doznał urazu mięśnia brzucha w Gara 2 i był wykluczony z Gara 3; jego status na dzisiejszy mecz jest wątpliwy. Matt Morgan (kontuzja kostki) i Luca Vildoza (kontuzja uda) wrócili do gry w Gara 3."
     },
     {
       "matchup": "Umana Reyer Venezia @ Bertram Derthona Tortona",
@@ -18,14 +29,14 @@
       "formula_pick": "Bertram Derthona Tortona",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Bertram Derthona Tortona gra u siebie w Gara 4, co jest kluczowym czynnikiem w fazie playoff, zwłaszcza gdy zespół musi wygrać, aby pozostać w serii. Drużyna pokazała siłę, wygrywając Gara 3 u siebie (82-71) po dwóch porażkach na wyjeździe. Pomimo prawdopodobnej absencji Olejniczaka, Tortona ma dynamikę i determinację, by wyrównać serię na własnym parkiecie.",
+      "reasoning": "Bertram Derthona Tortona wygrała oba swoje domowe mecze w tej serii playoff, a Umana Reyer Venezia również wygrała swój mecz u siebie, co wskazuje na silny wpływ przewagi własnego parkietu. Mimo prawdopodobnej absencji Dominika Olejniczaka, Tortona będzie grać u siebie z ogromną motywacją, aby wyrównać serię i zmusić do rozegrania Gara 5.",
       "key_factors": [
-        "Przewaga własnego parkietu Bertram Derthona Tortona",
-        "Momentum po zwycięstwie w Gara 3",
-        "Konieczność zwycięstwa dla Bertram Derthona Tortona, aby uniknąć eliminacji",
-        "Trudności ofensywne Umana Reyer Venezia w Gara 3"
+        "Przewaga własnego parkietu Bertram Derthona Tortona i wsparcie kibiców w meczu o wszystko.",
+        "Tendencja do wygrywania meczów u siebie w tej serii playoff (wszystkie 3 dotychczasowe mecze wygrały drużyny gospodarzy).",
+        "Potencjalna absencja Dominika Olejniczaka (Bertram Derthona Tortona) z powodu dyskwalifikacji w Gara 3.",
+        "Wysoka stawka meczu (Venezia ma drugą piłkę meczową, Tortona walczy o utrzymanie się w serii)."
       ],
-      "injury_notes": "Brak istotnych nowych kontuzji zgłoszonych na 2026-05-24 dla obu drużyn. Gracze, którzy wcześniej byli kontuzjowani (Strautins, Manjon dla Tortony; Horton, Bowman dla Venezi), wystąpili w Gara 3. Olejniczak (Bertram Derthona Tortona) został wyrzucony z Gara 3 po incydencie, co prawdopodobnie skutkuje jego zawieszeniem na Gara 4."
+      "injury_notes": "Dominik Olejniczak (Bertram Derthona Tortona) został wyrzucony z boiska w Gara 3 z powodu utarczki i jest wysoce prawdopodobne, że będzie zawieszony na Gara 4. Brak istotnych braków kontuzji po stronie Umana Reyer Venezia, Chris Horton i Ky Bowman, pomimo wcześniejszych raportów o urazach, zagrali w Gara 2 i Gara 3."
     }
   ]
 }
