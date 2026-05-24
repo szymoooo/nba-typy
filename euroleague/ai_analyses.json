@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-05-24T00:00:51.152087",
+  "generated_at": "2026-05-24T01:52:45.075747",
   "date": "2026-05-24",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Real Madrid @ Olympiacos Piraeus",
-      "ai_pick": null,
+      "phase": "Final Four",
+      "date": "2026-05-24T18:00:00.000Z",
+      "ai_pick": "Olympiacos Piraeus",
       "formula_pick": "Olympiacos Piraeus",
-      "note": "AI nie zwrocilo wyniku, uzyto formuły W-L"
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Olympiacos Piraeus wchodzi w finał z silnym impetem, wygrywając pięć ostatnich meczów w Eurolidze, w tym dominujący półfinał. Real Madryt boryka się z poważnymi brakami kadrowymi na pozycji centrów, z Usmanem Garubą, Edy Tavaresem i Alexem Lenem wykluczonymi z gry. Dodatkowo, mecz odbywa się w Atenach, co stanowi faktyczną przewagę własnego parkietu dla greckiej drużyny.",
+      "key_factors": [
+        "Poważne kontuzje kluczowych graczy Realu Madryt (Garuba, Tavares, Len)",
+        "Doskonała forma Olympiacos Piraeus w ostatnich 5 meczach Euroligi",
+        "Faktyczna przewaga własnego parkietu dla Olympiacos w Atenach",
+        "Ostatnie bezpośrednie zwycięstwo Olympiacos nad Realem Madryt w sezonie regularnym (102-88)"
+      ]
     }
   ]
 }
