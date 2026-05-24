@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T10:11:36.516431",
+  "generated_at": "2026-05-24T15:00:16.778181",
   "date": "2026-05-24",
   "model": "gemini-2.5-flash",
   "matches": [
@@ -11,12 +11,12 @@
       "formula_pick": "Olympiacos Piraeus",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "Olympiacos Piraeus ma znaczną przewagę ze względu na liczne i kluczowe kontuzje w składzie Realu Madryt, szczególnie na pozycji centra (Tavares, Len, Garuba). Drużyna gospodarzy gra również na 'neutralnym' parkiecie w Atenach, co daje jej pewien atut. Obie drużyny prezentują dobrą formę, ale Real Madryt jest osłabiony przed tym finałem, co jest decydującym czynnikiem.",
+      "reasoning": "Olympiacos ma kluczową przewagę pod koszem ze względu na poważne kontuzje trzech centrów Realu Madryt (Walter Tavares, Alex Len, Usman Garuba), które znacząco osłabiają ich rotację. Dodatkowo, Olympiacos jest w doskonałej formie, wygrywając wszystkie ostatnie pięć meczów w EuroLeague, w tym serię playoffów 3-0 i półfinał z Fenerbahce, oraz gra w Atenach, co zapewni im silne wsparcie fanów.",
       "key_factors": [
-        "Kluczowe kontuzje Realu Madryt (Tavares, Len, Garuba)",
-        "Pełen skład i głębokość składu Olympiacos Piraeus",
-        "Atut 'własnego' terenu w Atenach dla Olympiacos",
-        "Aktualna forma obu drużyn w Final Four"
+        "Poważne kontuzje kluczowych centrów Realu Madryt (Tavares, Len, Garuba)",
+        "Doskonała forma Olympiacos w ostatnich pięciu meczach EuroLeague",
+        "Krytyczna przewaga Olympiacos w strefie podkoszowej",
+        "Wsparcie fanów Olympiacos w Atenach, mimo neutralnego parkietu"
       ]
     }
   ]

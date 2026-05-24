@@ -1,41 +1,25 @@
 {
-  "generated_at": "2026-05-24T10:12:50.617415",
+  "generated_at": "2026-05-24T15:01:09.648646",
   "date": "2026-05-24",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Virtus Olidata Bologna @ Dolomiti Energia Trentino",
-      "day": "Quarti di Finale - Gara  4",
-      "date": "2026-05-24T17:00:00.000+02:00",
-      "ai_pick": "Dolomiti Energia Trentino",
-      "formula_pick": "Dolomiti Energia Trentino",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Dolomiti Energia Trentino gra u siebie w kluczowym meczu numer 4 i ma znaczącą przewagę po zwycięstwach w meczach 2 i 3. Virtus Olidata Bologna jest osłabiona przez poważne kontuzje kluczowych graczy. Forma i morale są po stronie Trentino.",
-      "key_factors": [
-        "Przewaga własnego parkietu dla Dolomiti Energia Trentino",
-        "Poważne kontuzje w zespole Virtus Olidata Bologna (Alston Jr., Pajola, Diarra)",
-        "Momentum i przekonujące zwycięstwo Trentino w meczu numer 3"
-      ],
-      "injury_notes": "Virtus Olidata Bologna jest znacząco osłabiona: Derrick Alston Jr. doznał złamania ręki i jego sezon jest zakończony. Kapitan Alessandro Pajola ma kontuzję kolana i prawdopodobnie opuści resztę sezonu. Aliou Diarra doznał urazu mięśnia brzucha w meczu numer 2, a jego występ w meczu numer 4 jest wątpliwy. Matteo Accorsi jest również niedostępny. W Dolomiti Energia Trentino nie odnotowano żadnych nowych, istotnych kontuzji na dziś. Andrea Pecchia miał wcześniejszy uraz bicepsa, a DeVante Jones miał skomplikowany powrót do zdrowia, ale ich status na mecz 4 nie jest podany jako krytyczny, co sugeruje brak nowych, poważnych obaw."
-    },
-    {
       "matchup": "Umana Reyer Venezia @ Bertram Derthona Tortona",
       "day": "Quarti di Finale - Gara  4",
       "date": "2026-05-24T18:00:00.000+02:00",
-      "ai_pick": "Umana Reyer Venezia",
+      "ai_pick": "Bertram Derthona Tortona",
       "formula_pick": "Bertram Derthona Tortona",
-      "agreement": false,
-      "confidence": 6,
-      "reasoning": "Umana Reyer Venezia prowadzi w serii playoff 2-1 i ma szansę zakończyć rywalizację na wyjeździe. Prawdopodobna absencja kluczowego centra Tortony, Dominika Olejniczaka, z powodu zawieszenia po poprzednim meczu, znacząco osłabi gospodarzy, mimo ich atutu własnego parkietu i motywacji do wyrównania serii. Venezia, pomimo porażki w Gara 3, posiada większe doświadczenie w play-offach i głębszy skład, aby sprostać presji.",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Bertram Derthona Tortona gra u siebie w kluczowym meczu Gara 4, który jest dla nich o być albo nie być w tej serii playoff. Ostatnie zwycięstwo w Gara 3 na własnym parkiecie (82-71) pokazuje ich zdolność do rywalizacji i odwracania losów serii, a przewaga własnej hali będzie dodatkowym atutem w meczu eliminacyjnym. Umana Reyer Venezia, mimo prowadzenia w serii 2-1, będzie pod presją zakończenia rywalizacji na wyjeździe.",
       "key_factors": [
-        "Prawdopodobne zawieszenie Dominika Olejniczaka (Bertram Derthona Tortona)",
-        "Umana Reyer Venezia prowadzi w serii playoff 2-1",
-        "Przewaga własnego parkietu dla Bertram Derthona Tortona",
-        "Motywacja Tortony w meczu o pozostanie w serii"
+        "Przewaga własnego parkietu dla Bertram Derthona Tortona w meczu eliminacyjnym.",
+        "Momentum po zwycięstwie Bertram Derthona Tortona w Gara 3 (82-71).",
+        "Sytuacja 'być albo nie być' dla gospodarzy (Bertram Derthona Tortona), zmuszająca do maksymalnego wysiłku.",
+        "Brak jasnych informacji o powrocie kluczowych graczy Umana Reyer Venezia z długotrwałych kontuzji."
       ],
-      "injury_notes": "Dominik Olejniczak (Bertram Derthona Tortona) został wykluczony z Gara 3 z powodu bójki i jest bardzo prawdopodobne, że będzie zawieszony na Gara 4 zgodnie z regulaminem LBA, co stanowi istotny brak dla Tortony. Brak istotnych innych potwierdzonych kontuzji na dzień 2026-05-24."
+      "injury_notes": "Bertram Derthona Tortona: Dominik Olejniczak został wyrzucony z Gara 3 (22.05.2026) za wejście na parkiet podczas spięcia, wcześniej miał już trzy faule, co może wpłynąć na jego dostępność lub ostrożność w Gara 4. Brak aktualnych informacji o powrocie Ezry Manjona (kontuzja przywodziciela) i Artursa Strautinsa (kontuzja łydki), którzy byli kontuzjowani w grudniu 2025. Umana Reyer Venezia: Brak aktualnych informacji o powrocie Chrisa Hortona (kontuzja łydki z marca 2026), Stefana Nikolicia (operacja ręki ze stycznia 2026), Jordana Parksa (kontuzja uda z grudnia 2025) i Ky Bowmana (kontuzja kostki z października 2025)."
     }
   ]
 }

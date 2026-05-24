@@ -86,7 +86,7 @@
       "match_serie": "2-1",
       "match_hw": 2,
       "match_vw": 1,
-      "updated_at": "2026-05-22T21:59:52.422+02:00",
+      "updated_at": "2026-05-24T17:00:24.105+02:00",
       "h_team_id": 1718,
       "h_team_name": "Dolomiti Energia Trentino",
       "h_club_code": "TRN",
@@ -126,7 +126,7 @@
       "match_serie": "1-2",
       "match_hw": 1,
       "match_vw": 2,
-      "updated_at": "2026-05-22T23:01:46.522+02:00",
+      "updated_at": "2026-05-24T16:14:59.799+02:00",
       "h_team_id": 1720,
       "h_team_name": "Bertram Derthona Tortona",
       "h_club_code": "TOR",
@@ -151,6 +151,16 @@
       "GIOVANNETTI",
       "BONGIORNI",
       "LUCOTTI"
+    ],
+    "25340": [
+      "LANZARINI",
+      "BORGIONI",
+      "ATTARD"
+    ],
+    "25341": [
+      "LO GUZZO",
+      "SAHIN",
+      "QUARTA"
     ]
   },
   "broadcasters": {
@@ -315,6 +325,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1779518733_mlCK:1779617386_cmCK:1779566418_cdCK:1779518733_vCK:1779570869",
+  "cache_key": "tCK:1779518733_mlCK:1779634066_cmCK:1779634824_cdCK:1779518733_vCK:1779632233",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }
