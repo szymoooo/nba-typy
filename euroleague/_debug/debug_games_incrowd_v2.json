@@ -43,7 +43,7 @@
         "abbreviatedName": "Olympiacos",
         "tla": "OLY",
         "score": 92,
-        "standingsScore": 0,
+        "standingsScore": 92,
         "quarters": {
           "q1": 19,
           "q2": 27,
@@ -70,7 +70,7 @@
         "abbreviatedName": "Real",
         "tla": "RMB",
         "score": 85,
-        "standingsScore": 0,
+        "standingsScore": 85,
         "quarters": {
           "q1": 26,
           "q2": 18,
@@ -133,7 +133,7 @@
       "confirmedDate": true,
       "confirmedTime": true,
       "audience": 0,
-      "audienceConfirmed": false,
+      "audienceConfirmed": true,
       "broadcasters": [
         {
           "name": "FanDuel",
@@ -57327,7 +57327,7 @@
     }
   ],
   "metadata": {
-    "createdAt": "2026-05-24T20:49:50.012696547Z",
+    "createdAt": "2026-05-24T21:36:22.849789377Z",
     "pageItems": 402,
     "totalItems": 402,
     "totalPages": 1,
