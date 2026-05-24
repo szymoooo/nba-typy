@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T08:12:12.780078",
+  "generated_at": "2026-05-24T09:47:37.488951",
   "date": "2026-05-24",
   "model": "gemini-2.5-flash",
   "matches": [
@@ -11,12 +11,12 @@
       "formula_pick": "Olympiacos Piraeus",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "Olympiacos Piraeus enters the final with a significant advantage due to Real Madrid's severe injury crisis, specifically affecting their entire center rotation (Tavares, Len, and Garuba are all out). While both teams are in excellent recent form and possess vast Final Four experience, the physical disparity in the paint and Olympiacos's strong fan support in Athens provide a crucial edge in this single-elimination championship game.",
+      "reasoning": "Olympiacos Piraeus enters the final with strong momentum after a dominant semifinal win and a healthy squad. Real Madrid, despite its rich history and recent Final Four success, is severely impacted by key injuries to centers Walter Tavares, Alex Len, and Usman Garuba, which is a critical disadvantage in a high-stakes championship game. The home-court atmosphere in Athens, though technically neutral, will also favor Olympiacos.",
       "key_factors": [
-        "Real Madrid key injuries (Tavares, Len, Garuba - all centers)",
-        "Olympiacos Piraeus has full roster strength, especially in big men",
-        "Home-court advantage for Olympiacos (Final Four in Athens)",
-        "Strong recent form of both teams"
+        "Kluczowe kontuzje Realu Madryt (Tavares, Len, Garuba)",
+        "Dobra forma Olympiacos i dominacja w półfinale",
+        "Przewaga wsparcia kibiców dla Olympiacos w Atenach (neutralny parkiet)",
+        "Doświadczenie obu drużyn w Final Four"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T08:13:31.386511",
+  "generated_at": "2026-05-24T09:48:42.642462",
   "date": "2026-05-24",
   "league": "LBA",
   "model": "gemini-2.5-flash",
@@ -11,15 +11,15 @@
       "ai_pick": "Dolomiti Energia Trentino",
       "formula_pick": "Dolomiti Energia Trentino",
       "agreement": true,
-      "confidence": 9,
-      "reasoning": "Dolomiti Energia Trentino ma znaczącą przewagę, grając u siebie z szansą na zakończenie serii po dwóch kolejnych zwycięstwach. Virtus Olidata Bologna jest mocno osłabiona przez kontuzje kluczowych zawodników, takich jak Derrick Alston Jr. i Alessandro Pajola, a także niepewny jest udział Aliou Diarry. Trentino zaprezentowało dominującą formę w Gara 3 na własnym parkiecie, co w połączeniu z atutem własnej hali i wsparciem kibiców daje im duże szanse na wygraną.",
+      "confidence": 7,
+      "reasoning": "Dolomiti Energia Trentino ma silną przewagę parkietu domowego i prowadzi w serii 2-1 po dominującym zwycięstwie w Gara 3. Virtus Bologna boryka się z poważnymi kontuzjami kluczowych graczy, co znacząco osłabia ich rotację i wpływa na morale zespołu. Trentino zaprezentowało doskonałą formę w ostatnich dwóch meczach, a Gara 4 jest dla nich \"match pointem\" na własnym terenie.",
       "key_factors": [
-        "Poważne kontuzje kluczowych graczy Virtus Olidata Bologna (Alston Jr., Pajola, Diarra, Accorsi).",
-        "Zwycięstwa Dolomiti Energia Trentino w dwóch ostatnich meczach serii, świadczące o lepszej formie.",
-        "Zdecydowana przewaga własnego parkietu w BTS Arena, gdzie Trentino wygrało Gara 3 różnicą 17 punktów.",
-        "Momentum i psychologiczna przewaga Trentino po dominującym występie w poprzednim meczu serii."
+        "Przewaga własnego parkietu i wsparcie kibiców dla Trentino w BTS Arena.",
+        "Poważne kontuzje kluczowych graczy Virtus Bologna (Derrick Alston Jr., Alessandro Pajola, Aliou Diarra - wątpliwy) osłabiające zespół.",
+        "Momentum i wysoka forma Dolomiti Energia Trentino po zwycięstwach w Gara 2 i Gara 3.",
+        "Stawka meczu: Gara 4 to \"match point\" dla Trentino i \"ostatnia deska ratunku\" dla Virtus."
       ],
-      "injury_notes": "Dolomiti Energia Trentino: DeVante' Jones i Prentiss Hubb są kontuzjowani i prawdopodobnie poza składem. Virtus Olidata Bologna: Alessandro Pajola (kontuzja kolana) i Derrick Alston Jr. (złamanie ręki, po operacji) są poza składem. Aliou Diarra (uraz mięśniowy) oraz Matteo Accorsi (kontuzja) są wątpliwi/nieobecni na Gara 4."
+      "injury_notes": "Dla Virtus Olidata Bologna: Derrick Alston Jr. ma złamanie trzeciej kości śródręcza lewej ręki i prawdopodobnie zakończył sezon. Alessandro Pajola ma nieregularność łąkotki w prawym kolanie, zostanie poddany artroskopii diagnostycznej i jego powrót w tym sezonie jest wątpliwy. Matteo Accorsi jest niedostępny. Aliou Diarra ma uraz mięśnia skośnego zewnętrznego prawego brzucha, a jego występ w Gara 4 jest wątpliwy i monitorowany codziennie. Matt Morgan wraca do formy po kontuzji, ale grał w Gara 2 i Gara 3. \nDla Dolomiti Energia Trentino: DeVante' Jones (kontuzja pleców) i Prentiss Hubb (uraz skrętny lewego kolana z uszkodzeniem mięśnia) są niedostępni."
     },
     {
       "matchup": "Umana Reyer Venezia @ Bertram Derthona Tortona",
@@ -29,14 +29,14 @@
       "formula_pick": "Bertram Derthona Tortona",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Bertram Derthona Tortona wygrała Gara 3 u siebie, zmniejszając prowadzenie Umana Reyer Venezia w serii do 2-1. Przewaga własnego parkietu w fazie play-off jest znacząca, co zademonstrowała Tortona w poprzednim meczu, i będzie kluczowa dla gospodarzy w dążeniu do wyrównania serii. Obydwie drużyny przystępują do meczu bez istotnych, nowych kontuzji.",
+      "reasoning": "Bertram Derthona Tortona gra u siebie w kluczowym meczu Gara 4, próbując uniknąć eliminacji i doprowadzić do remisu w serii. Zwycięstwo w Gara 3 na własnym parkiecie (82-71) pokazało ich siłę na Nova Arena, a przewaga własnego parkietu i wysoka motywacja powinny pomóc im ponownie pokonać Umana Reyer Venezia.",
       "key_factors": [
-        "Przewaga własnego parkietu Bertram Derthona Tortona",
-        "Momentum po zwycięstwie Bertram Derthona Tortona w Gara 3",
-        "Motywacja Umana Reyer Venezia do zamknięcia serii",
-        "Brak istotnych kontuzji u kluczowych graczy obu drużyn"
+        "Przewaga własnego parkietu Bertram Derthona Tortona i wsparcie kibiców w Nova Arena.",
+        "Wysoka motywacja Tortony, aby uniknąć eliminacji i doprowadzić do Gara 5.",
+        "Momentum po zwycięstwie w Gara 3 (82-71) u siebie.",
+        "Potencjalna presja na Umana Reyer Venezia, by zamknąć serię poza domem."
       ],
-      "injury_notes": "Brak istotnych braków. Ezra Manjon i Arturs Strautins z Bertram Derthona Tortona, którzy mieli wcześniejsze kontuzje w sezonie, grali w Gara 3 i są dostępni na dzisiejszy mecz. Olejniczak z Bertram Derthona Tortona został usunięty z Gara 3 za wejście na boisko podczas przepychanki, ale nie ma informacji o zawieszeniu go na Gara 4. Chris Horton i Ky Bowman z Umana Reyer Venezia, którzy mieli problemy zdrowotne wcześniej w sezonie, również zagrali w Gara 3 i są gotowi do gry."
+      "injury_notes": "Brak istotnych nowych urazów zgłoszonych na 2026-05-24 dla obu drużyn. Dominik Olejniczak z Bertram Derthona Tortona został wykluczony z Gara 3 w trakcie meczu po incydencie, ale brak jest informacji o zawieszeniu na Gara 4. Chris Horton (Umana Reyer Venezia) oraz Ezra Manjon i Arturs Strautins (Bertram Derthona Tortona) grali w Gara 3 pomimo wcześniejszych doniesień o urazach."
     }
   ]
 }
