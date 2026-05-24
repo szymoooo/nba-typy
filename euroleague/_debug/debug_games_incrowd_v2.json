@@ -32,21 +32,21 @@
         "alias": "Round 47"
       },
       "date": "2026-05-24T18:00:00.000Z",
-      "status": "confirmed",
-      "minute": null,
-      "remainingTime": null,
-      "quarter": null,
+      "status": "live",
+      "minute": "13:00",
+      "remainingTime": "06:44",
+      "quarter": "2",
       "quarterMinute": null,
       "home": {
         "code": "OLY",
         "name": "Olympiacos Piraeus",
         "abbreviatedName": "Olympiacos",
         "tla": "OLY",
-        "score": 0,
+        "score": 28,
         "standingsScore": 0,
         "quarters": {
-          "q1": 0,
-          "q2": 0,
+          "q1": 19,
+          "q2": 9,
           "q3": 0,
           "q4": 0,
           "ot1": null,
@@ -57,7 +57,7 @@
         },
         "coach": {
           "code": "",
-          "name": ""
+          "name": "BARTZOKAS, GEORGIOS"
         },
         "imageUrls": {
           "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
@@ -69,11 +69,11 @@
         "name": "Real Madrid",
         "abbreviatedName": "Real",
         "tla": "RMB",
-        "score": 0,
+        "score": 31,
         "standingsScore": 0,
         "quarters": {
-          "q1": 0,
-          "q2": 0,
+          "q1": 26,
+          "q2": 5,
           "q3": 0,
           "q4": 0,
           "ot1": null,
@@ -84,7 +84,7 @@
         },
         "coach": {
           "code": "",
-          "name": ""
+          "name": "SCARIOLO, SERGIO"
         },
         "imageUrls": {
           "crest": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
@@ -57327,7 +57327,7 @@
     }
   ],
   "metadata": {
-    "createdAt": "2026-05-24T17:58:28.018362631Z",
+    "createdAt": "2026-05-24T18:35:45.469420139Z",
     "pageItems": 402,
     "totalItems": 402,
     "totalPages": 1,
