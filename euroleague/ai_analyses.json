@@ -1,23 +1,13 @@
 {
-  "generated_at": "2026-05-24T17:16:06.787969",
+  "generated_at": "2026-05-24T17:58:59.862161",
   "date": "2026-05-24",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Real Madrid @ Olympiacos Piraeus",
-      "phase": "Final Four",
-      "date": "2026-05-24T18:00:00.000Z",
-      "ai_pick": "Real Madrid",
+      "ai_pick": null,
       "formula_pick": "Olympiacos Piraeus",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "Real Madrid boasts a superior historical record in EuroLeague finals, holding 11 titles compared to Olympiacos's 3, and a 3-1 advantage in previous final encounters against Olympiacos. Despite Olympiacos's slightly better regular season efficiency and a quasi-home advantage in Athens, Real Madrid's extensive Final Four experience and championship pedigree are critical factors in this single-elimination format.",
-      "key_factors": [
-        "Historieczne sukcesy Realu Madrid w Final Four (11 tytułów)",
-        "Bezpośrednie spotkania w finałach (Real Madrid prowadzi 3-1)",
-        "Doświadczenie w kluczowych meczach fazy Final Four",
-        "Neutralny parkiet (z lekką przewagą dla Olympiacos ze względu na lokalizację)"
-      ]
+      "note": "AI nie zwrocilo wyniku, uzyto formuły W-L"
     }
   ]
 }
