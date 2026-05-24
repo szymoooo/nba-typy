@@ -120,6 +120,82 @@ def fetch_sofa_games_today(season_id, today_slug):
     return games
 
 
+def fetch_games_via_ai(today_slug):
+    """Fallback: pobiera dzisiejsze mecze BBL przez Gemini Google Search.
+    Zwraca listę event-like dictów kompatybilnych z budową kart HTML."""
+    client = _get_gemini()
+    if not client:
+        print("   [AI-games] Brak klucza Gemini - nie można pobrać meczów przez AI")
+        return []
+
+    prompt = f"""Podaj mi dzisiejsze mecze BBL (easyCredit Basketball Bundesliga, Niemcy) na datę {today_slug}.
+Użyj Google Search aby znaleźć wyniki/harmonogram z basketball-bundesliga.de lub sport1.de lub spox.com.
+
+Odpowiedz TYLKO czystym JSON (bez markdown), lista obiektów:
+[
+  {{
+    "home": "<nazwa drużyny gospodarzy>",
+    "away": "<nazwa drużyny gości>",
+    "time_cet": "<godzina CET np. 20:30>",
+    "status": "pre",
+    "phase": "<faza np. Playoff Semifinals lub Regular Season>"
+  }}
+]
+
+Jeśli nie ma meczów BBL na {today_slug}, zwróć pustą listę: []
+Nie dodawaj żadnego tekstu przed ani po JSON."""
+
+    try:
+        from google.genai import types
+        resp = client.models.generate_content(
+            model=AI_MODEL, contents=prompt,
+            config=types.GenerateContentConfig(
+                tools=[types.Tool(google_search=types.GoogleSearch())]
+            )
+        )
+        text = (resp.text or "").strip()
+        m = re.search(r'\[.*\]', text, re.DOTALL)
+        if not m:
+            print(f"   [AI-games] Brak JSON w odpowiedzi Gemini: {text[:200]}")
+            return []
+        games_raw = json.loads(m.group())
+        events = []
+        for g in games_raw:
+            home_name = g.get("home", "")
+            away_name = g.get("away", "")
+            if not home_name or not away_name:
+                continue
+            status_str = str(g.get("status", "pre")).lower()
+            sofa_status_type = "notstarted" if status_str == "pre" else (
+                "inprogress" if status_str in ("in", "live") else "finished"
+            )
+            ts = None
+            try:
+                time_str = g.get("time_cet", "20:00")
+                dt = datetime.strptime(f"{today_slug} {time_str}", "%Y-%m-%d %H:%M").replace(tzinfo=CET)
+                ts = int(dt.timestamp())
+            except Exception:
+                ts = None
+            events.append({
+                "homeTeam": {"name": home_name, "id": None},
+                "awayTeam": {"name": away_name, "id": None},
+                "startTimestamp": ts,
+                "status": {"type": sofa_status_type},
+                "homeScore": {"current": 0},
+                "awayScore": {"current": 0},
+                "roundInfo": {"name": g.get("phase", "BBL")},
+                "_source": "gemini_search",
+            })
+        print(f"   [AI-games] BBL mecze (Gemini): {len(events)}")
+        _save_debug("ai_games", events)
+        return events
+    except Exception as e:
+        print(f"   [AI-games] Blad: {e}")
+        return []
+
+
+
+
 def fetch_sofa_standings(season_id):
     data = _sofa_fetch(
         f"https://api.sofascore.com/api/v1/unique-tournament/{SOFA_TOURNAMENT_ID}"
@@ -298,16 +374,21 @@ def predict(ev, pct_map, today_slug):
     a_pct = pct_map.get(a_id, 0.0)
     formula = h_name if (h_pct + 0.05) > a_pct else a_name
 
+    def _r(winner, reasoning="", key_factors=None, confidence=None, injury_notes=""):
+        return {"winner": winner, "reasoning": reasoning,
+                "key_factors": key_factors or [], "confidence": confidence,
+                "injury_notes": injury_notes}
+
     state = sofa_game_status(ev)
     if state == "post":
-        return formula
+        return _r(formula)
 
     ts = ev.get("startTimestamp")
     if ts:
         try:
             if datetime.fromtimestamp(int(ts), tz=CET) <= datetime.now(CET):
                 print(f"   [TIME-skip] {a_name} vs {h_name} -> formula")
-                return formula
+                return _r(formula)
         except Exception:
             pass
 
@@ -327,10 +408,11 @@ def predict(ev, pct_map, today_slug):
                 "injury_notes": result.get("injury_notes", ""),
             })
             time.sleep(1)
-            return result["winner"]
+            return _r(result["winner"], result["reasoning"], result["key_factors"],
+                      result["confidence"], result.get("injury_notes", ""))
         _ai_log.append({"matchup": f"{a_name} @ {h_name}", "ai_pick": None,
                         "formula_pick": formula, "note": "AI fallback"})
-    return formula
+    return _r(formula)
 
 
 def save_ai_log(today_slug):
@@ -415,7 +497,12 @@ def build_cards(games, pct_map, today_slug):
             h_score = sofa_score(ev, "home")
             a_score = sofa_score(ev, "away")
             state = sofa_game_status(ev)
-            pick = predict(ev, pct_map, today_slug)
+            pred = predict(ev, pct_map, today_slug)
+            pick = pred["winner"]
+            ai_reasoning = pred.get("reasoning", "")
+            ai_factors = pred.get("key_factors") or []
+            ai_confidence = pred.get("confidence")
+            ai_injury = pred.get("injury_notes", "")
 
             if state == "pre":
                 tip = sofa_fmt_time(ev)
@@ -437,6 +524,31 @@ def build_cards(games, pct_map, today_slug):
                 outcome = (' <span style="color:#10b981">&#10003;</span>' if actual and pick == actual
                            else (' <span style="color:#ef4444">&#10007;</span>' if actual else ""))
 
+            # AI reasoning block
+            reasoning_html = ""
+            if state == "pre" and ai_reasoning:
+                conf_badge = (f'<span style="background:#1e3a5f;color:#60a5fa;font-size:.7rem;'
+                              f'font-weight:900;padding:3px 8px;border-radius:20px;margin-left:8px;">'
+                              f'Pewność: {ai_confidence}/10</span>') if ai_confidence else ""
+                factors_html = ""
+                if ai_factors:
+                    li_items = "".join(f'<li style="margin-bottom:4px;">{f}</li>' for f in ai_factors)
+                    factors_html = (f'<ul style="margin:10px 0 0 0;padding-left:18px;'
+                                    f'color:#94a3b8;font-size:.78rem;line-height:1.5;">{li_items}</ul>')
+                injury_html = ""
+                if ai_injury:
+                    injury_html = (f'<div style="margin-top:8px;padding:8px 10px;'
+                                   f'background:rgba(239,68,68,.08);border-radius:8px;'
+                                   f'color:#fca5a5;font-size:.75rem;">🩹 {ai_injury}</div>')
+                reasoning_html = f"""
+              <div style="background:rgba(15,23,42,.8);border-top:1px solid #334155;padding:16px 20px;">
+                <div style="font-size:.65rem;color:#64748b;text-transform:uppercase;font-weight:700;
+                            letter-spacing:1px;margin-bottom:8px;">🤖 AI Reasoning{conf_badge}</div>
+                <div style="color:#cbd5e1;font-size:.82rem;line-height:1.6;">{ai_reasoning}</div>
+                {factors_html}
+                {injury_html}
+              </div>"""
+
             live_class = " live" if state == "in" else ""
             cards.append(f"""
             <div class="card">
@@ -456,6 +568,7 @@ def build_cards(games, pct_map, today_slug):
                 <div class="pred-l">Public AI Model Picks</div>
                 <div class="pred-v">{pick}{outcome}</div>
               </div>
+              {reasoning_html}
             </div>""")
         except Exception as e:
             print(f"   Błąd przy meczu BBL: {e}")
@@ -477,6 +590,10 @@ def build_page(title_date, cards_html, summaries):
 <body>
   <div class="container">
     <header>
+      <img src="https://api.basketball-bundesliga.de/images/teams/logo/2025/430"
+           alt="BBL logo"
+           onerror="this.style.display='none'"
+           style="height:70px;object-fit:contain;margin-bottom:12px;display:block;margin-left:auto;margin-right:auto;">
       <h1>{BRAND_TITLE}</h1>
       <div class="sub">{LEAGUE_NAME} &middot; Live Scores &amp; AI Model Picks &mdash; {title_date}</div>
     </header>
@@ -513,6 +630,11 @@ def main():
 
     pct_map = fetch_sofa_standings(season_id)
     games = fetch_sofa_games_today(season_id, today_slug)
+
+    # Fallback: jeśli Sofascore zablokowane (GitHub Actions IP block) -> Gemini Google Search
+    if not games and os.environ.get("GEMINI_API_KEY"):
+        print("   [FALLBACK] Sofascore zablokowane - próbuję Gemini Google Search...")
+        games = fetch_games_via_ai(today_slug)
 
     cards_html, picks, summaries = build_cards(games, pct_map, today_slug)
 
