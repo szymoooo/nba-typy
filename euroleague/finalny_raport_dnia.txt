@@ -1,20 +1,22 @@
---- AUDYT EUROLEAGUE LIVE (2026-05-24 22:49 CET) ---
-Na podstawie danych z 2026-05-24, oto analiza Twojego typu EuroLeague:
+--- AUDYT EUROLEAGUE LIVE (2026-05-25 00:38 CET) ---
+# EuroLeague typy na 2026-05-24
 
-### Real Madrid @ Olympiacos Piraeus
+### Real Madrid @ Olympiacos Piraeus -> Typ: Olympiacos Piraeus
 
-**Kluczowe braki w składach:**
+#### Kluczowe braki w składach:
+*   **Real Madrid:**
+    *   Usman Garuba 🤕: Poważna kontuzja nogi doznana w półfinale, wykluczony z finału.
+    *   Walter Tavares 🤕: Kontuzja kolana (zerwanie MCL), niedostępny.
+    *   Alex Len 🤕: Kontuzja stopy, niedostępny.
+    *   Real Madryt miał poważne problemy kadrowe w strefie podkoszowej.
+*   **Olympiacos Piraeus:**
+    *   Brak aktualnych raportów o kluczowych brakach w składzie na dzień 24 maja 2026, które by wykluczały zawodników z finału.
+    *   Wcześniejsze raporty z początku maja 2026 wspominały o Tyson Ward (kontuzja pleców, wykluczony z 3. meczu serii play-off), Tyrique Jones (kontuzja łydki, wrócił do akcji w 2. meczu serii play-off), Monte Morris (skurcz mięśni dolnej części pleców, nie był w kadrze meczowej na 1. i 2. mecz serii play-off), Moustapha Fall (kontuzja kolana, zadebiutował w sezonie w 37. kolejce).
+    *   Keenan Evans (zerwane ścięgno Achillesa) był wykluczony na resztę sezonu już od 10. kolejki.
+    *   Sasha Vezenkov (niewielki dyskomfort w łydce) został dopuszczony do treningów przed finałem.
 
-*   **Real Madrid** ⚪:
-    *   Usman Garuba 🤕: Kontuzja Achillesa odniesiona w półfinale; wykluczony z finału.
-    *   Alex Len 🤕: Kontuzja rozcięgna podeszwowego lewej stopy; wykluczony z finału.
-    *   Walter Tavares 🤕: Kontuzja więzadła pobocznego przyśrodkowego (MCL) lewego kolana odniesiona w play-offach; wykluczony z finału.
-*   **Olympiacos Piraeus** 🔴:
-    *   Moustapha Fall ❌: Nieobecny w składzie na finał (nie był w 12-osobowym składzie na półfinał).
-    *   Giannoulis Larentzakis ❌: Nieobecny w składzie na finał (nie był w 12-osobowym składzie na półfinał).
-    *   Monte Morris ❌: Nieobecny w składzie na finał (nie był w 12-osobowym składzie na półfinał).
-    *   Frank Ntilikina ❌: Nieobecny w składzie na finał (nie był w 12-osobowym składzie na półfinał).
-
-**Werdykt:** [✅ ZATWIERDZONY]
-
-**Uzasadnienie:** Mimo braków w składzie po obu stronach, szczególnie poważnych w formacji centrów Realu Madryt, Olympiacos Piraeus zwyciężył w finale EuroLeague z wynikiem 92-85, co potwierdza Twój typ.
+#### Werdykt:
+*   ✅ **ZATWIERDZONY**
+    *   Olympiacos Piraeus wygrał finał EuroLeague 92-85.
+    *   Real Madryt borykał się z poważnymi kontuzjami kluczowych graczy podkoszowych, co osłabiło ich skład przed finałem.
+    *   Olympiacos przystąpił do finału bez tak dotkliwych i decydujących o wyniku osłabień, co mogło przyczynić się do ich zwycięstwa.
