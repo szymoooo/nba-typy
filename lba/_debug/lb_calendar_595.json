@@ -26,155 +26,145 @@
   },
   "matches": [
     {
-      "id": 25339,
-      "game_status": "2",
+      "id": 25342,
+      "game_status": "0",
       "championship_id": 595,
-      "championships_day_id": 4472,
+      "championships_day_id": 4473,
       "year": 2025,
-      "number": 4,
-      "match_datetime": "2026-05-23T20:00:00.000+02:00",
+      "number": 5,
+      "match_datetime": "2026-05-25T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 83,
-      "visitor_final_score": 77,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
       "target_score": null,
       "additional_time": 0,
-      "plant_id": 42,
-      "websocket_match_id": "1674755",
+      "plant_id": 61,
+      "websocket_match_id": "1674758",
       "ticketing_url": null,
       "has_streaming": 0,
       "match_serie": "2-2",
       "match_hw": 2,
       "match_vw": 2,
-      "updated_at": "2026-05-24T19:19:33.622+02:00",
-      "h_team_id": 1721,
-      "h_team_name": "Pallacanestro Trieste",
-      "h_club_code": "TRI",
+      "updated_at": "2026-05-25T18:17:43.578+02:00",
+      "h_team_id": 1713,
+      "h_team_name": "Germani Brescia",
+      "h_club_code": "BRE",
       "h_team_enabled": true,
-      "home_logo_key": "n7mBcEjt1p6CqM1fpaNLf8Sf",
-      "v_team_id": 1713,
-      "v_team_name": "Germani Brescia",
-      "v_club_code": "BRE",
+      "home_logo_key": "4VQTNve4bj562gsk2iL5PBcq",
+      "v_team_id": 1721,
+      "v_team_name": "Pallacanestro Trieste",
+      "v_club_code": "TRI",
       "v_team_enabled": true,
-      "v_logo_key": "4VQTNve4bj562gsk2iL5PBcq",
-      "town_id": 3267,
-      "plant_name": "PalaTrieste",
-      "town_name": "Trieste",
-      "day_code": "4",
-      "day_serial": 2004,
-      "day_name": "Quarti di Finale - Gara  4",
+      "v_logo_key": "n7mBcEjt1p6CqM1fpaNLf8Sf",
+      "town_id": 1549,
+      "plant_name": "Palaleonessa A2A",
+      "town_name": "Brescia",
+      "day_code": "5",
+      "day_serial": 2005,
+      "day_name": "Quarti di Finale - Gara  5",
       "match_serie_key": "1713_1721"
     },
     {
-      "id": 25340,
-      "game_status": "2",
+      "id": 25343,
+      "game_status": "0",
       "championship_id": 595,
-      "championships_day_id": 4472,
+      "championships_day_id": 4473,
       "year": 2025,
-      "number": 4,
-      "match_datetime": "2026-05-24T17:00:00.000+02:00",
-      "match_hh": 17,
+      "number": 5,
+      "match_datetime": "2026-05-26T20:00:00.000+02:00",
+      "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 81,
-      "visitor_final_score": 90,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
       "target_score": null,
       "additional_time": 0,
-      "plant_id": 58,
-      "websocket_match_id": "1674756",
+      "plant_id": 63,
+      "websocket_match_id": "1674759",
       "ticketing_url": null,
       "has_streaming": 0,
       "match_serie": "2-2",
       "match_hw": 2,
       "match_vw": 2,
-      "updated_at": "2026-05-24T19:03:33.842+02:00",
-      "h_team_id": 1718,
-      "h_team_name": "Dolomiti Energia Trentino",
-      "h_club_code": "TRN",
+      "updated_at": "2026-05-25T15:38:45.745+02:00",
+      "h_team_id": 1712,
+      "h_team_name": "Virtus Olidata Bologna",
+      "h_club_code": "BOL",
       "h_team_enabled": true,
-      "home_logo_key": "FBNPmcdEp4ymTqXcYyTfxWLA",
-      "v_team_id": 1712,
-      "v_team_name": "Virtus Olidata Bologna",
-      "v_club_code": "BOL",
+      "home_logo_key": "HRX9Wp5BEw1nVnA2ArDX64R9",
+      "v_team_id": 1718,
+      "v_team_name": "Dolomiti Energia Trentino",
+      "v_club_code": "TRN",
       "v_team_enabled": true,
-      "v_logo_key": "HRX9Wp5BEw1nVnA2ArDX64R9",
-      "town_id": 2418,
-      "plant_name": "BTS Arena",
-      "town_name": "Trento",
-      "day_code": "4",
-      "day_serial": 2004,
-      "day_name": "Quarti di Finale - Gara  4",
+      "v_logo_key": "FBNPmcdEp4ymTqXcYyTfxWLA",
+      "town_id": 3451,
+      "plant_name": "Virtus Arena",
+      "town_name": "Bologna",
+      "day_code": "5",
+      "day_serial": 2005,
+      "day_name": "Quarti di Finale - Gara  5",
       "match_serie_key": "1712_1718"
     },
     {
-      "id": 25341,
-      "game_status": "2",
+      "id": 25344,
+      "game_status": "0",
       "championship_id": 595,
-      "championships_day_id": 4472,
+      "championships_day_id": 4473,
       "year": 2025,
-      "number": 4,
-      "match_datetime": "2026-05-24T18:00:00.000+02:00",
-      "match_hh": 18,
+      "number": 5,
+      "match_datetime": "2026-05-26T20:00:00.000+02:00",
+      "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 89,
-      "visitor_final_score": 71,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
       "target_score": null,
       "additional_time": 0,
-      "plant_id": 167,
-      "websocket_match_id": "1674757",
+      "plant_id": 57,
+      "websocket_match_id": "1674760",
       "ticketing_url": null,
       "has_streaming": 0,
       "match_serie": "2-2",
       "match_hw": 2,
       "match_vw": 2,
-      "updated_at": "2026-05-24T19:46:07.644+02:00",
-      "h_team_id": 1720,
-      "h_team_name": "Bertram Derthona Tortona",
-      "h_club_code": "TOR",
+      "updated_at": "2026-05-24T19:52:23.424+02:00",
+      "h_team_id": 1724,
+      "h_team_name": "Umana Reyer Venezia",
+      "h_club_code": "VEN",
       "h_team_enabled": true,
-      "home_logo_key": "gn2AC153GWgtZzYGb6RearWj",
-      "v_team_id": 1724,
-      "v_team_name": "Umana Reyer Venezia",
-      "v_club_code": "VEN",
+      "home_logo_key": "WgraaLBwXnKWsQW8sRUsrE74",
+      "v_team_id": 1720,
+      "v_team_name": "Bertram Derthona Tortona",
+      "v_club_code": "TOR",
       "v_team_enabled": true,
-      "v_logo_key": "WgraaLBwXnKWsQW8sRUsrE74",
-      "town_id": 5130,
-      "plant_name": "Nova Arena",
-      "town_name": "Tortona",
-      "day_code": "4",
-      "day_serial": 2004,
-      "day_name": "Quarti di Finale - Gara  4",
+      "v_logo_key": "gn2AC153GWgtZzYGb6RearWj",
+      "town_id": 9660,
+      "plant_name": "Palasport Taliercio",
+      "town_name": "Mestre",
+      "day_code": "5",
+      "day_serial": 2005,
+      "day_name": "Quarti di Finale - Gara  5",
       "match_serie_key": "1720_1724"
     }
   ],
   "referees": {
-    "25339": [
+    "25342": [
+      "ROSSI",
+      "GRIGIONI",
+      "PERCIAVALLE"
+    ],
+    "25343": [
+      "ATTARD",
       "GIOVANNETTI",
-      "BONGIORNI",
-      "LUCOTTI"
+      "BARTOLI"
     ],
-    "25340": [
+    "25344": [
       "LANZARINI",
-      "BORGIONI",
-      "ATTARD"
-    ],
-    "25341": [
-      "LO GUZZO",
-      "SAHIN",
-      "QUARTA"
+      "GONELLA",
+      "VALZANI"
     ]
   },
   "broadcasters": {
-    "25339": [
-      {
-        "name": "LBATV",
-        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
-      },
-      {
-        "name": "SkySportBasket",
-        "logo": "P5BD129wViAuxiVzdcxEY5dD"
-      }
-    ],
-    "25340": [
+    "25342": [
       {
         "name": "LBATV",
         "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
@@ -188,7 +178,17 @@
         "logo": "TdQNBYrbL3bTH7JsCc5rUH2c"
       }
     ],
-    "25341": [
+    "25343": [
+      {
+        "name": "LBATV",
+        "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
+      },
+      {
+        "name": "SkySportBasket",
+        "logo": "P5BD129wViAuxiVzdcxEY5dD"
+      }
+    ],
+    "25344": [
       {
         "name": "LBATV",
         "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
@@ -224,14 +224,14 @@
         "event_serial": 2004,
         "code": "4",
         "name": "Quarti di Finale - Gara  4",
-        "focus_on": true
+        "focus_on": false
       },
       {
         "id": 4473,
         "event_serial": 2005,
         "code": "5",
         "name": "Quarti di Finale - Gara  5",
-        "focus_on": false
+        "focus_on": true
       },
       {
         "id": 4474,
@@ -325,6 +325,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1779518733_mlCK:1779709280_cmCK:1779645143_cdCK:1779518733_vCK:1779650624",
+  "cache_key": "tCK:1779711716_mlCK:1779724602_cmCK:1779725863_cdCK:1779711716_vCK:1779650624",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }

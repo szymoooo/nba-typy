@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-05-24T15:58:02.295130",
-  "date": "2026-05-24",
+  "generated_at": "2026-05-25T16:20:30.926892",
+  "date": "2026-05-25",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Umana Reyer Venezia @ Bertram Derthona Tortona",
-      "day": "Quarti di Finale - Gara  4",
-      "date": "2026-05-24T18:00:00.000+02:00",
-      "ai_pick": "Bertram Derthona Tortona",
-      "formula_pick": "Bertram Derthona Tortona",
+      "matchup": "Pallacanestro Trieste @ Germani Brescia",
+      "day": "Quarti di Finale - Gara  5",
+      "date": "2026-05-25T20:00:00.000+02:00",
+      "ai_pick": "Germani Brescia",
+      "formula_pick": "Germani Brescia",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Bertram Derthona Tortona pokazała dużą determinację, wygrywając Gara 3 na własnym parkiecie i zmniejszając stan serii do 1-2. Grając ponownie w Nova Arena w Gara 4, z możliwością wyrównania serii, drużyna gospodarzy będzie miała silne wsparcie fanów i ogromną motywację do zwycięstwa. Umana Reyer Venezia, mimo prowadzenia w serii, zmagała się w Gara 3 i będzie musiała zmierzyć się z bardzo zdeterminowanym przeciwnikiem na jego terenie.",
+      "confidence": 6,
+      "reasoning": "Germani Brescia gra na własnym boisku w decydującym Gara 5, co historycznie daje im przewagę. Mimo przegranej w Gara 4, mają lepszy bilans NetRtg z sezonu zasadniczego. Pallacanestro Trieste jednak zyskało rozpęd, wygrywając ostatni mecz serii i udowodniło, że potrafi zwyciężyć w Brescii.",
       "key_factors": [
-        "Przewaga własnego parkietu Bertram Derthona Tortona",
-        "Momentum i pewność siebie po wygranej w Gara 3 dla Tortony",
-        "Wysoka stawka meczu dla Tortony, walczącej o wyrównanie serii"
+        "Przewaga własnego boiska dla Germani Brescia",
+        "Momentum Pallacanestro Trieste po wygranej w Gara 4",
+        "Decydujący mecz Gara 5",
+        "Wyższe NetRtg Germani Brescia w sezonie zasadniczym"
       ],
-      "injury_notes": "Brak istotnych nowych kontuzji zgłoszonych dla którejkolwiek z drużyn na dzień 24.05.2026. Chris Horton, Stefan Nikolic i Ky Bowman z Umana Reyer Venezia, którzy mieli wcześniejsze problemy zdrowotne, zagrali w Gara 3. Dominik Olejniczak z Bertram Derthona Tortona został wykluczony za faule w Gara 3, ale oczekuje się, że będzie dostępny w Gara 4. Arturs Strautins (Tortona) kontynuuje rekonwalescencję, ale jego status na Gara 4 nie został potwierdzony jako absencja."
+      "injury_notes": "Amedeo Della Valle (Germani Brescia) jest dostępny do gry w Gara 5, pomimo ograniczonego czasu na boisku w Gara 4. Brak istotnych kontuzji w Pallacanestro Trieste."
     }
   ]
 }
