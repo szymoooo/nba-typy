@@ -107,42 +107,48 @@ def build_prompt(match, table, all_matches, player_stats, today):
     h_name = match.get("h_team_name") or "Home"
     v_name = match.get("v_team_name") or "Away"
 
+    # --- Bilans ogólny ---
     h_row = table.get(h_id) or {}
     v_row = table.get(v_id) or {}
     h_w, h_l = h_row.get("wins", 0), h_row.get("losses", 0)
     v_w, v_l = v_row.get("wins", 0), v_row.get("losses", 0)
     h_pct = round(100 * h_w / max(1, h_w + h_l))
     v_pct = round(100 * v_w / max(1, v_w + v_l))
-    h_net = ld.get_net_rating_simple(table, h_id)
-    v_net = ld.get_net_rating_simple(table, v_id)
 
-    arena = match.get("plant_name") or "?"
-    city = match.get("town_name") or "?"
-    day_name = match.get("day_name") or "?"
-    hour = ld.fmt_match_time(match)
-    match_serie = match.get("match_serie") or ""
-    serie_wins = match.get("match_hw", 0) or 0
-    serie_losses = match.get("match_vw", 0) or 0
+    # --- Bilans dom/wyjazd ---
+    h_ha = ld.get_home_away_record(table, h_id)
+    v_ha = ld.get_home_away_record(table, v_id)
 
-    # Top scorers
+    # --- PPG / PAPG / NetRtg ---
+    h_ppg, h_papg, h_net = ld.get_ppg_papg(table, h_id)
+    v_ppg, v_papg, v_net = ld.get_ppg_papg(table, v_id)
+
+    # --- Forma: streak 15 + ostatnie 5 meczów ---
+    h_streak = ld.get_streak(table, h_id, 15)
+    v_streak = ld.get_streak(table, v_id, 15)
+    h_recent = ld.get_recent_games(table, h_id, 5)
+    v_recent = ld.get_recent_games(table, v_id, 5)
+
+    # --- Top scorerzy z APG/RPG/SPG ---
     h_top = ld.get_top_scorers_by_team(player_stats, h_id, 3)
     v_top = ld.get_top_scorers_by_team(player_stats, v_id, 3)
 
-    def fmt_scorers(scorers):
-        if not scorers:
-            return "  - brak danych"
-        return "\n".join(
-            f"  - {s['name']}: {s['ppg']} ppg, {s['mpg']} min/mecz ({s['presences']} meczow)"
-            for s in scorers
-        )
-
-    # H2H
+    # --- H2H ---
     h2h_text = ld.format_h2h(
         ld.get_h2h_in_season(all_matches, h_id, v_id),
         h_id, h_name, v_id, v_name
     )
 
-    # Stan serii playoffs
+    # --- Metadane meczu ---
+    arena = match.get("plant_name") or "?"
+    city = match.get("town_name") or "?"
+    day_name = match.get("day_name") or "?"
+    hour = ld.fmt_match_time(match)
+
+    # --- Stan serii playoff ---
+    match_serie = match.get("match_serie") or ""
+    serie_wins = match.get("match_hw", 0) or 0
+    serie_losses = match.get("match_vw", 0) or 0
     series_text = ""
     if match_serie:
         series_text = (
@@ -175,30 +181,65 @@ GOSC:      {v_name}
 DANE Z LEGABASKET.IT (sezon 2025/26)
 =========================================================================
 
-BILANS REGULASEZONE:
-   {h_name}: {h_w}-{h_l} ({h_pct}%, NetRtg {h_net:+})
-   {v_name}: {v_w}-{v_l} ({v_pct}%, NetRtg {v_net:+})
+BILANS OGOLNY:
+   {h_name}: {h_w}-{h_l} ({h_pct}%)
+   {v_name}: {v_w}-{v_l} ({v_pct}%)
+
+BILANS DOM / WYJAZD:
+   {h_name} u siebie:    {h_ha['wins_home']}-{h_ha['losses_home']}
+   {v_name} na wyjezdzie: {v_ha['wins_away']}-{v_ha['losses_away']}
+
+ATAK / OBRONA (srednie na mecz, sezon zasadniczy):
+   {h_name}: {h_ppg} pkt zdobytych / {h_papg} traconych  (NetRtg {h_net:+})
+   {v_name}: {v_ppg} pkt zdobytych / {v_papg} traconych  (NetRtg {v_net:+})
 {series_text}
+FORMA - ostatnie 15 wynikow (W=wygrana, najnowszy z prawej):
+   {h_name}: {h_streak}
+   {v_name}: {v_streak}
 
-TOP SCORERZY (sezon zasadniczy):
+OSTATNIE 5 MECZOW:
    {h_name}:
-{fmt_scorers(h_top)}
+{ld.format_recent_games(h_recent)}
    {v_name}:
-{fmt_scorers(v_top)}
+{ld.format_recent_games(v_recent)}
 
-H2H W TYM SEZONIE:
+TOP SCORERZY (statystyki sezonowe):
+   {h_name}:
+{ld.format_top_scorers(h_top)}
+   {v_name}:
+{ld.format_top_scorers(v_top)}
+
+H2H W TYM SEZONIE (zakonczone spotkania):
    {h2h_text}
 
 =========================================================================
 ZADANIE - Google Search dla kazdego punktu:
 =========================================================================
-1. KONTUZJE na {today}: gazzetta.it, legabasket.it, basketinside.com, X/Twitter klubow
-   Filtruj TYLKO sekcje koszykarska (nie pilka nozna).
-2. Forma ostatnich 3 meczow obu druzyn
-3. Kontekst fazy (playoff = wieksza waga parkietu domowego)
-4. Kontuzje/foul-outy z poprzedniego meczu serii
+1. KONTUZJE na {today}:
+   - legabasket.it, basketinside.com, gazzetta.it, X/Twitter klubow
+   - WAZNE: filtruj tylko koszykowke (nie pilka nozna)
+   - Czy lider druzyny jest niezdolny do gry?
 
+2. FOUL-OUTY i TECHNICZNE w poprzednim meczu serii:
+   - Czy ktos dostal 5 fauli lub technicznego w ostatnim meczu?
+
+3. KONTEKST PLAYOFFU (jezeli faza != sezon zasadniczy):
+   - Decydujacy mecz? Druzyna w zagrozeniu eliminacji?
+   - Efekt "playoff desperation" - druzyna eliminowana gra agresywniej
+
+4. FORMA 3 OSTATNICH MECZOW + momentum:
+   - Czy forma pochodzi z gry zespolowej czy z jednego gracza?
+
+WAGA SYGNALOW (od najwazniejszego):
+   1. Aktualne kontuzje liderow
+   2. Forma 3 ostatnich meczow + streak
+   3. Przewaga domowa (LBA: ~60% wygranych u siebie)
+   4. H2H w obecnej serii playoff
+   5. NetRtg + bilans dom/wyjazd
+
+=========================================================================
 ODPOWIEDZ - czysty JSON, bez markdown:
+=========================================================================
 {{
   "winner_name": "<dokladna nazwa: '{h_name}' lub '{v_name}'>",
   "confidence": <1-10>,
