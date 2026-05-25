@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-05-25T22:20:11.007994",
+  "generated_at": "2026-05-25T22:40:57.000776",
   "date": "2026-05-26",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Dolomiti Energia Trentino @ Virtus Olidata Bologna",
-      "day": "Quarti di Finale - Gara  5",
-      "date": "2026-05-26T20:00:00.000+02:00",
-      "ai_pick": "Virtus Olidata Bologna",
+      "ai_pick": null,
       "formula_pick": "Virtus Olidata Bologna",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Virtus Olidata Bologna gra u siebie w decydującym piątym meczu serii playoff, a ich morale jest wysoki po wygranej w Gara 4 na wyjeździe, co wyrównało serię. Mimo znaczących kontuzji liderów, zespół pokazał zdolność do adaptacji i walki o zwycięstwo.",
-      "key_factors": [
-        "Przewaga własnego parkietu w decydującym meczu.",
-        "Momentum po wygranej w Gara 4 na wyjeździe.",
-        "Wyższy wskaźnik NetRtg w sezonie zasadniczym."
-      ],
-      "injury_notes": "Virtus Olidata Bologna jest osłabiona brakiem Derricka Alstona Jr., którego sezon zakończyła złamana ręka, Alessandro Pajoli z powodu skręcenia kolana oraz Aliou Diarry z problemem mięśnia skośnego. Dolomiti Energia Trentino zgłasza, że rozgrywający DeVante Jones nie jest w pełni zdrowy, co jest istotne dla zespołu."
+      "note": "AI fallback"
     },
     {
       "matchup": "Bertram Derthona Tortona @ Umana Reyer Venezia",
