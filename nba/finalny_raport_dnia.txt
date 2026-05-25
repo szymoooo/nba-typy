@@ -1,9 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-25 18:18 ET) ---
-Na podstawie danych z 25.05.2026:
+--- KRYTYCZNY AUDYT LIVE (2026-05-25 19:37 ET) ---
+Na podstawie danych ze stycznia 2026, oto analiza Twojego typu:
 
-**Knicks @ Cavaliers**
+**Knicks @ Cavaliers -> Typ: Cavaliers**
 
-*   **Kluczowe braki w składach:**
-    *   New York Knicks: Brak zgłoszonych kontuzji.
-    *   Cleveland Cavaliers: Brak zgłoszonych kontuzji.
-*   **Werdykt:** [✅ ZATWIERDZONY] (W obu drużynach brak kluczowych braków w składach z powodu kontuzji, co oznacza, że typ nie jest ryzykowny z tego powodu).
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Uraz prawego stawu skokowego (Day-to-day/Questionable/Out w zależności od daty w styczniu) 🤕.
+        *   Josh Hart: Dyskomfort/uraz prawego stawu skokowego (Day-to-day/Out w zależności od daty w styczniu) 🩹.
+        *   Mitchell Robinson: Uraz stawu skokowego (Probable/Out w zależności od daty w styczniu) 🦵.
+        *   Karl-Anthony Towns: Pytajnik (skurcze pleców 24 stycznia), możliwe, że wrócił po chorobie 3 stycznia 🩺.
+        *   Landry Shamet: Kontuzja barku (Out/Questionable w zależności od daty w styczniu) 🚨.
+    *   **Cleveland Cavaliers:**
+        *   Darius Garland: Naciągnięcie prawego palucha (Out – przewidywano, że będzie poza grą do końca stycznia) 🦶.
+        *   Max Strus: Operacja lewej stopy (Out – przewidywano, że będzie poza grą do połowy lutego) 👣.
+        *   Sam Merrill: Zwichnięcie prawej ręki (Out/Questionable w zależności od daty w styczniu) 🖐️.
+        *   Dean Wade: Out 🤕.
+        *   De'Andre Hunter: Pytajnik (ból kolana) 🦵.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny borykały się ze znacznymi brakami kadrowymi w styczniu 2026 roku. Cavaliers mieli kluczowe długoterminowe kontuzje Dariusa Garlanda (rozgrywający) i Maxa Strusa (rzucający obrońca), którzy byli wykluczeni z gry przez znaczną część miesiąca lub dłużej. Knicks, choć również osłabieni brakiem Jalena Brunsona i Josha Harta, ich statusy były częściej określane jako "day-to-day" lub "questionable", co sugeruje potencjalnie krótsze lub mniej pewne absencje niż w przypadku graczy Cavaliers. Biorąc pod uwagę poważne i bardziej definitywne absencje kluczowych graczy Cavaliers w styczniu 2026, typ na Cavaliers jest ryzykowny.
