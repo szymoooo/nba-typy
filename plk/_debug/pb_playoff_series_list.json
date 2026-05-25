@@ -42,12 +42,54 @@
     ]
   },
   {
-    "id": 842,
+    "id": 852,
     "finished": false,
+    "stage": "semi_finals",
+    "start_date": "2026-05-26T20:15:00",
+    "end_date": "2026-06-05T20:15:00",
+    "next_game_date": "2026-05-26T20:15:00",
+    "teams": [
+      {
+        "data": {
+          "team_id": 9,
+          "city": "Gdynia",
+          "team": "AMW Arka Gdynia",
+          "abbr": "GDY",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/121.png",
+          "logo_without_background_path": "teams-logos/t121_l1_s2026.png?v=3",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2026.png?v=3"
+        },
+        "wins": 0,
+        "higher_seed": true,
+        "seed": "6",
+        "result": null,
+        "points": 0
+      },
+      {
+        "data": {
+          "team_id": 26,
+          "city": "Zielona Góra",
+          "team": "ORLEN Zastal Zielona Góra",
+          "abbr": "ZIE",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
+          "logo_without_background_path": "teams-logos/t769_l1_s2026.png?v=3",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2026.png?v=3"
+        },
+        "wins": 0,
+        "higher_seed": false,
+        "seed": "8",
+        "result": null,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "id": 842,
+    "finished": true,
     "stage": "quarter_finals",
     "start_date": "2026-05-13T20:15:00",
     "end_date": "2026-05-23T19:00:00",
-    "next_game_date": "2026-05-23T19:00:00",
+    "next_game_date": null,
     "teams": [
       {
         "data": {
@@ -62,8 +104,8 @@
         "wins": 2,
         "higher_seed": true,
         "seed": "3",
-        "result": null,
-        "points": 338
+        "result": "loss",
+        "points": 392
       },
       {
         "data": {
@@ -75,11 +117,11 @@
           "logo_without_background_path": "teams-logos/t121_l1_s2026.png?v=3",
           "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2026.png?v=3"
         },
-        "wins": 2,
+        "wins": 3,
         "higher_seed": false,
         "seed": "6",
-        "result": null,
-        "points": 338
+        "result": "win",
+        "points": 409
       }
     ]
   },

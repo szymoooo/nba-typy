@@ -1,28 +1,27 @@
 {
-  "generated_at": "2026-05-23T08:08:12.574084",
-  "date": "2026-05-23",
+  "generated_at": "2026-05-25T22:19:08.119425",
+  "date": "2026-05-26",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "AMW Arka Gdynia @ WKS Śląsk Wrocław",
-      "phase": "Ćwierćfinały",
-      "round": "5 mecz",
-      "date": "2026-05-23T19:00:00",
+      "matchup": "ORLEN Zastal Zielona Góra @ AMW Arka Gdynia",
+      "phase": "Półfinały",
+      "round": "1 mecz",
+      "date": "2026-05-26T20:15:00",
       "ai_pick": "AMW Arka Gdynia",
-      "formula_pick": "WKS Śląsk Wrocław",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "AMW Arka Gdynia wykazała się niezwykłą odpornością, odrabiając stratę 0-2 w serii i wygrywając dwa kolejne mecze na wyjeździe, w tym decydujący mecz numer cztery po dogrywce. To buduje ogromne momentum i świadczy o ich aktualnej, lepszej formie psychicznej i sportowej w kluczowych momentach. Powrót Milana Barbitcha dodał drużynie siły w ofensywie i stabilizacji, co było widoczne w poprzednich spotkaniach.",
+      "formula_pick": "AMW Arka Gdynia",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "AMW Arka Gdynia gra u siebie, co ma duże znaczenie w rywalizacji play-off, o czym świadczy również bilans H2H w tym sezonie (oba zespoły wygrywały u siebie). Dodatkowo, Arka wchodzi w półfinały z niesamowitym impetem po zwycięstwie w ćwierćfinale 3-2, odrabiając stratę 0-2, co pokazuje ich ogromną siłę mentalną i obecną formę. Kursy bukmacherskie również wskazują Arkę jako faworyta.",
       "key_factors": [
-        "Powrót Arki z wyniku 0-2 na 2-2 w serii",
-        "Wygranie dwóch kolejnych meczów na wyjeździe przez Arkę",
-        "Momentum psychologiczne po stronie Arki po wygranej w dogrywce",
-        "Dobra dyspozycja Milana Barbitcha od powrotu do składu Arki"
+        "Przewaga własnego parkietu AMW Arki Gdynia",
+        "Wyjątkowa forma i mentalność AMW Arki po zwycięstwie w ćwierćfinale z 0-2 na 3-2",
+        "Kursy bukmacherskie faworyzujące AMW Arkę Gdynia"
       ],
-      "injury_notes": "Brak istotnych braków. Milan Barbitch (AMW Arka Gdynia) powrócił do gry w trzecim meczu serii po kontuzji stawu skokowego i był kluczowym zawodnikiem w meczu numer cztery. Angel Nunez (WKS Śląsk Wrocław) również jest dostępny.",
-      "agreement_with_odds": "no_odds"
+      "injury_notes": "Milan Barbitch (AMW Arka Gdynia) wrócił do gry po kontuzji stawu skokowego i grał w meczach ćwierćfinałowych. Brak istotnych nowych braków kadrowych zgłoszonych na dzień 26.05.2026 dla obu zespołów.",
+      "agreement_with_odds": true
     }
   ]
 }

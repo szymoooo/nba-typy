@@ -1,25 +1,30 @@
 {
-  "generated_at": "2026-05-25T16:20:30.926892",
-  "date": "2026-05-25",
+  "generated_at": "2026-05-25T22:20:11.007994",
+  "date": "2026-05-26",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Pallacanestro Trieste @ Germani Brescia",
+      "matchup": "Dolomiti Energia Trentino @ Virtus Olidata Bologna",
       "day": "Quarti di Finale - Gara  5",
-      "date": "2026-05-25T20:00:00.000+02:00",
-      "ai_pick": "Germani Brescia",
-      "formula_pick": "Germani Brescia",
+      "date": "2026-05-26T20:00:00.000+02:00",
+      "ai_pick": "Virtus Olidata Bologna",
+      "formula_pick": "Virtus Olidata Bologna",
       "agreement": true,
-      "confidence": 6,
-      "reasoning": "Germani Brescia gra na własnym boisku w decydującym Gara 5, co historycznie daje im przewagę. Mimo przegranej w Gara 4, mają lepszy bilans NetRtg z sezonu zasadniczego. Pallacanestro Trieste jednak zyskało rozpęd, wygrywając ostatni mecz serii i udowodniło, że potrafi zwyciężyć w Brescii.",
+      "confidence": 7,
+      "reasoning": "Virtus Olidata Bologna gra u siebie w decydującym piątym meczu serii playoff, a ich morale jest wysoki po wygranej w Gara 4 na wyjeździe, co wyrównało serię. Mimo znaczących kontuzji liderów, zespół pokazał zdolność do adaptacji i walki o zwycięstwo.",
       "key_factors": [
-        "Przewaga własnego boiska dla Germani Brescia",
-        "Momentum Pallacanestro Trieste po wygranej w Gara 4",
-        "Decydujący mecz Gara 5",
-        "Wyższe NetRtg Germani Brescia w sezonie zasadniczym"
+        "Przewaga własnego parkietu w decydującym meczu.",
+        "Momentum po wygranej w Gara 4 na wyjeździe.",
+        "Wyższy wskaźnik NetRtg w sezonie zasadniczym."
       ],
-      "injury_notes": "Amedeo Della Valle (Germani Brescia) jest dostępny do gry w Gara 5, pomimo ograniczonego czasu na boisku w Gara 4. Brak istotnych kontuzji w Pallacanestro Trieste."
+      "injury_notes": "Virtus Olidata Bologna jest osłabiona brakiem Derricka Alstona Jr., którego sezon zakończyła złamana ręka, Alessandro Pajoli z powodu skręcenia kolana oraz Aliou Diarry z problemem mięśnia skośnego. Dolomiti Energia Trentino zgłasza, że rozgrywający DeVante Jones nie jest w pełni zdrowy, co jest istotne dla zespołu."
+    },
+    {
+      "matchup": "Bertram Derthona Tortona @ Umana Reyer Venezia",
+      "ai_pick": null,
+      "formula_pick": "Bertram Derthona Tortona",
+      "note": "AI fallback"
     }
   ]
 }
