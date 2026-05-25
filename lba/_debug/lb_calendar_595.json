@@ -27,7 +27,7 @@
   "matches": [
     {
       "id": 25342,
-      "game_status": "1",
+      "game_status": "2",
       "championship_id": 595,
       "championships_day_id": 4473,
       "year": 2025,
@@ -35,18 +35,18 @@
       "match_datetime": "2026-05-25T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 27,
-      "visitor_final_score": 19,
+      "home_final_score": 90,
+      "visitor_final_score": 75,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 61,
       "websocket_match_id": "1674758",
       "ticketing_url": null,
       "has_streaming": 0,
-      "match_serie": "2-2",
-      "match_hw": 2,
+      "match_serie": "3-2",
+      "match_hw": 3,
       "match_vw": 2,
-      "updated_at": "2026-05-25T20:25:23.663+02:00",
+      "updated_at": "2026-05-25T21:55:58.010+02:00",
       "h_team_id": 1713,
       "h_team_name": "Germani Brescia",
       "h_club_code": "BRE",
@@ -325,6 +325,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1779711716_mlCK:1779733332_cmCK:1779733523_cdCK:1779711716_vCK:1779650624",
+  "cache_key": "tCK:1779711716_mlCK:1779738804_cmCK:1779738964_cdCK:1779711716_vCK:1779737639",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }
