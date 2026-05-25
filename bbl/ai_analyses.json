@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-05-25T10:59:16.265694",
+  "date": "2026-05-25",
+  "league": "BBL",
+  "model": "gemini-2.5-flash",
+  "matches": [
+    {
+      "matchup": "BMA365 Bamberg Baskets @ ratiopharm ulm",
+      "phase": "Playoff Quarterfinals",
+      "ai_pick": "BMA365 Bamberg Baskets",
+      "formula_pick": "ratiopharm ulm",
+      "agreement": false,
+      "confidence": 10,
+      "reasoning": "BMA365 Bamberg Baskets wykazali dominację nad ratiopharm ulm w fazie Playoff Quarterfinals, zwyciężając serię 3-0. Ostatnie spotkanie miało miejsce 23 maja 2026 roku, gdzie Bamberg wygrał 96-87, kończąc sezon rywali. Baskets są w doskonałej formie, wygrywając wszystkie pięć ostatnich meczów w BBL, w tym wszystkie mecze H2H w tym sezonie.",
+      "key_factors": [
+        "Zwycięstwo 3-0 w serii playoff przeciwko ratiopharm ulm",
+        "Doskonała forma ostatnich 5 meczów BBL (5 zwycięstw)",
+        "Dominujący bilans Head-to-Head w sezonie 2025/2026"
+      ],
+      "injury_notes": "brak istotnych braków"
+    },
+    {
+      "matchup": "FC Bayern München Basketball @ VET-CONCEPT Gladiators Trier",
+      "phase": "Playoff Quarterfinals",
+      "ai_pick": "FC Bayern München Basketball",
+      "formula_pick": "VET-CONCEPT Gladiators Trier",
+      "agreement": false,
+      "confidence": 10,
+      "reasoning": "FC Bayern München Basketball już zakończył serię Playoff Quarterfinals przeciwko VET-CONCEPT Gladiators Trier, wygrywając 3-0. Decydujący mecz trzeci odbył się 23 maja 2026 roku, co oznacza, że spotkanie na dzień 25 maja 2026 nie dojdzie do skutku jako mecz ćwierćfinałowy. Bayern wykazał całkowitą dominację w tej serii, a także w poprzednich bezpośrednich starciach sezonu.",
+      "key_factors": [
+        "Całkowita dominacja FC Bayern München Basketball w serii (3-0)",
+        "Zdecydowanie lepsza forma FC Bayern München Basketball (5 zwycięstw w ostatnich 5 meczach BBL)",
+        "Poważne kontuzje kluczowych graczy w VET-CONCEPT Gladiators Trier"
+      ],
+      "injury_notes": "VET-CONCEPT Gladiators Trier zmaga się z licznymi kontuzjami kluczowych graczy: Hendrik Drescher (długoterminowa absencja po operacji kolana), Haris Hujic (w trakcie rehabilitacji), JJ Mann (rehabilitacja po zerwaniu ACL), a Amir Hinton jest spodziewany z powrotem do treningów za około trzy tygodnie. Dodatkowo, Steven Ashworth, gwiazda Trier, doznał poważnej kontuzji w poprzednim meczu z Bayernem. FC Bayern München Basketball nie zgłasza żadnych istotnych braków kadrowych na dzień 25 maja 2026."
+    }
+  ]
+}
