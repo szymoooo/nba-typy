@@ -1,19 +1,25 @@
---- AUDYT EUROLEAGUE LIVE (2026-05-25 21:58 CET) ---
-Oto analiza Twojego typu na podstawie danych z 2026-05-24:
+--- AUDYT EUROLEAGUE LIVE (2026-05-25 23:37 CET) ---
+# EuroLeague typy na 2026-05-24
 
-### Real Madrid @ Olympiacos Piraeus -> Typ: Olympiacos Piraeus
+Real Madrid @ Olympiacos Piraeus -> Typ: Olympiacos Piraeus
 
-*   **Kluczowe braki w składach (2026-05-24):**
-    *   **Real Madrid:**
-        *   Usman Garuba 🤕: Całkowite zerwanie ścięgna Achillesa w lewej nodze (kontuzja w półfinale 22 maja).
-        *   Walter Tavares (Edy Tavares) 🤕: Kontuzja więzadła pobocznego przyśrodkowego (MCL) w lewym kolanie (odpadł w play-offach).
-        *   Alex Len 🤕: Uraz rozcięgna podeszwowego w lewej stopie (kontuzja).
-    *   **Olympiacos Piraeus:**
-        *   Keenan Evans 🤕: Zerwanie ścięgna Achillesa w 10. kolejce (nie grał do końca sezonu).
-        *   Moustapha Fall ❓: Status "Game-time" przed finałem (nie był w kadrze meczowej w półfinale, ale wrócił do gry w 37. kolejce po długiej kontuzji).
-        *   Giannoulis Larentzakis ❓: Status "Game-time" przed finałem (nie był w kadrze meczowej w półfinale).
-        *   Monte Morris ❓: Status "Game-time" przed finałem (nie był w kadrze meczowej w półfinale, wcześniej zmagał się ze skurczami mięśni pleców).
-        *   Frank Ntilikina ❓: Status "Game-time" przed finałem (nie był w kadrze meczowej w półfinale).
+### Kluczowe braki w składach (2026-05-24):
 
-*   **Werdykt:** ✅ ZATWIERDZONY.
-    Real Madrid przystępował do finału z poważnymi osłabieniami w strefie podkoszowej (Garuba, Tavares, Len), co było kluczowe. Olympiacos również miał kontuzjowanego Evansa oraz kilku zawodników ze statusem "Game-time", ale ich skład był mniej zdziesiątkowany. Olympiacos zwyciężył w finale 92-85. Biorąc pod uwagę znaczące braki w składzie Realu Madryt, typ na Olympiacos był uzasadniony.
+*   🏀 **Real Madrid**
+    *   Walter Tavares (środkowy): Kontuzja więzadła pobocznego przyśrodkowego (MCL) w lewym kolanie – **OUT** 🚑
+    *   Alex Len (środkowy): Uraz rozcięgna podeszwowego w lewej stopie – **OUT** 🦶
+    *   Usman Garuba (silny skrzydłowy): Całkowite zerwanie ścięgna Achillesa w lewej nodze (kontuzja odniesiona w półfinale) – **OUT** 🩹
+    *   Real Madryt miał poważne problemy z obsadą pozycji podkoszowych w finale.
+
+*   🏀 **Olympiacos Piraeus**
+    *   Moustapha Fall (środkowy): Status "Game-time", nie był w 12-osobowym składzie na mecz półfinałowy.
+    *   Giannoulis Larentzakis (rzucający obrońca): Status "Game-time", nie był w 12-osobowym składzie na mecz półfinałowy.
+    *   Monte Morris (rozgrywający): Status "Game-time", nie był w 12-osobowym składzie na mecz półfinałowy.
+    *   Frank Ntilikina (rozgrywający): Status "Game-time", nie był w 12-osobowym składzie na mecz półfinałowy.
+    *   Sasha Vezenkov (silny skrzydłowy): Na dzień 16 maja 2026 roku został dopuszczony do treningów zespołowych po "niewielkim dyskomforcie w łydce" i prawdopodobnie grał, ponieważ był wymieniany w raportach meczowych.
+
+### Werdykt:
+
+*   **Olympiacos Piraeus**: [✅ ZATWIERDZONY]
+
+**Uzasadnienie**: Real Madryt przystąpił do finału EuroLeague ze znacznymi brakami na kluczowych pozycjach podkoszowych, tracąc Waltera Tavaresa, Alexa Lena i Usmana Garubę. Te braki poważnie osłabiły ich możliwości w zbiórkach, ochronie obręczy i obronie. Choć Olympiacos miał kilku graczy z niepewnym statusem ("Game-time"), ich ostateczne zwycięstwo 92-85 w finale EuroLeague wskazuje, że ich skład był wystarczająco mocny, aby wykorzystać osłabienia przeciwnika. Typ na Olympiacos Piraeus był trafny, biorąc pod uwagę stan obu drużyn.
