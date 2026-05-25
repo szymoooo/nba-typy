@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-05-24T15:58:44.897643",
-  "date": "2026-05-24",
+  "generated_at": "2026-05-25T11:42:52.820080",
+  "date": "2026-05-25",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Recoletas Salud San Pablo Burgos @ Joventut Badalona",
-      "ai_pick": null,
+      "matchup": "Unicaja @ Joventut Badalona",
+      "phase": "Regular Season",
+      "date": "2026-05-25T20:10:00+02:00",
+      "ai_pick": "Joventut Badalona",
       "formula_pick": "Joventut Badalona",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Joventut Badalona ma znaczącą przewagę, ponieważ mecz jest wznowieniem, a gospodarze prowadzą 53-33 do przerwy. Dodatkowo, Unicaja zmaga się z poważnymi kontuzjami, mając tylko 10 dostępnych graczy na to spotkanie, podczas gdy Joventut wykazuje znacznie lepszą formę w ostatnich pięciu meczach ligowych.",
+      "key_factors": [
+        "Joventut Badalona prowadzi 53-33 na półmetku wznowionego meczu.",
+        "Unicaja ma znaczące braki kadrowe (Tyson Pérez, Emir Sulejmanovic kontuzjowani, 10 dostępnych graczy).",
+        "Joventut Badalona ma lepszą formę w ostatnich 5 meczach ACB (4 wygrane, 1 porażka).",
+        "Przewaga własnego boiska dla Joventut Badalona."
+      ],
+      "injury_notes": "Unicaja jest osłabiona brakiem Tyson Péreza (kontuzja łydki) i Emira Sulejmanovica (tendinopatia Achillesa) na to wznowione spotkanie, a Chris Duarte zgłasza dolegliwości, co ogranicza ich skład do 10 graczy. Joventut Badalona nie zagra do końca sezonu bez Ante Tomica."
     }
   ]
 }

@@ -1,14 +1,14 @@
 [
   {
     "homeTeam": {
-      "name": "ratiopharm ulm",
+      "name": "Brose Bamberg",
       "id": null
     },
     "awayTeam": {
-      "name": "BMA365 Bamberg Baskets",
+      "name": "Ratiopharm Ulm",
       "id": null
     },
-    "startTimestamp": 1779718500,
+    "startTimestamp": 1779712200,
     "status": {
       "type": "notstarted"
     },
@@ -25,14 +25,62 @@
   },
   {
     "homeTeam": {
-      "name": "VET-CONCEPT Gladiators Trier",
+      "name": "Bayern Munich",
       "id": null
     },
     "awayTeam": {
-      "name": "FC Bayern München Basketball",
+      "name": "TBB Trier",
       "id": null
     },
-    "startTimestamp": 1779725700,
+    "startTimestamp": 1779719400,
+    "status": {
+      "type": "notstarted"
+    },
+    "homeScore": {
+      "current": 0
+    },
+    "awayScore": {
+      "current": 0
+    },
+    "roundInfo": {
+      "name": "Playoff Quarterfinals"
+    },
+    "_source": "gemini_search"
+  },
+  {
+    "homeTeam": {
+      "name": "Telekom Baskets Bonn",
+      "id": null
+    },
+    "awayTeam": {
+      "name": "Fitness First Würzburg Baskets",
+      "id": null
+    },
+    "startTimestamp": 1779726600,
+    "status": {
+      "type": "notstarted"
+    },
+    "homeScore": {
+      "current": 0
+    },
+    "awayScore": {
+      "current": 0
+    },
+    "roundInfo": {
+      "name": "Playoff Quarterfinals"
+    },
+    "_source": "gemini_search"
+  },
+  {
+    "homeTeam": {
+      "name": "ALBA BERLIN",
+      "id": null
+    },
+    "awayTeam": {
+      "name": "RASTA Vechta",
+      "id": null
+    },
+    "startTimestamp": 1779726600,
     "status": {
       "type": "notstarted"
     },

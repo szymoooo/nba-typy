@@ -1,20 +1,11 @@
---- AUDYT EUROLEAGUE LIVE (2026-05-25 12:57 CET) ---
-Na podstawie danych z 2026-05-25, oto analiza Twojego typu na mecz EuroLeague, który odbył się 2026-05-24:
+--- AUDYT EUROLEAGUE LIVE (2026-05-25 13:41 CET) ---
+# EuroLeague typy na 2026-05-24
 
-**Real Madrid @ Olympiacos Piraeus** -> Typ: Olympiacos Piraeus
+### Real Madrid @ Olympiacos Piraeus -> Typ: Olympiacos Piraeus
 
-Mecz ten był Finałem Euroligi 2025-26, rozegranym w Atenach 24 maja 2026 roku, w którym Olympiacos Piraeus zwyciężył Real Madryt 92-85.
-
-*   **Kluczowe braki w składach (2026-05-24):**
-    *   **Real Madrid:**
-        *   Usman Garuba (kontuzja - Achilles) 🚑. Doznał kontuzji w półfinale przeciwko Valencii Basket i oczekiwano, że opuści finał.
-        *   Alex Len (kontuzja - rozcięgno podeszwowe lewej stopy) 🚑.
-        *   Walter Tavares (kontuzja - więzadło poboczne piszczelowe (MCL) w lewym kolanie) 🚑.
-    *   **Olympiacos Piraeus:**
-        *   Moustapha Fall (brak w kadrze/niedyspozycja) 🚫. Nie znalazł się w 12-osobowym składzie na mecz półfinałowy przeciwko Fenerbahce, co wskazuje na brak dostępności również na finał.
-        *   Giannoulis Larentzakis (brak w kadrze/niedyspozycja) 🚫. Podobnie jak Fall, nie znalazł się w składzie na półfinał.
-        *   Monte Morris (brak w kadrze/niedyspozycja) 🚫. Podobnie jak Fall, nie znalazł się w składzie na półfinał.
-        *   Frank Ntilikina (brak w kadrze/niedyspozycja) 🚫. Podobnie jak Fall, nie znalazł się w składzie na półfinał.
+*   **Kluczowe braki w składach:**
+    *   **Real Madrid:** Walter Tavares (kontuzja), Alex Len (kontuzja), Usman Garuba (kontuzja).
+    *   **Olympiacos Piraeus:** Brak aktualnych raportów o brakach w składzie, które znacząco wpłynęłyby na wynik finału. Niektóre doniesienia sprzed meczu (np. z marca 2026) wspominały o długoterminowych kontuzjach (Keenan Evans, Moustapha Fall), a także Thomas Walkup i Giannoulis Larentzakis byli wykluczeni z wcześniejszych meczów w marcu. Jednakże, raporty z samego finału nie podkreślały ich nieobecności jako kluczowego czynnika, a wręcz sugerowały, że Olympiacos miał "więcej zasobów".
 
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    Real Madryt przystąpił do finału osłabiony znaczącymi kontuzjami kluczowych graczy, w tym Usmana Garuby, Alexa Lena i Waltera Tavaresa, co było istotnym czynnikiem. Mimo że Olympiacos również miał kilku graczy, którzy nie znaleźli się w składzie na półfinał, absencje Realu Madryt, szczególnie w strefie podkoszowej, były kluczowe. Biorąc pod uwagę te braki w składzie Realu Madryt, typ na Olympiacos Piraeus był uzasadniony.
+    *   Olympiacos Piraeus wygrał finał EuroLeague 92-85. Pomimo znaczących osłabień Realu Madryt w strefie podkoszowej, typ na Olympiacos Piraeus okazał się trafny.

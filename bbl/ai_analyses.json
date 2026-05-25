@@ -1,38 +1,70 @@
 {
-  "generated_at": "2026-05-25T10:59:16.265694",
+  "generated_at": "2026-05-25T11:44:39.969860",
   "date": "2026-05-25",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "BMA365 Bamberg Baskets @ ratiopharm ulm",
+      "matchup": "Ratiopharm Ulm @ Brose Bamberg",
       "phase": "Playoff Quarterfinals",
-      "ai_pick": "BMA365 Bamberg Baskets",
-      "formula_pick": "ratiopharm ulm",
-      "agreement": false,
-      "confidence": 10,
-      "reasoning": "BMA365 Bamberg Baskets wykazali dominację nad ratiopharm ulm w fazie Playoff Quarterfinals, zwyciężając serię 3-0. Ostatnie spotkanie miało miejsce 23 maja 2026 roku, gdzie Bamberg wygrał 96-87, kończąc sezon rywali. Baskets są w doskonałej formie, wygrywając wszystkie pięć ostatnich meczów w BBL, w tym wszystkie mecze H2H w tym sezonie.",
+      "ai_pick": "Brose Bamberg",
+      "formula_pick": "Brose Bamberg",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Brose Bamberg dominuje w obecnej serii play-off, prowadząc 3-0 po wygranych we wszystkich dotychczasowych spotkaniach, w tym na wyjeździe. Drużyna Brose Bamberg prezentuje doskonałą formę, wygrywając ostatnich pięć meczów w BBL, podczas gdy Ratiopharm Ulm przegrało trzy ostatnie spotkania w play-offach.",
       "key_factors": [
-        "Zwycięstwo 3-0 w serii playoff przeciwko ratiopharm ulm",
-        "Doskonała forma ostatnich 5 meczów BBL (5 zwycięstw)",
-        "Dominujący bilans Head-to-Head w sezonie 2025/2026"
+        "Prowadzenie Brose Bamberg w serii play-off 3-0",
+        "Doskonała forma Brose Bamberg (5 kolejnych zwycięstw w BBL)",
+        "Słaba forma Ratiopharm Ulm (4 porażki w ostatnich 5 meczach BBL, w tym wszystkie 3 mecze play-off)",
+        "Wyższa pozycja Brose Bamberg w tabeli sezonu zasadniczego (3. miejsce vs 6. miejsce)"
+      ],
+      "injury_notes": "Brak istotnych braków"
+    },
+    {
+      "matchup": "TBB Trier @ Bayern Munich",
+      "phase": "Playoff Quarterfinals",
+      "ai_pick": "Bayern Munich",
+      "formula_pick": "Bayern Munich",
+      "agreement": true,
+      "confidence": 10,
+      "reasoning": "Bayern Munich już pokonał TBB Trier (obecnie VET-CONCEPT Gladiators Trier) 3-0 w ćwierćfinałach play-off BBL sezonu 2025/26, zamykając serię meczem 23 maja 2026 roku. Dlatego mecz zaplanowany na 25 maja 2026 roku nie miałby miejsca. Gdyby jednak musiał zostać rozegrany, Bayern Monachium byłby zdecydowanym faworytem, biorąc pod uwagę ich dominującą formę i rekord bezpośrednich spotkań w tym sezonie.",
+      "key_factors": [
+        "Bayern Munich wygrał wszystkie 5 dotychczasowych spotkań H2H w sezonie 2025/26 BBL przeciwko TBB Trier, w tym 3-0 w zakończonej już serii play-off.",
+        "TBB Trier (Gladiators Trier) został awansowany do BBL na sezon 2025/26, ale nie dorównuje doświadczonemu i silnemu składowi Bayernu Monachium.",
+        "Forma ostatnich meczów Bayernu jest bardzo wysoka, co potwierdza ich zwycięstwa w każdym meczu serii play-off."
+      ],
+      "injury_notes": "Brak istotnych, aktualnych kontuzji zgłoszonych dla obu drużyn na dzień 25 maja 2026 roku, które wpłynęłyby na wynik hipotetycznego meczu. Wcześniejsze raporty o kontuzjach Bayernu z jesieni/zimy 2025 roku są prawdopodobnie nieaktualne w kontekście finałowych faz play-off."
+    },
+    {
+      "matchup": "Fitness First Würzburg Baskets @ Telekom Baskets Bonn",
+      "phase": "Playoff Quarterfinals",
+      "ai_pick": "Telekom Baskets Bonn",
+      "formula_pick": "Telekom Baskets Bonn",
+      "agreement": true,
+      "confidence": 6,
+      "reasoning": "Seria playoff pomiędzy Telekom Baskets Bonn a Fitness First Würzburg Baskets jest niezwykle wyrównana i przed tym decydującym piątym meczem wynik wynosi 2-2. Telekom Baskets Bonn, jako gospodarz, ma przewagę własnego parkietu w tym kluczowym starciu, a dodatkowo zakończyli sezon regularny na wyższej pozycji w tabeli (4. miejsce w porównaniu do 5. miejsca Würzburga).",
+      "key_factors": [
+        "Przewaga własnego parkietu Telekom Baskets Bonn w decydującym meczu numer 5.",
+        "Wyższa pozycja Telekom Baskets Bonn w tabeli sezonu regularnego 2025/26.",
+        "Bardzo wyrównany bilans w serii playoff (2-2)."
       ],
       "injury_notes": "brak istotnych braków"
     },
     {
-      "matchup": "FC Bayern München Basketball @ VET-CONCEPT Gladiators Trier",
+      "matchup": "RASTA Vechta @ ALBA BERLIN",
       "phase": "Playoff Quarterfinals",
-      "ai_pick": "FC Bayern München Basketball",
-      "formula_pick": "VET-CONCEPT Gladiators Trier",
-      "agreement": false,
-      "confidence": 10,
-      "reasoning": "FC Bayern München Basketball już zakończył serię Playoff Quarterfinals przeciwko VET-CONCEPT Gladiators Trier, wygrywając 3-0. Decydujący mecz trzeci odbył się 23 maja 2026 roku, co oznacza, że spotkanie na dzień 25 maja 2026 nie dojdzie do skutku jako mecz ćwierćfinałowy. Bayern wykazał całkowitą dominację w tej serii, a także w poprzednich bezpośrednich starciach sezonu.",
+      "ai_pick": "ALBA BERLIN",
+      "formula_pick": "ALBA BERLIN",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "ALBA BERLIN, jako wyżej rozstawiona drużyna (2. miejsce w sezonie zasadniczym), będzie miała przewagę własnego parkietu w decydującym, piątym meczu serii. Pokazali odporność, wygrywając czwarty mecz na wyjeździe i wyrównując serię na 2-2. Historycznie ALBA ma bardzo silny bilans bezpośrednich spotkań z RASTA Vechta.",
       "key_factors": [
-        "Całkowita dominacja FC Bayern München Basketball w serii (3-0)",
-        "Zdecydowanie lepsza forma FC Bayern München Basketball (5 zwycięstw w ostatnich 5 meczach BBL)",
-        "Poważne kontuzje kluczowych graczy w VET-CONCEPT Gladiators Trier"
+        "Przewaga własnego parkietu dla ALBA BERLIN w meczu numer 5",
+        "Wyższa pozycja ALBA BERLIN w sezonie zasadniczym (2. miejsce)",
+        "Momentum ALBA BERLIN po wygraniu czwartego meczu na wyjeździe",
+        "Doświadczenie ALBA BERLIN w decydujących meczach playoff"
       ],
-      "injury_notes": "VET-CONCEPT Gladiators Trier zmaga się z licznymi kontuzjami kluczowych graczy: Hendrik Drescher (długoterminowa absencja po operacji kolana), Haris Hujic (w trakcie rehabilitacji), JJ Mann (rehabilitacja po zerwaniu ACL), a Amir Hinton jest spodziewany z powrotem do treningów za około trzy tygodnie. Dodatkowo, Steven Ashworth, gwiazda Trier, doznał poważnej kontuzji w poprzednim meczu z Bayernem. FC Bayern München Basketball nie zgłasza żadnych istotnych braków kadrowych na dzień 25 maja 2026."
+      "injury_notes": "Kapitan RASTA Vechta, Joschka Ferner, miał kontuzję stawu skokowego od 2 kwietnia 2026 r., z prognozowanym okresem rekonwalescencji około sześciu tygodni, co oznacza, że jego status na mecz numer 5 jest niejasny. Brak innych istotnych braków w obu drużynach na dzień 25.05.2026."
     }
   ]
 }
