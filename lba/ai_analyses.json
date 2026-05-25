@@ -1,40 +1,20 @@
 {
-  "generated_at": "2026-05-25T23:39:21.732448",
+  "generated_at": "2026-05-25T23:46:47.294590",
   "date": "2026-05-26",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Dolomiti Energia Trentino @ Virtus Olidata Bologna",
-      "day": "Quarti di Finale - Gara  5",
-      "date": "2026-05-26T20:00:00.000+02:00",
-      "ai_pick": "Virtus Olidata Bologna",
+      "ai_pick": null,
       "formula_pick": "Virtus Olidata Bologna",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Virtus Olidata Bologna ma przewagę własnego parkietu w decydującym meczu numer 5, co jest kluczowym czynnikiem w playoffach LBA. Dodatkowo, Virtus wchodzi w to spotkanie z dużym impetem po przekonującym zwycięstwie na wyjeździe w Gara 4, pokazując poprawę w postawie i intensywności. Mimo kilku kontuzji, kluczowi gracze wracają do gry lub grają przez ból, a ich statystyki sezonowe wskazują na silniejszą drużynę.",
-      "key_factors": [
-        "Przewaga własnego parkietu Virtus Olidata Bologna w decydującym meczu.",
-        "Silny impet i poprawiona postawa Virtus po zwycięstwie w Gara 4 na wyjeździe.",
-        "Wyższe wskaźniki efektywności (NetRtg) Virtus w sezonie zasadniczym."
-      ],
-      "injury_notes": "Virtus Olidata Bologna: Derrick Alston Jr. przeszedł operację dłoni i nie zagra do końca sezonu. Alessandro Pajola jest kontuzjowany od lutego i nie wiadomo, kiedy wróci. Aliou Diarra i Luca Vildoza, mimo wcześniejszych problemów zdrowotnych, zagrali w Gara 4. Dolomiti Energia Trentino: DeVante Jones nie jest w pełni zdrowy, ale grał w Gara 4."
+      "note": "AI fallback"
     },
     {
       "matchup": "Bertram Derthona Tortona @ Umana Reyer Venezia",
-      "day": "Quarti di Finale - Gara  5",
-      "date": "2026-05-26T20:00:00.000+02:00",
-      "ai_pick": "Umana Reyer Venezia",
+      "ai_pick": null,
       "formula_pick": "Bertram Derthona Tortona",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Umana Reyer Venezia ma silną przewagę własnego parkietu, co potwierdziła wygrywając oba dotychczasowe mecze u siebie w tej serii playoff. Pomimo silnego impetu Bertram Derthona Tortona po dwóch kolejnych zwycięstwach, były one odniesione na ich własnym boisku, a Gara 5 jest meczem decydującym, gdzie przewaga własnego parkietu w LBA jest kluczowa.",
-      "key_factors": [
-        "Przewaga własnego parkietu Umana Reyer Venezia (2-0 u siebie w serii).",
-        "Mecz decydujący (Gara 5) o awansie do półfinału.",
-        "Zdolność Bertram Derthona Tortona do odrabiania strat i wygrania dwóch ostatnich meczów (chociaż u siebie), co świadczy o ich waleczności i dobrej formie zespołowej."
-      ],
-      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 26.05.2026."
+      "note": "AI fallback"
     }
   ]
 }
