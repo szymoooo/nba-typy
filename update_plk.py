@@ -36,8 +36,7 @@ OUTPUT_DIR = "plk"
 DEBUG_DIR = "plk/_debug"
 
 # AI
-# PLK_LIVE_MODE=true -> pomija Gemini (tylko scores/HTML refresh, tani run)
-USE_AI_PREDICTIONS = os.environ.get("PLK_LIVE_MODE", "").lower() not in ("true", "1", "yes")
+USE_AI_PREDICTIONS = True
 AI_MODEL = "gemini-2.5-flash"
 
 # Brand
@@ -441,35 +440,25 @@ def _is_game_started(game):
 
 
 def predict_winner(home, away, table_by_id, all_games, game, today_slug, state="pre"):
-    """Wybiera zwyciezce. AI tylko dla pre-game.
-    Zwraca dict: {winner, reasoning, key_factors, confidence, injury_notes}"""
+    """Wybiera zwyciezce. AI tylko dla pre-game."""
     h_name = home.get("name") or "Home"
     a_name = away.get("name") or "Away"
 
     formula_pick = predict_winner_formula(home, away, table_by_id)
 
-    def _make_result(winner, reasoning="", key_factors=None, confidence=None, injury_notes=""):
-        return {
-            "winner": winner,
-            "reasoning": reasoning,
-            "key_factors": key_factors or [],
-            "confidence": confidence,
-            "injury_notes": injury_notes,
-        }
-
     if state == "post":
-        return _make_result(formula_pick)
+        return formula_pick
 
     if _is_game_started(game):
         print(f"   [TIME-skip] {a_name} vs {h_name} -> mecz w trakcie, formula")
-        return _make_result(formula_pick)
+        return formula_pick
 
     if USE_AI_PREDICTIONS:
         ai_result = predict_winner_ai(home, away, today_slug, table_by_id, all_games)
         if ai_result:
             print(f"   [AI] {a_name} vs {h_name} -> {ai_result['winner']} "
                   f"(conf {ai_result['confidence']}/10)")
-            entry = {
+            _ai_log.append({
                 "matchup": f"{a_name} @ {h_name}",
                 "phase": home.get("__stage_name"),
                 "round": home.get("__round_name"),
@@ -482,16 +471,9 @@ def predict_winner(home, away, table_by_id, all_games, game, today_slug, state="
                 "key_factors": ai_result["key_factors"],
                 "injury_notes": ai_result.get("injury_notes", ""),
                 "agreement_with_odds": ai_result.get("agreement_with_odds"),
-            }
-            _ai_log.append(entry)
+            })
             time.sleep(1)
-            return _make_result(
-                ai_result["winner"],
-                ai_result["reasoning"],
-                ai_result["key_factors"],
-                ai_result["confidence"],
-                ai_result.get("injury_notes", ""),
-            )
+            return ai_result["winner"]
         print(f"   [FORMULA-fallback] {a_name} vs {h_name} -> {formula_pick}")
         _ai_log.append({
             "matchup": f"{a_name} @ {h_name}",
@@ -499,8 +481,8 @@ def predict_winner(home, away, table_by_id, all_games, game, today_slug, state="
             "formula_pick": formula_pick,
             "note": "AI nie zwrocilo wyniku, uzyto formuly W-L",
         })
-        return _make_result(formula_pick)
-    return _make_result(formula_pick)
+        return formula_pick
+    return formula_pick
 
 
 def _print_ai_summary(league_label):
@@ -657,12 +639,7 @@ def build_game_cards(today_games, table_by_id, all_games, today_slug):
             a_score = int(away.get("score") or 0)
 
             state = pb.game_status(g)
-            pred = predict_winner(home, away, table_by_id, all_games, g, today_slug, state)
-            predicted_winner = pred["winner"]
-            ai_reasoning = pred.get("reasoning", "")
-            ai_factors = pred.get("key_factors") or []
-            ai_confidence = pred.get("confidence")
-            ai_injury = pred.get("injury_notes", "")
+            predicted_winner = predict_winner(home, away, table_by_id, all_games, g, today_slug, state)
 
             if state == "pre":
                 tip = pb.fmt_game_time(g)
@@ -703,31 +680,6 @@ def build_game_cards(today_games, table_by_id, all_games, today_slug):
 
             status_class = "status live" if state == "in" else "status"
 
-            # Build AI reasoning block (only for pre-game with actual reasoning)
-            reasoning_html = ""
-            if state == "pre" and ai_reasoning:
-                conf_badge = (f'<span style="background:#1e3a5f;color:#60a5fa;font-size:.7rem;'
-                              f'font-weight:900;padding:3px 8px;border-radius:20px;margin-left:8px;">'
-                              f'Pewność: {ai_confidence}/10</span>') if ai_confidence else ""
-                factors_html = ""
-                if ai_factors:
-                    li_items = "".join(f'<li style="margin-bottom:4px;">{f}</li>' for f in ai_factors)
-                    factors_html = (f'<ul style="margin:10px 0 0 0;padding-left:18px;'
-                                    f'color:#94a3b8;font-size:.78rem;line-height:1.5;">{li_items}</ul>')
-                injury_html = ""
-                if ai_injury:
-                    injury_html = (f'<div style="margin-top:8px;padding:8px 10px;'
-                                   f'background:rgba(239,68,68,.08);border-radius:8px;'
-                                   f'color:#fca5a5;font-size:.75rem;">🩹 {ai_injury}</div>')
-                reasoning_html = f"""
-                <div style="background:rgba(15,23,42,.8);border-top:1px solid #334155;padding:16px 20px;">
-                    <div style="font-size:.65rem;color:#64748b;text-transform:uppercase;font-weight:700;
-                                letter-spacing:1px;margin-bottom:8px;">🤖 AI Reasoning{conf_badge}</div>
-                    <div style="color:#cbd5e1;font-size:.82rem;line-height:1.6;">{ai_reasoning}</div>
-                    {factors_html}
-                    {injury_html}
-                </div>"""
-
             cards_html += f"""
             <div class="card">
                 <div class="card-header">
@@ -748,7 +700,6 @@ def build_game_cards(today_games, table_by_id, all_games, today_slug):
                     <div class="pred-label">Public AI Model Picks</div>
                     <div class="pred-val">{predicted_winner}{outcome_icon}</div>
                 </div>
-                {reasoning_html}
             </div>
             """
         except Exception as e:
@@ -786,10 +737,6 @@ def build_page(title_date, cards_html, summaries):
 <body>
     <div class="container">
         <header>
-            <img src="https://pulsbasketu.com/images/league-logos/plk-logo.png"
-                 alt="PLK logo"
-                 onerror="this.style.display='none'"
-                 style="height:70px;object-fit:contain;margin-bottom:12px;display:block;margin-left:auto;margin-right:auto;">
             <h1>{BRAND_TITLE}</h1>
             <div class="subtitle">{TOURNAMENT_NAME_PL} &middot; Live Scores &amp; Public AI Model Picks &mdash; {title_date}</div>
         </header>
