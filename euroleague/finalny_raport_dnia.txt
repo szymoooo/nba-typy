@@ -1,19 +1,17 @@
---- AUDYT EUROLEAGUE LIVE (2026-05-25 20:08 CET) ---
-Na podstawie danych z 2026-05-25, oto analiza Twojego typu:
-
-# EuroLeague typy na 2026-05-24
+--- AUDYT EUROLEAGUE LIVE (2026-05-25 20:25 CET) ---
+Na podstawie danych z 2026-05-25, oto analiza Twojego typu EuroLeague z 2026-05-24:
 
 **Real Madrid @ Olympiacos Piraeus**
+_Mecz odbył się 24 maja 2026 roku. Olympiacos Piraeus wygrał 92-85._
 
-*   **Kluczowe braki w składach:**
+*   **Kluczowe braki w składach (2026-05-24):**
     *   **Real Madrid:**
-        *   **Walter Tavares** (Środkowy) ❌: Kontuzja więzadeł kolana, wykluczony z Final Four.
-        *   **Alex Len** (Środkowy) ❌: Kontuzja lewej nogi, wątpliwy i ostatecznie niedostępny na Final Four.
-        *   **Usman Garuba** (Środkowy/Silny Skrzydłowy) ❌: Całkowite zerwanie ścięgna Achillesa lewej nogi w półfinale (22 maja), wykluczony z finału.
-        *   Real Madrid przystąpił do finału osłabiony licznymi kontuzjami, zwłaszcza w rotacji podkoszowej.
+        *   Walter Tavares (kontuzja więzadła pobocznego przyśrodkowego w lewym kolanie) 🩹
+        *   Alex Len (kontuzja rozcięgna podeszwowego lewej stopy) 🩹
+        *   Usman Garuba (całkowite zerwanie lewego ścięgna Achillesa, odniesione w półfinale, wykluczony z finału) 🩹
+        _Real Madrid przystąpił do finału ze znaczącymi osłabieniami na pozycjach centrów._
     *   **Olympiacos Piraeus:**
-        *   Brak aktualnych raportów o brakach w składzie na mecz finałowy 24 maja 2026.
+        *   Chociaż raporty wskazywały na status "Game-time" dla niektórych zawodników (Moustapha Fall, Giannoulis Larentzakis, Monte Morris, Frank Ntilikina), inne źródła potwierdziły, że Olympiacos dysponował głębszym składem i wszyscy jego 12 zawodników zdobyli punkty w meczu. Oznacza to, że drużyna przystąpiła do finału w praktycznie pełnym składzie lub bez kluczowych, potwierdzonych absencji.
 
-*   **Werdykt:** ✅ ZATWIERDZONY
-    *   Olympiacos Piraeus zwyciężył w tym meczu 92-85, zdobywając tytuł EuroLeague.
-    *   Typ jest zatwierdzony, biorąc pod uwagę poważne osłabienia kadrowe Realu Madryt, szczególnie na pozycjach podkoszowych, w przeciwieństwie do pełnego składu Olympiacosu.
+*   **Werdykt:** [✅ ZATWIERDZONY] (retrospektywnie)
+    *   Biorąc pod uwagę znaczące braki w składzie Realu Madryt, zwłaszcza pod koszem, oraz pełniejszy skład Olympiacosu, Twój typ na zwycięstwo Olympiacos Piraeus był uzasadniony w kontekście dostępnych informacji przed meczem. Wynik meczu potwierdził tę analizę.
