@@ -1,21 +1,14 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-25 19:37 ET) ---
-Na podstawie danych ze stycznia 2026, oto analiza Twojego typu:
+--- KRYTYCZNY AUDYT LIVE (2026-05-25 21:50 ET) ---
+Analiza zakładu NBA na dzień 2026-05-25 (dotycząca kontekstu stycznia 2026):
 
-**Knicks @ Cavaliers -> Typ: Cavaliers**
+**Knicks @ Cavaliers**
+*   **Typ:** Cavaliers
 
-*   **Kluczowe braki w składach (styczeń 2026):**
-    *   **New York Knicks:**
-        *   Jalen Brunson: Uraz prawego stawu skokowego (Day-to-day/Questionable/Out w zależności od daty w styczniu) 🤕.
-        *   Josh Hart: Dyskomfort/uraz prawego stawu skokowego (Day-to-day/Out w zależności od daty w styczniu) 🩹.
-        *   Mitchell Robinson: Uraz stawu skokowego (Probable/Out w zależności od daty w styczniu) 🦵.
-        *   Karl-Anthony Towns: Pytajnik (skurcze pleców 24 stycznia), możliwe, że wrócił po chorobie 3 stycznia 🩺.
-        *   Landry Shamet: Kontuzja barku (Out/Questionable w zależności od daty w styczniu) 🚨.
-    *   **Cleveland Cavaliers:**
-        *   Darius Garland: Naciągnięcie prawego palucha (Out – przewidywano, że będzie poza grą do końca stycznia) 🦶.
-        *   Max Strus: Operacja lewej stopy (Out – przewidywano, że będzie poza grą do połowy lutego) 👣.
-        *   Sam Merrill: Zwichnięcie prawej ręki (Out/Questionable w zależności od daty w styczniu) 🖐️.
-        *   Dean Wade: Out 🤕.
-        *   De'Andre Hunter: Pytajnik (ból kolana) 🦵.
+*   **Kluczowe braki w składach:**
+    *   **Cleveland Cavaliers:** Dennis Schroder (Questionable - choroba) 🤒.
+    *   **New York Knicks:** Brak zgłoszonych kontuzji.
+
+    *Uwaga: Raporty o kontuzjach pochodzą z 25 maja 2026 roku. Zgodnie z zasadami, ignorowane są dane z lat 2024, 2025, a analizowany kontekst to styczeń 2026. Ze względu na sprzeczne zasady dotyczące dat, kontuzje są oparte na najnowszych dostępnych danych (2026-05-25), a nie na konkretnych raportach ze stycznia 2026.*
 
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Obie drużyny borykały się ze znacznymi brakami kadrowymi w styczniu 2026 roku. Cavaliers mieli kluczowe długoterminowe kontuzje Dariusa Garlanda (rozgrywający) i Maxa Strusa (rzucający obrońca), którzy byli wykluczeni z gry przez znaczną część miesiąca lub dłużej. Knicks, choć również osłabieni brakiem Jalena Brunsona i Josha Harta, ich statusy były częściej określane jako "day-to-day" lub "questionable", co sugeruje potencjalnie krótsze lub mniej pewne absencje niż w przypadku graczy Cavaliers. Biorąc pod uwagę poważne i bardziej definitywne absencje kluczowych graczy Cavaliers w styczniu 2026, typ na Cavaliers jest ryzykowny.
+    *   Chociaż składy obu drużyn w styczniu 2026 roku (z Donovanem Mitchellem, Evanem Mobleyem i Jarrettem Allenem dla Cavaliers oraz Jalenem Brunsonem, Mikalem Bridgesem i OG Anunobym dla Knicks) wskazywały na silne zespoły, obecność Dennisa Schrodera na liście kontuzjowanych (status 'Questionable') dla Cavaliers na dzień 25 maja 2026 roku wprowadza element niepewności. Brak możliwości uwzględnienia specyficznych kontuzji i formy drużyn ze stycznia 2026, zgodnie z narzuconymi regułami, sprawia, że ocena typu jest obarczona ryzykiem.
