@@ -1,235 +1,72 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basketball Free Picks - NBA, EuroLeague &amp; PLK AI Predictions</title>
-    <meta name="description" content="Free daily basketball AI predictions. NBA, EuroLeague, PLK, LBA, ACB and BBL picks powered by AI with live scores. Choose a league.">
-    <meta name="keywords" content="NBA picks, EuroLeague picks, PLK picks, ACB picks, BBL picks, LBA picks, basketball predictions, free AI picks">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://nba-freepicks.com/">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Basketball Free Picks - NBA, EuroLeague &amp; PLK AI Predictions">
-    <meta property="og:description" content="Free daily basketball AI predictions for NBA, EuroLeague, PLK, LBA, ACB and BBL.">
-    <meta property="og:url" content="https://nba-freepicks.com/">
-    <meta name="twitter:card" content="summary_large_image">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZV0JG9D4QK"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-ZV0JG9D4QK');
-    </script>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#x1F3C0;</text></svg>">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
-    <style>
-        :root {
-            --bg: #0f172a;
-            --card-bg: #1e293b;
-            --text: #f8fafc;
-            --subtext: #94a3b8;
-            --border: #334155;
-            --nba: #3b82f6;
-            --euroleague: #ff6600;
-            --plk: #dc2626;
-            --lba: #006db7;
-            --acb: #c8102e;
-            --bbl: #e30613;
-        }
-        * { box-sizing: border-box; }
-        body {
-            background: radial-gradient(ellipse at top, #1e293b 0%, #0f172a 60%);
-            color: var(--text);
-            font-family: 'Montserrat', sans-serif;
-            margin: 0;
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            padding: 40px 20px;
-        }
-        .hub-container { max-width: 1400px; margin: 0 auto; width: 100%; }
-        .hub-header { text-align: center; margin-bottom: 60px; }
-        .hub-title {
-            font-weight: 900;
-            letter-spacing: -2px;
-            margin: 0 0 12px;
-            font-size: 3.5rem;
-            background: linear-gradient(120deg, var(--nba) 0%, var(--euroleague) 50%, var(--plk) 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-        .hub-tagline {
-            color: var(--subtext);
-            font-size: 1.05rem;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-            font-weight: 600;
-        }
-        .hub-tagline .basketball { font-size: 1.4rem; vertical-align: middle; margin: 0 8px; }
-        .league-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 24px;
-        }
-        .league-card {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            text-decoration: none;
-            background: var(--card-bg);
-            border: 2px solid var(--border);
-            border-radius: 24px;
-            padding: 40px 24px;
-            min-height: 320px;
-            color: var(--text);
-            transition: transform 0.25s, border-color 0.25s, box-shadow 0.25s;
-            position: relative;
-            overflow: hidden;
-        }
-        .league-card::before {
-            content: '';
-            position: absolute;
-            inset: 0;
-            background: linear-gradient(180deg, transparent 0%, rgba(255,255,255,0.03) 100%);
-            pointer-events: none;
-        }
-        .league-card:hover { transform: translateY(-6px); box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5); }
-        .league-card.nba:hover    { border-color: var(--nba);        box-shadow: 0 25px 50px -12px rgba(59,130,246,0.35); }
-        .league-card.euroleague:hover { border-color: var(--euroleague); box-shadow: 0 25px 50px -12px rgba(255,102,0,0.35); }
-        .league-card.plk:hover    { border-color: var(--plk);        box-shadow: 0 25px 50px -12px rgba(220,38,38,0.35); }
-        .league-card.lba:hover    { border-color: var(--lba);        box-shadow: 0 25px 50px -12px rgba(0,109,183,0.35); }
-        .league-card.acb:hover    { border-color: var(--acb);        box-shadow: 0 25px 50px -12px rgba(200,16,46,0.35); }
-        .league-card.bbl:hover    { border-color: var(--bbl);        box-shadow: 0 25px 50px -12px rgba(227,6,19,0.35); }
-        .league-logo {
-            width: 140px; height: 140px; object-fit: contain; margin-bottom: 24px;
-            filter: drop-shadow(0 6px 12px rgba(0,0,0,0.4));
-            transition: transform 0.25s;
-        }
-        .league-card:hover .league-logo { transform: scale(1.05); }
-        .league-name { font-weight: 900; font-size: 1.8rem; letter-spacing: -1px; margin: 0 0 8px; }
-        .league-card.nba .league-name        { color: var(--nba); }
-        .league-card.euroleague .league-name { color: var(--euroleague); }
-        .league-card.plk .league-name        { color: var(--plk); }
-        .league-card.lba .league-name        { color: var(--lba); }
-        .league-card.acb .league-name        { color: var(--acb); }
-        .league-card.bbl .league-name        { color: var(--bbl); }
-        .league-sub {
-            color: var(--subtext); font-size: 0.8rem; text-transform: uppercase;
-            letter-spacing: 1.5px; font-weight: 700; text-align: center; margin: 0 0 20px;
-        }
-        .league-cta {
-            background: rgba(255,255,255,0.05); border: 1px solid var(--border);
-            border-radius: 12px; padding: 10px 24px; font-weight: 800; font-size: 0.8rem;
-            text-transform: uppercase; letter-spacing: 1.5px; transition: background 0.2s, border-color 0.2s;
-        }
-        .league-card.nba:hover .league-cta        { background: rgba(59,130,246,0.15);  border-color: var(--nba); }
-        .league-card.euroleague:hover .league-cta { background: rgba(255,102,0,0.15);   border-color: var(--euroleague); }
-        .league-card.plk:hover .league-cta        { background: rgba(220,38,38,0.15);   border-color: var(--plk); }
-        .league-card.lba:hover .league-cta        { background: rgba(0,109,183,0.15);   border-color: var(--lba); }
-        .league-card.acb:hover .league-cta        { background: rgba(200,16,46,0.15);   border-color: var(--acb); }
-        .league-card.bbl:hover .league-cta        { background: rgba(227,6,19,0.15);    border-color: var(--bbl); }
-        .hub-footer {
-            text-align: center; color: var(--subtext); font-size: 0.75rem; margin-top: 50px;
-        }
-        .hub-footer a {
-            color: var(--subtext); text-decoration: none; border-bottom: 1px dotted var(--border);
-        }
-        .hub-footer a:hover { color: var(--text); }
-        @media (max-width: 1100px) { .league-grid { grid-template-columns: repeat(2, 1fr); } }
-        @media (max-width: 768px) {
-            .hub-title { font-size: 2.4rem; }
-            .league-grid { grid-template-columns: 1fr; gap: 16px; }
-            .league-card { min-height: 260px; padding: 32px 20px; }
-            .league-logo { width: 110px; height: 110px; margin-bottom: 18px; }
-            .league-name { font-size: 1.5rem; }
-        }
-    </style>
+    <title>Moje Leki</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="hub-container">
-        <header class="hub-header">
-            <h1 class="hub-title">Basketball Free Picks</h1>
-            <div class="hub-tagline">
-                Free AI Predictions <span class="basketball">&#127936;</span> Choose a League
+<div class="container">
+    <h1>Moje Leki</h1>
+    <div class="sub-container">
+        <div class="section" id="planowanie">
+            <h2>Planowanie</h2>
+            <button class="button-icon" onclick="openModal()">
+                <img src="images/pil.png" alt="Ikona planowania">
+            </button>
+            <div id="lek-lista-container"></div>
+            <div id="pagination-controls">
+                <button onclick="previousPage()" disabled id="prev-btn">Poprzednia</button>
+                <button onclick="nextPage()" disabled id="next-btn">Następna</button>
             </div>
-        </header>
-
-        <div class="league-grid">
-
-            <!-- NBA -->
-            <a href="/nba/" class="league-card nba" aria-label="NBA AI Picks">
-                <img src="https://cdn.nba.com/logos/nba/nba-logoman-75-word_white.svg"
-                     alt="NBA logo" class="league-logo"
-                     onerror="this.src='https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg';">
-                <h2 class="league-name">NBA</h2>
-                <p class="league-sub">Daily Picks &middot; Live Scores &middot; AI Audit</p>
-                <span class="league-cta">View picks &rarr;</span>
-            </a>
-
-            <!-- EuroLeague -->
-            <a href="/euroleague/" class="league-card euroleague" aria-label="EuroLeague AI Picks">
-                <img src="https://upload.wikimedia.org/wikipedia/en/4/47/Euroleague_Basketball_logo.svg"
-                     alt="EuroLeague logo" class="league-logo"
-                     onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2244%22 fill=%22none%22 stroke=%22%23ff6600%22 stroke-width=%223%22/><text y=%2262%22 x=%2250%22 text-anchor=%22middle%22 font-size=%2242%22 fill=%22%23ff6600%22>%F0%9F%8F%80</text></svg>';">
-                <h2 class="league-name">EuroLeague</h2>
-                <p class="league-sub">Final Four &middot; Gemini AI &middot; Live Predictions</p>
-                <span class="league-cta">View picks &rarr;</span>
-            </a>
-
-            <!-- PLK -->
-            <a href="/plk/" class="league-card plk" aria-label="PLK Orlen Basket Liga AI Picks">
-                <img src="https://pulsbasketu.com/images/league-logos/plk-logo.png"
-                     alt="PLK logo" class="league-logo"
-                     onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/640px-Flag_of_Poland.svg.png';">
-                <h2 class="league-name">PLK</h2>
-                <p class="league-sub">Orlen Basket Liga &middot; Gemini AI &middot; Polskie Typy</p>
-                <span class="league-cta">Zobacz typy &rarr;</span>
-            </a>
-
-            <!-- LBA -->
-            <a href="/lba/" class="league-card lba" aria-label="LBA Lega Basket Serie A AI Picks">
-                <img src="https://www.legabasket.it/_next/static/media/LogoGradientSponsor.7fe64737.svg"
-                     alt="LBA logo" class="league-logo"
-                     onerror="this.src='https://upload.wikimedia.org/wikipedia/en/0/00/Lega_Basket_Serie_A_logo.png';">
-                <h2 class="league-name">LBA</h2>
-                <p class="league-sub">Serie A Basket &middot; Gemini AI &middot; Italy</p>
-                <span class="league-cta">View picks &rarr;</span>
-            </a>
-
-            <!-- ACB -->
-            <a href="/acb/" class="league-card acb" aria-label="ACB Liga Endesa AI Picks">
-                <img src="https://www.proballers.com/api/getLeagueLogo?id=30&width=300"
-                     alt="ACB Liga Endesa logo" class="league-logo"
-                     onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2244%22 fill=%22none%22 stroke=%22%23c8102e%22 stroke-width=%223%22/><text y=%2262%22 x=%2250%22 text-anchor=%22middle%22 font-size=%2242%22 fill=%22%23c8102e%22>%F0%9F%8F%80</text></svg>';">
-                <h2 class="league-name">ACB</h2>
-                <p class="league-sub">Liga Endesa &middot; Gemini AI &middot; Spain</p>
-                <span class="league-cta">View picks &rarr;</span>
-            </a>
-
-            <!-- BBL -->
-            <a href="/bbl/" class="league-card bbl" aria-label="BBL easyCredit Bundesliga AI Picks">
-                <img src="https://api.basketball-bundesliga.de/images/teams/logo/2025/430"
-                     alt="BBL logo" class="league-logo"
-                     onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2244%22 fill=%22none%22 stroke=%22%23e30613%22 stroke-width=%223%22/><text y=%2262%22 x=%2250%22 text-anchor=%22middle%22 font-size=%2242%22 fill=%22%23e30613%22>%F0%9F%8F%80</text></svg>';">
-                <h2 class="league-name">BBL</h2>
-                <p class="league-sub">easyCredit Bundesliga &middot; Gemini AI &middot; Germany</p>
-                <span class="league-cta">View picks &rarr;</span>
-            </a>
-
         </div>
-
-        <div class="hub-footer">
-            Updated daily &middot; Public AI model picks &middot;
-            <a href="/nba/">NBA</a> &middot;
-            <a href="/euroleague/">EuroLeague</a> &middot;
-            <a href="/plk/">PLK</a> &middot;
-            <a href="/lba/">LBA</a> &middot;
-            <a href="/acb/">ACB</a> &middot;
-            <a href="/bbl/">BBL</a>
+        <div class="section" id="historyczne">
+            <h2>Historyczne</h2>
+            <div id="historyczne-lek-lista-container"></div>
+            <div id="pagination-controls-historyczne">
+                <button onclick="previousPageHistoryczne()" disabled id="prev-btn-historyczne">Poprzednia</button>
+                <button onclick="nextPageHistoryczne()" disabled id="next-btn-historyczne">Następna</button>
+            </div>
         </div>
     </div>
+</div>
+<div id="myModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <h2>Dodaj Lek</h2>
+        <form id="lekForm">
+            <label for="nazwa">Nazwa leku</label>
+            <input type="text" id="nazwa" name="nazwa" required>
+            <label for="typ">Typ leku</label>
+            <select id="typ" name="typ" onchange="toggleFields()" required>
+                <option value="">Proszę wybrać</option>
+                <option value="tabletka">Tabletka</option>
+                <option value="syrop">Syrop</option>
+            </select>
+            <div id="dawka-container" style="display:none;">
+                <label for="dawka">Dawka (tabletki)</label>
+                <input type="number" id="dawka" name="dawka" min="0.25" step="0.25" placeholder="Podaj dawkę" required>
+            </div>
+            <div id="syrop-container" style="display:none;">
+                <label for="syrop">Dawka (ml)</label>
+                <input type="number" id="syrop" name="syrop" min="25" step="5" placeholder="Wartość w ml" required>
+            </div>
+            <label for="czestotliwosc">Częstotliwość zażywania</label>
+            <select id="czestotliwosc" name="czestotliwosc" required>
+                <option value="">Proszę wybrać</option>
+                <option value="1">1 godzina</option>
+                <option value="2">2 godziny</option>
+                <option value="3">3 godziny</option>
+                <option value="6">6 godzin</option>
+                <option value="8">8 godzin</option>
+                <option value="12">12 godzin</option>
+            </select>
+            <button type="submit">Zapisz</button>
+        </form>
+    </div>
+</div>
+<script src="script.js"></script>
 </body>
 </html>

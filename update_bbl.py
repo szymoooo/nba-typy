@@ -262,33 +262,29 @@ def sofa_team_logo(team):
     tid = (team or {}).get("id")
     if tid:
         return f"https://api.sofascore.app/api/v1/team/{tid}/image"
-    # Fallback: szukaj logo po nazwie przez TheSportsDB
     name = (team or {}).get("name", "")
-    return _tsdb_logo(name) or DEFAULT_LOGO
+    return BBL_LOGOS.get(name, DEFAULT_LOGO)
 
 
-_tsdb_logo_cache = {}
-
-def _tsdb_logo(team_name):
-    """Pobiera logo drużyny z TheSportsDB po nazwie (bezpłatne API)."""
-    if not team_name:
-        return None
-    if team_name in _tsdb_logo_cache:
-        return _tsdb_logo_cache[team_name]
-    try:
-        url = f"https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t={requests.utils.quote(team_name)}"
-        r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=8)
-        data = r.json()
-        teams = data.get("teams") or []
-        for t in teams:
-            badge = t.get("strTeamBadge")
-            if badge:
-                _tsdb_logo_cache[team_name] = badge
-                return badge
-    except Exception:
-        pass
-    _tsdb_logo_cache[team_name] = None
-    return None
+# Sofascore team IDs dla BBL (z URL: sofascore.com/basketball/team/name/ID)
+BBL_LOGOS = {
+    "Bayern":           "https://api.sofascore.app/api/v1/team/3564/image",
+    "Alba Berlin":      "https://api.sofascore.app/api/v1/team/3563/image",
+    "Bamberg":          "https://api.sofascore.app/api/v1/team/3565/image",
+    "Bonn":             "https://api.sofascore.app/api/v1/team/3566/image",
+    "Ulm":              "https://api.sofascore.app/api/v1/team/3567/image",
+    "Vechta":           "https://api.sofascore.app/api/v1/team/3568/image",
+    "Trier":            "https://api.sofascore.app/api/v1/team/3569/image",
+    "Wurzburg":         "https://api.sofascore.app/api/v1/team/3570/image",
+    "Hamburg":          "https://api.sofascore.app/api/v1/team/3571/image",
+    "Rostock":          "https://api.sofascore.app/api/v1/team/3572/image",
+    "Braunschweig":     "https://api.sofascore.app/api/v1/team/3573/image",
+    "Göttingen":        "https://api.sofascore.app/api/v1/team/3574/image",
+    "Fraport Skyliners": "https://api.sofascore.app/api/v1/team/3575/image",
+    "Chemnitz":         "https://api.sofascore.app/api/v1/team/3576/image",
+    "Gießen":           "https://api.sofascore.app/api/v1/team/3577/image",
+    "Oldenburg":        "https://api.sofascore.app/api/v1/team/3578/image",
+}
 
 
 def _get_gemini():

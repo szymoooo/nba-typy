@@ -279,33 +279,34 @@ def sofa_team_logo(team):
     tid = (team or {}).get("id")
     if tid:
         return f"https://api.sofascore.app/api/v1/team/{tid}/image"
-    # Fallback: szukaj logo po nazwie przez TheSportsDB
     name = (team or {}).get("name", "")
-    return _tsdb_logo(name) or DEFAULT_LOGO
+    return ACB_LOGOS.get(name, DEFAULT_LOGO)
 
 
-_tsdb_logo_cache = {}
+# Sofascore team IDs dla ACB (z URL: sofascore.com/basketball/team/name/ID)
+ACB_LOGOS = {
+    "Real Madrid":          "https://api.sofascore.app/api/v1/team/3540/image",
+    "Barcelona":            "https://api.sofascore.app/api/v1/team/3543/image",
+    "Baskonia":             "https://api.sofascore.app/api/v1/team/3553/image",
+    "Murcia":               "https://api.sofascore.app/api/v1/team/3555/image",
+    "Valencia":             "https://api.sofascore.app/api/v1/team/3545/image",
+    "Tenerife":             "https://api.sofascore.app/api/v1/team/78043/image",
+    "Unicaja":              "https://api.sofascore.app/api/v1/team/3556/image",
+    "Joventut Badalona":    "https://api.sofascore.app/api/v1/team/3544/image",
+    "Bilbao":               "https://api.sofascore.app/api/v1/team/5615/image",
+    "Gran Canaria":         "https://api.sofascore.app/api/v1/team/3554/image",
+    "Breogan":              "https://api.sofascore.app/api/v1/team/3547/image",
+    "Andorra":              "https://api.sofascore.app/api/v1/team/3548/image",
+    "Manresa":              "https://api.sofascore.app/api/v1/team/3552/image",
+    "Girona":               "https://api.sofascore.app/api/v1/team/3551/image",
+    "Zaragoza":             "https://api.sofascore.app/api/v1/team/3549/image",
+    "Burgos":               "https://api.sofascore.app/api/v1/team/3557/image",
+    "Lleida":               "https://api.sofascore.app/api/v1/team/3558/image",
+    "Granada":              "https://api.sofascore.app/api/v1/team/3559/image",
+}
 
-def _tsdb_logo(team_name):
-    """Pobiera logo drużyny z TheSportsDB po nazwie (bezpłatne API)."""
-    if not team_name:
-        return None
-    if team_name in _tsdb_logo_cache:
-        return _tsdb_logo_cache[team_name]
-    try:
-        url = f"https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t={requests.utils.quote(team_name)}"
-        r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=8)
-        data = r.json()
-        teams = data.get("teams") or []
-        for t in teams:
-            badge = t.get("strTeamBadge")
-            if badge:
-                _tsdb_logo_cache[team_name] = badge
-                return badge
-    except Exception:
-        pass
-    _tsdb_logo_cache[team_name] = None
-    return None
+
+
 
 
 # ==========================================
