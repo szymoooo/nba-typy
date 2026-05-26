@@ -1,34 +1,22 @@
-name: NBA + EuroLeague + PLK Public Media Bot
+name: NBA Daily Update Test
+
 on:
   schedule:
-    # ---- NBA ----
-    # Co 20 minut w godzinach 17:00-08:00 UTC (19:00-10:00 CET)
-    - cron: '0,20,40 17-23 * * *'
-    - cron: '0,20,40 0-8  * * *'
-
-    # ---- EuroLeague / PLK - pełna analiza ----
-    # Raz dziennie rano (08:00 UTC = 10:00 CET) - generuj typy z AI
-    - cron: '0 8 * * *'
-
-    # ---- EuroLeague / PLK - live tracking ----
-    # Co 15 minut w godzinach europejskich (14:00-22:00 UTC = 16:00-00:00 CET)
-    # Obsługa: pre-game check (30-90 min przed), live scores, post-game wyniki
-    - cron: '0,15,30,45 14-22 * * *'
-
-  workflow_dispatch:
-    inputs:
-      mode:
-        description: 'Tryb (full/live/pre-game, pusty = auto)'
-        required: false
-        default: ''
+    # 07:00 (wyniki z nocy) -> 06:00 UTC
+    # 15:10 (pierwszy raport) -> 14:10 UTC
+    # 19:30 (finalny raport przed meczami) -> 18:30 UTC
+    # 23:00 (późne mecze / last minute) -> 22:00 UTC
+    - cron: '0 6,18,22 * * *'
+    - cron: '10 14 * * *'
+  workflow_dispatch: 
 
 permissions:
   contents: write
 
 jobs:
-  public-analysis:
+  update-page:
     runs-on: ubuntu-latest
-
+    
     steps:
       - uses: actions/checkout@v3
 
@@ -38,134 +26,20 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
+        # TU BYŁ BŁĄD - Dodałem 'requests'
         run: |
           python -m pip install --upgrade pip
-          pip install requests google-genai pytz
+          pip install requests google-generativeai
 
-      # ============= NBA (zawsze pełny run w nocy) =============
-      - name: Run NBA ESPN Media Model
+      - name: Run NBA Agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python update_nba.py
 
-      - name: Run NBA Gemini Audit (Risk Check)
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python gemini_audit.py
-
-      # ============= EuroLeague =============
-      - name: Run EuroLeague AI Picks
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python update_euroleague.py
-        continue-on-error: true
-
-      - name: Run EuroLeague Lineup Audit
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python euroleague_audit.py
-        continue-on-error: true
-
-      # ============= PLK - wykryj tryb =============
-      - name: Detect PLK run mode
-        id: plk_mode
-        run: |
-          # Jesli workflow_dispatch z wymuszonym trybem - uzyj go
-          FORCED="${{ github.event.inputs.mode }}"
-          if [ -n "$FORCED" ]; then
-            echo "mode=$FORCED" >> $GITHUB_OUTPUT
-            echo "PLK mode (forced): $FORCED"
-          else
-            python run_mode.py plk
-            MODE=$(cat .run_mode_plk 2>/dev/null || echo "full")
-            echo "mode=$MODE" >> $GITHUB_OUTPUT
-            echo "PLK mode (auto): $MODE"
-          fi
-        continue-on-error: true
-
-      # ---- PLK: full (typy + audit z AI) ----
-      - name: PLK Full - AI Picks
-        if: |
-          steps.plk_mode.outputs.mode == 'full' ||
-          steps.plk_mode.outputs.mode == ''
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python update_plk.py
-        continue-on-error: true
-
-      - name: PLK Full - Lineup Audit
-        if: |
-          steps.plk_mode.outputs.mode == 'full' ||
-          steps.plk_mode.outputs.mode == ''
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python plk_audit.py
-        continue-on-error: true
-
-      # ---- PLK: pre-game (ostatni check przed meczem - kontuzje!) ----
-      - name: PLK Pre-Game - Lineup Audit ONLY
-        if: steps.plk_mode.outputs.mode == 'pre-game'
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          echo "=== PRE-GAME CHECK: audit kontuzji przed startem meczu ==="
-          python plk_audit.py
-        continue-on-error: true
-
-      # ---- PLK: live + post (tylko scores, zero Gemini) ----
-      - name: PLK Live/Post - Scores Update (no AI)
-        if: |
-          steps.plk_mode.outputs.mode == 'live' ||
-          steps.plk_mode.outputs.mode == 'post'
-        env:
-          PLK_LIVE_MODE: "true"
-        run: |
-          echo "=== LIVE/POST UPDATE: tylko wyniki, bez AI ==="
-          python update_plk.py
-        continue-on-error: true
-
-      # ---- PLK: skip / idle ----
-      - name: PLK Skip
-        if: |
-          steps.plk_mode.outputs.mode == 'skip' ||
-          steps.plk_mode.outputs.mode == 'idle'
-        run: |
-          echo "PLK: tryb ${{ steps.plk_mode.outputs.mode }} - pomijam (pick już jest lub brak meczów)"
-
-      # ============= LBA (Lega Basket Serie A - Włochy) =============
-      - name: LBA AI Picks
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python update_lba.py
-        continue-on-error: true
-
-      # ============= ACB (Liga Endesa - Hiszpania) =============
-      - name: ACB AI Picks
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python update_acb.py
-        continue-on-error: true
-
-      # ============= BBL (easyCredit Bundesliga - Niemcy) =============
-      - name: BBL AI Picks
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python update_bbl.py
-        continue-on-error: true
-
-      # ============= Commit =============
       - name: Commit and Push
         run: |
-          git config --global user.name 'ESPN Bot'
-          git config --global user.email 'bot@espn.nba'
-
-          [ -f index.html ]     && git add index.html
-          [ -f sitemap.xml ]    && git add sitemap.xml
-          [ -f robots.txt ]     && git add robots.txt
-          [ -d nba ]            && git add nba/
-          [ -d euroleague ]     && git add euroleague/
-          [ -d plk ]            && git add plk/
-          [ -d lba ]            && git add lba/
-          [ -d acb ]            && git add acb/
-          [ -d bbl ]            && git add bbl/
-
-          git diff --quiet && git diff --staged --quiet || \
-            (git commit -m "Update $(date -u '+%H:%M UTC') [PLK:${{ steps.plk_mode.outputs.mode }}]" && git push)
+          git config --global user.name 'NBA Agent'
+          git config --global user.email 'agent@nba.ai'
+          git add index.html
+          git commit -m "Aktualizacja raportu NBA" || exit 0
+          git push

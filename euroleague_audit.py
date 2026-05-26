@@ -41,6 +41,11 @@ def run_audit():
         print("Brak typow do analizy.")
         return
 
+    # Sprawdź czy typy są z dzisiaj
+    if today_date not in typy:
+        print(f"Typy w {PICKS_PATH} nie są z dzisiaj ({today_date}) - pomijam audyt.")
+        return
+
     system_instruction = f"""
     Jestes rygorystycznym analitykiem koszykarskiej EuroLeague.
     Twoja wiedza wewnetrzna jest przestarzala.

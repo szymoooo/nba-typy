@@ -1,8 +1,10 @@
 """
 ACB (Liga Endesa, Hiszpania) Free Picks - generator typów.
 
-Źródło: Sofascore public API (tournament_id=65).
-Identyczna architektura co update_plk.py + fallback Sofascore.
+Źródło danych (w kolejności prób):
+  1. Sofascore public API (tournament_id=65)
+  2. 24score.com scraper (score24_data.py) - gdy Sofascore zablokowany
+  3. Gemini Google Search - ostateczny fallback
 
 URUCHOMIENIE LOKALNE:
     pip install requests google-genai pytz
@@ -275,7 +277,35 @@ def sofa_score(ev, side):
 
 def sofa_team_logo(team):
     tid = (team or {}).get("id")
-    return f"https://api.sofascore.app/api/v1/team/{tid}/image" if tid else DEFAULT_LOGO
+    if tid:
+        return f"https://api.sofascore.app/api/v1/team/{tid}/image"
+    # Fallback: szukaj logo po nazwie przez TheSportsDB
+    name = (team or {}).get("name", "")
+    return _tsdb_logo(name) or DEFAULT_LOGO
+
+
+_tsdb_logo_cache = {}
+
+def _tsdb_logo(team_name):
+    """Pobiera logo drużyny z TheSportsDB po nazwie (bezpłatne API)."""
+    if not team_name:
+        return None
+    if team_name in _tsdb_logo_cache:
+        return _tsdb_logo_cache[team_name]
+    try:
+        url = f"https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t={requests.utils.quote(team_name)}"
+        r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=8)
+        data = r.json()
+        teams = data.get("teams") or []
+        for t in teams:
+            badge = t.get("strTeamBadge")
+            if badge:
+                _tsdb_logo_cache[team_name] = badge
+                return badge
+    except Exception:
+        pass
+    _tsdb_logo_cache[team_name] = None
+    return None
 
 
 # ==========================================
@@ -322,23 +352,68 @@ def predict_ai(home, away, h_pct, a_pct, ev, today):
     a_name = away.get("name", "Away")
     phase = ((ev.get("roundInfo") or {}).get("name") or
              str((ev.get("roundInfo") or {}).get("round") or "Sezon zasadniczy"))
+    h_w = round(h_pct * 34)
+    h_l = 34 - h_w
+    a_w = round(a_pct * 34)
+    a_l = 34 - a_w
 
     prompt = f"""
-Mecz ACB (Liga Endesa, Hiszpania): {a_name} (gość) vs {h_name} (gospodarz)
-Faza: {phase}
-Dzisiejsza data: {today}
+=========================================================================
+SYSTEM
+=========================================================================
+Jesteś ekspertem koszykarskim ACB (Liga Endesa, Hiszpania).
+DZISIEJSZA DATA: {today}. Twoja wiedza jest przestarzała - sprawdzaj przez
+Google Search. NIE ZGADUJ. Brak danych = "brak danych".
 
-Bilans sezon 2025/26 ACB:
-  - {h_name}: {h_pct:.0%} skuteczność
-  - {a_name}: {a_pct:.0%} skuteczność
+=========================================================================
+MECZ DZISIAJ
+=========================================================================
+Liga:      ACB Liga Endesa (Hiszpania)
+Faza:      {phase}
+GOSPODARZ: {h_name}
+GOŚĆ:      {a_name}
 
-ZADANIE: Wytypuj zwycięzcę. Użyj Google Search:
-1. Forma ostatnich 5 meczów obu drużyn w ACB
-2. Aktualne kontuzje ({today}) - acb.com, marca.com, sport.es, as.com
-3. H2H w tym sezonie
-4. Kontekst fazy (playoff = home court silniejsze)
+=========================================================================
+DANE STATYSTYCZNE (sezon 2025/26)
+=========================================================================
+BILANS:
+   {h_name}: ~{h_w}-{h_l} ({h_pct:.0%} skuteczność)
+   {a_name}: ~{a_w}-{a_l} ({a_pct:.0%} skuteczność)
 
-Odpowiedz TYLKO czystym JSON (bez markdown):
+=========================================================================
+ZADANIE - Google Search dla każdego punktu:
+=========================================================================
+1. KONTUZJE i ZMIANY W SKŁADZIE na {today}:
+   - acb.com, marca.com, sport.es, as.com, mundobasket.es
+   - Twitter/X klubów ({h_name}, {a_name})
+   - Czy lider drużyny jest niezdolny do gry?
+
+2. FORMA 5 OSTATNICH MECZÓW obu drużyn w ACB:
+   - Seria zwycięstw/porażek
+   - Wyniki domowe vs. wyjazdowe
+
+3. H2H W TYM SEZONIE (2025/26):
+   - Ile razy się spotkali? Kto wygrał?
+   - Jeśli playoff: stan serii (np. 2-1)?
+
+4. KONTEKST FAZY:
+   - Playoff = przewaga własnego parkietu silniejsza (~60-65% dla gospodarza)
+   - Mecz decydujący = "desperation factor" dla drużyny w zagrożeniu
+
+5. TOP GRACZE - wyszukaj aktualną formę liderów:
+   - {h_name}: kto jest najlepszym strzelcem/rozgrywającym?
+   - {a_name}: kto jest najlepszym strzelcem/rozgrywającym?
+
+WAGA SYGNAŁÓW (od najważniejszego):
+   1. Aktualne kontuzje liderów (dziś)
+   2. Forma 5 ostatnich meczów + streak
+   3. Przewaga domowa (playoff silniejsza)
+   4. H2H w obecnej serii/sezonie
+   5. Bilans sezonowy (win%)
+
+=========================================================================
+ODPOWIEDŹ - czysty JSON, bez markdown
+=========================================================================
 {{
   "winner_name": "<dokładna nazwa: '{h_name}' lub '{a_name}'>",
   "confidence": <1-10>,
@@ -674,14 +749,28 @@ def main():
 
     pct_map = fetch_sofa_standings(season_id)
     games = fetch_sofa_games_today(season_id, today_slug)
+    data_source = "Sofascore"
 
-    # Fallback: jeśli Sofascore zablokowane (GitHub Actions IP block) -> Gemini Google Search
+    # Fallback 1: 24score.com scraper
+    if not games:
+        print("   [FALLBACK-1] Sofascore zablokowane - próbuję 24score.com...")
+        try:
+            import score24_data
+            games = score24_data.fetch_games_today("acb", today_slug)
+            if games:
+                data_source = "24score.com"
+                # Supplement pct_map from 24score if Sofascore standings also failed
+                if not pct_map:
+                    pct_map = score24_data.fetch_standings("acb")
+        except Exception as e:
+            print(f"   [FALLBACK-1] 24score błąd: {e}")
+
+    # Fallback 2: Gemini Google Search
     if not games and os.environ.get("GEMINI_API_KEY"):
-        print("   [FALLBACK] Sofascore zablokowane - próbuję Gemini Google Search...")
+        print("   [FALLBACK-2] Próbuję Gemini Google Search...")
         games = fetch_games_via_ai(today_slug)
-        data_source = "Gemini Search"
-    else:
-        data_source = "Sofascore"
+        if games:
+            data_source = "Gemini Search"
 
     cards_html, picks, summaries = build_cards(games, pct_map, today_slug)
 

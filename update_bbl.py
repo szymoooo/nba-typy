@@ -1,6 +1,10 @@
 """
 BBL (easyCredit BBL, Niemcy) Free Picks.
-Sofascore tournament_id=105. Identyczna architektura co update_acb.py.
+
+Źródło danych (w kolejności prób):
+  1. Sofascore public API (tournament_id=105)
+  2. 24score.com scraper (score24_data.py) - gdy Sofascore zablokowany
+  3. Gemini Google Search - ostateczny fallback
 
 URUCHOMIENIE LOKALNE:
     export GEMINI_API_KEY=...
@@ -256,7 +260,35 @@ def sofa_score(ev, side):
 
 def sofa_team_logo(team):
     tid = (team or {}).get("id")
-    return f"https://api.sofascore.app/api/v1/team/{tid}/image" if tid else DEFAULT_LOGO
+    if tid:
+        return f"https://api.sofascore.app/api/v1/team/{tid}/image"
+    # Fallback: szukaj logo po nazwie przez TheSportsDB
+    name = (team or {}).get("name", "")
+    return _tsdb_logo(name) or DEFAULT_LOGO
+
+
+_tsdb_logo_cache = {}
+
+def _tsdb_logo(team_name):
+    """Pobiera logo drużyny z TheSportsDB po nazwie (bezpłatne API)."""
+    if not team_name:
+        return None
+    if team_name in _tsdb_logo_cache:
+        return _tsdb_logo_cache[team_name]
+    try:
+        url = f"https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t={requests.utils.quote(team_name)}"
+        r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=8)
+        data = r.json()
+        teams = data.get("teams") or []
+        for t in teams:
+            badge = t.get("strTeamBadge")
+            if badge:
+                _tsdb_logo_cache[team_name] = badge
+                return badge
+    except Exception:
+        pass
+    _tsdb_logo_cache[team_name] = None
+    return None
 
 
 def _get_gemini():
@@ -300,21 +332,70 @@ def predict_ai(home, away, h_pct, a_pct, ev, today):
     phase = ((ev.get("roundInfo") or {}).get("name") or
              str((ev.get("roundInfo") or {}).get("round") or "Sezon zasadniczy"))
 
+    h_w = round(h_pct * 34)
+    h_l = 34 - h_w
+    a_w = round(a_pct * 34)
+    a_l = 34 - a_w
+
     prompt = f"""
-Mecz BBL (easyCredit Bundesliga, Niemcy): {a_name} (gość) vs {h_name} (gospodarz)
-Faza: {phase}
-Dzisiejsza data: {today}
+=========================================================================
+SYSTEM
+=========================================================================
+Jesteś ekspertem koszykarskim BBL (easyCredit Basketball Bundesliga, Niemcy).
+DZISIEJSZA DATA: {today}. Twoja wiedza jest przestarzała - sprawdzaj przez
+Google Search. NIE ZGADUJ. Brak danych = "brak danych".
 
-Bilans sezon 2025/26 BBL:
-  - {h_name}: {h_pct:.0%} skuteczność
-  - {a_name}: {a_pct:.0%} skuteczność
+=========================================================================
+MECZ DZISIAJ
+=========================================================================
+Liga:      BBL easyCredit Bundesliga (Niemcy)
+Faza:      {phase}
+GOSPODARZ: {h_name}
+GOŚĆ:      {a_name}
 
-ZADANIE: Wytypuj zwycięzcę. Użyj Google Search:
-1. Forma ostatnich 5 meczów obu drużyn w BBL
-2. Aktualne kontuzje ({today}) - basketball-bundesliga.de, sport1.de
-3. H2H w tym sezonie
+=========================================================================
+DANE STATYSTYCZNE (sezon 2025/26)
+=========================================================================
+BILANS:
+   {h_name}: ~{h_w}-{h_l} ({h_pct:.0%} skuteczność)
+   {a_name}: ~{a_w}-{a_l} ({a_pct:.0%} skuteczność)
 
-Odpowiedz TYLKO czystym JSON (bez markdown):
+=========================================================================
+ZADANIE - Google Search dla każdego punktu:
+=========================================================================
+1. KONTUZJE i ZMIANY W SKŁADZIE na {today}:
+   - basketball-bundesliga.de, sport1.de, spox.com, bild.de
+   - Twitter/X klubów ({h_name}, {a_name})
+   - Czy kluczowy gracz jest niezdolny do gry?
+
+2. FORMA 5 OSTATNICH MECZÓW obu drużyn w BBL:
+   - Seria zwycięstw/porażek
+   - Wyniki domowe vs. wyjazdowe
+
+3. H2H W TYM SEZONIE (2025/26):
+   - Ile razy się spotkali? Kto wygrał?
+   - Jeśli playoff: stan serii (np. 2-1)?
+
+4. KONTEKST FAZY PLAYOFF:
+   - Stan serii (np. Bayern 2-1 Trier)?
+   - Mecz decydujący = "desperation factor" dla drużyny w zagrożeniu
+   - Przewaga własnego parkietu w BBL playoffs
+
+5. TOP GRACZE - wyszukaj aktualną formę liderów:
+   - {h_name}: kto jest kluczowym graczem?
+   - {a_name}: kto jest kluczowym graczem?
+
+WAGA SYGNAŁÓW (od najważniejszego):
+   1. Aktualne kontuzje liderów (dziś)
+   2. Stan serii playoff + desperation factor
+   3. Forma 5 ostatnich meczów
+   4. Przewaga domowa
+   5. H2H w sezonie
+   6. Bilans sezonowy (win%)
+
+=========================================================================
+ODPOWIEDŹ - czysty JSON, bez markdown
+=========================================================================
 {{
   "winner_name": "<dokładna nazwa: '{h_name}' lub '{a_name}'>",
   "confidence": <1-10>,
@@ -590,7 +671,7 @@ def build_page(title_date, cards_html, summaries):
 <body>
   <div class="container">
     <header>
-      <img src="https://api.basketball-bundesliga.de/images/teams/logo/2025/430"
+      <img src="https://www.proballers.com/api/getLeagueLogo?id=118&width=300"
            alt="BBL logo"
            onerror="this.style.display='none'"
            style="height:70px;object-fit:contain;margin-bottom:12px;display:block;margin-left:auto;margin-right:auto;">
@@ -630,11 +711,27 @@ def main():
 
     pct_map = fetch_sofa_standings(season_id)
     games = fetch_sofa_games_today(season_id, today_slug)
+    data_source = "Sofascore"
 
-    # Fallback: jeśli Sofascore zablokowane (GitHub Actions IP block) -> Gemini Google Search
+    # Fallback 1: 24score.com scraper
+    if not games:
+        print("   [FALLBACK-1] Sofascore zablokowane - próbuję 24score.com...")
+        try:
+            import score24_data
+            games = score24_data.fetch_games_today("bbl", today_slug)
+            if games:
+                data_source = "24score.com"
+                if not pct_map:
+                    pct_map = score24_data.fetch_standings("bbl")
+        except Exception as e:
+            print(f"   [FALLBACK-1] 24score błąd: {e}")
+
+    # Fallback 2: Gemini Google Search
     if not games and os.environ.get("GEMINI_API_KEY"):
-        print("   [FALLBACK] Sofascore zablokowane - próbuję Gemini Google Search...")
+        print("   [FALLBACK-2] Próbuję Gemini Google Search...")
         games = fetch_games_via_ai(today_slug)
+        if games:
+            data_source = "Gemini Search"
 
     cards_html, picks, summaries = build_cards(games, pct_map, today_slug)
 
