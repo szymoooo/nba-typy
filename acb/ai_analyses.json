@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T11:53:17.986364",
+  "generated_at": "2026-05-27T17:26:12.148917",
   "date": "2026-05-27",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -11,14 +11,15 @@
       "ai_pick": "Baskonia",
       "formula_pick": "Real Madrid",
       "agreement": false,
-      "confidence": 9,
-      "reasoning": "Real Madryt przystępuje do tego meczu poważnie osłabiony kontuzjami wszystkich swoich podstawowych centrów (Tavares, Len, Garuba) i po porażce w finale Euroligi oraz trzech kolejnych porażkach w ACB, mając już zapewnione pierwsze miejsce w lidze. Baskonia natomiast jest w świetnej formie, odniosła cztery kolejne zwycięstwa w ACB, ma dominujący bilans 3-1 w bezpośrednich starciach z Realem Madryt w tym sezonie i jest bardzo zmotywowana, aby zapewnić sobie miejsce w pierwszej czwórce i przewagę własnego parkietu w play-offach.",
+      "confidence": 8,
+      "reasoning": "Real Madryt jest poważnie osłabiony przez kontuzje kluczowych wysokich graczy (Tavares, Len, Garuba), co znacząco wpływa na ich grę pod koszem. Dodatkowo, Real Madryt znajduje się w słabej formie, przegrywając trzy ostatnie mecze w lidze ACB, podczas gdy Baskonia prezentuje doskonałą dyspozycję, wygrywając cztery ostatnie spotkania, oraz ma korzystny bilans bezpośrednich starć w tym sezonie (3-1).",
       "key_factors": [
-        "Poważne kontuzje kluczowych centrów Realu Madryt.",
-        "Bardzo dobra aktualna forma Baskonii i wysoka motywacja w walce o pozycję w tabeli.",
-        "Dominujący bilans H2H Baskonii w obecnym sezonie (3-1)."
+        "Kontuzje kluczowych graczy Realu Madryt (Tavares, Len, Garuba).",
+        "Doskonała forma Baskonii (4 zwycięstwa z rzędu w ACB).",
+        "Przewaga Baskonii w bezpośrednich meczach w tym sezonie (3-1).",
+        "Słaba ostatnia forma Realu Madryt (3 porażki z rzędu w ACB)."
       ],
-      "injury_notes": "Real Madryt jest bez centrów Waltera Tavaresa (uraz więzadła pobocznego), Alexa Lena (uraz rozcięgna podeszwowego stopy) i Usmana Garuby (zerwanie ścięgna Achillesa). Omar Yurtseven jest nowym nabytkiem, mającym uzupełnić luki na pozycji centra. Baskonia jest bez centra Khalify Diopa (uraz lewego kolana), ale kluczowi gracze ofensywni, tacy jak Markus Howard, Trent Forrest i Timothé Luwawu-Cabarrot, są dostępni do gry."
+      "injury_notes": "Real Madryt ma poważne braki kadrowe: Edy Tavares (kontuzja więzadła w lewym kolanie), Alex Len (kontuzja rozcięgna podeszwowego w lewej stopie) i Usman Garuba (kontuzja odniesiona w półfinale Euroligi) są niezdolni do gry lub mocno wątpliwi. Brak istotnych braków w składzie Baskonii."
     }
   ]
 }

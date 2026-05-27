@@ -1,18 +1,37 @@
---- AUDYT PLK LIVE (2026-05-27 12:34 CET) ---
-Analiza meczu ORLEN Basket Ligi: Dziki Warszawa (gosc) @ Legia Warszawa (gospodarz)
+--- AUDYT PLK LIVE (2026-05-27 19:25 CET) ---
+Analiza meczu: Dziki Warszawa (gosc) @ Legia Warszawa (gospodarz)
 
 ---
 
-### **Dziki Warszawa @ Legia Warszawa**
+### Mecz: Dziki Warszawa (gosc) @ Legia Warszawa (gospodarz)
+Faza: Półfinały, 1 mecz
+Hala: OSiR Warszawa Bemowo, Warszawa
+Tip-off: 20:15
 
-1.  **Kluczowe braki w składach:**
-    *   ⛹️‍♂️ **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. W grudniu 2025 roku Michał Kolenda zmagał się z urazem stopy, jednak brak jest aktualnych informacji wskazujących na jego niedostępność w maju 2026 roku.
-    *   🐗 **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
-2.  **Aktualna forma top scorerów:**
-    *   📊 Brak danych z API dla tej serii playoff (per-player avg z /playoff-series/851/players/stat-lines). Wiadomo jednak, że Landrius Horton (Dziki) był najlepszym strzelcem ligi w rundzie zasadniczej, a Andrzej Pluta (Legia) zdobył tytuł MVP rundy zasadniczej, co sugeruje ich wysoką formę.
-3.  **Werdykt:**
-    *   ✅ **ZATWIERDZONY**
-        *   Legia Warszawa, jako gospodarz pierwszego meczu półfinałowego, ma przewagę własnego parkietu w OSiR Warszawa Bemowo.
-        *   Oba zespoły przystępują do meczu w pełnych składach, bez zgłoszonych kluczowych kontuzji koszykarskich.
-        *   Spotkanie to otwarcie serii półfinałowej, co oznacza dużą mobilizację obu drużyn. Legia jest wyżej rozstawionym zespołem w tej serii.
-        *   Wysoka forma liderów, takich jak Andrzej Pluta (Legia) i Landrius Horton (Dziki), zapowiada zacięte spotkanie.
+#### 1. Kluczowe braki w składach
+*   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Skład na sezon 2025/2026 jest stabilny.
+*   🏀 **Dziki Warszawa:** Grzegorz Grochowski, doświadczony rozgrywający, który spędził sześć sezonów w Dzikach Warszawa, ma przenieść się do Resovii w kolejnych rozgrywkach. Jednakże, nie ma potwierdzonych informacji o jego niedostępności na ten konkretny mecz półfinałowy 27.05.2026. Artykuły z 25.05.2026 i 26.05.2026 wspominają o składzie Dzików, a Grzegorz Kamiński, który wracał do gry po kontuzji pod koniec kwietnia, był ważną postacią w ćwierćfinale.
+    *   **Wniosek dotyczący Dzików:** Brak *istotnych* braków w składzie koszykarskim na dzisiejszy mecz, zważywszy na powrót Kamińskiego i brak potwierdzenia odejścia Grochowskiego przed tym spotkaniem.
+
+#### 2. Aktualna forma top scorerów
+
+*   📊 **Legia Warszawa:** W sezonie 2025/2026, czołowymi strzelcami Legii są:
+    *   Dominic Brewton III (14.2 Pkt/mecz)
+    *   Jayvon Graves (13.5 Pkt/mecz)
+    *   Andrzej Pluta (12.8 Pkt/mecz)
+    Legia jest w bardzo dobrej formie, przegrywając tylko jedno spotkanie w ostatnich miesiącach (trzeci mecz ćwierćfinału z MKS-em Dąbrowa Górnicza).
+*   📊 **Dziki Warszawa:** W sezonie 2025/2026, kluczowymi graczami Dzików i ich średnie punkty to:
+    *   Landrius Horton (najlepszy strzelec sezonu zasadniczego, średnio 18.9 Pkt/mecz)
+    *   Darnell Edge (16.4 Pkt/mecz)
+    *   Tahlik Chavez (11.8 Pkt/mecz)
+    *   Rivaldo Soares (10.9 Pkt/mecz)
+    *   Grzegorz Kamiński (10.7 Pkt/mecz)
+    Dziki są w świetnej formie, po historycznym awansie do półfinału, pokonując Energa Trefl Sopot 3-1 w ćwierćfinale. Są jedną z najbardziej ofensywnych drużyn ligi, zdobywając średnio ponad 90 punktów na mecz.
+
+*   **Brak danych z API dla tej serii.** Analiza bazuje na ogólnych statystykach sezonu 2025/2026 i formie w play-offach.
+
+#### 3. Werdykt
+
+**[✅ ZATWIERDZONY]**
+
+Legia Warszawa jest faworytem spotkania jako gospodarz pierwszego meczu półfinałowego derbów Warszawy. Oba zespoły są w dobrej formie po zwycięskich seriach ćwierćfinałowych (3-1). Legia gra u siebie, co jest istotne w fazie play-off, a wszystkie standardowe bilety zostały wyprzedane, co świadczy o dużym wsparciu publiczności. Mimo że Dziki są bardzo ofensywną drużyną i Landrius Horton jest czołowym strzelcem ligi, Legia również prezentuje solidną formę i ma przewagę własnego parkietu. Brak poważnych kontuzji u obu drużyn pozwala na oczekiwanie wyrównanego i zaciętego spotkania, ale Legia ma atut gospodarza.

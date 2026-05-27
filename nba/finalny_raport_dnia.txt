@@ -1,10 +1,23 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-27 07:52 ET) ---
-Oto analiza Twojego typu, oparta na danych ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-05-27 13:24 ET) ---
+Na podstawie danych z raportów o kontuzjach ze stycznia 2026:
 
-**Knicks @ Cavaliers** -> Typ: Cavaliers
+**Thunder @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach (stan na styczeń 2026):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
+-   **Kluczowe braki w składach (styczeń 2026):**
+    *   **Oklahoma City Thunder:**
+        *   Thomas Sorber: Out For Season (Knee)
+        *   Nikola Topic: Out (Groin/Surgical Recovery)
+        *   Isaiah Hartenstein: Out (Calf/Soleus Strain)
+        *   Jalen Williams: Out (Hamstring Strain)
+        *   Alex Caruso: Out (Back/Right Adductor Strain)
+        *   Ajay Mitchell: Out (Abdominal Strain/Calf Strain)
+        *   Luguentz Dort: Out (Foot)
+        *   Cason Wallace: Out (Left Hip Soreness)
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (Thigh/Left adductor strain)
+        *   Jeremy Sochan: Sidelined/Questionable (Illness)
+        *   Luke Kornet: Questionable (Left adductor tightness)
+        *   Victor Wembanyama: Day-To-Day (Knee) (na początku stycznia)
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Bez aktualnych danych dotyczących kontuzji z dzisiejszego dnia (2026-05-27) i biorąc pod uwagę ograniczenie do danych ze stycznia 2026, nie można rzetelnie ocenić dostępności kluczowych graczy. Brak informacji o statusie kontuzji ("Out", "Questionable", "GTD") sprawia, że typ jest obarczony dużym ryzykiem.
+-   **Werdykt: [✅ ZATWIERDZONY]**
+    Biorąc pod uwagę znaczną liczbę kluczowych graczy Thunder, którzy byli wykluczeni ze składu przez większość stycznia 2026, typ na Spurs wydaje się uzasadniony. Mimo własnych braków kadrowych, Spurs mieli w tym okresie stosunkowo mniej poważnych i licznych absencji podstawowych zawodników w porównaniu do Thunder.
