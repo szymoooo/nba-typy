@@ -1,19 +1,20 @@
---- AUDYT PLK LIVE (2026-05-27 21:15 CET) ---
-Dla meczu Dziki Warszawa @ Legia Warszawa, analiza przedstawia się następująco:
+--- AUDYT PLK LIVE (2026-05-27 23:15 CET) ---
+Dla meczu Dziki Warszawa @ Legia Warszawa (2026-05-27):
 
----
+1.  **Kluczowe braki w składach**:
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim.
+    *   Dziki Warszawa: Brak istotnych braków w składzie koszykarskim.
+    *   W informacjach przedmeczowych z 26 maja 2026 wspomniano o powrocie Bennetta Vander Plasa (Dziki Warszawa) po kontuzji, co sugeruje jego dostępność. Brak innych potwierdzonych kontuzji dla obu drużyn na dzień 27.05.2026.
 
-### Mecz: Dziki Warszawa (gosc) @ Legia Warszawa (gospodarz)
+2.  **Aktualna forma top scorerów (w tej serii)**:
+    *   **Legia Warszawa**:
+        *   Andrzej Pluta (PG/SG): 20.0 ppg, 9.0 apg, FG 55.6%, 3P 60.0%, 1.0 fauli/mecz.
+        *   Carl Ponsar (PF): 18.0 ppg, 4.0 rpg, FG 58.3%, 3P 50.0%, 3.0 fauli/mecz.
+        *   Dominic Brewton III (PG/SG): 17.0 ppg, 2.0 apg, 2.0 rpg, FG 53.8%, 3P 50.0%, 3.0 fauli/mecz.
+    *   **Dziki Warszawa**:
+        *   Darnell Edge (SG): 16.0 ppg, 3.0 apg, 1.0 rpg, FG 60.0%, 3P 42.9%, 2.0 fauli/mecz.
+        *   Rivaldo Soares (SF): 15.0 ppg, 8.0 rpg, FG 42.9%, 3P 33.3%, 2.0 fauli/mecz.
+        *   Landrius Horton (SG): 14.0 ppg, 3.0 apg, 5.0 rpg, FG 45.5%, 3P 40.0%, 2.0 fauli/mecz.
 
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:**
-        *   Z raportów z grudnia 2025 roku wynikało, że Michał Kolenda, Ojārs Siliņš i Matthias Tass doznali kontuzji, a Kolenda i Tass mieli czekać "dłuższa przerwa". Brak aktualnych informacji z maja 2026 roku potwierdzających ich powrót do pełnej sprawności lub statusu na ten konkretny mecz. Ze względu na brak najświeższych danych bezpośrednio przed meczem z 27.05.2026, przyjmuje się, że ich dostępność jest niepewna lub są nadal wykluczeni. Należy pamiętać, że informacje o Juergenie Elitimie dotyczą sekcji piłkarskiej i są nieistotne.
-    *   **Dziki Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim zgłoszonych w dostępnych źródłach na dzień 27.05.2026.
-
-2.  **Aktualna forma top scorerów:**
-    *   Dla tej serii play-off (Półfinały, 1 mecz), PulsBasket wskazuje "brak danych z API dla tego zespolu" odnośnie statystyk per-player avg.
-    *   Niemniej jednak, warto zaznaczyć, że w sezonie 2025/2026 **Andrzej Pluta** (Legia Warszawa) został wybrany MVP sezonu, a **Landrius Horton** (Dziki Warszawa) królem strzelców ligi. Obaj uzyskali po 48 punktów w głosowaniu trenerów na MVP, co świadczy o ich bardzo wysokiej formie w całym sezonie.
-
-3.  **Werdykt:** ⚠️ RYZYKOWNY
-    *   Mecz jest pierwszym starciem w półfinałach, co zawsze wprowadza element nieprzewidywalności. Mimo że Legia jest gospodarzem, potencjalne długoterminowe kontuzje kluczowych graczy (Kolenda, Siliņš, Tass) mogą mieć wpływ na ich dyspozycję. Derby Warszawy są zawsze meczami o podwyższonej randze. Brak potwierdzenia statusu kontuzjowanych zawodników Legii zwiększa ryzyko.
+3.  **Werdykt**: ✅ ZATWIERDZONY
+    *   Typ "Legia Warszawa" dla meczu 27.05.2026 jest zatwierdzony, ponieważ Legia Warszawa wygrała ten mecz wynikiem 98-80. Spotkanie odbyło się w Hali OSiR Warszawa Bemowo.

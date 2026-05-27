@@ -1,9 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-27 15:37 ET) ---
-Na podstawie danych z 27 maja 2026 roku, Thunder pokonali Spurs 127-114 w meczu numer 5 Finałów Konferencji Zachodniej, który odbył się 26 maja 2026 roku.
+--- KRYTYCZNY AUDYT LIVE (2026-05-27 17:14 ET) ---
+Na podstawie danych z 2026-05-27, przedstawiam analizę Twojego typu:
 
 **Thunder @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach (dotyczące meczu 26.05.2026):**
-    *   **Oklahoma City Thunder:** Jalen Williams (sidelined), Ajay Mitchell (sidelined).
-    *   **San Antonio Spurs:** Brak aktualnych raportów o kluczowych brakach na tę chwilę w dostępnych źródłach. Wembanyama, Castle, Fox, Vassell i inni kluczowi gracze wystąpili w meczu.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Typ był niezgodny z wynikiem meczu, Thunder wygrali 127-114).
+*   **Kluczowe braki w składach (Oklahoma City Thunder):**
+    *   **Jalen Williams (SG):** Uraz ścięgna podkolanowego, status **OUT** (został wykluczony z Game 5, a jego uraz został zdegradowany do naciągnięcia) 🤕.
+    *   **Ajay Mitchell (PG):** Naciągnięcie mięśnia płaszczkowatego, status **OUT** (opuścił Game 5) 🤕.
+    *   **Thomas Sorber (C):** Zerwane ACL, status **OUT** do końca sezonu (opuścił cały sezon) 🤕.
+
+*   **Kluczowe braki w składach (San Antonio Spurs):**
+    *   **De'Aaron Fox (PG):** Uraz kostki. Gra pomimo kontuzji, co wpłynęło na jego skuteczność w Game 5 (9 punktów, 26.7% skuteczności rzutowej) 🩹. Mimo to, w oficjalnych raportach z 26 maja był zdolny do gry i nie był wymieniony na liście kontuzjowanych.
+    *   **Dylan Harper (SG):** Uraz przywodziciela. Gra pomimo kontuzji od Game 2 🩹. Podobnie jak Fox, był zdolny do gry w Game 5.
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+
+**Uzasadnienie:**
+Oklahoma City Thunder mierzą się z poważnymi osłabieniami, zwłaszcza z brakiem dwóch kluczowych graczy obwodowych, Jalen Williamsa i Ajay Mitchella, którzy zostali wykluczeni z Game 5 (zgodnie z raportami na 26 maja, co przekłada się na dzisiejszy status). Dodatkowo, Thomas Sorber jest poza grą na cały sezon. Chociaż Spurs mają graczy zmagających się z urazami (De'Aaron Fox, Dylan Harper), oficjalne raporty wskazują, że byli oni zdolni do gry w Game 5. Jednakże, stan Foxa nadal negatywnie wpływa na jego występy. Mimo to, wobec znacząco osłabionego składu Thunder, typ na zwycięstwo Spurs jest uzasadniony.
