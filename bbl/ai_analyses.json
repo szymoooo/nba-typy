@@ -1,24 +1,30 @@
 {
-  "generated_at": "2026-05-25T12:09:13.196522",
-  "date": "2026-05-25",
+  "generated_at": "2026-05-27T06:21:25.806875",
+  "date": "2026-05-27",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Brose Bamberg @ ratiopharm ulm",
-      "phase": "Playoff Quarterfinals",
-      "ai_pick": "Brose Bamberg",
-      "formula_pick": "ratiopharm ulm",
-      "agreement": false,
-      "confidence": 10,
-      "reasoning": "Brose Bamberg wykazuje dominującą formę, wygrywając wszystkie swoje ostatnie pięć meczów w BBL, w tym trzy kolejne spotkania playoffowe przeciwko ratiopharm ulm (90-87 18 maja, 80-74 16 maja i 96-87 23 maja 2026 roku). Drużyna Brose Bamberg ma również lepszą pozycję w tabeli sezonu zasadniczego, zajmując 3. miejsce w porównaniu do 6. miejsca ratiopharm ulm.",
+      "matchup": "Wurzburg @ Bonn",
+      "ai_pick": null,
+      "formula_pick": "Bonn",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Vechta @ Alba Berlin",
+      "phase": "?",
+      "ai_pick": "Alba Berlin",
+      "formula_pick": "Alba Berlin",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Alba Berlin gra u siebie w decydującym, piątym meczu serii play-off, która jest remisowana 2-2. Drużyna z Berlina miała znacznie lepszy bilans w sezonie zasadniczym (24-10) w porównaniu do Vechty (18-16) i wygrała oba mecze H2H w rundzie zasadniczej. Brak istotnych kontuzji u obu drużyn dodatkowo wzmacnia przewagę własnego parkietu Alby Berlin.",
       "key_factors": [
-        "Aktualna seria zwycięstw Brose Bamberg (5-0 w ostatnich meczach BBL).",
-        "Dominujący bilans bezpośrednich spotkań w tym sezonie, w tym prowadzenie 3-0 w serii playoff dla Brose Bamberg.",
-        "Wyższa pozycja Brose Bamberg w tabeli sezonu zasadniczego (3. vs 6. miejsce).",
-        "Mecz jest fazą playoff, a Brose Bamberg ma szansę na zakończenie serii."
+        "Przewaga własnego parkietu Alba Berlin w decydującym meczu numer 5.",
+        "Lepszy bilans Alba Berlin w sezonie zasadniczym (24-10).",
+        "Alba Berlin wygrała oba mecze bezpośrednie w sezonie zasadniczym 2025/26.",
+        "Brak istotnych kontuzji w obu drużynach."
       ],
-      "injury_notes": "Brak istotnych braków. Starsze raporty o kontuzjach dla Brose Bamberg z wcześniejszej części sezonu 2025/26 (Akil Mitchell, Patrick Heckmann, Kenneth Ogbe) nie są aktualne na dzień meczu, a najnowsze doniesienia medialne dotyczące ostatnich meczów playoff nie wskazują na poważne osłabienia kadrowe w obu drużynach."
+      "injury_notes": "Brak istotnych braków w składach obu drużyn na 27 maja 2026 roku."
     }
   ]
 }

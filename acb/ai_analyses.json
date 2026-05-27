@@ -1,25 +1,24 @@
 {
-  "generated_at": "2026-05-25T11:42:52.820080",
-  "date": "2026-05-25",
+  "generated_at": "2026-05-27T06:20:14.806484",
+  "date": "2026-05-27",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Unicaja @ Joventut Badalona",
-      "phase": "Regular Season",
-      "date": "2026-05-25T20:10:00+02:00",
-      "ai_pick": "Joventut Badalona",
-      "formula_pick": "Joventut Badalona",
+      "matchup": "Baskonia @ Real Madrid",
+      "phase": "?",
+      "date": "2026-05-27T20:00:00+02:00",
+      "ai_pick": "Real Madrid",
+      "formula_pick": "Real Madrid",
       "agreement": true,
-      "confidence": 9,
-      "reasoning": "Joventut Badalona ma znaczącą przewagę, ponieważ mecz jest wznowieniem, a gospodarze prowadzą 53-33 do przerwy. Dodatkowo, Unicaja zmaga się z poważnymi kontuzjami, mając tylko 10 dostępnych graczy na to spotkanie, podczas gdy Joventut wykazuje znacznie lepszą formę w ostatnich pięciu meczach ligowych.",
+      "confidence": 7,
+      "reasoning": "Real Madryt ma znacznie lepszy bilans sezonowy (26-6) niż Baskonia (23-9) i gra u siebie, dążąc do poprawienia rekordu zwycięstw na własnym parkiecie w fazie zasadniczej. Mimo ostatnich dwóch porażek w lidze ACB, ogólna jakość drużyny i przewaga własnego boiska są kluczowe. Baskonia, choć w bardzo dobrej formie (cztery zwycięstwa z rzędu) i walcząca o miejsce w czołowej czwórce, będzie miała trudne zadanie na terenie lidera.",
       "key_factors": [
-        "Joventut Badalona prowadzi 53-33 na półmetku wznowionego meczu.",
-        "Unicaja ma znaczące braki kadrowe (Tyson Pérez, Emir Sulejmanovic kontuzjowani, 10 dostępnych graczy).",
-        "Joventut Badalona ma lepszą formę w ostatnich 5 meczach ACB (4 wygrane, 1 porażka).",
-        "Przewaga własnego boiska dla Joventut Badalona."
+        "Znacznie lepszy bilans sezonowy Realu Madryt.",
+        "Przewaga własnego parkietu dla Realu Madryt oraz dodatkowa motywacja do poprawienia rekordu domowego.",
+        "Bardzo dobra aktualna forma Baskonii (seria 4 zwycięstw) i jej walka o rozstawienie w play-offach."
       ],
-      "injury_notes": "Unicaja jest osłabiona brakiem Tyson Péreza (kontuzja łydki) i Emira Sulejmanovica (tendinopatia Achillesa) na to wznowione spotkanie, a Chris Duarte zgłasza dolegliwości, co ogranicza ich skład do 10 graczy. Joventut Badalona nie zagra do końca sezonu bez Ante Tomica."
+      "injury_notes": "Brak istotnych, potwierdzonych kontuzji kluczowych graczy obu drużyn na dzień meczu w lidze ACB."
     }
   ]
 }

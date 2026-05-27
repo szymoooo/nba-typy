@@ -1,14 +1,9 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-25 21:50 ET) ---
-Analiza zakładu NBA na dzień 2026-05-25 (dotycząca kontekstu stycznia 2026):
+--- KRYTYCZNY AUDYT LIVE (2026-05-27 02:18 ET) ---
+Na podstawie danych z 2026-05-27:
 
-**Knicks @ Cavaliers**
-*   **Typ:** Cavaliers
+**Knicks @ Cavaliers -> Typ: Cavaliers**
 
 *   **Kluczowe braki w składach:**
-    *   **Cleveland Cavaliers:** Dennis Schroder (Questionable - choroba) 🤒.
-    *   **New York Knicks:** Brak zgłoszonych kontuzji.
-
-    *Uwaga: Raporty o kontuzjach pochodzą z 25 maja 2026 roku. Zgodnie z zasadami, ignorowane są dane z lat 2024, 2025, a analizowany kontekst to styczeń 2026. Ze względu na sprzeczne zasady dotyczące dat, kontuzje są oparte na najnowszych dostępnych danych (2026-05-25), a nie na konkretnych raportach ze stycznia 2026.*
-
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Chociaż składy obu drużyn w styczniu 2026 roku (z Donovanem Mitchellem, Evanem Mobleyem i Jarrettem Allenem dla Cavaliers oraz Jalenem Brunsonem, Mikalem Bridgesem i OG Anunobym dla Knicks) wskazywały na silne zespoły, obecność Dennisa Schrodera na liście kontuzjowanych (status 'Questionable') dla Cavaliers na dzień 25 maja 2026 roku wprowadza element niepewności. Brak możliwości uwzględnienia specyficznych kontuzji i formy drużyn ze stycznia 2026, zgodnie z narzuconymi regułami, sprawia, że ocena typu jest obarczona ryzykiem.
+    *   Mimo braku aktualnych raportów o kontuzjach z dzisiejszego dnia (2026-05-27), wcześniejsze doniesienia z 25 maja 2026 roku wskazywały, że New York Knicks prowadzili w serii Finałów Konferencji Wschodniej z Cleveland Cavaliers 3-0. Typowanie zwycięstwa Cavaliers w tej sytuacji jest obarczone wysokim ryzykiem.
