@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T06:20:14.806484",
+  "generated_at": "2026-05-27T06:48:10.003505",
   "date": "2026-05-27",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -8,17 +8,18 @@
       "matchup": "Baskonia @ Real Madrid",
       "phase": "?",
       "date": "2026-05-27T20:00:00+02:00",
-      "ai_pick": "Real Madrid",
+      "ai_pick": "Baskonia",
       "formula_pick": "Real Madrid",
-      "agreement": true,
+      "agreement": false,
       "confidence": 7,
-      "reasoning": "Real Madryt ma znacznie lepszy bilans sezonowy (26-6) niż Baskonia (23-9) i gra u siebie, dążąc do poprawienia rekordu zwycięstw na własnym parkiecie w fazie zasadniczej. Mimo ostatnich dwóch porażek w lidze ACB, ogólna jakość drużyny i przewaga własnego boiska są kluczowe. Baskonia, choć w bardzo dobrej formie (cztery zwycięstwa z rzędu) i walcząca o miejsce w czołowej czwórce, będzie miała trudne zadanie na terenie lidera.",
+      "reasoning": "Baskonia prezentuje bardzo dobrą formę, wygrywając cztery ostatnie mecze w ACB i ma silną motywację do utrzymania miejsca w pierwszej czwórce przed play-offami. Real Madryt zmaga się z istotnymi kontuzjami kluczowych graczy podkoszowych (Tavares, Len, Garuba) i przegrał swoje ostatnie dwa mecze w ACB. Dodatkowo, Baskonia dwukrotnie pokonała Real Madryt w tym sezonie ACB.",
       "key_factors": [
-        "Znacznie lepszy bilans sezonowy Realu Madryt.",
-        "Przewaga własnego parkietu dla Realu Madryt oraz dodatkowa motywacja do poprawienia rekordu domowego.",
-        "Bardzo dobra aktualna forma Baskonii (seria 4 zwycięstw) i jej walka o rozstawienie w play-offach."
+        "Kontuzje kluczowych graczy Realu Madryt (Tavares, Len, Garuba).",
+        "Aktualna forma Baskonii (4 zwycięstwa z rzędu w ACB).",
+        "Motywacja Baskonii do zajęcia miejsca w pierwszej czwórki w lidze.",
+        "Bezpośrednie spotkania w tym sezonie (Baskonia 2-0 w ACB)."
       ],
-      "injury_notes": "Brak istotnych, potwierdzonych kontuzji kluczowych graczy obu drużyn na dzień meczu w lidze ACB."
+      "injury_notes": "Real Madryt: Walter Tavares (kontuzja więzadła kolana), Alex Len (kontuzja rozcięgna podeszwowego) i Usman Garuba (kontuzja lewej ręki) są kontuzjowani. Mario Hezonja był niedawno oszczędzany ze względu na stłuczenie nogi, ale jego status na mecz jest niepewny. Zespół może być zmęczony po niedawno zakończonym finale Euroligi, który przegrali. Baskonia: Kobi Simmons (kontuzja kostki) jest potencjalnym zmartwieniem, ale Markus Howard (udo) i Tadas Sedekerskis (kostka) wracają do gry lub już wrócili. Brak istotnych nowych kontuzji na dzień meczu."
     }
   ]
 }

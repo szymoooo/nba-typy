@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-05-27T06:21:25.806875",
+  "generated_at": "2026-05-27T06:49:10.331468",
   "date": "2026-05-27",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Wurzburg @ Bonn",
-      "ai_pick": null,
+      "phase": "?",
+      "ai_pick": "Bonn",
       "formula_pick": "Bonn",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Mecz jest decydującym, piątym spotkaniem ćwierćfinału fazy play-off BBL, a stan serii to 2-2. Bonn gra u siebie i choć Würzburg pokazał siłę w ostatnim meczu, wygrywając 82-70, to przewaga własnego parkietu w tak kluczowym spotkaniu jest znaczącym czynnikiem. Obie drużyny mają kompletne składy, a Bonn zajęło wyższą pozycję w sezonie zasadniczym (4. miejsce vs 5. miejsce Würzburga), co dało im przewagę własnego parkietu w serii.",
+      "key_factors": [
+        "Przewaga własnego parkietu Bonn w decydującym Meczu 5.",
+        "Seria remisowa 2-2, co zwiększa 'desperation factor' dla obu drużyn.",
+        "Obie drużyny przystępują do meczu w pełnym składzie, bez zgłoszonych kontuzji kluczowych graczy.",
+        "Nieznacznie lepszy bilans Bonn w sezonie zasadniczym (21-13) w porównaniu do Würzburga (20-14)."
+      ],
+      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 27.05.2026."
     },
     {
       "matchup": "Vechta @ Alba Berlin",
@@ -16,15 +26,14 @@
       "ai_pick": "Alba Berlin",
       "formula_pick": "Alba Berlin",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "Alba Berlin gra u siebie w decydującym, piątym meczu serii play-off, która jest remisowana 2-2. Drużyna z Berlina miała znacznie lepszy bilans w sezonie zasadniczym (24-10) w porównaniu do Vechty (18-16) i wygrała oba mecze H2H w rundzie zasadniczej. Brak istotnych kontuzji u obu drużyn dodatkowo wzmacnia przewagę własnego parkietu Alby Berlin.",
+      "confidence": 7,
+      "reasoning": "Mecz pomiędzy Alba Berlin a Vechtą to piąte, decydujące spotkanie ćwierćfinałów playoff BBL 2025/26, w którym stan serii wynosi 2-2. Alba Berlin, grając u siebie, ma przewagę własnego parkietu, lepszy ogólny bilans sezonowy (69% zwycięstw vs 54% Vechty) oraz korzystniejszy bilans bezpośrednich spotkań w tym sezonie (7-3 lub 79% zwycięstw). Brak zgłoszonych kluczowych kontuzji u liderów obu drużyn.",
       "key_factors": [
-        "Przewaga własnego parkietu Alba Berlin w decydującym meczu numer 5.",
-        "Lepszy bilans Alba Berlin w sezonie zasadniczym (24-10).",
-        "Alba Berlin wygrała oba mecze bezpośrednie w sezonie zasadniczym 2025/26.",
-        "Brak istotnych kontuzji w obu drużynach."
+        "Przewaga własnego parkietu w decydującym meczu (Game 5)",
+        "Lepszy ogólny bilans sezonowy Alba Berlin",
+        "Korzystniejszy bilans H2H w sezonie 2025/26 dla Alba Berlin"
       ],
-      "injury_notes": "Brak istotnych braków w składach obu drużyn na 27 maja 2026 roku."
+      "injury_notes": "Brak istotnych braków. Brak doniesień o kluczowych kontuzjach liderów Alba Berlin lub Vechty na dzień 27.05.2026."
     }
   ]
 }

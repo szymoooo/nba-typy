@@ -1,27 +1,28 @@
 {
-  "generated_at": "2026-05-25T22:19:08.119425",
-  "date": "2026-05-26",
+  "generated_at": "2026-05-27T06:47:09.858314",
+  "date": "2026-05-27",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "ORLEN Zastal Zielona Góra @ AMW Arka Gdynia",
+      "matchup": "Dziki Warszawa @ Legia Warszawa",
       "phase": "Półfinały",
       "round": "1 mecz",
-      "date": "2026-05-26T20:15:00",
-      "ai_pick": "AMW Arka Gdynia",
-      "formula_pick": "AMW Arka Gdynia",
+      "date": "2026-05-27T20:15:00",
+      "ai_pick": "Legia Warszawa",
+      "formula_pick": "Legia Warszawa",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "AMW Arka Gdynia gra u siebie, co ma duże znaczenie w rywalizacji play-off, o czym świadczy również bilans H2H w tym sezonie (oba zespoły wygrywały u siebie). Dodatkowo, Arka wchodzi w półfinały z niesamowitym impetem po zwycięstwie w ćwierćfinale 3-2, odrabiając stratę 0-2, co pokazuje ich ogromną siłę mentalną i obecną formę. Kursy bukmacherskie również wskazują Arkę jako faworyta.",
+      "reasoning": "Legia Warszawa, jako obrońca tytułu i lider sezonu zasadniczego, posiada przewagę własnego parkietu w pierwszym meczu serii półfinałowej. Mimo imponującej formy Dzików w ćwierćfinałach, Legia ma nieco lepsze wskaźniki efektywności oraz doświadczenie w fazie play-off, co powinno zaważyć na wyniku.",
       "key_factors": [
-        "Przewaga własnego parkietu AMW Arki Gdynia",
-        "Wyjątkowa forma i mentalność AMW Arki po zwycięstwie w ćwierćfinale z 0-2 na 3-2",
-        "Kursy bukmacherskie faworyzujące AMW Arkę Gdynia"
+        "Przewaga własnego parkietu Legii Warszawa i wyprzedane bilety na mecz.",
+        "Lepszy bilans Legii w sezonie zasadniczym (22-8, 1. miejsce) oraz status obrońcy tytułu.",
+        "Silna forma Legii, która wygrała serię ćwierćfinałową 3-1 i jest na fali wznoszącej.",
+        "Potencjał ofensywny Dzików Warszawa, w tym Landrius Horton (najlepszy strzelec ligi), oraz powrót Grzegorza Kamińskiego do formy."
       ],
-      "injury_notes": "Milan Barbitch (AMW Arka Gdynia) wrócił do gry po kontuzji stawu skokowego i grał w meczach ćwierćfinałowych. Brak istotnych nowych braków kadrowych zgłoszonych na dzień 26.05.2026 dla obu zespołów.",
-      "agreement_with_odds": true
+      "injury_notes": "Brak istotnych nowych braków po stronie obu drużyn. Grzegorz Kamiński (Dziki Warszawa) wrócił do gry pod koniec kwietnia po kontuzji i był ważną postacią w ćwierćfinałach.",
+      "agreement_with_odds": "no_odds"
     }
   ]
 }
