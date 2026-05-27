@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T10:35:01.111249",
+  "generated_at": "2026-05-27T11:53:17.986364",
   "date": "2026-05-27",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -11,16 +11,14 @@
       "ai_pick": "Baskonia",
       "formula_pick": "Real Madrid",
       "agreement": false,
-      "confidence": 8,
-      "reasoning": "Baskonia ma wyraźną przewagę w tym meczu ze względu na poważne kontuzje kluczowych środkowych Realu Madryt (Tavares, Łenio, Garuba), co skutkuje debiutem Ömera Yurtsevena. Dodatkowo Baskonia jest w lepszej formie, notując serię zwycięstw i ma silną motywację do walki o lepszą pozycję w play-offach, podczas gdy Real Madryt, który już zapewnił sobie pierwsze miejsce w tabeli, może podejść do meczu z mniejszą intensywnością. Baskonia prowadzi także w bezpośrednich meczach w tym sezonie 3-1.",
+      "confidence": 9,
+      "reasoning": "Real Madryt przystępuje do tego meczu poważnie osłabiony kontuzjami wszystkich swoich podstawowych centrów (Tavares, Len, Garuba) i po porażce w finale Euroligi oraz trzech kolejnych porażkach w ACB, mając już zapewnione pierwsze miejsce w lidze. Baskonia natomiast jest w świetnej formie, odniosła cztery kolejne zwycięstwa w ACB, ma dominujący bilans 3-1 w bezpośrednich starciach z Realem Madryt w tym sezonie i jest bardzo zmotywowana, aby zapewnić sobie miejsce w pierwszej czwórce i przewagę własnego parkietu w play-offach.",
       "key_factors": [
-        "Poważne kontuzje centrów Realu Madryt (Tavares, Łenio, Garuba)",
-        "Lepsza forma Baskonii (seria 3-4 zwycięstw w ACB)",
-        "Wysoka motywacja Baskonii w walce o rozstawienie w play-offach",
-        "Bilans H2H w tym sezonie 3-1 na korzyść Baskonii",
-        "Niższa stawka meczu dla Realu Madryt, który zapewnił sobie pierwsze miejsce w tabeli"
+        "Poważne kontuzje kluczowych centrów Realu Madryt.",
+        "Bardzo dobra aktualna forma Baskonii i wysoka motywacja w walce o pozycję w tabeli.",
+        "Dominujący bilans H2H Baskonii w obecnym sezonie (3-1)."
       ],
-      "injury_notes": "Real Madryt mierzy się z istotnymi brakami w składzie, szczególnie na pozycji centra, gdzie kontuzje wykluczyły Tavares'a, Łenio i Garubę. Z tego powodu oczekuje się debiutu Ömera Yurtsevena. Brak istotnych braków w składzie Baskonii."
+      "injury_notes": "Real Madryt jest bez centrów Waltera Tavaresa (uraz więzadła pobocznego), Alexa Lena (uraz rozcięgna podeszwowego stopy) i Usmana Garuby (zerwanie ścięgna Achillesa). Omar Yurtseven jest nowym nabytkiem, mającym uzupełnić luki na pozycji centra. Baskonia jest bez centra Khalify Diopa (uraz lewego kolana), ale kluczowi gracze ofensywni, tacy jak Markus Howard, Trent Forrest i Timothé Luwawu-Cabarrot, są dostępni do gry."
     }
   ]
 }
