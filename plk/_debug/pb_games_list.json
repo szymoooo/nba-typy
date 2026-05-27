@@ -33149,13 +33149,13 @@
   {
     "home_team": {
       "name": "Legia Warszawa",
-      "score": 54,
+      "score": 61,
       "team_id": 37,
       "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2026.png?v=3"
     },
     "away_team": {
       "name": "Dziki Warszawa",
-      "score": 42,
+      "score": 51,
       "team_id": 40,
       "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2026.png?v=3"
     },
@@ -33200,7 +33200,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 76,
+    "possessions": 90,
     "highest_lead": 0,
     "round_name": "1 mecz",
     "stage_name": "Półfinały",
