@@ -76,6 +76,11 @@ jobs:
           else
             python run_mode.py plk
             MODE=$(cat .run_mode_plk 2>/dev/null || echo "full")
+            # Fallback: jesli idle (moze byc blokada API z GH Actions) -> full
+            if [ "$MODE" = "idle" ]; then
+              echo "  [workflow] idle -> sprawdzam czy to blokada API, uruchamiam full jako fallback"
+              MODE="full"
+            fi
             echo "mode=$MODE" >> $GITHUB_OUTPUT
             echo "PLK mode (auto): $MODE"
           fi
