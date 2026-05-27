@@ -1,8 +1,24 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-27 02:45 ET) ---
-Na podstawie danych z 2026-05-27:
+--- KRYTYCZNY AUDYT LIVE (2026-05-27 06:32 ET) ---
+Na podstawie danych ze stycznia 2026 roku:
 
 **Knicks @ Cavaliers -> Typ: Cavaliers**
 
-*   **Kontekst meczu (wg danych z 2026-05-27):** Zgodnie z aktualnymi informacjami, finały Konferencji Wschodniej (Eastern Conference Finals) między New York Knicks a Cleveland Cavaliers zakończyły się sweepem (4-0) na korzyść Knicks do 25 maja 2026 roku. Oznacza to, że mecz między tymi drużynami nie był zaplanowany na 27 maja 2026 roku.
-*   **Kluczowe braki w składach (dla 2026-05-27):** Brak aktualnych raportów (Injury Report) na tę chwilę. Ze względu na fakt, że seria playoffowa została zakończona przed 27 maja 2026, nie ma dostępnych raportów o kontuzjach dla hipotetycznego meczu w tym dniu.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak meczu zaplanowanego na tę datę oraz brak aktualnych raportów o kontuzjach uniemożliwiają rzetelną analizę i zatwierdzenie typu. Informacje o składach z uwzględnieniem tylko stycznia 2026 (zgodnie z instrukcją) byłyby dodatkowo nieadekwatne dla analizy meczu w maju, biorąc pod uwagę kluczowe zmiany kadrowe, takie jak transfer Karla-Anthony'ego Townsa do Knicks i Jamesa Hardena do Cavaliers w lutym 2026 roku.
+-   **Kluczowe braki w składach (Styczeń 2026):**
+
+    *   **New York Knicks:**
+        *   **Jalen Brunson** (PG): Uraz prawego stawu skokowego (Day-to-day/Out w różnych okresach stycznia). Znaczący cios dla ofensywy.
+        *   **Josh Hart** (SG): Ból prawego stawu skokowego (Day-to-day/Out w różnych okresach stycznia). Wpływa na głębię obwodową.
+        *   **Landry Shamet** (SG): Problem z barkiem (Out na początku stycznia).
+        *   **Karl-Anthony Towns** (C/PF): Wątpliwy (Questionable) z powodu skurczów pleców (koniec stycznia). (Na podstawie dostępnych informacji, Towns znajdował się w składzie Knicks w sezonie 2025-26).
+
+    *   **Cleveland Cavaliers:**
+        *   **Darius Garland** (PG): Naciągnięcie prawego palucha, przewidywana nieobecność do końca stycznia (Out przez cały styczeń). Kluczowa strata rozgrywającego.
+        *   **Max Strus** (SF/SG): Operacja lewej stopy (złamanie Jonesa), przewidywana nieobecność do połowy lutego (Out przez cały styczeń). Znacząca strata strzelca i skrzydłowego.
+        *   **Sam Merrill** (G): Zwichnięcie prawej ręki (Out przez cały styczeń).
+        *   **Dean Wade** (PF): Stłuczenie lewego kolana (Out na początku/w środku stycznia).
+        *   **Chris Livingston** (G/F): Przydział do G-League (Out przez cały styczeń).
+        *   **Luke Travers** (G/F): Problem ze ścięgnem podkolanowym/Przydział do G-League (Out przez cały styczeń).
+
+-   **Werdykt:** [⚠️ RYZYKOWNY]
+
+    Zarówno Knicks, jak i Cavaliers, borykali się ze znaczącymi brakami w składach w styczniu 2026 roku. Cavaliers bez swojego podstawowego rozgrywającego, Dariusa Garlanda, oraz kluczowego strzelca Maxa Strusa, tracą znaczną siłę ognia i kreatywność w ataku. Chociaż Knicks również odczuwali brak Jalena Brunsona i Josha Harta, głębokie urazy w składzie Cavaliers, zwłaszcza na kluczowych pozycjach, czynią typ na ich zwycięstwo bardziej ryzykownym.

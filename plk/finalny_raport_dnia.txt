@@ -1,21 +1,18 @@
---- AUDYT PLK LIVE (2026-05-27 08:47 CET) ---
-📢 **Analiza meczu PLK: Dziki Warszawa @ Legia Warszawa (2026-05-27)**
+--- AUDYT PLK LIVE (2026-05-27 12:34 CET) ---
+Analiza meczu ORLEN Basket Ligi: Dziki Warszawa (gosc) @ Legia Warszawa (gospodarz)
 
 ---
 
-**MECZ: Dziki Warszawa (gosc) @ Legia Warszawa (gospodarz)**
+### **Dziki Warszawa @ Legia Warszawa**
 
-1.  **Kluczowe braki w składach** ⚕️
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Wcześniejsze kontuzje Race'a Thompsona (wrzesień 2025) oraz Michała Kolendy (grudzień 2025) miały miejsce na tyle dawno, że zawodnicy powinni być już w pełni sprawni. Brak aktualnych doniesień o niedostępnościach koszykarzy.
-    *   **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim. Brak aktualnych doniesień o kontuzjach czy zawieszeniach dotyczących koszykarzy.
-
-2.  **Aktualna forma top scorerów** 🏀
-    *   **Brak danych z API dla tej serii.**
-    *   Jednakże, biorąc pod uwagę ogólną formę w sezonie 2025/2026, dla Dzików Warszawa kluczowym strzelcem jest Landrius Horton, który w sezonie zasadniczym zdobywał średnio 18.9 punktu na mecz. Ważnymi punktami są także Darnell Edge i Tahlik Chavez.
-    *   Dla Legii Warszawa wiodącymi strzelcami w sezonie 2025/2026 są DJ Brewton (14.5 Pkt/mecz), Jayvon Graves (13.5 Pkt/mecz) i Andrzej Pluta (12.8 Pkt/mecz).
-
-3.  **Werdykt: [✅ ZATWIERDZONY]**
-    *   Legia Warszawa jest wyżej rozstawionym zespołem i gospodarzem pierwszego meczu półfinałowego. Mecz odbędzie się w hali OSiR Warszawa Bemowo, a wszystkie standardowe bilety zostały wyprzedane, co świadczy o silnym wsparciu gospodarzy.
-    *   Oba zespoły awansowały do półfinału po wygraniu swoich ćwierćfinałowych serii 3-1. Dziki Warszawa sprawiły niespodziankę, eliminując Trefl Sopot.
-    *   Legia przystępuje do półfinału jako faworyt.
-    *   Brak znaczących braków kadrowych w obu drużynach wskazuje na wyrównaną walkę w pełnych składach.
+1.  **Kluczowe braki w składach:**
+    *   ⛹️‍♂️ **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. W grudniu 2025 roku Michał Kolenda zmagał się z urazem stopy, jednak brak jest aktualnych informacji wskazujących na jego niedostępność w maju 2026 roku.
+    *   🐗 **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
+2.  **Aktualna forma top scorerów:**
+    *   📊 Brak danych z API dla tej serii playoff (per-player avg z /playoff-series/851/players/stat-lines). Wiadomo jednak, że Landrius Horton (Dziki) był najlepszym strzelcem ligi w rundzie zasadniczej, a Andrzej Pluta (Legia) zdobył tytuł MVP rundy zasadniczej, co sugeruje ich wysoką formę.
+3.  **Werdykt:**
+    *   ✅ **ZATWIERDZONY**
+        *   Legia Warszawa, jako gospodarz pierwszego meczu półfinałowego, ma przewagę własnego parkietu w OSiR Warszawa Bemowo.
+        *   Oba zespoły przystępują do meczu w pełnych składach, bez zgłoszonych kluczowych kontuzji koszykarskich.
+        *   Spotkanie to otwarcie serii półfinałowej, co oznacza dużą mobilizację obu drużyn. Legia jest wyżej rozstawionym zespołem w tej serii.
+        *   Wysoka forma liderów, takich jak Andrzej Pluta (Legia) i Landrius Horton (Dziki), zapowiada zacięte spotkanie.
