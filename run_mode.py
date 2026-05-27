@@ -46,13 +46,16 @@ def get_plk_games_today():
         season = now_cet().year + 1 if now_cet().month >= 7 else now_cet().year
         url = (f"https://api.pulsbasketu.com/api/v1/league-seasons/plk/"
                f"games-list?season={season}")
+        print(f"  [run_mode] GET {url}")
         r = requests.get(url, headers={
             "User-Agent": "Mozilla/5.0",
             "Accept": "application/json",
             "Origin": "https://pulsbasketu.com",
             "Referer": "https://pulsbasketu.com/",
         }, timeout=10)
+        print(f"  [run_mode] HTTP {r.status_code}, len={len(r.text)}")
         if r.status_code != 200:
+            print(f"  [run_mode] Odpowiedz: {r.text[:200]}")
             return []
         data = r.json()
         games = (data.get("games") if isinstance(data, dict) else None) or \
@@ -63,8 +66,10 @@ def get_plk_games_today():
             d = (g.get("date") or "")[:10]
             if d == today:
                 result.append(g)
+        print(f"  [run_mode] Lacznie meczow w sezonie: {len(games)}, dzis ({today}): {len(result)}")
         return result
-    except Exception:
+    except Exception as e:
+        print(f"  [run_mode] Blad: {e}")
         return []
 
 def get_plk_pick_date():
