@@ -621,7 +621,28 @@ def build_game_cards(events):
 
             outcome_icon = ""
             if is_final:
-                outcome_icon = ' <span style="color:#10b981;">&#10003;</span>' if predicted_winner == actual_winner else ' <span style="color:#ef4444;">&#10007;</span>'
+                outcome_icon = (' <span style="color:#10b981;">&#10003;</span>'
+                                if predicted_winner == actual_winner else
+                                ' <span style="color:#ef4444;">&#10007;</span>')
+
+            # AI reasoning — dla NBA brak per-game AI (audit jest globalny przez gemini_audit.py)
+            # Ale dodajemy placeholder-blok z info o confidence formula
+            reasoning_html = ""
+            if state == "pre":
+                h_w = int(h_pct * 82)
+                h_l = 82 - h_w
+                a_w = int(a_pct * 82)
+                a_l = 82 - a_w
+                reasoning_html = f"""
+                <div style="background:rgba(15,23,42,.8);border-top:1px solid #334155;padding:14px 20px;">
+                    <div style="font-size:.65rem;color:#64748b;text-transform:uppercase;font-weight:700;
+                                letter-spacing:1px;margin-bottom:8px;">📊 Formula Pick</div>
+                    <div style="color:#94a3b8;font-size:.78rem;line-height:1.6;">
+                        {h_name}: {h_record_str} &nbsp;|&nbsp; {a_name}: {a_record_str}<br>
+                        <span style="color:#60a5fa;">Typ oparty na bilansie sezonowym.</span>
+                        Szczegółowa analiza AI w sekcji Lineup Audit poniżej.
+                    </div>
+                </div>"""
 
             cards_html += f"""
             <div class="card">
@@ -645,6 +666,7 @@ def build_game_cards(events):
                     <div class="pred-label">Public AI Model Picks</div>
                     <div class="pred-val">{predicted_winner}{outcome_icon}</div>
                 </div>
+                {reasoning_html}
             </div>
             """
         except Exception as e:

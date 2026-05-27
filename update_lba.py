@@ -107,48 +107,42 @@ def build_prompt(match, table, all_matches, player_stats, today):
     h_name = match.get("h_team_name") or "Home"
     v_name = match.get("v_team_name") or "Away"
 
-    # --- Bilans ogólny ---
     h_row = table.get(h_id) or {}
     v_row = table.get(v_id) or {}
     h_w, h_l = h_row.get("wins", 0), h_row.get("losses", 0)
     v_w, v_l = v_row.get("wins", 0), v_row.get("losses", 0)
     h_pct = round(100 * h_w / max(1, h_w + h_l))
     v_pct = round(100 * v_w / max(1, v_w + v_l))
+    h_net = ld.get_net_rating_simple(table, h_id)
+    v_net = ld.get_net_rating_simple(table, v_id)
 
-    # --- Bilans dom/wyjazd ---
-    h_ha = ld.get_home_away_record(table, h_id)
-    v_ha = ld.get_home_away_record(table, v_id)
+    arena = match.get("plant_name") or "?"
+    city = match.get("town_name") or "?"
+    day_name = match.get("day_name") or "?"
+    hour = ld.fmt_match_time(match)
+    match_serie = match.get("match_serie") or ""
+    serie_wins = match.get("match_hw", 0) or 0
+    serie_losses = match.get("match_vw", 0) or 0
 
-    # --- PPG / PAPG / NetRtg ---
-    h_ppg, h_papg, h_net = ld.get_ppg_papg(table, h_id)
-    v_ppg, v_papg, v_net = ld.get_ppg_papg(table, v_id)
-
-    # --- Forma: streak 15 + ostatnie 5 meczów ---
-    h_streak = ld.get_streak(table, h_id, 15)
-    v_streak = ld.get_streak(table, v_id, 15)
-    h_recent = ld.get_recent_games(table, h_id, 5)
-    v_recent = ld.get_recent_games(table, v_id, 5)
-
-    # --- Top scorerzy z APG/RPG/SPG ---
+    # Top scorers
     h_top = ld.get_top_scorers_by_team(player_stats, h_id, 3)
     v_top = ld.get_top_scorers_by_team(player_stats, v_id, 3)
 
-    # --- H2H ---
+    def fmt_scorers(scorers):
+        if not scorers:
+            return "  - brak danych"
+        return "\n".join(
+            f"  - {s['name']}: {s['ppg']} ppg, {s['mpg']} min/mecz ({s['presences']} meczow)"
+            for s in scorers
+        )
+
+    # H2H
     h2h_text = ld.format_h2h(
         ld.get_h2h_in_season(all_matches, h_id, v_id),
         h_id, h_name, v_id, v_name
     )
 
-    # --- Metadane meczu ---
-    arena = match.get("plant_name") or "?"
-    city = match.get("town_name") or "?"
-    day_name = match.get("day_name") or "?"
-    hour = ld.fmt_match_time(match)
-
-    # --- Stan serii playoff ---
-    match_serie = match.get("match_serie") or ""
-    serie_wins = match.get("match_hw", 0) or 0
-    serie_losses = match.get("match_vw", 0) or 0
+    # Stan serii playoffs
     series_text = ""
     if match_serie:
         series_text = (
@@ -181,65 +175,30 @@ GOSC:      {v_name}
 DANE Z LEGABASKET.IT (sezon 2025/26)
 =========================================================================
 
-BILANS OGOLNY:
-   {h_name}: {h_w}-{h_l} ({h_pct}%)
-   {v_name}: {v_w}-{v_l} ({v_pct}%)
-
-BILANS DOM / WYJAZD:
-   {h_name} u siebie:    {h_ha['wins_home']}-{h_ha['losses_home']}
-   {v_name} na wyjezdzie: {v_ha['wins_away']}-{v_ha['losses_away']}
-
-ATAK / OBRONA (srednie na mecz, sezon zasadniczy):
-   {h_name}: {h_ppg} pkt zdobytych / {h_papg} traconych  (NetRtg {h_net:+})
-   {v_name}: {v_ppg} pkt zdobytych / {v_papg} traconych  (NetRtg {v_net:+})
+BILANS REGULASEZONE:
+   {h_name}: {h_w}-{h_l} ({h_pct}%, NetRtg {h_net:+})
+   {v_name}: {v_w}-{v_l} ({v_pct}%, NetRtg {v_net:+})
 {series_text}
-FORMA - ostatnie 15 wynikow (W=wygrana, najnowszy z prawej):
-   {h_name}: {h_streak}
-   {v_name}: {v_streak}
 
-OSTATNIE 5 MECZOW:
+TOP SCORERZY (sezon zasadniczy):
    {h_name}:
-{ld.format_recent_games(h_recent)}
+{fmt_scorers(h_top)}
    {v_name}:
-{ld.format_recent_games(v_recent)}
+{fmt_scorers(v_top)}
 
-TOP SCORERZY (statystyki sezonowe):
-   {h_name}:
-{ld.format_top_scorers(h_top)}
-   {v_name}:
-{ld.format_top_scorers(v_top)}
-
-H2H W TYM SEZONIE (zakonczone spotkania):
+H2H W TYM SEZONIE:
    {h2h_text}
 
 =========================================================================
 ZADANIE - Google Search dla kazdego punktu:
 =========================================================================
-1. KONTUZJE na {today}:
-   - legabasket.it, basketinside.com, gazzetta.it, X/Twitter klubow
-   - WAZNE: filtruj tylko koszykowke (nie pilka nozna)
-   - Czy lider druzyny jest niezdolny do gry?
+1. KONTUZJE na {today}: gazzetta.it, legabasket.it, basketinside.com, X/Twitter klubow
+   Filtruj TYLKO sekcje koszykarska (nie pilka nozna).
+2. Forma ostatnich 3 meczow obu druzyn
+3. Kontekst fazy (playoff = wieksza waga parkietu domowego)
+4. Kontuzje/foul-outy z poprzedniego meczu serii
 
-2. FOUL-OUTY i TECHNICZNE w poprzednim meczu serii:
-   - Czy ktos dostal 5 fauli lub technicznego w ostatnim meczu?
-
-3. KONTEKST PLAYOFFU (jezeli faza != sezon zasadniczy):
-   - Decydujacy mecz? Druzyna w zagrozeniu eliminacji?
-   - Efekt "playoff desperation" - druzyna eliminowana gra agresywniej
-
-4. FORMA 3 OSTATNICH MECZOW + momentum:
-   - Czy forma pochodzi z gry zespolowej czy z jednego gracza?
-
-WAGA SYGNALOW (od najwazniejszego):
-   1. Aktualne kontuzje liderow
-   2. Forma 3 ostatnich meczow + streak
-   3. Przewaga domowa (LBA: ~60% wygranych u siebie)
-   4. H2H w obecnej serii playoff
-   5. NetRtg + bilans dom/wyjazd
-
-=========================================================================
 ODPOWIEDZ - czysty JSON, bez markdown:
-=========================================================================
 {{
   "winner_name": "<dokladna nazwa: '{h_name}' lub '{v_name}'>",
   "confidence": <1-10>,
@@ -312,18 +271,21 @@ def predict_formula(match, table):
 def predict(match, table, all_matches, player_stats, today):
     h_name = match.get("h_team_name") or "Home"
     v_name = match.get("v_team_name") or "Away"
-    h_id = match.get("h_team_id")
-    v_id = match.get("v_team_id")
     formula = predict_formula(match, table)
     state = ld.match_status(match)
 
+    def _r(winner, reasoning="", key_factors=None, confidence=None, injury_notes=""):
+        return {"winner": winner, "reasoning": reasoning,
+                "key_factors": key_factors or [], "confidence": confidence,
+                "injury_notes": injury_notes or ""}
+
     if state == "post":
-        return formula
+        return _r(formula)
 
     dt = ld.parse_match_dt(match)
     if dt and dt <= datetime.now(CET):
         print(f"   [TIME-skip] {v_name} vs {h_name} -> mecz w trakcie, formula")
-        return formula
+        return _r(formula)
 
     if USE_AI_PREDICTIONS:
         result = predict_ai(match, table, all_matches, player_stats, today)
@@ -342,11 +304,12 @@ def predict(match, table, all_matches, player_stats, today):
                 "injury_notes": result.get("injury_notes", ""),
             })
             time.sleep(1)
-            return result["winner"]
+            return _r(result["winner"], result["reasoning"], result["key_factors"],
+                      result["confidence"], result.get("injury_notes", ""))
         print(f"   [FORMULA-fallback] {v_name} vs {h_name} -> {formula}")
         _ai_log.append({"matchup": f"{v_name} @ {h_name}", "ai_pick": None,
                         "formula_pick": formula, "note": "AI fallback"})
-    return formula
+    return _r(formula)
 
 
 def save_ai_log(today_slug):
@@ -429,11 +392,10 @@ CSS = f"""
 
 
 def build_cards(today_matches, table, all_matches, player_stats, today_slug):
-    cards = picks = summaries = ""
     cards_list = []
     picks_list = []
     summaries_list = []
-    cdn_url = None  # będzie ustawiony z pierwszego meczu
+    cdn_url = None
 
     for m in today_matches:
         try:
@@ -447,7 +409,12 @@ def build_cards(today_matches, table, all_matches, player_stats, today_slug):
             v_score = int(m.get("visitor_final_score") or 0)
 
             state = ld.match_status(m)
-            pick = predict(m, table, all_matches, player_stats, today_slug)
+            pred  = predict(m, table, all_matches, player_stats, today_slug)
+            pick  = pred["winner"]
+            ai_reasoning = pred.get("reasoning", "")
+            ai_factors   = pred.get("key_factors") or []
+            ai_confidence = pred.get("confidence")
+            ai_injury    = pred.get("injury_notes", "")
 
             if state == "pre":
                 tip = ld.fmt_match_time(m)
@@ -458,7 +425,9 @@ def build_cards(today_matches, table, all_matches, player_stats, today_slug):
                 outcome = ""
             elif state == "in":
                 status = "LIVE"
-                score_html = f'<span class="score">{v_score}</span><span class="vs">:</span><span class="score">{h_score}</span>'
+                score_html = (f'<span class="score">{v_score}</span>'
+                              f'<span class="vs">:</span>'
+                              f'<span class="score">{h_score}</span>')
                 summaries_list.append(f"{v_name} vs {h_name} (live): picked {pick}")
                 outcome = ""
             else:
@@ -466,13 +435,41 @@ def build_cards(today_matches, table, all_matches, player_stats, today_slug):
                 actual = h_name if h_score > v_score else (v_name if v_score > h_score else "")
                 hc = "score win" if h_score > v_score else ("score lose" if h_score < v_score else "score")
                 vc = "score win" if v_score > h_score else ("score lose" if v_score < h_score else "score")
-                score_html = f'<span class="{vc}">{v_score}</span><span class="vs">:</span><span class="{hc}">{h_score}</span>'
+                score_html = (f'<span class="{vc}">{v_score}</span>'
+                              f'<span class="vs">:</span>'
+                              f'<span class="{hc}">{h_score}</span>')
                 if actual:
                     summaries_list.append(f"{v_name} vs {h_name}: picked {pick}, {actual} won")
-                    outcome = (' <span style="color:#10b981">&#10003;</span>' if pick == actual
-                               else ' <span style="color:#ef4444">&#10007;</span>')
+                    outcome = (' <span style="color:#10b981">&#10003;</span>'
+                               if pick == actual else
+                               ' <span style="color:#ef4444">&#10007;</span>')
                 else:
                     outcome = ""
+
+            # AI reasoning block
+            reasoning_html = ""
+            if state == "pre" and ai_reasoning:
+                conf_badge = (f'<span style="background:#1e3a5f;color:#60a5fa;font-size:.7rem;'
+                              f'font-weight:900;padding:3px 8px;border-radius:20px;margin-left:8px;">'
+                              f'Pewność: {ai_confidence}/10</span>') if ai_confidence else ""
+                factors_html = ""
+                if ai_factors:
+                    li = "".join(f'<li style="margin-bottom:4px">{f}</li>' for f in ai_factors)
+                    factors_html = (f'<ul style="margin:10px 0 0 0;padding-left:18px;'
+                                    f'color:#94a3b8;font-size:.78rem;line-height:1.5">{li}</ul>')
+                injury_html = ""
+                if ai_injury:
+                    injury_html = (f'<div style="margin-top:8px;padding:8px 10px;'
+                                   f'background:rgba(239,68,68,.08);border-radius:8px;'
+                                   f'color:#fca5a5;font-size:.75rem">🩹 {ai_injury}</div>')
+                reasoning_html = f"""
+              <div style="background:rgba(15,23,42,.8);border-top:1px solid #334155;padding:16px 20px;">
+                <div style="font-size:.65rem;color:#64748b;text-transform:uppercase;font-weight:700;
+                            letter-spacing:1px;margin-bottom:8px;">🤖 AI Reasoning{conf_badge}</div>
+                <div style="color:#cbd5e1;font-size:.82rem;line-height:1.6">{ai_reasoning}</div>
+                {factors_html}
+                {injury_html}
+              </div>"""
 
             live_class = " live" if state == "in" else ""
             cards_list.append(f"""
@@ -493,6 +490,7 @@ def build_cards(today_matches, table, all_matches, player_stats, today_slug):
                 <div class="pred-l">Public AI Model Picks</div>
                 <div class="pred-v">{pick}{outcome}</div>
               </div>
+              {reasoning_html}
             </div>""")
         except Exception as e:
             print(f"   Blad przy meczu LBA: {e}")
