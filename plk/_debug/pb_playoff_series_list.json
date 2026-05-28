@@ -47,7 +47,7 @@
     "stage": "semi_finals",
     "start_date": "2026-05-26T20:15:00",
     "end_date": "2026-06-05T20:15:00",
-    "next_game_date": "2026-05-28T20:15:00",
+    "next_game_date": "2026-05-31T17:00:00",
     "teams": [
       {
         "data": {
@@ -63,7 +63,7 @@
         "higher_seed": true,
         "seed": "6",
         "result": null,
-        "points": 64
+        "points": 147
       },
       {
         "data": {
@@ -75,11 +75,11 @@
           "logo_without_background_path": "teams-logos/t769_l1_s2026.png?v=3",
           "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2026.png?v=3"
         },
-        "wins": 1,
+        "wins": 2,
         "higher_seed": false,
         "seed": "8",
         "result": null,
-        "points": 90
+        "points": 175
       }
     ]
   },
