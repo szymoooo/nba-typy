@@ -1,14 +1,26 @@
 {
-  "generated_at": "2026-05-28T22:59:35.616553",
+  "generated_at": "2026-05-28T23:44:15.068437",
   "date": "2026-05-29",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Barcelona @ Andorra",
-      "ai_pick": null,
+      "phase": "?",
+      "date": "2026-05-29T20:00:00+02:00",
+      "ai_pick": "Barcelona",
       "formula_pick": "Andorra",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "Barcelona znajduje się w znakomitej formie, wygrywając pięć ostatnich meczów w ACB i ma znacznie lepszy bilans sezonowy (23-9) w porównaniu do Andorry (10-23). Dodatkowo, Barcelona zdecydowanie wygrała jedyne bezpośrednie spotkanie w tym sezonie (102-71). Mimo kontuzji kluczowego gracza Barcelony, Willa Clyburna, oraz faktu, że Andorra gra u siebie 'o życie' w walce o utrzymanie, przewaga w formie i jakości drużyny gości jest zbyt duża.",
+      "key_factors": [
+        "Barcelona posiada serię 5 zwycięstw w ostatnich meczach ACB.",
+        "Barcelona wygrała jedyny mecz H2H w tym sezonie wynikiem 102-71.",
+        "Andorra gra u siebie o utrzymanie w lidze, co może wzmocnić ich motywację.",
+        "Will Clyburn z Barcelony jest kontuzjowany.",
+        "Barcelona ma znacznie lepszy bilans sezonowy (23-9) niż Andorra (10-23)."
+      ],
+      "injury_notes": "Will Clyburn z Barcelony jest kontuzjowany z powodu problemów z sercem. Brak istotnych doniesień o kontuzjach kluczowych graczy Andorry na dzień meczu."
     }
   ]
 }
