@@ -1,25 +1,14 @@
 {
-  "generated_at": "2026-05-27T17:26:12.148917",
-  "date": "2026-05-27",
+  "generated_at": "2026-05-28T22:03:52.983959",
+  "date": "2026-05-29",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Baskonia @ Real Madrid",
-      "phase": "?",
-      "date": "2026-05-27T20:00:00+02:00",
-      "ai_pick": "Baskonia",
-      "formula_pick": "Real Madrid",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "Real Madryt jest poważnie osłabiony przez kontuzje kluczowych wysokich graczy (Tavares, Len, Garuba), co znacząco wpływa na ich grę pod koszem. Dodatkowo, Real Madryt znajduje się w słabej formie, przegrywając trzy ostatnie mecze w lidze ACB, podczas gdy Baskonia prezentuje doskonałą dyspozycję, wygrywając cztery ostatnie spotkania, oraz ma korzystny bilans bezpośrednich starć w tym sezonie (3-1).",
-      "key_factors": [
-        "Kontuzje kluczowych graczy Realu Madryt (Tavares, Len, Garuba).",
-        "Doskonała forma Baskonii (4 zwycięstwa z rzędu w ACB).",
-        "Przewaga Baskonii w bezpośrednich meczach w tym sezonie (3-1).",
-        "Słaba ostatnia forma Realu Madryt (3 porażki z rzędu w ACB)."
-      ],
-      "injury_notes": "Real Madryt ma poważne braki kadrowe: Edy Tavares (kontuzja więzadła w lewym kolanie), Alex Len (kontuzja rozcięgna podeszwowego w lewej stopie) i Usman Garuba (kontuzja odniesiona w półfinale Euroligi) są niezdolni do gry lub mocno wątpliwi. Brak istotnych braków w składzie Baskonii."
+      "matchup": "Barcelona @ Andorra",
+      "ai_pick": null,
+      "formula_pick": "Andorra",
+      "note": "AI fallback"
     }
   ]
 }

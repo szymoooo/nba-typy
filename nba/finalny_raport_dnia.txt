@@ -1,26 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-28 15:56 ET) ---
-Zrozumiano. Będę działał jako rygorystyczny analityk NBA, bazując na danych z stycznia 2026 dla składów i dzisiejszych (2026-05-28) raportach o kontuzjach.
+--- KRYTYCZNY AUDYT LIVE (2026-05-28 18:02 ET) ---
+Na podstawie danych z 28 maja 2026 roku dla meczu Thunder @ Spurs:
 
----
+**Thunder @ Spurs**
 
-### Thunder @ Spurs -> Typ: Spurs
-
-#### Thunder @ Spurs
-
-*   **Kluczowe braki w składach (stan na 2026-05-28):**
+*   **Kluczowe braki w składach:**
     *   **Oklahoma City Thunder:**
-        *   Ajay Mitchell: OUT (naciągnięcie mięśnia płaszczkowatego prawej łydki) 🩹
-        *   Jalen Williams: QUESTIONABLE (uraz lewego ścięgna podkolanowego). Wypuścił już mecze 3, 4 i 5.
-        *   Thomas Sorber: OUT (rekonwalescencja po operacji ACL prawego kolana) 🩹
+        *   Ajay Mitchell: Out (Naciągnięcie prawego mięśnia płaszczkowatego) 🤕
+        *   Thomas Sorber: Out (Rekonwalescencja po operacji ACL prawego kolana) 🤕
+        *   Jalen Williams: Questionable (Naciągnięcie lewego ścięgna podkolanowego - zarządzanie urazem) ❓
     *   **San Antonio Spurs:**
-        *   Brak aktualnych raportów o kontuzjach na tę chwilę. Skład Spurs na styczeń 2026 prawdopodobnie obejmował takich graczy jak Victor Wembanyama, Devin Vassell, Keldon Johnson, Jeremy Sochan, De'Aaron Fox i Dylan Harper, bazując na dostępnych danych z tego okresu i okolic.
+        *   Brak aktualnych raportów o kontuzjach. Spurs są w pełni zdrowi. ✅
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-
-    Analiza:
-    Bazując na składach ze stycznia 2026, Thunder prawdopodobnie są silnym, rozwijającym się zespołem z kluczowymi graczami jak Shai Gilgeous-Alexander i Chet Holmgren. Spurs, z kolei, posiadają wschodzącą supergwiazdę Victora Wembanyamę, który jest w stanie dominować w meczach.
-
-    Jednak dzisiejsze (2026-05-28) raporty o kontuzjach mocno wpływają na typ. Thunder zmagają się z poważnymi brakami, w tym z absencją Ajaya Mitchella i niepewnym statusem Jalen Williamsa, który opuścił już wiele meczów z powodu urazu ścięgna podkolanowego. Jalen Williams był All-Starem i opuścił znaczną część sezonu i playoffs z powodu kontuzji. Thomas Sorber również jest poza grą. Te braki, zwłaszcza w obliczu kluczowego meczu (Game 6 Finałów Konferencji Zachodniej, gdzie Thunder prowadzą 3-2), osłabiają rotację Thunder.
-
-    Spurs natomiast, pomimo że są na krawędzi eliminacji, wchodzą w mecz z "czystym raportem kontuzji". Grają na własnym boisku i liczą na odbicie Wembanyamy po słabszym występie. Historycznie, Spurs mają dobry bilans po porażkach u siebie.
-    Biorąc pod uwagę znaczące osłabienia Thunder oraz pełny skład Spurs grających u siebie, typ na Spurs staje się bardziej uzasadniony. Jednakże, OKC prowadzi w serii 3-2, co wskazuje na ich ogólną siłę i zdolność do wygrywania pomimo braków. Mimo to, osłabienia Thunder są na tyle poważne, że czynią ten typ Ryzykownym, ale z potencjalnie wysoką nagrodą dla odważnych.
+*   **Werdykt:** [⚠️ RYZYKOWNY] dla typu "Spurs".
+    *   Chociaż Spurs są w pełni zdrowi, Thunder, pomimo kilku braków (w tym potencjalnie Jalena Williamsa, kluczowego skrzydłowego), pokonali Spurs w Game 5. Mecz jest Game 6 Finałów Konferencji Zachodniej, a Thunder będą dążyć do zakończenia serii, co czyni typ na Spurs ryzykownym. Brak Jalena Williamsa może być osłabieniem, ale OKC nadal ma Shai Gilgeous-Alexandra i Jareda McCaina, którzy dobrze zagrali w poprzednim meczu.
