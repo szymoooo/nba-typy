@@ -1,31 +1,25 @@
 {
-  "generated_at": "2026-05-26T01:52:31.795147",
-  "date": "2026-05-26",
+  "generated_at": "2026-05-29T22:02:26.542457",
+  "date": "2026-05-30",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Dolomiti Energia Trentino @ Virtus Olidata Bologna",
-      "day": "Quarti di Finale - Gara  5",
-      "date": "2026-05-26T20:00:00.000+02:00",
+      "matchup": "Umana Reyer Venezia @ Virtus Olidata Bologna",
+      "day": "Semifinali - Gara 1",
+      "date": "2026-05-30T20:00:00.000+02:00",
       "ai_pick": "Virtus Olidata Bologna",
       "formula_pick": "Virtus Olidata Bologna",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Virtus Olidata Bologna ma przewagę własnego parkietu w decydującym meczu numer 5. Pokazali silną odpowiedź, wygrywając Gara 4 na wyjeździe po dwóch porażkach z rzędu, a wielu graczy przyczyniło się do ich ofensywy. Pomimo kontuzji kluczowych zawodników, Virtus udowodnił, że jest w stanie wygrać w serii.",
+      "reasoning": "Virtus Olidata Bologna ma przewagę własnego parkietu w meczu numer 1 półfinałów i zakończyła swoją serię ćwierćfinałową dwoma zwycięstwami z rzędu po tym, jak znalazła się w niekorzystnej sytuacji 1-2. Pomimo osłabień kadrowych, drużyna z Bolonii pokazała wytrwałość w trudnej serii. Umana Reyer Venezia, choć również przeszła do półfinałów po pięciu meczach, miała bardziej niestabilną formę w ćwierćfinale, przegrywając dwa mecze z rzędu przed decydującym zwycięstwem.",
       "key_factors": [
-        "Przewaga własnego parkietu w Virtus Arena",
-        "Momentum po zwycięstwie w Gara 4",
-        "Głębokość składu i zróżnicowana ofensywa w ostatnim meczu",
-        "Decydujący charakter Gara 5"
+        "Przewaga własnego parkietu Virtus Bologna w Gara 1",
+        "Bardziej stabilna forma Virtus Bologna w końcówce serii ćwierćfinałowej (dwa zwycięstwa z rzędu)",
+        "Głębokość składu Virtus Bologna, która pozwoliła im pokonać deficyt 1-2 w ćwierćfinale",
+        "Poważne kontuzje kluczowych graczy w obu zespołach"
       ],
-      "injury_notes": "Virtus Olidata Bologna bez Alessandro Pajoli i Derricka Alstona Juniora. Dolomiti Energia Trentino ma pełny skład, DeVante' Jones grał w Gara 4."
-    },
-    {
-      "matchup": "Bertram Derthona Tortona @ Umana Reyer Venezia",
-      "ai_pick": null,
-      "formula_pick": "Bertram Derthona Tortona",
-      "note": "AI fallback"
+      "injury_notes": "Virtus Olidata Bologna będzie musiała sobie radzić bez Alessandro Pajoli (koniec sezonu po operacji) i Derricka Alstona Jr. (poza składem na playoffy z powodu złamania ręki). Luca Vildoza (po kontuzji mięśniowej z kwietnia, estymowany czas powrotu 5-6 tygodni, ale w maju wrócił do treningów zespołowych, jego forma meczowa niepewna). Matt Morgan (niepewny, wciąż trenował indywidualnie w maju po kontuzji kostki z lutego).\nUmana Reyer Venezia prawdopodobnie zagra bez Chrisa Hortona (kontuzja mięśniowa z marca, klub szukał zastępstwa, co sugeruje dłuższą przerwę) oraz Stefana Nikolica (poza składem po operacji ręki ze stycznia). Wcześniejsze kontuzje Jordana Parksa i Ky Bowmana z grudnia/stycznia powinny być już zażegnane."
     }
   ]
 }

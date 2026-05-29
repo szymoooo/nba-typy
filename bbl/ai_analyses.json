@@ -1,40 +1,20 @@
 {
-  "generated_at": "2026-05-27T17:27:22.027490",
-  "date": "2026-05-27",
+  "generated_at": "2026-05-29T22:03:35.478704",
+  "date": "2026-05-30",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Wurzburg @ Bonn",
-      "phase": "?",
-      "ai_pick": "Bonn",
-      "formula_pick": "Bonn",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Bonn gra u siebie w decydującym piątym meczu ćwierćfinału play-off BBL, co stanowi istotną przewagę w tej bardzo wyrównanej serii, która obecnie jest remisowa 2-2. Pomimo dominującego zwycięstwa Würzburga w meczu czwartym, Bonn zakończyło sezon zasadniczy na wyższej pozycji i ma silną postawę na własnym parkiecie w kluczowych momentach.",
-      "key_factors": [
-        "Przewaga własnego parkietu dla Bonn w decydującym meczu 5 ćwierćfinału.",
-        "Brak istotnych kontuzji kluczowych graczy po obu stronach.",
-        "Bardzo wyrównany poziom obu drużyn, co widać po bilansach sezonu zasadniczego (Bonn 4. miejsce, Würzburg 5. miejsce) oraz stanie serii play-off (2-2).",
-        "Momentum Würzburga po przekonującym zwycięstwie w meczu 4 (82-70)."
-      ],
-      "injury_notes": "Brak istotnych braków kadrowych zgłoszonych dla obu drużyn na ten mecz. Obie drużyny zagrają w pełnym składzie."
+      "matchup": "Bamberg @ Alba Berlin",
+      "ai_pick": null,
+      "formula_pick": "Alba Berlin",
+      "note": "AI fallback"
     },
     {
-      "matchup": "Vechta @ Alba Berlin",
-      "phase": "?",
-      "ai_pick": "Alba Berlin",
-      "formula_pick": "Alba Berlin",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Alba Berlin, jako gospodarz decydującego meczu numer 5 fazy ćwierćfinałowej, ma przewagę własnego parkietu w wyrównanej serii 2-2. Alba Berlin ma również lepszy bilans sezonowy i historyczny H2H z Vechtą, co przemawia za ich zwycięstwem w tym kluczowym starciu.",
-      "key_factors": [
-        "Faza Playoff: Mecz decydujący (Game 5) w ćwierćfinałach BBL 2025/26.",
-        "Przewaga własnego parkietu dla Alba Berlin w Game 5.",
-        "Lepszy ogólny bilans H2H Alba Berlin (17 zwycięstw do 4 w 21 meczach od 2013 roku; 7-3 w ostatnich 10 meczach).",
-        "Lepszy bilans sezonowy Alba Berlin (24-10 jako 2. seed) w porównaniu do Vechty (17-17 jako 7. seed)."
-      ],
-      "injury_notes": "brak istotnych braków"
+      "matchup": "Bonn @ Bayern",
+      "ai_pick": null,
+      "formula_pick": "Bayern",
+      "note": "AI fallback"
     }
   ]
 }
