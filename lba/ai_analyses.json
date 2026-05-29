@@ -1,26 +1,14 @@
 {
-  "generated_at": "2026-05-29T22:55:38.833886",
+  "generated_at": "2026-05-29T23:43:30.151385",
   "date": "2026-05-30",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Umana Reyer Venezia @ Virtus Olidata Bologna",
-      "day": "Semifinali - Gara 1",
-      "date": "2026-05-30T20:00:00.000+02:00",
-      "ai_pick": "Virtus Olidata Bologna",
+      "ai_pick": null,
       "formula_pick": "Virtus Olidata Bologna",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Virtus Olidata Bologna gra u siebie jako najwyżej rozstawiona drużyna po sezonie zasadniczym LBA 2025/2026, co daje im znaczną przewagę własnego parkietu w fazie play-off. Pomimo poważnych kontuzji kluczowych graczy, takich jak Alessandro Pajola i Derrick Alston Jr., którzy opuszczą resztę sezonu, Virtus pokazał solidną formę w ostatnich meczach ćwierćfinałowych. Umana Reyer Venezia, choć pokazała odporność w wygranej trudnej serii 3-2, będzie musiała sprostać presji gry na wyjeździe w Gara 1 półfinałów.",
-      "key_factors": [
-        "Przewaga własnego parkietu dla Virtus Olidata Bologna w Gara 1.",
-        "Virtus Olidata Bologna zakończył sezon zasadniczy na 1. miejscu, co świadczy o ich dominacji.",
-        "Umana Reyer Venezia będzie zmęczona po rozegraniu 5 meczów w ćwierćfinałach.",
-        "Brak kluczowych graczy Virtus (Pajola, Alston Jr.) osłabia ich skład, co czyni mecz bardziej wyrównanym.",
-        "Umana Reyer Venezia ma wszystkich kluczowych graczy dostępnych, w tym Jordana Parksa i Chrisa Hortona."
-      ],
-      "injury_notes": "Virtus Olidata Bologna ma poważne osłabienia: Alessandro Pajola jest wykluczony do końca sezonu po operacji kolana, którą przeszedł 26 maja 2026 roku. Derrick Alston Jr. opuści play-off z powodu złamania ręki i operacji po kontuzji, której doznał 17 maja 2026 roku. Status Luki Vildozy jest niejasny; według doniesień z kwietnia 2026 roku miał pauzować 5-6 tygodni, ale wcześniejsze raporty z marca 2026 roku wskazywały na jego wykluczenie. Aliou Diarra, pomimo wcześniejszej kontuzji, grał w ostatnim meczu ćwierćfinałowym. Umana Reyer Venezia nie zgłosiła istotnych nowych kontuzji na dzień 30 maja 2026 roku; Jordan Parks i Chris Horton, pomimo wcześniejszych problemów, grali w ostatnim meczu serii ćwierćfinałowej."
+      "note": "AI fallback"
     }
   ]
 }

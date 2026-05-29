@@ -1,23 +1,15 @@
---- AUDYT PLK LIVE (2026-05-30 00:01 CET) ---
-Analiza meczu PLK na 2026-05-29:
-
-### Dziki Warszawa @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-05-30 01:42 CET) ---
+Dla meczu Dziki Warszawa @ Legia Warszawa (2026-05-29):
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Dziki Warszawa:** Łukasz Frąckiewicz (środkowy) zmagał się z problemami z kręgosłupem i nie zagrał w pierwszym meczu półfinału (27.05.2026). Istniało wysokie prawdopodobieństwo, że będzie gotowy do gry w meczu 29.05.2026.
-    *   🏀 **Legia Warszawa:** Race Thompson (skrzydłowy) skręcił staw skokowy w drugiej połowie pierwszego meczu (27.05.2026), co czyniło jego występ w meczu 29.05.2026 niepewnym. Michał Kolenda (kapitan) również był niepewny co do powrotu do gry. Matthias Tass (środkowy), który nie był w kadrze na pierwszy mecz, mógł zastąpić Thompsona.
-    *   Brak istotnych braków w składzie koszykarskim poza wymienionymi.
+    *   🏀 **Dziki Warszawa:** Łukasz Frąckiewicz (środkowy) wrócił do gry pomimo problemów z plecami, chociaż w pierwszym meczu serii był niedostępny.
+    *   🏀 **Legia Warszawa:** Race Thompson doznał urazu stawu skokowego w pierwszym meczu serii i zabrakło go w składzie na mecz 29.05.2026. Jego miejsce w kadrze zajął Matthias Tass. Kapitan Michał Kolenda wrócił do składu, ale nie wystąpił w tym meczu.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   🏀 **Dziki Warszawa:**
-        *   Landrius Horton (średnio 18.9 Pkt/mecz). W meczu 29.05.2026 zdobył 17 punktów.
-        *   Darnell Edge (średnio 16.4 Pkt/mecz).
-        *   Tahlik Chavez (średnio 11.8 Pkt/mecz).
-        *   Grzegorz Kamiński (średnio 10.6 Pkt/mecz). W meczu 29.05.2026 był jednym z liderów punktowych Dzików z 17 punktami.
-    *   🏀 **Legia Warszawa:**
-        *   Dominic Brewton III (średnio 14.6 Pkt/mecz). W meczu 29.05.2026 zdobył 18 punktów.
-        *   Jayvon Graves (średnio 13.4 Pkt/mecz). W meczu 29.05.2026 zdobył 15 punktów.
-        *   Andrzej Pluta (średnio 13.0 Pkt/mecz). Zaprezentował bardzo dobrą formę, zdobywając 20 punktów w pierwszym meczu półfinału (27.05.2026), a w meczu 29.05.2026 był najskuteczniejszym zawodnikiem Legii z 26 punktami.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu w kontekście.
+    *   **Na podstawie dostępnych informacji z meczu 29.05.2026:**
+        *   💪 **Legia Warszawa:** Andrzej Pluta był bohaterem spotkania, zdobywając 26 punktów, w tym 12 w decydującej czwartej kwarcie. Dominic Brewton również zdobył kluczowe punkty.
+        *   💪 **Dziki Warszawa:** Ody Oguama, Tahlik Chavez, Landrius Horton i Darnell Edge byli widoczni w ofensywie.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mimo niepewnej sytuacji kadrowej Legii Warszawa (kontuzja Race'a Thompsona i niepewny powrót Michała Kolendy) oraz potencjalnego powrotu Łukasza Frąckiewicza do składu Dzików, typ na Legię Warszawa okazał się trafiony. Legia Warszawa wygrała drugi mecz półfinału PLK wynikiem 78:76. Świetna forma strzelecka Andrzeja Pluty (26 punktów) była kluczowa dla zwycięstwa Legii.
+    *   Mimo osłabienia Legii brakiem Race'a Thompsona, drużyna Legii Warszawa pokonała Dziki Warszawa 78:76 w drugim meczu półfinału play-off, obejmując prowadzenie 2:0 w serii. Zespół Legii pokazał siłę w końcówce, a Andrzej Pluta wszedł na najwyższy poziom. Dziki, pomimo powrotu Frąckiewicza (grającego z bólem), nie zdołały przełamać Legii.
