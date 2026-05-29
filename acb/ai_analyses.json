@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T06:42:35.516135",
+  "generated_at": "2026-05-29T10:42:12.969273",
   "date": "2026-05-29",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -12,14 +12,14 @@
       "formula_pick": "Andorra",
       "agreement": false,
       "confidence": 9,
-      "reasoning": "Barcelona ma znacznie lepszy bilans w sezonie (23-9 vs 10-23) i wykazuje doskonałą formę, wygrywając 5 ostatnich meczów w ACB. Mimo że Andorra gra u siebie w kluczowym meczu o utrzymanie w lidze (znajduje się w strefie spadkowej na 16. miejscu), jej forma (3 zwycięstwa, 2 porażki w ostatnich 5 meczach) oraz ogólna jakość drużyny są niższe niż Barcelony.",
+      "reasoning": "Barcelona jest zdecydowanie silniejszą drużyną, co widać po ich bilansie sezonowym (23-9 w porównaniu do 10-23 Andorry) i lepszej formie w ostatnich pięciu meczach (4 zwycięstwa). Dodatkowo, Barcelona wygrała jedyne bezpośrednie starcie w tym sezonie różnicą 31 punktów (102-71), a ich kluczowi gracze wrócili do składu po kontuzjach.",
       "key_factors": [
-        "Dominujący bilans sezonowy Barcelony (23-9)",
-        "Doskonała forma Barcelony (seria 5 zwycięstw w ACB)",
-        "Znacząca różnica w jakości i głębi składu obu drużyn",
-        "Kontekst meczu (ostatnia kolejka sezonu zasadniczego) i walka Andorry o utrzymanie"
+        "Powrót kluczowych graczy Barcelony po kontuzjach",
+        "Znacznie lepszy bilans sezonowy Barcelony",
+        "Dominacja Barcelony w bezpośrednich meczach H2H w tym sezonie",
+        "Lepsza aktualna forma Barcelony (4 zwycięstwa w ostatnich 5 meczach ACB)"
       ],
-      "injury_notes": "Brak istotnych braków. Mimo poszukiwań w podanych źródłach (acb.com, marca.com, sport.es, as.com, mundobasket.es, Twitter/X klubów), nie znaleziono żadnych potwierdzonych, koszykarskich kontuzji kluczowych zawodników dla żadnej z drużyn na dzień 29.05.2026. Większość doniesień o kontuzjach dotyczyła sekcji piłkarskich klubów."
+      "injury_notes": "Dla Andorry: brak istotnych braków; wszyscy gracze są dostępni na mecz. Dla Barcelony: kluczowi gracze tacy jak Nico Laprovittola, Tomas Satoransky, Jan Vesely i Will Clyburn powrócili do treningów i są dostępni na mecz."
     }
   ]
 }
