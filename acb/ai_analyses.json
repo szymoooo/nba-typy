@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:42:12.969273",
+  "generated_at": "2026-05-29T11:27:14.338633",
   "date": "2026-05-29",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -11,15 +11,16 @@
       "ai_pick": "Barcelona",
       "formula_pick": "Andorra",
       "agreement": false,
-      "confidence": 9,
-      "reasoning": "Barcelona jest zdecydowanie silniejszą drużyną, co widać po ich bilansie sezonowym (23-9 w porównaniu do 10-23 Andorry) i lepszej formie w ostatnich pięciu meczach (4 zwycięstwa). Dodatkowo, Barcelona wygrała jedyne bezpośrednie starcie w tym sezonie różnicą 31 punktów (102-71), a ich kluczowi gracze wrócili do składu po kontuzjach.",
+      "confidence": 7,
+      "reasoning": "Barcelona, pomimo poważnych kontuzji kluczowych zawodników, prezentuje doskonałą formę, o czym świadczy ich 5-meczowa passa zwycięstw w lidze ACB. Mają również zdecydowanie lepszy bilans sezonowy i dominują w bezpośrednich starciach z Andorrą. Andorra, choć gra u siebie z dużą motywacją wynikającą z walki o utrzymanie, ma znacznie słabszy bilans i ograniczoną siłę składu w porównaniu do Barcelony.",
       "key_factors": [
-        "Powrót kluczowych graczy Barcelony po kontuzjach",
-        "Znacznie lepszy bilans sezonowy Barcelony",
-        "Dominacja Barcelony w bezpośrednich meczach H2H w tym sezonie",
-        "Lepsza aktualna forma Barcelony (4 zwycięstwa w ostatnich 5 meczach ACB)"
+        "Doskonała forma Barcelony (5 zwycięstw z rzędu w ACB)",
+        "Poważne kontuzje kluczowych graczy Barcelony (Clyburn, Vesely, Satoransky, Laprovittola, Kusturica)",
+        "Wysoka motywacja Andorry, walczącej o utrzymanie w lidze",
+        "Dominujący bilans bezpośrednich spotkań Barcelony (1-0 w tym sezonie, 8 z 10 ostatnich)",
+        "Przewaga własnego parkietu dla Andorry"
       ],
-      "injury_notes": "Dla Andorry: brak istotnych braków; wszyscy gracze są dostępni na mecz. Dla Barcelony: kluczowi gracze tacy jak Nico Laprovittola, Tomas Satoransky, Jan Vesely i Will Clyburn powrócili do treningów i są dostępni na mecz."
+      "injury_notes": "Barcelona boryka się z poważnymi kontuzjami: Will Clyburn (problemy zdrowotne, wykluczony na około 4 tygodnie), Jan Vesely (dolegliwości kolana), Nikola Kusturica (skręcenie kostki), Tomas Satoransky (rekonwalescencja lędźwiowa) i Nico Laprovittola (długa rehabilitacja) są niezdolni do gry. W zespole Andorry Stan Okoye powrócił do pełnej rotacji, a Sir'Jabari Rice został sprowadzony w celu wzmocnienia składu po kontuzji Xaviera Castañedy, co sugeruje, że skład Andorry jest obecnie kompletny i gotowy do gry."
     }
   ]
 }
