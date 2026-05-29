@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T00:13:31.856453",
+  "generated_at": "2026-05-29T02:40:08.520293",
   "date": "2026-05-29",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -11,16 +11,15 @@
       "ai_pick": "Barcelona",
       "formula_pick": "Andorra",
       "agreement": false,
-      "confidence": 7,
-      "reasoning": "Barcelona, pomimo braku kluczowych graczy Willa Clyburna (kontuzja serca) i Jan Vesely'ego (emerytura), posiada silniejszy skład i wykazuje doskonałą formę, z pięcioma kolejnymi zwycięstwami w ACB. Dodatkowo, w jedynym tegorocznym bezpośrednim spotkaniu, Barcelona pokonała Andorrę zdecydowanie 102-71. Chociaż Andorra walczy o utrzymanie w lidze na własnym parkiecie, co daje im ogromną motywację, jakość Barcelony powinna przeważyć.",
+      "confidence": 9,
+      "reasoning": "Barcelona jest drużyną z czołówki tabeli ACB w sezonie 2025/26, z bilansem 23 zwycięstw i 9 porażek, podczas gdy Andorra zajmuje dolne rejony tabeli z bilansem około 10 zwycięstw i 23 porażek. Barcelona ma pełny skład bez kontuzji na dzień meczu i jest w doskonałej formie, wygrywając wszystkie 5 ostatnich meczów. Jedyny mecz H2H w tym sezonie ACB zakończył się wysokim zwycięstwem Barcelony (102-71).",
       "key_factors": [
-        "Doskonała forma Barcelony (5 zwycięstw z rzędu)",
-        "Zdecydowane zwycięstwo Barcelony w jedynym meczu H2H w tym sezonie (102-71)",
-        "Kontuzje i brak kluczowych graczy Barcelony (Will Clyburn, Jan Vesely)",
-        "Motywacja Andorry (walka o utrzymanie w lidze)",
-        "Przewaga własnego parkietu dla Andorry"
+        "Barcelona ma pełny skład bez istotnych kontuzji na dzień meczu.",
+        "Barcelona wygrała wszystkie 5 ostatnich meczów w ACB, prezentując doskonałą formę.",
+        "Barcelona wygrała jedyny mecz H2H w sezonie 2025/26 przeciwko Andorze wynikiem 102-71.",
+        "Barcelona jest drużyną z czołówki ligi (bilans 23-9), podczas gdy Andorra walczy o utrzymanie (bilans około 10-23)."
       ],
-      "injury_notes": "Barcelona: Will Clyburn jest wykluczony z gry z powodu problemów z sercem od 4 maja 2026 roku. Jan Vesely ogłosił przejście na emeryturę 12 maja 2026 roku. W kwietniu 2026 roku Tomas Satoransky był pod znakiem zapytania, a Nico Laprovittola był wykluczony z powodu kontuzji w meczu Euroligi, jednak ich obecny status na 29 maja 2026 roku w ACB nie jest jednoznacznie potwierdzony. Andorra: Brak istotnych, potwierdzonych kontuzji kluczowych graczy na dzień 29 maja 2026 roku. Trener Barcelony, Xavi Pascual, oficjalnie ogłosił odejście z klubu po zakończeniu sezonu, co może wprowadzać pewne rozprężenie w drużynie."
+      "injury_notes": "Barcelona: Pełny skład, wszyscy kluczowi gracze, w tym Nico Laprovittola, Tomas Satoransky, Jan Vesely i Will Clyburn, wrócili do treningów grupowych i są dostępni na mecz. Andorra: Brak aktualnych, szczegółowych informacji o kontuzjach na dzień meczu, ale wcześniejsze raporty z marca 2026 wspominały o 'pladze kontuzji' i brak jest informacji o pełnym powrocie wszystkich zawodników do zdrowia."
     }
   ]
 }
