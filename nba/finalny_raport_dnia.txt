@@ -1,30 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-29 13:37 ET) ---
-Na podstawie danych z sieci na styczeń 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-05-29 15:27 ET) ---
+Na podstawie danych z 2026-05-29:
 
-**Spurs @ Thunder**
+**Spurs @ Thunder** -> Typ: Thunder
 
-*   **Kluczowe braki w składach (styczeń 2026):**
-
+*   **Kluczowe braki w składach:**
     *   **San Antonio Spurs:**
-        *   Devin Vassell: Poza składem (Out) - naciągnięcie mięśnia przywodziciela lewej nogi.
-        *   Luke Kornet: Pod znakiem zapytania (Questionable) - napięcie mięśnia przywodziciela lewej nogi.
-        *   Jeremy Sochan: Pod znakiem zapytania (Questionable) - choroba.
-        *   Aaron Wiggins: Pod znakiem zapytania (Questionable) - zespół ciasnoty podpaszkowej prawego biodra.
-        *   David Jones Garcia, Harrison Ingram, Stanley Umude: Poza składem (Out) - przydział do G League (Two-Way).
-        *   Victor Wembanyama: Zgłoszony jako "Day-To-Day" (kolano) na początku stycznia, brak późniejszych raportów o wykluczeniu.
-        *   Główni gracze, tacy jak De'Aaron Fox, są prawdopodobnie dostępni.
-
+        *   David Jones Garcia: Out For Season (kontuzja kostki).
     *   **Oklahoma City Thunder:**
-        *   Alex Caruso: Poza składem (Out) - naciągnięcie mięśnia przywodziciela prawego/kontuzja pleców.
-        *   Isaiah Hartenstein: Poza składem (Out) - naciągnięcie mięśnia płaszczkowatego prawego/łydki.
-        *   Ajay Mitchell: Poza składem (Out) - naciągnięcie mięśni brzucha.
-        *   Thomas Sorber: Poza składem (Out) - rekonwalescencja po operacji ACL prawego kolana/wyeliminowany na sezon.
-        *   Nikola Topic: Poza składem (Out) - rekonwalescencja po operacji pachwiny.
-        *   Jalen Williams: Poza składem (Out) - naciągnięcie mięśnia ścięgnistego prawego uda.
-        *   Jaylin Williams: Poza składem (Out) - kontuzja pięty.
-        *   Cason Wallace: Pod znakiem zapytania (Questionable) - bolesność lewego biodra.
-        *   Główni gracze, tacy jak Shai Gilgeous-Alexander i Chet Holmgren, są prawdopodobnie dostępni.
+        *   Ajay Mitchell: Out (soleus strain).
+        *   Thomas Sorber: Out For Season (zerwane ACL).
+        *   Jalen Williams: Dostępny (grał w Game 6 pomimo wcześniejszych problemów ze ścięgnem podkolanowym).
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-
-    Typ na Thunder jest ryzykowny. Oklahoma City Thunder w styczniu 2026 ma zgłoszonych wielu kluczowych graczy jako "Poza składem", w tym Alexa Caruso, Isaiaha Hartensteina i Jalena Williamsa, co poważnie wpływa na ich rotację i głębię składu. Mimo obecności Shai Gilgeous-Alexandra i Cheta Holmgrena, liczne braki mogą znacząco osłabić zespół. San Antonio Spurs, choć bez Devina Vassella i z kilkoma graczami pod znakiem zapytania, wydają się mieć więcej swojego podstawowego składu dostępnego w porównaniu do Thunder.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Pomimo braku rotacyjnego gracza Ajay'a Mitchella, Thunder rozgrywają Game 7 Finałów Konferencji Zachodniej na własnym parkiecie. Jalen Williams, kluczowy gracz, jest dostępny. Thunder to obrońcy tytułu i posiadają dwukrotnego MVP Shai'a Gilgeous-Alexandra. Gra na wyjeździe w Game 7 jest niezwykle trudna, co faworyzuje gospodarzy.
