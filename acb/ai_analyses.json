@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T02:40:08.520293",
+  "generated_at": "2026-05-29T06:42:35.516135",
   "date": "2026-05-29",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -12,14 +12,14 @@
       "formula_pick": "Andorra",
       "agreement": false,
       "confidence": 9,
-      "reasoning": "Barcelona jest drużyną z czołówki tabeli ACB w sezonie 2025/26, z bilansem 23 zwycięstw i 9 porażek, podczas gdy Andorra zajmuje dolne rejony tabeli z bilansem około 10 zwycięstw i 23 porażek. Barcelona ma pełny skład bez kontuzji na dzień meczu i jest w doskonałej formie, wygrywając wszystkie 5 ostatnich meczów. Jedyny mecz H2H w tym sezonie ACB zakończył się wysokim zwycięstwem Barcelony (102-71).",
+      "reasoning": "Barcelona ma znacznie lepszy bilans w sezonie (23-9 vs 10-23) i wykazuje doskonałą formę, wygrywając 5 ostatnich meczów w ACB. Mimo że Andorra gra u siebie w kluczowym meczu o utrzymanie w lidze (znajduje się w strefie spadkowej na 16. miejscu), jej forma (3 zwycięstwa, 2 porażki w ostatnich 5 meczach) oraz ogólna jakość drużyny są niższe niż Barcelony.",
       "key_factors": [
-        "Barcelona ma pełny skład bez istotnych kontuzji na dzień meczu.",
-        "Barcelona wygrała wszystkie 5 ostatnich meczów w ACB, prezentując doskonałą formę.",
-        "Barcelona wygrała jedyny mecz H2H w sezonie 2025/26 przeciwko Andorze wynikiem 102-71.",
-        "Barcelona jest drużyną z czołówki ligi (bilans 23-9), podczas gdy Andorra walczy o utrzymanie (bilans około 10-23)."
+        "Dominujący bilans sezonowy Barcelony (23-9)",
+        "Doskonała forma Barcelony (seria 5 zwycięstw w ACB)",
+        "Znacząca różnica w jakości i głębi składu obu drużyn",
+        "Kontekst meczu (ostatnia kolejka sezonu zasadniczego) i walka Andorry o utrzymanie"
       ],
-      "injury_notes": "Barcelona: Pełny skład, wszyscy kluczowi gracze, w tym Nico Laprovittola, Tomas Satoransky, Jan Vesely i Will Clyburn, wrócili do treningów grupowych i są dostępni na mecz. Andorra: Brak aktualnych, szczegółowych informacji o kontuzjach na dzień meczu, ale wcześniejsze raporty z marca 2026 wspominały o 'pladze kontuzji' i brak jest informacji o pełnym powrocie wszystkich zawodników do zdrowia."
+      "injury_notes": "Brak istotnych braków. Mimo poszukiwań w podanych źródłach (acb.com, marca.com, sport.es, as.com, mundobasket.es, Twitter/X klubów), nie znaleziono żadnych potwierdzonych, koszykarskich kontuzji kluczowych zawodników dla żadnej z drużyn na dzień 29.05.2026. Większość doniesień o kontuzjach dotyczyła sekcji piłkarskich klubów."
     }
   ]
 }
