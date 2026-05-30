@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-05-30T16:19:43.369579",
+  "generated_at": "2026-05-30T17:37:51.773740",
   "date": "2026-05-30",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Umana Reyer Venezia @ Virtus Olidata Bologna",
-      "ai_pick": null,
+      "day": "Semifinali - Gara 1",
+      "date": "2026-05-30T20:00:00.000+02:00",
+      "ai_pick": "Virtus Olidata Bologna",
       "formula_pick": "Virtus Olidata Bologna",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Virtus Olidata Bologna gra u siebie w Virtus Arena, co w play-offach LBA stanowi znaczącą przewagę. Pomimo poważnych kontuzji kluczowych zawodników, takich jak Alessandro Pajola i Derrick Alston Jr., Virtus zakończył sezon zasadniczy na pierwszym miejscu i ma ugruntowaną historię sukcesów w play-offach. Umana Reyer Venezia pokazała odporność w swojej serii ćwierćfinałowej, ale ich forma przed dzisiejszym meczem była bardziej mieszana.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla Virtus Olidata Bologna",
+        "Znaczące kontuzje kluczowych graczy Virtus Bologna (Pajola, Alston Jr.)",
+        "Silna historia Virtus Bologna w play-offach i pozycja lidera sezonu zasadniczego",
+        "Odporność Umana Reyer Venezia w poprzedniej serii"
+      ],
+      "injury_notes": "Virtus Olidata Bologna ma poważne osłabienia: Alessandro Pajola (rozgrywający) zakończył sezon po operacji kolana, a Derrick Alston Jr. (zdobywca punktów) jest wykluczony z play-off z powodu złamania ręki. Matteo Accorsi jest również niedostępny z powodu zwichnięcia palca. Brak najnowszych informacji o statusie Chrisa Hortona (Umana Reyer Venezia), który w marcu doznał urazu łydki."
     }
   ]
 }

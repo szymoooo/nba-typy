@@ -1,22 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-30 12:18 ET) ---
-Na podstawie danych ze Stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-05-30 13:36 ET) ---
+Na podstawie danych z 2026-05-30 oraz raportów o kontuzjach ze stycznia 2026 dla kontekstu składów:
 
-**Spurs @ Thunder**
+**Spurs @ Thunder -> Typ: Thunder**
 
-*   **Kluczowe braki w składach (Styczeń 2026):**
-    *   🏀 **San Antonio Spurs:**
-        *   Devin Vassell (Out - naciągnięcie przywodziciela lewego uda/udo) 🩹
-        *   Jeremy Sochan (Out/Questionable - choroba) 🤢
-        *   Luke Kornet (Questionable/Out - napięcie przywodziciela lewego uda) 🦵
-        *   David Jones Garcia (Out - G League, kontuzja kostki, poza sezonem od początku lutego) 🚑
-    *   ⚡ **Oklahoma City Thunder:**
-        *   Alex Caruso (Out - naciągnięcie prawego przywodziciela/plecy) 🤕
-        *   Isaiah Hartenstein (Out - naciągnięcie prawego mięśnia płaszczkowatego/łydka) 🦵
-        *   Ajay Mitchell (Out - naciągnięcie mięśni brzucha) 🩺
-        *   Thomas Sorber (Out - zerwanie ACL, rekonwalescencja po operacji/poza sezonem) ❌
-        *   Nikola Topic (Out - rekonwalescencja po operacji/pachwina) 🩹
-        *   Ousmane Dieng (Out - łydka) 🦵
-        *   Jaylin Williams (Out - pięta) 🦶
+*   **Kluczowe braki w składach:**
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę. W styczniu 2026 różni gracze, w tym Devin Vassell, Jeremy Sochan i Victor Wembanyama, mieli zmienny status kontuzji, ale nie ma ich w raporcie z 30 maja 2026.
+    *   **Oklahoma City Thunder:**
+        *   Ajay Mitchell: Out (Injury/Illness - Right Soleus; Strain)
+        *   Thomas Sorber: Out (Injury/Illness - Right ACL; Surgical. Recovery)
+        *   Jalen Williams: Out (Injury/Illness - Left Hamstring; Injury. Management- Strain)
+        W styczniu 2026 Jalen Williams był istotnym graczem Thunder, notując średnio 15.5 punktów, 4.6 zbiórek i 4.9 asyst, a Ajay Mitchell 10.8 punktów, 2.8 zbiórek i 3 asysty w ostatnich 20 meczach przed 7 stycznia 2026 roku.
 
-*   **Werdykt: [✅ ZATWIERDZONY]**
-    *   San Antonio Spurs w styczniu 2026 borykali się z poważnymi brakami kluczowych graczy takich jak Devin Vassell i Jeremy Sochan, co znacząco osłabiło ich siłę ofensywną i defensywną. Pomimo kilku kontuzji w składzie Thunder, ich najważniejsi gracze, tacy jak Shai Gilgeous-Alexander i Chet Holmgren, byli dostępni i stanowili trzon zespołu. Oklahoma City Thunder w styczniu 2026 mieli bardzo dobry bilans (np. 30-7 na 7 stycznia) i wykazali się dominacją w lidze. Zważywszy na osłabienia Spurs, typ na Thunder jest uzasadniony.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Thunder mierzą się z poważnymi osłabieniami, zwłaszcza z absencją Jalen Williamsa i Ajay Mitchella, którzy byli kluczowymi graczami w styczniu 2026. Spurs, zgodnie z raportem z 30 maja 2026, są w pełni sił. Pomimo ogólnej siły Thunder (według ich bilansu w styczniu 2026), znaczące braki sprawiają, że ich zwycięstwo jest bardziej ryzykowne.
