@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T22:16:57.497059",
+  "generated_at": "2026-05-30T22:33:26.852653",
   "date": "2026-05-31",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -12,14 +12,14 @@
       "formula_pick": "Barcelona",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "Barcelona gra na własnym parkiecie i ma lepszy bilans w bezpośrednich starciach w tym sezonie (2-1) przeciwko Valencii. Obie drużyny prezentują dobrą formę w ostatnich meczach ACB, jednak Barcelona ma dłuższą serię zwycięstw, a Valencia ma prawdopodobnie dwóch kontuzjowanych graczy rotacyjnych, Xabiego Lópeza-Arosteguiego i Josepa Puerto.",
+      "reasoning": "Barcelona jest w świetnej formie, wygrywając wszystkie swoje 5 ostatnich meczów w lidze ACB, a dodatkowo gra u siebie, co stanowi istotną przewagę. Posiadają również korzystny bilans bezpośrednich spotkań z Valencią w tym sezonie (2-1). Valencia, mimo dobrej formy w ostatnich meczach, ma bardziej wyraźne problemy z kontuzjami, w tym prawdopodobną absencję Josepa Puerto.",
       "key_factors": [
+        "Doskonała forma Barcelony (5 ostatnich zwycięstw w ACB).",
         "Przewaga własnego parkietu dla Barcelony.",
-        "Lepszy bilans H2H Barcelony w sezonie 2025/26 (2-1).",
-        "Dłuższa seria zwycięstw Barcelony w ostatnich meczach ACB (5-0).",
-        "Prawdopodobne kontuzje kluczowych graczy rotacyjnych w Valencii (Xabi López-Arostegui, Josep Puerto)."
+        "Lepszy bilans H2H Barcelony w tym sezonie (2-1).",
+        "Potwierdzone kontuzje w składzie Valencii (m.in. Josep Puerto)."
       ],
-      "injury_notes": "Dla Barcelony status Willa Clyburna jest niepewny z powodu problemów zdrowotnych (około 4 tygodnie rekonwalescencji od 3 maja 2026), ale inni kluczowi gracze tacy jak Juan Nunez i Dario Brizuela powinni być dostępni. Valencia ma prawdopodobnie dwóch nieobecnych zawodników: Xabi López-Arostegui (kontuzja ścięgna podkolanowego, poza grą od Round 31 i w playoffach EuroLeague) oraz Josep Puerto (kontuzja kostki, opuścił resztę serii playoff EuroLeague). Jean Montero (najlepszy strzelec Valencii) jest zdrowy i w świetnej formie, będąc nazwanym Wschodzącą Gwiazdą EuroLeague 2025-26."
+      "injury_notes": "W Barcelonie brak istotnych nowych kontuzji na dzień meczu w sekcji koszykówki. Valencia ma potwierdzoną kontuzję Josepa Puerto (poza grą 1-2 tygodnie od 7 maja 2026). Wcześniejsze doniesienia (grudzień 2025/maj 2025/2026) sugerują urazy Xabiego Lópeza-Arosteguiego, Stefana Jovicia i Amidy Brimaha, ale ich dokładny status na 31 maja 2026 r. jest niepewny."
     }
   ]
 }
