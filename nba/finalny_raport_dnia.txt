@@ -1,15 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-29 22:32 ET) ---
-Analiza meczu: Spurs @ Thunder
+--- KRYTYCZNY AUDYT LIVE (2026-05-30 02:02 ET) ---
+Na podstawie dzisiejszych danych (2026-05-30):
 
-*   Brak meczu Spurs @ Thunder w dniu 2026-05-29. Zespoły zakończyły Game 6 Western Conference Finals 2026 dnia 2026-05-28, a Game 7 zaplanowano na 2026-05-30. Poniższe raporty o kontuzjach dotyczą zbliżającego się Game 7.
+**Spurs @ Thunder** -> Typ: Thunder
 
-*   **Kluczowe braki w składach (stan na 2026-05-29):**
-    *   **Oklahoma City Thunder**:
-        *   Jalen Williams: Out (Left Hamstring Strain; Injury Management) 🤕. Oficjalnie wykluczony z Game 7.
-        *   Ajay Mitchell: Out (Right Soleus Strain) 🩹. Wykluczony z Game 7.
-        *   Thomas Sorber: Out (Right ACL; Surgical Recovery) 🦵. Nadal poza grą po zerwaniu ACL.
-    *   **San Antonio Spurs**:
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę. Drużyna w pełni zdrowa.
+*   **Kluczowe braki w składach (2026-05-30):**
+    *   **Oklahoma City Thunder:**
+        *   Jalen Williams: OUT (kontuzja lewego ścięgna podkolanowego) 🤕 – kluczowy starter, strzelec obwodowy i wszechstronny obrońca.
+        *   Ajay Mitchell: OUT (kontuzja prawego mięśnia płaszczkowatego) 🤕 – również produktywny gracz, ze średnią 15.1 punktów w playoffs.
+        *   Thomas Sorber: OUT (rekonwalescencja po operacji ACL) 🤕.
+    *   **San Antonio Spurs:**
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę. Zespół jest w pełni zdrowy.
 
-*   **Werdykt dla typu "Thunder"**: [⚠️ RYZYKOWNY]
-    *   Biorąc pod uwagę znaczące osłabienia Thunder, w tym brak kluczowego gracza J. Williamsa, podczas gdy Spurs są w pełni zdrowi, typ na zwycięstwo Thunder jest ryzykowny w kontekście decydującego Game 7.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Zakład na Thunder jest ryzykowny, biorąc pod uwagę osłabienia w kluczowych pozycjach w tak ważnym meczu (Game 7 Finałów Konferencji Zachodniej), podczas gdy Spurs są w pełni sił. Brak J. Williamsa, czołowego strzelca i obrońcy, znacząco obciąża Shai Gilgeous-Alexandra i resztę drużyny.

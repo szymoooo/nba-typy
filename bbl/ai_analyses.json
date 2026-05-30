@@ -1,20 +1,39 @@
 {
-  "generated_at": "2026-05-30T02:35:29.789261",
+  "generated_at": "2026-05-30T06:04:39.742293",
   "date": "2026-05-30",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Bamberg @ Alba Berlin",
-      "ai_pick": null,
+      "phase": "?",
+      "ai_pick": "Alba Berlin",
       "formula_pick": "Alba Berlin",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Alba Berlin gra u siebie w pierwszym meczu półfinałów, a w tym sezonie zasadniczym wygrała dwa z trzech bezpośrednich spotkań z Bambergiem. Dodatkowo, Alba ma świeże doświadczenie w wygrywaniu decydującego meczu u siebie, po tym jak zwyciężyła w Game 5 ćwierćfinału przeciwko Vechcie. Bamberg, mimo że imponująco przeszedł przez ćwierćfinały, wygrywając 3-0, staje przed trudnym wyzwaniem na wyjeździe.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla Alba Berlin w Game 1",
+        "Alba Berlin wygrała 2 z 3 H2H w sezonie 2025/26",
+        "Alba Berlin wygrała Game 5 ćwierćfinału u siebie, budując momentum",
+        "Bamberg zanotował sweep (3-0) w swojej serii ćwierćfinałowej, co świadczy o dobrej formie"
+      ],
+      "injury_notes": "Brak istotnych kontuzji ani zmian w składzie w obu drużynach na dzień 30 maja 2026 roku. Obie drużyny mają do dyspozycji pełne składy."
     },
     {
       "matchup": "Bonn @ Bayern",
-      "ai_pick": null,
+      "phase": "?",
+      "ai_pick": "Bayern",
       "formula_pick": "Bayern",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Bayern przystępuje do tego meczu półfinałowego BBL z wyraźną przewagą wypoczynku, mając tydzień na regenerację po szybkim zwycięstwie 3-0 w ćwierćfinale, podczas gdy Bonn zakończyło swoją pięciomeczową serię zaledwie trzy dni temu. Ponadto, Bayern ma przewagę własnego parkietu oraz wygrał oba wcześniejsze spotkania H2H w tym sezonie.",
+      "key_factors": [
+        "Przewaga wypoczynku dla Bayernu",
+        "Przewaga własnego parkietu dla Bayernu",
+        "Pozytywny bilans H2H dla Bayernu w sezonie 2025/26"
+      ],
+      "injury_notes": "Brak istotnych, nowych kontuzji kluczowych graczy zgłoszonych na 30.05.2026. Andreas Obst z Bayernu wyrażał pewność siebie przed półfinałami. Wcześniejsze kontuzje Bayernu z września 2025 roku (Rokas Jokubaitis, Johannes Voigtmann, Justus Hollatz, Oscar da Silva) prawdopodobnie zostały już rozwiązane, biorąc pod uwagę datę meczu i obecność graczy w składach. Bonn również nie zgłosiło żadnych nowych, kluczowych urazów."
     }
   ]
 }

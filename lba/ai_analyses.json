@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T02:34:21.353806",
+  "generated_at": "2026-05-30T06:03:38.678213",
   "date": "2026-05-30",
   "league": "LBA",
   "model": "gemini-2.5-flash",
@@ -11,15 +11,14 @@
       "ai_pick": "Virtus Olidata Bologna",
       "formula_pick": "Virtus Olidata Bologna",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "Virtus Olidata Bologna, pomimo znaczących kontuzji kluczowych graczy, wykazała się dużą wytrwałością, wygrywając swoją serię ćwierćfinałową w piątym meczu. Gra w Virtus Arena w Gara 1 półfinału stanowi kluczową przewagę własnego parkietu, co jest szczególnie ważne w fazie play-off. Umana Reyer Venezia, choć podobno w pełnym składzie, również miała trudną serię ćwierćfinałową, przegrywając dwa mecze wyjazdowe, co sugeruje, że mogą mieć problemy w trudnym środowisku Bolonii.",
+      "confidence": 7,
+      "reasoning": "Virtus Olidata Bologna, jako najwyżej rozstawiona drużyna, ma silną przewagę własnego parkietu w Gara 1 półfinałów. Pomimo znaczących kontuzji, ich forma w ostatnich meczach play-off była lepsza niż Umana Reyer Venezia, co czyni ich faworytem. Dodatkowo, Virtus zakończyła sezon zasadniczy na pierwszym miejscu w tabeli LBA.",
       "key_factors": [
-        "Przewaga własnego parkietu Virtus Bologna w Gara 1 półfinału.",
-        "Znaczące kontuzje kluczowych graczy Virtus Bologna (Pajola, Alston Jr., prawdopodobnie Hackett).",
-        "Umana Reyer Venezia jest podobno w pełnym składzie.",
-        "Obie drużyny pokazały odporność, wygrywając swoje decydujące piąte mecze w ćwierćfinałach."
+        "Przewaga własnego parkietu Virtus Olidata Bologna w Gara 1 półfinałów.",
+        "Lepsza forma Virtus Olidata Bologna w końcówce ćwierćfinałów (dwie wygrane z rzędu).",
+        "Wyższe rozstawienie Virtus Olidata Bologna w sezonie zasadniczym (1. miejsce z rekordem 23-5)."
       ],
-      "injury_notes": "Virtus Olidata Bologna nie może liczyć na rozgrywającego Alessandro Pajolę i skrzydłowego Derricka Alstona Jr. do końca sezonu z powodu operacji (kontuzja łąkotki i złamanie ręki). Daniel Hackett, również rozgrywający, był również wyłączony z gry z powodu poważnej kontuzji w marcu i prawdopodobnie nadal jest niedostępny lub nie w pełni sprawny. Umana Reyer Venezia jest zgłoszona jako 'al completo' (w pełnym składzie) na dzisiejszy mecz, co sugeruje brak istotnych absencji."
+      "injury_notes": "Virtus Olidata Bologna: Alessandro Pajola (sezon zakończony z powodu kontuzji menisku prawego kolana), Derrick Alston Jr. (sezon zakończony z powodu złamania trzeciej kości śródręcza lewej ręki), Matteo Accorsi (niedostępny na ten mecz). Umana Reyer Venezia: brak istotnych, aktualnych braków na 30.05.2026."
     }
   ]
 }
