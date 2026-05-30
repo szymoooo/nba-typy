@@ -1,25 +1,14 @@
 {
-  "generated_at": "2026-05-30T22:33:26.852653",
+  "generated_at": "2026-05-30T23:16:59.361215",
   "date": "2026-05-31",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Valencia @ Barcelona",
-      "phase": "?",
-      "date": "2026-05-31T20:00:00+02:00",
-      "ai_pick": "Barcelona",
+      "ai_pick": null,
       "formula_pick": "Barcelona",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Barcelona jest w świetnej formie, wygrywając wszystkie swoje 5 ostatnich meczów w lidze ACB, a dodatkowo gra u siebie, co stanowi istotną przewagę. Posiadają również korzystny bilans bezpośrednich spotkań z Valencią w tym sezonie (2-1). Valencia, mimo dobrej formy w ostatnich meczach, ma bardziej wyraźne problemy z kontuzjami, w tym prawdopodobną absencję Josepa Puerto.",
-      "key_factors": [
-        "Doskonała forma Barcelony (5 ostatnich zwycięstw w ACB).",
-        "Przewaga własnego parkietu dla Barcelony.",
-        "Lepszy bilans H2H Barcelony w tym sezonie (2-1).",
-        "Potwierdzone kontuzje w składzie Valencii (m.in. Josep Puerto)."
-      ],
-      "injury_notes": "W Barcelonie brak istotnych nowych kontuzji na dzień meczu w sekcji koszykówki. Valencia ma potwierdzoną kontuzję Josepa Puerto (poza grą 1-2 tygodnie od 7 maja 2026). Wcześniejsze doniesienia (grudzień 2025/maj 2025/2026) sugerują urazy Xabiego Lópeza-Arosteguiego, Stefana Jovicia i Amidy Brimaha, ale ich dokładny status na 31 maja 2026 r. jest niepewny."
+      "note": "AI fallback"
     }
   ]
 }
