@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-28T22:03:13.890116",
-  "date": "2026-05-29",
+  "generated_at": "2026-05-30T22:16:08.778605",
+  "date": "2026-05-31",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Dziki Warszawa @ Legia Warszawa",
+      "matchup": "AMW Arka Gdynia @ ORLEN Zastal Zielona Góra",
       "ai_pick": null,
-      "formula_pick": "Legia Warszawa",
+      "formula_pick": "AMW Arka Gdynia",
       "note": "AI nie zwrocilo wyniku, uzyto formuly W-L"
     }
   ]

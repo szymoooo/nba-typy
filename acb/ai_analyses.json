@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-29T17:38:56.479175",
-  "date": "2026-05-29",
+  "generated_at": "2026-05-30T22:16:57.497059",
+  "date": "2026-05-31",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Barcelona @ Andorra",
+      "matchup": "Valencia @ Barcelona",
       "phase": "?",
-      "date": "2026-05-29T20:00:00+02:00",
+      "date": "2026-05-31T20:00:00+02:00",
       "ai_pick": "Barcelona",
-      "formula_pick": "Andorra",
-      "agreement": false,
+      "formula_pick": "Barcelona",
+      "agreement": true,
       "confidence": 8,
-      "reasoning": "Barcelona ma znacznie lepszy bilans sezonowy (23-9 vs 10-23) i dominuje w bezpośrednich pojedynkach, wygrywając 8 z ostatnich 10 meczów, w tym jedno spotkanie w tym sezonie 102-71. Barcelona jest również w znakomitej formie, notując serię pięciu zwycięstw z rzędu. Mimo że Andorra gra u siebie i walczy o utrzymanie w lidze, co dodaje jej motywacji, ogólna jakość i stabilność Barcelony są znacznie wyższe.",
+      "reasoning": "Barcelona gra na własnym parkiecie i ma lepszy bilans w bezpośrednich starciach w tym sezonie (2-1) przeciwko Valencii. Obie drużyny prezentują dobrą formę w ostatnich meczach ACB, jednak Barcelona ma dłuższą serię zwycięstw, a Valencia ma prawdopodobnie dwóch kontuzjowanych graczy rotacyjnych, Xabiego Lópeza-Arosteguiego i Josepa Puerto.",
       "key_factors": [
-        "Dominujący bilans H2H Barcelony i wysoka wygrana w tym sezonie.",
-        "Znakomita forma Barcelony (5 zwycięstw z rzędu w ACB).",
-        "Znacznie lepszy bilans sezonowy Barcelony (23-9 vs 10-23).",
-        "Wysoka motywacja Andorry (walka o utrzymanie) i przewaga własnego parkietu."
+        "Przewaga własnego parkietu dla Barcelony.",
+        "Lepszy bilans H2H Barcelony w sezonie 2025/26 (2-1).",
+        "Dłuższa seria zwycięstw Barcelony w ostatnich meczach ACB (5-0).",
+        "Prawdopodobne kontuzje kluczowych graczy rotacyjnych w Valencii (Xabi López-Arostegui, Josep Puerto)."
       ],
-      "injury_notes": "Brak istotnych braków zgłoszonych dla kluczowych graczy na dzień 29-05-2026."
+      "injury_notes": "Dla Barcelony status Willa Clyburna jest niepewny z powodu problemów zdrowotnych (około 4 tygodnie rekonwalescencji od 3 maja 2026), ale inni kluczowi gracze tacy jak Juan Nunez i Dario Brizuela powinni być dostępni. Valencia ma prawdopodobnie dwóch nieobecnych zawodników: Xabi López-Arostegui (kontuzja ścięgna podkolanowego, poza grą od Round 31 i w playoffach EuroLeague) oraz Josep Puerto (kontuzja kostki, opuścił resztę serii playoff EuroLeague). Jean Montero (najlepszy strzelec Valencii) jest zdrowy i w świetnej formie, będąc nazwanym Wschodzącą Gwiazdą EuroLeague 2025-26."
     }
   ]
 }
