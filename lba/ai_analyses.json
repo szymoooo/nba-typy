@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-05-30T15:16:03.338269",
+  "generated_at": "2026-05-30T16:19:43.369579",
   "date": "2026-05-30",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Umana Reyer Venezia @ Virtus Olidata Bologna",
-      "day": "Semifinali - Gara 1",
-      "date": "2026-05-30T20:00:00.000+02:00",
-      "ai_pick": "Virtus Olidata Bologna",
+      "ai_pick": null,
       "formula_pick": "Virtus Olidata Bologna",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Virtus Olidata Bologna, grając u siebie w Gara 1 półfinału, będzie czerpać z przewagi własnego parkietu, która jest kluczowa w play-offach, oraz z silnej kadry, mimo ważnych kontuzji Pajoli i Alstona Jr. Reyer Venezia przystępuje do meczu w pełnym składzie, co daje im atut, jednak Virtus pokazał odporność i dobrą formę, wygrywając ostatnie mecze ćwierćfinałowe. Ich pozycja lidera sezonu zasadniczego również przemawia za gospodarzami.",
-      "key_factors": [
-        "Przewaga własnego parkietu Virtus Bologna w kluczowej fazie play-off.",
-        "Znaczące kontuzje w składzie Virtus Bologna (Pajola, Alston Jr.).",
-        "Pełny skład Umana Reyer Venezia oraz ich forma po zaciętej serii ćwierćfinałowej."
-      ],
-      "injury_notes": "Virtus Olidata Bologna ma poważne osłabienia: Alessandro Pajola jest wykluczony do końca sezonu po operacji kolana, a Derrick Alston Jr. również zakończył sezon z powodu złamania ręki. Umana Reyer Venezia przystąpi do meczu w pełnym składzie, bez istotnych braków."
+      "note": "AI fallback"
     }
   ]
 }

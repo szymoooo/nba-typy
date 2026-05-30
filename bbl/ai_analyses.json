@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-05-30T15:16:44.609896",
+  "generated_at": "2026-05-30T16:20:27.343692",
   "date": "2026-05-30",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Bamberg @ Alba Berlin",
-      "phase": "?",
-      "ai_pick": "Alba Berlin",
+      "ai_pick": null,
       "formula_pick": "Alba Berlin",
-      "agreement": true,
-      "confidence": 6,
-      "reasoning": "Mecz pomiędzy Alba Berlin a Bamberg Baskets na dzień 30 maja 2026 roku to w rzeczywistości pierwszy mecz półfinału play-off BBL, a nie mecz sezonu zasadniczego, jak błędnie podano w zapytaniu. Alba Berlin, jako wyżej rozstawiona drużyna (2. miejsce w sezonie zasadniczym z bilansem 24-10, w porównaniu do 3. miejsca Bambergu z bilansem 24-10), ma przewagę własnego parkietu w tej serii. Pomimo niedawnego zwycięstwa Bamberg Baskets nad Alba Berlin w finale Pucharu BBL 2026 (74:72) i ich imponującego awansu do półfinału po wygranej 3-0 w ćwierćfinale, atut własnej hali dla Alba Berlin jest znaczącym czynnikiem w otwarciu serii play-off.",
-      "key_factors": [
-        "Mecz jest Game 1 półfinału play-off BBL, a nie meczem sezonu zasadniczego.",
-        "Alba Berlin ma przewagę własnego parkietu jako drużyna wyżej rozstawiona (2. miejsce w sezonie zasadniczym).",
-        "Bamberg Baskets wygrały Puchar BBL 2026, pokonując Alba Berlin w finale, co wskazuje na ich zdolność do wygrywania ważnych spotkań z tym rywalem.",
-        "Bamberg Baskets awansowały do półfinału po zwycięstwie 3-0 w ćwierćfinale, co świadczy o ich dobrej bieżącej formie."
-      ],
-      "injury_notes": "Brak istotnych kontuzji kluczowych graczy Alba Berlin lub Bamberg Baskets zgłoszonych na dzień 30 maja 2026 roku."
+      "note": "AI fallback"
     }
   ]
 }
