@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T08:44:53.294503",
+  "generated_at": "2026-05-30T10:01:47.542705",
   "date": "2026-05-30",
   "league": "BBL",
   "model": "gemini-2.5-flash",
@@ -7,17 +7,17 @@
     {
       "matchup": "Bamberg @ Alba Berlin",
       "phase": "?",
-      "ai_pick": "Bamberg",
+      "ai_pick": "Alba Berlin",
       "formula_pick": "Alba Berlin",
-      "agreement": false,
+      "agreement": true,
       "confidence": 7,
-      "reasoning": "Bamberg wchodzi w ten mecz z imponującą passą 7 zwycięstw z rzędu, co świadczy o ich doskonałej formie w fazie playoff. Mimo że Alba Berlin gra u siebie, a w bezpośrednich starciach w sezonie zasadniczym obie drużyny wygrały na własnym parkiecie, obecna dynamika i seria zwycięstw Bambergu dają im przewagę w tym kluczowym szóstym meczu półfinału.",
+      "reasoning": "Alba Berlin gra u siebie, co jest znaczącą przewagą w meczach playoff BBL. Dodatkowo, Alba Berlin wygrała oba spotkania ligowe z Bambergiem w sezonie 2025/26 (2-0 H2H). Chociaż Bamberg ma imponującą serię pięciu zwycięstw z rzędu, w tym awansując do półfinału poprzez sweep, przewaga własnego parkietu i wcześniejsze wyniki w lidze przemawiają na korzyść gospodarzy.",
       "key_factors": [
-        "Bamberg ma serię 7 zwycięstw z rzędu w BBL i Pucharze Niemiec, wliczając zwycięstwa w playoffach.",
-        "Mecz jest szóstym spotkaniem półfinałowym playoffów BBL, co oznacza bardzo wysokie stawki dla obu drużyn.",
-        "Alba Berlin ma przewagę własnego parkietu, a w sezonie zasadniczym H2H oba zespoły wygrywały u siebie."
+        "Przewaga własnego parkietu dla Alba Berlin (mecz w Berlinie).",
+        "Alba Berlin prowadzi 2-0 w bezpośrednich meczach w sezonie zasadniczym 2025/26.",
+        "Bamberg jest w świetnej formie, wygrywając 5 ostatnich meczów (w tym 3-0 w ćwierćfinałach playoff)."
       ],
-      "injury_notes": "Brak istotnych kontuzji kluczowych graczy obu drużyn na 30.05.2026. Wcześniej Ibi Watson z Bambergu był oszczędzany, ale nie ma potwierdzonych aktualnych braków."
+      "injury_notes": "Brak istotnych, potwierdzonych kontuzji kluczowych graczy w obu drużynach na dzień 30.05.2026. Martin Hermannsson z Alba Berlin, który doznał kontuzji kciuka w lutym 2026 i miał pauzować około sześciu tygodni, powinien być dostępny do gry."
     },
     {
       "matchup": "Bonn @ Bayern",
@@ -26,13 +26,14 @@
       "formula_pick": "Bayern",
       "agreement": true,
       "confidence": 9,
-      "reasoning": "Mecz pomiędzy Bayernem Monachium a Telekom Baskets Bonn, zaplanowany na 30 maja 2026, to w rzeczywistości pierwszy mecz półfinału play-off BBL, a nie spotkanie sezonu zasadniczego. Bayern, jako najlepsza drużyna sezonu zasadniczego, posiada przewagę własnego parkietu i jest w doskonałej formie, wygrywając wszystkie pięć ostatnich spotkań ligowych. Dodatkowo, Bayern dominował w bezpośrednich starciach z Bonn w bieżącym sezonie, wygrywając oba mecze.",
+      "reasoning": "Bayern zakończył sezon zasadniczy na pierwszym miejscu z bilansem 29-5 i z łatwością przeszedł przez ćwierćfinały, co dało im więcej odpoczynku. Bonn natomiast stoczyło zacięty, pięciomeczowy bój w ćwierćfinałach i ma negatywny bilans bezpośrednich spotkań w tym sezonie przeciwko Bayernowi. Bayern dodatkowo posiada silną przewagę własnego parkietu.",
       "key_factors": [
-        "Bayern gra u siebie (przewaga własnego parkietu w meczu play-off)",
-        "Dominujący bilans H2H Bayernu w sezonie 2025/26 (2-0)",
-        "Doskonała forma Bayernu (5 zwycięstw w ostatnich 5 meczach BBL)"
+        "Większy odpoczynek Bayernu po szybkim zwycięstwie 3-0 w ćwierćfinałach.",
+        "Zacięta pięciomeczowa seria Bonn w ćwierćfinałach (3-2) mogła wpłynąć na zmęczenie drużyny.",
+        "Dominująca forma Bayernu w sezonie zasadniczym (29-5) i doskonały bilans na własnym parkiecie (16-1).",
+        "Pozytywny bilans H2H Bayernu w tym sezonie (2-0) oraz pięć kolejnych zwycięstw nad Bonn."
       ],
-      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 30.05.2026."
+      "injury_notes": "Brak istotnych, potwierdzonych kontuzji kluczowych graczy dla obu drużyn na dzień meczu 30.05.2026."
     }
   ]
 }

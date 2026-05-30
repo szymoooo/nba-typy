@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T08:43:32.327144",
+  "generated_at": "2026-05-30T09:59:44.438253",
   "date": "2026-05-30",
   "league": "LBA",
   "model": "gemini-2.5-flash",
@@ -12,14 +12,13 @@
       "formula_pick": "Virtus Olidata Bologna",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "Virtus Olidata Bologna gra u siebie w pierwszym meczu półfinałów, co tradycyjnie daje im znaczną przewagę w fazie play-off. Mimo osłabień kontuzjami kluczowych graczy, Virtus pokonała Dolomiti Energia Trentino w trudnej, pięciomeczowej serii ćwierćfinałowej, wygrywając dwa ostatnie spotkania. Umana Reyer Venezia również awansowała po pięciomeczowej serii, jednak przegrała dwa z trzech ostatnich spotkań.",
+      "reasoning": "Virtus Olidata Bologna, grając u siebie w Gara 1, jest faworytem ze względu na pierwsze miejsce w sezonie zasadniczym i udokumentowaną przewagę w poprzednich seriach playoff przeciwko Reyer Venezia (bilans 6-3). Mimo iż obie drużyny podzieliły się zwycięstwami w sezonie regularnym (1-1), Virtus wykazuje lepszą formę w ostatnich trzech meczach playoff, wygrywając dwa z nich.",
       "key_factors": [
-        "Przewaga własnego parkietu Virtus Bologna w Gara 1",
-        "Wyższa pozycja Virtus Bologna w sezonie zasadniczym (1. miejsce vs 4. miejsce)",
-        "Kontuzje kluczowych graczy Virtus Bologna (Pajola, Alston)",
-        "Obie drużyny są po wymagających seriach ćwierćfinałowych"
+        "Przewaga własnego parkietu Virtus Olidata Bologna w Gara 1.",
+        "Lepsza pozycja Virtus w tabeli sezonu regularnego (1. miejsce vs 4. miejsce).",
+        "Udokumentowana przewaga Virtus w bezpośrednich spotkaniach playoff z Reyer Venezia (bilans 6-3)."
       ],
-      "injury_notes": "Virtus Olidata Bologna: Derrick Alston Jr. jest poza grą do końca sezonu z powodu złamania ręki [cite: 13 from previous searches, 15 from previous searches]. Alessandro Pajola również zakończył sezon po operacji kolana [cite: 12 from previous searches]. Matteo Accorsi jest niedostępny na ten mecz [cite: 14 from previous searches]. Umana Reyer Venezia: Brak istotnych braków. Chris Horton jest zdrowy i grał w ostatnich meczach serii ćwierćfinałowej [cite: 4 from previous searches, 5 from previous searches, 8 from current search]."
+      "injury_notes": "Virtus Olidata Bologna: Alessandro Pajola (sezon zakończony po operacji kolana, 28 maja 2026), Derrick Alston Jr. (sezon zakończony z powodu złamania ręki, 17 maja 2026), Matteo Accorsi (zwichnięcie palca, 30 kwietnia 2026). Umana Reyer Venezia: brak istotnych braków."
     }
   ]
 }

@@ -1,30 +1,17 @@
---- AUDYT PLK LIVE (2026-05-30 10:42 CET) ---
-Analiza meczu: Dziki Warszawa @ Legia Warszawa (2026-05-29)
+--- AUDYT PLK LIVE (2026-05-30 11:58 CET) ---
+Analiza dla meczu Dziki Warszawa @ Legia Warszawa:
 
-*   **1. Kluczowe braki w składach:**
-    *   **Legia Warszawa:**
-        *   Race Thompson (silny skrzydłowy/środkowy): Doznał podkręcenia stawu skokowego w drugiej połowie meczu nr 1 półfinałów PLK i jego występ w meczu nr 2 był wątpliwy.
-        *   Matthias Tass (środkowy): Był poza kadrą meczową w meczu nr 1 i w kilku meczach ćwierćfinałowych, głównie z powodu kontuzji w tym sezonie. Był potencjalnym zastępcą Thompsona.
-        *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim Legii na dzień 29.05.2026.
-    *   **Dziki Warszawa:**
-        *   Łukasz Frąckiewicz (środkowy): Nie zagrał w meczu nr 1 z powodu problemów z kręgosłupem i ostatecznie nie wszedł na parkiet w meczu nr 2, mimo rozgrzewki.
-        *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim Dzików na dzień 29.05.2026.
+### Dziki Warszawa @ Legia Warszawa
 
-*   **2. Aktualna forma top scorerów (z meczu nr 2, 29.05.2026):**
-    *   Mecz nr 2 odbył się 29.05.2026 w Hali OSiR Bemowo w Warszawie, Legia Warszawa wygrała z Dzikami Warszawa 78:76.
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta: 26 punktów, 5 zbiórek, 3 asysty w meczu nr 2. W meczu nr 1 zdobył 20 punktów.
-        *   Dominic Brewton III (DJ Brewton): 18 punktów, 6 zbiórek w meczu nr 2. W meczu nr 1 zdobył 17 punktów.
-        *   Jayvon Graves: 15 punktów w meczu nr 2. W meczu nr 1 zdobył 10 punktów.
-    *   **Dziki Warszawa:**
-        *   Grzegorz Kamiński: 17 punktów w meczu nr 2.
-        *   Landrius Horton: 17 punktów w meczu nr 2. Jest także wiodącym strzelcem Dzików w sezonie (18.8 Pkt/mecz).
-        *   Darnell Edge: 15 punktów, 7 asyst, 7 zbiórek w meczu nr 2. Średnia w sezonie 16.3 Pkt/mecz, przed półfinałami playoff średnia 18 punktów.
+1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Race Thompson jest kontuzjowany (uraz stawu skokowego) i zabrakło go w meczu 2. serii półfinałowej 29.05.2026. Jego występ w kolejnych meczach serii jest niepewny. Matthias Tass, który znalazł się poza kadrą w meczu 1, zagrał w meczu 2 i może zastąpić Thompsona. Kapitan Michał Kolenda powrócił do składu, ale nie wystąpił w meczu 2 serii.
+    *   **Dziki Warszawa:** Łukasz Frąckiewicz zmagał się z problemami z plecami i nie zagrał w meczu 1, ale powrócił do gry w meczu 2 serii, mimo bólu.
+    *   Brak innych istotnych braków w składzie koszykarskim obu drużyn na dzień 2026-05-30.
 
-*   **3. Werdykt:**
-    *   Mecz nr 2 półfinału PLK, Legia Warszawa prowadzi w serii 1-0. Legia gra u siebie w Hali OSiR Bemowo w Warszawie.
-    *   Legia ma kontuzjowanego Race'a Thompsona. Dziki mają wykluczonego Łukasza Frąckiewicza. Obie drużyny z istotnymi osłabieniami na pozycji środkowego/silnego skrzydłowego.
-    *   Forma strzelecka liderów obu zespołów jest wysoka.
-    *   Mecz nr 2 był bardzo wyrównany i Legia wygrała jedynie dwoma punktami (78:76).
-    *   Legia jest obrońcą tytułu i ma przewagę własnego parkietu w tym meczu.
-    *   **Werdykt: [⚠️ RYZYKOWNY]** Mimo prowadzenia w serii i atutu własnego parkietu, kontuzja Race'a Thompsona oraz bardzo wyrównany przebieg meczu nr 2, który Legia wygrała zaledwie dwoma punktami, wskazują na wysoką niepewność.
+2.  **Aktualna forma top scorerów:**
+    *   **Legia Warszawa:** Andrzej Pluta zdobył 26 punktów w meczu numer 2 półfinału (29.05.2026), w tym 12 w decydującej czwartej kwarcie, będąc kluczowym graczem. Dominic Brewton III również zanotował 18 punktów w tym meczu. Jayvon Graves zdobył 15 punktów.
+    *   **Dziki Warszawa:** Landrius Horton zdobył 18.8 pkt/mecz w sezonie 2025/2026. Darnell Edge miał 16.3 pkt/mecz, a Tahlik Chavez 11.7 pkt/mecz. W meczu 2 serii (29.05.2026) Horton i Krzysztof Kempa byli skuteczni, choć nie podano ich konkretnych punktacji w źródle.
+    *   Brak danych z API dla tego zespołu w kontekście bieżącej serii.
+
+3.  **Werdykt:**
+    *   [⚠️ RYZYKOWNY] dla Legii Warszawa. Pomimo wygranych w pierwszych dwóch meczach serii i prowadzenia 2:0, kontuzja kluczowego gracza, Race'a Thompsona, jest istotnym osłabieniem. Choć Matthias Tass zagrał w meczu 2, to jego forma po wcześniejszych kontuzjach (wspominanych w zapowiedzi meczu) i nieregularnej grze w sezonie może stanowić niewiadomą. Dziki, mimo problemów Frąckiewicza, zdołały go wystawić w meczu 2, co pokazuje ich determinację. Biorąc pod uwagę fazę play-off i potencjalnie rosnącą presję, brak pełnej dyspozycji lidera Legii zwiększa ryzyko.

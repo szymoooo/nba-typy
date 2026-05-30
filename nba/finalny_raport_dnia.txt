@@ -1,16 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-30 04:41 ET) ---
-Typ: Thunder
-
----
+--- KRYTYCZNY AUDYT LIVE (2026-05-30 05:58 ET) ---
+Na podstawie danych ze STYCZNIA 2026:
 
 **Spurs @ Thunder**
-
-*   **Kluczowe braki w składach:**
-    *   **San Antonio Spurs:** Brak aktualnych, istotnych braków w składzie na dzień 30.05.2026. D. Jones Garcia jest poza składem na cały sezon z powodu operacji kostki (informacja z lutego 2026).
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Kontuzja uda/przywodziciela (Out/Sidelined) przez większą część stycznia.
+        *   Victor Wembanyama: Uraz kolana (Day-To-Day) na początku stycznia.
+        *   Jeremy Sochan: Choroba (Questionable/Sidelined) pod koniec stycznia.
+        *   Luke Kornet: Uraz przywodziciela (Questionable/Out) pod koniec stycznia.
     *   **Oklahoma City Thunder:**
-        *   Jalen Williams: Out (kontuzja lewego ścięgna podkolanowego).
-        *   Ajay Mitchell: Out (naciągnięcie prawego mięśnia płaszczkowatego).
-        *   Thomas Sorber: Out (rekonwalescencja po operacji prawego ACL).
+        *   Thomas Sorber: Zerwane ACL (Out for Season).
+        *   Isaiah Hartenstein: Kontuzja mięśnia płaszczkowatego/łydki (Out) przez większość stycznia.
+        *   Alex Caruso: Naciągnięcie przywodziciela/plecy (Out) przez większość stycznia.
+        *   Ajay Mitchell: Naciągnięcie mięśni brzucha (Out) przez większość stycznia.
+        *   Nikola Topic: Uraz pachwiny/po operacji (Out) przez większość stycznia.
+        *   Jalen Williams: Naciągnięcie ścięgna podkolanowego (Out) pod koniec stycznia (przewidywano kilka tygodni absencji).
+        *   Jaylin Williams: Stłuczenie pośladka/pięta (Questionable) pod koniec stycznia.
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ jest ryzykowny, ponieważ Oklahoma City Thunder ma kilku kluczowych graczy wykluczonych z gry z powodu kontuzji, w tym Jalen Williamsa i Ajay Mitchella, którzy są ważnymi ogniwami drużyny. Spurs natomiast dysponują pełnym składem.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Pomimo licznych kontuzji, Oklahoma City Thunder utrzymywali bardzo dobrą formę w styczniu 2026, notując bilans 8-3 i prowadząc w lidze z wynikiem 37-8. Kluczowi gracze, tacy jak Shai Gilgeous-Alexander i Chet Holmgren, byli dostępni i stanowili trzon zespołu. Spurs również borykali się z ważnymi absencjami, w tym Devina Vassella i Victora Wembanyamy (na początku stycznia). Siła składu i forma Thunder wskazują, że typ jest uzasadniony.
