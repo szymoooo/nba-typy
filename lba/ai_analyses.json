@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T09:59:44.438253",
+  "generated_at": "2026-05-30T15:16:03.338269",
   "date": "2026-05-30",
   "league": "LBA",
   "model": "gemini-2.5-flash",
@@ -11,14 +11,14 @@
       "ai_pick": "Virtus Olidata Bologna",
       "formula_pick": "Virtus Olidata Bologna",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "Virtus Olidata Bologna, grając u siebie w Gara 1, jest faworytem ze względu na pierwsze miejsce w sezonie zasadniczym i udokumentowaną przewagę w poprzednich seriach playoff przeciwko Reyer Venezia (bilans 6-3). Mimo iż obie drużyny podzieliły się zwycięstwami w sezonie regularnym (1-1), Virtus wykazuje lepszą formę w ostatnich trzech meczach playoff, wygrywając dwa z nich.",
+      "confidence": 7,
+      "reasoning": "Virtus Olidata Bologna, grając u siebie w Gara 1 półfinału, będzie czerpać z przewagi własnego parkietu, która jest kluczowa w play-offach, oraz z silnej kadry, mimo ważnych kontuzji Pajoli i Alstona Jr. Reyer Venezia przystępuje do meczu w pełnym składzie, co daje im atut, jednak Virtus pokazał odporność i dobrą formę, wygrywając ostatnie mecze ćwierćfinałowe. Ich pozycja lidera sezonu zasadniczego również przemawia za gospodarzami.",
       "key_factors": [
-        "Przewaga własnego parkietu Virtus Olidata Bologna w Gara 1.",
-        "Lepsza pozycja Virtus w tabeli sezonu regularnego (1. miejsce vs 4. miejsce).",
-        "Udokumentowana przewaga Virtus w bezpośrednich spotkaniach playoff z Reyer Venezia (bilans 6-3)."
+        "Przewaga własnego parkietu Virtus Bologna w kluczowej fazie play-off.",
+        "Znaczące kontuzje w składzie Virtus Bologna (Pajola, Alston Jr.).",
+        "Pełny skład Umana Reyer Venezia oraz ich forma po zaciętej serii ćwierćfinałowej."
       ],
-      "injury_notes": "Virtus Olidata Bologna: Alessandro Pajola (sezon zakończony po operacji kolana, 28 maja 2026), Derrick Alston Jr. (sezon zakończony z powodu złamania ręki, 17 maja 2026), Matteo Accorsi (zwichnięcie palca, 30 kwietnia 2026). Umana Reyer Venezia: brak istotnych braków."
+      "injury_notes": "Virtus Olidata Bologna ma poważne osłabienia: Alessandro Pajola jest wykluczony do końca sezonu po operacji kolana, a Derrick Alston Jr. również zakończył sezon z powodu złamania ręki. Umana Reyer Venezia przystąpi do meczu w pełnym składzie, bez istotnych braków."
     }
   ]
 }

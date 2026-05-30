@@ -1,17 +1,26 @@
---- AUDYT PLK LIVE (2026-05-30 11:58 CET) ---
-Analiza dla meczu Dziki Warszawa @ Legia Warszawa:
+--- AUDYT PLK LIVE (2026-05-30 17:15 CET) ---
+Analiza meczu: Dziki Warszawa @ Legia Warszawa
 
-### Dziki Warszawa @ Legia Warszawa
+Data meczu (audytowanego typu): 2026-05-29
 
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Race Thompson jest kontuzjowany (uraz stawu skokowego) i zabrakło go w meczu 2. serii półfinałowej 29.05.2026. Jego występ w kolejnych meczach serii jest niepewny. Matthias Tass, który znalazł się poza kadrą w meczu 1, zagrał w meczu 2 i może zastąpić Thompsona. Kapitan Michał Kolenda powrócił do składu, ale nie wystąpił w meczu 2 serii.
-    *   **Dziki Warszawa:** Łukasz Frąckiewicz zmagał się z problemami z plecami i nie zagrał w meczu 1, ale powrócił do gry w meczu 2 serii, mimo bólu.
-    *   Brak innych istotnych braków w składzie koszykarskim obu drużyn na dzień 2026-05-30.
+1.  **Kluczowe braki w składach koszykarskich:**
+    *   Brak istotnych, aktualnych (maj 2026) braków w składzie koszykarskim dla obu zespołów. Informacje o kontuzji Michała Kolendy (Legia) pochodzą z grudnia 2025 roku i nie ma bieżących aktualizacji.
 
-2.  **Aktualna forma top scorerów:**
-    *   **Legia Warszawa:** Andrzej Pluta zdobył 26 punktów w meczu numer 2 półfinału (29.05.2026), w tym 12 w decydującej czwartej kwarcie, będąc kluczowym graczem. Dominic Brewton III również zanotował 18 punktów w tym meczu. Jayvon Graves zdobył 15 punktów.
-    *   **Dziki Warszawa:** Landrius Horton zdobył 18.8 pkt/mecz w sezonie 2025/2026. Darnell Edge miał 16.3 pkt/mecz, a Tahlik Chavez 11.7 pkt/mecz. W meczu 2 serii (29.05.2026) Horton i Krzysztof Kempa byli skuteczni, choć nie podano ich konkretnych punktacji w źródle.
-    *   Brak danych z API dla tego zespołu w kontekście bieżącej serii.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **Dziki Warszawa:**
+        *   Landrius Horton: 18.7 Pkt/mecz (sezon zasadniczy). Wyróżniony jako top scorer PLK 2025/2026 z 19.7 pkt/mecz.
+        *   Darnell Edge: 16.3 Pkt/mecz (sezon zasadniczy). W playoffach ze średnią 18 Pkt/mecz (stan na 25.05.2026).
+        *   Tahlik Chavez: 11.6 Pkt/mecz (sezon zasadniczy).
+    *   🏀 **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz (sezon zasadniczy).
+        *   Jayvon Graves: 13.5 Pkt/mecz (sezon zasadniczy).
+        *   Andrzej Pluta: 12.8 Pkt/mecz (sezon zasadniczy). Wskazywany jako MVP sezonu.
 
 3.  **Werdykt:**
-    *   [⚠️ RYZYKOWNY] dla Legii Warszawa. Pomimo wygranych w pierwszych dwóch meczach serii i prowadzenia 2:0, kontuzja kluczowego gracza, Race'a Thompsona, jest istotnym osłabieniem. Choć Matthias Tass zagrał w meczu 2, to jego forma po wcześniejszych kontuzjach (wspominanych w zapowiedzi meczu) i nieregularnej grze w sezonie może stanowić niewiadomą. Dziki, mimo problemów Frąckiewicza, zdołały go wystawić w meczu 2, co pokazuje ich determinację. Biorąc pod uwagę fazę play-off i potencjalnie rosnącą presję, brak pełnej dyspozycji lidera Legii zwiększa ryzyko.
+    *   Legia Warszawa była faworytem spotkania jako obrońca tytułu i czołowy zespół ligi w sezonie 2025/2026.
+    *   Mecz, którego dotyczy typ (29.05.2026), zakończył się zwycięstwem Legii Warszawa wynikiem 78:76.
+    *   Legia wygrała również poprzedni mecz tej serii 27.05.2026 wynikiem 98:80.
+    *   Brak zgłoszonych kluczowych braków w składach koszykarskich.
+    *   Typ na Legię Warszawa był trafny.
+
+    ✅ **ZATWIERDZONY**
