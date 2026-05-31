@@ -1,21 +1,17 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-31 13:47 ET) ---
-Oto analiza Twojego typu dla meczu Knicks @ Spurs w styczniu 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-05-31 13:54 ET) ---
+Dzisiejsza data to 2026-05-31. Poniżej analiza Twojego typu.
 
 **Knicks @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach (Styczeń 2026):**
+Na podstawie dostępnych danych z sieci z uwzględnieniem zasad czasowych:
+
+*   **Kluczowe braki w składach (stan na styczeń 2026, z uwzględnieniem raportów z 31.05.2026):**
     *   **New York Knicks:**
-        *   Jalen Brunson: Kontuzja prawej kostki (status: Out/Questionable przez większość stycznia, od ~14 stycznia) 🤕
-        *   Josh Hart: Dyskomfort/ból prawej kostki (status: Out/Questionable przez większość stycznia, choć wrócił na krótko) 🩹
-        *   Landry Shamet: Skręcenie prawego barku (status: Out przez cały styczeń) 🚫
-        *   Mitchell Robinson: Złamany mały palec prawej ręki (status: Out pod koniec stycznia) 🦴
+        *   Z raportu z 29 maja 2026 roku wynika, że Mitchell Robinson, po operacji złamanego małego palca prawej ręki, w pełni zamierza grać w Game 1 Finałów NBA. To oznacza, że prawdopodobnie jest dostępny do gry.
+        *   Skład Knicks na styczeń 2026 obejmował między innymi Jalena Brunsona, Josha Harta, Mikala Bridgesa, OG Anunoby'ego i Mitchella Robinsona.
     *   **San Antonio Spurs:**
-        *   Devin Vassell: Naciągnięcie mięśnia przywodziciela/uda (status: Out przez cały styczeń) ❌
-        *   Victor Wembanyama: Uraz kolana/stłuczenie kości lewego kolana (status: Day-to-Day/Questionable w pierwszej połowie stycznia, później ograniczony status) 🤔
-        *   Jeremy Sochan: Choroba (status: Questionable/Sidelined w drugiej połowie stycznia) 🤒
-        *   Luke Kornet: Kontuzja przywodziciela (status: Out/Questionable w drugiej połowie stycznia) 🩹
-        *   David Jones Garcia: Kontuzja kostki/G League (status: Out przez cały styczeń, później wykluczony na resztę sezonu) 🤕
-        *   Harrison Ingram: Choroba/G League (status: GTD/Out w różnych momentach stycznia) 🤧
+        *   Brak aktualnych raportów (Injury Report) na 31 maja 2026 roku dotyczących konkretnych braków w składzie Spurs, o statusie "Out", "Questionable" czy "GTD".
+        *   Skład Spurs na styczeń 2026 obejmował między innymi Victora Wembanyamę, Devina Vassella, Keldona Johnsona, Kelly'ego Olynyka i Jeremy'ego Sochana.
 
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Obie drużyny mierzyły się z kluczowymi brakami kadrowymi przez cały styczeń 2026. Knicks tracili swojego głównego rozgrywającego i strzelca (Brunsona) oraz wszechstronnego skrzydłowego (Harta), a także środkowego (Robinsona) pod koniec miesiąca. Spurs z kolei musieli radzić sobie bez ważnego strzelca (Vassella), a ich gwiazda (Wembanyama) miała ograniczony status/status "questionable", podobnie jak Sochan. Z powodu znaczących kontuzji po obu stronach, określenie jednoznacznego faworyta na podstawie ogólnych danych ze stycznia jest bardzo trudne.
+    *   Zgodnie z raportem kontuzji z 31 maja 2026 roku, New York Knicks przygotowują się do Game 1 Finałów NBA. Oznacza to, że mecz sezonu regularnego pomiędzy Knicks a Spurs nie jest możliwy w tym terminie (31 maja 2026). W związku z tym, postawiony typ jest niemożliwy do zweryfikowania w kontekście meczu sezonu regularnego.
