@@ -1,24 +1,32 @@
---- AUDYT PLK LIVE (2026-05-30 19:58 CET) ---
-# PLK typy na 2026-05-29
+--- AUDYT PLK LIVE (2026-05-31 11:46 CET) ---
+Analiza meczu PLK: AMW Arka Gdynia @ ORLEN Zastal Zielona Góra (2026-05-31)
 
-Dziki Warszawa @ Legia Warszawa -> Typ: Legia Warszawa
+---
 
-*   **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:**
-        *   Race Thompson (skręcony staw skokowy) – nie wystąpił w meczu 2.
-        *   Michał Kolenda (kontuzja) – nie wystąpił w meczu 2.
-    *   🏀 **Dziki Warszawa:**
-        *   Łukasz Frąckiewicz (problemy z kręgosłupem) – nie wystąpił w meczu 2.
+### ORLEN Zastal Zielona Góra (gospodarz)
 
-*   **Aktualna forma top scorerów (przed meczem 29.05):**
-    *   🏀 **Legia Warszawa:**
-        *   Andrzej Pluta – zdobył 26 punktów w meczu 2. serii półfinałowej. Jego średnia w sezonie 2025/2026 to 13.0 Pkt/mecz.
-        *   Dominic Brewton III – zdobył 18 punktów w meczu 2, w tym decydujące rzuty. Jego średnia w sezonie 2025/2026 to 14.6 Pkt/mecz.
-        *   Jayvon Graves – zdobył 15 punktów w meczu 2. Jego średnia w sezonie 2025/2026 to 13.4 Pkt/mecz.
-    *   🏀 **Dziki Warszawa:**
-        *   Landrius Horton – zdobył 17 punktów w meczu 2. Jego średnia w sezonie 2025/2026 to 18.7 Pkt/mecz.
-        *   Grzegorz Kamiński – zdobył 17 punktów w meczu 2. Jego średnia w sezonie 2025/2026 to 10.6 Pkt/mecz.
-        *   Darnell Edge – średnia w sezonie 2025/2026 to 16.3 Pkt/mecz.
+1.  **Kluczowe braki w składzie koszykarskim:**
+    *   ❌ Sagaba Konate (PF/C) – kontuzja dłoni, koniec sezonu od 28 lutego 2026 r..
 
-*   **Werdykt:** ✅ ZATWIERDZONY
-    *   Legia Warszawa, mimo braków kadrowych (Race Thompson, Michał Kolenda), wygrała drugi mecz półfinałowej serii z Dzikami Warszawa 78-76. Mecz był bardzo wyrównany i emocjonujący, ale Legia, grając na własnym parkiecie w Hali Bemowo, zdołała obronić prowadzenie w serii do trzech zwycięstw (2-0). Ich kluczowi zawodnicy (Pluta, Brewton, Graves) byli w dobrej formie strzeleckiej. Dziki również miały osłabienie w postaci kontuzjowanego Łukasza Frąckiewicza. Typ na Legię Warszawa okazał się trafny.
+2.  **Aktualna forma top scorerów w serii:**
+    *   Jakub Szumert (PF): 21.5 ppg, 0.5 apg, 7.5 rpg, FG 60.9%, 3P 83.3%. Solidna forma strzelecka i duży wkład w zbiórki. W drugim meczu półfinału miał 7 bloków.
+    *   Chavaughn Lewis (SG): 14.0 ppg, 1.5 apg, 1.0 rpg, FG 52.4%, 3P 33.3%.
+    *   Conley Garrison (PG/SG): 12.0 ppg, 6.5 apg, 3.0 rpg, FG 45.0%, 3P 45.5%. Dobry przegląd pola i efektywność z dystansu.
+
+### AMW Arka Gdynia (gość)
+
+1.  **Kluczowe braki w składzie koszykarskim:**
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 31 maja 2026 r. Informacje o kontuzjach Łukasza Kolendy (kwiecień 2025) i Stefana Djordjevicia (marzec 2025) są nieaktualne i odnoszą się do poprzednich sezonów lub są ogólne. Krešimir Ljubicić, który miał uraz mięśniowy w styczniu 2026, gra w tej serii jako top scorer, co świadczy o jego powrocie do zdrowia.
+
+2.  **Aktualna forma top scorerów w serii:**
+    *   Milan Barbitch (PG/SG): 17.0 ppg, 4.5 apg, 3.0 rpg, FG 42.1%, 3P 0.0%. Wiodący strzelec, ale z zerową skutecznością rzutów za trzy punkty w serii.
+    *   Kresimir Ljubicić (C): 14.5 ppg, 0.5 apg, 5.0 rpg, FG 61.1%, 3P 0.0%. Wysoka skuteczność rzutów z gry, ale również brak celnych rzutów za trzy.
+    *   Michael Okauru (SG): 10.0 ppg, 1.0 apg, 3.0 rpg, FG 42.1%, 3P 12.5%. Niska skuteczność z dystansu.
+
+### Werdykt
+
+*   **Typ do audytu:** AMW Arka Gdynia @ ORLEN Zastal Zielona Góra -> Typ: AMW Arka Gdynia
+*   **Ocena:** ⚠️ **RYZYKOWNY**
+
+**Uzasadnienie:**
+ORLEN Zastal Zielona Góra prowadzi w serii półfinałowej 2-0 i gra trzeci mecz na własnym parkiecie w Centrum Rekreacyjno-Sportowym w Zielonej Górze. Drużyna Zastalu wykazała się dominacją w pierwszym meczu (90-64) i zdołała odrobić 15-punktową stratę w drugim meczu, wygrywając 85-83. Mimo braku Sagaby Konate, Zastal utrzymuje wysoką formę, a Jakub Szumert notuje imponujące występy. AMW Arka Gdynia ma wyraźne problemy ze skutecznością rzutów z dystansu w tej serii, o czym świadczy 0% skuteczności za trzy punkty Milana Barbitcha i Kresimira Ljubicića, oraz niska skuteczność Michaela Okauru. Biorąc pod uwagę prowadzenie Zastalu w serii, przewagę własnego parkietu i słabą formę rzutową Arki, typ na zwycięstwo gości jest bardzo ryzykowny.
