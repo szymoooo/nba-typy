@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T15:22:40.030287",
+  "generated_at": "2026-05-31T16:43:34.766203",
   "date": "2026-05-31",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -11,15 +11,14 @@
       "ai_pick": "Barcelona",
       "formula_pick": "Barcelona",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Barcelona gra u siebie, co jest istotnym czynnikiem w tym kluczowym meczu o pozycje playoff. Mają również lepszy bilans bezpośrednich spotkań w tym sezonie (2-1). Chociaż Barcelona ma istotne kontuzje, Valencia mierzy się z większą liczbą potwierdzonych absencji kluczowych graczy.",
+      "confidence": 8,
+      "reasoning": "Barcelona jest w doskonałej formie, wygrywając 5 ostatnich meczów w ACB, podczas gdy Valencia ma kilku kontuzjowanych kluczowych graczy i gorszą passę. Mecz odbywa się na własnym parkiecie Barcelony, co dodatkowo zwiększa ich przewagę.",
       "key_factors": [
-        "Przewaga własnego parkietu dla Barcelony",
-        "Barcelona jest w świetnej formie (9 zwycięstw w ostatnich 10 meczach ACB)",
-        "Lepszy bilans H2H Barcelony w tym sezonie (2-1)",
-        "Liczne kontuzje w Valencii, osłabiające rotację"
+        "Kontuzje w zespole Valencii osłabiają rotację i siłę drużyny.",
+        "Barcelona wykazuje doskonałą formę, z serią pięciu kolejnych zwycięstw w Lidze Endesa.",
+        "Mecz rozgrywany jest w Palau Blaugrana, co daje Barcelonie przewagę własnego parkietu."
       ],
-      "injury_notes": "Barcelona: Nicolas Laprovittola jest wykluczony z gry z powodu kontuzji przywodziciela. Tomas Satoransky i Will Clyburn są wątpliwi.\nValencia: Josep Puerto i Xabi López-Arostegui są wykluczeni z powodu kontuzji. Nate Reuvers opuścił ostatni mecz z powodu choroby. Stefan Jovic (zapalenie kaletki) i Amida Brimah (kontuzja ścięgna podkolanowego) mają niepewny status. Sergio De Larrea jest kontuzjowany od kwietnia."
+      "injury_notes": "Valencia Basket ma kilku istotnych kontuzjowanych zawodników na dzień 31 maja 2026: Stefan Jovic (rozgrywający, zapalenie kaletki w prawym łokciu), Amida Brimah (center, uraz ścięgna podkolanowego w prawej nodze), Josep Puerto (skręcona kostka) i Xabi López-Arostegui (kontuzja) są nieobecni lub ich stan jest niepewny. Ponadto, Nate Reuvers opuścił jeden z poprzednich meczów z powodu choroby. W przypadku Barcelony, brak jest istotnych doniesień o kontuzjach w drużynie koszykarskiej na tę datę."
     }
   ]
 }
