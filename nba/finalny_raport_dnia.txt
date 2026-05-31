@@ -1,17 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-31 12:42 ET) ---
-Dzień dobry, analizuję Twoje typy na podstawie dzisiejszych danych z sieci (2026-05-31).
+--- KRYTYCZNY AUDYT LIVE (2026-05-31 13:47 ET) ---
+Oto analiza Twojego typu dla meczu Knicks @ Spurs w styczniu 2026:
 
----
+**Knicks @ Spurs -> Typ: Spurs**
 
-**Knicks @ Spurs**
-Typ: Spurs
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Kontuzja prawej kostki (status: Out/Questionable przez większość stycznia, od ~14 stycznia) 🤕
+        *   Josh Hart: Dyskomfort/ból prawej kostki (status: Out/Questionable przez większość stycznia, choć wrócił na krótko) 🩹
+        *   Landry Shamet: Skręcenie prawego barku (status: Out przez cały styczeń) 🚫
+        *   Mitchell Robinson: Złamany mały palec prawej ręki (status: Out pod koniec stycznia) 🦴
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Naciągnięcie mięśnia przywodziciela/uda (status: Out przez cały styczeń) ❌
+        *   Victor Wembanyama: Uraz kolana/stłuczenie kości lewego kolana (status: Day-to-Day/Questionable w pierwszej połowie stycznia, później ograniczony status) 🤔
+        *   Jeremy Sochan: Choroba (status: Questionable/Sidelined w drugiej połowie stycznia) 🤒
+        *   Luke Kornet: Kontuzja przywodziciela (status: Out/Questionable w drugiej połowie stycznia) 🩹
+        *   David Jones Garcia: Kontuzja kostki/G League (status: Out przez cały styczeń, później wykluczony na resztę sezonu) 🤕
+        *   Harrison Ingram: Choroba/G League (status: GTD/Out w różnych momentach stycznia) 🤧
 
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:** Mitchell Robinson (C) jest oznaczony jako GTD (Game Time Decision) z powodu kontuzji palca (złamanego małego palca) i przebytej operacji. Mimo to, planuje zagrać w meczu nr 1 Finałów NBA.
-    *   **San Antonio Spurs:** David Jones-Garcia (G) jest wykluczony do końca sezonu 2025-26 po operacji kostki, przeprowadzonej 4 lutego 2026. De'Aaron Fox (G) zmagał się z urazem kostki, a Dylan Harper (G) z urazem przywodziciela, jednak obaj grali w meczach Finałów Konferencji Zachodniej pod koniec maja 2026. Ich status na dziś (31.05) to brak aktualnych raportów o nowych kontuzjach, poza ogólnymi informacjami o grze "przez ból" w poprzednich meczach.
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Obie drużyny są w Finałach NBA (lub Spurs właśnie awansowali, pokonując Thunder w Game 7 WCF 30 maja 2026), co oznacza, że są to zespoły na bardzo wysokim poziomie.
-    *   Typ jest ryzykowny ze względu na status Mitchell Robinsona (GTD) dla Knicks, mimo że zamierza grać. Każda kontuzja kluczowego gracza w Finałach jest istotna.
-    *   Spurs również mają drobne problemy zdrowotne u swoich kluczowych graczy (Fox, Harper), którzy grali pomimo urazów.
-    *   Brak jasnych, potwierdzonych statusów (Out, Questionable, GTD) dla wszystkich graczy Spurs na dzień 31 maja 2026, poza Jones-Garcią.
-    *   Zważywszy na rangę meczu i potencjalne niepełne zdrowie kluczowych zawodników po obu stronach, zakład na Spurs jest obarczony ryzykiem.
+    *   Obie drużyny mierzyły się z kluczowymi brakami kadrowymi przez cały styczeń 2026. Knicks tracili swojego głównego rozgrywającego i strzelca (Brunsona) oraz wszechstronnego skrzydłowego (Harta), a także środkowego (Robinsona) pod koniec miesiąca. Spurs z kolei musieli radzić sobie bez ważnego strzelca (Vassella), a ich gwiazda (Wembanyama) miała ograniczony status/status "questionable", podobnie jak Sochan. Z powodu znaczących kontuzji po obu stronach, określenie jednoznacznego faworyta na podstawie ogólnych danych ze stycznia jest bardzo trudne.

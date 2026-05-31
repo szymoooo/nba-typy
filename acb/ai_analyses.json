@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T16:43:34.766203",
+  "generated_at": "2026-05-31T17:49:22.741380",
   "date": "2026-05-31",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -11,14 +11,14 @@
       "ai_pick": "Barcelona",
       "formula_pick": "Barcelona",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "Barcelona jest w doskonałej formie, wygrywając 5 ostatnich meczów w ACB, podczas gdy Valencia ma kilku kontuzjowanych kluczowych graczy i gorszą passę. Mecz odbywa się na własnym parkiecie Barcelony, co dodatkowo zwiększa ich przewagę.",
+      "confidence": 7,
+      "reasoning": "Barcelona prezentuje znakomitą formę, notując 5 kolejnych zwycięstw w Lidze Endesa, w tym 4 wygrane z rzędu na własnym parkiecie. Mimo wyrównanego bilansu sezonowego i bezpośrednich spotkań w tym sezonie ACB (1-1), przewaga własnego boiska i aktualna seria zwycięstw Barcelony są kluczowe.",
       "key_factors": [
-        "Kontuzje w zespole Valencii osłabiają rotację i siłę drużyny.",
-        "Barcelona wykazuje doskonałą formę, z serią pięciu kolejnych zwycięstw w Lidze Endesa.",
-        "Mecz rozgrywany jest w Palau Blaugrana, co daje Barcelonie przewagę własnego parkietu."
+        "Aktualna forma Barcelony (5 zwycięstw z rzędu w ACB)",
+        "Przewaga własnego parkietu (mecz w Barcelonie)",
+        "Brak istotnych kontuzji liderów"
       ],
-      "injury_notes": "Valencia Basket ma kilku istotnych kontuzjowanych zawodników na dzień 31 maja 2026: Stefan Jovic (rozgrywający, zapalenie kaletki w prawym łokciu), Amida Brimah (center, uraz ścięgna podkolanowego w prawej nodze), Josep Puerto (skręcona kostka) i Xabi López-Arostegui (kontuzja) są nieobecni lub ich stan jest niepewny. Ponadto, Nate Reuvers opuścił jeden z poprzednich meczów z powodu choroby. W przypadku Barcelony, brak jest istotnych doniesień o kontuzjach w drużynie koszykarskiej na tę datę."
+      "injury_notes": "Brak istotnych braków kontuzji liderów na dzień 2026-05-31 dla obu drużyn."
     }
   ]
 }
