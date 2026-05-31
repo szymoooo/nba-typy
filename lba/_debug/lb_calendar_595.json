@@ -26,27 +26,27 @@
   },
   "matches": [
     {
-      "id": 25345,
+      "id": 25346,
       "game_status": "2",
       "championship_id": 595,
-      "championships_day_id": 4474,
+      "championships_day_id": 4475,
       "year": 2025,
-      "number": 1,
-      "match_datetime": "2026-05-29T20:00:00.000+02:00",
+      "number": 2,
+      "match_datetime": "2026-05-31T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 72,
-      "visitor_final_score": 88,
+      "home_final_score": 85,
+      "visitor_final_score": 79,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 61,
-      "websocket_match_id": "1674761",
+      "websocket_match_id": "1674762",
       "ticketing_url": null,
       "has_streaming": 0,
-      "match_serie": "0-1",
-      "match_hw": 0,
+      "match_serie": "1-1",
+      "match_hw": 1,
       "match_vw": 1,
-      "updated_at": "2026-05-29T21:48:29.591+02:00",
+      "updated_at": "2026-05-31T22:12:34.321+02:00",
       "h_team_id": 1713,
       "h_team_name": "Germani Brescia",
       "h_club_code": "BRE",
@@ -60,33 +60,33 @@
       "town_id": 1549,
       "plant_name": "Palaleonessa A2A",
       "town_name": "Brescia",
-      "day_code": "1",
-      "day_serial": 3001,
-      "day_name": "Semifinali - Gara 1",
+      "day_code": "2",
+      "day_serial": 3002,
+      "day_name": "Semifinali - Gara 2",
       "match_serie_key": "1713_1714"
     },
     {
-      "id": 25348,
-      "game_status": "2",
+      "id": 25349,
+      "game_status": "0",
       "championship_id": 595,
-      "championships_day_id": 4474,
+      "championships_day_id": 4475,
       "year": 2025,
-      "number": 1,
-      "match_datetime": "2026-05-30T20:00:00.000+02:00",
+      "number": 2,
+      "match_datetime": "2026-06-01T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 83,
-      "visitor_final_score": 91,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 63,
-      "websocket_match_id": "1674764",
+      "websocket_match_id": "1674765",
       "ticketing_url": null,
       "has_streaming": 0,
       "match_serie": "0-1",
       "match_hw": 0,
       "match_vw": 1,
-      "updated_at": "2026-05-30T21:54:46.369+02:00",
+      "updated_at": "2026-05-30T21:54:51.602+02:00",
       "h_team_id": 1712,
       "h_team_name": "Virtus Olidata Bologna",
       "h_club_code": "BOL",
@@ -100,26 +100,26 @@
       "town_id": 3451,
       "plant_name": "Virtus Arena",
       "town_name": "Bologna",
-      "day_code": "1",
-      "day_serial": 3001,
-      "day_name": "Semifinali - Gara 1",
+      "day_code": "2",
+      "day_serial": 3002,
+      "day_name": "Semifinali - Gara 2",
       "match_serie_key": "1712_1724"
     }
   ],
   "referees": {
-    "25345": [
-      "ATTARD",
-      "QUARTA",
-      "LUCOTTI"
+    "25346": [
+      "GIOVANNETTI",
+      "BARTOLI",
+      "BORGIONI"
     ],
-    "25348": [
-      "LANZARINI",
-      "GONELLA",
-      "CAPOTORTO"
+    "25349": [
+      "ROSSI",
+      "BALDINI",
+      "BONGIORNI"
     ]
   },
   "broadcasters": {
-    "25345": [
+    "25346": [
       {
         "name": "LBATV",
         "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
@@ -133,7 +133,7 @@
         "logo": "TdQNBYrbL3bTH7JsCc5rUH2c"
       }
     ],
-    "25348": [
+    "25349": [
       {
         "name": "LBATV",
         "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
@@ -187,14 +187,14 @@
         "event_serial": 3001,
         "code": "1",
         "name": "Semifinali - Gara 1",
-        "focus_on": true
+        "focus_on": false
       },
       {
         "id": 4475,
         "event_serial": 3002,
         "code": "2",
         "name": "Semifinali - Gara 2",
-        "focus_on": false
+        "focus_on": true
       },
       {
         "id": 4476,
@@ -274,6 +274,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1780078452_mlCK:1780251839_cmCK:1780255482_cdCK:1780078452_vCK:1780255175",
+  "cache_key": "tCK:1780256888_mlCK:1780258601_cmCK:1780259281_cdCK:1780256888_vCK:1780256904",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }

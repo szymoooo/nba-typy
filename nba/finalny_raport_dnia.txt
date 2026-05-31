@@ -1,20 +1,22 @@
---- KRYTYCZNY AUDYT LIVE (2026-05-31 15:04 ET) ---
-Analiza meczu na podstawie danych ze STYCZNIA 2026 (z wyszukiwania z dnia 2026-05-31):
+--- KRYTYCZNY AUDYT LIVE (2026-05-31 16:33 ET) ---
+Analiza meczu: Knicks @ Spurs (Styczeń 2026)
+Typ: Spurs
 
-**Knicks @ Spurs** -> Typ: Spurs
-
-*   **Kluczowe braki w składach (Styczeń 2026):**
+*   **Kluczowe braki w składach (na podstawie raportów ze stycznia 2026):**
     *   **New York Knicks:**
-        *   Jalen Brunson: Często poza grą lub "Questionable" z powodu skręcenia prawej kostki.
-        *   Josh Hart: Często poza grą lub "Questionable" z powodu dolegliwości/skręcenia prawej kostki.
-        *   Trey Jemison III: "Out" (przypisanie do G League).
-        *   Landry Shamet: "Out" na początku stycznia z powodu skręcenia prawego ramienia.
+        *   Jalen Brunson: OUT/Questionable 🩹 (skręcenie prawej kostki, ból prawej kostki). Jego absencja była znaczącym ciosem w ofensywę.
+        *   Mitchell Robinson: OUT 🚑 (uraz lewej kostki).
+        *   Josh Hart: Questionable 🤔 (ból prawej kostki).
+        *   Karl-Anthony Towns: Questionable 🤔 (skurcze w plecach).
+        *   Landry Shamet: Questionable 🤔 (skręcenie prawego ramienia).
     *   **San Antonio Spurs:**
-        *   Devin Vassell: Konsekwentnie "Out" z powodu naciągnięcia lewego przywodziciela/kontuzji uda.
-        *   Jeremy Sochan: Często "Questionable" lub poza grą z powodu choroby.
-        *   Luke Kornet: Często "Questionable" lub "Out" z powodu naciągnięcia lewego przywodziciela.
-        *   David Jones Garcia: "Out" (przypisanie do G League); w lutym 2026 przeszedł operację kostki i opuścił resztę sezonu.
-        *   Harrison Ingram, Stanley Umude: Często "Out" lub "Questionable" (przypisanie do G League).
+        *   Devin Vassell: OUT 🩹 (uraz uda, naciągnięcie lewego przywodziciela).
+        *   Victor Wembanyama: Day-To-Day 🤞 (kolano).
+        *   Jeremy Sochan: Questionable 🤔 (choroba), później SIDELINED.
+        *   Luke Kornet: Questionable 🤔 (ciasność lewego przywodziciela).
+        *   Aaron Wiggins: Questionable 🤔 (impingement prawego biodra).
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak Jalen Brunsona, kluczowego gracza ofensywnego Knicks, oraz częste problemy z Joshem Hartem w styczniu 2026 roku znacząco osłabiały zespół. Mimo problemów zdrowotnych Spurs (głównie Vassella), obecność liderów takich jak Victor Wembanyama, który był dostępny przez większość stycznia, mogła dać im przewagę nad osłabionymi Knicks.
+*   **Brak aktualnych raportów (Injury Report) na tę chwilę.** (Nie ma potwierdzonych informacji o statusie tych kontuzji z dnia 2026-05-31).
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    Obie drużyny borykały się ze znacznymi problemami zdrowotnymi kluczowych graczy w styczniu 2026 roku. Knicks mieli wielu podstawowych zawodników (Brunson, Robinson, Hart, Towns) na liście kontuzjowanych lub z niepewnym statusem. Spurs również mierzyli się z poważnymi brakami (Vassell OUT, Wembanyama DTD, Sochan Questionable). Taka sytuacja na obu stronach czyniła ten mecz niezwykle nieprzewidywalnym i stawiała typowanie w kategoriach wysokiego ryzyka.
