@@ -1,14 +1,26 @@
 {
-  "generated_at": "2026-05-31T00:17:12.232767",
+  "generated_at": "2026-05-31T02:50:31.930392",
   "date": "2026-05-31",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Valencia @ Barcelona",
-      "ai_pick": null,
+      "phase": "?",
+      "date": "2026-05-31T20:00:00+02:00",
+      "ai_pick": "Barcelona",
       "formula_pick": "Barcelona",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Barcelona przystępuje do tego meczu w doskonałej formie, wygrywając dziewięć z ostatnich dziesięciu spotkań. Grają u siebie, co stanowi znaczącą przewagę, a także mają lepszy bilans bezpośrednich starć w tym sezonie (2-1). Valencia zmaga się z kontuzjami kluczowych zawodników, co osłabi ich siłę rażenia, mimo wysokiej stawki meczu dla obu drużyn.",
+      "key_factors": [
+        "Aktualna forma Barcelony (9 zwycięstw w 10 ostatnich meczach)",
+        "Przewaga własnego parkietu Barcelony",
+        "Kontuzje kluczowych graczy Valencii (Josep Puerto, Xabi López-Arostegui, Nate Reuvers wątpliwy)",
+        "Bilans H2H w tym sezonie (2-1 dla Barcelony)",
+        "Stawka meczu dla obu drużyn (walka o rozstawienie w playoffach)"
+      ],
+      "injury_notes": "Barcelona: Brak istotnych braków. Według raportu z 28 maja 2026 roku, Barcelona przystępuje do końca sezonu zasadniczego z dostępnym całym składem, po odzyskaniu kluczowych graczy takich jak Nico Laprovittola, Tomas Satoransky, Jan Vesely i Will Clyburn. Valencia: Josep Puerto i Xabi López-Arostegui są kontuzjowani i nie zagrają. Nate Reuvers opuścił poprzedni mecz z powodu choroby i jego występ jest wątpliwy."
     }
   ]
 }
