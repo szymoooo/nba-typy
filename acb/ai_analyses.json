@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T10:14:55.901689",
+  "generated_at": "2026-05-31T15:22:40.030287",
   "date": "2026-05-31",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -11,15 +11,15 @@
       "ai_pick": "Barcelona",
       "formula_pick": "Barcelona",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "Barcelona jest w doskonałej formie, wygrywając wszystkie pięć ostatnich meczów ACB. Grają u siebie, co dodatkowo wzmacnia ich pozycję, a w bezpośrednich starciach w tym sezonie ACB i EuroLidze prowadzą 2-1. Valencia, mimo dobrej formy (4 zwycięstwa w 5 meczach), boryka się z istotnymi kontuzjami kilku kluczowych zawodników, co może znacząco osłabić ich skład w tym meczu.",
+      "confidence": 7,
+      "reasoning": "Barcelona gra u siebie, co jest istotnym czynnikiem w tym kluczowym meczu o pozycje playoff. Mają również lepszy bilans bezpośrednich spotkań w tym sezonie (2-1). Chociaż Barcelona ma istotne kontuzje, Valencia mierzy się z większą liczbą potwierdzonych absencji kluczowych graczy.",
       "key_factors": [
-        "Doskonała forma Barcelony (5 zwycięstw z rzędu w ACB).",
-        "Przewaga własnego parkietu dla Barcelony.",
-        "Liczne kontuzje kluczowych graczy Valencii (Stefan Jovic, Amida Brimah, Xabi López-Arostegui, Braxton Key).",
-        "Bilans H2H w sezonie 2025/26 na korzyść Barcelony (2-1)."
+        "Przewaga własnego parkietu dla Barcelony",
+        "Barcelona jest w świetnej formie (9 zwycięstw w ostatnich 10 meczach ACB)",
+        "Lepszy bilans H2H Barcelony w tym sezonie (2-1)",
+        "Liczne kontuzje w Valencii, osłabiające rotację"
       ],
-      "injury_notes": "Barcelona: brak istotnych braków w kontekście koszykarskim na dzień 31 maja 2026 r. Valencia: Stefan Jovic (zapalenie kaletki w łokciu, status zależy od ewolucji), Amida Brimah (kontuzja ścięgna podkolanowego, status zależy od ewolucji). Xabi López-Arostegui (uraz mięśniowy). Braxton Key doznał urazu nosa 11 maja 2026 r. i jego dostępność na dziś jest wysoce wątpliwa."
+      "injury_notes": "Barcelona: Nicolas Laprovittola jest wykluczony z gry z powodu kontuzji przywodziciela. Tomas Satoransky i Will Clyburn są wątpliwi.\nValencia: Josep Puerto i Xabi López-Arostegui są wykluczeni z powodu kontuzji. Nate Reuvers opuścił ostatni mecz z powodu choroby. Stefan Jovic (zapalenie kaletki) i Amida Brimah (kontuzja ścięgna podkolanowego) mają niepewny status. Sergio De Larrea jest kontuzjowany od kwietnia."
     }
   ]
 }
