@@ -1,40 +1,20 @@
 {
-  "generated_at": "2026-06-01T13:38:37.255510",
+  "generated_at": "2026-06-01T14:43:07.693465",
   "date": "2026-06-01",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Bamberg @ Alba Berlin",
-      "phase": "?",
-      "ai_pick": "Alba Berlin",
+      "ai_pick": null,
       "formula_pick": "Alba Berlin",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Alba Berlin ma wyraźną przewagę w tym meczu, prowadząc w serii półfinałowej 1-0 po dominującym zwycięstwie 105-86 u siebie w pierwszym meczu. Dodatkowo, Alba Berlin gra u siebie w drugim meczu i wykazuje lepszą formę w ostatnich pięciu meczach BBL (4 zwycięstwa, 1 porażka) w porównaniu do Bamberg.",
-      "key_factors": [
-        "Alba Berlin prowadzi w serii półfinałowej 1-0",
-        "Mecz rozgrywany jest na własnym parkiecie Alba Berlin, co daje im przewagę gospodarzy w serii play-off",
-        "Alba Berlin pokonała Bamberg 105-86 w pierwszym meczu serii",
-        "Lepsza ostatnia forma Alba Berlin (4 zwycięstwa w 5 meczach BBL)"
-      ],
-      "injury_notes": "Brak istotnych kontuzji ani zmian w składzie na 2026-06-01 dla obu drużyn."
+      "note": "AI fallback"
     },
     {
       "matchup": "Bonn @ Bayern",
-      "phase": "?",
-      "ai_pick": "Bayern",
+      "ai_pick": null,
       "formula_pick": "Bayern",
-      "agreement": true,
-      "confidence": 9,
-      "reasoning": "Bayern prezentuje doskonałą formę, wygrywając wszystkie pięć ostatnich meczów w BBL, w tym pierwszy mecz półfinałowy przeciwko Bonn. Kluczowym czynnikiem są kontuzje dwóch czołowych graczy Bonn, Michaela Kessensa i Graysona Murphy'ego, których dostępność jest niepewna, co znacząco osłabia drużynę gości. Dodatkowo, Bayern gra u siebie i ma wyraźną przewagę w bezpośrednich starciach w tym sezonie.",
-      "key_factors": [
-        "Kontuzje kluczowych graczy Bonn (Michael Kessens, Grayson Murphy).",
-        "Znakomita forma Bayernu (5 zwycięstw w ostatnich 5 meczach BBL).",
-        "Przewaga własnego parkietu dla Bayernu.",
-        "Dominujący bilans H2H w sezonie 2025/26 (Bayern prowadzi 3-0)."
-      ],
-      "injury_notes": "Dla Bayernu brak zgłoszonych nowych kontuzji kluczowych graczy. Telekom Baskets Bonn boryka się z kontuzjami kostek dwóch kluczowych graczy z meczu nr 1: Michaela Kessensa (najlepszy zbierający) i Graysona Murphy'ego (najlepszy rozgrywający), ich dostępność na dzisiejszy mecz jest wątpliwa."
+      "note": "AI fallback"
     }
   ]
 }
