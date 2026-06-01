@@ -1,30 +1,15 @@
---- AUDYT PLK LIVE (2026-06-01 22:51 CET) ---
-Analiza meczu PLK – 2026-06-01
+--- AUDYT PLK LIVE (2026-06-02 00:22 CET) ---
+Analiza meczu PLK na dzień 2026-06-01:
 
----
-
-### Mecz: Legia Warszawa (gość) @ Dziki Warszawa (gospodarz)
+**Legia Warszawa @ Dziki Warszawa** -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-        *   **Dziki Warszawa:** Łukasz Frąckiewicz (PF/C) miał problem z plecami i nie wystąpił w pierwszym meczu serii, a jego status na kolejne mecze był niepewny. Mimo to, w trzecim meczu serii z Legią Warszawa (01.06.2026), Łukasz Frąckiewicz zdobył punkty po zbiórce w ataku, co sugeruje, że był w składzie i grał.
-    *   **Legia Warszawa:** Race Thompson (PF) doznał urazu stawu skokowego w pierwszym meczu serii i był poza składem w trzecim meczu. Michał Kolenda (SF) powrócił do składu po opuszczeniu dwóch pierwszych meczów półfinału z powodu problemów zdrowotnych i znalazł się w wyjściowej piątce w trzecim meczu.
-    *   **Podsumowanie:**
-        *   Dziki Warszawa: Łukasz Frąckiewicz był dostępny i grał w meczu 01.06.2026.
-        *   Legia Warszawa: Race Thompson (kontuzja stawu skokowego). Michał Kolenda (powrócił do składu).
+    *   **Legia Warszawa:** Race Thompson był niedostępny z powodu kontuzji stawu skokowego, której doznał w pierwszym meczu serii półfinałowej. Michał Kolenda, po problemach zdrowotnych, powrócił do wyjściowej piątki na mecz 1 czerwca 2026.
+    *   **Dziki Warszawa:** Łukasz Frąckiewicz, który opuścił pierwszy mecz serii z powodu problemów z plecami, zagrał w meczu 1 czerwca 2026. Brak innych istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów (per-player avg z /playoff-series/851/players/stat-lines):**
-    *   **Dziki Warszawa:**
-        *   **Darnell Edge (SG):** 16.7 ppg, 5.3 apg, 3.7 rpg, FG 55.9%, 3P 47.1%. Pokazuje dobrą skuteczność rzutową i zaangażowanie w ofensywie.
-        *   **Landrius Horton (SG):** 13.3 ppg, 2.7 apg, 3.7 rpg, FG 34.4%, 3P 35.3%. Jego skuteczność rzutowa jest niższa niż Edge'a, ale nadal jest ważnym punktującym.
-        *   **Grzegorz Kamiński (SF):** 11.0 ppg, 0.3 apg, 2.7 rpg, FG 34.4%, 3P 33.3%. Podobnie jak Horton, prezentuje niższą skuteczność z gry.
-    *   **Legia Warszawa:**
-        *   **Andrzej Pluta (PG/SG):** 22.3 ppg, 5.0 apg, 2.0 rpg, FG 57.9%, 3P 45.0%. Fenomenalna forma, lider punktowy i kreator gry Legii. W meczu 01.06.2026 był liderem Legii obok Dominica Brewtona.
-        *   **Dominic Brewton III (PG/SG):** 19.0 ppg, 1.7 apg, 3.7 rpg, FG 57.9%, 3P 55.6%. Bardzo wysoka skuteczność i efektywność, świetnie uzupełnia Plutę. W meczu 01.06.2026 był liderem Legii obok Andrzeja Pluty.
-        *   **Carl Ponsar (PF):** 11.7 ppg, 0.7 apg, 6.0 rpg, FG 56.0%, 3P 66.7%. Wysoka skuteczność rzutów z gry i aktywność na tablicach.
+2.  **Aktualna forma top scorerów:**
+    *   **Legia Warszawa:** Liderami zespołu w meczu 1 czerwca 2026 byli Andrzej Pluta i Dominic Brewton. Andrzej Pluta wyróżniał się również w poprzednich spotkaniach serii.
+    *   **Dziki Warszawa:** Do czołowych strzelców zespołu w sezonie 2025/2026 należą Landrius Horton (średnio 18.7 Pkt/mecz), Darnell Edge (średnio 16.3 Pkt/mecz) oraz Tahlik Chavez (średnio 11.6 Pkt/mecz). Darnell Edge zdobył 16 punktów w pierwszym meczu serii. Tahlik Chavez również punktował w trzecim meczu serii.
 
-3.  **Werdykt:**
-    Legia Warszawa wygrała serię z Dzikami Warszawa 3-0, zamykając ją 1 czerwca 2026 roku wynikiem 91:78. Awansowali do finału Orlen Basket Ligi.
-
-    **Legia Warszawa @ Dziki Warszawa -> Typ: Legia Warszawa**
-
-    [✅ ZATWIERDZONY] - Legia Warszawa dominowała w serii, wygrywając wszystkie trzy mecze. Pomimo kontuzji Race'a Thompsona, mieli dwóch liderów w postaci Andrzeja Pluty i Dominica Brewtona III, którzy utrzymywali wysoką formę. Legia pokonała Dziki Warszawa 91:78 w trzecim meczu półfinału.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa podeszła do tego meczu, prowadząc w serii 2-0. Pomimo pojedynczych kontuzji (Race Thompson w Legii), drużyny były w zasadzie w pełnych składach, a kluczowi zawodnicy Legii (Andrzej Pluta, Dominic Brewton) prezentowali dobrą formę. Legia zwyciężyła w tym spotkaniu 91:78, zamykając serię półfinałową 3-0.

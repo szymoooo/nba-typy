@@ -1,24 +1,31 @@
 {
-  "generated_at": "2026-06-01T13:36:32.280158",
-  "date": "2026-06-01",
+  "generated_at": "2026-06-01T22:24:21.371184",
+  "date": "2026-06-02",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Surne Bilbao @ La Laguna Tenerife",
-      "phase": "Regular Season",
-      "date": "2026-06-01T20:15:00+02:00",
-      "ai_pick": "Surne Bilbao",
-      "formula_pick": "La Laguna Tenerife",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "Surne Bilbao niedawno (29 maja 2026) pokonało La Laguna Tenerife na wyjeździe (82-87) w ostatniej kolejce sezonu regularnego, co zapewniło im awans do playoffów. Drużyna z Bilbao zakończyła sezon z lepszym bilansem niż rywale i wykazała się lepszą formą w kluczowym momencie sezonu.",
+      "matchup": "Tenerife @ Real Madrid",
+      "phase": "?",
+      "date": "2026-06-02T20:00:00+02:00",
+      "ai_pick": "Real Madrid",
+      "formula_pick": "Real Madrid",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Real Madryt, jako lider sezonu zasadniczego i gospodarz pierwszego meczu playoff, ma przewagę własnego parkietu. Mimo słabej końcówki sezonu, posiadają MVP ligi, Mario Hezonję, oraz grają przeciwko osłabionemu Tenerife bez kontuzjowanego Rokasa Giedraitisa.",
       "key_factors": [
-        "Surne Bilbao wygrało ostatni mecz bezpośredni na wyjeździe (29 maja 2026).",
-        "Surne Bilbao zakończyło sezon regularny na wyższej pozycji w tabeli (7. miejsce z bilansem 19-15) niż La Laguna Tenerife (8. miejsce z bilansem 18-16).",
-        "Brak istotnych kontuzji liderów obu drużyn na dzień meczu."
+        "Kontuzja Rokasa Giedraitisa (Tenerife)",
+        "Przewaga własnego parkietu Realu Madryt",
+        "Status lidera sezonu zasadniczego Realu Madryt",
+        "Obecność MVP ligi Mario Hezonji w Realu Madryt"
       ],
-      "injury_notes": "Brak istotnych braków. Rokas Giedraitis (La Laguna Tenerife) był kontuzjowany wcześniej w maju (7 maja 2026), ale brak aktualnych informacji o jego statusie na dzień 1 czerwca 2026."
+      "injury_notes": "Tenerife: Rokas Giedraitis jest kontuzjowany (zerwanie więzadła krzyżowego przedniego), co wyklucza go na dłuższy czas. Marcelinho Huertas na dzień 13 maja 2026 miał kamicę nerkową, ale został wypisany ze szpitala, a pozostała część składu była w dobrym stanie. Real Madryt: brak istotnych braków w składzie na dzień meczu."
+    },
+    {
+      "matchup": "Barcelona @ Murcia",
+      "ai_pick": null,
+      "formula_pick": "Murcia",
+      "note": "AI fallback"
     }
   ]
 }

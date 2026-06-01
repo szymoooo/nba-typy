@@ -1,5 +1,89 @@
 [
   {
+    "id": 853,
+    "finished": false,
+    "stage": "final",
+    "start_date": "2026-06-08T20:15:00",
+    "end_date": "2026-06-21T19:00:00",
+    "next_game_date": "2026-06-08T20:15:00",
+    "teams": [
+      {
+        "data": {
+          "team_id": 37,
+          "city": "Warszawa",
+          "team": "Legia Warszawa",
+          "abbr": "LEG",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s26/350-350/11.png",
+          "logo_without_background_path": "teams-logos/t11_l1_s2026.png?v=3",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2026.png?v=3"
+        },
+        "wins": 0,
+        "higher_seed": true,
+        "seed": "1",
+        "result": null,
+        "points": 0
+      },
+      {
+        "data": {
+          "team_id": 26,
+          "city": "Zielona Góra",
+          "team": "ORLEN Zastal Zielona Góra",
+          "abbr": "ZIE",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
+          "logo_without_background_path": "teams-logos/t769_l1_s2026.png?v=3",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2026.png?v=3"
+        },
+        "wins": 0,
+        "higher_seed": false,
+        "seed": "8",
+        "result": null,
+        "points": 0
+      }
+    ]
+  },
+  {
+    "id": 854,
+    "finished": false,
+    "stage": "third_place",
+    "start_date": "2026-06-09T19:00:00",
+    "end_date": "2026-06-12T20:15:00",
+    "next_game_date": "2026-06-09T19:00:00",
+    "teams": [
+      {
+        "data": {
+          "team_id": 40,
+          "city": "Warszawa",
+          "team": "Dziki Warszawa",
+          "abbr": "DZI",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11257.png",
+          "logo_without_background_path": "teams-logos/t2277_l1_s2026.png?v=3",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2026.png?v=3"
+        },
+        "wins": 0,
+        "higher_seed": false,
+        "seed": "5",
+        "result": null,
+        "points": 0
+      },
+      {
+        "data": {
+          "team_id": 9,
+          "city": "Gdynia",
+          "team": "AMW Arka Gdynia",
+          "abbr": "GDY",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/121.png",
+          "logo_without_background_path": "teams-logos/t121_l1_s2026.png?v=3",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2026.png?v=3"
+        },
+        "wins": 0,
+        "higher_seed": true,
+        "seed": "6",
+        "result": null,
+        "points": 0
+      }
+    ]
+  },
+  {
     "id": 851,
     "finished": true,
     "stage": "semi_finals",
