@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-05-31T23:51:44.331314",
+  "generated_at": "2026-06-01T03:00:30.056036",
   "date": "2026-06-01",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Bamberg @ Alba Berlin",
-      "ai_pick": null,
+      "phase": "?",
+      "ai_pick": "Alba Berlin",
       "formula_pick": "Alba Berlin",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Alba Berlin prowadzi 1-0 w serii półfinałowej po przekonującym zwycięstwie w pierwszym meczu u siebie. Grając ponownie w swojej hali, Alba Berlin ma silny impet i przewagę własnego parkietu, co daje im znaczącą przewagę w dążeniu do objęcia prowadzenia 2-0 w formacie 2-2-1.",
+      "key_factors": [
+        "Alba Berlin prowadzi w serii półfinałowej 1-0.",
+        "Mecz jest rozgrywany w hali Alba Berlin (przewaga własnego parkietu).",
+        "Alba Berlin pokazała dobrą formę w ostatnich meczach fazy playoff.",
+        "Brak istotnych kontuzji kluczowych graczy w obu drużynach.",
+        "Bamberg będzie pod presją 'desperation factor', będąc na wyjeździe i przegrywając 0-1 w serii."
+      ],
+      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 2026-06-01. Martin Hermannsson z Alba Berlin, który doznał kontuzji kciuka 6 lutego 2026 r. i miał pauzować około sześciu tygodni, wrócił do gry i był kluczowym graczem w ćwierćfinałach."
     },
     {
       "matchup": "Bonn @ Bayern",
