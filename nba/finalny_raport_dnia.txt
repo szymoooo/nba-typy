@@ -1,18 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-01 15:22 ET) ---
-Analiza meczu: Knicks @ Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-06-01 16:50 ET) ---
+Analiza meczu Knicks @ Spurs (dane ze stycznia 2026):
 
-Typ użytkownika: Spurs
+**Kluczowe braki w składach (styczeń 2026):**
 
-**Kluczowe braki w składach (na dzień 2026-06-01):**
+*   **New York Knicks** 🗽:
+    *   Jalen Brunson: Skręcenie prawej kostki (Day-to-day/Out w różnych momentach stycznia) 🤕
+    *   Josh Hart: Dyskomfort/skręcenie prawej kostki (Day-to-day/Out w różnych momentach stycznia) 🤕
+    *   Landry Shamet: Skręcenie prawego barku (Out na początku stycznia) 🤕
 
-*   **New York Knicks:**
-    *   Mitchell Robinson (C): Złamany mały palec prawej ręki. Przeszedł operację, ale zamierza zagrać w nadchodzących Finałach NBA w ortezie. Status: Day-to-day / Prawdopodobnie zagra.
-    *   OG Anunoby (PF): Problemy ze ścięgnem podkolanowym. Status: Questionable.
-    *   Josh Hart (SG): Gra pomimo drobnych dolegliwości (nerwy i palec w dłoni rzucającej, wcześniej plecy, kciuk, kostka). Status: Prawdopodobnie zagra.
-*   **San Antonio Spurs:**
-    *   De'Aaron Fox (PG): Kontuzja kostki. Był wymieniany jako "Questionable" i "Game-time decision" w meczach Finałów Konferencji Zachodniej i według doniesień nie grał w tych Finałach Konferencji. Status: Questionable (wysokie ryzyko braku lub ograniczonego udziału).
-    *   Dylan Harper (PG): Ból/kontuzja przywodziciela. Był "Game-time decision" w Finałach Konferencji Zachodniej. Status: Questionable.
+*   **San Antonio Spurs** 🤠:
+    *   Devin Vassell: Naciągnięcie lewego przywodziciela (Out) 🤕
+    *   Jeremy Sochan: Choroba / Sidelined (Questionable/Out) 🤒
+    *   Luke Kornet: Uczucie ściągnięcia w lewym przywodzicielu (Questionable ok. 25 stycznia) ❓
+    *   Aaron Wiggins: Impingement prawego biodra (Questionable ok. 25 stycznia) ❓
 
-**Werdykt:** [⚠️ RYZYKOWNY]
+**Werdykt:**
 
-*   Typ na Spurs jest ryzykowny ze względu na znaczące kontuzje kluczowych graczy, zwłaszcza De'Aarona Foxa, który podobno nie grał w Finałach Konferencji Zachodniej. Chociaż Mitchell Robinson z Knicks również ma kontuzję, wyraża zamiar gry, a sytuacja Foxa i Harpera dla Spurs wydaje się bardziej niepewna i potentially bardziej osłabiająca drużynę.
+*   **Knicks @ Spurs -> Typ: Spurs**
+    *   Werdykt: [✅ ZATWIERDZONY]
+    *   Uzasadnienie: Brak Jadena Brunsona i Josha Harta u Knicksów to znaczące osłabienie ich ofensywy i rotacji. Mimo braków u Spurs (Vassell, Sochan), obecność Victora Wembanyamy, który według raportów z 25 stycznia 2026 r. miał przejąć zwiększoną odpowiedzialność, daje im przewagę w starciu z mocno osłabionymi Knicksami.

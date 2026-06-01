@@ -1,25 +1,30 @@
---- AUDYT PLK LIVE (2026-06-01 21:23 CET) ---
-Analiza meczu PLK: Legia Warszawa @ Dziki Warszawa (2026-06-01)
+--- AUDYT PLK LIVE (2026-06-01 22:51 CET) ---
+Analiza meczu PLK – 2026-06-01
 
-### 1. Kluczowe braki w składach:
+---
 
-*   **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
-*   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+### Mecz: Legia Warszawa (gość) @ Dziki Warszawa (gospodarz)
 
-### 2. Aktualna forma top scorerów (w serii):
+1.  **Kluczowe braki w składach:**
+        *   **Dziki Warszawa:** Łukasz Frąckiewicz (PF/C) miał problem z plecami i nie wystąpił w pierwszym meczu serii, a jego status na kolejne mecze był niepewny. Mimo to, w trzecim meczu serii z Legią Warszawa (01.06.2026), Łukasz Frąckiewicz zdobył punkty po zbiórce w ataku, co sugeruje, że był w składzie i grał.
+    *   **Legia Warszawa:** Race Thompson (PF) doznał urazu stawu skokowego w pierwszym meczu serii i był poza składem w trzecim meczu. Michał Kolenda (SF) powrócił do składu po opuszczeniu dwóch pierwszych meczów półfinału z powodu problemów zdrowotnych i znalazł się w wyjściowej piątce w trzecim meczu.
+    *   **Podsumowanie:**
+        *   Dziki Warszawa: Łukasz Frąckiewicz był dostępny i grał w meczu 01.06.2026.
+        *   Legia Warszawa: Race Thompson (kontuzja stawu skokowego). Michał Kolenda (powrócił do składu).
 
-*   **Dziki Warszawa:**
-    *   **Darnell Edge (SG):** 15.5 ppg, 5.0 apg, 4.0 rpg, FG 52.2%, 3P 41.7%. Solidna skuteczność i wszechstronność.
-    *   **Landrius Horton (SG):** 15.5 ppg, 3.5 apg, 4.0 rpg, FG 33.3%, 3P 38.5%. Wysoka liczba punktów, ale niższa skuteczność z gry.
-    *   **Grzegorz Kamiński (SF):** 10.5 ppg, 0.5 apg, 2.0 rpg, FG 30.4%, 3P 33.3%. Niska skuteczność z gry.
-*   **Legia Warszawa:**
-    *   **Andrzej Pluta (PG/SG):** 23.0 ppg, 6.0 apg, 2.5 rpg, FG 53.8%, 3P 50.0%. Doskonała forma strzelecka i asystencka, lider zespołu.
-    *   **Dominic Brewton III (PG/SG):** 17.5 ppg, 2.0 apg, 4.0 rpg, FG 58.3%, 3P 57.1%. Bardzo wysoka skuteczność rzutowa.
-    *   **Jayvon Graves (PG/SG):** 12.5 ppg, 3.0 apg, 7.5 rpg, FG 45.0%, 3P 20.0%. Kluczowy w zbiórkach, ale słabsza skuteczność za trzy punkty.
+2.  **Aktualna forma top scorerów (per-player avg z /playoff-series/851/players/stat-lines):**
+    *   **Dziki Warszawa:**
+        *   **Darnell Edge (SG):** 16.7 ppg, 5.3 apg, 3.7 rpg, FG 55.9%, 3P 47.1%. Pokazuje dobrą skuteczność rzutową i zaangażowanie w ofensywie.
+        *   **Landrius Horton (SG):** 13.3 ppg, 2.7 apg, 3.7 rpg, FG 34.4%, 3P 35.3%. Jego skuteczność rzutowa jest niższa niż Edge'a, ale nadal jest ważnym punktującym.
+        *   **Grzegorz Kamiński (SF):** 11.0 ppg, 0.3 apg, 2.7 rpg, FG 34.4%, 3P 33.3%. Podobnie jak Horton, prezentuje niższą skuteczność z gry.
+    *   **Legia Warszawa:**
+        *   **Andrzej Pluta (PG/SG):** 22.3 ppg, 5.0 apg, 2.0 rpg, FG 57.9%, 3P 45.0%. Fenomenalna forma, lider punktowy i kreator gry Legii. W meczu 01.06.2026 był liderem Legii obok Dominica Brewtona.
+        *   **Dominic Brewton III (PG/SG):** 19.0 ppg, 1.7 apg, 3.7 rpg, FG 57.9%, 3P 55.6%. Bardzo wysoka skuteczność i efektywność, świetnie uzupełnia Plutę. W meczu 01.06.2026 był liderem Legii obok Andrzeja Pluty.
+        *   **Carl Ponsar (PF):** 11.7 ppg, 0.7 apg, 6.0 rpg, FG 56.0%, 3P 66.7%. Wysoka skuteczność rzutów z gry i aktywność na tablicach.
 
-### 3. Werdykt:
+3.  **Werdykt:**
+    Legia Warszawa wygrała serię z Dzikami Warszawa 3-0, zamykając ją 1 czerwca 2026 roku wynikiem 91:78. Awansowali do finału Orlen Basket Ligi.
 
-**Legia Warszawa @ Dziki Warszawa -> Typ: Legia Warszawa**
-**[✅ ZATWIERDZONY]**
+    **Legia Warszawa @ Dziki Warszawa -> Typ: Legia Warszawa**
 
-**Uzasadnienie:** Legia Warszawa prowadzi w serii 2-0 i pokazała lepszą formę strzelecką swoich liderów w poprzednich meczach. Andrzej Pluta i Dominic Brewton III prezentują bardzo wysoką skuteczność. Brak kluczowych braków w składach obu drużyn oznacza, że Legia powinna utrzymać swoją przewagę. Dziki Warszawa musi poprawić skuteczność z gry swoich zawodników, zwłaszcza Landriusa Hortona i Grzegorza Kamińskiego, aby odwrócić losy serii. Dodatkowo, Legia ma komfort prowadzenia i może spokojnie rozgrywać mecz na wyjeździe.
+    [✅ ZATWIERDZONY] - Legia Warszawa dominowała w serii, wygrywając wszystkie trzy mecze. Pomimo kontuzji Race'a Thompsona, mieli dwóch liderów w postaci Andrzeja Pluty i Dominica Brewtona III, którzy utrzymywali wysoką formę. Legia pokonała Dziki Warszawa 91:78 w trzecim meczu półfinału.
