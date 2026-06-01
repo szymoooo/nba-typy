@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-01T03:00:30.056036",
+  "generated_at": "2026-06-01T08:38:48.601844",
   "date": "2026-06-01",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Bamberg @ Alba Berlin",
-      "phase": "?",
-      "ai_pick": "Alba Berlin",
+      "ai_pick": null,
       "formula_pick": "Alba Berlin",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Alba Berlin prowadzi 1-0 w serii półfinałowej po przekonującym zwycięstwie w pierwszym meczu u siebie. Grając ponownie w swojej hali, Alba Berlin ma silny impet i przewagę własnego parkietu, co daje im znaczącą przewagę w dążeniu do objęcia prowadzenia 2-0 w formacie 2-2-1.",
-      "key_factors": [
-        "Alba Berlin prowadzi w serii półfinałowej 1-0.",
-        "Mecz jest rozgrywany w hali Alba Berlin (przewaga własnego parkietu).",
-        "Alba Berlin pokazała dobrą formę w ostatnich meczach fazy playoff.",
-        "Brak istotnych kontuzji kluczowych graczy w obu drużynach.",
-        "Bamberg będzie pod presją 'desperation factor', będąc na wyjeździe i przegrywając 0-1 w serii."
-      ],
-      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 2026-06-01. Martin Hermannsson z Alba Berlin, który doznał kontuzji kciuka 6 lutego 2026 r. i miał pauzować około sześciu tygodni, wrócił do gry i był kluczowym graczem w ćwierćfinałach."
+      "note": "AI fallback"
     },
     {
       "matchup": "Bonn @ Bayern",
-      "ai_pick": null,
+      "phase": "?",
+      "ai_pick": "Bayern",
       "formula_pick": "Bayern",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Bayern Monachium wygrał pierwszy mecz półfinałowy i ma przewagę własnego parkietu w Meczu 2, co historycznie potwierdza ich silną dominację w BBL, w tym imponujący bilans domowy w tym sezonie. Bonn boryka się z poważnymi kontuzjami kluczowych graczy, Michaela Kessensa i Graysona Murphy'ego, co znacznie osłabia ich ofensywę i defensywę, dodatkowo po trudnej serii ćwierćfinałowej.",
+      "key_factors": [
+        "Przewaga własnego parkietu Bayernu (gospodarz w Meczu 2).",
+        "Prowadzenie Bayernu w serii półfinałowej 1-0 po wygranej w Meczu 1.",
+        "Kluczowe kontuzje graczy Bonn: Michael Kessens i Grayson Murphy są wątpliwi do gry po urazach kostki.",
+        "Dominujący bilans H2H Bayernu w sezonie 2025/26 (3-0).",
+        "Znacznie lepsza ogólna forma Bayernu (9 kolejnych zwycięstw w BBL)."
+      ],
+      "injury_notes": "Dla Bayernu, Rokas Jokubaitis i Stefan Jovic są wykluczeni z gry. Dla Bonn, kluczowi gracze Michael Kessens (najlepszy zbierający) i Grayson Murphy (najlepszy rozgrywający) doznali urazów kostki w Meczu 1 półfinałów i ich występ w Meczu 2 (1 czerwca 2026) jest wątpliwy."
     }
   ]
 }

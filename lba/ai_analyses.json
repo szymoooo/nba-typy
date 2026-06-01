@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-06-01T02:59:15.368225",
+  "generated_at": "2026-06-01T08:36:39.736177",
   "date": "2026-06-01",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Umana Reyer Venezia @ Virtus Olidata Bologna",
-      "ai_pick": null,
+      "day": "Semifinali - Gara 2",
+      "date": "2026-06-01T20:00:00.000+02:00",
+      "ai_pick": "Umana Reyer Venezia",
       "formula_pick": "Virtus Olidata Bologna",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Umana Reyer Venezia wchodzi w Gara 2 z impetem po przekonującym zwycięstwie na wyjeździe w Gara 1, wykazując się lepszą skutecznością rzutową i głębszym składem. Virtus Olidata Bologna jest znacząco osłabiona przez kluczowe kontuzje, co negatywnie wpływa na ich ofensywę i możliwości rotacji, mimo presji wynikającej z gry u siebie i potrzeby wyrównania serii.",
+      "key_factors": [
+        "Znaczące kontuzje Virtus Olidata Bologna (Pajola, Alston Jr., Vildoza, Accorsi), osłabiające ofensywę i rotację.",
+        "Umana Reyer Venezia jest w pełni zdrowia i ma momentum po wygranej w Gara 1 na wyjeździe.",
+        "Wysoka skuteczność rzutów z dystansu Umana Reyer Venezia w Gara 1, zwłaszcza Kyle'a Wiltjera (26 punktów, 6/10 za trzy).",
+        "Niska skuteczność rzutowa Carsena Edwardsa z Virtus w Gara 1 (6/23 z gry)."
+      ],
+      "injury_notes": "Virtus Olidata Bologna jest poważnie osłabiona: Alessandro Pajola (koniec sezonu po operacji kolana), Derrick Alston Jr. (koniec sezonu po złamaniu ręki), Luca Vildoza (kontuzja uda wykluczyła go z reszty sezonu EuroLeague od 5 kwietnia 2026, więc prawdopodobnie poza składem), a także Matteo Accorsi (zwichnięcie palca). Umana Reyer Venezia jest w dużej mierze zdrowa; Ky Bowman miał drobny problem z kostką w Gara 1, ale kontynuował grę, a Stefan Nikolic wrócił po wcześniejszej kontuzji ręki."
     }
   ]
 }
