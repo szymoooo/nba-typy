@@ -1,20 +1,33 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-01 18:21 ET) ---
-Na podstawie dzisiejszych danych z sieci (2026-06-01):
+--- KRYTYCZNY AUDYT LIVE (2026-06-01 19:52 ET) ---
+Aby rzetelnie ocenić Twój typ, muszę polegać na ściśle określonych wytycznych. Istnieje jednak wewnętrzny konflikt w Twoich instrukcjach, który uniemożliwia mi rygorystyczną analizę w sposób spójny.
 
-Nie ma meczu Knicks @ Spurs zaplanowanego na 1 czerwca 2026 roku. New York Knicks i San Antonio Spurs zmierzą się w Finałach NBA 2026, które rozpoczną się 3 czerwca 2026 roku. W związku z tym, nie mogę ocenić typu dla nieistniejącego meczu na dzień dzisiejszy.
+Z jednej strony, mam ignorować dane z lat 2024, 2025 i interesować się *tylko STYCZNIEM 2026* w kontekście meczu. Z drugiej strony, mam sprawdzać kontuzje *z DZISIAJ (2026-06-01)* i w przypadku ich braku napisać "Brak aktualnych raportów (Injury Report) na tę chwilę". Ocena meczu ze stycznia 2026 na podstawie czerwcowych raportów kontuzji jest analitycznie niepoprawna.
 
-Poniżej przedstawiam jednak informacje dotyczące kluczowych graczy i moją analizę przed nadchodzącymi Finałami NBA:
+Przyjmę interpretację, która kładzie nacisk na *aktualność raportów kontuzji z dnia dzisiejszego (2026-06-01)*, ale spróbuję ustalić składy na *styczeń 2026* do kontekstu.
 
-**Finały NBA 2026: New York Knicks vs. San Antonio Spurs (Seria rozpoczyna się 3 czerwca)**
+---
 
-*   **Kluczowe braki w składach (na podstawie raportów z 2026-06-01):**
-    *   **New York Knicks:** Mitchell Robinson planuje zagrać w Finałach po operacji złamanego małego palca. Brak innych aktualnych raportów o kontuzjach kluczowych graczy.
-    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę o kontuzjach kluczowych graczy. Victor Wembanyama, Stephon Castle i Dylan Harper są wymieniani jako gotowi do gry.
+**Mecz: Knicks @ Spurs**
+Typ użytkownika: Spurs
 
-*   **Werdykt (dla serii Finałowej, przyjmując "Typ: Spurs" jako typ na zwycięstwo w serii):**
-    *   **[✅ ZATWIERDZONY]**
-        *   Spurs, prowadzeni przez MVP serii Victora Wembanyamę, który miał monumentalne występy w playoffach, pokonali broniących tytułu Oklahoma City Thunder.
-        *   Młody zespół Spurs, w tym Stephon Castle i Dylan Harper, ma za sobą pierwsze doświadczenia w playoffach i pokazał kolektywną siłę. Julian Champagnie również wyróżnił się, zdobywając 20 punktów w decydującym meczu.
-        *   Knicks mają bardziej doświadczony skład i przeszli przez Konferencję Wschodnią, pokonując Cleveland Cavaliers 4-0. Jednak będą musieli znaleźć sposób na powstrzymanie Wembanyamy.
-        *   Spurs będą mieli przewagę własnego parkietu w Game 1.
-        *   Biorąc pod uwagę formę i rozwój młodych gwiazd Spurs, jak również ich drogę przez trudną Konferencję Zachodnią, typ na Spurs w serii jest uzasadniony.
+### Knicks @ Spurs
+
+**Kluczowe braki w składach (na dzień 2026-06-01):**
+
+*   **New York Knicks:**
+    *   Mitchell Robinson (C): Złamanie małego palca prawej ręki. Przeszedł operację. Ma zamiar zagrać w Finałach NBA w ortezie. Status "day-to-day" (z dnia na dzień), oczekuje się szybkiego powrotu.
+    *   OG Anunoby (PF): Uraz ścięgna podkolanowego. Wcześniej opuścił dwa mecze w play-offach, ale wrócił do gry. Obecnie brak raportów o jego braku dostępności na dziś (2026-06-01).
+    *   Josh Hart (SG): Problemy z nerwem i palcem u ręki rzucającej, a także z kciukiem i kostką w play-offach. Obecnie brak raportów o jego braku dostępności na dziś (2026-06-01).
+
+*   **San Antonio Spurs:**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Ostatnie dostępne informacje dotyczące kontuzji Spurs pochodzą z maja 2026 i dotyczyły De'Aarona Foxa (kostka, questionable) oraz Luke'a Korneta (ból stopy, questionable). David Jones Garcia był poza grą do końca sezonu 2025-26 po operacji. Nie ma jednak potwierdzonych raportów o ich statusie na dzień 2026-06-01 dla hypotheticalnego meczu.
+
+**Werdykt dla typu: Spurs**
+
+[⚠️ RYZYKOWNY]
+
+*   Typ jest ryzykowny ze względu na brak aktualnych, potwierdzonych raportów o kontuzjach obu drużyn na dzień 2026-06-01, zgodnie z Twoimi rygorystycznymi zasadami.
+*   Dla Knicks, Mitchell Robinson jest kontuzjowany, ale ma zamiar zagrać, co wprowadza element niepewności.
+*   Brak jasnych i aktualnych informacji o statusie kluczowych graczy Spurs na dzień dzisiejszy (2026-06-01) uniemożliwia pełną ocenę siły ich składu.
+*   Zgodnie z zasadami, nie mogę spekulować na temat braków w składach, jeśli nie ma na to aktualnych raportów.
+*   Kontekst meczu ze stycznia 2026 z kontuzjami z czerwca 2026 jest również problematyczny z analitycznego punktu widzenia.
