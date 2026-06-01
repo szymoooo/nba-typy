@@ -1,25 +1,24 @@
 {
-  "generated_at": "2026-05-31T17:56:00.046096",
-  "date": "2026-05-31",
+  "generated_at": "2026-06-01T13:36:32.280158",
+  "date": "2026-06-01",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Valencia @ Barcelona",
-      "phase": "?",
-      "date": "2026-05-31T20:00:00+02:00",
-      "ai_pick": "Barcelona",
-      "formula_pick": "Barcelona",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Barcelona gra u siebie i ma imponującą serię pięciu zwycięstw z rzędu w ACB. Mimo własnych kontuzji kluczowych graczy, Valencia boryka się z potwierdzonymi brakami Stefana Jovic'a i Amidy Brimah'a, co osłabi ich siłę, zwłaszcza na pozycji rozgrywającego. Przewaga własnego parkietu będzie kluczowa.",
+      "matchup": "Surne Bilbao @ La Laguna Tenerife",
+      "phase": "Regular Season",
+      "date": "2026-06-01T20:15:00+02:00",
+      "ai_pick": "Surne Bilbao",
+      "formula_pick": "La Laguna Tenerife",
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "Surne Bilbao niedawno (29 maja 2026) pokonało La Laguna Tenerife na wyjeździe (82-87) w ostatniej kolejce sezonu regularnego, co zapewniło im awans do playoffów. Drużyna z Bilbao zakończyła sezon z lepszym bilansem niż rywale i wykazała się lepszą formą w kluczowym momencie sezonu.",
       "key_factors": [
-        "Silna forma Barcelony (5 zwycięstw z rzędu)",
-        "Przewaga własnego parkietu dla Barcelony",
-        "Kontuzje kluczowych graczy Valencii (Stefan Jovic, Amida Brimah)",
-        "Pomimo kontuzji liderów Barcelony (Laprovittola, Shengelia), ich głębia składu i obecna forma dają im przewagę"
+        "Surne Bilbao wygrało ostatni mecz bezpośredni na wyjeździe (29 maja 2026).",
+        "Surne Bilbao zakończyło sezon regularny na wyższej pozycji w tabeli (7. miejsce z bilansem 19-15) niż La Laguna Tenerife (8. miejsce z bilansem 18-16).",
+        "Brak istotnych kontuzji liderów obu drużyn na dzień meczu."
       ],
-      "injury_notes": "Dla Barcelony: Nicolás Laprovittola (zerwanie ścięgna przywodziciela) i Tornike Shengelia (uraz mięśnia płaszczkowatego) są prawdopodobnie poza składem, bazując na raportach z marca i kwietnia 2026. Dla Valencii: Stefan Jovic (zapalenie kaletki w prawym łokciu) i Amida Brimah (kontuzja ścięgna podkolanowego w prawej nodze) są niezdolni do gry."
+      "injury_notes": "Brak istotnych braków. Rokas Giedraitis (La Laguna Tenerife) był kontuzjowany wcześniej w maju (7 maja 2026), ale brak aktualnych informacji o jego statusie na dzień 1 czerwca 2026."
     }
   ]
 }
