@@ -1,16 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-01 10:40 ET) ---
-Oto analiza Twojego typu na mecz Knicks @ Spurs, na podstawie danych z 2026-06-01:
+--- KRYTYCZNY AUDYT LIVE (2026-06-01 15:22 ET) ---
+Analiza meczu: Knicks @ Spurs
 
-**Knicks @ Spurs**
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:**
-        *   Mitchell Robinson (C) 🏥: Stan "Day-to-day" (GTD) z powodu złamanego małego palca prawej ręki. Przeszedł operację i zamierza grać w ortezie, ale jego dostępność zależy od ostatecznej zgody lekarzy.
-        *   OG Anunoby (PF): Brak aktualnych raportów (Injury Report) na tę chwilę. (Ostatni raportowany uraz ścięgna podkolanowego z 18 maja 2026).
-        *   Josh Hart (SG): Brak aktualnych raportów (Injury Report) na tę chwilę. (Ostatnie raportowane urazy kciuka i kostki z początku maja 2026).
-    *   **San Antonio Spurs:**
-        *   Ajay Mitchell (G) ❌: Poza składem (uraz mięśnia płaszczkowatego).
-        *   Thomas Sorber (F/C) ❌: Poza składem (ACL).
-        *   Jones Garcia ❌: Poza składem na resztę sezonu (operacja kostki).
-        *   Jeremy Sochan (PF): Brak aktualnych raportów (Injury Report) na tę chwilę. (Ostatni raportowany uraz ścięgna podkolanowego z 3 maja 2026).
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie:** Typ na Spurs jest ryzykowny, choć ma swoje podstawy. Knicks, jako finaliści NBA, są silną drużyną, ale kluczowy dla ich obrony Mitchell Robinson ma niepewny status i będzie grał z kontuzją ręki. Jego obniżona efektywność będzie istotnym osłabieniem przeciwko Spurs, którzy mają w składzie Victora Wembanyamę. Spurs mają kilku graczy poza składem, ale ich kluczowi zawodnicy, tacy jak De'Aaron Fox i Dylan Harper, wydają się być zdrowi. Mimo to, w obliczu Finałów NBA, Knicks będą niezwykle zmotywowani, co czyni ten mecz trudnym do przewidzenia.
+Typ użytkownika: Spurs
+
+**Kluczowe braki w składach (na dzień 2026-06-01):**
+
+*   **New York Knicks:**
+    *   Mitchell Robinson (C): Złamany mały palec prawej ręki. Przeszedł operację, ale zamierza zagrać w nadchodzących Finałach NBA w ortezie. Status: Day-to-day / Prawdopodobnie zagra.
+    *   OG Anunoby (PF): Problemy ze ścięgnem podkolanowym. Status: Questionable.
+    *   Josh Hart (SG): Gra pomimo drobnych dolegliwości (nerwy i palec w dłoni rzucającej, wcześniej plecy, kciuk, kostka). Status: Prawdopodobnie zagra.
+*   **San Antonio Spurs:**
+    *   De'Aaron Fox (PG): Kontuzja kostki. Był wymieniany jako "Questionable" i "Game-time decision" w meczach Finałów Konferencji Zachodniej i według doniesień nie grał w tych Finałach Konferencji. Status: Questionable (wysokie ryzyko braku lub ograniczonego udziału).
+    *   Dylan Harper (PG): Ból/kontuzja przywodziciela. Był "Game-time decision" w Finałach Konferencji Zachodniej. Status: Questionable.
+
+**Werdykt:** [⚠️ RYZYKOWNY]
+
+*   Typ na Spurs jest ryzykowny ze względu na znaczące kontuzje kluczowych graczy, zwłaszcza De'Aarona Foxa, który podobno nie grał w Finałach Konferencji Zachodniej. Chociaż Mitchell Robinson z Knicks również ma kontuzję, wyraża zamiar gry, a sytuacja Foxa i Harpera dla Spurs wydaje się bardziej niepewna i potentially bardziej osłabiająca drużynę.

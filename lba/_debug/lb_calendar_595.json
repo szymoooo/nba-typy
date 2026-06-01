@@ -67,7 +67,7 @@
     },
     {
       "id": 25349,
-      "game_status": "0",
+      "game_status": "1",
       "championship_id": 595,
       "championships_day_id": 4475,
       "year": 2025,
@@ -75,8 +75,8 @@
       "match_datetime": "2026-06-01T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 0,
-      "visitor_final_score": 0,
+      "home_final_score": 79,
+      "visitor_final_score": 53,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 63,
@@ -86,7 +86,7 @@
       "match_serie": "0-1",
       "match_hw": 0,
       "match_vw": 1,
-      "updated_at": "2026-05-30T21:54:51.602+02:00",
+      "updated_at": "2026-06-01T21:20:32.618+02:00",
       "h_team_id": 1712,
       "h_team_name": "Virtus Olidata Bologna",
       "h_club_code": "BOL",
@@ -274,6 +274,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1780256888_mlCK:1780317689_cmCK:1780259281_cdCK:1780256888_vCK:1780262251",
+  "cache_key": "tCK:1780256888_mlCK:1780341320_cmCK:1780341632_cdCK:1780256888_vCK:1780339817",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }
