@@ -1,42 +1,20 @@
 {
-  "generated_at": "2026-06-02T11:53:59.117548",
+  "generated_at": "2026-06-02T12:04:49.229889",
   "date": "2026-06-02",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Barça @ UCAM Murcia",
-      "phase": "Playoff Cuartos de final",
-      "date": "2026-06-02T19:00:00+02:00",
-      "ai_pick": "UCAM Murcia",
+      "ai_pick": null,
       "formula_pick": "UCAM Murcia",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "UCAM Murcia ma silny impuls po udanym sezonie zasadniczym i korzysta z przewagi własnego parkietu w pierwszej rundzie play-offów, co jest kluczowym czynnikiem. Barça, choć medycznie zdolna do gry, boryka się z brakiem ciągłości u kluczowych zawodników z powodu wcześniejszych kontuzji i według doniesień mediów, jest w 'najgorszej możliwej' kondycji psychicznej.",
-      "key_factors": [
-        "Przewaga własnego parkietu UCAM Murcia w play-offach.",
-        "UCAM Murcia wygrała oba mecze w sezonie zasadniczym 2025/26 przeciwko Barçy.",
-        "Brak ciągłości i niedostateczne przygotowanie kluczowych zawodników Barçy (Laprovittola, Vesely, Satoransky, Clyburn, Punter) z powodu wcześniejszych kontuzji.",
-        "UCAM Murcia jest w doskonałej formie, wygrywając 4 z 5 ostatnich meczów ligowych, w tym trzy ostatnie u siebie.",
-        "Lider UCAM Murcia, David DeJulius, jest w świetnej formie, będąc drugim najlepszym strzelcem ligi."
-      ],
-      "injury_notes": "Barça: Choć wszyscy zawodnicy są medycznie zdolni do gry, to u niektórych kluczowych graczy, takich jak Laprovittola, Vesely, Satoransky i Clyburn, zauważa się brak ciągłości gry po wcześniejszych kontuzjach. Kevin Punter, mimo poważnej kontuzji przywodziciela w lutym 2026, powrócił i odegrał kluczową rolę w Pucharze Króla. UCAM Murcia: Brak istotnych, świeżych doniesień o kontuzjach na dzień meczu."
+      "note": "AI fallback"
     },
     {
       "matchup": "La Laguna Tenerife @ Real Madrid",
-      "phase": "Playoff Cuartos de final",
-      "date": "2026-06-02T21:00:00+02:00",
-      "ai_pick": "Real Madrid",
+      "ai_pick": null,
       "formula_pick": "Real Madrid",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Real Madryt, mimo własnych problemów z kontuzjami centrów, przystępuje do meczu z dużo głębszym i zdrowszym składem niż zdziesiątkowana La Laguna Tenerife. Brak kluczowych graczy Tenerife, takich jak Huertas, Shermadini czy Giedraitis, znacząco obniża ich potencjał ofensywny i defensywny, co w połączeniu z przewagą własnego parkietu dla Realu sprawia, że gospodarze są faworytami.",
-      "key_factors": [
-        "Poważne i liczne kontuzje kluczowych graczy La Laguna Tenerife (Marcelinho Huertas, Giorgi Shermadini, Rokas Giedraitis, Bruno Fitipaldo, Fran Guerra).",
-        "Przewaga własnego parkietu Realu Madryt w pierwszym meczu play-off.",
-        "Głębszy skład Realu Madryt, mimo kontuzji centrów (Tavares, Len, Garuba), oraz sprowadzone wzmocnienia (Ömer Yurtseven, Mady Sissoko)."
-      ],
-      "injury_notes": "La Laguna Tenerife zmaga się z poważnymi kontuzjami: Rokas Giedraitis (zerwane ACL) jest wykluczony do końca sezonu. Marcelinho Huertas (naciągnięcie mięśnia uda), Aaron Doornekamp (przeciążenie mięśnia czworogłowego) i Giorgi Shermadini (arytmia serca) mają niepewny status powrotu w play-offach, a Bruno Fitipaldo (kontuzja łydki) i Fran Guerra (skręcenie kostki) są wykluczeni. Real Madryt ma kontuzje centrów (Edy Tavares, Alex Len, Usman Garuba), ale wzmocnił się na tę pozycję Ömerem Yurtsevenem i Mady Sissoko na play-offy."
+      "note": "AI fallback"
     }
   ]
 }
