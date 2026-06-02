@@ -1,17 +1,14 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-02 17:25 ET) ---
-**Knicks @ Spurs** -> Typ: Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-06-02 18:24 ET) ---
+Analiza meczu: Knicks @ Spurs
 
-*   **Kluczowe braki w składach (na podstawie raportów ze stycznia 2026):**
+*   **Kluczowe braki w składach (na dzień 2026-06-02):**
     *   **New York Knicks:**
-        *   Jalen Brunson (PG): Prawdopodobnie poza składem lub mocno ograniczony (skręcenie prawej kostki) 🤕. Kluczowy dla ofensywy Knicks.
-        *   Mitchell Robinson (C): Poza składem (kontuzja lewej kostki, zarządzanie urazem) 🩹. Ważny w obronie i na zbiórkach.
-        *   Josh Hart (SG/SF): Prawdopodobnie poza składem lub mocno ograniczony (ból/skręcenie prawej kostki) 🤕. Ważny gracz rotacyjny.
-        *   Karl-Anthony Towns (PF/C): Prawdopodobnie poza składem lub mocno ograniczony (skurcze mięśni grzbietu piersiowego) 🤕. Kluczowa siła ofensywna.
+        *   Mitchell Robinson (środkowy): Zmaga się ze złamaniem małego palca prawej ręki. Planuje zagrać w meczu nr 1 Finałów NBA, ale będzie potrzebował „dość sporej” ortezy i musi jeszcze uzyskać zgodę zespołu. Jego status na oficjalnym raporcie jest niepewny.
+        *   Brak aktualnych, potwierdzonych raportów (Injury Report) dla innych kluczowych graczy na tę chwilę bezpośrednio przed meczem Finałów NBA (zaplanowanym na 06/03/2026). Oficjalne raporty (NBA CMS) dla obu drużyn są oznaczone jako "NOT YET SUBMITTED" dla tego meczu.
     *   **San Antonio Spurs:**
-        *   Devin Vassell (SG/SF): Prawdopodobnie poza składem lub mocno ograniczony (nadciągnięcie lewego przywodziciela) 🩹. Kluczowy strzelec.
-        *   Jeremy Sochan (PF): Prawdopodobnie poza składem lub mocno ograniczony (choroba) 🤒. Starter.
-        *   Luke Kornet (C): Prawdopodobnie poza składem lub mocno ograniczony (uciśnięcie lewego przywodziciela) 🩹. Gracz rotacyjny na pozycji centra.
-        *   Victor Wembanyama (C/PF): Wczesny styczeń "status ograniczony", ale późniejsze raporty sugerują, że grał ze zwiększoną odpowiedzialnością.
+        *   De'Aaron Fox (rozgrywający): Gra z prawym wysokim zwichnięciem kostki. Opuścił wcześniej dwa mecze, ale grał na solidnym poziomie w kolejnych. Przed Finałami wyrażano "prawdziwy powód do optymizmu" co do jego stanu zdrowia, choć grał z urazem przez dwie poprzednie serie.
+        *   Brak aktualnych, potwierdzonych raportów (Injury Report) dla innych kluczowych graczy na tę chwilę. Oficjalne raporty (NBA CMS) dla obu drużyn są oznaczone jako "NOT YET SUBMITTED" dla tego meczu.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Biorąc pod uwagę potencjalne, liczne i kluczowe braki w składzie New York Knicks (Brunson, Robinson, Hart, Towns), ich siła ofensywna i obrona podkoszowa byłyby znacznie osłabione. Mimo braków w Spurs, obecność Victora Wembanyamy (nawet z wcześniejszym "ograniczonym statusem", ale grającego aktywnie w dalszej części miesiąca) daje im wyraźną przewagę nad zdziesiątkowanymi Knicks.
+*   **Werdykt dla typu: Spurs**
+    *   [⚠️ RYZYKOWNY]
+    *   **Uzasadnienie:** Mimo że De'Aaron Fox ze Spurs gra z kontuzją, istnieją przesłanki, że jego stan się poprawia. Kluczowy dla Knicks Mitchell Robinson, obrońca, który miałby zatrzymać Victora Wembanyamę, ma złamany palec i planuje grać z dużą ortezą, co może znacząco wpłynąć na jego skuteczność. Niepewność co do pełnej sprawności Robinsona osłabia obronę Knicks w strefie podkoszowej, co może być decydujące przeciwko dominującemu Wembanyamie. Dodatkowo, mecz odbywa się na parkiecie Spurs (Knicks @ Spurs). Ze względu na kluczowe urazy w obu zespołach, szczególnie w obronie Knicks, typ na Spurs jest ryzykowny, choć ma swoje podstawy.

@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-02T12:04:49.229889",
-  "date": "2026-06-02",
+  "generated_at": "2026-06-02T22:26:17.342540",
+  "date": "2026-06-03",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Barça @ UCAM Murcia",
+      "matchup": "Surne Bilbao @ Valencia Basket",
       "ai_pick": null,
-      "formula_pick": "UCAM Murcia",
+      "formula_pick": "Valencia Basket",
       "note": "AI fallback"
     },
     {
-      "matchup": "La Laguna Tenerife @ Real Madrid",
+      "matchup": "Asisa Joventut @ Kosner Baskonia",
       "ai_pick": null,
-      "formula_pick": "Real Madrid",
+      "formula_pick": "Kosner Baskonia",
       "note": "AI fallback"
     }
   ]
