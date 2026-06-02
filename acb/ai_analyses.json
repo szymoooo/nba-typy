@@ -1,20 +1,42 @@
 {
-  "generated_at": "2026-06-01T22:58:13.502948",
+  "generated_at": "2026-06-02T07:22:33.549832",
   "date": "2026-06-02",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Tenerife @ Real Madrid",
-      "ai_pick": null,
-      "formula_pick": "Real Madrid",
-      "note": "AI fallback"
+      "matchup": "Barça @ UCAM Murcia",
+      "phase": "Playoff Cuartos de Final",
+      "date": "2026-06-02T19:00:00+02:00",
+      "ai_pick": "UCAM Murcia",
+      "formula_pick": "UCAM Murcia",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "UCAM Murcia ma przewagę własnego parkietu w pierwszym meczu ćwierćfinałowym i prezentuje znacznie lepszą formę niż Barça, która mierzy się z problemami morale i brakiem rytmu kluczowych graczy po kontuzjach. Dodatkowo, UCAM Murcia wygrała oba mecze z Barçą w sezonie regularnym ACB.",
+      "key_factors": [
+        "Przewaga własnego parkietu UCAM Murcia jako wyżej rozstawionego zespołu w fazie Playoff.",
+        "Lepsza forma UCAM Murcia w ostatnich pięciu meczach ACB (4-1) oraz wysokie morale, w przeciwieństwie do Barçy, która zanotowała niedawno dotkliwą porażkę.",
+        "UCAM Murcia wygrała oba spotkania w sezonie regularnym ACB 2025/26 przeciwko Barçy.",
+        "Brak rytmu i ciągłości gry kluczowych graczy Barçy (Laprovittola, Vesely, Satoransky, Clyburn) po kontuzjach, mimo że są zdolni do gry."
+      ],
+      "injury_notes": "Kluczowi gracze Barçy, tacy jak Laprovittola, Vesely, Satoransky czy Clyburn, są dostępni, ale ich forma i zgranie w zespole są osłabione z powodu wcześniejszych kontuzji i braku ciągłości treningowej. Brak istotnych braków w składzie UCAM Murcia na dzień 2026-06-02."
     },
     {
-      "matchup": "Barcelona @ Murcia",
-      "ai_pick": null,
-      "formula_pick": "Murcia",
-      "note": "AI fallback"
+      "matchup": "La Laguna Tenerife @ Real Madrid",
+      "phase": "Playoff Cuartos de Final",
+      "date": "2026-06-02T21:00:00+02:00",
+      "ai_pick": "Real Madrid",
+      "formula_pick": "Real Madrid",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Real Madrid, pomimo serii pięciu kolejnych porażek na zakończenie sezonu regularnego, przystępuje do tego meczu jako lider ligi i gospodarz pierwszego spotkania ćwierćfinałowego play-off, gdzie przewaga własnego parkietu jest znacząca. La Laguna Tenerife zmaga się z bardzo poważnymi kontuzjami kluczowych zawodników, co znacząco osłabia ich rotację i jest główną przyczyną ich słabej formy w ostatnich meczach.",
+      "key_factors": [
+        "La Laguna Tenerife ma liczne i poważne kontuzje kluczowych graczy (Giedraitis, Fitipaldo, Shermadini, Guerra poza grą; Huertas, Doornekamp wątpliwi).",
+        "Real Madryt gra u siebie w play-offach, co zapewnia silną przewagę własnego parkietu.",
+        "Real Madryt zakończył sezon regularny jako lider ligi.",
+        "Real Madryt posiada zdrowego MVP ligi Mario Hezonję, podczas gdy kluczowi liderzy Tenerife są kontuzjowani lub wątpliwi."
+      ],
+      "injury_notes": "Real Madrid: Usman Garuba (zerwanie ścięgna Achillesa, poza sezonem), Edy Tavares (kontuzja kolana, prawdopodobnie poza składem na play-offy), Alex Len (kontuzja stopy, prawdopodobnie poza składem na play-offy). Zespół wzmocnił się nowymi zawodnikami, takimi jak Ömer Yurtseven i Mady Sissoko, aby uzupełnić braki na pozycji centra. La Laguna Tenerife: Rokas Giedraitis (zerwanie więzadła krzyżowego przedniego, poza sezonem), Bruno Fitipaldo (kontuzja łydki, poza sezonem), Giorgi Shermadini (arytmia serca, prawdopodobnie poza składem na play-offy), Fran Guerra (skręcenie kostki, poza składem na mecz 2 czerwca). Marcelinho Huertas (kontuzja uda) i Aaron Doornekamp (przeciążenie mięśnia czworogłowego) są wątpliwi, ich powrót w trakcie play-offów jest niepewny. Zespół pozyskał nowych graczy, w tym Elvara Fridrikssona, Kevina Yebo i Patty'ego Millsa."
     }
   ]
 }
