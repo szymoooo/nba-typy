@@ -27,7 +27,7 @@
   "matches": [
     {
       "id": 25347,
-      "game_status": "1",
+      "game_status": "2",
       "championship_id": 595,
       "championships_day_id": 4476,
       "year": 2025,
@@ -35,18 +35,18 @@
       "match_datetime": "2026-06-03T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 23,
-      "visitor_final_score": 25,
+      "home_final_score": 93,
+      "visitor_final_score": 68,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 22,
       "websocket_match_id": "1674763",
       "ticketing_url": null,
       "has_streaming": 0,
-      "match_serie": "1-1",
-      "match_hw": 1,
+      "match_serie": "2-1",
+      "match_hw": 2,
       "match_vw": 1,
-      "updated_at": "2026-06-03T20:25:42.911+02:00",
+      "updated_at": "2026-06-03T21:48:32.096+02:00",
       "h_team_id": 1714,
       "h_team_name": "EA7 Emporio Armani Milano",
       "h_club_code": "MIL",
@@ -282,6 +282,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1780488355_mlCK:1780510835_cmCK:1780511142_cdCK:1780488355_vCK:1780472198",
+  "cache_key": "tCK:1780488355_mlCK:1780516936_cmCK:1780516119_cdCK:1780488355_vCK:1780516064",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }

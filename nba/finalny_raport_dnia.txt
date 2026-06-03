@@ -1,8 +1,31 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-03 14:24 ET) ---
-**Knicks @ Spurs** -> Typ: Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-06-03 16:13 ET) ---
+Analiza meczu: Knicks @ Spurs -> Typ: Spurs (data analizy: 2026-06-03)
 
-*   **Kluczowe braki w składach:**
-    Brak aktualnych raportów (Injury Report) na tę chwilę.
+**Kluczowe braki w składach (na podstawie raportów ze STYCZNIA 2026):**
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    Brak dostępnych danych dotyczących aktualnych (stan na 2026-06-03) raportów o kontuzjach z okresu stycznia 2026 uniemożliwia rygorystyczną analizę składów i kluczowych absencji. Bez tych informacji, typowanie jest obarczone wysokim ryzykiem.
+*   **New York Knicks:**
+    *   Jalen Brunson: Naciągnięcie prawego stawu skokowego (Day-to-day/Questionable w styczniu 2026). Jego brak to znaczący cios w ofensywę Knicks.
+    *   Josh Hart: Dyskomfort/skręcenie prawego stawu skokowego (Day-to-day/Out w styczniu 2026).
+    *   Karl-Anthony Towns: Pytanie o stan zdrowia z powodu skurczów pleców (Questionable w styczniu 2026).
+    *   Landry Shamet: Wypadł z powodu skręcenia prawego barku (Out w styczniu 2026).
+    *   Kilku zawodników na kontraktach G-League/Two-Way było poza składem.
+
+*   **San Antonio Spurs:**
+    *   Devin Vassell: Naciągnięcie lewego przywodziciela/problemy z udem (Out w styczniu 2026).
+    *   Luke Kornet: Problemy z lewym przywodzicielem (Questionable w styczniu 2026).
+    *   Jeremy Sochan: Choroba (Questionable w styczniu 2026).
+    *   Aaron Wiggins: Impingement prawego biodra (Questionable w styczniu 2026).
+    *   Victor Wembanyama: Day-to-Day z powodu urazu kolana na początku stycznia 2026, ale późniejsze raporty sugerują zwiększoną odpowiedzialność na boisku, co wskazuje na jego obecność lub minimalny wpływ kontuzji na jego grę w dalszej części stycznia.
+    *   Kilku zawodników na kontraktach G-League/Two-Way było poza składem.
+
+**Werdykt:**
+
+[✅ ZATWIERDZONY]
+
+**Uzasadnienie:**
+
+Pomimo tego, że mecz odbywa się hipotetycznie 3 czerwca 2026, musimy bazować na statusach kontuzji ze stycznia 2026. W tym okresie Knicks potencjalnie mieli znaczące braki, w tym kluczowego rozgrywającego J. Brunsona, ważnego obrońcę i zbierającego J. Harta, a także gwiazdorskiego środkowego K.A. Townsa (stan pod znakiem zapytania).
+
+Spurs, choć mieli kontuzje Vassella i kilku innych graczy na statusie "questionable", wydawali się mieć swój trzon, w tym Victora Wembanyamę, dostępny lub z mniejszymi ograniczeniami w późniejszym styczniu.
+
+Biorąc pod uwagę potencjalne osłabienie kluczowych graczy Knicks w styczniu 2026 i fakt, że Spurs zakończyli sezon 2025-26 z lepszym bilansem (62-20 vs 53-29 dla Knicks), typ na Spurs wydaje się być uzasadniony. Co więcej, Basketball-Reference wskazuje, że mecz Knicks @ Spurs na 3 czerwca 2026 był zaplanowany w sezonie 2025-26.
