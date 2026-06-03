@@ -5,7 +5,7 @@
       "id": null
     },
     "awayTeam": {
-      "name": "Surne Bilbao",
+      "name": "Surne Bilbao Basket",
       "id": null
     },
     "startTimestamp": 1780506000,
@@ -19,7 +19,7 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Quarterfinals"
+      "name": "Playoff Quarter-finals"
     },
     "_source": "gemini_search"
   },
@@ -43,7 +43,7 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Quarterfinals"
+      "name": "Playoff Quarter-finals"
     },
     "_source": "gemini_search"
   }
