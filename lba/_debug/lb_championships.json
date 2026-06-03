@@ -31,6 +31,21 @@
       "logo_key": "AV4NnbuUnneNLcHakK7CNs29"
     },
     {
+      "id": 596,
+      "year": 2025,
+      "name": "Regular Season A 2025",
+      "status": 1,
+      "championship_type_id": 4,
+      "championship_series_id": 1,
+      "full_name": "Regular Season 2025/26",
+      "focus_on": false,
+      "ctype_code": "RS",
+      "ctype_name": "Regular Season",
+      "cserie_code": "A1",
+      "cserie_name": "Serie A",
+      "logo_key": "pPKrU5HAaZiGU6dgWuFgWrFa"
+    },
+    {
       "id": 597,
       "year": 2025,
       "name": "Final Eight 2026",
@@ -59,21 +74,6 @@
       "cserie_code": "NG",
       "cserie_name": "Next Gen Cup",
       "logo_key": "2uCGvoBmfvQ8pLcsZ7FQcNfK"
-    },
-    {
-      "id": 596,
-      "year": 2025,
-      "name": "Regular Season A 2025",
-      "status": 1,
-      "championship_type_id": 4,
-      "championship_series_id": 1,
-      "full_name": "Regular Season 2025/26",
-      "focus_on": false,
-      "ctype_code": "RS",
-      "ctype_name": "Regular Season",
-      "cserie_code": "A1",
-      "cserie_name": "Serie A",
-      "logo_key": "pPKrU5HAaZiGU6dgWuFgWrFa"
     },
     {
       "id": 599,
@@ -108,6 +108,6 @@
     "prev": null,
     "next": null
   },
-  "cache_key": "cCK:1780256888_pg:1/1000",
+  "cache_key": "cCK:1780488355_pg:1/1000",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }

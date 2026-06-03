@@ -1,24 +1,26 @@
 {
-  "generated_at": "2026-06-01T14:41:54.626599",
-  "date": "2026-06-01",
+  "generated_at": "2026-06-03T12:41:46.457741",
+  "date": "2026-06-03",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Umana Reyer Venezia @ Virtus Olidata Bologna",
-      "day": "Semifinali - Gara 2",
-      "date": "2026-06-01T20:00:00.000+02:00",
-      "ai_pick": "Virtus Olidata Bologna",
-      "formula_pick": "Virtus Olidata Bologna",
-      "agreement": true,
+      "matchup": "Germani Brescia @ EA7 Emporio Armani Milano",
+      "day": "Semifinali - Gara 3",
+      "date": "2026-06-03T20:00:00.000+02:00",
+      "ai_pick": "EA7 Emporio Armani Milano",
+      "formula_pick": "Germani Brescia",
+      "agreement": false,
       "confidence": 7,
-      "reasoning": "Virtus Olidata Bologna będzie niezwykle zdeterminowana, aby odnieść zwycięstwo w Gara 2 na własnym parkiecie po przegranej w pierwszym meczu serii półfinałowej. Grając u siebie, gdzie presja kibiców jest znacząca w fazie play-off, zespół będzie dążył do wyrównania stanu rywalizacji.",
+      "reasoning": "EA7 Emporio Armani Milano gra u siebie w Gara 3, co w fazie playoff stanowi znaczącą przewagę, zwłaszcza przy stanie serii 1-1. Mimo zawieszenia Ousmane Diopa i dobrej formy Germani Brescia w Gara 2, Milano ma głębszy skład i udowodniło swoją siłę, wygrywając Gara 1 na wyjeździe.",
       "key_factors": [
-        "Zdecydowana reakcja Virtus Olidata Bologna po porażce w Gara 1, co oznacza silną motywację do zwycięstwa.",
-        "Kluczowy wpływ własnego parkietu i wsparcia kibiców w Virtus Arena, szczególnie w meczu o tak dużej wadze.",
-        "Potrzeba uniknięcia deficytu 0-2 w serii play-off, co postawiłoby Virtus w bardzo trudnej sytuacji."
+        "Przewaga własnego parkietu dla EA7 Emporio Armani Milano",
+        "Zawieszenie Ousmane Diopa (Milano) po wyrzuceniu z Gara 2",
+        "Wyrównana seria 1-1, zwiększona presja Gara 3",
+        "Dobra dyspozycja strzelecka Amedeo Della Valle i Nikoli Ivanovicia (Brescia) w Gara 2",
+        "Poprawiona gra obronna i determinacja Germani Brescia w Gara 2"
       ],
-      "injury_notes": "Virtus Olidata Bologna boryka się z kontuzjami kluczowych graczy: Alessandro Pajola (kontuzja menisku, koniec sezonu), Derrick Alston Jr. (złamanie kości śródręcza, koniec sezonu) oraz Matteo Accorsi są niedostępni. Umana Reyer Venezia wydaje się mieć pełny skład, ze Stefanem Nikolicem, który powrócił do gry przed Gara 1."
+      "injury_notes": "Ousmane Diop (EA7 Emporio Armani Milano) jest zawieszony na Gara 3 z powodu incydentu z Gara 2, gdzie został usunięty z boiska za próbę uderzenia głową Della Valle. Armoni Brooks (Milano) opuścił Gara 2 z powodu przekroczenia limitu fauli. Brak innych istotnych kontuzji odnotowanych na dzień 2026-06-03 dla obu drużyn."
     }
   ]
 }

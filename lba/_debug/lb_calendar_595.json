@@ -26,100 +26,100 @@
   },
   "matches": [
     {
-      "id": 25346,
-      "game_status": "2",
+      "id": 25347,
+      "game_status": "0",
       "championship_id": 595,
-      "championships_day_id": 4475,
+      "championships_day_id": 4476,
       "year": 2025,
-      "number": 2,
-      "match_datetime": "2026-05-31T20:00:00.000+02:00",
+      "number": 3,
+      "match_datetime": "2026-06-03T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 85,
-      "visitor_final_score": 79,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
       "target_score": null,
       "additional_time": 0,
-      "plant_id": 61,
-      "websocket_match_id": "1674762",
+      "plant_id": 22,
+      "websocket_match_id": "1674763",
       "ticketing_url": null,
       "has_streaming": 0,
       "match_serie": "1-1",
       "match_hw": 1,
       "match_vw": 1,
-      "updated_at": "2026-05-31T22:12:34.321+02:00",
-      "h_team_id": 1713,
-      "h_team_name": "Germani Brescia",
-      "h_club_code": "BRE",
+      "updated_at": "2026-06-03T14:05:15.168+02:00",
+      "h_team_id": 1714,
+      "h_team_name": "EA7 Emporio Armani Milano",
+      "h_club_code": "MIL",
       "h_team_enabled": true,
-      "home_logo_key": "4VQTNve4bj562gsk2iL5PBcq",
-      "v_team_id": 1714,
-      "v_team_name": "EA7 Emporio Armani Milano",
-      "v_club_code": "MIL",
+      "home_logo_key": "uhXQM9TfW57tdmwtRszMaEXx",
+      "v_team_id": 1713,
+      "v_team_name": "Germani Brescia",
+      "v_club_code": "BRE",
       "v_team_enabled": true,
-      "v_logo_key": "uhXQM9TfW57tdmwtRszMaEXx",
-      "town_id": 1549,
-      "plant_name": "Palaleonessa A2A",
-      "town_name": "Brescia",
-      "day_code": "2",
-      "day_serial": 3002,
-      "day_name": "Semifinali - Gara 2",
+      "v_logo_key": "4VQTNve4bj562gsk2iL5PBcq",
+      "town_id": 1150,
+      "plant_name": "Unipol Forum",
+      "town_name": "Assago",
+      "day_code": "3",
+      "day_serial": 3003,
+      "day_name": "Semifinali - Gara 3",
       "match_serie_key": "1713_1714"
     },
     {
-      "id": 25349,
-      "game_status": "2",
+      "id": 25350,
+      "game_status": "0",
       "championship_id": 595,
-      "championships_day_id": 4475,
+      "championships_day_id": 4476,
       "year": 2025,
-      "number": 2,
-      "match_datetime": "2026-06-01T20:00:00.000+02:00",
+      "number": 3,
+      "match_datetime": "2026-06-04T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 98,
-      "visitor_final_score": 79,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
       "target_score": null,
       "additional_time": 0,
-      "plant_id": 63,
-      "websocket_match_id": "1674765",
+      "plant_id": 57,
+      "websocket_match_id": "1674766",
       "ticketing_url": null,
       "has_streaming": 0,
       "match_serie": "1-1",
       "match_hw": 1,
       "match_vw": 1,
-      "updated_at": "2026-06-01T21:48:40.979+02:00",
-      "h_team_id": 1712,
-      "h_team_name": "Virtus Olidata Bologna",
-      "h_club_code": "BOL",
+      "updated_at": "2026-06-03T14:05:21.291+02:00",
+      "h_team_id": 1724,
+      "h_team_name": "Umana Reyer Venezia",
+      "h_club_code": "VEN",
       "h_team_enabled": true,
-      "home_logo_key": "HRX9Wp5BEw1nVnA2ArDX64R9",
-      "v_team_id": 1724,
-      "v_team_name": "Umana Reyer Venezia",
-      "v_club_code": "VEN",
+      "home_logo_key": "WgraaLBwXnKWsQW8sRUsrE74",
+      "v_team_id": 1712,
+      "v_team_name": "Virtus Olidata Bologna",
+      "v_club_code": "BOL",
       "v_team_enabled": true,
-      "v_logo_key": "WgraaLBwXnKWsQW8sRUsrE74",
-      "town_id": 3451,
-      "plant_name": "Virtus Arena",
-      "town_name": "Bologna",
-      "day_code": "2",
-      "day_serial": 3002,
-      "day_name": "Semifinali - Gara 2",
+      "v_logo_key": "HRX9Wp5BEw1nVnA2ArDX64R9",
+      "town_id": 9660,
+      "plant_name": "Palasport Taliercio",
+      "town_name": "Mestre",
+      "day_code": "3",
+      "day_serial": 3003,
+      "day_name": "Semifinali - Gara 3",
       "match_serie_key": "1712_1724"
     }
   ],
   "referees": {
-    "25346": [
-      "GIOVANNETTI",
-      "BARTOLI",
-      "BORGIONI"
+    "25347": [
+      "LANZARINI",
+      "LO GUZZO",
+      "PERCIAVALLE"
     ],
-    "25349": [
-      "ROSSI",
-      "BALDINI",
-      "BONGIORNI"
+    "25350": [
+      "SAHIN",
+      "GRIGIONI",
+      "VALZANI"
     ]
   },
   "broadcasters": {
-    "25346": [
+    "25347": [
       {
         "name": "LBATV",
         "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
@@ -131,9 +131,13 @@
       {
         "name": "Cielo",
         "logo": "TdQNBYrbL3bTH7JsCc5rUH2c"
+      },
+      {
+        "name": "SkySportUno",
+        "logo": "BbMs8nKY6hcZR2CTSYgi9SC3"
       }
     ],
-    "25349": [
+    "25350": [
       {
         "name": "LBATV",
         "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
@@ -141,6 +145,10 @@
       {
         "name": "SkySportBasket",
         "logo": "P5BD129wViAuxiVzdcxEY5dD"
+      },
+      {
+        "name": "SkySportUno",
+        "logo": "BbMs8nKY6hcZR2CTSYgi9SC3"
       }
     ]
   },
@@ -194,14 +202,14 @@
         "event_serial": 3002,
         "code": "2",
         "name": "Semifinali - Gara 2",
-        "focus_on": true
+        "focus_on": false
       },
       {
         "id": 4476,
         "event_serial": 3003,
         "code": "3",
         "name": "Semifinali - Gara 3",
-        "focus_on": false
+        "focus_on": true
       },
       {
         "id": 4477,
@@ -274,6 +282,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1780256888_mlCK:1780475115_cmCK:1780381484_cdCK:1780256888_vCK:1780472198",
+  "cache_key": "tCK:1780488355_mlCK:1780490344_cmCK:1780488321_cdCK:1780488355_vCK:1780472198",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }

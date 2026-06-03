@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-06-03T08:38:26.362594",
+  "generated_at": "2026-06-03T12:42:51.543726",
   "date": "2026-06-03",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Surne Bilbao @ Valencia Basket",
-      "phase": "Playoff Cuartos de final",
-      "date": "2026-06-03T19:00:00+02:00",
-      "ai_pick": "Surne Bilbao",
+      "phase": "Playoff Quarter Finals",
+      "date": "2026-06-03T17:00:00+02:00",
+      "ai_pick": "Valencia Basket",
       "formula_pick": "Valencia Basket",
-      "agreement": false,
+      "agreement": true,
       "confidence": 7,
-      "reasoning": "Valencia Basket wchodzi w fazę playoff z poważnymi problemami kadrowymi, w tym z wątpliwym występem kluczowego rozgrywającego Jeana Montero (kontuzja barku) oraz potwierdzonymi absencjami Xabiego Lópeza-Arosteguiego i Josepa Puerto. Surne Bilbao, pomimo niższej pozycji w sezonie zasadniczym, jest w pełnym składzie i prezentuje świetną formę (4 zwycięstwa w ostatnich 5 meczach ACB). Chociaż Valencia ma przewagę własnego parkietu i wygrała oba poprzednie spotkania H2H w tym sezonie, osłabienia liderów mogą zniwelować te atuty i pozwolić Bilbao na niespodziankę w pierwszym meczu serii.",
+      "reasoning": "Valencia Basket ma przewagę własnego parkietu w pierwszym meczu ćwierćfinałowym play-offów i imponującą serię 4 zwycięstw w ostatnich 5 meczach ACB, w tym dominujące zwycięstwo nad Barceloną. Dodatkowo, Valencia wygrała oba poprzednie spotkania z Surne Bilbao w tym sezonie. Jednakże, ich występ może być osłabiony przez liczne kontuzje kluczowych graczy, w tym lidera Jeana Montero.",
       "key_factors": [
-        "Kontuzje kluczowych graczy Valencia Basket (Jean Montero, Xabi López-Arostegui, Josep Puerto).",
-        "Pełny i zdrowy skład Surne Bilbao oraz ich dobra forma z ostatnich 5 meczów ACB (4-1).",
-        "Mimo przewagi własnego parkietu Valencia Basket, osłabienia kadrowe są znaczące dla faworyta."
+        "Przewaga własnego parkietu dla Valencia Basket w meczu Playoff Quarter Finals.",
+        "Bardzo dobra forma Valencia Basket (4 zwycięstwa w ostatnich 5 meczach ACB).",
+        "Bilans H2H w sezonie 2025/26: 2-0 dla Valencia Basket.",
+        "Liczne kontuzje kluczowych graczy w Valencia Basket (Montero, Lopez-Arostegui, Puerto)."
       ],
-      "injury_notes": "Valencia Basket: Jean Montero (rozgrywający, w składzie najlepszej piątki ligi) jest wątpliwy z powodu kontuzji barku, nie trenował. Xabi López-Arostegui (rozgrywający) i Josep Puerto (obrońca) są potwierdzonymi nieobecnościami. Nate Reuvers (środkowy) wrócił do treningów po wirusie, ale nie jest w 100%. Isaac Nogués (obrońca) skręcił kostkę na ostatnim treningu. Braxton Key (skrzydłowy) miał uraz nosa/twarzy w maju i jego stan był wątpliwy. Surne Bilbao: Brak istotnych braków, drużyna jest w pełnym składzie."
+      "injury_notes": "Valencia Basket ma kilku kontuzjowanych graczy: Stefan Jovic (zapalenie kaletki łokciowej), Amida Brimah (kontuzja ścięgna podkolanowego), Xabi López-Arostegui i Josep Puerto są wykluczeni. Jean Montero doznał urazu barku i nie trenował przed meczem, a Nate Reuvers wrócił do treningów po chorobie, ale nie jest w pełnej sprawności. Isaac Nogués doznał kontuzji kostki. Brak istotnych doniesień o kontuzjach w Surne Bilbao."
     },
     {
-      "matchup": "Asisa Joventut @ Kosner Baskonia",
-      "phase": "Playoff Cuartos de final",
-      "date": "2026-06-03T21:00:00+02:00",
-      "ai_pick": "Kosner Baskonia",
-      "formula_pick": "Kosner Baskonia",
+      "matchup": "Joventut de Badalona @ Baskonia Vitoria",
+      "phase": "Playoff Quarter Finals",
+      "date": "2026-06-03T19:00:00+02:00",
+      "ai_pick": "Baskonia Vitoria",
+      "formula_pick": "Baskonia Vitoria",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "Kosner Baskonia gra u siebie, gdzie ma bardzo mocny bilans 15 zwycięstw w 17 meczach, co w fazie Playoff jest kluczowe. Drużyna zakończyła sezon zasadniczy z dłuższą serią zwycięstw, a ich lider, Timothé Luwawu-Cabarrot, jest w świetnej formie, będąc królem strzelców Ligi Endesa 2025-26. Asisa Joventut, mimo że Ricky Rubio jest MVP maja, prawdopodobnie zagra bez Ante Tomicia, co osłabia ich siłę pod koszem.",
+      "reasoning": "Baskonia Vitoria wchodzi w ten mecz z imponującą serią pięciu zwycięstw z rzędu w ACB i ma przewagę własnego parkietu, która jest szczególnie istotna w fazie play-off. Ich bilans sezonowy jest również lepszy niż Joventutu. Mimo, że H2H w sezonie zasadniczym jest wyrównany (1-1), aktualna forma Baskonii i gra u siebie dają im przewagę.",
       "key_factors": [
-        "Przewaga własnego parkietu Kosner Baskonii i ich doskonały bilans u siebie (15-2).",
-        "Lepsza forma Kosner Baskonii pod koniec sezonu zasadniczego (co najmniej 6 kolejnych zwycięstw w ACB).",
-        "Wybitna forma lidera Kosner Baskonii, Timothé Luwawu-Cabarrot, najlepszego strzelca ligi.",
-        "Prawdopodobna nieobecność Ante Tomicia, kluczowego gracza Asisa Joventut.",
-        "Wyższa pozycja Kosner Baskonii w tabeli sezonu zasadniczego (3. miejsce vs 6. miejsce)."
+        "Aktualna forma: Baskonia 5 zwycięstw z rzędu w ACB",
+        "Przewaga własnego parkietu (mecz domowy w Playoffach)",
+        "Lepszy bilans sezonowy Baskonii (25-9 vs 22-12)",
+        "Kontuzja Khalifa Diopa (Baskonia)"
       ],
-      "injury_notes": "Dla Kosner Baskonii: Starsze raporty (luty-kwiecień 2026) wskazywały na problemy z kontuzjami Markusa Howarda, Rodionsa Kurucsa i Trenta Forresta, jednak brak aktualnych doniesień wykluczających ich z gry na dzień 3 czerwca 2026. Lider, Timothé Luwawu-Cabarrot, jest w doskonałej formie. Dla Asisa Joventut: Weteran Ante Tomic pozostaje prawdopodobnie wyłączony z gry z powodu kontuzji, co było istotną absencją już 14 kwietnia 2026. Ricky Rubio, MVP maja, jest zdrowy i w dobrej dyspozycji."
+      "injury_notes": "Baskonia Vitoria: Khalifa Diop jest kontuzjowany i niezdolny do gry. Stan Markusa Howarda i Markquisa Nowella jest niepewny, ale mogą być dostępni do gry. Joventut de Badalona: Brak istotnych braków w składzie na dzień dzisiejszy; Ricky Rubio jest w znakomitej formie (MVP Maja 2026)."
     }
   ]
 }
