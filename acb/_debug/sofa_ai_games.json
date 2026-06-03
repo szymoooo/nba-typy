@@ -1,14 +1,14 @@
 [
   {
     "homeTeam": {
-      "name": "Valencia Basket",
+      "name": "Kosner Baskonia",
       "id": null
     },
     "awayTeam": {
-      "name": "Surne Bilbao",
+      "name": "Asisa Joventut",
       "id": null
     },
-    "startTimestamp": 1780498800,
+    "startTimestamp": 1780513200,
     "status": {
       "type": "notstarted"
     },
@@ -19,31 +19,7 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Quarter Finals"
-    },
-    "_source": "gemini_search"
-  },
-  {
-    "homeTeam": {
-      "name": "Baskonia Vitoria",
-      "id": null
-    },
-    "awayTeam": {
-      "name": "Joventut de Badalona",
-      "id": null
-    },
-    "startTimestamp": 1780506000,
-    "status": {
-      "type": "notstarted"
-    },
-    "homeScore": {
-      "current": 0
-    },
-    "awayScore": {
-      "current": 0
-    },
-    "roundInfo": {
-      "name": "Playoff Quarter Finals"
+      "name": "Playoff Cuartos de final"
     },
     "_source": "gemini_search"
   }

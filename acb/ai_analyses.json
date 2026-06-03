@@ -1,42 +1,25 @@
 {
-  "generated_at": "2026-06-03T12:42:51.543726",
+  "generated_at": "2026-06-03T18:26:44.644401",
   "date": "2026-06-03",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Surne Bilbao @ Valencia Basket",
-      "phase": "Playoff Quarter Finals",
-      "date": "2026-06-03T17:00:00+02:00",
-      "ai_pick": "Valencia Basket",
-      "formula_pick": "Valencia Basket",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Valencia Basket ma przewagę własnego parkietu w pierwszym meczu ćwierćfinałowym play-offów i imponującą serię 4 zwycięstw w ostatnich 5 meczach ACB, w tym dominujące zwycięstwo nad Barceloną. Dodatkowo, Valencia wygrała oba poprzednie spotkania z Surne Bilbao w tym sezonie. Jednakże, ich występ może być osłabiony przez liczne kontuzje kluczowych graczy, w tym lidera Jeana Montero.",
-      "key_factors": [
-        "Przewaga własnego parkietu dla Valencia Basket w meczu Playoff Quarter Finals.",
-        "Bardzo dobra forma Valencia Basket (4 zwycięstwa w ostatnich 5 meczach ACB).",
-        "Bilans H2H w sezonie 2025/26: 2-0 dla Valencia Basket.",
-        "Liczne kontuzje kluczowych graczy w Valencia Basket (Montero, Lopez-Arostegui, Puerto)."
-      ],
-      "injury_notes": "Valencia Basket ma kilku kontuzjowanych graczy: Stefan Jovic (zapalenie kaletki łokciowej), Amida Brimah (kontuzja ścięgna podkolanowego), Xabi López-Arostegui i Josep Puerto są wykluczeni. Jean Montero doznał urazu barku i nie trenował przed meczem, a Nate Reuvers wrócił do treningów po chorobie, ale nie jest w pełnej sprawności. Isaac Nogués doznał kontuzji kostki. Brak istotnych doniesień o kontuzjach w Surne Bilbao."
-    },
-    {
-      "matchup": "Joventut de Badalona @ Baskonia Vitoria",
-      "phase": "Playoff Quarter Finals",
-      "date": "2026-06-03T19:00:00+02:00",
-      "ai_pick": "Baskonia Vitoria",
-      "formula_pick": "Baskonia Vitoria",
+      "matchup": "Asisa Joventut @ Kosner Baskonia",
+      "phase": "Playoff Cuartos de final",
+      "date": "2026-06-03T21:00:00+02:00",
+      "ai_pick": "Kosner Baskonia",
+      "formula_pick": "Kosner Baskonia",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "Baskonia Vitoria wchodzi w ten mecz z imponującą serią pięciu zwycięstw z rzędu w ACB i ma przewagę własnego parkietu, która jest szczególnie istotna w fazie play-off. Ich bilans sezonowy jest również lepszy niż Joventutu. Mimo, że H2H w sezonie zasadniczym jest wyrównany (1-1), aktualna forma Baskonii i gra u siebie dają im przewagę.",
+      "reasoning": "Kosner Baskonia wchodzi w tę serię play-off z pięcioma zwycięstwami z rzędu i bardzo silnym bilansem domowym 15-2 w sezonie regularnym. Ich lider, Timothé Luwawu-Cabarrot, jest aktualnym najlepszym strzelcem ligi. Asisa Joventut, mimo dobrej ostatniej formy, zmaga się z poważnymi kontuzjami kluczowych graczy, takich jak Ante Tomic, Simon Birgander i Guillem Vives, co osłabia ich skład w kluczowym momencie, a przewaga własnego parkietu również działa na korzyść Baskonii.",
       "key_factors": [
-        "Aktualna forma: Baskonia 5 zwycięstw z rzędu w ACB",
-        "Przewaga własnego parkietu (mecz domowy w Playoffach)",
-        "Lepszy bilans sezonowy Baskonii (25-9 vs 22-12)",
-        "Kontuzja Khalifa Diopa (Baskonia)"
+        "Poważne kontuzje kluczowych graczy Asisa Joventut (Tomic, Birgander, Vives)",
+        "Kosner Baskonia w znakomitej formie, z 5 zwycięstwami z rzędu w ACB",
+        "Silna przewaga własnego parkietu Kosner Baskonii (bilans 15-2 u siebie, zwycięstwo w H2H u siebie)",
+        "Timothé Luwawu-Cabarrot z Kosner Baskonii jest najlepszym strzelcem Ligi Endesa"
       ],
-      "injury_notes": "Baskonia Vitoria: Khalifa Diop jest kontuzjowany i niezdolny do gry. Stan Markusa Howarda i Markquisa Nowella jest niepewny, ale mogą być dostępni do gry. Joventut de Badalona: Brak istotnych braków w składzie na dzień dzisiejszy; Ricky Rubio jest w znakomitej formie (MVP Maja 2026)."
+      "injury_notes": "Kosner Baskonia ma kilku graczy z problemami zdrowotnymi, w tym Khalifę Diopa i Tadasa Sedekerskisa (długoterminowe), a także Markusa Howarda, Stefana Joksimovicia, Rodionsa Kurucsa i Gytisa Radzeviciusa, którzy zmagali się z urazami na dzień 29 maja 2026 roku. Asisa Joventut jest znacznie osłabiona kontuzjami Guillema Vivesa (skręcenie lewej kostki), Ante Tomicia (kontuzja ścięgna podkolanowego prawej nogi) oraz Simona Birgandera (kontuzja rozcięgna podeszwowego prawej stopy), z szacowanym czasem rekonwalescencji około trzech tygodni na dzień 29 maja 2026 roku."
     }
   ]
 }
