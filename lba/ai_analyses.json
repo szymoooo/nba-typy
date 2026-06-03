@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-06-03T13:00:47.908552",
-  "date": "2026-06-03",
+  "generated_at": "2026-06-03T22:34:42.429310",
+  "date": "2026-06-04",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Germani Brescia @ EA7 Emporio Armani Milano",
-      "ai_pick": null,
-      "formula_pick": "Germani Brescia",
-      "note": "AI fallback"
+      "matchup": "Virtus Olidata Bologna @ Umana Reyer Venezia",
+      "day": "Semifinali - Gara 3",
+      "date": "2026-06-04T20:00:00.000+02:00",
+      "ai_pick": "Umana Reyer Venezia",
+      "formula_pick": "Virtus Olidata Bologna",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Seria jest wyrównana na poziomie 1-1, a mecz odbędzie się na własnym parkiecie Umana Reyer Venezia, co jest kluczowym czynnikiem w fazie playoff. Virtus Olidata Bologna zmaga się z poważnymi kontuzjami kluczowych graczy, w tym Alessandro Pajoli i Derricka Alstona Jr. wykluczonych do końca sezonu, a występ Luki Vildozy jest wątpliwy po urazie biodra w meczu numer 2. Mimo dominacji Virtusu w Game 2, problemy kadrowe faworyzują gospodarzy.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla Umana Reyer Venezia w Game 3.",
+        "Brak Alessandro Pajoli i Derricka Alstona Jr. w Virtus Olidata Bologna do końca sezonu.",
+        "Wątpliwy występ Luki Vildozy (uraz biodra) dla Virtus Olidata Bologna.",
+        "Zdolność Umana Reyer Venezia do wygrania na wyjeździe w Game 1, co pokazuje ich potencjał w tej serii."
+      ],
+      "injury_notes": "Virtus Olidata Bologna: Alessandro Pajola i Derrick Alston Jr. są wykluczeni do końca sezonu. Luca Vildoza doznał urazu biodra w Game 2 (1 czerwca 2026) i jego występ w Game 3 (4 czerwca 2026) jest wątpliwy, decyzja ma zostać podjęta tuż przed meczem. Umana Reyer Venezia: Chris Horton grał w Game 2 (1 czerwca 2026) po wcześniejszym urazie mięśnia łydki z marca 2026 roku, jednak jego wkład w grę był oceniany jako niewystarczający. Inne wcześniejsze kontuzje (Jordan Parks, Ky Bowman) wydają się być zażegnane, gdyż zawodnicy ci grali w Game 2. Brak istotnych nowych braków po Game 2."
     }
   ]
 }
