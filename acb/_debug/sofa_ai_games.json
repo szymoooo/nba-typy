@@ -1,14 +1,14 @@
 [
   {
     "homeTeam": {
-      "name": "Valencia Basket",
+      "name": "Barcelona",
       "id": null
     },
     "awayTeam": {
-      "name": "Surne Bilbao Basket",
+      "name": "UCAM Murcia",
       "id": null
     },
-    "startTimestamp": 1780506000,
+    "startTimestamp": 1780592400,
     "status": {
       "type": "notstarted"
     },
@@ -19,20 +19,20 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Quarter-finals"
+      "name": "Playoff Ćwierćfinały"
     },
     "_source": "gemini_search"
   },
   {
     "homeTeam": {
-      "name": "Kosner Baskonia",
+      "name": "La Laguna Tenerife",
       "id": null
     },
     "awayTeam": {
-      "name": "Asisa Joventut",
+      "name": "Real Madrid",
       "id": null
     },
-    "startTimestamp": 1780513200,
+    "startTimestamp": 1780599600,
     "status": {
       "type": "notstarted"
     },
@@ -43,7 +43,7 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Quarter-finals"
+      "name": "Playoff Ćwierćfinały"
     },
     "_source": "gemini_search"
   }

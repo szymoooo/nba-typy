@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-06-04T03:00:03.441495",
+  "generated_at": "2026-06-04T07:28:40.724182",
   "date": "2026-06-04",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Virtus Olidata Bologna @ Umana Reyer Venezia",
-      "ai_pick": null,
+      "day": "Semifinali - Gara 3",
+      "date": "2026-06-04T20:00:00.000+02:00",
+      "ai_pick": "Umana Reyer Venezia",
       "formula_pick": "Virtus Olidata Bologna",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Umana Reyer Venezia gra u siebie w kluczowym trzecim meczu półfinałów, gdzie seria jest remisowa 1-1. Zespół Virtus Olidata Bologna może być osłabiony przez kontuzję Luki Vildozy, co jest znaczącą stratą w ich rotacji. Gospodarze będą dążyć do przełamania w serii przed własną publicznością i wykorzystać przewagę parkietu.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla Umana Reyer Venezia",
+        "Kontuzja Luki Vildozy (Virtus Olidata Bologna) w Gara 2",
+        "Remis 1-1 w serii playoff",
+        "Motywacja gospodarzy po dominującej przegranej w Gara 2"
+      ],
+      "injury_notes": "Virtus Olidata Bologna: Luca Vildoza doznał kontuzji biodra w meczu Gara 2 (1 czerwca 2026) i jego stan zdrowia miał zostać oceniony, co sprawia, że jego występ w Gara 3 jest wątpliwy. Wcześniej Alessandro Pajola był niedostępny. Umana Reyer Venezia: Brak istotnych nowych kontuzji zgłoszonych na dzień 4 czerwca 2026."
     }
   ]
 }

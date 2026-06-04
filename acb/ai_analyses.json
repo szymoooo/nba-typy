@@ -1,25 +1,42 @@
 {
-  "generated_at": "2026-06-03T18:26:44.644401",
-  "date": "2026-06-03",
+  "generated_at": "2026-06-04T07:29:52.324358",
+  "date": "2026-06-04",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Asisa Joventut @ Kosner Baskonia",
-      "phase": "Playoff Cuartos de final",
-      "date": "2026-06-03T21:00:00+02:00",
-      "ai_pick": "Kosner Baskonia",
-      "formula_pick": "Kosner Baskonia",
+      "matchup": "UCAM Murcia @ Barcelona",
+      "phase": "Playoff Ćwierćfinały",
+      "date": "2026-06-04T19:00:00+02:00",
+      "ai_pick": "Barcelona",
+      "formula_pick": "Barcelona",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Barcelona wykazała dominującą formę w pierwszym meczu ćwierćfinałowym, pokonując UCAM Murcia na wyjeździe 91-68 i zdobywając przewagę w serii 1-0. Grają teraz u siebie, co w fazie playoff stanowi silny atut, a UCAM Murcia zmaga się z kontuzjami kluczowych graczy i słabą formą w ostatnim meczu.",
+      "key_factors": [
+        "Barcelona prowadzi w serii 1-0 po dominującym zwycięstwie na wyjeździe w pierwszym meczu.",
+        "Mecz odbędzie się w Palau Blaugrana, co daje Barcelonie przewagę własnego parkietu w kluczowym meczu playoff.",
+        "Dario Brizuela z Barcelony był w świetnej formie w pierwszym meczu, zdobywając 18 punktów i 5 asyst.",
+        "UCAM Murcia ma kontuzjowanych Dylana Ennisa i prawdopodobnie Howarda Sant-Roosa, a ich kluczowi gracze, David DeJulius i Michael Forrest, słabo spisali się w pierwszym meczu."
+      ],
+      "injury_notes": "Barcelona: Nicolas Laprovittola jest kontuzjowany i wykluczony. UCAM Murcia: Dylan Ennis jest nieobecny, a Howard Sant-Roos doznał kontuzji w pierwszym meczu i jest mało prawdopodobne, aby zagrał."
+    },
+    {
+      "matchup": "Real Madrid @ La Laguna Tenerife",
+      "phase": "Playoff Ćwierćfinały",
+      "date": "2026-06-04T21:00:00+02:00",
+      "ai_pick": "La Laguna Tenerife",
+      "formula_pick": "La Laguna Tenerife",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "Kosner Baskonia wchodzi w tę serię play-off z pięcioma zwycięstwami z rzędu i bardzo silnym bilansem domowym 15-2 w sezonie regularnym. Ich lider, Timothé Luwawu-Cabarrot, jest aktualnym najlepszym strzelcem ligi. Asisa Joventut, mimo dobrej ostatniej formy, zmaga się z poważnymi kontuzjami kluczowych graczy, takich jak Ante Tomic, Simon Birgander i Guillem Vives, co osłabia ich skład w kluczowym momencie, a przewaga własnego parkietu również działa na korzyść Baskonii.",
+      "reasoning": "La Laguna Tenerife prowadzi w serii ćwierćfinałowej 1-0 po sensacyjnym zwycięstwie w Madrycie w meczu numer 1. Real Madryt jest w fatalnej formie, przegrywając sześć kolejnych meczów w ACB, w tym dwa z La Laguna Tenerife na własnym parkiecie w tym sezonie. Mimo kontuzji liderów w obu zespołach, La Laguna Tenerife gra u siebie z szansą na zakończenie serii, co daje jej ogromną przewagę psychologiczną i boiskową.",
       "key_factors": [
-        "Poważne kontuzje kluczowych graczy Asisa Joventut (Tomic, Birgander, Vives)",
-        "Kosner Baskonia w znakomitej formie, z 5 zwycięstwami z rzędu w ACB",
-        "Silna przewaga własnego parkietu Kosner Baskonii (bilans 15-2 u siebie, zwycięstwo w H2H u siebie)",
-        "Timothé Luwawu-Cabarrot z Kosner Baskonii jest najlepszym strzelcem Ligi Endesa"
+        "Fatalna forma Realu Madryt (6 porażek z rzędu w ACB)",
+        "La Laguna Tenerife prowadzi w serii 1-0 i gra u siebie w meczu decydującym",
+        "La Laguna Tenerife wygrało oba spotkania wyjazdowe z Realem Madryt w tym sezonie ACB",
+        "Poważne kontuzje kluczowych centrów w obu drużynach (Shermadini w Tenerife, Tavares w Realu)"
       ],
-      "injury_notes": "Kosner Baskonia ma kilku graczy z problemami zdrowotnymi, w tym Khalifę Diopa i Tadasa Sedekerskisa (długoterminowe), a także Markusa Howarda, Stefana Joksimovicia, Rodionsa Kurucsa i Gytisa Radzeviciusa, którzy zmagali się z urazami na dzień 29 maja 2026 roku. Asisa Joventut jest znacznie osłabiona kontuzjami Guillema Vivesa (skręcenie lewej kostki), Ante Tomicia (kontuzja ścięgna podkolanowego prawej nogi) oraz Simona Birgandera (kontuzja rozcięgna podeszwowego prawej stopy), z szacowanym czasem rekonwalescencji około trzech tygodni na dzień 29 maja 2026 roku."
+      "injury_notes": "Obie drużyny borykają się z poważnymi kontuzjami, zwłaszcza na pozycji centra. La Laguna Tenerife nie zagra bez Gio Shermadiniego (arytmia serca), Frana Guerry (skręcenie kostki), Bruno Fitipaldo (kontuzja mięśniowa) i Rokasa Giedraitisa (poważna kontuzja kolana). Real Madryt ma osłabioną rotację podkoszową z powodu braku Edy'ego Tavaresa, Alexa Lena i Usmana Garuby, choć wzmocnił się Omerem Yurtsevenem i Mady'm Sissoko. Marcelinho Huertas (La Laguna Tenerife) i Aaron Doornekamp (La Laguna Tenerife) zagrali w meczu 1 pomimo wcześniejszych problemów fizycznych."
     }
   ]
 }

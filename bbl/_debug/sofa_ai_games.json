@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "homeTeam": {
+      "name": "Telekom Baskets Bonn",
+      "id": null
+    },
+    "awayTeam": {
+      "name": "FC Bayern München Basketball",
+      "id": null
+    },
+    "startTimestamp": 1780590600,
+    "status": {
+      "type": "notstarted"
+    },
+    "homeScore": {
+      "current": 0
+    },
+    "awayScore": {
+      "current": 0
+    },
+    "roundInfo": {
+      "name": "Playoff Semifinals"
+    },
+    "_source": "gemini_search"
+  },
+  {
+    "homeTeam": {
+      "name": "BMA 365 Bamberg Baskets",
+      "id": null
+    },
+    "awayTeam": {
+      "name": "ALBA BERLIN",
+      "id": null
+    },
+    "startTimestamp": 1780597800,
+    "status": {
+      "type": "notstarted"
+    },
+    "homeScore": {
+      "current": 0
+    },
+    "awayScore": {
+      "current": 0
+    },
+    "roundInfo": {
+      "name": "Playoff Semifinals"
+    },
+    "_source": "gemini_search"
+  }
+]
