@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-06-04T07:30:52.560284",
+  "generated_at": "2026-06-04T10:54:16.485144",
   "date": "2026-06-04",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "FC Bayern München Basketball @ Telekom Baskets Bonn",
+      "matchup": "FC Bayern München @ Telekom Baskets Bonn",
       "phase": "Playoff Semifinals",
-      "ai_pick": "FC Bayern München Basketball",
+      "ai_pick": "FC Bayern München",
       "formula_pick": "Telekom Baskets Bonn",
       "agreement": false,
       "confidence": 9,
-      "reasoning": "FC Bayern München Basketball prowadzi w serii półfinałowej 2-0 i wykazał się dominacją nad Telekom Baskets Bonn w tym sezonie, wygrywając wszystkie cztery dotychczasowe spotkania, w tym jedno w Bonn. Pomimo 'czynnika desperacji' i przewagi własnego parkietu Bonn, potencjalne braki kluczowych graczy Bonn (Murphy, Kessens, Birts) oraz udowodniona głębia składu Bayernu (wygrana bez MVP Obst w meczu 2) przechylają szalę zwycięstwa na korzyść drużyny z Monachium.",
+      "reasoning": "FC Bayern München prowadzi w serii półfinałowej 2-0, dominując poprzednie mecze, zwłaszcza defensywnie. Telekom Baskets Bonn boryka się z kontuzjami kluczowych graczy (Murphy, Kessens, Birts), co osłabia ich ofensywę, mimo desperacji i przewagi własnego parkietu w dzisiejszym meczu. Bayern prezentuje znakomitą formę, wygrywając wszystkie ostatnie pięć spotkań w BBL Playoffach.",
       "key_factors": [
-        "Dominacja H2H (Bayern 4-0 w sezonie)",
-        "Prowadzenie w serii playoff (Bayern 2-0)",
-        "Potencjalne kontuzje kluczowych graczy Bonn (Grayson Murphy, Michael Kessens, Tylan Birts)",
-        "Silna forma Bayernu w playoffach (5 zwycięstw z rzędu)",
-        "Sprawdzona głębia składu Bayernu (wygrana bez MVP Obst w meczu 2)"
+        "Stan serii playoff (Bayern 2-0)",
+        "Kontuzje kluczowych graczy Telekom Baskets Bonn (Murphy, Kessens, Birts)",
+        "Obecna forma FC Bayern München (5 zwycięstw z rzędu w playoffach BBL)",
+        "Głębia składu i skuteczność top graczy FC Bayern (da Silva, Dimitrijevic, Rathan-Mayes)"
       ],
-      "injury_notes": "Dla Telekom Baskets Bonn występ Grayson Murphy'ego, Michaela Kessensa i Tylana Birtsa jest wątpliwy na dzień 4 czerwca 2026 r. z powodu regeneracji. Andreas Obst, MVP BBL i kluczowy zawodnik FC Bayern München Basketball, był nieobecny w meczu 2 (1 czerwca 2026) z powodu choroby, ale Bayern wygrał to spotkanie bez niego."
+      "injury_notes": "Telekom Baskets Bonn ma wątpliwości co do występu kluczowych graczy: rozgrywającego Graysona Murphy'ego, centra Michaela Kessensa i skrzydłowego Tylana Birtsa, którzy borykają się z problemami regeneracyjnymi. Nieobecność Murphy'ego miała zauważalny wpływ na ofensywę Bonn w drugim meczu. FC Bayern München nie zgłasza obecnie istotnych braków kadrowych w drużynie koszykarskiej; Andi Obst opuścił drugi mecz z powodu choroby, ale został skutecznie zastąpiony przez Xaviera Rathan-Mayesa."
     },
     {
-      "matchup": "ALBA BERLIN @ BMA 365 Bamberg Baskets",
+      "matchup": "ALBA BERLIN @ Brose Bamberg",
       "phase": "Playoff Semifinals",
       "ai_pick": "ALBA BERLIN",
-      "formula_pick": "BMA 365 Bamberg Baskets",
+      "formula_pick": "Brose Bamberg",
       "agreement": false,
-      "confidence": 7,
-      "reasoning": "ALBA BERLIN prowadzi w serii półfinałowej 2-0, wygrywając oba dotychczasowe mecze z BMA 365 Bamberg Baskets przekonującą różnicą punktów. Drużyna ALBA BERLIN jest również w lepszej formie, notując serię czterech zwycięstw z rzędu w ostatnich meczach BBL. Mimo przewagi własnego parkietu i \"czynnika desperacji\" dla Bambergu, obecna dominacja i forma ALBA BERLIN są kluczowe.",
+      "confidence": 8,
+      "reasoning": "ALBA BERLIN prowadzi w serii półfinałowej 2-0 po przekonujących zwycięstwach w pierwszych dwóch meczach. Mimo, że Brose Bamberg gra u siebie w meczu o wszystko, ALBA wykazuje lepszą formę i skuteczność w bezpośrednich pojedynkach w tym sezonie, wygrywając 4 z 5 spotkań.",
       "key_factors": [
-        "ALBA BERLIN prowadzi w serii playoff 2-0",
-        "ALBA BERLIN wygrała ostatnie 4 mecze BBL",
-        "BMA 365 Bamberg Baskets grają u siebie, co jest meczem \"być albo nie być\""
+        "ALBA BERLIN prowadzi w serii półfinałowej 2-0",
+        "ALBA BERLIN wygrała 4 z 5 dotychczasowych spotkań H2H w sezonie 2025/26",
+        "Brose Bamberg ma \"desperation factor\" grając u siebie w meczu o utrzymanie się w serii",
+        "Martin Hermannsson z ALBA Berlin powrócił do formy i był kluczowym graczem w ostatnich meczach"
       ],
-      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 2026-06-04."
+      "injury_notes": "Brak istotnych braków. Martin Hermannsson z ALBA BERLIN powrócił do gry po wcześniejszej kontuzji kciuka i zaprezentował dobrą formę w ostatnim meczu."
     }
   ]
 }
