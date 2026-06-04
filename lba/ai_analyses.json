@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-06-04T11:00:46.722100",
+  "generated_at": "2026-06-04T16:58:14.844325",
   "date": "2026-06-04",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Virtus Olidata Bologna @ Umana Reyer Venezia",
-      "ai_pick": null,
+      "day": "Semifinali - Gara 3",
+      "date": "2026-06-04T20:00:00.000+02:00",
+      "ai_pick": "Umana Reyer Venezia",
       "formula_pick": "Virtus Olidata Bologna",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Umana Reyer Venezia gra u siebie w Gara 3, co stanowi istotną przewagę w fazie play-off, szczególnie po tym, jak obie drużyny podzieliły się zwycięstwami w pierwszych dwóch meczach. Virtus Olidata Bologna zmaga się z poważnymi kontuzjami, w tym z absencją Derricka Alstona Jr. i Alessandro Pajoli na resztę sezonu, a występ Luki Vildozy jest wątpliwy z powodu urazu miednicy odniesionego w Gara 2.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla Umana Reyer Venezia",
+        "Poważne kontuzje kluczowych graczy Virtus Olidata Bologna (Alston Jr., Pajola, wątpliwy Vildoza)",
+        "Umana Reyer Venezia już raz pokonała Virtus Bologna na wyjeździe w Gara 1"
+      ],
+      "injury_notes": "Umana Reyer Venezia: brak istotnych braków. Virtus Olidata Bologna: Derrick Alston Jr. i Alessandro Pajola są niedostępni na resztę sezonu. Udział Luki Vildozy w meczu jest wątpliwy z powodu urazu miednicy, którego doznał w Gara 2."
     }
   ]
 }
