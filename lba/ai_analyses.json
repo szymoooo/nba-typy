@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-06-04T10:51:40.262479",
+  "generated_at": "2026-06-04T11:00:46.722100",
   "date": "2026-06-04",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Virtus Olidata Bologna @ Umana Reyer Venezia",
-      "day": "Semifinali - Gara 3",
-      "date": "2026-06-04T20:00:00.000+02:00",
-      "ai_pick": "Umana Reyer Venezia",
+      "ai_pick": null,
       "formula_pick": "Virtus Olidata Bologna",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Umana Reyer Venezia zagra w Gara 3 na własnym parkiecie, co w fazie playoff stanowi znaczący atut i pozwoli im na wsparcie kibiców. Pomimo dominującej porażki w Gara 2, Reyer udowodniła już w Gara 1, że potrafi pokonać Virtus na wyjeździe. Kontuzja Luki Vildozy w drużynie Virtusu może wpłynąć na ich rotację i płynność w ataku, dając przewagę gospodarzom.",
-      "key_factors": [
-        "Silny atut własnego parkietu w meczu nr 3 w wyrównanej serii.",
-        "Kontuzja Luki Vildozy w Virtusie, która może osłabić ich rotację i płynność w ataku.",
-        "Zdolność Umana Reyer Venezia do wygrania meczu wyjazdowego w Gara 1, co pokazuje ich potencjał."
-      ],
-      "injury_notes": "Dla Virtus Olidata Bologna: Luca Vildoza doznał kontuzji biodra w Gara 2, a jego występ w Gara 3 (4 czerwca 2026) jest wątpliwy i zostanie podjęty tuż przed meczem. Alessandro Pajola i Derrick Alston Jr. są wykluczeni do końca sezonu. Dla Umana Reyer Venezia: brak istotnych braków. Chris Horton i Jordan Parks, mimo wcześniejszych problemów, grali w Gara 2."
+      "note": "AI fallback"
     }
   ]
 }

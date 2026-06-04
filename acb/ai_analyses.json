@@ -1,41 +1,20 @@
 {
-  "generated_at": "2026-06-04T10:53:09.870605",
+  "generated_at": "2026-06-04T11:02:22.408961",
   "date": "2026-06-04",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "UCAM Murcia @ Barça",
-      "phase": "Playoff Cuartos de Final",
-      "date": "2026-06-04T19:00:00+02:00",
-      "ai_pick": "Barça",
+      "ai_pick": null,
       "formula_pick": "Barça",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Barça, pomimo znaczących kontuzji kilku kluczowych graczy, zdecydowanie wygrała pierwszy mecz na wyjeździe (91-68), demonstrując silną formę. Grając u siebie w Palau Blaugrana, mają dodatkową przewagę własnego parkietu, co jest kluczowe w fazie Playoff. Chociaż UCAM Murcia wygrała oba mecze w sezonie zasadniczym, osłabienia kadrowe (Ennis, Sant-Roos) oraz słaba postawa liderów w pierwszym meczu stawiają ich w trudnej sytuacji.",
-      "key_factors": [
-        "Przewaga własnego parkietu dla Barçy w Meczu 2.",
-        "Dominujące zwycięstwo Barçy w Meczu 1, pomimo bycia drużyną wyjazdową.",
-        "Znaczące kontuzje w UCAM Murcia (Sant-Roos, Ennis) oraz słaba postawa kluczowych graczy w Meczu 1.",
-        "Zdolność Barçy do dobrej gry w Meczu 1 pomimo własnych obaw o kontuzje, co świadczy o głębi składu."
-      ],
-      "injury_notes": "Barça ma istotne braki w składzie, z kontuzjowanymi Nicolásem Laprovíttolą, Willem Clyburnem, Janem Veselým i Tomasem Satoranskym. UCAM Murcia boryka się z brakiem Dylana Ennisa, a Howard Sant-Roos jest wątpliwy po kontuzji w pierwszym meczu i prawdopodobnie nie zagra."
+      "note": "AI fallback"
     },
     {
       "matchup": "Real Madrid @ La Laguna Tenerife",
-      "phase": "Playoff Cuartos de Final",
-      "date": "2026-06-04T21:00:00+02:00",
-      "ai_pick": "La Laguna Tenerife",
+      "ai_pick": null,
       "formula_pick": "La Laguna Tenerife",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "La Laguna Tenerife prowadzi w serii playoff 1-0, pokonując Real Madryt w pierwszym meczu na wyjeździe. Dodatkowo, dzisiejszy mecz rozgrywany jest na ich własnym parkiecie, co daje im przewagę. Real Madryt znajduje się w słabej formie, notując serię czterech kolejnych porażek w Lidze ACB.",
-      "key_factors": [
-        "La Laguna Tenerife prowadzi w serii playoff 1-0",
-        "Przewaga własnego parkietu dla La Laguna Tenerife w meczu numer 2",
-        "Słaba forma Realu Madryt (cztery kolejne porażki w ACB)"
-      ],
-      "injury_notes": "Brak istotnych braków kadrowych w obu drużynach na dzień 2026-06-04. Usman Garuba z Realu Madryt jest kontuzjowany od dłuższego czasu, ale klub sprowadził zastępców. W La Laguna Tenerife nie odnotowano żadnych braków."
+      "note": "AI fallback"
     }
   ]
 }
