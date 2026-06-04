@@ -1,14 +1,14 @@
 [
   {
     "homeTeam": {
-      "name": "Barcelona",
+      "name": "Surne Bilbao",
       "id": null
     },
     "awayTeam": {
-      "name": "UCAM Murcia",
+      "name": "Valencia Basket",
       "id": null
     },
-    "startTimestamp": 1780588800,
+    "startTimestamp": 1780678800,
     "status": {
       "type": "notstarted"
     },
@@ -19,20 +19,20 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Quarterfinals - Game 2"
+      "name": "Playoff Cuartos de final"
     },
     "_source": "gemini_search"
   },
   {
     "homeTeam": {
-      "name": "La Laguna Tenerife",
+      "name": "Joventut Badalona",
       "id": null
     },
     "awayTeam": {
-      "name": "Real Madrid",
+      "name": "Baskonia",
       "id": null
     },
-    "startTimestamp": 1780596000,
+    "startTimestamp": 1780686000,
     "status": {
       "type": "notstarted"
     },
@@ -43,7 +43,7 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Quarterfinals - Game 2"
+      "name": "Playoff Cuartos de final"
     },
     "_source": "gemini_search"
   }
