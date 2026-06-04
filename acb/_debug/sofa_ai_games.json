@@ -1,14 +1,14 @@
 [
   {
     "homeTeam": {
-      "name": "Barça",
+      "name": "Barcelona",
       "id": null
     },
     "awayTeam": {
       "name": "UCAM Murcia",
       "id": null
     },
-    "startTimestamp": 1780592400,
+    "startTimestamp": 1780588800,
     "status": {
       "type": "notstarted"
     },
@@ -19,7 +19,7 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Quarterfinals Game 2"
+      "name": "Playoff Quarterfinals - Game 2"
     },
     "_source": "gemini_search"
   },
@@ -32,7 +32,7 @@
       "name": "Real Madrid",
       "id": null
     },
-    "startTimestamp": 1780599600,
+    "startTimestamp": 1780596000,
     "status": {
       "type": "notstarted"
     },
@@ -43,7 +43,7 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Quarterfinals Game 2"
+      "name": "Playoff Quarterfinals - Game 2"
     },
     "_source": "gemini_search"
   }
