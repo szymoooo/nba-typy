@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T07:04:47.599927",
+  "generated_at": "2026-06-05T10:57:58.579476",
   "date": "2026-06-05",
   "league": "LBA",
   "model": "gemini-2.5-flash",
@@ -12,14 +12,15 @@
       "formula_pick": "Germani Brescia",
       "agreement": false,
       "confidence": 9,
-      "reasoning": "EA7 Emporio Armani Milano prowadzi w serii 2-1 i gra u siebie w Gara 4, co daje im znaczącą przewagę własnego parkietu, kluczową w fazie playoff. Po dominującym zwycięstwie 93-68 w Gara 3, Milano ma wyraźną dynamikę i szansę na zakończenie serii przed własną publicznością.",
+      "reasoning": "EA7 Emporio Armani Milano ma przewagę 2-1 w serii i gra u siebie w kluczowym Meczu 4 w Unipol Forum, co daje im znaczącą przewagę psychologiczną i atut parkietu domowego. Zespół Milano wygrał Mecz 3 z przewagą 25 punktów (93-68), prezentując skuteczną ofensywę i dobrą obronę. Germani Brescia w Meczu 3 miała problemy ze skutecznością rzutową i stratami piłki, a presja meczu o wszystko może dodatkowo wpłynąć na ich grę.",
       "key_factors": [
-        "Przewaga własnego parkietu dla Milano w kluczowym meczu Gara 4.",
-        "Dominujące zwycięstwo Milano w Gara 3, świadczące o ich dobrej formie i skuteczności na własnym terenie.",
-        "Prowadzenie 2-1 w serii, co daje Milano psychologiczną przewagę i meczową piłkę.",
-        "Brak istotnych, nowych kontuzji uniemożliwiających grę dla kluczowych zawodników obu drużyn."
+        "Przewaga własnego parkietu dla EA7 Emporio Armani Milano w Meczu 4.",
+        "Momentum Milano po dominującym zwycięstwie 93-68 w Meczu 3.",
+        "Słaba skuteczność rzutowa (39% z 2, 32% z 3) i 12 strat Germani Brescia w Meczu 3.",
+        "Milano ma szansę zakończyć serię i awansować do finału.",
+        "Powrót Jasona Burnella (Germani Brescia) do gry w Meczu 3 po urazie kostki, co wskazuje na brak poważnych kontuzji u kluczowych graczy obu drużyn."
       ],
-      "injury_notes": "Jason Burnell (Germani Brescia) doznał skręcenia lewej kostki w Gara 3, ale wrócił do gry w trzeciej kwarcie, co sugeruje, że jego występ w Gara 4 jest możliwy, choć może być utrudniony. Brak zgłoszonych nowych, istotnych kontuzji ani wykluczeń za faule, które miałyby wpływ na Gara 4 dla obu drużyn. Josh Nebo, Ousmane Diop, Zach LeDay, Leandro Bolmaro i Shavon Shields (EA7 Emporio Armani Milano) grali w poprzednich meczach playoff, mimo wcześniejszych problemów zdrowotnych, co wskazuje na ich zdolność do gry."
+      "injury_notes": "Brak istotnych braków. Jason Burnell z Germani Brescia doznał urazu kostki pod koniec pierwszej połowy Meczu 3, ale wrócił do gry w drugiej połowie tego samego spotkania, co sugeruje, że jest zdolny do gry w Meczu 4. Brak doniesień o innych kluczowych kontuzjach na dzień 5 czerwca 2026 dla obu drużyn."
     }
   ]
 }

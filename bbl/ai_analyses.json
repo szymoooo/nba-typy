@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-06-04T16:58:57.076838",
-  "date": "2026-06-04",
+  "generated_at": "2026-06-05T10:59:49.313875",
+  "date": "2026-06-05",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "ALBA BERLIN @ Brose Bamberg",
-      "ai_pick": null,
-      "formula_pick": "Brose Bamberg",
-      "note": "AI fallback"
+      "matchup": "ALBA Berlin @ Bamberg Baskets",
+      "phase": "Halbfinale",
+      "ai_pick": "Bamberg Baskets",
+      "formula_pick": "Bamberg Baskets",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "ALBA Berlin prowadzi w serii półfinałowej 2-1, jednak Bamberg Baskets grają u siebie mecz numer cztery, który jest dla nich \"być albo nie być\". W poprzednim meczu u siebie Bamberg zwyciężył, a dodatkowo ALBA mierzy się z kontuzją Mosesa Wooda oraz słabszą formą kluczowego gracza Martina Hermannssona w ostatnim spotkaniu.",
+      "key_factors": [
+        "Desperation factor dla Bamberg Baskets (mecz o wszystko)",
+        "Przewaga własnego parkietu dla Bamberg Baskets",
+        "Kontuzja Mosesa Wooda (ALBA Berlin) i słabsza forma Martina Hermannssona w Game 3",
+        "Dobra forma Cobe Williamsa (Bamberg Baskets) w Game 3"
+      ],
+      "injury_notes": "Moses Wood z ALBA Berlin doznał kontuzji nadgarstka w czwartej kwarcie trzeciego meczu półfinałowego. Martin Hermannsson z ALBA Berlin, mimo wcześniejszej kontuzji kciuka z lutego 2026, zagrał w Game 3, ale był nieskuteczny. Brak istotnych braków w składzie Bamberg Baskets."
     }
   ]
 }
