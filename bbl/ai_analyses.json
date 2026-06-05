@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-06-05T22:12:39.620603",
+  "generated_at": "2026-06-05T23:42:06.591147",
   "date": "2026-06-06",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Alba Berlin @ Bamberg",
-      "phase": "?",
-      "ai_pick": "Bamberg",
+      "ai_pick": null,
       "formula_pick": "Bamberg",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Mecz 6 czerwca 2026 to czwarty mecz półfinałowej serii playoff BBL, w której Alba Berlin prowadzi 2-1. Bamberg, grając u siebie i po zwycięstwie w trzecim meczu, będzie niezwykle zdeterminowane, aby wyrównać serię. Przewaga własnego parkietu i czynnik 'być albo nie być' w serii są kluczowe dla Bamberga w tym spotkaniu.",
-      "key_factors": [
-        "Stan serii playoff (Alba 2-1)",
-        "Presja na Bamberg (muszą wygrać na własnym parkiecie)",
-        "Przewaga własnego parkietu Bamberga w tym meczu",
-        "Zwycięstwo Bamberga w Game 3 u siebie (81:73)"
-      ],
-      "injury_notes": "Brak istotnych publicznych informacji o kontuzjach kluczowych graczy obu drużyn na dzień 6 czerwca 2026."
+      "note": "AI fallback"
     }
   ]
 }

@@ -1,17 +1,14 @@
---- AUDYT PLK LIVE (2026-06-05 22:46 CET) ---
-Poniżej przedstawiam audyt typowania meczu PLK z dnia 2026-06-01.
+--- AUDYT PLK LIVE (2026-06-06 01:39 CET) ---
+Analiza meczu: Legia Warszawa @ Dziki Warszawa (mecz z 2026-06-01)
 
----
+1.  **Kluczowe braki w składach**:
+    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim. Dostępne informacje z 2026-06-06 nie wskazują na żadne kontuzje, zawieszenia ani inne niedostępności kluczowych zawodników sekcji koszykarskiej Legii. Informacje o kontuzjach na Transfermarkt dotyczą sekcji piłkarskiej i są ignorowane.
+    *   **Dziki Warszawa**: Brak istotnych braków w składzie koszykarskim. Dostępne informacje z 2026-06-06 nie wskazują na żadne kontuzje, zawieszenia ani inne niedostępności kluczowych zawodników sekcji koszykarskiej Dzików.
 
-**Legia Warszawa @ Dziki Warszawa** -> Typ: Legia Warszawa
+2.  **Aktualna forma top scorerów**:
+    *   **Legia Warszawa**: Top scorerzy Legii w sezonie 2025/2026 to Dominic Brewton III (średnio 15.1 Pkt/mecz), Andrzej Pluta (średnio 13.6 Pkt/mecz) i Jayvon Graves (średnio 13.3 Pkt/mecz). Andrzej Pluta zanotował świetny występ w trzecim meczu półfinału (1 czerwca 2026), co przyczyniło się do awansu Legii.
+    *   **Dziki Warszawa**: Top scorerzy Dzików w sezonie 2025/2026 to Landrius Horton (średnio 18.4 Pkt/mecz), Darnell Edge (średnio 16.4 Pkt/mecz) i Tahlik Chavez (średnio 11.5 Pkt/mecz).
+    *   Brak danych z API PulsBasketu dla bieżącej serii, ale na podstawie wyników z PLK.pl widać, że Legia dominowała w serii półfinałowej.
 
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa**: Race Thompson był poza składem z powodu kontuzji stawu skokowego, której doznał w pierwszym meczu serii. Michał Kolenda, kapitan Legii, wrócił do wyjściowej piątki po opuszczeniu dwóch pierwszych meczów półfinału z powodu problemów zdrowotnych.
-    *   **Dziki Warszawa**: Brak istotnych braków w składzie koszykarskim.
-
-2.  **Aktualna forma top scorerów (na podstawie meczu z 2026-06-01 i sezonu 2025/2026):**
-    *   **Legia Warszawa**: W meczu z 2026-06-01 liderami strzelców byli Dominic Brewton (22 pkt) i Andrzej Pluta (21 pkt). Andrzej Pluta został także MVP sezonu zasadniczego. Carl Ponsar zdobył 13 punktów.
-    *   **Dziki Warszawa**: W meczu z 2026-06-01 Darnell Edge zdobył 19 punktów, a Grzegorz Kamiński 12 punktów. W sezonie 2025/2026 czołowymi strzelcami Dzików byli Landrius Horton (śr. 18.4 Pkt/mecz) i Darnell Edge (śr. 16.4 Pkt/mecz).
-
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Legia Warszawa zwyciężyła w tym meczu wynikiem 91:78 i zamknęła serię półfinałową z Dzikami Warszawa wynikiem 3:0, awansując do finału Orlen Basket Ligi. Pomimo jednej kontuzji w składzie Legii (Race Thompson), zespół zaprezentował dominującą formę, a jego kluczowi gracze, jak Andrzej Pluta i Dominic Brewton, byli w świetnej dyspozycji strzeleckiej. Typ był trafny.
+3.  **Werdykt**: ✅ ZATWIERDZONY
+    Legia Warszawa wygrała mecz z Dzikami Warszawa 91:78 w trzecim meczu półfinału ORLEN Basket Ligi 1 czerwca 2026 roku, kończąc serię wynikiem 3-0 i awansując do finału. Drużyna była w dobrej formie i nie odnotowano żadnych kluczowych braków kadrowych w obu zespołach koszykarskich.
