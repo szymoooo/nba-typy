@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:09:31.988633",
+  "generated_at": "2026-06-05T22:12:39.620603",
   "date": "2026-06-06",
   "league": "BBL",
   "model": "gemini-2.5-flash",
@@ -11,13 +11,14 @@
       "formula_pick": "Bamberg",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Bamberg staje przed meczem o wszystko w półfinałach, przegrywając serię 1-2. Grając u siebie, gdzie odnieśli ostatnie zwycięstwo nad Alba Berlin, ich determinacja i przewaga własnego parkietu są kluczowe, aby uniknąć eliminacji. Alba Berlin ma co prawda przewagę w serii, ale ostatni mecz pokazał, że Bamberg jest w stanie ich pokonać, a drobne kontuzje w składzie Alby mogą mieć wpływ.",
+      "reasoning": "Mecz 6 czerwca 2026 to czwarty mecz półfinałowej serii playoff BBL, w której Alba Berlin prowadzi 2-1. Bamberg, grając u siebie i po zwycięstwie w trzecim meczu, będzie niezwykle zdeterminowane, aby wyrównać serię. Przewaga własnego parkietu i czynnik 'być albo nie być' w serii są kluczowe dla Bamberga w tym spotkaniu.",
       "key_factors": [
-        "Wysoki 'desperation factor' dla Bambergu (groźba eliminacji z playoffs)",
-        "Przewaga własnego parkietu Bambergu, gdzie wygrali ostatni mecz serii",
-        "Alba Berlin prowadzi w serii 2-1, ale ma dwóch zawodników z drobnymi kontuzjami"
+        "Stan serii playoff (Alba 2-1)",
+        "Presja na Bamberg (muszą wygrać na własnym parkiecie)",
+        "Przewaga własnego parkietu Bamberga w tym meczu",
+        "Zwycięstwo Bamberga w Game 3 u siebie (81:73)"
       ],
-      "injury_notes": "Alba Berlin ma dwóch zawodników z drobnymi kontuzjami po meczu 4 czerwca 2026. Brak doniesień o nowych, poważnych kontuzjach kluczowych graczy obu drużyn na dzień 6 czerwca 2026."
+      "injury_notes": "Brak istotnych publicznych informacji o kontuzjach kluczowych graczy obu drużyn na dzień 6 czerwca 2026."
     }
   ]
 }
