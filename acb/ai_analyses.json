@@ -1,20 +1,43 @@
 {
-  "generated_at": "2026-06-05T16:35:07.764016",
-  "date": "2026-06-05",
+  "generated_at": "2026-06-05T22:09:02.771379",
+  "date": "2026-06-06",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Valencia @ Bilbao",
-      "ai_pick": null,
-      "formula_pick": "Bilbao",
-      "note": "AI fallback"
+      "matchup": "Tenerife @ Real Madrid",
+      "phase": "?",
+      "date": "2026-06-06T20:00:00+02:00",
+      "ai_pick": "Real Madrid",
+      "formula_pick": "Real Madrid",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Real Madrid, mimo poważnych braków kadrowych na pozycjach podkoszowych, zdominował Game 2 ćwierćfinałów, wygrywając 118-83, co wyrównało serię na 1-1. Jako lider sezonu zasadniczego i obrońca tytułu, Real Madrid korzysta z przewagi własnego parkietu w decydującym Game 3. Forma MVP ligi, Mario Hezonji, dodatkowo wzmacnia ich ofensywny potencjał.",
+      "key_factors": [
+        "Przewaga własnego parkietu Realu Madryt w decydującym Game 3 play-offów.",
+        "Real Madryt zanotował dominujące zwycięstwo 118-83 w Game 2, demonstrując zdolność do rewanżu.",
+        "Mario Hezonja, MVP ligi, utrzymuje wysoką formę, prowadząc Real Madryt w punktacji.",
+        "Mimo kontuzji kluczowych graczy podkoszowych Realu Madryt, takich jak Tavares, Len i Garuba, drużyna zdołała się zaadaptować.",
+        "Tenerife pokazało, że potrafi wygrać w Madrycie (Game 1 i mecz sezonu zasadniczego), ale ogólny bilans H2H i siła Realu Madryt w playoffs są mocnym argumentem."
+      ],
+      "injury_notes": "Real Madrid ma istotne braki kadrowe: Edy Tavares (kontuzja MCL, nie wróci w tej serii), Alex Len i Usman Garuba są kontuzjowani. Po stronie Tenerife Rokas Giedraitis doznał zerwania więzadła krzyżowego przedniego 8 maja 2026 i jest wyłączony z gry."
     },
     {
-      "matchup": "Baskonia @ Joventut Badalona",
-      "ai_pick": null,
-      "formula_pick": "Joventut Badalona",
-      "note": "AI fallback"
+      "matchup": "Barcelona @ Murcia",
+      "phase": "?",
+      "date": "2026-06-06T20:00:00+02:00",
+      "ai_pick": "Murcia",
+      "formula_pick": "Murcia",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Murcia ma silną przewagę własnego parkietu, wygrywając 10 ostatnich meczów u siebie. Pokonali Barcelonę w Game 2 na wyjeździe i mają momentum przed decydującym Game 3.",
+      "key_factors": [
+        "Murcia wygrała Game 2 na wyjeździe (90-87) i ma przewagę psychologiczną w serii playoff (1-1).",
+        "Murcia ma imponującą serię 10 zwycięstw z rzędu na własnym parkiecie.",
+        "Mecz jest decydującym Game 3 ćwierćfinału, co zwiększa znaczenie przewagi własnego boiska.",
+        "Lider Murcji, David DeJulius, zagrał świetnie w Game 2 (22 punkty), mimo kontuzji stawu skokowego."
+      ],
+      "injury_notes": "Murcia zagra bez Dylana Ennisa, a występ Howarda Sant-Roosa jest wątpliwy po kontuzji w Game 1. Barcelona, zgodnie z najnowszymi doniesieniami z 5 czerwca 2026 roku, nie ma istotnych problemów kadrowych, a Nicolas Laprovittola wrócił do składu."
     }
   ]
 }

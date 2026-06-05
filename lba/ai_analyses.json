@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-05T16:33:44.222195",
-  "date": "2026-06-05",
+  "generated_at": "2026-06-05T22:07:40.363464",
+  "date": "2026-06-06",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Germani Brescia @ EA7 Emporio Armani Milano",
+      "matchup": "Virtus Olidata Bologna @ Umana Reyer Venezia",
       "day": "Semifinali - Gara 4",
-      "date": "2026-06-05T20:00:00.000+02:00",
-      "ai_pick": "EA7 Emporio Armani Milano",
-      "formula_pick": "Germani Brescia",
+      "date": "2026-06-06T20:00:00.000+02:00",
+      "ai_pick": "Umana Reyer Venezia",
+      "formula_pick": "Virtus Olidata Bologna",
       "agreement": false,
       "confidence": 8,
-      "reasoning": "EA7 Emporio Armani Milano, grając u siebie i prowadząc w serii 2-1, ma silną pozycję przed Gara 4. Zwycięstwo w Gara 3 dodaje im rozpędu, a przewaga własnego parkietu w fazie play-off jest kluczowa. Brak istotnych kontuzji po obu stronach sugeruje, że obie drużyny wystąpią w optymalnych składach.",
+      "reasoning": "Umana Reyer Venezia prowadzi w serii 2-1 i gra u siebie w Gara 4, co daje im silną przewagę psychologiczną oraz wsparcie kibiców. Virtus Olidata Bologna ma poważne osłabienia kadrowe w postaci kontuzji Alessandro Pajoli i Derricka Alstona, a występ Luki Vildozy jest niepewny z powodu urazu. Mimo że Daniel Hackett może zagrać, osłabienia Virtusu są zbyt duże, aby przeciwstawić się zmotywowanej i grającej u siebie Venezii.",
       "key_factors": [
-        "Przewaga własnego parkietu dla Milano (Unipol Forum, Assago)",
-        "Milano prowadzi w serii playoff 2-1",
-        "Momentum po zwycięstwie Milano w Gara 3 (ostatni mecz serii)",
-        "Brak kluczowych kontuzji po obu stronach"
+        "Przewaga własnego parkietu Umana Reyer Venezia w kluczowym meczu półfinału.",
+        "Znaczące kontuzje kluczowych graczy Virtus Olidata Bologna (Alessandro Pajola, Derrick Alston, Luca Vildoza).",
+        "Umana Reyer Venezia prowadzi w serii 2-1, mając szansę na awans do finału na własnym boisku.",
+        "Dobra forma Umana Reyer Venezia w meczach domowych (wygrana Gara 3)."
       ],
-      "injury_notes": "Brak istotnych braków. Dla Milano, Devin Booker, Nate Sestina i Bryant Dunston byli poza składem w Gara 3 ze względów rotacyjnych, a nie z powodu kontuzji. Brak doniesień o nowych kontuzjach dla Germani Brescia na dzień 2026-06-05."
+      "injury_notes": "Virtus Olidata Bologna: Alessandro Pajola (poza sezonem), Derrick Alston (poza sezonem). Luca Vildoza jest niepewny na Gara 4 z powodu urazu mięśniowego prawego brzucha, którego doznał w Gara 2 i był re-ewaluowany przed tym meczem. Daniel Hackett jest dostępny, ponieważ jego pierwotna dwumeczowa dyskwalifikacja została zredukowana i zamieniona na karę finansową. Umana Reyer Venezia: brak istotnych braków kadrowych. Chris Horton, Jordan Parks i Ky Bowman, którzy mieli wcześniejsze problemy zdrowotne, grali w Gara 3."
     }
   ]
 }
