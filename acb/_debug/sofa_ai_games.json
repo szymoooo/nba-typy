@@ -19,17 +19,17 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Cuartos de final"
+      "name": "Playoff Cuartos de Final"
     },
     "_source": "gemini_search"
   },
   {
     "homeTeam": {
-      "name": "Joventut Badalona",
+      "name": "Asisa Joventut",
       "id": null
     },
     "awayTeam": {
-      "name": "Baskonia",
+      "name": "Kosner Baskonia",
       "id": null
     },
     "startTimestamp": 1780686000,
@@ -43,7 +43,7 @@
       "current": 0
     },
     "roundInfo": {
-      "name": "Playoff Cuartos de final"
+      "name": "Playoff Cuartos de Final"
     },
     "_source": "gemini_search"
   }
