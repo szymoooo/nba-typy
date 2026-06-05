@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T10:57:58.579476",
+  "generated_at": "2026-06-05T11:27:09.213904",
   "date": "2026-06-05",
   "league": "LBA",
   "model": "gemini-2.5-flash",
@@ -12,15 +12,15 @@
       "formula_pick": "Germani Brescia",
       "agreement": false,
       "confidence": 9,
-      "reasoning": "EA7 Emporio Armani Milano ma przewagę 2-1 w serii i gra u siebie w kluczowym Meczu 4 w Unipol Forum, co daje im znaczącą przewagę psychologiczną i atut parkietu domowego. Zespół Milano wygrał Mecz 3 z przewagą 25 punktów (93-68), prezentując skuteczną ofensywę i dobrą obronę. Germani Brescia w Meczu 3 miała problemy ze skutecznością rzutową i stratami piłki, a presja meczu o wszystko może dodatkowo wpłynąć na ich grę.",
+      "reasoning": "EA7 Emporio Armani Milano, grając u siebie, zdominowało Gara 3, wygrywając różnicą 25 punktów i prowadząc w serii 2-1. Mają przewagę własnego parkietu, na którym są niepokonani w tegorocznych play-offach, co zwiększa ich szanse na zamknięcie serii. Potencjalne problemy z kontuzją Jasona Burnella w Germani Brescia mogą dodatkowo osłabić ich rotację, a C.J. Massinburg dopiero wraca po długiej przerwie.",
       "key_factors": [
-        "Przewaga własnego parkietu dla EA7 Emporio Armani Milano w Meczu 4.",
-        "Momentum Milano po dominującym zwycięstwie 93-68 w Meczu 3.",
-        "Słaba skuteczność rzutowa (39% z 2, 32% z 3) i 12 strat Germani Brescia w Meczu 3.",
-        "Milano ma szansę zakończyć serię i awansować do finału.",
-        "Powrót Jasona Burnella (Germani Brescia) do gry w Meczu 3 po urazie kostki, co wskazuje na brak poważnych kontuzji u kluczowych graczy obu drużyn."
+        "Przewaga własnego parkietu dla Milano, gdzie są niepokonani w play-offach.",
+        "Dominująca wygrana Milano w Gara 3 (93-68), pokazująca ich obecną formę.",
+        "Prowadzenie Milano w serii 2-1, z szansą na jej zakończenie u siebie.",
+        "Niepewny stan Jasona Burnella (Brescia) po skręceniu kostki w Gara 3.",
+        "C.J. Massinburg (Brescia) wrócił do gry w Gara 3 po dwumiesięcznej przerwie, co może wpływać na jego pełną formę."
       ],
-      "injury_notes": "Brak istotnych braków. Jason Burnell z Germani Brescia doznał urazu kostki pod koniec pierwszej połowy Meczu 3, ale wrócił do gry w drugiej połowie tego samego spotkania, co sugeruje, że jest zdolny do gry w Meczu 4. Brak doniesień o innych kluczowych kontuzjach na dzień 5 czerwca 2026 dla obu drużyn."
+      "injury_notes": "Jason Burnell (Germani Brescia) doznał skręcenia kostki pod koniec pierwszej połowy Gara 3, ale wrócił do gry w drugiej połowie. Trener Cotelli po meczu stwierdził, że zawodnik odczuwa ból i nie miał dodatkowych informacji na temat jego stanu na dzisiejszy dzień. C.J. Massinburg (Germani Brescia) wrócił do gry w Gara 3 po dwumiesięcznej przerwie, a trener Cotelli podkreślił, że powrót w meczu półfinałowym nie był łatwy. Maurice Ndour (Germani Brescia) zagrał w Gara 3, pomimo wcześniejszych doniesień o drobnych urazach. Brak istotnych nowych urazów w zespole EA7 Emporio Armani Milano."
     }
   ]
 }
