@@ -1,7 +1,16 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-04 18:46 ET) ---
-Na podstawie danych z 2026-06-04:
+--- KRYTYCZNY AUDYT LIVE (2026-06-04 19:59 ET) ---
+Na podstawie dostępnych danych z dnia 2026-06-04:
 
-*   **Knicks @ Spurs**
-    *   Brak meczu Knicks @ Spurs zaplanowanego na 4 czerwca 2026 r. NBA Finals Game 1 odbyło się 3 czerwca, a Game 2 zaplanowano na 5 czerwca 2026 r..
-    *   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę, ponieważ mecz nie jest zaplanowany na dziś.
-    *   Werdykt: [⚠️ RYZYKOWNY] – Nie można zatwierdzić ani odrzucić typu, ponieważ nie ma meczu zaplanowanego na dzień 4 czerwca 2026 r.
+Nie ma meczu NBA zaplanowanego na 4 czerwca 2026 roku między Knicks a Spurs. Zespoły te rozgrywają Finały NBA 2026. Mecz 1 odbył się 3 czerwca, a Mecz 2 jest zaplanowany na 5 czerwca 2026 roku. W związku z tym, nie mogę zatwierdzić ani odrzucić Twojego typu dla meczu, który nie ma miejsca w podanym dniu.
+
+Poniżej przedstawiam kluczowe braki w składach, oparte na raportach z 4 czerwca 2026 roku, dotyczące nadchodzącego Meczu 2:
+
+*   **New York Knicks**:
+    *   Mitchell Robinson (C) - Prawdopodobny (Probable) z powodu złamania piątej kości śródręcza prawej ręki. Grał w Meczu 1 pomimo kontuzji.
+    *   Jalen Brunson (PG) - Miał drobne problemy z kolanem w Meczu 1, ale wrócił do gry i jego stan jest obserwowany, jednak nie jest wymieniony w raporcie kontuzji jako "Questionable" czy "Out" na Mecz 2.
+
+*   **San Antonio Spurs**:
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla Meczu 2, wskazujących na brak kontuzjowanych graczy.
+
+Werdykt dla typu "Spurs" na 2026-06-04:
+*   [⚠️ RYZYKOWNY] - Brak meczu w tym dniu.
