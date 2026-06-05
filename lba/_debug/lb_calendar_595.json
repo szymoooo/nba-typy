@@ -26,27 +26,27 @@
   },
   "matches": [
     {
-      "id": 25347,
-      "game_status": "2",
+      "id": 25351,
+      "game_status": "0",
       "championship_id": 595,
-      "championships_day_id": 4476,
+      "championships_day_id": 4477,
       "year": 2025,
-      "number": 3,
-      "match_datetime": "2026-06-03T20:00:00.000+02:00",
+      "number": 4,
+      "match_datetime": "2026-06-05T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 93,
-      "visitor_final_score": 68,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 22,
-      "websocket_match_id": "1674763",
+      "websocket_match_id": "1674767",
       "ticketing_url": null,
       "has_streaming": 0,
       "match_serie": "2-1",
       "match_hw": 2,
       "match_vw": 1,
-      "updated_at": "2026-06-03T21:48:32.096+02:00",
+      "updated_at": "2026-06-03T21:48:39.295+02:00",
       "h_team_id": 1714,
       "h_team_name": "EA7 Emporio Armani Milano",
       "h_club_code": "MIL",
@@ -60,33 +60,33 @@
       "town_id": 1150,
       "plant_name": "Unipol Forum",
       "town_name": "Assago",
-      "day_code": "3",
-      "day_serial": 3003,
-      "day_name": "Semifinali - Gara 3",
+      "day_code": "4",
+      "day_serial": 3004,
+      "day_name": "Semifinali - Gara 4",
       "match_serie_key": "1713_1714"
     },
     {
-      "id": 25350,
-      "game_status": "2",
+      "id": 25352,
+      "game_status": "0",
       "championship_id": 595,
-      "championships_day_id": 4476,
+      "championships_day_id": 4477,
       "year": 2025,
-      "number": 3,
-      "match_datetime": "2026-06-04T20:00:00.000+02:00",
+      "number": 4,
+      "match_datetime": "2026-06-06T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 89,
-      "visitor_final_score": 85,
+      "home_final_score": 0,
+      "visitor_final_score": 0,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 57,
-      "websocket_match_id": "1674766",
+      "websocket_match_id": "1674768",
       "ticketing_url": null,
       "has_streaming": 0,
       "match_serie": "2-1",
       "match_hw": 2,
       "match_vw": 1,
-      "updated_at": "2026-06-04T22:05:54.857+02:00",
+      "updated_at": "2026-06-04T22:06:00.151+02:00",
       "h_team_id": 1724,
       "h_team_name": "Umana Reyer Venezia",
       "h_club_code": "VEN",
@@ -100,26 +100,26 @@
       "town_id": 9660,
       "plant_name": "Palasport Taliercio",
       "town_name": "Mestre",
-      "day_code": "3",
-      "day_serial": 3003,
-      "day_name": "Semifinali - Gara 3",
+      "day_code": "4",
+      "day_serial": 3004,
+      "day_name": "Semifinali - Gara 4",
       "match_serie_key": "1712_1724"
     }
   ],
   "referees": {
-    "25347": [
-      "LANZARINI",
-      "LO GUZZO",
-      "PERCIAVALLE"
+    "25351": [
+      "ROSSI",
+      "GIOVANNETTI",
+      "QUARTA"
     ],
-    "25350": [
-      "SAHIN",
-      "GRIGIONI",
-      "VALZANI"
+    "25352": [
+      "ATTARD",
+      "GONELLA",
+      "LUCOTTI"
     ]
   },
   "broadcasters": {
-    "25347": [
+    "25351": [
       {
         "name": "LBATV",
         "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
@@ -127,17 +127,9 @@
       {
         "name": "SkySportBasket",
         "logo": "P5BD129wViAuxiVzdcxEY5dD"
-      },
-      {
-        "name": "Cielo",
-        "logo": "TdQNBYrbL3bTH7JsCc5rUH2c"
-      },
-      {
-        "name": "SkySportUno",
-        "logo": "BbMs8nKY6hcZR2CTSYgi9SC3"
       }
     ],
-    "25350": [
+    "25352": [
       {
         "name": "LBATV",
         "logo": "yqfRQ78c7sPrxqkWF3ssok4T"
@@ -145,10 +137,6 @@
       {
         "name": "SkySportBasket",
         "logo": "P5BD129wViAuxiVzdcxEY5dD"
-      },
-      {
-        "name": "SkySportUno",
-        "logo": "BbMs8nKY6hcZR2CTSYgi9SC3"
       }
     ]
   },
@@ -209,14 +197,14 @@
         "event_serial": 3003,
         "code": "3",
         "name": "Semifinali - Gara 3",
-        "focus_on": true
+        "focus_on": false
       },
       {
         "id": 4477,
         "event_serial": 3004,
         "code": "4",
         "name": "Semifinali - Gara 4",
-        "focus_on": false
+        "focus_on": true
       },
       {
         "id": 4478,
@@ -282,6 +270,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1780488355_mlCK:1780612800_cmCK:1780603560_cdCK:1780488355_vCK:1780607245",
+  "cache_key": "tCK:1780639502_mlCK:1780641418_cmCK:1780603560_cdCK:1780639502_vCK:1780607245",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }
