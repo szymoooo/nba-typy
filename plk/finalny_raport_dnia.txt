@@ -1,14 +1,16 @@
---- AUDYT PLK LIVE (2026-06-06 01:39 CET) ---
-Analiza meczu: Legia Warszawa @ Dziki Warszawa (mecz z 2026-06-01)
+--- AUDYT PLK LIVE (2026-06-06 03:32 CET) ---
+✅ **Audyt meczu PLK: 2026-06-01**
 
-1.  **Kluczowe braki w składach**:
-    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim. Dostępne informacje z 2026-06-06 nie wskazują na żadne kontuzje, zawieszenia ani inne niedostępności kluczowych zawodników sekcji koszykarskiej Legii. Informacje o kontuzjach na Transfermarkt dotyczą sekcji piłkarskiej i są ignorowane.
-    *   **Dziki Warszawa**: Brak istotnych braków w składzie koszykarskim. Dostępne informacje z 2026-06-06 nie wskazują na żadne kontuzje, zawieszenia ani inne niedostępności kluczowych zawodników sekcji koszykarskiej Dzików.
+---
 
-2.  **Aktualna forma top scorerów**:
-    *   **Legia Warszawa**: Top scorerzy Legii w sezonie 2025/2026 to Dominic Brewton III (średnio 15.1 Pkt/mecz), Andrzej Pluta (średnio 13.6 Pkt/mecz) i Jayvon Graves (średnio 13.3 Pkt/mecz). Andrzej Pluta zanotował świetny występ w trzecim meczu półfinału (1 czerwca 2026), co przyczyniło się do awansu Legii.
-    *   **Dziki Warszawa**: Top scorerzy Dzików w sezonie 2025/2026 to Landrius Horton (średnio 18.4 Pkt/mecz), Darnell Edge (średnio 16.4 Pkt/mecz) i Tahlik Chavez (średnio 11.5 Pkt/mecz).
-    *   Brak danych z API PulsBasketu dla bieżącej serii, ale na podstawie wyników z PLK.pl widać, że Legia dominowała w serii półfinałowej.
+**Legia Warszawa @ Dziki Warszawa**
+Typ: Legia Warszawa
 
-3.  **Werdykt**: ✅ ZATWIERDZONY
-    Legia Warszawa wygrała mecz z Dzikami Warszawa 91:78 w trzecim meczu półfinału ORLEN Basket Ligi 1 czerwca 2026 roku, kończąc serię wynikiem 3-0 i awansując do finału. Drużyna była w dobrej formie i nie odnotowano żadnych kluczowych braków kadrowych w obu zespołach koszykarskich.
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim dla Legii Warszawa i Dzików Warszawa, potwierdzonych na dzień 2026-06-06 ani dla meczu 2026-06-01. Brak informacji o zawieszeniach lub foul-outach dla tego spotkania.
+
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się 1 czerwca 2026 roku w ramach półfinałów ORLEN Basket Ligi, co oznacza wysoką stawkę spotkania. Pomimo braku danych o formie top scorerów i braku informacji o kluczowych brakach w składach, Legia Warszawa pokonała Dziki Warszawa wynikiem 91:78.
