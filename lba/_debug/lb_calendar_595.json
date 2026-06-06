@@ -67,7 +67,7 @@
     },
     {
       "id": 25352,
-      "game_status": "1",
+      "game_status": "2",
       "championship_id": 595,
       "championships_day_id": 4477,
       "year": 2025,
@@ -75,7 +75,7 @@
       "match_datetime": "2026-06-06T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 83,
+      "home_final_score": 90,
       "visitor_final_score": 83,
       "target_score": null,
       "additional_time": 0,
@@ -83,10 +83,10 @@
       "websocket_match_id": "1674768",
       "ticketing_url": null,
       "has_streaming": 0,
-      "match_serie": "2-1",
-      "match_hw": 2,
+      "match_serie": "3-1",
+      "match_hw": 3,
       "match_vw": 1,
-      "updated_at": "2026-06-06T21:47:17.204+02:00",
+      "updated_at": "2026-06-06T21:57:07.895+02:00",
       "h_team_id": 1724,
       "h_team_name": "Umana Reyer Venezia",
       "h_club_code": "VEN",
@@ -270,6 +270,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1780639502_mlCK:1780774346_cmCK:1780775237_cdCK:1780639502_vCK:1780773568",
+  "cache_key": "tCK:1780639502_mlCK:1780777373_cmCK:1780778199_cdCK:1780639502_vCK:1780773568",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }
