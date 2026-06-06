@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T08:48:36.055466",
+  "generated_at": "2026-06-06T10:03:20.969294",
   "date": "2026-06-06",
   "league": "LBA",
   "model": "gemini-2.5-flash",
@@ -12,14 +12,14 @@
       "formula_pick": "Virtus Olidata Bologna",
       "agreement": false,
       "confidence": 8,
-      "reasoning": "Umana Reyer Venezia ma znaczącą przewagę własnego parkietu w kluczowym czwartym meczu półfinału, prowadząc w serii 2-1. Virtus Olidata Bologna jest osłabiona przez poważne kontuzje kluczowych zawodników, co wpływa na ich wyniki w meczach wyjazdowych. Venezia ma impet po wygraniu meczu numer 3 u siebie.",
+      "reasoning": "Umana Reyer Venezia ma przewagę 2-1 w serii i gra czwarty mecz na własnym parkiecie, gdzie wygrała kluczową Gara 3. Virtus Bologna boryka się ze znacznymi brakami kadrowymi z powodu kontuzji kluczowych zawodników: Alessandro Pajola, Derrick Alston Jr. oraz Luca Vildoza są wykluczeni. Te absencje mocno osłabiają rotację i potencjał ofensywny Virtusu, dając Venezi przewagę w próbie zakończenia serii u siebie.",
       "key_factors": [
-        "Przewaga własnego parkietu dla Umana Reyer Venezia",
-        "Poważne kontuzje w Virtus Olidata Bologna (Pajola, Alston Jr. wykluczeni na sezon, Vildoza niepewny)",
-        "Momentum Umana Reyer Venezia po zwycięstwie w meczu 3",
-        "Prowadzenie w serii 2-1 i możliwość zakończenia rywalizacji u siebie"
+        "Przewaga własnego parkietu dla Umana Reyer Venezia.",
+        "Poważne kontuzje w składzie Virtus Olidata Bologna (Pajola, Alston Jr., Vildoza).",
+        "Momentum Umana Reyer Venezia po wygraniu Gara 3 u siebie.",
+        "Kontekst playoff, gdzie atut własnego parkietu jest wzmocniony."
       ],
-      "injury_notes": "Virtus Olidata Bologna: Alessandro Pajola i Derrick Alston Jr. są wykluczeni do końca sezonu z powodu kontuzji. Luca Vildoza doznał urazu miednicy w meczu numer 2 i jego dostępność na dzisiejszy mecz jest niepewna. Daniel Hackett, który został wydalony w meczu numer 3, będzie dostępny po zredukowaniu kary. Umana Reyer Venezia: Brak istotnych, świeżych kontuzji zgłoszonych na 2026-06-06."
+      "injury_notes": "Umana Reyer Venezia nie zgłasza żadnych istotnych braków kadrowych przed meczem. Virtus Olidata Bologna jest mocno osłabiona przez kontuzje: Alessandro Pajola i Derrick Alston Jr. są wykluczeni do końca sezonu. Luca Vildoza jest niedostępny na Gara 4 z powodu urazu mięśniowego brzucha, doznanego w Gara 2. Daniel Hackett, początkowo zawieszony po incydencie w Gara 3, został dopuszczony do gry w Gara 4 po skróceniu kary i zamianie jej na grzywnę."
     }
   ]
 }

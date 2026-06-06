@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T08:50:04.664988",
+  "generated_at": "2026-06-06T10:04:55.159515",
   "date": "2026-06-06",
   "league": "BBL",
   "model": "gemini-2.5-flash",
@@ -10,15 +10,15 @@
       "ai_pick": "Bamberg",
       "formula_pick": "Bamberg",
       "agreement": true,
-      "confidence": 6,
-      "reasoning": "Mecz jest czwartym spotkaniem półfinałów play-off BBL, gdzie Alba Berlin prowadzi 2-1. Bamberg, grając u siebie i znajdując się pod presją wygranej, aby przedłużyć serię, pokazał już swoją siłę, wygrywając trzeci mecz. Przewaga własnego parkietu i wysoki 'desperation factor' faworyzują Bamberg w tym kluczowym meczu.",
+      "confidence": 8,
+      "reasoning": "Bamberg gra u siebie w czwartym meczu półfinałowym, przegrywając 1-2 w serii, co oznacza, że stają przed 'desperation factor'. Wygrali trzeci mecz u siebie wynikiem 81-73, a przewaga własnego parkietu była kluczowa w tej serii, ponieważ wszystkie dotychczasowe mecze wygrywali gospodarze. Kluczowi gracze Bambergu, tacy jak Cobe Williams (20 punktów w meczu 3), są w dobrej formie.",
       "key_factors": [
-        "Stan serii playoff (Alba 2-1, Bamberg gra o utrzymanie się w serii)",
-        "Przewaga własnego parkietu dla Bambergu",
-        "Wygrana Bambergu w poprzednim meczu serii (Game 3)",
-        "Wysoka stawka meczu dla Bambergu"
+        "Wysoki 'desperation factor' dla Bambergu (groźba eliminacji)",
+        "Przewaga własnego parkietu (wszystkie 3 mecze serii wygrane przez gospodarzy)",
+        "Ostatnie zwycięstwo Bambergu u siebie (81-73 w meczu 3)",
+        "Kluczowi gracze Bambergu w dobrej formie (Cobe Williams, Ibi Watson, Demarcus Demonia)"
       ],
-      "injury_notes": "Brak danych o istotnych nowych kontuzjach na dzień 2026-06-06 dla obu drużyn w kontekście tego meczu półfinałowego."
+      "injury_notes": "Moses Wood z Alba Berlin doznał kontuzji ręki w meczu numer 3, ale przewiduje się, że zagra w meczu numer 4. Brak istotnych braków po stronie Bambergu."
     }
   ]
 }

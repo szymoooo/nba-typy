@@ -1,11 +1,13 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-06 04:47 ET) ---
-Na podstawie danych z 2026-06-06:
+--- KRYTYCZNY AUDYT LIVE (2026-06-06 06:01 ET) ---
+Na podstawie danych z 2026-06-06, oto analiza Twojego typu:
 
-### Knicks @ Spurs -> Typ: Spurs
+### **Knicks @ Spurs** -> Typ: Spurs
 
 *   **Kluczowe braki w składach:**
-    *   **New York Knicks:** Mitchell Robinson (C) - Probable (złamanie małego palca prawej ręki). Jalen Brunson jest dostępny, mimo drobnych problemów z kolanem i kostką w poprzednim meczu.
-    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę. Spurs mają "czysty" raport kontuzji na dzień 5 czerwca 2026.
+    *   **New York Knicks:**
+        *   Mitchell Robinson (C) - Questionable (Złamany prawy palec u ręki). Informacja dotyczy Game 1 Finałów NBA, które odbyło się 3 czerwca 2026 r.. W innym raporcie wymieniony z kontuzją palca z datą 4 czerwca 2026 r..
+    *   **San Antonio Spurs:**
+        *   Brak. Spurs nie mieli żadnych graczy na liście kontuzjowanych na Game 1 Finałów NBA (3 czerwca 2026 r.). De'Aaron Fox i Dylan Harper, którzy zmagali się z urazami wcześniej w play-offach, byli już poza listą kontuzjowanych.
 
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    San Antonio Spurs grają u siebie i mają czysty raport kontuzji, podczas gdy kluczowy center Knicks, Mitchell Robinson, gra ze złamanym palcem (status "probable"). Spurs są zmotywowani po porażce w pierwszym meczu Finałów NBA na własnym parkiecie.
+    San Antonio Spurs wchodzą w serię Finałów NBA w pełnym zdrowiu, co stanowi znaczną przewagę. New York Knicks mają kluczowego centra, Mitchella Robinsona, z kontuzją palca i jego status jest niepewny, co może osłabić ich rotację pod koszem. Biorąc pod uwagę pełny skład Spurs i niepewność co do Robinsona u Knicks, typ na Spurs jest uzasadniony.
