@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-06-06T16:45:01.047682",
+  "generated_at": "2026-06-06T17:55:27.323065",
   "date": "2026-06-06",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Alba Berlin @ Bamberg",
-      "ai_pick": null,
+      "phase": "?",
+      "ai_pick": "Bamberg",
       "formula_pick": "Bamberg",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Mecz jest czwartym starciem półfinałów play-off BBL, gdzie Alba Berlin prowadzi w serii 2-1. Bamberg gra u siebie i ma 'czynnik desperacji', ponieważ musi wygrać, aby uniknąć eliminacji. Po zwycięstwie w meczu numer 3 na własnym parkiecie, Bamberg ma impet i udowodnił, że potrafi pokonać Alba Berlin, zwłaszcza w Brose Arena.",
+      "key_factors": [
+        "Czynnik desperacji Bambergu (przegrana oznacza koniec sezonu)",
+        "Przewaga własnego parkietu Bambergu (wygrali Mecz 3 u siebie)",
+        "Dobra forma kluczowych graczy Bambergu w Meczu 3 (Cobe Williams, Demarcus Demonia, Ibi Watson)",
+        "Bamberg zdobył Puchar BBL w tym sezonie, pokonując Alba Berlin"
+      ],
+      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 2026-06-06. Kluczowi gracze, tacy jak Cobe Williams, Demarcus Demonia, Ibi Watson (Bamberg) oraz Jack Kayil, Boogie Ellis, Martin Hermannsson (Alba Berlin), byli aktywni i dyskutowani w kontekście ostatnich meczów."
     }
   ]
 }

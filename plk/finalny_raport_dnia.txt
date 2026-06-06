@@ -1,16 +1,14 @@
---- AUDYT PLK LIVE (2026-06-06 12:02 CET) ---
-Analiza meczu: Legia Warszawa @ Dziki Warszawa (data meczu z typów: 2026-06-01)
+--- AUDYT PLK LIVE (2026-06-06 19:52 CET) ---
+**Mecz: Legia Warszawa @ Dziki Warszawa**
+Typ: Legia Warszawa (z PulsBasketu)
 
-1.  **Kluczowe braki w składach** 🤕
-    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach kluczowych zawodników (Andrzej Pluta, Jayvon Graves, Matthias Tass, Michał Kolenda, Ojārs Siliņš) pochodzą z listopada/grudnia 2025 r. Biorąc pod uwagę datę meczu (1 czerwca 2026 r.) i awans Legii do finału, zakłada się ich powrót do pełnej sprawności lub brak kluczowych absencji, które wpływałyby na wynik półfinału. Jedna wzmianka po meczu z 1 czerwca 2026 r. mówi o potrzebie "ogarnięcia kontuzji" przed finałem, ale nie wskazuje na konkretne braki w meczu z Dzikami.
-    *   **Dziki Warszawa**: Brak istotnych braków w składzie koszykarskim.
+1.  **Kluczowe braki w składach koszykarskich:**
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim na dzień 2026-06-06.
+    *   Dziki Warszawa: Brak istotnych braków w składzie koszykarskim na dzień 2026-06-06.
 
-2.  **Aktualna forma top scorerów** 🔥
-    *   **Legia Warszawa**:
-        *   Andrzej Pluta był "świetny w meczu nr 3 półfinału ORLEN Basket Ligi!" (mecz z 1 czerwca 2026 r. przeciwko Dzikom).
-        *   Wiodący strzelcy (sezon 2025/2026 lub najnowsze dostępne dane): Dominic Brewton III (15.1 Pkt/mecz), Andrzej Pluta (13.6 Pkt/mecz), Jayvon Graves (13.3 Pkt/mecz).
-    *   **Dziki Warszawa**:
-        *   Wiodący strzelcy (sezon 2025/2026 lub najnowsze dostępne dane): Landrius Horton (18.4 Pkt/mecz), Darnell Edge (16.4 Pkt/mecz), Tahlik Chavez (11.5 Pkt/mecz).
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Legia Warszawa: W sezonie 2025/2026 do czołowych strzelców Legii Warszawa należeli m.in. Christian Vital oraz Raymond Cowels III.
+    *   Dziki Warszawa: W sezonie 2025/2026 jednymi z liderów punktowych Dzików Warszawa byli m.in. Matt Coleman III i Michał Kuźkow.
+    Brak danych z API PulsBasketu dla tej serii.
 
-3.  **Werdykt**: ✅ ZATWIERDZONY
-    *   Mecz Legia Warszawa (goście) vs Dziki Warszawa (gospodarze) odbył się 1 czerwca 2026 r., a Legia Warszawa wygrała 91:78, zapewniając sobie awans do finału ORLEN Basket Ligi. Typ na Legię Warszawa był prawidłowy.
+3.  **Werdykt:** [✅ ZATWIERDZONY]

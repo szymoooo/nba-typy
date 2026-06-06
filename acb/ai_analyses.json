@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T16:44:26.241548",
+  "generated_at": "2026-06-06T17:54:57.652181",
   "date": "2026-06-06",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -12,9 +12,20 @@
     },
     {
       "matchup": "Tenerife @ Real Madrid",
-      "ai_pick": null,
+      "phase": "?",
+      "date": "2026-06-06T20:00:00+02:00",
+      "ai_pick": "Real Madrid",
       "formula_pick": "Real Madrid",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Real Madrid, mimo kontuzji wysokich graczy, zdominował Game 2 fazy play-off na wyjeździe, wygrywając z dużą przewagą. Gra numer 3 jest meczem decydującym, rozgrywanym na własnym parkiecie Realu Madryt, co stanowi kluczowy czynnik, mimo że Tenerife udowodniło, że potrafi wygrać na wyjeździe w Game 1 serii.",
+      "key_factors": [
+        "Decydujący mecz numer 3 w fazie play-off",
+        "Przewaga własnego parkietu dla Realu Madryt (Movistar Arena)",
+        "Zwycięstwo Realu Madryt w Game 2 na wyjeździe z dużą przewagą (118-83)",
+        "Ogólnie lepszy bilans sezonowy Realu Madryt (26-8 vs 18-14 dla Tenerife)"
+      ],
+      "injury_notes": "Real Madrid ma doniesienia o kontuzjach kilku kluczowych wysokich graczy, co wpłynęło na konieczność wzmocnienia pozycji centrów (np. pozyskanie Mady Sissoko). Brak istotnych braków w składzie Tenerife."
     }
   ]
 }

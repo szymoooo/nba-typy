@@ -86,7 +86,7 @@
       "match_serie": "2-1",
       "match_hw": 2,
       "match_vw": 1,
-      "updated_at": "2026-06-04T22:06:00.151+02:00",
+      "updated_at": "2026-06-06T19:40:20.886+02:00",
       "h_team_id": 1724,
       "h_team_name": "Umana Reyer Venezia",
       "h_club_code": "VEN",
@@ -270,6 +270,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1780639502_mlCK:1780763836_cmCK:1780732833_cdCK:1780639502_vCK:1780693223",
+  "cache_key": "tCK:1780639502_mlCK:1780763836_cmCK:1780767620_cdCK:1780639502_vCK:1780693223",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }
