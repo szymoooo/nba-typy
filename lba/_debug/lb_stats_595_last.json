@@ -514,6 +514,22 @@
     },
     {
       "category": "assists",
+      "player_id": 2825,
+      "name": "Nikola",
+      "surname": "Ivanovic",
+      "team_name": "Germani Brescia",
+      "tv_name": "Germani Brescia",
+      "year": 2025,
+      "attempts": 0,
+      "presences": 1,
+      "minutes": "32.0",
+      "score_40_min": 5,
+      "score": 4,
+      "team_id": 1713,
+      "player_photo_key": "VcB9oWcz196b9LgkKG8444hZ"
+    },
+    {
+      "category": "assists",
       "player_id": 9008,
       "name": "Marko",
       "surname": "Guduric",
@@ -527,22 +543,6 @@
       "score": 4,
       "team_id": 1714,
       "player_photo_key": "rdW8fx1rm3NaWzHUnox4NXKo"
-    },
-    {
-      "category": "assists",
-      "player_id": 2825,
-      "name": "Nikola",
-      "surname": "Ivanovic",
-      "team_name": "Germani Brescia",
-      "tv_name": "Germani Brescia",
-      "year": 2025,
-      "attempts": 0,
-      "presences": 1,
-      "minutes": "32.0",
-      "score_40_min": 3.75,
-      "score": 3,
-      "team_id": 1713,
-      "player_photo_key": "VcB9oWcz196b9LgkKG8444hZ"
     },
     {
       "category": "assists",
@@ -1527,6 +1527,6 @@
       }
     ]
   },
-  "cache_key": "_cmpCK:1780688837_season_range:off|year:2025|championship_series_id:1|round:last|advanced:false|order_by:sum|championship_id:595",
+  "cache_key": "_cmpCK:1780732827_season_range:off|year:2025|championship_series_id:1|round:last|advanced:false|order_by:sum|championship_id:595",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }

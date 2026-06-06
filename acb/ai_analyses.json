@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T06:12:42.659311",
+  "generated_at": "2026-06-06T08:49:34.002668",
   "date": "2026-06-06",
   "league": "ACB",
   "model": "gemini-2.5-flash",
@@ -12,31 +12,29 @@
       "formula_pick": "Real Madrid",
       "agreement": true,
       "confidence": 9,
-      "reasoning": "Real Madrid gra u siebie w decydującym, trzecim meczu ćwierćfinałów play-off, mając znacznie lepszy bilans sezonowy i wyższą pozycję w tabeli. Tenerife jest poważnie osłabione przez liczne kontuzje kluczowych graczy, co Real Madrid wykorzystał, dominując w drugim meczu serii z wynikiem 118-83.",
+      "reasoning": "Real Madrid, jako mistrz sezonu zasadniczego i grający u siebie w decydującym trzecim meczu ćwierćfinałowym, ma znaczącą przewagę. Najważniejszym czynnikiem jest jednak rozległa lista kontuzji w zespole Tenerife, który jest osłabiony brakiem kluczowych graczy, w tym kilku starterów.",
       "key_factors": [
-        "Poważne kontuzje liderów Tenerife (Giedraitis, Shermadini, Fitipaldo, Huertas - wątpliwy).",
-        "Przewaga własnego parkietu Realu Madryt w decydującym meczu play-off.",
-        "Zdecydowane zwycięstwo Realu Madryt (118-83) w drugim meczu serii play-off, wskazujące na dobrą formę i adaptację.",
-        "Wyraźnie lepszy bilans Realu Madryt w sezonie zasadniczym (1. miejsce)."
+        "Poważne kontuzje kluczowych graczy Tenerife (m.in. Huertas, Shermadini, Giedraitis, Fitipaldo).",
+        "Przewaga własnego parkietu Realu Madrid w decydującym meczu numer 3 fazy play-off.",
+        "Real Madrid zakończył sezon zasadniczy na 1. miejscu, podczas gdy Tenerife na 8. pozycji."
       ],
-      "injury_notes": "Real Madrid boryka się z brakami na pozycjach centrów (Tavares, Len, Garuba), ale wzmocnił skład Ömerem Yurtsevenem i Mady'm Sissoko. Tenerife jest znacząco osłabione: Rokas Giedraitis (zerwane więzadło krzyżowe, koniec sezonu), Giorgi Shermadini (arytmia serca, kilka tygodni poza grą), Bruno Fitipaldo (kontuzja łydki, 6 tygodni poza grą), Marcelinho Huertas (kontuzja ścięgna podkolanowego, powrót w play-offach niepewny), Aaron Doornekamp (przeciążenie mięśnia czworogłowego). Zespół pozyskał Elvara Fridrikssona i Kevina Yebo."
+      "injury_notes": "Tenerife mierzy się z poważnym kryzysem kontuzji, brakuje im m.in. Rokasa Giedraitisa (zerwanie ACL, koniec sezonu), Marcelinho Huertasa (naderwanie ścięgna podkolanowego, wątpliwy udział w play-offach), Aarona Doornekampa (przeciążenie mięśnia czworogłowego, opuścił ostatnie mecze), Giorgiego Shermadiniego (arytmia serca, wykluczony na tygodnie) oraz Bruno Fitipaldo (kontuzja łydki, 6 tygodni przerwy, koniec sezonu). Real Madrid nie zgłasza żadnych istotnych kontuzji na ten mecz."
     },
     {
       "matchup": "Barcelona @ Murcia",
       "phase": "?",
       "date": "2026-06-06T20:00:00+02:00",
-      "ai_pick": "Murcia",
+      "ai_pick": "Barcelona",
       "formula_pick": "Murcia",
-      "agreement": true,
+      "agreement": false,
       "confidence": 7,
-      "reasoning": "Murcia gra na własnym parkiecie w decydującym meczu numer 3 ćwierćfinałów play-offów ACB, co daje im znaczącą przewagę. W sezonie 2025/26 Murcia ma lepszy bilans ligowy niż Barcelona (25-9 do 24-10) i wygrała 3 z 4 bezpośrednich spotkań w tym sezonie. Choć lider Murcii, David DeJulius, doznał kontuzji w meczu nr 2, drużyna pokazała zdolność do wygrywania nawet bez niego, zwyciężając na wyjeździe w Barcelonie.",
+      "reasoning": "Barcelona ma przewagę w decydującym meczu numer 3 ćwierćfinałów playoff ACB, głównie ze względu na kontuzję kluczowego gracza Murcii, Davida DeJuliusa, który doznał urazu nogi w meczu numer 2 i jego zdolność do gry dziś jest wątpliwa. Barcelona, z pełnym składem liderów, ma większe szanse na wykorzystanie tej sytuacji, pomimo przewagi własnego parkietu Murcii.",
       "key_factors": [
-        "Przewaga własnego parkietu Murcii w decydującym meczu play-off",
-        "Lepszy bilans Murcii w sezonie zasadniczym 2025/26",
-        "Bilans H2H w sezonie 2025/26 (Murcia prowadzi 3-1)",
-        "Zwycięstwo Murcii na wyjeździe w meczu nr 2 pomimo kontuzji kluczowego gracza"
+        "Kontuzja Davida DeJuliusa (lider Murcii)",
+        "Mecz nr 3 serii playoff (decydujący)",
+        "Przewaga własnego parkietu dla Murcii"
       ],
-      "injury_notes": "David DeJulius (Murcia), najlepszy strzelec i rozgrywający, doznał kontuzji nogi w trzeciej kwarcie meczu nr 2 (4 czerwca 2026) i opuścił resztę spotkania. Jego status na mecz 6 czerwca 2026 jest niepewny. Brak istotnych braków w składzie Barcelony w sekcji koszykówki."
+      "injury_notes": "David DeJulius (UCAM Murcia), najlepszy strzelec i rozgrywający drużyny, doznał kontuzji nogi w trzeciej kwarcie drugiego meczu ćwierćfinałowego (4 czerwca 2026) i był zmuszony opuścić resztę spotkania. Jego status na dzisiejszy, decydujący mecz numer 3 jest niepewny. Brak istotnych braków w składzie FC Barcelony."
     }
   ]
 }

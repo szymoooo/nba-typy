@@ -1,24 +1,16 @@
---- AUDYT PLK LIVE (2026-06-06 04:34 CET) ---
-Analiza meczu PLK z dnia 2026-06-01:
+--- AUDYT PLK LIVE (2026-06-06 10:47 CET) ---
+Analiza meczu: Legia Warszawa @ Dziki Warszawa (Typ: Legia Warszawa)
 
-**Legia Warszawa @ Dziki Warszawa** -> Typ: Legia Warszawa
+Mecz odbył się 2026-06-01 o godzinie 11:15 w Hali Koło, ul. Obozowa 60, 01-423 Warszawa. Był to trzeci mecz półfinałowy fazy play-off Orlen Basket Ligi.
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
-    *   🐗 **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
+    *   🏀 **Legia Warszawa:** Race Thompson był kontuzjowany (uraz stawu skokowego) po pierwszym meczu serii i nie zagrał. Michał Kolenda wrócił do wyjściowej piątki po opuszczeniu dwóch pierwszych meczów z powodu problemów zdrowotnych.
+    *   🏀 **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów:**
-    *   🏀 **Legia Warszawa:**
-        *   Dominic Brewton III (15.1 Pkt/mecz w sezonie 2025/2026).
-        *   Andrzej Pluta (13.6 Pkt/mecz w sezonie 2025/2026), został wyróżniony jako "świetny w meczu nr 3" (mecz z 2026-06-01).
-        *   Jayvon Graves (13.3 Pkt/mecz w sezonie 2025/2026).
-        *   Brak danych z API dla konkretnej serii.
-    *   🐗 **Dziki Warszawa:**
-        *   Landrius Horton (18.4 Pkt/mecz w sezonie 2025/2026, wiodący strzelec ligi z 19.7 Pkt/mecz).
-        *   Darnell Edge (16.4 Pkt/mecz w sezonie 2025/2026).
-        *   Tahlik Chavez (11.5 Pkt/mecz w sezonie 2025/2026).
-        *   Brak danych z API dla konkretnej serii.
+2.  **Aktualna forma top scorerów (dane z meczu 2026-06-01):**
+    *   🏀 **Legia Warszawa:** Najlepsi strzelcy w tym meczu to Dominic Brewton III (22 punkty) oraz Andrzej Pluta (21 punktów). Andrzej Pluta został wyróżniony za swoje akcje.
+    *   🏀 **Dziki Warszawa:** Wyróżniający się strzelcy to Darnell Edge (19 punktów) oraz Grzegorz Kamiński (12 punktów). Rivaldo Soares i Shane Hunter również zanotowali skuteczne akcje na początku meczu, a Tahlik Chavez trafił za trzy.
 
-3.  **Werdykt:** Mecz Legia Warszawa @ Dziki Warszawa (01.06.2026) był trzecim meczem półfinału play-off ORLEN Basket Ligi. Legia Warszawa wygrała na wyjeździe 91:78, co pozwoliło im awansować do finału.
-
+3.  **Werdykt:**
+    Legia Warszawa wygrała mecz z Dzikami Warszawa 91:78, zamykając serię półfinałową wynikiem 3-0 i awansując do finału rozgrywek. Typ na Legię Warszawa był prawidłowy.
     ✅ **ZATWIERDZONY**

@@ -1,20 +1,11 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-06 02:09 ET) ---
-Analiza meczu na dzień 2026-06-06: Knicks @ Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-06-06 04:47 ET) ---
+Na podstawie danych z 2026-06-06:
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+### Knicks @ Spurs -> Typ: Spurs
 
-    Na podstawie danych ze STYCZNIA 2026, kluczowi zawodnicy zmagający się z kontuzjami:
-    *   **New York Knicks:**
-        *   Jalen Brunson (skręcenie prawej kostki, dzień po dniu/questionable – sidelined od 14 stycznia) 🤕
-        *   Josh Hart (dyskomfort/ból w prawej kostce, dzień po dniu/questionable) 🩹
-        *   Karl-Anthony Towns (skurcze pleców piersiowych, questionable – stan na 24 stycznia) 🤕
-    *   **San Antonio Spurs:**
-        *   Devin Vassell (uraz uda, Out – stan na 3 stycznia; naciągnięcie lewego przywodziciela, Unknown – stan na 25 stycznia) 🚑
-        *   Victor Wembanyama (kolano, Day-To-Day – stan na 3 stycznia) 🩹
-        *   Luke Kornet (napięcie lewego przywodziciela, questionable – stan na 25 stycznia) 🤕
-        *   Jeremy Sochan (choroba, questionable – stan na 25 stycznia) 🤒
-        *   Aaron Wiggins (zapalenie stawu biodrowego, questionable – stan na 25 stycznia) 🤕
+*   **Kluczowe braki w składach:**
+    *   **New York Knicks:** Mitchell Robinson (C) - Probable (złamanie małego palca prawej ręki). Jalen Brunson jest dostępny, mimo drobnych problemów z kolanem i kostką w poprzednim meczu.
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę. Spurs mają "czysty" raport kontuzji na dzień 5 czerwca 2026.
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-
-    Ze względu na brak aktualnych, zgodnych z narzuconymi ramami czasowymi (tylko STYCZEŃ 2026) raportów o kontuzjach na DZISIAJ (2026-06-06), ocena przewidywanego wyniku jest wysoce spekulatywna. W oparciu o składy i raporty o kontuzjach ze stycznia 2026, obie drużyny miały istotne osłabienia kluczowych graczy. Brak aktualnych danych uniemożliwia rzetelne zatwierdzenie typu.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    San Antonio Spurs grają u siebie i mają czysty raport kontuzji, podczas gdy kluczowy center Knicks, Mitchell Robinson, gra ze złamanym palcem (status "probable"). Spurs są zmotywowani po porażce w pierwszym meczu Finałów NBA na własnym parkiecie.

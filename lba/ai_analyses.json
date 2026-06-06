@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-06-06T06:11:36.374867",
+  "generated_at": "2026-06-06T08:48:36.055466",
   "date": "2026-06-06",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Virtus Olidata Bologna @ Umana Reyer Venezia",
-      "ai_pick": null,
+      "day": "Semifinali - Gara 4",
+      "date": "2026-06-06T20:00:00.000+02:00",
+      "ai_pick": "Umana Reyer Venezia",
       "formula_pick": "Virtus Olidata Bologna",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "Umana Reyer Venezia ma znaczącą przewagę własnego parkietu w kluczowym czwartym meczu półfinału, prowadząc w serii 2-1. Virtus Olidata Bologna jest osłabiona przez poważne kontuzje kluczowych zawodników, co wpływa na ich wyniki w meczach wyjazdowych. Venezia ma impet po wygraniu meczu numer 3 u siebie.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla Umana Reyer Venezia",
+        "Poważne kontuzje w Virtus Olidata Bologna (Pajola, Alston Jr. wykluczeni na sezon, Vildoza niepewny)",
+        "Momentum Umana Reyer Venezia po zwycięstwie w meczu 3",
+        "Prowadzenie w serii 2-1 i możliwość zakończenia rywalizacji u siebie"
+      ],
+      "injury_notes": "Virtus Olidata Bologna: Alessandro Pajola i Derrick Alston Jr. są wykluczeni do końca sezonu z powodu kontuzji. Luca Vildoza doznał urazu miednicy w meczu numer 2 i jego dostępność na dzisiejszy mecz jest niepewna. Daniel Hackett, który został wydalony w meczu numer 3, będzie dostępny po zredukowaniu kary. Umana Reyer Venezia: Brak istotnych, świeżych kontuzji zgłoszonych na 2026-06-06."
     }
   ]
 }
