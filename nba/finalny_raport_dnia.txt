@@ -1,13 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-06 15:47 ET) ---
-**Spurs @ Knicks -> Typ: Spurs**
+--- KRYTYCZNY AUDYT LIVE (2026-06-06 17:57 ET) ---
+Analiza meczu: Spurs @ Knicks -> Typ: Spurs (Styczeń 2026)
 
-*   **Kluczowe braki w składach (stan na 2026-06-06):**
+*   **Kluczowe braki w składach (Styczeń 2026):**
     *   **New York Knicks:**
-        *   Mitchell Robinson (C): Status "Questionable" z powodu złamanego małego palca prawej ręki. Poddał się operacji, ale naciska na udział w grze i był dostępny w Game 2 finałów NBA (5 czerwca 2026) oraz jest przewidywany do gry w Game 3 (6 czerwca 2026) w ortezie.
+        *   Jalen Brunson: Questionable (prawy skręcony staw skokowy).
+        *   Josh Hart: Questionable (dyskomfort w prawym stawie skokowym).
+        *   Karl-Anthony Towns: Questionable (skurcze pleców; raport z 24 stycznia).
     *   **San Antonio Spurs:**
-        *   Stephon Castle (G): Lekkie skręcenie kostki w Game 2 finałów NBA (6 czerwca 2026), ale stwierdził, że czuje się "w porządku" po rozgrzewce i wrócił do gry. Został dopuszczony do gry przed Game 3 (6 czerwca 2026) i nie jest to uznawane za poważny problem.
-        *   De'Aaron Fox (G): Wcześniej zmagał się z poważnym zwichnięciem prawej kostki, ale nie znajduje się na obecnej liście kontuzjowanych (Injury Report) w finałach NBA.
-        *   Brak innych aktualnych raportów (Injury Report) na tę chwilę o statusie "Out", "Questionable" lub "GTD" dla pozostałych kluczowych graczy Spurs.
-
-*   **Werdykt: [✅ ZATWIERDZONY]**
-    *   Typ jest ZATWIERDZONY. Knicks mają kluczowego gracza, Mitchella Robinsona, z statusem "Questionable" z powodu kontuzji ręki, co może wpłynąć na ich siłę pod koszem. Spurs nie mają żadnych kluczowych braków w składzie, a Stephon Castle, mimo drobnego urazu kostki, został dopuszczony do gry.
+        *   Devin Vassell: TBD (naciągnięcie lewego przywodziciela; raport z 10 stycznia).
+        *   Harrison Ingram: GTD (choroba; raport z 10 stycznia).
+        *   Victor Wembanyama: status "ograniczony" (raport z 10 stycznia).
+        *   Należy zauważyć, że raport z 18 stycznia wskazywał, iż Spurs mieli tylko jednego gracza na liście kontuzjowanych, bez podawania nazwiska.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ jest ryzykowny ze względu na niepewny status kluczowych graczy w obu drużynach. New York Knicks mogą być osłabieni brakiem swoich czołowych obrońców, Jalen Brunsona i Josha Harta. San Antonio Spurs również zmagają się z kontuzjami Devina Vassella i Harrisona Ingrama, a status Victora Wembanyamy był w styczniu określany jako "ograniczony". Taka niepewność wpływa na przewidywalność wyniku.
