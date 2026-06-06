@@ -1,20 +1,42 @@
 {
-  "generated_at": "2026-06-06T02:36:35.385644",
+  "generated_at": "2026-06-06T06:12:42.659311",
   "date": "2026-06-06",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Tenerife @ Real Madrid",
-      "ai_pick": null,
+      "phase": "?",
+      "date": "2026-06-06T20:00:00+02:00",
+      "ai_pick": "Real Madrid",
       "formula_pick": "Real Madrid",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Real Madrid gra u siebie w decydującym, trzecim meczu ćwierćfinałów play-off, mając znacznie lepszy bilans sezonowy i wyższą pozycję w tabeli. Tenerife jest poważnie osłabione przez liczne kontuzje kluczowych graczy, co Real Madrid wykorzystał, dominując w drugim meczu serii z wynikiem 118-83.",
+      "key_factors": [
+        "Poważne kontuzje liderów Tenerife (Giedraitis, Shermadini, Fitipaldo, Huertas - wątpliwy).",
+        "Przewaga własnego parkietu Realu Madryt w decydującym meczu play-off.",
+        "Zdecydowane zwycięstwo Realu Madryt (118-83) w drugim meczu serii play-off, wskazujące na dobrą formę i adaptację.",
+        "Wyraźnie lepszy bilans Realu Madryt w sezonie zasadniczym (1. miejsce)."
+      ],
+      "injury_notes": "Real Madrid boryka się z brakami na pozycjach centrów (Tavares, Len, Garuba), ale wzmocnił skład Ömerem Yurtsevenem i Mady'm Sissoko. Tenerife jest znacząco osłabione: Rokas Giedraitis (zerwane więzadło krzyżowe, koniec sezonu), Giorgi Shermadini (arytmia serca, kilka tygodni poza grą), Bruno Fitipaldo (kontuzja łydki, 6 tygodni poza grą), Marcelinho Huertas (kontuzja ścięgna podkolanowego, powrót w play-offach niepewny), Aaron Doornekamp (przeciążenie mięśnia czworogłowego). Zespół pozyskał Elvara Fridrikssona i Kevina Yebo."
     },
     {
       "matchup": "Barcelona @ Murcia",
-      "ai_pick": null,
+      "phase": "?",
+      "date": "2026-06-06T20:00:00+02:00",
+      "ai_pick": "Murcia",
       "formula_pick": "Murcia",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Murcia gra na własnym parkiecie w decydującym meczu numer 3 ćwierćfinałów play-offów ACB, co daje im znaczącą przewagę. W sezonie 2025/26 Murcia ma lepszy bilans ligowy niż Barcelona (25-9 do 24-10) i wygrała 3 z 4 bezpośrednich spotkań w tym sezonie. Choć lider Murcii, David DeJulius, doznał kontuzji w meczu nr 2, drużyna pokazała zdolność do wygrywania nawet bez niego, zwyciężając na wyjeździe w Barcelonie.",
+      "key_factors": [
+        "Przewaga własnego parkietu Murcii w decydującym meczu play-off",
+        "Lepszy bilans Murcii w sezonie zasadniczym 2025/26",
+        "Bilans H2H w sezonie 2025/26 (Murcia prowadzi 3-1)",
+        "Zwycięstwo Murcii na wyjeździe w meczu nr 2 pomimo kontuzji kluczowego gracza"
+      ],
+      "injury_notes": "David DeJulius (Murcia), najlepszy strzelec i rozgrywający, doznał kontuzji nogi w trzeciej kwarcie meczu nr 2 (4 czerwca 2026) i opuścił resztę spotkania. Jego status na mecz 6 czerwca 2026 jest niepewny. Brak istotnych braków w składzie Barcelony w sekcji koszykówki."
     }
   ]
 }

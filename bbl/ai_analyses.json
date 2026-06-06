@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-06-06T02:37:16.791061",
+  "generated_at": "2026-06-06T06:13:16.755011",
   "date": "2026-06-06",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Alba Berlin @ Bamberg",
-      "phase": "?",
-      "ai_pick": "Bamberg",
+      "ai_pick": null,
       "formula_pick": "Bamberg",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Mecz jest czwartym półfinałem play-off BBL, w którym Alba Berlin prowadzi 2-1. Bamberg gra u siebie i musi wygrać, aby uniknąć eliminacji ('desperation factor'), co pokazało w trzecim meczu wygranym 81:73 na własnym parkiecie. Alba Berlin ma kontuzje kluczowych graczy (O'Connell poza grą, Wood z kontuzją kciuka w meczu 3), a EJ Onu z Bambergu, choć kontuzjowany w meczu 3, może być motywacją dla zespołu. Przewaga własnego parkietu Bambergu będzie kluczowa w tym decydującym spotkaniu.",
-      "key_factors": [
-        "Stan serii play-off: Alba Berlin 2-1 Bamberg (mecz 4)",
-        "Desperation factor: Bamberg gra o pozostanie w serii (must-win game)",
-        "Przewaga własnego parkietu Bambergu",
-        "Kontuzje kluczowych graczy w obu drużynach (EJ Onu w Bambergu, Alex O'Connell i Moses Wood w Alba Berlin)"
-      ],
-      "injury_notes": "Dla Bambergu: EJ Onu, wybrany najlepszym obrońcą sezonu 2025/26, opuścił mecz 3 z powodu kontuzji i jego status na mecz 4 jest niepewny. Dla Alba Berlin: Alex O'Connell jest poza grą z powodu problemów mięśniowych, a Moses Wood doznał urazu kciuka w meczu 3, co stawia jego występ pod znakiem zapytania. Martin Hermannsson jest obserwowany pod kątem problemów z przywodzicielami."
+      "note": "AI fallback"
     }
   ]
 }
