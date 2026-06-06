@@ -1,25 +1,14 @@
 {
-  "generated_at": "2026-06-06T22:09:23.497547",
+  "generated_at": "2026-06-06T23:04:01.211184",
   "date": "2026-06-07",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Joventut Badalona @ Baskonia",
-      "phase": "?",
-      "date": "2026-06-07T20:00:00+02:00",
-      "ai_pick": "Baskonia",
+      "ai_pick": null,
       "formula_pick": "Baskonia",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Mecz pomiędzy Baskonią a Joventut Badalona 7 czerwca 2026 roku to decydujące, trzecie spotkanie ćwierćfinału Playoffów ACB, a nie mecz sezonu zasadniczego. Baskonia, jako wyżej rozstawiona drużyna (3. miejsce w sezonie regularnym), ma przewagę własnego parkietu w tym rozstrzygającym meczu. Seria jest obecnie remisowa 1-1, przy czym obie drużyny wygrały swoje mecze u siebie. Kluczowym czynnikiem jest kontuzja Ante Tomicia, ważnego centra Joventut Badalona, który wciąż nie wrócił do pełni formy, co osłabia ich grę pod koszem.",
-      "key_factors": [
-        "Przewaga własnego parkietu Baskonii w decydującym meczu numer 3 Playoffów.",
-        "Brak kluczowego centra Ante Tomicia w składzie Joventut Badalona z powodu kontuzji.",
-        "Lepszy bilans Baskonii w sezonie regularnym (3. miejsce vs 6. miejsce).",
-        "Zwycięstwo Baskonii w pierwszym meczu serii u siebie (85-71)."
-      ],
-      "injury_notes": "Joventut Badalona boryka się z kontuzją kluczowego centra Ante Tomicia (kontuzja ścięgna podkolanowego), który jest nadal niezdolny do gry i jest istotnym osłabieniem dla zespołu. Baskonia miała kilku zawodników z urazami w ciągu sezonu (m.in. Markus Howard, Khalifa Diop, Tadas Sedekerskis), ale brak jest aktualnych doniesień o ich niezdolności do gry w kluczowym meczu numer 3."
+      "note": "AI fallback"
     }
   ]
 }
