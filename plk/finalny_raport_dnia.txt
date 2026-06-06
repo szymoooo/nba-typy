@@ -1,16 +1,24 @@
---- AUDYT PLK LIVE (2026-06-06 03:32 CET) ---
-✅ **Audyt meczu PLK: 2026-06-01**
+--- AUDYT PLK LIVE (2026-06-06 04:34 CET) ---
+Analiza meczu PLK z dnia 2026-06-01:
 
----
-
-**Legia Warszawa @ Dziki Warszawa**
-Typ: Legia Warszawa
+**Legia Warszawa @ Dziki Warszawa** -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim dla Legii Warszawa i Dzików Warszawa, potwierdzonych na dzień 2026-06-06 ani dla meczu 2026-06-01. Brak informacji o zawieszeniach lub foul-outach dla tego spotkania.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+    *   🐗 **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+    *   🏀 **Legia Warszawa:**
+        *   Dominic Brewton III (15.1 Pkt/mecz w sezonie 2025/2026).
+        *   Andrzej Pluta (13.6 Pkt/mecz w sezonie 2025/2026), został wyróżniony jako "świetny w meczu nr 3" (mecz z 2026-06-01).
+        *   Jayvon Graves (13.3 Pkt/mecz w sezonie 2025/2026).
+        *   Brak danych z API dla konkretnej serii.
+    *   🐗 **Dziki Warszawa:**
+        *   Landrius Horton (18.4 Pkt/mecz w sezonie 2025/2026, wiodący strzelec ligi z 19.7 Pkt/mecz).
+        *   Darnell Edge (16.4 Pkt/mecz w sezonie 2025/2026).
+        *   Tahlik Chavez (11.5 Pkt/mecz w sezonie 2025/2026).
+        *   Brak danych z API dla konkretnej serii.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 1 czerwca 2026 roku w ramach półfinałów ORLEN Basket Ligi, co oznacza wysoką stawkę spotkania. Pomimo braku danych o formie top scorerów i braku informacji o kluczowych brakach w składach, Legia Warszawa pokonała Dziki Warszawa wynikiem 91:78.
+3.  **Werdykt:** Mecz Legia Warszawa @ Dziki Warszawa (01.06.2026) był trzecim meczem półfinału play-off ORLEN Basket Ligi. Legia Warszawa wygrała na wyjeździe 91:78, co pozwoliło im awansować do finału.
+
+    ✅ **ZATWIERDZONY**

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T01:33:33.438789",
+  "generated_at": "2026-06-06T02:35:30.483732",
   "date": "2026-06-06",
   "league": "LBA",
   "model": "gemini-2.5-flash",
@@ -12,14 +12,14 @@
       "formula_pick": "Virtus Olidata Bologna",
       "agreement": false,
       "confidence": 8,
-      "reasoning": "Umana Reyer Venezia prowadzi w serii 2-1 i gra czwarty mecz na własnym parkiecie, co w fazie playoff jest znaczącą przewagą. Zespół z Bolonii boryka się z poważnymi brakami kadrowymi, w tym kluczowymi graczami jak Pajola, Alston i prawdopodobnie Vildoza. Venezia pokazała siłę, wygrywając Gara 3 u siebie, co daje im przewagę psychologiczną i możliwość zakończenia serii przed własną publicznością.",
+      "reasoning": "Umana Reyer Venezia prowadzi w serii 2-1 i gra czwarty mecz u siebie, co jest kluczowe w fazie playoff. Virtus Olidata Bologna jest osłabiona brakiem kluczowych graczy, co znacząco wpłynie na ich rotację i siłę ofensywną. Reyer pokazała mocną formę w Gara 3, wygrywając u siebie po zaciętym meczu.",
       "key_factors": [
-        "Przewaga własnego parkietu dla Venezii w kluczowym meczu.",
-        "Znaczące kontuzje kluczowych graczy Virtusu (Pajola, Alston, Vildoza).",
-        "Momentum po stronie Venezii po wygranej w Gara 3.",
-        "Powrót Daniela Hacketa do składu Virtusu (po zredukowanej karze)."
+        "Przewaga własnego parkietu Umana Reyer Venezia w kluczowym meczu numer 4.",
+        "Prowadzenie Reyer Venezia w serii playoff 2-1.",
+        "Znaczące osłabienia Virtus Bologna z powodu kontuzji kluczowych graczy (Pajola, Alston Jr., Vildoza).",
+        "Wygrana Reyer w Gara 3, co może dać im mentalną przewagę."
       ],
-      "injury_notes": "Umana Reyer Venezia: Brak istotnych braków, wszyscy wcześniej kontuzjowani zawodnicy (Horton, Bowman, Parks) grali w Gara 3. Virtus Olidata Bologna: Alessandro Pajola i Derrick Alston są poza składem do końca sezonu. Luca Vildoza jest kontuzjowany (problemy z biodrem) i prawdopodobnie nie zagra lub będzie mocno ograniczony. Daniel Hackett, który został usunięty z parkietu w Gara 3, miał zredukowaną karę i najprawdopodobniej będzie dostępny na Gara 4. Matt Morgan wracał po kontuzji w Gara 3 i był w słabej formie."
+      "injury_notes": "Virtus Olidata Bologna jest osłabiona brakiem Alessandro Pajoli (poza sezonem z powodu kontuzji menisku), Derricka Alstona Jr. (poza sezonem) oraz Luki Vildozy, który z powodu urazu biodra/mięśnia brzucha, pozostaje w Bolonii i jest wykluczony z Gara 4. Daniel Hackett, mimo wykluczenia w Gara 3, będzie dostępny w Gara 4, ponieważ jego dyskwalifikacja została zmniejszona. Umana Reyer Venezia nie zgłasza żadnych istotnych nowych kontuzji na dzień dzisiejszy; Chris Horton i Ky Bowman, którzy mieli wcześniejsze urazy, grali w Gara 3."
     }
   ]
 }
