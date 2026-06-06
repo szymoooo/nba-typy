@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T10:04:55.159515",
+  "generated_at": "2026-06-06T15:24:41.652169",
   "date": "2026-06-06",
   "league": "BBL",
   "model": "gemini-2.5-flash",
@@ -10,15 +10,15 @@
       "ai_pick": "Bamberg",
       "formula_pick": "Bamberg",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "Bamberg gra u siebie w czwartym meczu półfinałowym, przegrywając 1-2 w serii, co oznacza, że stają przed 'desperation factor'. Wygrali trzeci mecz u siebie wynikiem 81-73, a przewaga własnego parkietu była kluczowa w tej serii, ponieważ wszystkie dotychczasowe mecze wygrywali gospodarze. Kluczowi gracze Bambergu, tacy jak Cobe Williams (20 punktów w meczu 3), są w dobrej formie.",
+      "confidence": 7,
+      "reasoning": "Bamberg gra u siebie w kluczowym meczu o przedłużenie serii półfinałowej, co zapewnia im wysoki 'czynnik desperacji' i dodatkową motywację. Alba Berlin, mimo prowadzenia w serii 2-1, przegrała ostatni mecz wyjazdowy i ma problemy z kontuzjami kluczowych graczy, co osłabia ich skład i formę.",
       "key_factors": [
-        "Wysoki 'desperation factor' dla Bambergu (groźba eliminacji)",
-        "Przewaga własnego parkietu (wszystkie 3 mecze serii wygrane przez gospodarzy)",
-        "Ostatnie zwycięstwo Bambergu u siebie (81-73 w meczu 3)",
-        "Kluczowi gracze Bambergu w dobrej formie (Cobe Williams, Ibi Watson, Demarcus Demonia)"
+        "Czynnik desperacji Bambergu (mecz o wszystko u siebie)",
+        "Przewaga własnego parkietu Bambergu (ostatnie zwycięstwo u siebie, silna forma domowa)",
+        "Kontuzje/niepewność występów kluczowych graczy Alby (Alex O'Connell, Moses Wood)",
+        "Słabsza forma liderów Alby w ostatnim meczu (Malte Delow, Martin Hermannsson)"
       ],
-      "injury_notes": "Moses Wood z Alba Berlin doznał kontuzji ręki w meczu numer 3, ale przewiduje się, że zagra w meczu numer 4. Brak istotnych braków po stronie Bambergu."
+      "injury_notes": "Z ALBA Berlin, Alex O'Connell ma problemy mięśniowe, a Moses Wood doznał ponownego urazu kciuka w trzecim meczu serii, co czyni ich występ w meczu 4 kwestionowanym. Martin Hermannsson, choć wrócił do gry, w ostatnim meczu zanotował słabą formę. Brak istotnych, nowych braków w składzie Bambergu."
     }
   ]
 }

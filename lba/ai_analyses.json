@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T10:03:20.969294",
+  "generated_at": "2026-06-06T15:21:41.551087",
   "date": "2026-06-06",
   "league": "LBA",
   "model": "gemini-2.5-flash",
@@ -12,14 +12,13 @@
       "formula_pick": "Virtus Olidata Bologna",
       "agreement": false,
       "confidence": 8,
-      "reasoning": "Umana Reyer Venezia ma przewagę 2-1 w serii i gra czwarty mecz na własnym parkiecie, gdzie wygrała kluczową Gara 3. Virtus Bologna boryka się ze znacznymi brakami kadrowymi z powodu kontuzji kluczowych zawodników: Alessandro Pajola, Derrick Alston Jr. oraz Luca Vildoza są wykluczeni. Te absencje mocno osłabiają rotację i potencjał ofensywny Virtusu, dając Venezi przewagę w próbie zakończenia serii u siebie.",
+      "reasoning": "Umana Reyer Venezia prowadzi w serii 2-1 i gra czwarty mecz u siebie w Palasport Taliercio, co stanowi znaczną przewagę w fazie play-off. Drużyna Virtus Olidata Bologna boryka się z kontuzjami kluczowych zawodników, co osłabia ich rotację. Zwycięstwo w meczu numer 3 na własnym parkiecie dodatkowo podbudowało morale Wenecjan.",
       "key_factors": [
-        "Przewaga własnego parkietu dla Umana Reyer Venezia.",
-        "Poważne kontuzje w składzie Virtus Olidata Bologna (Pajola, Alston Jr., Vildoza).",
-        "Momentum Umana Reyer Venezia po wygraniu Gara 3 u siebie.",
-        "Kontekst playoff, gdzie atut własnego parkietu jest wzmocniony."
+        "Przewaga własnego parkietu Umana Reyer Venezia",
+        "Kontuzje kluczowych graczy Virtus Olidata Bologna (Vildoza, Alston Jr., Pajola)",
+        "Momentum po zwycięstwie Umana Reyer Venezia w Gara 3"
       ],
-      "injury_notes": "Umana Reyer Venezia nie zgłasza żadnych istotnych braków kadrowych przed meczem. Virtus Olidata Bologna jest mocno osłabiona przez kontuzje: Alessandro Pajola i Derrick Alston Jr. są wykluczeni do końca sezonu. Luca Vildoza jest niedostępny na Gara 4 z powodu urazu mięśniowego brzucha, doznanego w Gara 2. Daniel Hackett, początkowo zawieszony po incydencie w Gara 3, został dopuszczony do gry w Gara 4 po skróceniu kary i zamianie jej na grzywnę."
+      "injury_notes": "Luca Vildoza (Virtus Olidata Bologna) był nieobecny w Gara 3 z powodu urazu mięśniowego i miał być ponownie oceniony przed Gara 4. Derrick Alston Junior i Alessandro Pajola (Virtus Olidata Bologna) również byli niedostępni w poprzednim meczu. Brak istotnych braków po stronie Umana Reyer Venezia."
     }
   ]
 }
