@@ -75,8 +75,8 @@
       "match_datetime": "2026-06-06T20:00:00.000+02:00",
       "match_hh": 20,
       "match_mm": 0,
-      "home_final_score": 0,
-      "visitor_final_score": 0,
+      "home_final_score": 73,
+      "visitor_final_score": 78,
       "target_score": null,
       "additional_time": 0,
       "plant_id": 57,
@@ -86,7 +86,7 @@
       "match_serie": "2-1",
       "match_hw": 2,
       "match_vw": 1,
-      "updated_at": "2026-06-06T20:02:12.545+02:00",
+      "updated_at": "2026-06-06T21:39:54.169+02:00",
       "h_team_id": 1724,
       "h_team_name": "Umana Reyer Venezia",
       "h_club_code": "VEN",
@@ -270,6 +270,6 @@
       }
     ]
   },
-  "cache_key": "tCK:1780639502_mlCK:1780768742_cmCK:1780768932_cdCK:1780639502_vCK:1780693223",
+  "cache_key": "tCK:1780639502_mlCK:1780774346_cmCK:1780774794_cdCK:1780639502_vCK:1780773568",
   "cdn_url": "https://lba-media.s3.eu-south-1.amazonaws.com"
 }
