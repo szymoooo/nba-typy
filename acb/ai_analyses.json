@@ -1,42 +1,20 @@
 {
-  "generated_at": "2026-06-06T15:23:43.515085",
+  "generated_at": "2026-06-06T16:44:26.241548",
   "date": "2026-06-06",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Barcelona @ Murcia",
-      "phase": "?",
-      "date": "2026-06-06T20:00:00+02:00",
-      "ai_pick": "Barcelona",
+      "ai_pick": null,
       "formula_pick": "Murcia",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "Barcelona przystępuje do decydującego meczu numer 3 play-offów z ogromną przewagą, ponieważ kluczowy zawodnik Murcii, David DeJulius (najlepszy strzelec i rozgrywający), został wykluczony z gry na około trzy miesiące z powodu złamania stopy. Mimo że Murcia gra u siebie i pokazała odporność, wygrywając drugi mecz na wyjeździe, brak ich lidera ofensywy będzie niezwykle trudny do nadrobienia przeciwko wydaje się kompletnemu składowi Barcelony.",
-      "key_factors": [
-        "Kontuzja Davida DeJuliusa (Murcia)",
-        "Pełny skład Barcelony",
-        "Zwycięstwo Barcelony w Meczu 1 na wyjeździe w Murcji",
-        "Mecz decydujący (Game 3) w fazie play-off"
-      ],
-      "injury_notes": "Murcia: David DeJulius (lider drużyny, najlepszy strzelec i rozgrywający) jest wykluczony na około trzy miesiące z powodu złamania stopy, wymagającego operacji. Dylan Ennis jest wykluczony do końca sezonu z powodu kontuzji nadgarstka. Howard Sant-Roos jest pod znakiem zapytania po kontuzji w Meczu 1.\nBarcelona: Nicolas Laprovittola wrócił do składu w poprzednim meczu, a zespół nie zgłasza innych istotnych kontuzji kluczowych zawodników."
+      "note": "AI fallback"
     },
     {
       "matchup": "Tenerife @ Real Madrid",
-      "phase": "?",
-      "date": "2026-06-06T20:00:00+02:00",
-      "ai_pick": "Real Madrid",
+      "ai_pick": null,
       "formula_pick": "Real Madrid",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Real Madrid gra u siebie w kluczowym trzecim meczu ćwierćfinałów play-off ACB, a seria jest wyrównana 1-1. Tenerife jest osłabione brakiem kontuzjowanego Rokasa Giedraitisa i niepełną sprawnością Marcelinho Huertasa. Pomimo niestabilnej formy w ostatnich meczach ACB, Real Madryt ma wyraźną przewagę w bilansie sezonu i wygrał Game 2 zdecydowanie na wyjeździe.",
-      "key_factors": [
-        "Przewaga własnego parkietu Realu Madryt w play-offach.",
-        "Kontuzja Rokasa Giedraitisa i niepełna sprawność Marcelinho Huertasa w Tenerife.",
-        "Zwycięstwo Realu Madryt w drugim meczu serii wyjazdowej (118-83).",
-        "Wyraźnie lepszy bilans sezonu zasadniczego Realu Madryt (26-8 vs 18-16)."
-      ],
-      "injury_notes": "Tenerife jest osłabione brakiem Rokasa Giedraitisa, który zerwał więzadło krzyżowe przednie 8 maja 2026 roku. Lider drużyny, Marcelinho Huertas, nie jest w 100% sprawny, co potwierdził trener 4 czerwca 2026 roku. Nie ma istotnych doniesień o kontuzjach kluczowych graczy Realu Madryt na dzień 6 czerwca 2026 roku."
+      "note": "AI fallback"
     }
   ]
 }

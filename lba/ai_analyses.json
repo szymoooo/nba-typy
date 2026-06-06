@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-06-06T15:21:41.551087",
+  "generated_at": "2026-06-06T16:43:20.526688",
   "date": "2026-06-06",
   "league": "LBA",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Virtus Olidata Bologna @ Umana Reyer Venezia",
-      "day": "Semifinali - Gara 4",
-      "date": "2026-06-06T20:00:00.000+02:00",
-      "ai_pick": "Umana Reyer Venezia",
+      "ai_pick": null,
       "formula_pick": "Virtus Olidata Bologna",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "Umana Reyer Venezia prowadzi w serii 2-1 i gra czwarty mecz u siebie w Palasport Taliercio, co stanowi znaczną przewagę w fazie play-off. Drużyna Virtus Olidata Bologna boryka się z kontuzjami kluczowych zawodników, co osłabia ich rotację. Zwycięstwo w meczu numer 3 na własnym parkiecie dodatkowo podbudowało morale Wenecjan.",
-      "key_factors": [
-        "Przewaga własnego parkietu Umana Reyer Venezia",
-        "Kontuzje kluczowych graczy Virtus Olidata Bologna (Vildoza, Alston Jr., Pajola)",
-        "Momentum po zwycięstwie Umana Reyer Venezia w Gara 3"
-      ],
-      "injury_notes": "Luca Vildoza (Virtus Olidata Bologna) był nieobecny w Gara 3 z powodu urazu mięśniowego i miał być ponownie oceniony przed Gara 4. Derrick Alston Junior i Alessandro Pajola (Virtus Olidata Bologna) również byli niedostępni w poprzednim meczu. Brak istotnych braków po stronie Umana Reyer Venezia."
+      "note": "AI fallback"
     }
   ]
 }

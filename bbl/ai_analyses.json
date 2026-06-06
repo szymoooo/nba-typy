@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-06-06T15:24:41.652169",
+  "generated_at": "2026-06-06T16:45:01.047682",
   "date": "2026-06-06",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Alba Berlin @ Bamberg",
-      "phase": "?",
-      "ai_pick": "Bamberg",
+      "ai_pick": null,
       "formula_pick": "Bamberg",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Bamberg gra u siebie w kluczowym meczu o przedłużenie serii półfinałowej, co zapewnia im wysoki 'czynnik desperacji' i dodatkową motywację. Alba Berlin, mimo prowadzenia w serii 2-1, przegrała ostatni mecz wyjazdowy i ma problemy z kontuzjami kluczowych graczy, co osłabia ich skład i formę.",
-      "key_factors": [
-        "Czynnik desperacji Bambergu (mecz o wszystko u siebie)",
-        "Przewaga własnego parkietu Bambergu (ostatnie zwycięstwo u siebie, silna forma domowa)",
-        "Kontuzje/niepewność występów kluczowych graczy Alby (Alex O'Connell, Moses Wood)",
-        "Słabsza forma liderów Alby w ostatnim meczu (Malte Delow, Martin Hermannsson)"
-      ],
-      "injury_notes": "Z ALBA Berlin, Alex O'Connell ma problemy mięśniowe, a Moses Wood doznał ponownego urazu kciuka w trzecim meczu serii, co czyni ich występ w meczu 4 kwestionowanym. Martin Hermannsson, choć wrócił do gry, w ostatnim meczu zanotował słabą formę. Brak istotnych, nowych braków w składzie Bambergu."
+      "note": "AI fallback"
     }
   ]
 }
