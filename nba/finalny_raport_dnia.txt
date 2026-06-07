@@ -1,11 +1,14 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-07 15:23 ET) ---
-Na podstawie danych z 2026-06-07, oto analiza Twojego typu:
+--- KRYTYCZNY AUDYT LIVE (2026-06-07 17:19 ET) ---
+Analiza meczu NBA (2026-06-07):
 
-**Spurs @ Knicks -> Typ: Spurs**
+---
 
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:** Mitchell Robinson (C) – gra z pękniętym palcem (piąta kość śródręcza prawej ręki). Był "questionable" na Game 1 Finałów NBA, ale oczekiwano, że będzie dostępny i trenował. Jest wymieniony jako rezerwowy na Game 3. Jego obecność jest kluczowa w walce pod koszem, zwłaszcza przeciwko Victorowi Wembanyamie, a jego brak w wyjściowej piątce to osłabienie. OG Anunoby (PF) i Josh Hart (SG) mieli wcześniejsze problemy z kontuzjami, ale są wymienieni jako prawdopodobni starterzy na Game 3 Finałów NBA.
-    *   **San Antonio Spurs:** Brak kluczowych kontuzji. Żaden zawodnik nie jest wymieniony w raporcie kontuzji na Finały NBA. De'Aaron Fox (PG) miał wcześniej skręconą kostkę, ale wrócił do gry i jest wymieniony jako prawdopodobny starter.
-
+### **Spurs @ Knicks**
+*   **Typ użytkownika:** Spurs
+*   **Kluczowe braki w składach (stan na 2026-06-07):**
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę. Wcześniejsze raporty (początek czerwca 2026) wskazywały, że Spurs mieli pełny skład na Finały NBA.
+    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę. Wcześniejsze raporty (początek czerwca 2026) wskazywały, że Mitchell Robinson (C) był wymieniony jako prawdopodobny/wątpliwy (probable/questionable) z powodu złamania V kości śródręcza prawej ręki na wcześniejsze mecze Finałów.
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Pomimo braku oficjalnych raportów o kontuzjach na dzień 2026-06-07, dyskusje w mediach z tego dnia wskazują na problem zdrowotny Mitchell'a Robinsona, który osłabia frontcourt Knicks. Spurs wchodzą w serię bez zgłoszonych kontuzji, co daje im przewagę zdrowotną.
+    *   Chociaż dzisiejsze oficjalne raporty kontuzji są "NOT YET SUBMITTED" dla obu drużyn na mecz zaplanowany na 8 czerwca, wcześniejsze informacje z Finałów NBA wskazywały na możliwy brak Mitchella Robinsona dla Knicks. Spurs byli w tym czasie zdrowi. Pomimo braku potwierdzonych, aktualnych braków na dziś, niepewność co do składu Knicks sprawia, że typ na Spurs jest ryzykowny.
+
+---
