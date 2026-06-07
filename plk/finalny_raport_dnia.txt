@@ -1,18 +1,16 @@
---- AUDYT PLK LIVE (2026-06-07 21:48 CET) ---
-Analiza meczu: Legia Warszawa @ Dziki Warszawa
+--- AUDYT PLK LIVE (2026-06-07 23:58 CET) ---
+Dla meczu Legia Warszawa @ Dziki Warszawa (data meczu: 2026-06-01, analiza na dzień 2026-06-07):
 
-### Legia Warszawa @ Dziki Warszawa
+### Legia Warszawa @ Dziki Warszawa -> Typ: Legia Warszawa
 
-*   **Kluczowe braki w składach (2026-06-01):**
-    *   Brak istotnych braków w składzie koszykarskim.
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)**
+    *   🟢 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Wcześniejsze doniesienia o kontuzjach (Pluta, Graves, Tass z listopada 2025 oraz Pluty z kwietnia 2026) nie wskazują na ich niedostępność w dniu 2026-06-01, a Andrzej Pluta był w dobrej formie przed finałami OBL. Informacje o kontuzjach piłkarzy (Wahan Biczachczjan) zostały zignorowane.
+    *   🟢 **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
 
-*   **Aktualna forma top scorerów (sezon 2025/2026 i mecz 2026-06-01):**
-    *   🏀 **Legia Warszawa:**
-        *   Top scorerzy sezonu 2025/2026 to D.J. Brewton (15.1 Pkt/mecz), Andrzej Pluta (13.6 Pkt/mecz) i Jayvon Graves (13.3 Pkt/mecz).
-        *   W meczu 2026-06-01, Dominic Brewton III zdobył 22 punkty, a Andrzej Pluta 21 punktów, prezentując bardzo dobrą formę.
-    *   🏀 **Dziki Warszawa:**
-        *   Top scorerzy sezonu 2025/2026 to Landrius Horton (18.7 Pkt/mecz), Darnell Edge (16.3 Pkt/mecz) i Tahlik Chavez (11.6 Pkt/mecz).
-        *   W meczu 2026-06-01, Darnell Edge zdobył 19 punktów, Landrius Horton 9 punktów, a Tahlik Chavez 10 punktów. Darnell Edge utrzymał wysoką formę, natomiast Horton i Chavez zanotowali nieco słabsze występy niż ich średnie sezonowe.
+2.  **Aktualna forma top scorerów**
+    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu. Ogólna informacja z 7 czerwca 2026 r. wskazuje, że Andrzej Pluta grał "wyśmienicie w tym sezonie" i jest kluczowym zawodnikiem Legii, a siłą zespołu jest szeroki skład.
+    *   🏀 **Dziki Warszawa:** Top scorerzy sezonu 2025/2026 to Landrius Horton (18.4 Pkt/mecz), Darnell Edge (16.4 Pkt/mecz) i Tahlik Chavez (11.5 Pkt/mecz). Brak danych z API dla tego zespołu dotyczących formy w serii.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 2026-06-01 w Hali Koło w Warszawie. Było to trzecie spotkanie półfinałowe fazy play-off Orlen Basket Ligi. Legia Warszawa wygrała ten mecz 91:78, pieczętując awans do finału rozgrywek wynikiem 3-0 w serii. Legia zaprezentowała silną formę ofensywną, zwłaszcza ze strony swoich liderów strzeleckich.
+3.  **Werdykt:**
+    *   ✅ **ZATWIERDZONY**
+        *   Mecz 2026-06-01 był trzecim spotkaniem półfinału Orlen Basket Ligi, w którym Legia Warszawa pokonała Dziki Warszawa, tym samym wygrywając serię 3-0. To potwierdza trafność typu. Brak kluczowych osłabień w składach, które mogłyby wpłynąć na wynik meczu.
