@@ -1,82 +1,360 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="pl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>ACB AI Picks June 07, 2026 - Liga Endesa</title>
-  <meta name="description" content="Joventut Badalona vs Baskonia: AI prediction - Baskonia to win">
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800;900&display=swap" rel="stylesheet">
-  <style>
-:root{--bg:#0f172a;--card:#1e293b;--acc:#c8102e;--tx:#f8fafc;
-      --sub:#94a3b8;--win:#10b981;--br:#334155;}
-*{box-sizing:border-box;}
-body{background:var(--bg);color:var(--tx);font-family:'Montserrat',sans-serif;margin:0;padding:20px;}
-.container{max-width:1200px;margin:0 auto;}
-header{text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom:1px solid var(--br);}
-h1{font-weight:900;letter-spacing:-1px;margin:0;color:var(--acc);font-size:2.5rem;}
-.sub{color:var(--sub);font-size:.9rem;text-transform:uppercase;letter-spacing:1px;margin-top:10px;}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(450px,1fr));gap:25px;}
-.card{background:var(--card);border:1px solid var(--br);border-radius:20px;overflow:hidden;
-       display:flex;flex-direction:column;box-shadow:0 10px 15px -3px rgba(0,0,0,.2);
-       transition:transform .2s,box-shadow .2s;}
-.card:hover{transform:translateY(-5px);border-color:var(--acc);}
-.card-h{background:rgba(0,0,0,.3);padding:12px 25px;text-align:center;border-bottom:1px solid var(--br);
-         font-size:.75rem;font-weight:900;color:var(--sub);text-transform:uppercase;letter-spacing:1px;}
-.card-h.live{color:#ef4444;animation:pulse 1.5s infinite;}
-.matchup{display:flex;justify-content:space-between;align-items:stretch;padding:30px 20px;flex-grow:1;gap:12px;}
-.team{text-align:center;flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;gap:14px;}
-.team img{width:100px;height:100px;object-fit:contain;background:rgba(255,255,255,.04);border-radius:12px;padding:6px;}
-.team-name{font-weight:900;font-size:.85rem;text-transform:uppercase;word-wrap:break-word;}
-.scores{display:flex;align-items:center;justify-content:center;gap:15px;}
-.score{font-size:2.8rem;font-weight:900;line-height:1;}
-.score.win{color:var(--win);}
-.score.lose{color:var(--sub);opacity:.8;}
-.vs{color:var(--br);font-style:italic;font-weight:900;font-size:1.5rem;}
-.pred{background:rgba(15,23,42,.6);padding:20px;text-align:center;border-top:1px solid var(--br);margin-top:auto;}
-.pred-l{font-size:.7rem;color:var(--sub);text-transform:uppercase;font-weight:700;letter-spacing:1px;margin-bottom:8px;}
-.pred-v{font-size:1.2rem;font-weight:900;}
-.empty{text-align:center;color:#888;padding:60px 20px;line-height:1.6;}
-.empty .ico{font-size:3rem;display:block;margin-bottom:16px;}
-.footer{text-align:center;color:var(--sub);font-size:.75rem;margin-top:50px;padding-bottom:20px;}
-@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.5;}}
-@media(max-width:768px){.grid{grid-template-columns:1fr;}.score{font-size:2.2rem;}}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ACB PUBLIC HUB</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root { --accent: #f59e0b; }
+        
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #020817; color: #f8fafc;
+       font-family: 'Montserrat', 'Inter', sans-serif; min-height: 100vh; }
+
+/* HEADER */
+.hub-header { text-align: center; padding: 40px 20px 28px; }
+.hub-header img.league-logo { height: 72px; object-fit: contain;
+                               display: block; margin: 0 auto 16px; }
+.hub-header h1 { font-size: clamp(1.6rem,4vw,2.4rem); font-weight: 900;
+                 letter-spacing: -1px; color: #f8fafc; }
+.hub-header .subtitle { margin-top: 6px; color: #64748b; font-size: .8rem;
+                         text-transform: uppercase; letter-spacing: 1px; }
+
+/* GRID */
+.grid { display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 20px; max-width: 1100px; margin: 0 auto; padding: 0 20px 40px; }
+
+/* CARD */
+.card { background: #0f172a; border: 1px solid #1e293b; border-radius: 16px;
+        overflow: hidden; cursor: pointer;
+        transition: border-color .2s, box-shadow .2s, transform .15s; }
+.card:hover { border-color: #334155; box-shadow: 0 8px 32px rgba(0,0,0,.5);
+              transform: translateY(-2px); }
+.card-header { padding: 8px 16px; background: #1e293b; font-size: .68rem;
+               color: #94a3b8; text-transform: uppercase; letter-spacing: 1px;
+               display: flex; justify-content: space-between; align-items: center; }
+.card-header.live { background: #7f1d1d; color: #fca5a5; }
+.click-hint { font-size: .6rem; color: #475569; }
+.matchup { display: flex; align-items: center;
+           justify-content: space-between; padding: 20px 16px; gap: 8px; }
+.team { display: flex; flex-direction: column; align-items: center;
+        gap: 8px; flex: 1; text-align: center; }
+.team img { width: 56px; height: 56px; object-fit: contain; }
+.team-name { font-size: .8rem; font-weight: 700; color: #e2e8f0;
+             line-height: 1.2; max-width: 90px; }
+.score-wrap { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+.score { font-size: 2.2rem; font-weight: 900; color: #e2e8f0; font-family: monospace; }
+.score.win  { color: #10b981; }
+.score.loss { color: #ef4444; }
+.vs { font-size: 1.4rem; color: #475569; font-weight: 700; }
+.pred-box { border-top: 1px solid #1e293b; padding: 14px 20px;
+            display: flex; justify-content: space-between; align-items: center; }
+.pred-label { font-size: .62rem; color: #64748b;
+              text-transform: uppercase; letter-spacing: 1px; font-weight: 700; }
+.pred-val { font-size: 1rem; font-weight: 900; color: #f8fafc; }
+.outcome-ok  { color: #10b981; }
+.outcome-bad { color: #ef4444; }
+
+/* EMPTY */
+.empty { text-align: center; color: #64748b; padding: 60px 20px;
+         grid-column: 1/-1; }
+.empty .ico { font-size: 3rem; display: block; margin-bottom: 16px; }
+
+/* MODAL */
+.modal-overlay { display: none; position: fixed; inset: 0;
+                 background: rgba(2,8,23,.85); backdrop-filter: blur(4px);
+                 z-index: 1000; align-items: center; justify-content: center; padding: 20px; }
+.modal-overlay.open { display: flex; }
+.modal-box { background: #0f172a; border: 1px solid #334155; border-radius: 20px;
+             max-width: 620px; width: 100%; max-height: 90vh; overflow-y: auto;
+             padding: 28px; position: relative; }
+.modal-close { position: absolute; top: 16px; right: 16px; background: #1e293b;
+               border: none; color: #94a3b8; cursor: pointer; border-radius: 8px;
+               width: 32px; height: 32px; font-size: 1.1rem;
+               display: flex; align-items: center; justify-content: center; }
+.modal-close:hover { background: #334155; color: #f8fafc; }
+.modal-matchup { font-size: .72rem; color: #64748b; text-transform: uppercase;
+                 letter-spacing: 1px; margin-bottom: 8px; }
+.modal-pick { font-size: 1.15rem; font-weight: 900; color: #f8fafc; margin-bottom: 24px; }
+.modal-section { font-size: .65rem; color: #64748b; text-transform: uppercase;
+                 letter-spacing: 1px; font-weight: 700; margin-bottom: 8px;
+                 display: flex; align-items: center; gap: 8px; }
+.modal-conf { background: #1e3a5f; color: #60a5fa; font-size: .7rem;
+              font-weight: 900; padding: 3px 8px; border-radius: 20px; }
+.modal-text { color: #cbd5e1; font-size: .88rem; line-height: 1.7; margin-bottom: 16px; }
+.modal-factors { padding-left: 20px; color: #94a3b8; font-size: .82rem;
+                 line-height: 1.6; margin-bottom: 16px; }
+.modal-factors li { margin-bottom: 6px; }
+.modal-injury { padding: 12px 14px; background: rgba(239,68,68,.08);
+                border-radius: 10px; color: #fca5a5; font-size: .8rem;
+                line-height: 1.6; margin-bottom: 20px; }
+.modal-divider { border: none; border-top: 1px solid #1e293b; margin: 20px 0; }
+.modal-audit { padding: 16px; background: rgba(0,0,0,.3); border-radius: 12px;
+               border: 1px dashed #334155; color: #f8fafc; font-size: .85rem;
+               line-height: 1.8; white-space: pre-wrap; }
+
+/* CALENDAR / HISTORY */
+.history-section { max-width: 1100px; margin: 0 auto 40px; padding: 0 20px; }
+.history-section h2 { font-size: 1.1rem; font-weight: 800; color: #e2e8f0; margin-bottom: 4px; }
+.hist-sub { color: #64748b; font-size: .78rem; margin-bottom: 16px; }
+.hist-picker { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.hist-btn { background: #0f172a; border: 1px solid #1e293b; border-radius: 12px;
+            padding: 10px 16px; cursor: pointer; color: #e2e8f0;
+            transition: border-color .2s; min-width: 120px; text-align: left; }
+.hist-btn.disabled { opacity: .4; cursor: default; }
+.hist-btn.active { border-color: var(--accent,#3b82f6); background: rgba(59,130,246,.08); }
+.hist-btn:hover:not(.disabled) { border-color: var(--accent,#3b82f6); }
+.btn-label { font-size: .7rem; color: #64748b; text-transform: uppercase;
+             letter-spacing: 1px; font-weight: 700; }
+.btn-date { font-size: .82rem; color: #e2e8f0; font-weight: 600; margin-top: 2px; }
+.hist-divider { width: 1px; height: 40px; background: #1e293b; }
+.hist-cal-btn { background: #0f172a; border: 1px solid #1e293b; border-radius: 12px;
+                padding: 10px 16px; cursor: pointer; display: flex;
+                align-items: center; gap: 10px; position: relative;
+                transition: border-color .2s; }
+.hist-cal-btn:hover { border-color: var(--accent,#3b82f6); }
+.hist-cal-btn.active { border-color: var(--accent,#3b82f6); background: rgba(59,130,246,.08); }
+.hist-result, .hist-noarchive { display: none; margin-top: 12px; padding: 12px 16px;
+    border-radius: 10px; font-size: .85rem; align-items: center; gap: 10px; }
+.hist-result.show, .hist-noarchive.show { display: flex; }
+.hist-result { background: rgba(59,130,246,.08); border: 1px solid #1e3a5f; color: #93c5fd; }
+.hist-result a { color: var(--accent,#60a5fa); font-weight: 700; margin-left: auto; }
+.hist-noarchive { background: rgba(245,158,11,.08); border: 1px solid #78350f; color: #fcd34d; }
+
+/* FOOTER */
+.hub-footer { text-align: center; padding: 20px; color: #334155;
+              font-size: .72rem; border-top: 1px solid #0f172a; }
+
+        .card:hover { border-color: #f59e0b40; }
+        .pred-val { color: #f59e0b; }
+    </style>
 </head>
 <body>
-  <div class="container">
-    <header>
-      <img src="https://www.proballers.com/api/getLeagueLogo?id=30&width=300"
-           alt="ACB Liga Endesa logo"
-           onerror="this.style.display='none'"
-           style="height:70px;object-fit:contain;margin-bottom:12px;display:block;margin-left:auto;margin-right:auto;">
-      <h1>ACB PUBLIC HUB</h1>
-      <div class="sub">Liga Endesa (ACB) &middot; Live Scores &amp; AI Model Picks &mdash; June 07, 2026</div>
-    </header>
+
+    <div class="hub-header">
+        <img src="https://www.proballers.com/api/getLeagueLogo?id=30&width=300" alt="ACB PUBLIC HUB logo" class="league-logo"
+             onerror="this.style.display='none'">
+        <h1>ACB PUBLIC HUB</h1>
+        <div class="subtitle">Liga Endesa (ACB) · Live Scores & Public AI Model Picks — June 07, 2026</div>
+    </div>
+
     <div class="grid">
-      
-            <div class="card">
-              <div class="card-h">20:00 CET</div>
-              <div class="matchup">
-                <div class="team">
-                  <img src="https://api.sofascore.app/api/v1/team/3544/image" alt="Joventut Badalona" onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23c8102e' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23c8102e'>%F0%9F%8F%80</text></svg>'">
-                  <span class="team-name">Joventut Badalona</span>
-                </div>
-                <div class="scores"><span class="vs">VS</span></div>
-                <div class="team">
-                  <img src="https://api.sofascore.app/api/v1/team/3553/image" alt="Baskonia" onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23c8102e' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23c8102e'>%F0%9F%8F%80</text></svg>'">
-                  <span class="team-name">Baskonia</span>
-                </div>
-              </div>
-              <div class="pred">
-                <div class="pred-l">Public AI Model Picks</div>
-                <div class="pred-v">Baskonia</div>
-              </div>
-              
+        <div class="card" onclick="openModal('acb_140297591912640')">
+        <div class="card-header">
+            <span>20:00 CET</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="https://api.sofascore.app/api/v1/team/3544/image" alt="Joventut Badalona"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23f59e0b' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23f59e0b'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Joventut Badalona</span>
             </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="https://api.sofascore.app/api/v1/team/3553/image" alt="Baskonia"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23f59e0b' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23f59e0b'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Baskonia</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">Baskonia</span>
+        </div>
     </div>
-    <div class="footer">
-      Last updated: June 07, 2026 at 02:54 &middot; Data: Sofascore / Gemini Search
     </div>
-  </div>
+
+    <div class="history-section" id="history">
+        <h2>Prediction History</h2>
+        <p class="hist-sub">Archive of previous days AI predictions</p>
+        <div class="hist-picker">
+            <button class="hist-btn" id="btn-yesterday" onclick="trySelectDay('yesterday')">
+                <div class="btn-label">Yesterday</div>
+                <div class="btn-date" id="lbl-yesterday">—</div>
+            </button>
+            <button class="hist-btn" id="btn-dayb4" onclick="trySelectDay('dayb4')">
+                <div class="btn-label">Day before</div>
+                <div class="btn-date" id="lbl-dayb4">—</div>
+            </button>
+            <div class="hist-divider"></div>
+            <div class="hist-cal-btn" id="cal-btn">
+                <svg width="20" height="20" viewBox="0 0 22 22" fill="none">
+                    <rect x="2" y="4" width="18" height="16" rx="3"
+                          stroke="#f59e0b" stroke-width="1.2" fill="none"/>
+                    <line x1="2" y1="8.5" x2="20" y2="8.5"
+                          stroke="#f59e0b" stroke-width="1.2"/>
+                    <line x1="7" y1="2" x2="7" y2="6"
+                          stroke="#f59e0b" stroke-width="1.5" stroke-linecap="round"/>
+                    <line x1="15" y1="2" x2="15" y2="6"
+                          stroke="#f59e0b" stroke-width="1.5" stroke-linecap="round"/>
+                </svg>
+                <div>
+                    <div class="btn-label">Pick a date</div>
+                    <div class="btn-date" id="cal-display" style="color:#f59e0b">
+                        Open calendar</div>
+                </div>
+                <input type="date" id="hidden-date"
+                       style="position:absolute;opacity:0;width:1px;height:1px;pointer-events:none"
+                       onchange="selectCustom(this.value)">
+            </div>
+        </div>
+        <div class="hist-result" id="hist-result">
+            <span>Archive for <strong id="res-date"></strong></span>
+            <a href="#" id="res-link">View picks →</a>
+        </div>
+        <div class="hist-noarchive" id="hist-noarchive">
+            <span>⚠️ No archive for <strong id="noarch-date"></strong></span>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal-overlay" id="modal-overlay">
+        <div class="modal-box" id="modal-box"></div>
+    </div>
+
+    <div class="hub-footer">
+        Last updated: June 07, 2026 at 07:03 &middot; Data: Sofascore / 24score
+    </div>
+
+    <script>window._matchData = {"acb_140297591912640": {"matchup": "Joventut Badalona @ Baskonia", "pick": "Baskonia", "reasoning": "", "key_factors": [], "confidence": null, "injury_notes": "", "audit": ""}};</script>
+    <script>
+// MODAL
+function openModal(id) {
+    const data = window._matchData && window._matchData[id];
+    if (!data) return;
+    const box = document.getElementById('modal-box');
+    let html = '';
+
+    // Nagłówek
+    html += `<button class="modal-close" onclick="closeModal()">✕</button>`;
+    html += `<div class="modal-matchup">${data.matchup || ''}</div>`;
+    html += `<div class="modal-pick">Typ: <span style="color:var(--accent,#60a5fa)">${data.pick || ''}</span></div>`;
+
+    // AI Reasoning
+    if (data.reasoning) {
+        const conf = data.confidence
+            ? `<span class="modal-conf">Pewność: ${data.confidence}/10</span>` : '';
+        html += `<div class="modal-section">🤖 AI Reasoning ${conf}</div>`;
+        html += `<div class="modal-text">${data.reasoning}</div>`;
+        if (data.key_factors && data.key_factors.length) {
+            html += '<ul class="modal-factors">' +
+                data.key_factors.map(f => `<li>${f}</li>`).join('') +
+                '</ul>';
+        }
+        if (data.injury_notes) {
+            html += `<div class="modal-injury">🩹 ${data.injury_notes}</div>`;
+        }
+    }
+
+    // Lineup Audit
+    if (data.audit) {
+        html += '<hr class="modal-divider">';
+        html += '<div class="modal-section">🛡️ Lineup Audit AI</div>';
+        html += `<div class="modal-audit">${data.audit}</div>`;
+    }
+
+    if (!data.reasoning && !data.audit) {
+        html += '<div class="modal-text" style="color:#64748b">Brak analizy AI dla tego meczu.</div>';
+    }
+
+    box.innerHTML = html;
+    document.getElementById('modal-overlay').classList.add('open');
+}
+function closeModal() {
+    document.getElementById('modal-overlay').classList.remove('open');
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+document.getElementById('modal-overlay').addEventListener('click', function(e) {
+    if (e.target === this) closeModal();
+});
+
+// CALENDAR
+const _archivePrefix = '';
+let _availDates = new Set();
+let _pickerReady = false;
+const _today = new Date();
+function _fmtDisp(d) {
+    return d.toLocaleDateString('en-US', {month:'long', day:'numeric', year:'numeric'});
+}
+function _fmtSlug(d) {
+    return d.getFullYear() + '-' +
+           String(d.getMonth()+1).padStart(2,'0') + '-' +
+           String(d.getDate()).padStart(2,'0');
+}
+function _off(n) { const d = new Date(_today); d.setDate(d.getDate()+n); return d; }
+const _yday = _off(-1);
+const _db4  = _off(-2);
+fetch(_archivePrefix + 'archive/index.json?v=' + Date.now())
+    .then(r => r.json())
+    .then(data => { _availDates = new Set(data.dates || []); })
+    .catch(() => {})
+    .finally(() => { _pickerReady = true; _initPicker(); });
+function _initPicker() {
+    const e1 = document.getElementById('lbl-yesterday');
+    const e2 = document.getElementById('lbl-dayb4');
+    if (e1) e1.textContent = _fmtDisp(_yday);
+    if (e2) e2.textContent = _fmtDisp(_db4);
+    const b1 = document.getElementById('btn-yesterday');
+    const b2 = document.getElementById('btn-dayb4');
+    if (b1 && !_availDates.has(_fmtSlug(_yday))) b1.classList.add('disabled');
+    if (b2 && !_availDates.has(_fmtSlug(_db4)))  b2.classList.add('disabled');
+}
+function _clearActive() {
+    ['btn-yesterday','btn-dayb4','cal-btn'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.classList.remove('active');
+    });
+    ['hist-result','hist-noarchive'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.classList.remove('show');
+    });
+}
+function trySelectDay(which) {
+    const btn = document.getElementById('btn-' + which);
+    if (btn && btn.classList.contains('disabled')) return;
+    _clearActive();
+    const d = which === 'yesterday' ? _yday : _db4;
+    if (btn) btn.classList.add('active');
+    const cd = document.getElementById('cal-display');
+    if (cd) cd.textContent = 'Open calendar';
+    _showResult(_fmtDisp(d), _fmtSlug(d));
+}
+function selectCustom(val) {
+    if (!val) return;
+    _clearActive();
+    const p = val.split('-');
+    const d = new Date(+p[0], +p[1]-1, +p[2]);
+    const slug = _fmtSlug(d), label = _fmtDisp(d);
+    const cd = document.getElementById('cal-display');
+    if (cd) cd.textContent = label;
+    const cb = document.getElementById('cal-btn');
+    if (cb) cb.classList.add('active');
+    if (_pickerReady && _availDates.size > 0 && !_availDates.has(slug)) {
+        _showNoArchive(label);
+    } else {
+        _showResult(label, slug);
+    }
+}
+function _showResult(label, slug) {
+    document.getElementById('res-date').textContent = label;
+    document.getElementById('res-link').href = _archivePrefix + 'archive/' + slug + '.html';
+    document.getElementById('hist-result').classList.add('show');
+    document.getElementById('hist-noarchive').classList.remove('show');
+}
+function _showNoArchive(label) {
+    document.getElementById('noarch-date').textContent = label;
+    document.getElementById('hist-noarchive').classList.add('show');
+    document.getElementById('hist-result').classList.remove('show');
+}
+const _calBtn = document.getElementById('cal-btn');
+if (_calBtn) {
+    _calBtn.addEventListener('click', function() {
+        const inp = document.getElementById('hidden-date');
+        if (inp) { if (inp.showPicker) inp.showPicker(); else inp.click(); }
+    });
+}
+</script>
 </body>
 </html>
