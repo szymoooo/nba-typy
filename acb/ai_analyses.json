@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-06-07T07:03:54.107806",
+  "generated_at": "2026-06-07T10:11:55.515348",
   "date": "2026-06-07",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Joventut Badalona @ Baskonia",
-      "ai_pick": null,
+      "phase": "?",
+      "ai_pick": "Baskonia",
       "formula_pick": "Baskonia",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Baskonia ma znaczącą przewagę, grając u siebie w decydującym meczu numer 3 fazy play-off. Ich obecna dobra forma, połączona z potwierdzoną kontuzją kluczowego gracza Joventut Badalona, Ante Tomicia, silnie wskazuje na ich zwycięstwo.",
+      "key_factors": [
+        "Kontuzja Ante Tomicia (Joventut)",
+        "Przewaga własnego parkietu w play-offach (mecz 3)",
+        "Lepsza bieżąca forma Baskonii"
+      ],
+      "injury_notes": "Joventut Badalona: Ante Tomic (center) jest kontuzjowany i nie zagra, co stanowi istotne osłabienie drużyny. Simon Birgander był kontuzjowany, ale prawdopodobnie wrócił. Baskonia: Brak istotnych braków kadrowych zgłoszonych na dzień 2026-06-07."
     }
   ]
 }
