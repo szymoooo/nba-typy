@@ -1,29 +1,15 @@
 {
-  "generated_at": "2026-05-31T22:44:07.615590",
-  "date": "2026-06-01",
+  "generated_at": "2026-06-07T22:40:17.190202",
+  "date": "2026-06-08",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Legia Warszawa @ Dziki Warszawa",
-      "phase": "Półfinały",
-      "round": "3 mecz",
-      "date": "2026-06-01T20:15:00",
-      "ai_pick": "Legia Warszawa",
+      "matchup": "ORLEN Zastal Zielona Góra @ Legia Warszawa",
+      "ai_pick": null,
       "formula_pick": "Legia Warszawa",
-      "agreement": true,
-      "confidence": 6,
-      "reasoning": "Legia Warszawa prowadzi w serii półfinałowej 2-0 i pomimo znaczących osłabień kadrowych, pokazała odporność i zdolność do wygrywania zaciętych spotkań, czego dowodem był ich poprzedni mecz zakończony zwycięstwem 78-76. Dziki Warszawa, grając u siebie i stojąc przed wizją eliminacji, będą niezwykle zmotywowane, jednak Legia ma lepsze ogólne statystyki sezonowe i momentum.",
-      "key_factors": [
-        "Prowadzenie Legii Warszawa w serii 2-0",
-        "Motywacja Dzików Warszawa jako gospodarza w meczu o wszystko",
-        "Osłabienia kadrowe Legii Warszawa (Race Thompson, Michał Kolenda, Carl Ponsar)",
-        "Wyrównany przebieg poprzedniego spotkania",
-        "Lepsze ogólne statystyki Legii Warszawa w sezonie"
-      ],
-      "injury_notes": "Legia Warszawa wystąpi bez kontuzjowanych Race'a Thompsona (kontuzja stawu skokowego) i Michała Kolendy. Carl Ponsar jest zawieszony po drugim przewinieniu niesportowym w poprzednim meczu. Status Łukasza Frąckiewicza z Dzików Warszawa, który opuścił pierwszy mecz półfinałowy z powodu problemów z kręgosłupem, jest niepewny.",
-      "agreement_with_odds": true
+      "note": "AI fallback"
     }
   ]
 }

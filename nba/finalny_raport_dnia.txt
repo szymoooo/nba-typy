@@ -1,14 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-07 17:19 ET) ---
-Analiza meczu NBA (2026-06-07):
+--- KRYTYCZNY AUDYT LIVE (2026-06-07 18:39 ET) ---
+Na podstawie dostępnych danych z dnia 2026-06-07:
 
----
+**Mecz: Spurs @ Knicks**
+Typ użytkownika: Spurs
 
-### **Spurs @ Knicks**
-*   **Typ użytkownika:** Spurs
-*   **Kluczowe braki w składach (stan na 2026-06-07):**
-    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę. Wcześniejsze raporty (początek czerwca 2026) wskazywały, że Spurs mieli pełny skład na Finały NBA.
-    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę. Wcześniejsze raporty (początek czerwca 2026) wskazywały, że Mitchell Robinson (C) był wymieniony jako prawdopodobny/wątpliwy (probable/questionable) z powodu złamania V kości śródręcza prawej ręki na wcześniejsze mecze Finałów.
+*   **Kluczowe składy (styczeń 2026):**
+    *   **San Antonio Spurs:** Victor Wembanyama, De'Aaron Fox, Devin Vassell, Keldon Johnson, Stephon Castle. Victor Wembanyama jest dominującą siłą, prowadzącą w statystykach bloków i zbiórek w playoffach 2025-2026.
+    *   **New York Knicks:** Jalen Brunson, OG Anunoby, Mikal Bridges, Mitchell Robinson, Karl-Anthony Towns, Josh Hart. Jalen Brunson był liderem w punktach i asystach w playoffach 2025-2026.
+
+*   **Kluczowe braki w składach (2026-06-07):**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Raporty z NBA CMS na dzień 07.06.2026 dla meczu SAS@NYK na 08.06.2026 wskazują status "NOT YET SUBMITTED" dla obu drużyn.
+
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Chociaż dzisiejsze oficjalne raporty kontuzji są "NOT YET SUBMITTED" dla obu drużyn na mecz zaplanowany na 8 czerwca, wcześniejsze informacje z Finałów NBA wskazywały na możliwy brak Mitchella Robinsona dla Knicks. Spurs byli w tym czasie zdrowi. Pomimo braku potwierdzonych, aktualnych braków na dziś, niepewność co do składu Knicks sprawia, że typ na Spurs jest ryzykowny.
-
----
+    *   Chociaż San Antonio Spurs, z Victorem Wembanyamą na czele, wykazali się znakomitą formą i zdrowiem w początkowych fazach Finałów NBA 2026 (Stan na 03.06.2026, Game 1), a New York Knicks mieli Mitchella Robinsona jako questionable (Stan na 03.06.2026, Game 1), **brak aktualnych, potwierdzonych raportów kontuzji na DZISIAJ (2026-06-07)** sprawia, że ocena typu jest ryzykowna. Nie można w pełni ocenić wpływu ewentualnych braków na wynik meczu.
