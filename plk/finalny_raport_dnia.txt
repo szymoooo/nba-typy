@@ -1,22 +1,22 @@
---- AUDYT PLK LIVE (2026-06-07 18:54 CET) ---
-Analiza meczu PLK (2026-06-01): Legia Warszawa @ Dziki Warszawa
+--- AUDYT PLK LIVE (2026-06-07 20:09 CET) ---
+Analiza meczu PLK 2026-06-01: Legia Warszawa @ Dziki Warszawa
 
-**Legia Warszawa @ Dziki Warszawa**
+### Legia Warszawa @ Dziki Warszawa -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach (2026-06-01):**
-    *   **Legia Warszawa:** Race Thompson był kontuzjowany (uraz stawu skokowego) i poza składem od pierwszego meczu serii. Michał Kolenda, kapitan Legii, wrócił do wyjściowej piątki po problemach zdrowotnych, które wykluczyły go z dwóch pierwszych meczów półfinału.
-    *   **Dziki Warszawa:** Brak informacji o istotnych brakach w składzie koszykarskim.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:** Race Thompson był kontuzjowany (uraz stawu skokowego) i był poza składem na ten mecz, podobnie jak w poprzednim spotkaniu serii półfinałowej. Michał Kolenda powrócił do wyjściowej piątki po problemach zdrowotnych, które wykluczyły go z dwóch pierwszych meczów półfinału.
+    *   🏀 **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim z powodu kontuzji czy zawieszeń. Michał Aleksandrowicz i Grzegorz Grochowski byli niedostępni decyzją trenera.
 
-2.  **Aktualna forma top scorerów (mecz z 2026-06-01):**
-    *   **Legia Warszawa:**
-        *   Dominic Brewton III: 22 punkty, 3 zbiórki, 2 asysty.
-        *   Andrzej Pluta: 21 punktów, 1 zbiórka, 3 asysty, 3 przechwyty. Andrzej Pluta został wyróżniony jako MVP sezonu zasadniczego i "wziął ciężar gry na swoje barki" w kluczowych momentach.
-        *   Carl Ponsar: 13 punktów, 8 zbiórek, 2 asysty, 4 przechwyty.
-    *   **Dziki Warszawa:**
+2.  **Aktualna forma top scorerów (mecz 01.06.2026):**
+    *   🔥 **Legia Warszawa:**
+        *   Dominic Brewton III: 22 punkty.
+        *   Andrzej Pluta: 21 punktów. Został wyróżniony za świetną grę w tym meczu.
+        *   Carl Ponsar: 13 punktów.
+    *   🔥 **Dziki Warszawa:**
         *   Darnell Edge: 19 punktów.
         *   Grzegorz Kamiński: 12 punktów.
         *   Tahlik Chavez: 10 punktów.
-        *   Landrius Horton: 9 punktów.
+    *   Brak danych z API dla średniej formy w serii.
 
 3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Legia Warszawa pewnie pokonała Dziki Warszawa 91:78 w trzecim meczu półfinału (rozegranym 1 czerwca 2026 w Hali Koło, Warszawa), zamykając serię wynikiem 3:0 i awansując do finału Orlen Basket Ligi. Dominacja Legii, zwłaszcza w obronie i w ofensywie prowadzonej przez Plutę i Brewtona, była kluczowa. Mimo kontuzji Race'a Thompsona, powrót Michała Kolendy do składu wyjściowego Legii był pozytywnym sygnałem.
+    Legia Warszawa pokonała Dziki Warszawa 91:78 w trzecim meczu półfinałowym, tym samym zamykając serię 3:0 i awansując do finału. Pomimo braku Race'a Thompsona, Legia zdominowała spotkanie, a kluczowi zawodnicy jak Dominic Brewton III i Andrzej Pluta byli w świetnej formie strzeleckiej. Typ był zgodny z wynikiem meczu.
