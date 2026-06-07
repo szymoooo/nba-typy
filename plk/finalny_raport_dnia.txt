@@ -1,36 +1,20 @@
---- AUDYT PLK LIVE (2026-06-07 09:02 CET) ---
-**Analiza meczu PLK: Legia Warszawa @ Dziki Warszawa (2026-06-01)**
+--- AUDYT PLK LIVE (2026-06-07 17:27 CET) ---
+Analiza meczu PLK (2026-06-01): Legia Warszawa @ Dziki Warszawa
 
-Mecz odbył się w ramach półfinałów ORLEN Basket Ligi (Mecz 3). Gospodarzem był zespół Dzików Warszawa, a spotkanie rozegrano w Hali Koło w Warszawie. Legia Warszawa zwyciężyła 91:78, zamykając serię 3-0 i awansując do finału.
-
----
-
-### **Legia Warszawa** 💚🏀
+### Legia Warszawa
 
 1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim na mecz 2026-06-01. Wcześniejsze doniesienia o kontuzjach Andrzeja Pluty i Jayvona Gravesa z końca 2025 roku zostały rozwiązane, ponieważ obaj zawodnicy wystąpili w tym meczu, a Andrzej Pluta był jednym z liderów punktowych.
+    *   Brak istotnych braków w składzie koszykarskim Legii Warszawa na mecz 2026-06-01. Sztab szkoleniowy Legii był zadowolony z sytuacji kadrowej przed finałem (rozpoczynającym się 2026-06-08), co sugeruje, że kluczowi zawodnicy byli dostępni również na półfinał 2026-06-01.
+2.  **Aktualna forma top scorerów:**
+    *   Andrzej Pluta był "świetny" w meczu nr 3 półfinału (czyli 2026-06-01), co wskazuje na jego wysoką formę.
+    *   Brak danych z API dla pozostałych zawodników w tej serii.
+3.  **Werdykt:** ✅ ZATWIERDZONY
 
-2.  **Aktualna forma top scorerów (w tym meczu półfinałowym):**
-    *   Dominic Brewton III: 22 punkty
-    *   Andrzej Pluta: 21 punktów
-    *   Carl Ponsar: 13 punktów
-    *   (Średnie z sezonu 2025/2026: Dominic Brewton III 15.1 Pkt/mecz, Andrzej Pluta 13.6 Pkt/mecz, Jayvon Graves 13.3 Pkt/mecz). Forma liderów Legii była bardzo wysoka w tym decydującym meczu.
-
----
-
-### **Dziki Warszawa** 🐗🏀
+### Dziki Warszawa
 
 1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim na mecz 2026-06-01. Zawodnik Dontay Caruthers opuścił zespół 2026-01-27, co nie było kontuzją na dzień meczu.
-
-2.  **Aktualna forma top scorerów (w tym meczu półfinałowym):**
-    *   Darnell Edge: 19 punktów, 3 zbiórki, 6 asyst
-    *   Grzegorz Kamiński: 12 punktów, 4 zbiórki, 3 straty
-    *   Tahlik Chavez: 10 punktów, 2 zbiórki, 4 asysty
-    *   (Średnie z sezonu 2025/2026: Landrius Horton 18.4 Pkt/mecz, Darnell Edge 16.4 Pkt/mecz, Tahlik Chavez 11.5 Pkt/mecz). Ich liderzy punktowali, ale nie byli w stanie przełamać skutecznej obrony Legii.
-
----
-
-**Werdykt dla typu Legia Warszawa:** ✅ **ZATWIERDZONY**
-
-Legia Warszawa zwyciężyła w tym meczu półfinałowym, zamykając serię 3-0. Brak potwierdzonych kluczowych kontuzji w obu zespołach na dzień meczu. Liderzy Legii, Dominic Brewton III i Andrzej Pluta, zaprezentowali wysoką formę strzelecką.
+    *   Łukasz Frąckiewicz zmagał się z problemem z plecami i nie wystąpił w pierwszym meczu półfinału (2026-05-27). Trener Marco Legovich stwierdził, że "Nie chcieliśmy w żaden sposób ryzykować. Patrzymy szerzej, bo to seria, a nie tylko jeden mecz", co sugeruje jego możliwą nieobecność lub ograniczenia również w meczu 2026-06-01.
+2.  **Aktualna forma top scorerów:**
+    *   Landrius Horton (średnio 18.4 Pkt/mecz w sezonie 2025/2026), Darnell Edge (16.4 Pkt/mecz) i Tahlik Chavez (11.5 Pkt/mecz) byli czołowymi strzelcami Dzików w sezonie. Brak danych o ich szczegółowej formie w tej konkretnej serii półfinałowej.
+    *   Brak danych z API dla pozostałych zawodników w tej serii.
+3.  **Werdykt:** ⚠️ RYZYKOWNY (ze względu na potencjalny brak Łukasza Frąckiewicza, co mogło osłabić zespół Dzików w kluczowym meczu).
