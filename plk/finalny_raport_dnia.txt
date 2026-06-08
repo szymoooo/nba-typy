@@ -1,16 +1,21 @@
---- AUDYT PLK LIVE (2026-06-07 23:58 CET) ---
-Dla meczu Legia Warszawa @ Dziki Warszawa (data meczu: 2026-06-01, analiza na dzień 2026-06-07):
+--- AUDYT PLK LIVE (2026-06-08 09:27 CET) ---
+MECZ: ORLEN Zastal Zielona Góra (gość) @ Legia Warszawa (gospodarz)
+Faza: Finał, 1. mecz
+Hala: OSiR Warszawa Bemowo, Warszawa
+Tip-off: 20:15
 
-### Legia Warszawa @ Dziki Warszawa -> Typ: Legia Warszawa
+1.  **Kluczowe braki w składach** 🤕
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)**
-    *   🟢 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Wcześniejsze doniesienia o kontuzjach (Pluta, Graves, Tass z listopada 2025 oraz Pluty z kwietnia 2026) nie wskazują na ich niedostępność w dniu 2026-06-01, a Andrzej Pluta był w dobrej formie przed finałami OBL. Informacje o kontuzjach piłkarzy (Wahan Biczachczjan) zostały zignorowane.
-    *   🟢 **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim. Wcześniejsze doniesienia o kontuzjach dotyczyły sekcji piłkarskiej lub rezerw i nie są istotne dla tego meczu PLK.
+    *   **ORLEN Zastal Zielona Góra**: Sagaba Konate zakończył sezon w lutym 2026 z powodu kontuzji dłoni. Phil Fayne powrócił do gry przed finałami. Trener Arkadiusz Miłoszewski musiał monitorować sytuację zdrowotną kilku ważnych zawodników przed finałami, jednak brak konkretnych, aktualnych informacji o wykluczeniach na dzień meczu.
 
-2.  **Aktualna forma top scorerów**
-    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu. Ogólna informacja z 7 czerwca 2026 r. wskazuje, że Andrzej Pluta grał "wyśmienicie w tym sezonie" i jest kluczowym zawodnikiem Legii, a siłą zespołu jest szeroki skład.
-    *   🏀 **Dziki Warszawa:** Top scorerzy sezonu 2025/2026 to Landrius Horton (18.4 Pkt/mecz), Darnell Edge (16.4 Pkt/mecz) i Tahlik Chavez (11.5 Pkt/mecz). Brak danych z API dla tego zespołu dotyczących formy w serii.
+2.  **Aktualna forma top scorerów** 🔥
 
-3.  **Werdykt:**
-    *   ✅ **ZATWIERDZONY**
-        *   Mecz 2026-06-01 był trzecim spotkaniem półfinału Orlen Basket Ligi, w którym Legia Warszawa pokonała Dziki Warszawa, tym samym wygrywając serię 3-0. To potwierdza trafność typu. Brak kluczowych osłabień w składach, które mogłyby wpłynąć na wynik meczu.
+    *   **Legia Warszawa**: Brak danych z API dla tej serii. Z ogólnych statystyk sezonu 2025/2026, Dominic Brewton III jest czołowym strzelcem z 15.1 pkt/mecz, Andrzej Pluta Jr. ze średnią 13.6 pkt/mecz, a Jayvon Graves z 13.3 pkt/mecz. Legia Warszawa zamknęła serię półfinałową 3-0.
+    *   **ORLEN Zastal Zielona Góra**: Brak danych z API dla tej serii. Z ogólnych statystyk sezonu 2025/2026, Chavaughn Lewis jest czołowym strzelcem z 16.5 pkt/mecz, Jakub Szumert z 13.4 pkt/mecz, a Andrzej Mazurczak z 12.2 pkt/mecz. ORLEN Zastal Zielona Góra awansował do finału, pokonując AMW Arkę 3-0 w serii półfinałowej.
+
+3.  **Werdykt: [✅ ZATWIERDZONY]**
+    *   Legia Warszawa gra u siebie pierwszy mecz finału, co jest istotnym atutem.
+    *   Legia Warszawa jest obrońcą tytułu i faworytem, który nie stracił meczu w półfinałach.
+    *   Zastal również zdominował swój półfinał (3-0), ale borykał się z drobnymi urazami, choć Phil Fayne wrócił do składu.
+    *   Brak kluczowych absencji, które znacząco wpłynęłyby na typ Legii.
