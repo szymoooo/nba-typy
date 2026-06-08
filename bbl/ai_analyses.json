@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-06-07T07:05:04.527133",
-  "date": "2026-06-07",
+  "generated_at": "2026-06-08T22:54:42.992055",
+  "date": "2026-06-09",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "BMA365 Bamberg Baskets @ ALBA BERLIN",
-      "phase": "Playoff Semifinals",
-      "ai_pick": "ALBA BERLIN",
-      "formula_pick": "ALBA BERLIN",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "ALBA BERLIN, grając u siebie w hipotetycznym, decydującym meczu numer 5 (seria 2-2), ma kluczową przewagę własnego boiska, która jest statystycznie znacząca w playoffach BBL. Drużyna zaprezentowała się bardzo silnie w pierwszych dwóch meczach u siebie, a kluczowi gracze są w dobrej formie.",
-      "key_factors": [
-        "Przewaga własnego boiska ALBA BERLIN w meczu decydującym",
-        "Wyraźna dominacja ALBA BERLIN w pierwszych dwóch meczach u siebie w tej serii",
-        "Brak istotnych kontuzji kluczowych graczy w obu drużynach"
-      ],
-      "injury_notes": "Brak istotnych braków po stronie ALBA BERLIN (Martin Hermannsson i Justin Bean grali w ostatnich meczach playoff) oraz BMA365 Bamberg Baskets. Stan serii to 2-2 po czterech meczach, z czego mecz numer 4 odbył się 6 czerwca 2026 roku. Mecz 7 czerwca 2026 roku, z ALBA jako gospodarzem, jest traktowany jako hipotetyczny mecz decydujący numer 5, mimo że oficjalny mecz numer 5 jest zaplanowany na 9 czerwca 2026 roku."
+      "matchup": "Bamberg @ Alba Berlin",
+      "ai_pick": null,
+      "formula_pick": "Alba Berlin",
+      "note": "AI fallback"
     }
   ]
 }
