@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-07T22:40:17.190202",
-  "date": "2026-06-08",
+  "generated_at": "2026-06-08T23:02:56.002448",
+  "date": "2026-06-09",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "ORLEN Zastal Zielona Góra @ Legia Warszawa",
+      "matchup": "Dziki Warszawa @ AMW Arka Gdynia",
       "ai_pick": null,
-      "formula_pick": "Legia Warszawa",
+      "formula_pick": "AMW Arka Gdynia",
       "note": "AI fallback"
     }
   ]

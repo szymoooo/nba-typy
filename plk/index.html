@@ -142,7 +142,28 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('plk_37339')">
+        <div class="card-header">
+            <span>19:00 CET</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="https://pulsbasketu.com/images/teams-logos/t2277_l1_s2026.png?v=3" alt="Dziki Warszawa"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23dc2626' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23dc2626'>&#x1F3C0;</text></svg>'">
+                <span class="team-name">Dziki Warszawa</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="https://pulsbasketu.com/images/teams-logos/t121_l1_s2026.png?v=3" alt="AMW Arka Gdynia"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23dc2626' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23dc2626'>&#x1F3C0;</text></svg>'">
+                <span class="team-name">AMW Arka Gdynia</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">AMW Arka Gdynia</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: June 08, 2026 at 22:52 &middot; Data: pulsbasketu.com
+        Last updated: June 08, 2026 at 23:02 &middot; Data: pulsbasketu.com
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"plk_37339": {"matchup": "Dziki Warszawa @ AMW Arka Gdynia", "pick": "AMW Arka Gdynia", "reasoning": "", "key_factors": [], "confidence": null, "injury_notes": "", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {
