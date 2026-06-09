@@ -1,38 +1,30 @@
---- AUDYT PLK LIVE (2026-06-08 21:16 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (Finał, 1 mecz):
+--- AUDYT PLK LIVE (2026-06-09 04:33 CET) ---
+Analiza meczu: Dziki Warszawa (gosc) @ AMW Arka Gdynia (gospodarz)
 
 ---
 
-**ORLEN Zastal Zielona Góra (gość)**
+### Mecz: Dziki Warszawa @ AMW Arka Gdynia
+📅 **Data:** 2026-06-09
+🏟️ **Hala:** Polsat Plus Arena, Gdynia
 
-1.  **Kluczowe braki w składzie:**
-    *   🤕 **Chavaughn Lewis**: Najlepszy strzelec Zastalu (średnio 18.5 pkt/mecz w tym sezonie) doznał urazu górnej części ciała w kolizji podczas meczu z Dzikami Warszawa 8 maja 2026 roku. Deklarował, że "boli mnie cała górna część ciała" i miał opuścić wcześniejsze spotkanie o 7. miejsce. Brak potwierdzenia jego pełnej gotowości na finał, a klub 6 czerwca 2026 roku nadal informował o "walce z urazami w szeregach Zastalu" wśród "kilku ważnych zawodników".
-    *   ✅ **Phil Fayne**: Wrócił do składu, jak podano 6 czerwca 2026 roku, co oznacza, że jest dostępny na finał.
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim. Wcześniejsze doniesienia z 17 maja 2026 o kontuzji Milana Barbitcha (AMW Arka Gdynia) zostały rozwiane przez artykuł z 7 czerwca 2026, który sugeruje jego udział w serii o brąz.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-    *   Chavaughn Lewis był wiodącym strzelcem, ale jego forma jest niepewna ze względu na niedawną kontuzję.
+2.  **Aktualna forma top strzelców:**
+    *   Brak danych z API dla tej serii.
+    *   Niemniej jednak, na podstawie danych z sezonu 2025/2026, kluczowi zawodnicy prezentują następującą formę:
+        *   🏀 **AMW Arka Gdynia:**
+            *   Jarosław Zyskowski: średnio 13.3 Pkt/mecz w sezonie. Był także najlepszym strzelcem Arki w ćwierćfinałowej serii ze Śląskiem, zdobywając łącznie 36 punktów w dwóch meczach.
+            *   Michael Okauru: średnio 12.2 Pkt/mecz w sezonie.
+            *   Kresimir Ljubicić: średnio 10.8 Pkt/mecz w sezonie.
+        *   🐗 **Dziki Warszawa:**
+            *   Landrius Horton: średnio 18.4 Pkt/mecz w sezonie.
+            *   Darnell Edge: średnio 16.4 Pkt/mecz w sezonie.
+            *   Tahlik Chavez: średnio 11.5 Pkt/mecz w sezonie.
 
----
-
-**Legia Warszawa (gospodarz)**
-
-1.  **Kluczowe braki w składzie:**
-    *   🤕 **Matthias Tass**: W grudniu 2025 roku wypadł ze składu z powodu kontuzji z prognozą powrotu "na kilka tygodni, a nawet miesięcy". Brak aktualnych informacji o jego powrocie przed 8 czerwca 2026 roku.
-    *   🤕 **Michał Kolenda**: Doznał kontuzji 9 grudnia 2025 roku, z prognozą wykluczenia z gry na "kilka tygodni, a nawet miesięcy". Brak aktualnych informacji o jego powrocie przed 8 czerwca 2026 roku.
-    *   ⚠️ **Ojārs Siliņš**: Był wykluczony z gry w grudniu 2025 roku, ale brak nowszych danych o jego statusie. Z uwagi na długi okres od urazu i brak informacji o przewlekłym problemie, istnieje szansa na jego powrót, choć bez potwierdzenia.
-    *   ✅ **Andrzej Pluta**: Zmagał się z kontuzją kolana w trakcie sezonu, ale grał, co sugeruje jego dostępność. Ostatnia wzmianka z kwietnia 2026 roku nie wskazuje na jego absencję.
-    *   ❌ Petar Stojanović: Piłkarz Legii Warszawa. Informacja nieistotna dla meczu koszykówki.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
----
-
-**Werdykt:**
-
-*   **ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-
-**Uzasadnienie:**
-Mimo że typ na Legię Warszawa wydaje się mocny, kontuzje kluczowych graczy w obu zespołach wprowadzają element ryzyka. Legia prawdopodobnie zagra bez Matthiasa Tassa i Michała Kolendy, którzy w grudniu 2025 roku otrzymali długoterminowe prognozy rekonwalescencji. Zastal natomiast prawdopodobnie będzie osłabiony brakiem lub ograniczoną dostępnością swojego najlepszego strzelca, Chavaughna Lewisa, który doznał niedawnego urazu. Niepewność co do składów i formy w kluczowym meczu finałowym sprawia, że typ jest ryzykowny.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   AMW Arka Gdynia ma przewagę własnego parkietu w pierwszym meczu serii o 3. miejsce, co jest istotne w fazie play-off.
+    *   AMW Arka Gdynia pokazała dużą odporność, odwracając serię ćwierćfinałową ze Śląskiem Wrocław z 0:2 na 3:2.
+    *   Dziki Warszawa, mimo że wygrały oba mecze z Arką w sezonie zasadniczym (96:78 w Gdyni i 94:84 w Warszawie), grają na wyjeździe w pierwszym spotkaniu.
+    *   Brak potwierdzonych, istotnych kontuzji u obu zespołów na dzień meczu.
+    *   Większość dziennikarzy typuje zwycięstwo Arki w pierwszym meczu o brąz.
