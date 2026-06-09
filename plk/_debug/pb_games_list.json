@@ -33911,13 +33911,13 @@
   {
     "home_team": {
       "name": "AMW Arka Gdynia",
-      "score": 0,
+      "score": 89,
       "team_id": 9,
       "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2026.png?v=3"
     },
     "away_team": {
       "name": "Dziki Warszawa",
-      "score": 0,
+      "score": 84,
       "team_id": 40,
       "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2026.png?v=3"
     },
@@ -33962,7 +33962,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 0,
+    "possessions": 152,
     "highest_lead": 0,
     "round_name": "1 mecz",
     "stage_name": "O 3 miejsce",
