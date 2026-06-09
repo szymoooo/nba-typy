@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-06-08T23:02:56.002448",
-  "date": "2026-06-09",
+  "generated_at": "2026-06-09T22:53:10.088000",
+  "date": "2026-06-10",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Dziki Warszawa @ AMW Arka Gdynia",
-      "ai_pick": null,
-      "formula_pick": "AMW Arka Gdynia",
-      "note": "AI fallback"
+      "matchup": "ORLEN Zastal Zielona Góra @ Legia Warszawa",
+      "phase": "Finał",
+      "round": "2 mecz",
+      "date": "2026-06-10T20:15:00",
+      "ai_pick": "Legia Warszawa",
+      "formula_pick": "Legia Warszawa",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Legia Warszawa, jako obrońca tytułu i najlepsza drużyna sezonu zasadniczego, będzie niezwykle zdeterminowana, aby wyrównać stan serii u siebie po niespodziewanej porażce w pierwszym meczu. Pomimo świetnej formy ORLEN Zastalu, Legia ma atut własnego parkietu i presję, by nie oddać drugiego meczu przed podróżą do Zielonej Góry.",
+      "key_factors": [
+        "Desperation factor dla Legii (0-1 w serii, mecz u siebie)",
+        "Silna forma ORLEN Zastalu (3 wygrane z rzędu w playoffach, w tym mecz 1 finału na wyjeździe)",
+        "Zaleta własnego parkietu dla Legii Warszawa",
+        "Niepewny stan zdrowia Filipa Matczaka w zespole ORLEN Zastalu po meczu nr 1"
+      ],
+      "injury_notes": "W ORLEN Zastalu Zielona Góra Filip Matczak doznał kontuzji w pierwszym meczu finałowym (08.06.2026), której dokładna dotkliwość na dzień dzisiejszy (10.06.2026) jest nieznana. Sagaba Konate pozostaje poza grą do końca sezonu z powodu kontuzji dłoni. Phil Fayne powrócił do gry. W Legii Warszawa nie odnotowano żadnych nowych, istotnych kontuzji wpływających na kluczowych zawodników przed dzisiejszym meczem.",
+      "agreement_with_odds": "no_odds"
     }
   ]
 }
