@@ -1,20 +1,24 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-08 17:18 ET) ---
-Oto analiza Twojego typu na mecz Spurs @ Knicks, oparta na danych z 2026-06-08:
+--- KRYTYCZNY AUDYT LIVE (2026-06-09 06:58 ET) ---
+Analiza meczu Spurs @ Knicks (stan na styczeń 2026):
 
-**Spurs @ Knicks -> Typ: Spurs**
+*   **Kluczowe braki w składach (styczeń 2026):**
 
-*   **Kluczowe braki w składach:**
-    *   **San Antonio Spurs:**
-        *   David Jones Garcia (kontuzja kostki - poza sezonem) 🩹
-        *   Harrison Ingram (Wykluczony) 🩹
-        *   Kevin McCullar Jr. (Wątpliwy) ❓
     *   **New York Knicks:**
-        *   Mitchell Robinson (Dostępny, pomimo złamania 5. kości śródręcza prawej ręki) 🏥
-        *   Brak innych istotnych braków.
+        *   Jalen Brunson (PG): Prawa kostka (skręcenie), status "Day-to-day" od 19 stycznia 2026, uraz od 14 stycznia 2026. Jego brak to znaczące osłabienie ofensywy.
+        *   Josh Hart (SG): Ból prawej kostki, status "Day-to-day" od 19 stycznia 2026. Wcześniej, 5 stycznia 2026, był "Out" ze skręceniem prawej kostki.
+        *   Karl-Anthony Towns (PF/C): Plecy (skurcze), status "Questionable" od 24 stycznia 2026.
+        *   Landry Shamet (SG): Prawe ramię (skręcenie), "Out" od 5 stycznia 2026.
+        *   Trey Jemison III (C): Na przypisaniu do G League, "Out" od 19 stycznia 2026.
+        *   Pacome Dadiet (G), Dillon Jones (G-League), Kevin McCullar Jr. (G-League): "Out" na przypisaniu do G League od 24 stycznia 2026.
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Knicks prowadzą w Finałach NBA 2-0 i grają u siebie w Madison Square Garden.
-    *   W trakcie tegorocznych play-offów Knicks wykazują się dominacją (bilans 14-2).
-    *   Pomimo imponującej gry Victora Wembanyamy dla Spurs, Knicks znaleźli sposób na ograniczenie jego wpływu i dysponują silnym atakiem z Jalenem Brunsonem i Mikalem Bridgesem na czele.
-    *   Spurs zmagają się z kluczowymi brakami w składzie, takimi jak Harrison Ingram (wykluczony) i Kevin McCullar Jr. (wątpliwy).
-    *   Biorąc pod uwagę aktualny stan serii i przewagę własnego parkietu, typ na Spurs jest wysoce ryzykowny.
+    *   **San Antonio Spurs:**
+        *   Devin Vassell (SG): Lewy przywodziciel (naciągnięcie) / Udo, "Out" przez znaczną część stycznia 2026 (od 3 stycznia). Status powrotu "To Be Determined" 10 stycznia 2026. Jego absencja negatywnie wpływa na zespół.
+        *   Victor Wembanyama (C): Kolano, status "Day-to-Day" od 3 stycznia 2026. Ograniczony status 10 stycznia 2026.
+        *   Jeremy Sochan (PF): Choroba, status "Questionable" od 25 stycznia 2026.
+        *   Aaron Wiggins (SG): Prawe biodro (zablokowanie), status "Questionable" od 25 stycznia 2026.
+        *   Luke Kornet (C): Lewy przywodziciel (napięcie), status "Questionable" od 25 stycznia 2026.
+        *   Harrison Ingram (SF): Choroba, status "Game Time Decision" od 10 stycznia 2026. Od 25 stycznia 2026 "Out" na przypisaniu do G League.
+        *   David Jones Garcia (SF), Stanley Umude (G-League): "Out" na przypisaniu do G League od 25 stycznia 2026.
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   New York Knicks w styczniu 2026 zmagali się z poważnymi brakami kluczowych graczy. Urazy kostek J. Brunsona (głównego strzelca) i J. Harta, a także status "Questionable" K.A. Townsa, znacząco osłabiają ich skład. Pomimo braku D. Vassella w Spurs i niepewnego statusu Wembanyamy, ogólne osłabienie Knicks, zwłaszcza w kluczowych pozycjach, czyni ich typ ryzykowanym. Przy dostępności Wembanyamy (nawet z ograniczeniami), Spurs mają przewagę nad tak osłabionymi Knicks.
