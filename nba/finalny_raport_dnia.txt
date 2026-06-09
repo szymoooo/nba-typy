@@ -1,10 +1,30 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-09 15:08 ET) ---
-Analiza meczu: Spurs @ Knicks
+--- KRYTYCZNY AUDYT LIVE (2026-06-09 17:14 ET) ---
+Na podstawie danych ze stycznia 2026:
 
-*   **Kluczowe braki w składach (na dzień 2026-06-09):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalne raporty NBA z 2026-06-09 dla meczu SAS@NYK na 2026-06-10 wskazują status "NOT YET SUBMITTED" dla obu drużyn.
+### Spurs @ Knicks -> Typ: Spurs
 
-*   **Werdykt dla typu: Spurs**
-    *   Składy na styczeń 2026 (sezon 2025-2026) obu drużyn prezentują się bardzo mocno. Spurs posiadają w składzie takie talenty jak Victor Wembanyama, De'Aaron Fox i Stephon Castle. Knicks natomiast dysponują Jalenem Brunsonem, OG Anunobym, Mikalem Bridgesem oraz Karl-Anthony Townsem i Mitchellem Robinsonem.
-    *   Brak potwierdzonych informacji o kontuzjach na dzień 2026-06-09 uniemożliwia ocenę wpływu osłabień na wynik. Biorąc pod uwagę wyrównany potencjał obu drużyn (zakładając pełne składy z stycznia 2026) i fakt, że Knicks są prawdopodobnie gospodarzem, typowanie Spurs bez wyraźnej przewagi (np. kontuzje kluczowych graczy Knicks) jest obarczone ryzykiem.
-    *   [⚠️ RYZYKOWNY]
+*   **Kluczowe braki w składach (stan na styczeń 2026):**
+
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (Naderwanie przywodziciela lewej nogi) 🤕
+        *   Victor Wembanyama: Day-To-Day (Kolano) 🦵
+        *   Luke Kornet: Questionable (Napięcie przywodziciela lewej nogi) ❓
+        *   Jeremy Sochan: Questionable (Choroba) 😷
+        *   Aaron Wiggins: Questionable (Zatrzask biodra prawego) ❓
+        *   Harrison Ingram: Out (G League – Two-Way) (Inny raport wskazywał go jako Game Time Decision z powodu choroby 🤒, ale późniejszy raport z 25 stycznia potwierdza status G-League)
+        *   David Jones Garcia: Out (G League – Two-Way)
+        *   Stanley Umude: Out (G League – Two-Way)
+
+    *   **New York Knicks:**
+        *   Jalen Brunson: Questionable (Skręcenie prawej kostki) 🩹 (kontuzjowany 14 stycznia 2026)
+        *   Josh Hart: Questionable (Dyskomfort prawej kostki) 🤕 (kontuzjowany 10 stycznia 2026, wcześniej "Out" ze skręceniem kostki 5 stycznia 2026)
+        *   Karl-Anthony Towns: Questionable (Plecy; Skurcze odcinka piersiowego kręgosłupa) 😩 (raport z 24 stycznia 2026)
+        *   Landry Shamet: Out (Prawostronne zwichnięcie barku) 🩹 (raport z 5 stycznia 2026)
+        *   Trey Jemison III: Out (G League - Two-Way)
+        *   Dillon Jones: Out (G League - Two-Way)
+        *   Kevin McCullar Jr.: Out (G League - Two-Way)
+        *   Pacome Dadiet: Out (G League - On Assignment)
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+
+    Typowanie Spurs jest ryzykowne ze względu na kluczowe braki w składzie, w tym Devina Vassella (Out) i Victora Wembanyamy (Day-To-Day/Limited Status). Choć Knicks również mają kilku ważnych graczy na liście kontuzjowanych (Jalen Brunson, Josh Hart, Karl-Anthony Towns jako questionable), to skala i rola kontuzjowanych graczy Spurs wydają się bardziej osłabiać drużynę. Brak pewności co do dostępności Wembanyamy oraz Vassella znacząco obniża szanse Spurs.

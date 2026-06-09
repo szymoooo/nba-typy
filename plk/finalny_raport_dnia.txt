@@ -1,16 +1,19 @@
---- AUDYT PLK LIVE (2026-06-09 18:34 CET) ---
-MECZ: Dziki Warszawa (gosc) @ AMW Arka Gdynia (gospodarz)
+--- AUDYT PLK LIVE (2026-06-09 23:15 CET) ---
+Analiza meczu: Dziki Warszawa @ AMW Arka Gdynia (09.06.2026)
 
 1.  **Kluczowe braki w składach:**
-    *   Dziki Warszawa: Brak istotnych braków w składzie koszykarskim. Skład na sezon 2025/2026 jest aktualny.
-    *   AMW Arka Gdynia: Brak istotnych braków w składzie koszykarskim. Chociaż w styczniu 2026 roku odnotowano kontuzje Einara Tubutisa, Kamila Łączyńskiego i Krešimira Ljubičicia, późniejsze doniesienia z maja 2026 sugerują powrót Tubutisa, a wszyscy wymienieni są w aktualnym składzie bez adnotacji o kontuzji na dzień dzisiejszy.
+    *   Brak istotnych braków w składzie koszykarskim zarówno dla AMW Arka Gdynia, jak i Dziki Warszawa, na dzień 2026-06-09. Dostępne źródła dotyczące składów i meczów playoff sezonu 2025/2026 nie wskazują na żadne kontuzje, zawieszenia czy wykluczenia za faule dla kluczowych zawodników.
 
-2.  **Aktualna forma top scorerów:**
-    *   Dziki Warszawa: W sezonie 2025/2026 Landrius Horton jest wiodącym strzelcem ze średnią 18.44 punktu na mecz. Darnell Edge notuje średnio 16.4 punktu na mecz, a Tahlik Chavez 11.5 punktu na mecz. W półfinale ENBL w kwietniu 2026, Chavez zdobył 21 punktów, Horton 19 punktów, a Edge 17 punktów, co wskazuje na ich dobrą formę.
-    *   AMW Arka Gdynia: W sezonie 2025/2026 Jarosław Zyskowski jest najlepszym strzelcem Arki ze średnią 13.3 punktu na mecz. Michael Okauru notuje średnio 12.2 punktu na mecz, a Jakub Garbacz 11.7 punktu na mecz.
-    *   Brak danych z API PulsBasketu dla top scorerów w tej konkretnej serii playoff, więc oparto się na statystykach sezonowych i ostatnich dostępnych wynikach.
+2.  **Aktualna forma top scorerów (w serii):**
+    *   🏀 **AMW Arka Gdynia:**
+        *   Luke Barrett (SF): 18.0 ppg, 4.0 rpg, FG 61.5%, 3P 50.0% w 1 meczu serii.
+        *   Michael Okauru (SG): 18.0 ppg, 1.0 apg, 5.0 rpg, FG 33.3%, 3P 40.0%, 3.0 fauli/mecz w 1 meczu serii.
+        *   Jakub Garbacz (SG): 15.0 ppg, 1.0 apg, 4.0 rpg, FG 54.5%, 3P 42.9%, 4.0 fauli/mecz w 1 meczu serii.
+    *   🦌 **Dziki Warszawa:**
+        *   Landrius Horton (SG): 21.0 ppg, 7.0 apg, 4.0 rpg, FG 60.0%, 3P 33.3%, 2.0 fauli/mecz w 1 meczu serii.
+        *   Darnell Edge (SG): 19.0 ppg, 6.0 apg, 3.0 rpg, FG 53.3%, 3P 37.5%, 3.0 fauli/mecz w 1 meczu serii.
+        *   Bennett Vander Plas (PF): 11.0 ppg, 5.0 rpg, FG 33.3%, 3P 33.3%, 2.0 fauli/mecz w 1 meczu serii.
+    *   W meczu rozegranym 9 czerwca 2026 Arka Gdynia wygrała 89:84, co dało jej prowadzenie w serii o 3. miejsce 1-0. Luke Barrett, autor 18 punktów, zrobił ogromny postęp. Jakub Garbacz otworzył mecz trafieniem z dystansu. Darnell Edge potwierdził swoje walory w ofensywie, a Bennett Vander Plas dołożył "trójki" dla Dzików.
 
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   AMW Arka Gdynia gra u siebie w Polsat Plus Arena Gdynia, co jest istotnym atutem w meczach playoff.
-    *   Obie drużyny wydają się mieć do dyspozycji pełne składy, bez kluczowych kontuzji liderów.
-    *   Typ na AMW Arka Gdynia, jako gospodarza pierwszego meczu serii o 3. miejsce, jest uzasadniony.
+3.  **Werdykt:**
+    *   [✅ ZATWIERDZONY] Mecz odbył się zgodnie z kontekstem, a AMW Arka Gdynia zwyciężyła 89-84, co potwierdza typ.
