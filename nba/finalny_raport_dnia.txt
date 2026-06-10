@@ -1,15 +1,16 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-09 18:51 ET) ---
-Mecz: Spurs @ Knicks -> Typ: Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-06-09 20:05 ET) ---
+Oto analiza Twojego typu na podstawie danych ze stycznia 2026:
 
-*   **Kluczowe braki w składach (Raporty z 2026-06-09 dla meczu 2026-06-10):**
-    *   **San Antonio Spurs:**
-        *   David Jones Garcia: OUT 🚫
-        *   De'Aaron Fox: gra z przewlekłym urazem kostki, ale nie jest wymieniony w oficjalnym raporcie kontuzji.
-        *   Stephon Castle: skręcił kostkę w Game 2, ale zagrał w Game 3.
+### Spurs @ Knicks -> Typ: Spurs
+
+*   **Kluczowe braki w składach (styczeń 2026):**
     *   **New York Knicks:**
-        *   Mitchell Robinson: PROBABLE (prawdopodobny występ) z powodu złamanego małego palca prawej ręki.
-        *   Jalen Brunson: gra z widocznym dyskomfortem po urazie kolana w Game 1.
+        *   Jalen Brunson (PG) – OUT/Questionable (uraz prawego stawu skokowego) 🤕
+        *   Josh Hart (SG) – OUT/Questionable (ból prawego stawu skokowego) 🩹
+        *   Karl-Anthony Towns (C/PF) – Questionable (skurcze pleców) ❓
+    *   **San Antonio Spurs:**
+        *   Devin Vassell (SG/SF) – OUT/Questionable (naciągnięcie lewego przywodziciela/uda) 😩
+        *   Victor Wembanyama (C/PF) – Day-To-Day/Limited (kolano) ⏳
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-
-*   **Analiza:** Pomimo tego, że New York Knicks prowadzą w serii finałowej NBA 2-1, San Antonio Spurs wygrali Game 3 (115-111), co oznacza przesunięcie momentum w ich stronę. Victor Wembanyama jest czołowym strzelcem Finałów (średnio 29.0 punktów na mecz), a Stephon Castle jest rewelacją play-offów. Chociaż De'Aaron Fox zmaga się z urazem kostki, nadal gra. Po stronie Knicks, Mitchell Robinson jest "PROBABLE" z powodu złamanego palca, a Jalen Brunson gra z widocznym dyskomfortem kolana. Młody skład Spurs wydaje się być "nieustraszony", co może być kluczowe w tak ważnej serii. Biorąc pod uwagę świeże zwycięstwo Spurs i ich aktualną dynamikę, typ na Spurs jest uzasadniony.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Uzasadnienie: Chociaż potencjalna absencja kluczowych zawodników Knicks, takich jak Jalen Brunson i Josh Hart, znacząco osłabiłaby ich siłę ofensywną i rozegranie, Spurs również borykali się z istotnymi brakami. Devin Vassell, ważny strzelec, był wielokrotnie poza grą lub niepewny, a Victor Wembanyama miał status "day-to-day" lub "limited" na początku stycznia. Ze względu na wzajemne, znaczące kontuzje kluczowych graczy w obu zespołach w styczniu 2026, typ na Spurs niesie ze sobą ryzyko.
