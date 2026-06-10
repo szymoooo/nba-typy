@@ -34038,13 +34038,13 @@
   {
     "home_team": {
       "name": "Legia Warszawa",
-      "score": 0,
+      "score": 64,
       "team_id": 37,
       "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2026.png?v=3"
     },
     "away_team": {
       "name": "ORLEN Zastal Zielona Góra",
-      "score": 0,
+      "score": 46,
       "team_id": 26,
       "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2026.png?v=3"
     },
@@ -34057,7 +34057,7 @@
     "avg_yt_viewers": null,
     "peak_yt_viewers": null,
     "tv_channel": "polsat",
-    "fiba_game_id": null,
+    "fiba_game_id": "2855651",
     "odds_home": null,
     "odds_away": null,
     "city": "Warszawa",
@@ -34089,7 +34089,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 0,
+    "possessions": 84,
     "highest_lead": 0,
     "round_name": "2 mecz",
     "stage_name": "Finał",
