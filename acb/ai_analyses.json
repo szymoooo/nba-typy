@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-06-09T22:53:57.114254",
-  "date": "2026-06-10",
+  "generated_at": "2026-06-10T22:10:01.572699",
+  "date": "2026-06-11",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Joventut Badalona @ Valencia",
+      "matchup": "Tenerife @ Barcelona",
       "phase": "?",
-      "ai_pick": "Valencia",
-      "formula_pick": "Valencia",
+      "ai_pick": "Barcelona",
+      "formula_pick": "Barcelona",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "Valencia Basket wchodzi w ten półfinał jako wyżej rozstawiona drużyna z przewagą własnego boiska, gdzie pozostaje niepokonana w fazie play-off. Ich końcówka sezonu i ćwierćfinały pokazały lepszą formę niż Joventut, który musiał rozegrać pełne trzy mecze w swojej serii.",
+      "confidence": 9,
+      "reasoning": "Barcelona zdominowała pierwszy mecz półfinału play-off ACB, wygrywając u siebie 100-67, co świadczy o ich doskonałej formie i przewadze nad Tenerife. Grają u siebie drugi mecz w serii, co daje im znaczącą przewagę własnego parkietu, a kluczowi gracze Tenerife mieli problemy w poprzednim starciu. Należy zaznaczyć, że mecz jest częścią fazy play-off, a nie sezonu zasadniczego, jak sugerował prompt, a bilanse drużyn są znacznie lepsze niż podane 0-34.",
       "key_factors": [
-        "Przewaga własnego boiska Valencii i ich niepokonany rekord w play-offach u siebie",
-        "Lepszy bilans Valencii w sezonie zasadniczym (2. miejsce vs 6. miejsce)",
-        "Lepsza forma Valencii, która wygrała serię ćwierćfinałową 2-0"
+        "Dominująca wygrana Barcelony w Game 1 półfinału (100-67)",
+        "Przewaga własnego parkietu dla Barcelony w Game 2 półfinału",
+        "Lepsza forma Barcelony w ostatnich meczach fazy play-off (4 zwycięstwa w 5 meczach)",
+        "Problemy liderów Tenerife (Marcelinho Huertas, Patty Mills) w Game 1 przeciwko Barcelonie"
       ],
-      "injury_notes": "Valencia Basket: Stefan Jovic cierpi na zapalenie kaletki w prawym łokciu, a Amida Brimah ma kontuzję ścięgna podkolanowego w prawej nodze. Joventut Badalona: brak istotnych braków."
+      "injury_notes": "brak istotnych braków"
     }
   ]
 }
