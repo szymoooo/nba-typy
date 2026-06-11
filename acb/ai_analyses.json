@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-06-11T22:18:48.854059",
+  "generated_at": "2026-06-11T23:09:21.335287",
   "date": "2026-06-12",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Joventut Badalona @ Valencia",
-      "ai_pick": null,
+      "phase": "?",
+      "ai_pick": "Valencia",
       "formula_pick": "Valencia",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Valencia gra u siebie w meczu numer 2 półfinałów play-off Ligi Endesa i prowadzi w serii 1-0 po zwycięstwie w dogrywce w meczu numer 1. Zespół gospodarzy ma lepszy bilans sezonowy i lepszą formę w ostatnich pięciu meczach, pomimo kilku kontuzji kluczowych graczy rotacji.",
+      "key_factors": [
+        "Valencia prowadzi w serii play-off 1-0",
+        "Przewaga własnego parkietu dla Valencii",
+        "Lepszy bilans sezonowy i forma Valencii (4W-1L w ostatnich 5 meczach ACB)",
+        "Zdolność Joventutu do zdobywania punktów (wysoki wynik w meczu nr 1)",
+        "Istotne kontuzje w Valencii (Puerto, López-Arostegui wykluczeni)"
+      ],
+      "injury_notes": "Valencia: Josep Puerto (nieobecny), Xabi López-Arostegui (nieobecny). Kameron Taylor (wątpliwy), Nate Reuvers (wrócił po procesie wirusowym, ale nie na 100%), Jean Montero (uraz barku). Joventut Badalona: Ante Tomic (nieobecny)."
     }
   ]
 }
