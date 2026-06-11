@@ -1,9 +1,16 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-11 08:08 ET) ---
-Analiza meczu: Spurs @ Knicks
+--- KRYTYCZNY AUDYT LIVE (2026-06-11 13:38 ET) ---
+Na podstawie danych z 2026-06-11:
 
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę. Jalen Brunson spodziewany jest na boisku.
-    *   **San Antonio Spurs:** David Jones Garcia (Out). Victor Wembanyama spodziewany jest na boisku.
+**Knicks @ Spurs -> Typ: Spurs**
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Biorąc pod uwagę brak kluczowych absencji, które mogłyby osłabić zespół Spurs, oraz obecność ich gwiazdy, Victora Wembanyamy, typ wydaje się być zatwierdzony w kontekście dostępności składów. Knicks również nie zgłaszają żadnych kluczowych kontuzji, a Jalen Brunson jest gotowy do gry.
+*   Brak meczu Knicks @ Spurs zaplanowanego na 2026-06-11. Zespoły te grały Game 4 Finałów NBA 10 czerwca, a Game 5 odbędzie się 13 czerwca 2026 r..
+
+*   **Kluczowe braki w składach (na podstawie ostatnich raportów dotyczących Finałów NBA 2026):**
+    *   **New York Knicks:**
+        *   Mitchell Robinson (C) – Złamany mały palec prawej ręki (Available/Dostępny). Grał we wszystkich meczach Finałów, mimo że jest na liście kontuzjowanych.
+    *   **San Antonio Spurs:**
+        *   David Jones Garcia – Kostka (Out For Season/Wykluczony do końca sezonu). Przeszedł operację kostki 4 lutego 2026 r. i opuści resztę sezonu.
+        *   Brak innych zgłoszonych kontuzji dla kluczowych graczy na ten moment Finałów.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ jest ryzykowny, ponieważ nie ma zaplanowanego meczu na wskazaną datę. Dodatkowo, w trwających Finałach NBA, New York Knicks prowadzą w serii 3-1, co czyni typowanie Spurs do zwycięstwa wysoce ryzykownym, nawet przy braku poważnych kontuzji w składzie Spurs, z wyjątkiem długoterminowej absencji Davida Jonesa Garcii.
