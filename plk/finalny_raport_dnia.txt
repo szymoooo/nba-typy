@@ -1,29 +1,13 @@
---- AUDYT PLK LIVE (2026-06-11 13:58 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-*(Analiza dla meczu z dnia 2026-06-10, który się już odbył)*
+--- AUDYT PLK LIVE (2026-06-11 14:08 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (10.06.2026)
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych, potwierdzonych kontuzji. Race Thompson, który zmagał się wcześniej z problemami zdrowotnymi, powrócił do składu na mecz nr 2 finału, zastępując Ojarsa Silinsa.
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   **Filip Matczak:** Odczuwał dolegliwości związane ze starym urazem 6 czerwca i był oszczędzany na treningach przed finałami. Miał "dramatyczne chwile" w meczu nr 1 i oglądał mecz nr 2 z ławki, czekając na maskę ochronną, co sugeruje jego niedyspozycję lub poważne ograniczenia.
-        *   **Andrzej Mazurczak:** Występował w specjalnej masce ochronnej z powodu kontuzji, co wskazuje na trwający uraz, ale nie wykluczał go z gry.
-        *   **Dwight Wilson:** Mimo że 6 czerwca nadal odczuwał skutki urazu kostki, trenował normalnie i zacisnął zęby, będąc gotowym do gry w finale.
-        *   **Phil Fayne:** Powrócił do składu po kontuzji, co było motywacją dla zespołu.
+*   **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Race Thompson powrócił do składu po kontuzji stawu skokowego, zastępując Ojarsa Silinsa.
+    *   **ORLEN Zastal Zielona Góra:** Filip Matczak był niedostępny z powodu odnowienia starego urazu i oglądał mecz z ławki rezerwowych. Phil Fayne, choć wcześniej walczył z urazami, wrócił do składu i zagrał.
 
-2.  **Aktualna forma top scorerów:**
-    *   🏀 **Legia Warszawa:**
-        *   **Andrzej Pluta:** W meczu nr 2 finału (10.06) był rewelacyjny, zdobywając 27 punktów z wysoką skutecznością i dodając 9 asyst. W meczu nr 1 zdobył 7 punktów, co pokazuje znaczną poprawę formy.
-        *   **Dominic Brewton III (DJ Brewton):** Przed meczem nr 2 średnio 14.8 punktu. W meczu nr 1 miał 3/7 z gry.
-        *   **Jayvon Graves:** Przed meczem nr 2 średnio 13.7 punktu. W meczu nr 1 Zastal pozwolił mu na wiele akcji jeden na jeden.
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   **Chavaughn Lewis:** Bohater meczu nr 1 finału (08.06), zdobywając zwycięską trójkę na 1.8 sekundy przed końcem. Średnio 16.4 punktu (stan na 10.06), był aktywny również w meczu nr 2.
-        *   **Andrzej Mazurczak:** Średnio 12.2 punktu (stan na 10.06), kluczowy dla tempa i stylu gry zespołu.
-        *   **Jakub Szumert:** Średnio 13.5 punktu (stan na 10.06).
-        *   **Conley Garrison:** W meczu nr 1 grał świetną obronę na Plucie, w meczu nr 2 trafił za trzy. Uważany za kluczowego koszykarza.
+*   **Aktualna forma top scorerów (mecz 10.06.2026):**
+    *   **Legia Warszawa:** Andrzej Pluta – 27 punktów. Shane Hunter i Carl Ponsar zdobyli po 18 punktów.
+    *   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis – 25 punktów. Jakub Szumert – 17 punktów.
+    *   Brak danych z API dla tego zespołu w serii.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mecz był drugim w serii finałowej, po niespodziewanej porażce Legii w pierwszym spotkaniu, co zwiększało presję na gospodarzach.
-    *   ORLEN Zastal miał istotne osłabienia (kontuzja Filipa Matczaka, gra Andrzeja Mazurczaka w masce), co mogło wpływać na głębię składu i rotację.
-    *   Legia, grająca u siebie w Warszawie (Hala OSiR Bemowo), miała silną motywację do wyrównania serii przed wyjazdem do Zielonej Góry.
-    *   Mimo kontuzji, Legia wygrała mecz nr 2 104:82, doprowadzając do remisu 1:1 w serii.
+*   **Werdykt:** ✅ ZATWIERDZONY (na podstawie wyniku meczu i informacji o składach). Legia Warszawa wygrała mecz 104:82, co potwierdza słuszność typu.
