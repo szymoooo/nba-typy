@@ -1,16 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-11 13:38 ET) ---
-Na podstawie danych z 2026-06-11:
+--- KRYTYCZNY AUDYT LIVE (2026-06-11 15:28 ET) ---
+Na podstawie danych z 2026-06-11, oto analiza Twojego typu:
 
-**Knicks @ Spurs -> Typ: Spurs**
+**Mecz: Knicks @ Spurs** 🏀
+*(Należy zaznaczyć, że na 11 czerwca 2026 r. nie ma zaplanowanego meczu między tymi drużynami. Finały NBA 2026 są obecnie w toku, a Game 4 odbył się 10 czerwca, a Game 5 jest zaplanowany na 13 czerwca.)*
 
-*   Brak meczu Knicks @ Spurs zaplanowanego na 2026-06-11. Zespoły te grały Game 4 Finałów NBA 10 czerwca, a Game 5 odbędzie się 13 czerwca 2026 r..
-
-*   **Kluczowe braki w składach (na podstawie ostatnich raportów dotyczących Finałów NBA 2026):**
+*   **Kluczowe braki w składach:**
     *   **New York Knicks:**
-        *   Mitchell Robinson (C) – Złamany mały palec prawej ręki (Available/Dostępny). Grał we wszystkich meczach Finałów, mimo że jest na liście kontuzjowanych.
+        *   Mitchell Robinson (C) – status "Probable" (fractured right pinky finger). Gra pomimo kontuzji i był dostępny w Game 4.
     *   **San Antonio Spurs:**
-        *   David Jones Garcia – Kostka (Out For Season/Wykluczony do końca sezonu). Przeszedł operację kostki 4 lutego 2026 r. i opuści resztę sezonu.
-        *   Brak innych zgłoszonych kontuzji dla kluczowych graczy na ten moment Finałów.
+        *   David Jones Garcia (SF) – OUT FOR SEASON (operacja kostki, luty 2026).
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ jest ryzykowny, ponieważ nie ma zaplanowanego meczu na wskazaną datę. Dodatkowo, w trwających Finałach NBA, New York Knicks prowadzą w serii 3-1, co czyni typowanie Spurs do zwycięstwa wysoce ryzykownym, nawet przy braku poważnych kontuzji w składzie Spurs, z wyjątkiem długoterminowej absencji Davida Jonesa Garcii.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+
+*   **Uzasadnienie:**
+    *   **Seria:** Knicks prowadzą w serii finałowej NBA 3-1 po zwycięstwie w Game 4 (10 czerwca 2026 r.) 107-106.
+    *   **Momentum Knicks:** Zespół Knicks pokazał niesamowitą odporność, odrabiając 29 punktów straty i wygrywając Game 4. Jalen Brunson i OG Anunoby notują kluczowe występy w ofensywie.
+    *   **Siła Spurs:** Spurs posiadają dominującego Victora Wembanyamę, który jest kluczową siłą po obu stronach parkietu (24.1 PPG, 10.6 RPG, 3.5 BPG), a De'Aaron Fox to kolejny ważny gracz. Wembanyama zdobył 32 punkty, 8 zbiórek i 6 asyst w Game 3.
+    *   **Braki:** David Jones Garcia z Spurs jest wykluczony do końca sezonu. Mitchell Robinson z Knicks gra, choć jest kontuzjowany.
+
+Typowanie Spurs w tej sytuacji jest ryzykowne, biorąc pod uwagę prowadzenie Knicks 3-1 w serii finałowej i ich imponującą formę oraz momentum po zwycięstwie w Game 4.
