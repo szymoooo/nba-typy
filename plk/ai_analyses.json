@@ -1,27 +1,28 @@
 {
-  "generated_at": "2026-06-09T22:53:10.088000",
-  "date": "2026-06-10",
+  "generated_at": "2026-06-11T22:18:07.920345",
+  "date": "2026-06-12",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "ORLEN Zastal Zielona Góra @ Legia Warszawa",
-      "phase": "Finał",
+      "matchup": "AMW Arka Gdynia @ Dziki Warszawa",
+      "phase": "O 3 miejsce",
       "round": "2 mecz",
-      "date": "2026-06-10T20:15:00",
-      "ai_pick": "Legia Warszawa",
-      "formula_pick": "Legia Warszawa",
+      "date": "2026-06-12T20:15:00",
+      "ai_pick": "Dziki Warszawa",
+      "formula_pick": "Dziki Warszawa",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Legia Warszawa, jako obrońca tytułu i najlepsza drużyna sezonu zasadniczego, będzie niezwykle zdeterminowana, aby wyrównać stan serii u siebie po niespodziewanej porażce w pierwszym meczu. Pomimo świetnej formy ORLEN Zastalu, Legia ma atut własnego parkietu i presję, by nie oddać drugiego meczu przed podróżą do Zielonej Góry.",
+      "reasoning": "Dziki Warszawa grają u siebie i są pod presją, aby wyrównać stan serii o brązowy medal, w której przegrywają 0-1. Posiadają lepsze wskaźniki efektywności i zagrają przeciwko osłabionej AMW Arce Gdynia, która straciła kluczowego zawodnika Milana Barbitcha w poprzednim meczu serii. Atut własnego parkietu i większa motywacja powinny przeważyć.",
       "key_factors": [
-        "Desperation factor dla Legii (0-1 w serii, mecz u siebie)",
-        "Silna forma ORLEN Zastalu (3 wygrane z rzędu w playoffach, w tym mecz 1 finału na wyjeździe)",
-        "Zaleta własnego parkietu dla Legii Warszawa",
-        "Niepewny stan zdrowia Filipa Matczaka w zespole ORLEN Zastalu po meczu nr 1"
+        "Kontuzja Milana Barbitcha (AMW Arka Gdynia)",
+        "Przewaga własnego parkietu Dzików Warszawa",
+        "Desperation factor Dzików (0-1 w serii)",
+        "Lepsze zaawansowane statystyki Dzików Warszawa",
+        "Zacięty poprzedni mecz w serii (89-84 dla Arki)"
       ],
-      "injury_notes": "W ORLEN Zastalu Zielona Góra Filip Matczak doznał kontuzji w pierwszym meczu finałowym (08.06.2026), której dokładna dotkliwość na dzień dzisiejszy (10.06.2026) jest nieznana. Sagaba Konate pozostaje poza grą do końca sezonu z powodu kontuzji dłoni. Phil Fayne powrócił do gry. W Legii Warszawa nie odnotowano żadnych nowych, istotnych kontuzji wpływających na kluczowych zawodników przed dzisiejszym meczem.",
+      "injury_notes": "AMW Arka Gdynia: Milan Barbitch doznał kontuzji w pierwszym meczu serii (09.06.2026) i jego występ w dzisiejszym meczu jest bardzo mało prawdopodobny. Dziki Warszawa: brak istotnych braków zgłoszonych na 12.06.2026.",
       "agreement_with_odds": "no_odds"
     }
   ]
