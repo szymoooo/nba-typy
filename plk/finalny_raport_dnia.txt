@@ -1,10 +1,19 @@
---- AUDYT PLK LIVE (2026-06-11 21:29 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-06-11 23:36 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (typ: Legia Warszawa), analiza jest następująca:
 
-1.  **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)
+
+1.  **Kluczowe braki w składach koszykarskich:**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   ❌ Sagaba Konate (silny skrzydłowy/środkowy): Kontuzja dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka) wykluczyła go z gry na resztę sezonu, diagnoza potwierdzona 28 lutego 2026.
+        *   ❌ Filip Matczak (rozgrywający/rzucający): Uraz odniesiony w pierwszym meczu finałowym (około 8 czerwca 2026); oglądał mecz numer 2 (10 czerwca 2026) z ławki rezerwowych.
+    *   **Legia Warszawa:**
+        *   ❔ Matthias Tass (silny skrzydłowy/środkowy): Zgłoszony jako kontuzjowany w grudniu 2025 z prognozą pauzy na "kilka tygodni, a nawet miesięcy". Brak aktualnych informacji o jego powrocie przed meczem 10 czerwca 2026, co wskazuje na prawdopodobną dalszą niedostępność lub brak pełnej sprawności.
+
 2.  **Aktualna forma top scorerów:**
-    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu.
-    *   Legia Warszawa: Brak danych z API dla tego zespołu.
+    *   Brak danych z API dla tego zespołu w kontekście serii meczów. Jednak dostępne są informacje o indywidualnych występach w finałach:
+    *   **Legia Warszawa:** Andrzej Pluta, MVP sezonu zasadniczego, rozegrał fenomenalny drugi mecz finałowy (10 czerwca 2026), zdobywając 27 punktów (9/12 z gry, 6/8 za 3 pkt.) oraz 9 asyst, co jest jego rekordem punktowym w barwach Legii. Z nim na parkiecie Legia miała bilans +27. Dominic Brewton III (14.6 Pkt/mecz) i Jayvon Graves (13.5 Pkt/mecz) to również czołowi strzelcy Legii w sezonie 2025/2026.
+    *   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis (16.8 Pkt/mecz) jest czołowym strzelcem Zastalu w sezonie 2025/2026 i zdobył zwycięską trójkę w pierwszym meczu finałowym (8 czerwca 2026). Jakub Szumert (13.6 Pkt/mecz) i Andrzej Mazurczak (12 Pkt/mecz) również są wyróżniającymi się zawodnikami.
+
 3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa, grając u siebie, 10 czerwca 2026 odniosła przekonujące zwycięstwo 104:82 nad Zastalem w drugim meczu finałowym Orlen Basket Ligi, wyrównując stan rywalizacji na 1:1. Drużyna pokazała mocną ofensywę i silną odpowiedź po porażce w pierwszym meczu. Kluczowi zawodnicy Legii, jak Andrzej Pluta, prezentują bardzo wysoką formę. Zastal mierzy się z istotnymi brakami kadrowymi, zwłaszcza długoterminową kontuzją Sagaby Konate i świeżym urazem Filipa Matczaka, który opuścił drugi mecz serii. Biorąc pod uwagę przewagę własnego parkietu Legii i osłabienia w składzie Zastalu, typ na Legię Warszawa jest zatwierdzony.
