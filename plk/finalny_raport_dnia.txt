@@ -1,19 +1,26 @@
---- AUDYT PLK LIVE (2026-06-11 23:36 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (typ: Legia Warszawa), analiza jest następująca:
+--- AUDYT PLK LIVE (2026-06-12 09:19 CET) ---
+### Analiza Meczu: AMW Arka Gdynia @ Dziki Warszawa
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)
+**1. Kluczowe braki w składach:**
 
-1.  **Kluczowe braki w składach koszykarskich:**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   ❌ Sagaba Konate (silny skrzydłowy/środkowy): Kontuzja dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka) wykluczyła go z gry na resztę sezonu, diagnoza potwierdzona 28 lutego 2026.
-        *   ❌ Filip Matczak (rozgrywający/rzucający): Uraz odniesiony w pierwszym meczu finałowym (około 8 czerwca 2026); oglądał mecz numer 2 (10 czerwca 2026) z ławki rezerwowych.
-    *   **Legia Warszawa:**
-        *   ❔ Matthias Tass (silny skrzydłowy/środkowy): Zgłoszony jako kontuzjowany w grudniu 2025 z prognozą pauzy na "kilka tygodni, a nawet miesięcy". Brak aktualnych informacji o jego powrocie przed meczem 10 czerwca 2026, co wskazuje na prawdopodobną dalszą niedostępność lub brak pełnej sprawności.
+*   🏀 **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
+*   🏀 **AMW Arka Gdynia:** Milan Barbitch doznał odnowienia urazu i opuścił pierwszy mecz serii o brąz, co czyni go kluczowym brakiem w składzie na ten mecz.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w kontekście serii meczów. Jednak dostępne są informacje o indywidualnych występach w finałach:
-    *   **Legia Warszawa:** Andrzej Pluta, MVP sezonu zasadniczego, rozegrał fenomenalny drugi mecz finałowy (10 czerwca 2026), zdobywając 27 punktów (9/12 z gry, 6/8 za 3 pkt.) oraz 9 asyst, co jest jego rekordem punktowym w barwach Legii. Z nim na parkiecie Legia miała bilans +27. Dominic Brewton III (14.6 Pkt/mecz) i Jayvon Graves (13.5 Pkt/mecz) to również czołowi strzelcy Legii w sezonie 2025/2026.
-    *   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis (16.8 Pkt/mecz) jest czołowym strzelcem Zastalu w sezonie 2025/2026 i zdobył zwycięską trójkę w pierwszym meczu finałowym (8 czerwca 2026). Jakub Szumert (13.6 Pkt/mecz) i Andrzej Mazurczak (12 Pkt/mecz) również są wyróżniającymi się zawodnikami.
+**2. Aktualna forma top scorerów w serii (Mecz o 3 miejsce):**
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa, grając u siebie, 10 czerwca 2026 odniosła przekonujące zwycięstwo 104:82 nad Zastalem w drugim meczu finałowym Orlen Basket Ligi, wyrównując stan rywalizacji na 1:1. Drużyna pokazała mocną ofensywę i silną odpowiedź po porażce w pierwszym meczu. Kluczowi zawodnicy Legii, jak Andrzej Pluta, prezentują bardzo wysoką formę. Zastal mierzy się z istotnymi brakami kadrowymi, zwłaszcza długoterminową kontuzją Sagaby Konate i świeżym urazem Filipa Matczaka, który opuścił drugi mecz serii. Biorąc pod uwagę przewagę własnego parkietu Legii i osłabienia w składzie Zastalu, typ na Legię Warszawa jest zatwierdzony.
+*   🏀 **Dziki Warszawa:**
+    *   **Landrius Horton (SG):** 21.0 ppg, 7.0 apg, 4.0 rpg, FG 60.0%, 3P 33.3% w serii.
+    *   **Darnell Edge (SG):** 19.0 ppg, 6.0 apg, 3.0 rpg, FG 53.3%, 3P 37.5% w serii.
+    *   **Bennett Vander Plas (PF):** 11.0 ppg, 5.0 rpg, FG 33.3%, 3P 33.3% w serii.
+    *   *Komentarz:* Liderzy Dzików prezentują solidną i wszechstronną formę strzelecką i rozgrywającą.
+*   🏀 **AMW Arka Gdynia:**
+    *   **Luke Barrett (SF):** 18.0 ppg, 4.0 rpg, FG 61.5%, 3P 50.0% w serii.
+    *   **Michael Okauru (SG):** 18.0 ppg, 1.0 apg, 5.0 rpg, FG 33.3%, 3P 40.0% w serii.
+    *   **Jakub Garbacz (SG):** 15.0 ppg, 1.0 apg, 4.0 rpg, FG 54.5%, 3P 42.9% w serii.
+    *   *Komentarz:* Arka ma zróżnicowane ofensywne opcje, z Barrettem i Okauru na czele, wspieranymi przez Garbacza.
+
+**3. Werdykt:**
+
+Mecz jest drugim i decydującym spotkaniem o brązowy medal. AMW Arka Gdynia wygrała pierwszy mecz u siebie 89-84, co daje im pięć punktów przewagi przed rewanżem. Dziki Warszawa mają przewagę własnego parkietu w Hali Sportowej "Koło" w Warszawie. Kluczowym czynnikiem jest absencja Milana Barbitcha w składzie Arki Gdynia, który jest uważany za jednego z ważniejszych graczy. W związku z przewagą własnego boiska i osłabieniem rywala, typ na Dziki Warszawa jest uzasadniony.
+
+**Werdykt:** [✅ ZATWIERDZONY]
