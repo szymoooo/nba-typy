@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-11T23:09:21.335287",
-  "date": "2026-06-12",
+  "generated_at": "2026-06-12T22:50:45.839183",
+  "date": "2026-06-13",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Joventut Badalona @ Valencia",
+      "matchup": "Barcelona @ Tenerife",
       "phase": "?",
-      "ai_pick": "Valencia",
-      "formula_pick": "Valencia",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Valencia gra u siebie w meczu numer 2 półfinałów play-off Ligi Endesa i prowadzi w serii 1-0 po zwycięstwie w dogrywce w meczu numer 1. Zespół gospodarzy ma lepszy bilans sezonowy i lepszą formę w ostatnich pięciu meczach, pomimo kilku kontuzji kluczowych graczy rotacji.",
+      "ai_pick": "Barcelona",
+      "formula_pick": "Tenerife",
+      "agreement": false,
+      "confidence": 9,
+      "reasoning": "Barcelona prowadzi w serii półfinałowej Ligi Endesa 2-0, co daje im znaczną przewagę. Tenerife zmaga się z poważnymi kontuzjami trzech kluczowych graczy, co osłabia ich rotację. Pomimo atutu własnego parkietu Tenerife, Barcelona prezentuje lepszą formę i głębię składu, co powinno pozwolić im zakończyć serię.",
       "key_factors": [
-        "Valencia prowadzi w serii play-off 1-0",
-        "Przewaga własnego parkietu dla Valencii",
-        "Lepszy bilans sezonowy i forma Valencii (4W-1L w ostatnich 5 meczach ACB)",
-        "Zdolność Joventutu do zdobywania punktów (wysoki wynik w meczu nr 1)",
-        "Istotne kontuzje w Valencii (Puerto, López-Arostegui wykluczeni)"
+        "Poważne kontuzje kluczowych graczy Tenerife (Rokas Giedraitis, Bruno Fitipaldo, Giorgi Shermadini)",
+        "Barcelona prowadzi w serii półfinałowej 2-0",
+        "Lepsza forma Barcelony w ostatnich meczach play-off (4 wygrane w ostatnich 5 meczach)",
+        "Zrównoważony atak i głębia składu Barcelony",
+        "Atut własnego parkietu Tenerife w Game 3"
       ],
-      "injury_notes": "Valencia: Josep Puerto (nieobecny), Xabi López-Arostegui (nieobecny). Kameron Taylor (wątpliwy), Nate Reuvers (wrócił po procesie wirusowym, ale nie na 100%), Jean Montero (uraz barku). Joventut Badalona: Ante Tomic (nieobecny)."
+      "injury_notes": "Tenerife ma poważne problemy z kontuzjami: Rokas Giedraitis, Bruno Fitipaldo i Giorgi Shermadini nie są dostępni w play-offach, co znacząco skróciło rotację zespołu. Dla Barcelony brak istotnych, aktualnych kontuzji dotyczących drużyny koszykarskiej na dzień 13.06.2026."
     }
   ]
 }
