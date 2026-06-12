@@ -34165,13 +34165,13 @@
   {
     "home_team": {
       "name": "Dziki Warszawa",
-      "score": 0,
+      "score": 40,
       "team_id": 40,
       "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2026.png?v=3"
     },
     "away_team": {
       "name": "AMW Arka Gdynia",
-      "score": 0,
+      "score": 39,
       "team_id": 9,
       "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2026.png?v=3"
     },
@@ -34184,7 +34184,7 @@
     "avg_yt_viewers": null,
     "peak_yt_viewers": null,
     "tv_channel": "polsat",
-    "fiba_game_id": null,
+    "fiba_game_id": "2855928",
     "odds_home": null,
     "odds_away": null,
     "city": "Warszawa",
@@ -34216,7 +34216,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 0,
+    "possessions": 64,
     "highest_lead": 0,
     "round_name": "2 mecz",
     "stage_name": "O 3 miejsce",
