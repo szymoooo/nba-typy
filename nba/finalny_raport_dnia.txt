@@ -1,17 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-11 17:36 ET) ---
-Na podstawie danych z 2026-06-11:
+--- KRYTYCZNY AUDYT LIVE (2026-06-11 21:40 ET) ---
+Na podstawie dostępnych danych z sieci z dnia 2026-06-11, przeanalizowałem Twój typ:
 
-**Mecz: Knicks @ Spurs**
-**Typ: Spurs**
+**Knicks @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:**
-        *   Mitchell Robinson (C) - Dostępny, gra z kontuzją (złamanie piątej kości śródręcza prawej dłoni).
-    *   **San Antonio Spurs:**
-        *   David Jones Garcia (SF) - Poza sezonem (kontuzja kostki).
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   *Uzasadnienie:* Chociaż dostępne są informacje o kontuzjach zawodników New York Knicks (np. Mitchell Robinson z urazem palca) i San Antonio Spurs (np. David Jones-Garcia z operacją kostki, De'Aaron Fox z wcześniejszym urazem kostki) z czerwca 2026 r., nie dostarczają one potwierdzonych statusów ('Out', 'Questionable', 'GTD') specyficznie na styczeń 2026 r., zgodnie z wymogiem analizy tylko tego miesiąca.
 
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   New York Knicks prowadzą w Finałach NBA 3-1 po spektakularnym zwycięstwie w Game 4 (10 czerwca 2026), gdzie odrobili 29-punktową stratę.
-    *   Mimo drobnej kontuzji Mitchell Robinson gra w składzie Knicks.
-    *   Victor Wembanyama (Spurs) ma 3 punkty za niesportowe faule w fazie play-off; kolejny flagrant foul skutkowałby zawieszeniem na jeden mecz, co może wpłynąć na jego agresywność w grze, choć deklarował, że nie zmieni stylu.
-    *   Biorąc pod uwagę obecną formę, morale Knicks po powrocie w meczu nr 4 oraz fakt, że prowadzą w serii, typowanie zwycięstwa Spurs jest ryzykowne.
+    *   *Uzasadnienie:* Brak szczegółowych informacji o kontuzjach z daty referencyjnej (styczeń 2026 r.) utrudnia dokładną ocenę siły składów na ten konkretny miesiąc. Dostępne ogólne informacje o składach na sezon 2025-2026 sugerują, że Spurs, z kluczowym zawodnikiem jak Victor Wembanyama, dysponują silnym zespołem. Jednak bez potwierdzeń kontuzji z odpowiedniego okresu (styczeń 2026 r.), typ pozostaje ryzykowny.
