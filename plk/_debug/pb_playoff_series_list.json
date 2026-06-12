@@ -43,11 +43,11 @@
   },
   {
     "id": 854,
-    "finished": false,
+    "finished": true,
     "stage": "third_place",
     "start_date": "2026-06-09T19:00:00",
     "end_date": "2026-06-12T20:15:00",
-    "next_game_date": "2026-06-12T20:15:00",
+    "next_game_date": null,
     "teams": [
       {
         "data": {
@@ -59,11 +59,11 @@
           "logo_without_background_path": "teams-logos/t2277_l1_s2026.png?v=3",
           "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2026.png?v=3"
         },
-        "wins": 0,
+        "wins": 1,
         "higher_seed": false,
         "seed": "5",
-        "result": null,
-        "points": 84
+        "result": "win",
+        "points": 176
       },
       {
         "data": {
@@ -78,8 +78,8 @@
         "wins": 1,
         "higher_seed": true,
         "seed": "6",
-        "result": null,
-        "points": 89
+        "result": "loss",
+        "points": 167
       }
     ]
   },
