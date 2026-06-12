@@ -1,10 +1,9 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-11 22:53 ET) ---
-Analiza meczu: Knicks @ Spurs (2026-06-11)
+--- KRYTYCZNY AUDYT LIVE (2026-06-12 07:10 ET) ---
+**Knicks @ Spurs** -> Typ: Spurs
 
-*   **Kluczowe braki w składach (2026-06-11):**
-    *   **New York Knicks:** Mitchell Robinson był wymieniony w raporcie kontuzji przed Game 4 Finałów NBA z powodu złamanego małego palca prawej ręki, ale był dostępny i grał we wszystkich trzech meczach Finałów NBA.
-    *   **San Antonio Spurs:** Stephon Castle zwichnął kostkę w Game 2, ale wrócił do gry i czuł się lepiej, co było pozytywną informacją przed Game 3.
-    *   Brak aktualnych raportów (Injury Report) wskazujących na status 'Out', 'Questionable' lub 'GTD' dla innych kluczowych graczy obu drużyn na dzień 2026-06-11. Zarówno Knicks, jak i Spurs mieli wystawić pełne składy w Game 4 Finałów NBA.
+*   **Kluczowe braki w składach (na dzień 2026-06-12):**
+    *   **New York Knicks:** Mitchell Robinson (C) jest wymieniony na liście kontuzjowanych z powodu złamanego palca prawej ręki, ale pomimo operacji grał we wszystkich meczach Finałów NBA.
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) wskazujących na kluczowe braki. Spurs mają zdrowy skład na Finały NBA, choć De'Aaron Fox grał z utrzymującym się urazem kostki, ale nie był na oficjalnej liście kontuzjowanych.
 
-*   **Werdykt dla typu "Spurs":** ⚠️ RYZYKOWNY
-    *   W kontekście Finałów NBA, Knicks pokonali Spurs w Game 4, odrabiając 29-punktową stratę i prowadząc w serii 3-1. Ta historyczna wygrana Knicks i moment, w którym odbył się mecz (dzień po Game 4 lub Game 4), sugerują, że typ na Spurs jest ryzykowny z uwagi na momentum Knicks i brak znaczących kontuzji u rywali.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Na podstawie składów ze stycznia 2026 i informacji o sezonie 2025-26, San Antonio Spurs zakończyli sezon z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej. Posiadają silny skład z kluczowymi graczami jak Victor Wembanyama i De'Aaron Fox. Mimo że Mitchell Robinson gra dla Knicks, jego uraz palca może być pewnym obciążeniem. Spurs, występując w pełni sił, są mocnym zespołem, co uzasadnia ten typ.
