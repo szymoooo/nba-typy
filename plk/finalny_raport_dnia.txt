@@ -1,25 +1,42 @@
---- AUDYT PLK LIVE (2026-06-12 20:59 CET) ---
-**AMW Arka Gdynia @ Dziki Warszawa**
+--- AUDYT PLK LIVE (2026-06-12 23:06 CET) ---
+Analiza meczu: AMW Arka Gdynia (gość) @ Dziki Warszawa (gospodarz)
 
-1.  **Kluczowe braki w składach:**
-    *   **AMW Arka Gdynia:**
-        *   Milan Barbitch doznał kontuzji w meczu 9 czerwca 2026 przeciwko Dzikom Warszawa i opuścił parkiet. Wcześniej, 8 maja 2026, trener Mantas Cesnauskis wyraził zmartwienie z powodu urazu tego podstawowego zawodnika.
-        *   Brak aktualnych informacji o statusie kontuzji Einara Tubutisa (złamanie obojczyka), Kamila Łączyńskiego (uraz mięśniowy) i Krešimira Ljubičicia (uraz mięśniowy) z raportu medycznego z 9 stycznia 2026. Biorąc pod uwagę datę dzisiejszego meczu (12.06.2026), prawdopodobnie wrócili do gry, ale brak jest świeżych potwierdzeń ich obecności na boisku, więc nie mogę ich uznać za braki.
-    *   **Dziki Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-06-12.
-        *   Wesley Gordon doznał osobliwego urazu 19 lutego 2026, ale brak jest aktualizacji jego statusu na dzień dzisiejszy (2026-06-12). Prawdopodobnie wrócił do gry, ale brak jest świeżych potwierdzeń jego obecności na boisku, więc nie mogę go uznać za brak.
+---
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. Zgodnie z wytycznymi, podaję top scorerów z PLK.pl dla sezonu 2025/2026.
-    *   **AMW Arka Gdynia (sezon 2025/2026):**
-        *   Jarosław Zyskowski: 12.9 Pkt/mecz
-        *   Michael Okauru: 11.8 Pkt/mecz
-        *   Kresimir Ljubicić: 10.6 Pkt/mecz
-    *   **Dziki Warszawa (sezon 2025/2026):**
-        *   Landrius Horton: 18.5 Pkt/mecz
-        *   Darnell Edge: 16.5 Pkt/mecz
-        *   Tahlik Chavez: 11.4 Pkt/mecz
+### 1. Kluczowe braki w składach:
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mecz jest decydującym starciem o brązowy medal w sezonie 2025/2026, a Dziki Warszawa są gospodarzami tego drugiego meczu serii (pierwszy mecz 9 czerwca wygrała Arka Gdynia 89:84).
-    *   AMW Arka Gdynia może być osłabiona brakiem kluczowego zawodnika Milana Barbitcha, który doznał kontuzji w poprzednim meczu serii (9 czerwca 2026). Brak jednoznacznych informacji o jego dostępności na dzisiejszy mecz stwarza ryzyko dla Arki.
+*   **AMW Arka Gdynia:**
+    *   Brak potwierdzonych, aktualnych informacji o kontuzjach na dzień 2026-06-12, które wykluczałyby kluczowych zawodników z dzisiejszego meczu. Wcześniejsze raporty (z stycznia 2026) wspominały o kontuzjach Einarasa Tubutisa (złamanie obojczyka), Kamila Łączyńskiego (uraz mięśniowy) i Krešimira Ljubičicia (uraz mięśniowy), ale bez aktualizacji na czerwiec 2026 trudno stwierdzić ich obecny status. Co więcej, Einaras Tubutis jest wymieniony jako top scorer w tej serii (grał w 2 meczach), co sugeruje, że wrócił do zdrowia i jest dostępny.
+    *   Brak istotnych braków w składzie koszykarskim na podstawie dostępnych informacji.
+
+*   **Dziki Warszawa:**
+    *   Brak potwierdzonych, aktualnych informacji o kontuzjach na dzień 2026-06-12. W marcu 2025 Janari Joesaar doznał urazu stawu skokowego, a w lutym 2026 Wesley Gordon (Tauron GTK Gliwice, nie Dziki) kontuzji kolana, ale te informacje są nieaktualne lub dotyczą innych drużyn i nie mają wpływu na dzisiejszy mecz Dzików.
+    *   Brak istotnych braków w składzie koszykarskim na podstawie dostępnych informacji.
+
+---
+
+### 2. Aktualna forma top scorerów (w tej serii play-off):
+
+*   **Dziki Warszawa:**
+    *   🏀 **Darnell Edge (SG):** 19.0 ppg, 5.5 apg, 2.5 rpg, FG 53.6%, 3P 46.2%, 3.5 fauli/mecz. Solidna forma strzelecka i dobre rozegranie.
+    *   🏀 **Landrius Horton (SG):** 16.5 ppg, 6.0 apg, 3.0 rpg, FG 48.1%, 3P 50.0%, 2.5 fauli/mecz. Wysoka skuteczność rzutów za trzy punkty i dobra asysta. Landrius Horton był również najlepszym strzelcem PLK w sezonie regularnym 2025/2026 ze średnią 19.7 punktu na mecz.
+    *   🏀 **Rivaldo Soares (SF):** 14.5 ppg, 2.0 apg, 5.5 rpg, FG 52.6%, 3P 33.3%, 1.5 fauli/mecz. Solidna skuteczność z gry i dobra postawa na zbiórce.
+
+*   **AMW Arka Gdynia:**
+    *   🏀 **Michael Okauru (SG):** 18.0 ppg, 1.0 apg, 5.0 rpg, FG 33.3%, 3P 40.0%, 3.0 fauli/mecz. Wysoki wskaźnik punktowy, ale niska skuteczność z gry w tej serii.
+    *   🏀 **Luke Barrett (SF):** 17.0 ppg, 1.5 apg, 4.5 rpg, FG 51.7%, 3P 44.4%, 2.0 fauli/mecz. Dobra skuteczność z gry, zwłaszcza za trzy punkty.
+    *   🏀 **Einaras Tubutis (PF/C):** 14.5 ppg, 1.5 apg, 14.0 rpg, FG 57.9%, 3P 37.5%, 3.0 fauli/mecz. Bardzo wysoka skuteczność z gry i dominacja na zbiórce.
+
+---
+
+### 3. Werdykt dla typu: AMW Arka Gdynia @ Dziki Warszawa -> Typ: Dziki Warszawa
+
+*   Dziki Warszawa grają na własnym parkiecie (Hala Sportowa "Koło", Warszawa).
+*   Seria o 3. miejsce jest wyrównana (1-1), a Dziki wygrały poprzedni mecz w Warszawie (12.06.2026), co może dać im pewność siebie.
+*   Dziki Warszawa mają dwóch top scorerów (Edge, Horton) z bardzo dobrą skutecznością rzutową w tej serii, a Horton był liderem strzelców ligi w sezonie regularnym.
+*   Brak informacji o poważnych brakach kadrowych po obu stronach.
+*   Gra o medal i druga część dwumeczu w Warszawie, gdzie Dziki wygrały poprzednie spotkanie w tej serii.
+
+Biorąc pod uwagę równą serię, przewagę własnego parkietu i wysoką formę strzelecką kluczowych graczy Dzików Warszawa, typ na zwycięstwo gospodarzy jest uzasadniony.
+
+**Werdykt:** ✅ ZATWIERDZONY
