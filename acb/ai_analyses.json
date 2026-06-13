@@ -1,14 +1,25 @@
 {
-  "generated_at": "2026-06-13T23:12:41.178008",
+  "generated_at": "2026-06-13T23:36:27.723763",
   "date": "2026-06-14",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Valencia @ Joventut Badalona",
-      "ai_pick": null,
+      "phase": "?",
+      "ai_pick": "Valencia",
       "formula_pick": "Joventut Badalona",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "Valencia Basket prowadzi w serii półfinałowej Ligi Endesa 2-0, wygrywając oba dotychczasowe mecze z Joventut Badalona. Pomimo kontuzji Nate'a Reuversa, Valencia utrzymuje dobrą formę, a Jean Montero jest w świetnej dyspozycji, natomiast Joventut będzie gospodarzem meczu, co może dać im dodatkową motywację.",
+      "key_factors": [
+        "Valencia prowadzi w serii 2-0, mając psychologiczną przewagę.",
+        "Jean Montero (Valencia) jest w znakomitej formie strzeleckiej.",
+        "Joventut Badalona będzie grać u siebie, co jest ważnym czynnikiem w fazie play-off.",
+        "Kontuzja Nate'a Reuversa może osłabić rotację Valencii pod koszem.",
+        "Ricky Rubio (Joventut) pokazał, że potrafi prowadzić zespół na wysokim poziomie."
+      ],
+      "injury_notes": "Nate Reuvers (Valencia Basket) doznał kontuzji lewej kostki w pierwszym meczu półfinałowym 10 czerwca 2026 roku. Trener Pedro Martínez ocenił, że jego występ w najbliższym meczu byłby 'cudem', co oznacza, że jest bardzo wątpliwy lub wykluczony. Brak istotnych nowych doniesień o kontuzjach w Joventut Badalona na dzień 14 czerwca 2026 roku."
     }
   ]
 }
