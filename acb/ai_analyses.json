@@ -1,25 +1,14 @@
 {
-  "generated_at": "2026-06-12T22:50:45.839183",
-  "date": "2026-06-13",
+  "generated_at": "2026-06-13T22:21:03.079681",
+  "date": "2026-06-14",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Barcelona @ Tenerife",
-      "phase": "?",
-      "ai_pick": "Barcelona",
-      "formula_pick": "Tenerife",
-      "agreement": false,
-      "confidence": 9,
-      "reasoning": "Barcelona prowadzi w serii półfinałowej Ligi Endesa 2-0, co daje im znaczną przewagę. Tenerife zmaga się z poważnymi kontuzjami trzech kluczowych graczy, co osłabia ich rotację. Pomimo atutu własnego parkietu Tenerife, Barcelona prezentuje lepszą formę i głębię składu, co powinno pozwolić im zakończyć serię.",
-      "key_factors": [
-        "Poważne kontuzje kluczowych graczy Tenerife (Rokas Giedraitis, Bruno Fitipaldo, Giorgi Shermadini)",
-        "Barcelona prowadzi w serii półfinałowej 2-0",
-        "Lepsza forma Barcelony w ostatnich meczach play-off (4 wygrane w ostatnich 5 meczach)",
-        "Zrównoważony atak i głębia składu Barcelony",
-        "Atut własnego parkietu Tenerife w Game 3"
-      ],
-      "injury_notes": "Tenerife ma poważne problemy z kontuzjami: Rokas Giedraitis, Bruno Fitipaldo i Giorgi Shermadini nie są dostępni w play-offach, co znacząco skróciło rotację zespołu. Dla Barcelony brak istotnych, aktualnych kontuzji dotyczących drużyny koszykarskiej na dzień 13.06.2026."
+      "matchup": "Valencia @ Joventut Badalona",
+      "ai_pick": null,
+      "formula_pick": "Joventut Badalona",
+      "note": "AI fallback"
     }
   ]
 }
