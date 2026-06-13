@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-06-12T00:06:37.359310",
-  "date": "2026-06-12",
+  "generated_at": "2026-06-13T06:56:30.219650",
+  "date": "2026-06-13",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Alba Berlin @ Bayern",
-      "phase": "?",
-      "ai_pick": "Bayern",
-      "formula_pick": "Bayern",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Bayern Monachium zakończył sezon zasadniczy na pierwszym miejscu z imponującym bilansem 29-5 i posiada przewagę własnego boiska w fazie playoff. Mimo braku szczegółowych danych o ostatnich pięciu meczach playoff Bayernu, ich ogólna dominacja i obecność MVP sezonu, Andreasa Obsta, są kluczowymi czynnikami. Alba Berlin, choć prezentuje solidną formę w ostatnich meczach playoff (3-2), gra na wyjeździe przeciwko mocniejszemu rywalowi.",
-      "key_factors": [
-        "Przewaga własnego boiska dla Bayernu (1. miejsce w sezonie zasadniczym).",
-        "Lepszy bilans sezonu zasadniczego Bayernu (29-5 vs 24-10).",
-        "Andreas Obst (Bayern) - MVP sezonu 2025/2026."
-      ],
-      "injury_notes": "Bayern: Elias Harris z długoterminową kontuzją kolana, której doznał w czerwcu 2025 roku i nadal nie wrócił do gry do marca 2026 roku. Alba Berlin: Brak istotnych, aktualnych kontuzji zgłoszonych na dzień 2026-06-12."
+      "matchup": "ALBA Berlin @ FC Bayern München",
+      "ai_pick": null,
+      "formula_pick": "FC Bayern München",
+      "note": "AI fallback"
     }
   ]
 }

@@ -1,14 +1,23 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-12 22:45 ET) ---
-Oto analiza Twojego typu na podstawie dzisiejszych danych (2026-06-12):
+--- KRYTYCZNY AUDYT LIVE (2026-06-13 02:54 ET) ---
+### Knicks @ Spurs -> Typ: Spurs
 
-**Mecz: Knicks @ Spurs (Finały NBA 2026, Mecz 5)** 🏀
+**Kluczowe braki w składach (Styczeń 2026):**
 
-*   **Uwaga:** Mecz 5 Finałów NBA 2026 pomiędzy Knicks i Spurs jest zaplanowany na 13 czerwca 2026 roku, a nie 12 czerwca. Dzisiejsze raporty o kontuzjach dotyczą właśnie tego nadchodzącego meczu.
-*   **Kluczowe braki w składach (raporty z 2026-06-12):**
-    *   **Knicks:**
-        *   Mitchell Robinson (C) – Dostępny (Available) pomimo złamania 5. kości śródręcza prawej ręki.
-    *   **Spurs:**
-        *   Luke Kornet (C) – Wątpliwy (Questionable) z powodu choroby.
-*   **Aktualny stan serii:** New York Knicks prowadzą 3-1.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Chociaż Spurs grają u siebie i walczą o utrzymanie w serii, Knicks prowadzą 3-1 i mają szansę na zdobycie mistrzostwa. Brak kluczowego rezerwowego centra Luke'a Korneta u Spurs (status "Questionable") może mieć wpływ, choć Mitchell Robinson u Knicks jest dostępny. Biorąc pod uwagę presję i prowadzenie Knicks, typ na Spurs jest ryzykowny.
+*   **New York Knicks:**
+    *   Jalen Brunson: Prawa kostka, Day-to-day / Questionable (19 stycznia).
+    *   Josh Hart: Dyskomfort w prawej kostce, Day-to-day / Questionable (19, 28 stycznia).
+    *   Mitchell Robinson: Poza składem (28 stycznia).
+    *   Miles McBride: Poza składem (28 stycznia).
+    *   Karl-Anthony Towns: Questionable (24 stycznia) – skurcze pleców.
+    *   Trey Jemison III: Poza składem (G League Assignment).
+
+*   **San Antonio Spurs:**
+    *   Devin Vassell: Poza składem (Udo / Naciągnięcie przywodziciela) (3, 5, 10, 31 stycznia).
+    *   Victor Wembanyama: Day-to-day / Ograniczony status (Kolano) (3, 10 stycznia).
+    *   Harrison Ingram: Choroba, Game Time Decision (8 stycznia).
+    *   Jeremy Sochan: Poza składem (31 stycznia).
+    *   David Jones-Garcia: Poza składem na resztę sezonu (kontuzja kostki, informacja z 4 lutego, dotyczy stycznia).
+
+**Werdykt:** [✅ ZATWIERDZONY]
+
+Biorąc pod uwagę znaczące i liczne kontuzje kluczowych graczy New York Knicks (Brunson, Hart, Robinson, McBride, Towns) w styczniu 2026, typ na San Antonio Spurs jest uzasadniony. Mimo że Spurs również borykali się z brakami (Vassell, Sochan, status Wembanyamy), Knicks mieli potencjalnie więcej kluczowych zawodników z kategorią "Out" lub "Questionable".
