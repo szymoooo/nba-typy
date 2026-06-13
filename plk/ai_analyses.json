@@ -1,28 +1,27 @@
 {
-  "generated_at": "2026-06-11T22:18:07.920345",
-  "date": "2026-06-12",
+  "generated_at": "2026-06-13T02:46:44.714660",
+  "date": "2026-06-13",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "AMW Arka Gdynia @ Dziki Warszawa",
-      "phase": "O 3 miejsce",
-      "round": "2 mecz",
-      "date": "2026-06-12T20:15:00",
-      "ai_pick": "Dziki Warszawa",
-      "formula_pick": "Dziki Warszawa",
+      "matchup": "Legia Warszawa @ ORLEN Zastal Zielona Góra",
+      "phase": "Finał",
+      "round": "3 mecz",
+      "date": "2026-06-13T19:00:00",
+      "ai_pick": "Legia Warszawa",
+      "formula_pick": "Legia Warszawa",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Dziki Warszawa grają u siebie i są pod presją, aby wyrównać stan serii o brązowy medal, w której przegrywają 0-1. Posiadają lepsze wskaźniki efektywności i zagrają przeciwko osłabionej AMW Arce Gdynia, która straciła kluczowego zawodnika Milana Barbitcha w poprzednim meczu serii. Atut własnego parkietu i większa motywacja powinny przeważyć.",
+      "confidence": 8,
+      "reasoning": "Legia Warszawa ma lepszy bilans sezonowy i przewagę w bezpośrednich meczach w tym sezonie (3-1). W drugim meczu finałowym Legia odniosła dominujące zwycięstwo 104-82 nad ORLEN Zastalem Zielona Góra, co świadczy o jej aktualnie lepszej formie. Zaawansowane wskaźniki efektywności również przemawiają na korzyść Legii, która mimo gry na wyjeździe w tym meczu, wykazała się już zdolnością do wygrywania w serii finałowej poza własną halą.",
       "key_factors": [
-        "Kontuzja Milana Barbitcha (AMW Arka Gdynia)",
-        "Przewaga własnego parkietu Dzików Warszawa",
-        "Desperation factor Dzików (0-1 w serii)",
-        "Lepsze zaawansowane statystyki Dzików Warszawa",
-        "Zacięty poprzedni mecz w serii (89-84 dla Arki)"
+        "Dominujące zwycięstwo Legii w drugim meczu finałowym (104-82)",
+        "Lepsze zaawansowane wskaźniki Legii (NetRtg +10.4 vs +5.4)",
+        "Korzystny bilans bezpośrednich spotkań w sezonie (Legia 3-1 Zastal)",
+        "Potencjalna absencja Filipa Matczaka w Zastalu z powodu złamania nosa"
       ],
-      "injury_notes": "AMW Arka Gdynia: Milan Barbitch doznał kontuzji w pierwszym meczu serii (09.06.2026) i jego występ w dzisiejszym meczu jest bardzo mało prawdopodobny. Dziki Warszawa: brak istotnych braków zgłoszonych na 12.06.2026.",
+      "injury_notes": "Filip Matczak (ORLEN Zastal Zielona Góra) doznał złamania nosa w pierwszym meczu finałowym (08.06.2026) i był nieobecny w drugim meczu (10.06.2026), co sugeruje, że prawdopodobnie nie zagra również w trzecim meczu. Ojars Siliņš (Legia Warszawa) był poza składem na drugi mecz serii finałowej, a jego status na mecz 13.06.2026 jest nieznany.",
       "agreement_with_odds": "no_odds"
     }
   ]
