@@ -1,29 +1,24 @@
---- AUDYT PLK LIVE (2026-06-14 23:53 CET) ---
-Analiza meczu PLK: Legia Warszawa @ ORLEN Zastal Zielona Góra (2026-06-13)
+--- AUDYT PLK LIVE (2026-06-15 00:36 CET) ---
+Analiza meczu: Legia Warszawa (gosc) @ ORLEN Zastal Zielona Góra (gospodarz)
 
-### 1. Kluczowe braki w składach
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Filip Matczak grał w meczu 13.06.2026 po kontuzji nosa, występował w masce i zadeklarował gotowość do gry ("Z maską, złamanym nosem czy urwaną nogą. Na pewno każdy z nas chce dać z siebie").
+        *   Andrzej Mazurczak również występował w masce w meczu 13.06.2026. Brak informacji o kontuzji wykluczającej go z gry.
+        *   Brak aktualnych (na 2026-06-15) potwierdzonych informacji o kontuzjach lub zawieszeniach wykluczających kluczowych koszykarzy Zastalu z tego meczu. Choć Sagaba Konate miał kontuzję nadgarstka w lutym 2026, brak jest świeżych doniesień o jego niedostępności na dzisiejszy mecz finałowy.
+    *   🏀 **Legia Warszawa:**
+        *   Race Thompson zmagał się z problemami zdrowotnymi i był nieobecny w pierwszym meczu finałowej serii (08.06.2026). Brak aktualnych informacji z dnia 2026-06-15 o jego powrocie do składu lub dalszej niedostępności.
 
-**ORLEN Zastal Zielona Góra:**
-*   Filip Matczak i Andrzej Mazurczak wystąpili w trzecim meczu finałowym (13.06.2026) w maskach z powodu kontuzji nosa, ale byli zdolni do gry. Filip Matczak podkreślił, że "trzeba grać" pomimo urazu.
-*   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-14.
+2.  **Aktualna forma top scorerów (w tej serii play-off):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis (SG): 18.0 ppg, 2.0 apg, 2.7 rpg, FG 52.8%, 3P 33.3%. Jest kluczowym strzelcem i bohaterem pierwszego meczu serii.
+        *   Jakub Szumert (PF): 13.0 ppg, 0.7 apg, 5.0 rpg, FG 43.3%, 3P 30.8%.
+        *   Jayvon Maughmer (SG/SF): 11.3 ppg, 2.0 apg, 5.3 rpg, FG 50.0%, 3P 60.0%.
+    *   🏀 **Legia Warszawa:**
+        *   Carl Ponsar (PF): 15.7 ppg, 2.0 apg, 7.7 rpg, FG 54.5%, 3P 60.0%.
+        *   Andrzej Pluta (PG/SG): 14.0 ppg, 6.3 apg, 2.0 rpg, FG 46.9%, 3P 47.4%.
+        *   Jayvon Graves (PG/SG): 12.0 ppg, 3.3 apg, 8.7 rpg, FG 35.5%, 3P 25.0%.
 
-**Legia Warszawa:**
-*   Race Thompson zmagał się z problemami zdrowotnymi i brakowało go w składzie Legii w pierwszym meczu finałowym (08.06.2026). Brak aktualizacji jego statusu na 13-14.06.2026.
-*   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-14.
-
-### 2. Aktualna forma top scorerów
-
-**ORLEN Zastal Zielona Góra:**
-*   W sezonie 2025/2026 czołowymi strzelcami Zastalu byli Chavaughn Lewis (16.5 Pkt/mecz), Jakub Szumert (13.4 Pkt/mecz) i Andy Mazurczak (12.2 Pkt/mecz).
-*   W trzecim meczu finałowym (13.06.2026) przeciwko Legii Warszawa, Chavaughn Lewis zdobył 14 punktów, a Patrick Cartier 13 punktów. Jayvon Maughmer dołożył 12 punktów.
-
-**Legia Warszawa:**
-*   W sezonie 2025/2026 wiodącymi strzelcami Legii byli D.J. Brewton (15.1 Pkt/mecz), Andrzej Pluta (13.6 Pkt/mecz) i Jayvon Graves (13.3 Pkt/mecz).
-*   W trzecim meczu finałowym (13.06.2026) Legia wygrała 79:63. Najwięcej punktów dla Legii zdobył Carl Ponsar (22 Pkt), a Dominic Brewton III dodał 13 punktów.
-*   Legia Warszawa pokonała Zastal 104:82 w drugim meczu serii finałowej (10.06.2026), pokazując wysoką skuteczność.
-
-### 3. Werdykt
-
-Legia Warszawa zwyciężyła w trzecim meczu finałowym (13.06.2026) wynikiem 79:63 na wyjeździe, w Zielonej Górze, i objęła prowadzenie w serii 2:1. Mimo że Zastal grał u siebie, nie był w stanie "ugryźć" Legii, a ich skuteczność była najsłabsza w sezonie.
-
-[✅ ZATWIERDZONY]
+3.  **Werdykt:**
+    *   [⚠️ RYZYKOWNY] dla typu na Legię Warszawa.
+    *   **Uzasadnienie:** Pomimo prowadzenia Legii w serii 2-1, mecz odbywa się w Zielonej Górze (Centrum Rekreacyjno-Sportowe), co stanowi przewagę własnego parkietu dla Zastalu. Dodatkowo, niejasny status kontuzji Race'a Thompsona (brak aktualizacji od 08.06.2026, gdzie był nieobecny) może osłabiać Legię. Zielona Góra pokazała już, że potrafi zaskoczyć Legię, wygrywając pierwszy mecz serii. Zastal, nawet z drobnymi urazami (Matczak, Mazurczak grający w maskach), jest zdeterminowany grać "z urwaną nogą", co świadczy o wysokiej motywacji w meczu finałowym.

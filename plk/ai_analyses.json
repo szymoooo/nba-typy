@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T02:46:44.714660",
-  "date": "2026-06-13",
+  "generated_at": "2026-06-14T22:36:45.427585",
+  "date": "2026-06-15",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
@@ -8,20 +8,21 @@
     {
       "matchup": "Legia Warszawa @ ORLEN Zastal Zielona Góra",
       "phase": "Finał",
-      "round": "3 mecz",
-      "date": "2026-06-13T19:00:00",
+      "round": "4 mecz",
+      "date": "2026-06-15T20:15:00",
       "ai_pick": "Legia Warszawa",
       "formula_pick": "Legia Warszawa",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "Legia Warszawa ma lepszy bilans sezonowy i przewagę w bezpośrednich meczach w tym sezonie (3-1). W drugim meczu finałowym Legia odniosła dominujące zwycięstwo 104-82 nad ORLEN Zastalem Zielona Góra, co świadczy o jej aktualnie lepszej formie. Zaawansowane wskaźniki efektywności również przemawiają na korzyść Legii, która mimo gry na wyjeździe w tym meczu, wykazała się już zdolnością do wygrywania w serii finałowej poza własną halą.",
+      "reasoning": "Legia Warszawa prowadzi w serii finałowej 2-1 i wygrała dwa ostatnie mecze, w tym jedno spotkanie na wyjeździe w Zielonej Górze. Ich stabilna forma oraz lepsze wskaźniki zaawansowane z całego sezonu świadczą o przewadze, pomimo wysokiego czynnika desperacji ORLEN Zastalu Zielona Góra grającego u siebie w czwartym meczu.",
       "key_factors": [
-        "Dominujące zwycięstwo Legii w drugim meczu finałowym (104-82)",
-        "Lepsze zaawansowane wskaźniki Legii (NetRtg +10.4 vs +5.4)",
-        "Korzystny bilans bezpośrednich spotkań w sezonie (Legia 3-1 Zastal)",
-        "Potencjalna absencja Filipa Matczaka w Zastalu z powodu złamania nosa"
+        "Legia prowadzi w serii 2-1",
+        "Legia wygrała mecz nr 3 na wyjeździe w Zielonej Górze",
+        "Legia jest w lepszej formie ostatnich 2 meczów (W-W) w finale",
+        "Lepsze wskaźniki zaawansowane Legii (NetRtg +10.6)",
+        "ORLEN Zastal Zielona Góra gra u siebie z wysokim czynnikiem desperacji"
       ],
-      "injury_notes": "Filip Matczak (ORLEN Zastal Zielona Góra) doznał złamania nosa w pierwszym meczu finałowym (08.06.2026) i był nieobecny w drugim meczu (10.06.2026), co sugeruje, że prawdopodobnie nie zagra również w trzecim meczu. Ojars Siliņš (Legia Warszawa) był poza składem na drugi mecz serii finałowej, a jego status na mecz 13.06.2026 jest nieznany.",
+      "injury_notes": "Matthias Tass (Legia) był poza składem w meczu nr 3. Filip Matczak (ORLEN Zastal Zielona Góra) grał w meczu nr 3 pomimo złamanego nosa. Patrick Cartier (ORLEN Zastal Zielona Góra) opuścił boisko za faule w meczu nr 3.",
       "agreement_with_odds": "no_odds"
     }
   ]

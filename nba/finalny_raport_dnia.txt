@@ -1,21 +1,16 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-14 17:52 ET) ---
-Analiza typu na podstawie danych ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-06-14 18:35 ET) ---
+Analiza meczu: Knicks @ Spurs
 
-**Knicks @ Spurs** -> Typ: Spurs
-
-*   **Kluczowe braki w składach (styczeń 2026):**
+*   **Kluczowe braki w składach (2026-06-14):**
     *   **New York Knicks:**
-        *   Jalen Brunson: Out/Questionable 🩹 (kontuzja kostki)
-        *   Mitchell Robinson: Out 🤕 (kontuzja/zarządzanie urazem kostki)
-        *   Josh Hart: Day-to-day/Questionable 🤔 (dolegliwości kostki)
-        *   Karl-Anthony Towns: Questionable 😥 (skurcze pleców)
+        *   Landry Shamet (Guard) – Status: Questionable (kontuzja nogi/kolana). Opuścił Game 5 Finałów NBA 13 czerwca, ale wrócił na ławkę, choć utykał. Jest kluczowym zmiennikiem.
+        *   Mitchell Robinson (Center) – Status: Niepotwierdzony. Był "questionable" na Game 1 Finałów (początek czerwca) z powodu złamanej kości śródręcza. Brak aktualizacji na 14 czerwca.
     *   **San Antonio Spurs:**
-        *   Devin Vassell: Out 🩹 (uraz uda/przywodziciela)
-        *   Victor Wembanyama: Day-to-day/Limited Status 🦵 (kontuzja kolana)
-        *   Jeremy Sochan: Sidelined 🚫 (późny styczeń)
-        *   Harrison Ingram: GTD 🤒 (choroba, połowa stycznia)
+        *   Luke Kornet (Center) – Status: Questionable (nieokreślona choroba). Dodany do raportu kontuzji przed Game 5 (13 czerwca).
+        *   De'Aaron Fox (Guard) – Status: Dostępny. Wcześniejsze kontuzje kostki z maja 2026 nie wpłynęły na jego status w Finałach NBA.
+        *   Dylan Harper (Guard) – Status: Dostępny. Wcześniejsze kontuzje nogi z maja 2026 nie wpłynęły na jego status w Finałach NBA.
 
-*   **Werdykt: [⚠️ RYZYKOWNY]**
-    Brak konkretnej daty meczu w styczniu 2026 uniemożliwia precyzyjną ocenę dostępności graczy. Obie drużyny borykały się w styczniu 2026 z istotnymi brakami kluczowych zawodników. Knicks mieli wyłączonego lub wątpliwego Brunsona i Robinsona, a Spurs Vassella i ograniczonego Wembanyamę w różnych okresach. Pomimo ogólnie lepszego bilansu Spurs w styczniu, znaczące osłabienia po obu stronach sprawiają, że ten typ jest ryzykowny bez znajomości szczegółowego raportu kontuzji na dzień meczu.
+*   **Dodatkowy kontekst:** Knicks prowadzą w serii Finałów NBA 3-1 po Game 4. Game 5 odbył się 13 czerwca, a Game 6 jest zaplanowany na 16 czerwca.
 
-Brak aktualnych raportów (Injury Report) na tę chwilę (2026-06-14) dla meczu rozgrywanego w styczniu 2026.
+*   **Werdykt dla typu "Spurs":** ⚠️ RYZYKOWNY
+    *   Mimo niepewności co do statusu Landry'ego Shameta, Knicks prowadzą w serii Finałów NBA 3-1. Prognozowanie zwycięstwa Spurs w tym momencie, gdy Knicks są o krok od mistrzostwa, jest ryzykowne, biorąc pod uwagę ogólny kontekst serii.
