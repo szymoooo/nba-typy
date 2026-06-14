@@ -1,19 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-14 11:50 ET) ---
-Na podstawie danych z STYCZNIA 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-06-14 13:24 ET) ---
+Analiza meczu Knicks @ Spurs (data hipotetyczna, skład ze stycznia 2026, raport kontuzji z 2026-06-14):
 
-**Knicks @ Spurs** -> Typ: Spurs
+*   **Kluczowe braki w składach (2026-06-14):**
+    *   Knicks: Brak aktualnych raportów (Injury Report) na tę chwilę. (Chociaż Mitchell Robinson był "questionable" 2 czerwca 2026 z powodu złamania ręki, a Landry Shamet doznał urazu nogi/kolana 13 czerwca 2026, to powrócił do gry. Brak potwierdzonego statusu "Out", "Questionable", "GTD" na 14 czerwca 2026 dla Robinsona.)
+    *   Spurs: Brak aktualnych raportów (Injury Report) na tę chwilę. (Luke Kornet był "questionable" 13 czerwca 2026 z powodu nieokreślonej choroby. Brak potwierdzonego statusu "Out", "Questionable", "GTD" na 14 czerwca 2026.)
 
-*   **Kluczowe braki w składach (Styczeń 2026):**
-    *   **New York Knicks:**
-        *   Jalen Brunson: Questionable/Out (skręcenie prawej kostki) 🤕
-        *   Josh Hart: Questionable (dyskomfort prawej kostki) 🤕
-        *   Mitchell Robinson: Out (uraz lewej kostki) 🩹
-        *   Landry Shamet: Questionable (skręcenie prawego barku) 🩹
-        *   Trey Jemison III: Out (przydział do G League) ➡️
-    *   **San Antonio Spurs:**
-        *   Devin Vassell: Out (naciągnięcie mięśnia uda/przywodziciela) 🩹
-        *   Victor Wembanyama: Day-to-Day/Ograniczenia (problem z kolanem) 😬
-        *   Harrison Ingram: Game Time Decision (choroba) (stan na 10 stycznia 2026) 🤧
-
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Knicks mają znaczące braki, szczególnie w kluczowych graczach ofensywnych (Brunson, Hart) i defensywnych (Robinson), co osłabia ich znacznie w tym okresie. Wyniki wskazywały na serię porażek Knicks w styczniu. Pomimo kontuzji Vassella i ograniczeń Wembanyamy, Spurs utrzymywali w tym okresie silny bilans (np. 26-11 do 10 stycznia), co sugeruje zdolność do radzenia sobie z absencjami.
+*   **Werdykt dla typu: Spurs**
+    *   Na podstawie dostępnych danych, San Antonio Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej NBA. New York Knicks i San Antonio Spurs spotkali się w Finałach NBA 2026, co świadczy o wysokiej klasie obu drużyn. Knicks prowadzili w serii 3-1 w Finałach.
+    *   Biorąc pod uwagę, że oba zespoły były czołowymi drużynami w lidze, a mecz odbyłby się bez jednoznacznie potwierdzonych kluczowych absencji na dzień dzisiejszy (zgodnie z rygorystycznymi zasadami raportowania kontuzji), typowanie zwycięstwa jednej z nich, nawet u siebie, przeciwko innemu finaliście jest **[⚠️ RYZYKOWNE]**.
