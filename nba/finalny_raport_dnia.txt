@@ -1,15 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-13 21:58 ET) ---
-Analiza meczu na podstawie danych z 2026-06-13:
+--- KRYTYCZNY AUDYT LIVE (2026-06-13 22:57 ET) ---
+Analiza meczu: Knicks @ Spurs
 
-**Knicks @ Spurs**
-Typ: Spurs
+Typ użytkownika: Spurs
 
-*   **Kluczowe braki w składach (na 2026-06-13):**
-    *   **New York Knicks:** Mitchell Robinson (kontuzja prawej dłoni - złamanie) jest DOSTĘPNY. Brak innych kluczowych absencji.
-    *   **San Antonio Spurs:** David Jones Garcia (kontuzja kostki) jest NIEDOSTĘPNY do końca sezonu. Luke Kornet (choroba) był wątpliwy, ale został ZATWIERDZONY do gry.
+*   **Kluczowe braki w składach (2026-06-13):**
+    *   **San Antonio Spurs:**
+        *   David Jones: Out For Season (Ankle) 🩹
+        *   Luke Kornet: Był wymieniony jako "Questionable" (Illness), ale jest dostępny do gry w Game 5 Finałów NBA.
+        *   Victor Wembanyama: Brak kontuzji, ale jest bliski automatycznego zawieszenia na jeden mecz z powodu nagromadzonych fauli flagrant.
+    *   **New York Knicks:**
+        *   Brak aktualnych raportów (Injury Report) o kontuzjach. Kadra jest zdrowa.
+        *   Mitchell Robinson gra pomimo wcześniejszego złamania ręki, a jego stan się poprawił.
 
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mecz jest Game 5 Finałów NBA 2026, a Knicks prowadzą w serii 3-1.
-    *   Knicks wygrali Game 4 po historycznym powrocie.
-    *   Spurs grają u siebie, broniąc się przed eliminacją.
-    *   Chociaż Spurs grają u siebie i walczą o przetrwanie, ich typ na zwycięstwo jest ryzykowny, biorąc pod uwagę prowadzenie Knicks w serii i ich ostatnią formę.
+    *   Bazując na aktualnych raportach kontuzji z 13 czerwca 2026 r., New York Knicks mają zdrową kadrę.
+    *   San Antonio Spurs mają jednego gracza wykluczonego na cały sezon (David Jones), a ich kluczowy gracz, Victor Wembanyama, jest pod groźbą zawieszenia.
+    *   Mimo że kontekst meczu to styczeń 2026, a Spurs mieli wtedy solidny bilans (np. 31-14 do końca stycznia), to analiza musi uwzględniać bieżące braki. Przy zdrowych Knicks i osłabionych Spurs (choćby brakiem Jonesa i groźbą zawieszenia Wembanyamy), typ na Spurs jest ryzykowny. Informacje o Finałach NBA między tymi drużynami w czerwcu 2026 wskazują, że Knicks prowadzą 3-1, co dodatkowo czyni typ na Spurs ryzykownym.

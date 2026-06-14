@@ -1,21 +1,21 @@
---- AUDYT PLK LIVE (2026-06-14 01:11 CET) ---
-Analiza meczu PLK na dzień 2026-06-13, bazując na dostępnych informacjach przed rozpoczęciem spotkania:
+--- AUDYT PLK LIVE (2026-06-14 04:57 CET) ---
+Dla meczu Legia Warszawa @ ORLEN Zastal Zielona Góra (13.06.2026):
 
----
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:**
+        *   Matthias Tass: Poza kadrą meczową na 13.06.2026.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Filip Matczak: Wystąpił w specjalnej masce ochronnej z powodu urazu nosa.
+        *   Andrzej Mazurczak: Wystąpił w masce ochronnej.
+        *   Dwight Wilson III: Na początku czerwca wracał do normalnych treningów po urazie kostki, brak informacji o jego niedostępności na mecz 13.06.2026.
 
-**Legia Warszawa @ ORLEN Zastal Zielona Góra**
-Typ PulsBasketu: Legia Warszawa
+2.  **Aktualna forma top scorerów:**
+    *   🏀 **Legia Warszawa:**
+        *   W meczu 13.06.2026 kluczową postacią był Carl Ponsar, który zdobył 22 punkty i miał 13 zbiórek.
+        *   W sezonie 2025/2026 czołowi strzelcy Legii to Dominic Brewton III (śr. 15.1 Pkt/mecz), Andrzej Pluta (śr. 13.6 Pkt/mecz) i Jayvon Graves (śr. 13.3 Pkt/mecz).
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   W meczu 13.06.2026 najwięcej punktów dla Zastalu zdobył Chavaughn Lewis (14 punktów i 4 zbiórki).
+        *   W sezonie 2025/2026 czołowi strzelcy Zastalu to Chavaughn Lewis (śr. 16.7 Pkt/mecz) i Jakub Szumert (śr. 13.4 Pkt/mecz).
 
-1.  **Kluczowe braki w składach koszykarskich:**
-    *   **Legia Warszawa:** Race Thompson powrócił do składu po kontuzji na mecz 10 czerwca 2026, zastępując Ojārsa Siliņsa. Brak innych istotnych, aktualnych braków w składzie koszykarskim Legii.
-    *   **ORLEN Zastal Zielona Góra:** Klub zmagał się z problemami zdrowotnymi ważnych zawodników przed finałami. Filip Matczak i Andrzej Mazurczak wystąpili 13 czerwca 2026 w meczu finałowym w maskach ochronnych z powodu niedawnych urazów (Matczak miał kontuzję nosa). Mimo że grali, ich forma mogła być osłabiona przez te dolegliwości.
-
-2.  **Aktualna forma top scorerów (przed meczem 13.06.2026):**
-    *   **Legia Warszawa:** Andrzej Pluta, uznawany za kluczowego gracza Legii, wykazał się dobrą formą w drugim meczu finałowym (10 czerwca 2026), zdobywając 8 punktów w zaledwie 3,5 minuty, co stanowiło poprawę wobec poprzedniego meczu. Brak danych z API dla pozostałych wiodących strzelców Legii.
-    *   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis (średnio 16.8 Pkt/mecz w sezonie 2025/2026) był skuteczny w pierwszych meczach finałowych, co potwierdza raport z 10 czerwca 2026. Filip Matczak i Andrzej Mazurczak (odpowiednio 13.6 i 12 Pkt/mecz w sezonie 2025/2026), choć dostępni, grali z urazami, co mogło wpływać na ich dyspozycję strzelecką.
-
-3.  **Werdykt:** ✅ **ZATWIERDZONY**
-    *   Mecz był częścią finałowej rywalizacji (prawdopodobnie mecz 3 lub 4, Legia prowadziła 2-1 w serii do 4 zwycięstw po tym meczu).
-    *   Legia Warszawa przystąpiła do meczu z pełnym składem kluczowych graczy.
-    *   ORLEN Zastal Zielona Góra, mimo że kluczowi gracze (Matczak, Mazurczak) byli zdolni do gry, zmagali się z urazami i grali w maskach, co mogło ograniczyć ich efektywność, zwłaszcza w decydującym spotkaniu.
-    *   Wynik meczu z 13 czerwca 2026, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra, potwierdza słuszność typu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa wygrała mecz 13.06.2026 wynikiem 79:63, obejmując prowadzenie 2-1 w finałowej serii ORLEN Basket Ligi. Ich dominacja była wyraźna. Typ na Legię Warszawa był prawidłowy.
