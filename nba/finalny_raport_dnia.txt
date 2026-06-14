@@ -1,18 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-14 17:15 ET) ---
-Dzisiejsza data to 2026-06-14. Mecz Knicks @ Spurs już się zakończył. New York Knicks pokonali San Antonio Spurs 94-90 w piątym meczu Finałów NBA, zdobywając mistrzostwo NBA.
+--- KRYTYCZNY AUDYT LIVE (2026-06-14 17:52 ET) ---
+Analiza typu na podstawie danych ze stycznia 2026:
 
----
+**Knicks @ Spurs** -> Typ: Spurs
 
-**Knicks @ Spurs**
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Out/Questionable 🩹 (kontuzja kostki)
+        *   Mitchell Robinson: Out 🤕 (kontuzja/zarządzanie urazem kostki)
+        *   Josh Hart: Day-to-day/Questionable 🤔 (dolegliwości kostki)
+        *   Karl-Anthony Towns: Questionable 😥 (skurcze pleców)
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out 🩹 (uraz uda/przywodziciela)
+        *   Victor Wembanyama: Day-to-day/Limited Status 🦵 (kontuzja kolana)
+        *   Jeremy Sochan: Sidelined 🚫 (późny styczeń)
+        *   Harrison Ingram: GTD 🤒 (choroba, połowa stycznia)
 
-*   **Wynik meczu (14.06.2026):** Knicks 94, Spurs 90. Knicks wygrali serię 4-1 i zdobyli mistrzostwo NBA.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    Brak konkretnej daty meczu w styczniu 2026 uniemożliwia precyzyjną ocenę dostępności graczy. Obie drużyny borykały się w styczniu 2026 z istotnymi brakami kluczowych zawodników. Knicks mieli wyłączonego lub wątpliwego Brunsona i Robinsona, a Spurs Vassella i ograniczonego Wembanyamę w różnych okresach. Pomimo ogólnie lepszego bilansu Spurs w styczniu, znaczące osłabienia po obu stronach sprawiają, że ten typ jest ryzykowny bez znajomości szczegółowego raportu kontuzji na dzień meczu.
 
-*   **Kluczowi gracze (styczeń 2026):**
-    *   **New York Knicks:** Jalen Brunson (MVP Finałów), Karl-Anthony Towns, OG Anunoby, Josh Hart, Mitchell Robinson.
-    *   **San Antonio Spurs:** Victor Wembanyama, De'Aaron Fox, Stephon Castle, Devin Vassell.
-
-*   **Kluczowe braki w składach (raporty z 13.06.2026, przed Game 5):**
-    *   **New York Knicks:** Landry Shamet opuścił mecz w Game 5 z powodu urazu nogi, ale wrócił do gry w tym samym meczu. Mitchell Robinson był wymieniony jako "probable" (prawdopodobny) z powodu złamania prawego małego palca, ale oczekiwano, że zagra.
-    *   **San Antonio Spurs:** Luke Kornet (środkowy rezerwowy) był "questionable" (wątpliwy) z powodu nieokreślonej choroby.
-
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Mecz został już rozegrany, a typ użytkownika (Spurs) byłby nietrafiony. Knicks wygrali, zdobywając mistrzostwo.
+Brak aktualnych raportów (Injury Report) na tę chwilę (2026-06-14) dla meczu rozgrywanego w styczniu 2026.
