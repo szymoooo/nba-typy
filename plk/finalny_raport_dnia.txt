@@ -1,14 +1,21 @@
---- AUDYT PLK LIVE (2026-06-14 20:53 CET) ---
-Analiza meczu: Legia Warszawa @ ORLEN Zastal Zielona Góra (typy na 2026-06-13)
-
-Analizowany mecz odbył się 13 czerwca 2026 roku w Zielonej Górze i był trzecim meczem finałów Orlen Basket Ligi sezonu 2025/2026.
+--- AUDYT PLK LIVE (2026-06-14 21:59 CET) ---
+Mecz: Legia Warszawa @ ORLEN Zastal Zielona Góra
+Hala: CRS, Zielona Góra (mecz finałowy)
 
 1.  **Kluczowe braki w składach:**
-    *   🟢 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
-    *   🟡 **ORLEN Zastal Zielona Góra:** Filip Matczak i Andrzej Mazurczak wystąpili w maskach po urazach (Matczak z kontuzją nosa). Dwight Wilson wracał do formy po urazie kostki, ale brał udział w treningach i grał.
+    *   **ORLEN Zastal Zielona Góra:** Filip Matczak i Andrzej Mazurczak grali w meczu nr 3 (13.06.2026) w maskach ochronnych z powodu kontuzji (Matczak miał złamany nos), ale byli zdolni do gry i wystąpili w składzie. Brak innych istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda i Matthias Tass, którzy zmagali się z kontuzjami w grudniu 2025 roku, wrócili do gry i wystąpili w serii finałowej w czerwcu 2026 roku.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+    *   **Legia Warszawa:**
+        *   Jayvon Graves zanotował 28 punktów i 10 zbiórek w pierwszym meczu finału (08.06.2026).
+        *   Andrzej Pluta zdobył 27 punktów i zaliczył 9 asyst w drugim meczu finału (10.06.2026).
+        *   W sezonie 2025/2026 czołowymi strzelcami byli D.J. Brewton (15.1 PPG), Andrzej Pluta (13.6 PPG) i Jayvon Graves (13.3 PPG).
+        *   W trzecim meczu finału (13.06.2026) Legia zanotowała solidny występ ofensywny, zdobywając 79 punktów na wyjeździe.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis i Jayvon Maughmer zdobyli po 15 punktów w pierwszym meczu finału (08.06.2026).
+        *   W sezonie 2025/2026 liderami punktowymi byli Chavaughn Lewis (16.5 PPG), Jakub Szumert (13.4 PPG) i Andy Mazurczak (12.2 PPG).
+        *   W trzecim meczu finału (13.06.2026) Zastal zdobył zaledwie 63 punkty, co było ich najniższym wynikiem w sezonie, co wskazuje na gorszą formę ofensywną.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Typ "Legia Warszawa" okazał się prawidłowy, ponieważ Legia Warszawa wygrała trzeci mecz finałowy na wyjeździe. Legia, jako obrońca tytułu i najlepsza drużyna sezonu zasadniczego, pokonała Zastal 63-punktami, co było najniższym wynikiem Zastalu w tym sezonie. Pomimo gry Zastalu na własnym parkiecie i z maskami na twarzach kluczowych zawodników, Legia odniosła zwycięstwo.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    Legia Warszawa wygrała trzeci mecz finałowej serii w Zielonej Górze 79:63, obejmując prowadzenie 2-1 w rywalizacji o mistrzostwo. Pomimo kontuzji kluczowych zawodników Zastalu (którzy jednak grali), Legia zaprezentowała lepszą dyspozycję i skuteczność.
