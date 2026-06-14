@@ -1,21 +1,37 @@
---- AUDYT PLK LIVE (2026-06-14 21:59 CET) ---
-Mecz: Legia Warszawa @ ORLEN Zastal Zielona Góra
-Hala: CRS, Zielona Góra (mecz finałowy)
+--- AUDYT PLK LIVE (2026-06-14 22:22 CET) ---
+## Analiza meczu PLK: Legia Warszawa @ ORLEN Zastal Zielona Góra (2026-06-13)
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Filip Matczak i Andrzej Mazurczak grali w meczu nr 3 (13.06.2026) w maskach ochronnych z powodu kontuzji (Matczak miał złamany nos), ale byli zdolni do gry i wystąpili w składzie. Brak innych istotnych braków w składzie koszykarskim.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda i Matthias Tass, którzy zmagali się z kontuzjami w grudniu 2025 roku, wrócili do gry i wystąpili w serii finałowej w czerwcu 2026 roku.
+### 1. Kluczowe braki w składach
 
-2.  **Aktualna forma top scorerów:**
-    *   **Legia Warszawa:**
-        *   Jayvon Graves zanotował 28 punktów i 10 zbiórek w pierwszym meczu finału (08.06.2026).
-        *   Andrzej Pluta zdobył 27 punktów i zaliczył 9 asyst w drugim meczu finału (10.06.2026).
-        *   W sezonie 2025/2026 czołowymi strzelcami byli D.J. Brewton (15.1 PPG), Andrzej Pluta (13.6 PPG) i Jayvon Graves (13.3 PPG).
-        *   W trzecim meczu finału (13.06.2026) Legia zanotowała solidny występ ofensywny, zdobywając 79 punktów na wyjeździe.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis i Jayvon Maughmer zdobyli po 15 punktów w pierwszym meczu finału (08.06.2026).
-        *   W sezonie 2025/2026 liderami punktowymi byli Chavaughn Lewis (16.5 PPG), Jakub Szumert (13.4 PPG) i Andy Mazurczak (12.2 PPG).
-        *   W trzecim meczu finału (13.06.2026) Zastal zdobył zaledwie 63 punkty, co było ich najniższym wynikiem w sezonie, co wskazuje na gorszą formę ofensywną.
+**ORLEN Zastal Zielona Góra:**
+*   **Phil Fayne:** Wracający po przyczynach rodzinnych w USA. Według doniesień z 8 czerwca 2026 r., Fayne przebywał przez cały tydzień w USA z powodów rodzinnych, co mogło wpłynąć na jego przygotowanie. Jednak 6 czerwca 2026 r. pojawiła się informacja o jego powrocie i "walce z urazami w szeregach Zastalu", co sugeruje, że mógł mieć drobne problemy fizyczne, ale jest dostępny.
+*   **Andrzej Mazurczak:** Występuje w specjalnej masce z powodu kontuzji nosa.
+*   **Filip Matczak:** Wrócił do gry po kontuzji nosa, występował w masce w meczu 13 czerwca 2026 r.
+*   **Dwight Wilson:** Odczuwa skutki urazu kostki, ale trenował i grał.
+*   **Sagaba Konate:** Kontuzjowany, zastąpiony przez Dwighta Wilsona (informacja z 2 maja 2026 r. dotycząca sezonu regularnego, ale brak nowszych danych o jego powrocie sugeruje, że nadal był poza grą w czerwcu).
 
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    Legia Warszawa wygrała trzeci mecz finałowej serii w Zielonej Górze 79:63, obejmując prowadzenie 2-1 w rywalizacji o mistrzostwo. Pomimo kontuzji kluczowych zawodników Zastalu (którzy jednak grali), Legia zaprezentowała lepszą dyspozycję i skuteczność.
+**Legia Warszawa:**
+*   Brak istotnych braków w składzie koszykarskim. Michał Kolenda, kapitan zespołu, potwierdził 14 czerwca 2026 r., że "wszyscy są zdrowi i nikt nie doznał poważnego urazu" przed kolejnym meczem serii.
+
+### 2. Aktualna forma top scorerów
+
+Brak danych z API PulsBasketu dla top scorerów w tej serii. Możemy jednak zacytować ogólne statystyki i wypowiedzi dotyczące kluczowych graczy z dostępnych źródeł:
+
+*   **Legia Warszawa:**
+    *   **Andrzej Pluta:** Opisywany jako grający "niesamowicie" i jeden z kluczowych zawodników. Stwierdził również, że "naszą mocną stroną jest to, że nie mamy jednego konkretnego lidera, a mamy kilku graczy, którzy w każdym meczu mogą wziąć ciężar odpowiedzialności na siebie i dołożyć swoją cegiełkę do zwycięstwa".
+    *   **Jayvon Graves:** Aktywny w meczach finałowych, punktował efektywnie.
+    *   **Michał Kolenda:** Po meczu 13 czerwca podkreślał zespołowość jako największą siłę Legii.
+
+*   **ORLEN Zastal Zielona Góra:**
+    *   **Chavaughn Lewis:** Wyróżnił się rzutem za trzy punkty na wagę zwycięstwa w pierwszym meczu serii (8 czerwca 2026 r.) i był aktywny w kolejnych spotkaniach. Był również wymieniany jako najjaśniejsza postać drużyny i drugi najskuteczniejszy zawodnik OBL ze średnią 19,47 pkt (stan na 2 maja 2026 r.).
+    *   **Andrzej Mazurczak:** Prowadzi zespół do zwycięstw. Pełni rolę "boiskowego generała" ze średnią 11,6 pkt i 5,6 asyst (stan na 2 maja 2026 r.).
+    *   **Conley Garrison:** Kluczowy rozgrywający (średnia 10,4 pkt, 3,6 zb, 4,9 as - stan na 2 maja 2026 r.).
+    *   **Jakub Szumert:** Potwierdzał swoją dyspozycję w poprzednich spotkaniach i był jednym z punktujących. W sezonie zasadniczym jeden z największych talentów (śr. 13,3 pkt, 6,5 zb - stan na 2 maja 2026 r.).
+
+### 3. Werdykt
+
+ORLEN Zastal Zielona Góra grał mecz 13 czerwca 2026 roku u siebie przeciwko Legii Warszawa, który przegrał 63:79, co dało Legii prowadzenie 2:1 w serii finałowej. Mecz 13 czerwca był "świętem koszykówki" w Zielonej Górze, z kompletem widzów. Mimo to Zastal nie był w stanie "ugryźć" Legii.
+
+Zastal ma kilku kluczowych zawodników grających z kontuzjami (Mazurczak i Matczak w maskach, Wilson z problemami kostki) oraz Fayne'a wracającego po przerwie. Legia natomiast jest "zdrowa" i podkreśla siłę zespołową. Przewaga własnego parkietu w Zielonej Górze w meczu 13 czerwca nie wystarczyła Zastalowi, aby pokonać Legię. W związku z problemami kadrowymi Zastalu i dobrą formą zespołową Legii, oraz faktem, że Legia wygrała mecz wyjazdowy w Zielonej Górze, typ na Legię wydaje się uzasadniony.
+
+Werdykt: [✅ ZATWIERDZONY]
