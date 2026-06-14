@@ -1,12 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-14 03:22 ET) ---
-Oto analiza Twojego typu na mecz Knicks @ Spurs, na podstawie danych z 14 czerwca 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-06-14 06:39 ET) ---
+Brak aktualnych raportów (Injury Report) na tę chwilę (2026-06-14). Poniżej analiza na podstawie danych ze STYCZNIA 2026:
 
-**Knicks @ Spurs** -> Typ: Spurs
+**Knicks @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:** Landry Shamet (Guard) – Opuścił Game 5 finałów NBA z powodu widocznej kontuzji nogi/kolana. Jego status jest niepewny, choć wrócił na ławkę z lekkim utykaniem.
-    *   **San Antonio Spurs:** Luke Kornet (Center) – Questionable (GTD) z powodu nieokreślonej choroby. Victor Wembanyama jest w pełni zdrowy i przewidywany do gry.
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Kontuzja prawego stawu skokowego (Questionable/Out) 🩹
+        *   Josh Hart: Dyskomfort w prawym stawie skokowym (Questionable) 🩹
+        *   Mitchell Robinson: Uraz lewego stawu skokowego (Out) 🩹
+        *   Karl-Anthony Towns: Skurcze mięśni pleców (Questionable) 🩹
+        *   Landry Shamet: Skręcenie prawego barku (Questionable) 🩹
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Kontuzja uda (Out) 🩹
+        *   Jeremy Sochan: Wykluczony z gry (Out) 🩹
+        *   Victor Wembanyama: Kolano (Day-To-Day na początku stycznia, aktywny 10 stycznia)
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-
-**Uzasadnienie:** Mecz jest Game 5 finałów NBA, a Knicks prowadzą w serii 3-1. Pomimo tego, że Spurs grają u siebie i walczą o utrzymanie się w serii, Knicks pokazali swoją siłę, prowadząc 3-1 i dokonując historycznego powrotu w Game 4. Kontuzje Shameta (Knicks) i Kornetta (Spurs) dotyczą zawodników z ławki, ale nie są to kluczowe absencje starterów. Typowanie Spurs w meczu eliminacyjnym, nawet u siebie, przeciwko drużynie tak dominującej w serii, wiąże się z podwyższonym ryzykiem.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   W styczniu 2026 roku Knicks zmagali się z bardziej znaczącymi brakami kluczowych zawodników, w tym Jalen Brunson i Mitchell Robinson byli poza grą lub ich status był niepewny. Spurs, mimo braku Devina Vassella i Jeremy'ego Sochana, mieli aktywnych Victor Wembanyamę i De'Aarona Foxa. W takiej sytuacji typ na Spurs jest uzasadniony.
