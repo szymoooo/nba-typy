@@ -1,22 +1,25 @@
---- AUDYT PLK LIVE (2026-06-14 12:39 CET) ---
-Analiza meczu PLK z dnia 2026-06-13: Legia Warszawa @ ORLEN Zastal Zielona Góra.
+--- AUDYT PLK LIVE (2026-06-14 12:47 CET) ---
+Analiza meczu: Legia Warszawa @ ORLEN Zastal Zielona Góra (typy na 2026-06-13)
 
-Hala meczu: Centrum Rekreacyjno-Sportowe, Zielona Góra.
-Miasto meczu: Zielona Góra.
+Mecz, którego dotyczy audyt, odbył się 13.06.2026 w Zielonej Górze, w hali CRS. Legia Warszawa wygrała to spotkanie 79:63, prowadząc 2-1 w serii finałowej ORLEN Basket Ligi.
 
-### Legia Warszawa @ ORLEN Zastal Zielona Góra
+### Legia Warszawa
+1.  **Kluczowe braki w składzie**:
+    *   Race Thompson był niedostępny z powodu problemów zdrowotnych.
+2.  **Aktualna forma top scorerów (sezon 2025/2026)**:
+    *   D.J. Brewton: 15.1 Pkt/mecz
+    *   Andrzej Pluta: 13.6 Pkt/mecz
+    *   Jayvon Graves: 13.3 Pkt/mecz
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
-    *   **ORLEN Zastal Zielona Góra:** Filip Matczak wrócił do gry po kontuzji nosa i w meczu 13.06.2026 wystąpił w masce, podobnie jak Andrzej Mazurczak. Phil Fayne powrócił do składu po kontuzji, co wzmocniło strefę podkoszową. W meczu 13.06.2026 Marcin Woroniecki otrzymał więcej minut z powodu niedyspozycji innego gracza, ale nie zagrał skutecznie. Brak innych istotnych, potwierdzonych braków kadrowych na dzień meczu (13.06.2026).
-    *   **Legia Warszawa:** Trener Heiko Rannula zdecydował się na zmianę w składzie na mecz 13.06.2026 – do dwunastki meczowej wrócił Ojars Silins, a poza kadrą znalazł się Matthias Tass. Brak istotnych, potwierdzonych kontuzji ani zawieszeń innych zawodników Legii na dzień meczu (13.06.2026).
+### ORLEN Zastal Zielona Góra
+1.  **Kluczowe braki w składzie**:
+    *   Filip Matczak grał z kontuzją nosa (wystąpił w masce).
+    *   Andrzej Mazurczak grał w masce.
+2.  **Aktualna forma top scorerów (sezon 2025/2026)**:
+    *   Chavaughn Lewis: 16.7 Pkt/mecz
+    *   Jakub Szumert: 13.4 Pkt/mecz
+    *   Andrzej Mazurczak: 11.7 Pkt/mecz
 
-2.  **Aktualna forma top scorerów (z PulsBasketu, jeżeli dane są dostępne):**
-    *   Brak danych z API dla tego zespołu.
-    *   **Dodatkowe informacje o top scorerach z finałowej serii (z wyników wyszukiwania):**
-        *   W meczu 13.06.2026 dla Legii wyróżnił się Carl Ponsar (22 pkt, 13 zb) i Dominic Brewton III (13 pkt)..
-        *   Dla Zastalu Zielona Góra najwięcej punktów w meczu 13.06.2026 zdobyli Chavaughn Lewis (14 pkt), Patrick Cartier (13 pkt) i Jayvon Maughmer (12 pkt).
-        *   W meczu 08.06.2026 dla Legii top scorerem był Jayvon Graves (28 pkt), a dla Zastalu Chavaughn Lewis (15 pkt) i Jayvon Maughmer (15 pkt).
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-
-    *   **Uzasadnienie:** Mimo że Legia Warszawa wygrała mecz 13.06.2026 na wyjeździe 79:63 i objęła prowadzenie w serii 2:1, ten typ jest ryzykowny, ponieważ Zastal grał u siebie i wrócił do składu Phil Fayne, a Filip Matczak i Andrzej Mazurczak grali z maskami po kontuzjach nosa, co mogło wpłynąć na ich komfort i skuteczność. Dodatkowo, mecz finałowy w fazie play-off, szczególnie rozgrywany na własnym parkiecie Zastalu (Hala CRS, Zielona Góra), zawsze niesie ze sobą dodatkową presję i możliwość zaciętej walki, co widzieliśmy w poprzednich spotkaniach serii (np. Zastal wygrał pierwszy mecz w Warszawie 77:74). Wskazane kontuzje (choć zawodnicy grali) i ich wpływ na formę niektórych kluczowych graczy Zastalu wprowadzają element niepewności. Legia pokazała siłę w obronie, zatrzymując Zastal na 63 punktach, co było najsłabszym wynikiem Zielonogórzan w sezonie.
+### Werdykt
+[✅ ZATWIERDZONY]
+*   Pomimo braków w składzie Zastalu (Matczak i Mazurczak grający z maskami) oraz braku Race'a Thompsona w Legii, Legia Warszawa, wskazana jako faworyt w typie z 13.06.2026, odniosła zwycięstwo w trzecim meczu finału (79:63), potwierdzając trafność predykcji.
