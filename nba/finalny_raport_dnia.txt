@@ -1,16 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-14 18:35 ET) ---
-Analiza meczu: Knicks @ Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-06-14 19:13 ET) ---
+Na podstawie dzisiejszych danych z sieci (2026-06-14), oto analiza Twojego typu:
 
-*   **Kluczowe braki w składach (2026-06-14):**
-    *   **New York Knicks:**
-        *   Landry Shamet (Guard) – Status: Questionable (kontuzja nogi/kolana). Opuścił Game 5 Finałów NBA 13 czerwca, ale wrócił na ławkę, choć utykał. Jest kluczowym zmiennikiem.
-        *   Mitchell Robinson (Center) – Status: Niepotwierdzony. Był "questionable" na Game 1 Finałów (początek czerwca) z powodu złamanej kości śródręcza. Brak aktualizacji na 14 czerwca.
-    *   **San Antonio Spurs:**
-        *   Luke Kornet (Center) – Status: Questionable (nieokreślona choroba). Dodany do raportu kontuzji przed Game 5 (13 czerwca).
-        *   De'Aaron Fox (Guard) – Status: Dostępny. Wcześniejsze kontuzje kostki z maja 2026 nie wpłynęły na jego status w Finałach NBA.
-        *   Dylan Harper (Guard) – Status: Dostępny. Wcześniejsze kontuzje nogi z maja 2026 nie wpłynęły na jego status w Finałach NBA.
+**Knicks @ Spurs** -> Typ: Spurs
 
-*   **Dodatkowy kontekst:** Knicks prowadzą w serii Finałów NBA 3-1 po Game 4. Game 5 odbył się 13 czerwca, a Game 6 jest zaplanowany na 16 czerwca.
-
-*   **Werdykt dla typu "Spurs":** ⚠️ RYZYKOWNY
-    *   Mimo niepewności co do statusu Landry'ego Shameta, Knicks prowadzą w serii Finałów NBA 3-1. Prognozowanie zwycięstwa Spurs w tym momencie, gdy Knicks są o krok od mistrzostwa, jest ryzykowne, biorąc pod uwagę ogólny kontekst serii.
+*   **Kluczowe braki w składach:**
+    *   San Antonio Spurs: Luke Kornet (C) - Questionable (illness).
+    *   New York Knicks: Brak kontuzjowanych zawodników w raportach (Healthy).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Biorąc pod uwagę, że New York Knicks właśnie zdobyli mistrzostwo NBA, pokonując San Antonio Spurs w Finałach NBA (seria 4-1), typ na Spurs w hipotetycznym meczu jest wysoce ryzykowny. Knicks wykazali się dominacją, a ich skład jest obecnie zdrowy, podczas gdy Spurs mają drobne osłabienie w postaci kontuzji rezerwowego środkowego Luke'a Korneta.
