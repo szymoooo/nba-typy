@@ -34419,13 +34419,13 @@
   {
     "home_team": {
       "name": "ORLEN Zastal Zielona Góra",
-      "score": 23,
+      "score": 85,
       "team_id": 26,
       "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2026.png?v=3"
     },
     "away_team": {
       "name": "Legia Warszawa",
-      "score": 17,
+      "score": 73,
       "team_id": 37,
       "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2026.png?v=3"
     },
@@ -34470,7 +34470,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 44,
+    "possessions": 152,
     "highest_lead": 0,
     "round_name": "4 mecz",
     "stage_name": "Finał",
