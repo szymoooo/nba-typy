@@ -138,11 +138,32 @@ body { background: #020817; color: #f8fafc;
         <img src="https://www.proballers.com/api/getLeagueLogo?id=118&width=300" alt="BBL PUBLIC HUB logo" class="league-logo"
              onerror="this.style.display='none'">
         <h1>BBL PUBLIC HUB</h1>
-        <div class="subtitle">easyCredit BBL · Live Scores & Public AI Model Picks — June 16, 2026</div>
+        <div class="subtitle">easyCredit BBL · Live Scores & Public AI Model Picks — June 17, 2026</div>
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('bbl_140060145541696')">
+        <div class="card-header">
+            <span>20:00 CET</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="https://api.sofascore.app/api/v1/team/3564/image" alt="Bayern"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Bayern</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="https://api.sofascore.app/api/v1/team/3563/image" alt="Alba Berlin"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Alba Berlin</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">Alba Berlin</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: June 16, 2026 at 21:34 &middot; Data: Sofascore / 24score
+        Last updated: June 16, 2026 at 22:24 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"bbl_140060145541696": {"matchup": "Bayern @ Alba Berlin", "pick": "Alba Berlin", "reasoning": "", "key_factors": [], "confidence": null, "injury_notes": "", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {

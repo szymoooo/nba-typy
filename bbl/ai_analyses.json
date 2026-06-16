@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-06-16T09:13:40.317911",
-  "date": "2026-06-16",
+  "generated_at": "2026-06-16T22:24:11.083856",
+  "date": "2026-06-17",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "FC Bayern München @ ALBA Berlin",
-      "phase": "BBL Finals",
-      "ai_pick": "ALBA Berlin",
-      "formula_pick": "ALBA Berlin",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "ALBA Berlin, grając u siebie, zyskała duży impuls po zwycięstwie w drugim meczu finałów na wyjeździe, co wyrównało serię na 1:1 i odebrało Bayernowi przewagę parkietu. Kluczowi gracze ALBY, tacy jak Jack Kayil, Martin Hermannsson i Michael Rataj, pokazali dobrą formę w ostatnim meczu, a wsparcie własnych kibiców będzie dodatkowym atutem. Mimo silnej postawy Bayernu w fazie playoff, gra w Berlinie po dwóch wyrównanych meczach będzie dla nich wyzwaniem.",
-      "key_factors": [
-        "Przewaga własnego parkietu ALBY Berlin w meczu nr 3",
-        "Momentum ALBY po zwycięstwie w Game 2 na wyjeździe",
-        "Aktualna forma liderów ALBY",
-        "Brak istotnych, potwierdzonych kontuzji kluczowych graczy"
-      ],
-      "injury_notes": "Brak istotnych, potwierdzonych kontuzji u kluczowych graczy obu drużyn na dzień 16 czerwca 2026. Moses Wood (ALBA Berlin) doznał urazu nadgarstka około 4 czerwca 2026, jednak brak jest jasnych informacji o jego statusie na mecz. Martin Hermannsson (ALBA Berlin) powrócił po kontuzji kciuka i zagrał w Game 2."
+      "matchup": "Bayern @ Alba Berlin",
+      "ai_pick": null,
+      "formula_pick": "Alba Berlin",
+      "note": "AI fallback"
     }
   ]
 }

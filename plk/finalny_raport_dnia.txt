@@ -1,12 +1,17 @@
---- AUDYT PLK LIVE (2026-06-16 23:34 CET) ---
-Mecz: Legia Warszawa @ ORLEN Zastal Zielona Góra (2026-06-15)
+--- AUDYT PLK LIVE (2026-06-17 00:23 CET) ---
+Analiza meczu PLK (2026-06-15):
+
+---
+
+**Legia Warszawa @ ORLEN Zastal Zielona Góra**
+Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Race Thompson był poza składem z powodu problemów zdrowotnych w pierwszym meczu finałów (08.06.2026) i prawdopodobnie pozostawał niedostępny również na dzień 15.06.2026, kontynuując zmagania z urazem.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak grał w masce po kontuzji nosa, występując w meczu 13.06.2026 i był w składzie na mecz 15.06.2026. Andrzej Mazurczak również występował w masce w meczu 13.06.2026 i był w składzie na mecz 15.06.2026. Brak innych istotnych braków w składzie koszykarskim.
-
+    *   Legia Warszawa (koszykówka): Brak istotnych braków w składzie koszykarskim na dzień 2026-06-15.
+    *   ORLEN Zastal Zielona Góra (koszykówka): Brak istotnych braków w składzie koszykarskim na dzień 2026-06-15.
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. Jednakże, w meczu 15.06.2026, Andrzej Mazurczak i Conley Garrison zdobyli łącznie 37 punktów dla Zastalu, a Dwight Wilson zanotował 10 punktów i pięć zbiórek.
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Brak potwierdzonych kontuzji kluczowych zawodników w obu zespołach na dzień meczu. Typ wydaje się być bezpieczny w kontekście dostępności składów.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Mecz był czwartym spotkaniem finałowym ORLEN Basket Ligi, rozgrywanym w Zielonej Górze. Przed tym meczem Legia prowadziła w serii 2-1. Mimo że kluczowi gracze Zastalu (Filip Matczak i Andrzej Mazurczak) występowali z maskami, zagrali na wysokim poziomie w meczu 15.06.2026, prowadząc swoją drużynę do zwycięstwa. Zastal, jako gospodarz, pokonał Legię 85:73, doprowadzając do remisu w serii 2-2. Przewaga własnego parkietu i brak kluczowego gracza Legii (Race Thompson) sprawiły, że typ na Legię był ryzykowny.
+---
