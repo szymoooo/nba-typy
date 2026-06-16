@@ -142,7 +142,28 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('bbl_140649755434176')">
+        <div class="card-header">
+            <span>20:30 CET</span><span class="click-hint">Kliknij po analizę →</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="FC Bayern München"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">FC Bayern München</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="ALBA Berlin"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">ALBA Berlin</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">ALBA Berlin</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: June 16, 2026 at 03:29 &middot; Data: Sofascore / 24score
+        Last updated: June 16, 2026 at 09:13 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"bbl_140649755434176": {"matchup": "FC Bayern München @ ALBA Berlin", "pick": "ALBA Berlin", "reasoning": "ALBA Berlin, grając u siebie, zyskała duży impuls po zwycięstwie w drugim meczu finałów na wyjeździe, co wyrównało serię na 1:1 i odebrało Bayernowi przewagę parkietu. Kluczowi gracze ALBY, tacy jak Jack Kayil, Martin Hermannsson i Michael Rataj, pokazali dobrą formę w ostatnim meczu, a wsparcie własnych kibiców będzie dodatkowym atutem. Mimo silnej postawy Bayernu w fazie playoff, gra w Berlinie po dwóch wyrównanych meczach będzie dla nich wyzwaniem.", "key_factors": ["Przewaga własnego parkietu ALBY Berlin w meczu nr 3", "Momentum ALBY po zwycięstwie w Game 2 na wyjeździe", "Aktualna forma liderów ALBY", "Brak istotnych, potwierdzonych kontuzji kluczowych graczy"], "confidence": 7, "injury_notes": "Brak istotnych, potwierdzonych kontuzji u kluczowych graczy obu drużyn na dzień 16 czerwca 2026. Moses Wood (ALBA Berlin) doznał urazu nadgarstka około 4 czerwca 2026, jednak brak jest jasnych informacji o jego statusie na mecz. Martin Hermannsson (ALBA Berlin) powrócił po kontuzji kciuka i zagrał w Game 2.", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {

@@ -1,16 +1,16 @@
---- AUDYT PLK LIVE (2026-06-16 05:28 CET) ---
-# PLK typy na 2026-06-15
+--- AUDYT PLK LIVE (2026-06-16 11:11 CET) ---
+Analiza meczu PLK z 2026-06-15 (audytowana 2026-06-16):
 
-### Legia Warszawa @ ORLEN Zastal Zielona Góra
-*Typ: Legia Warszawa*
-
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Race Thompson powrócił do składu po kontuzji przed drugim meczem finału (10.06.2026). Brak innych istotnych braków w składzie koszykarskim Legii przed meczem 15.06.2026.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak zagrał w meczu nr 3 (13.06.2026) ze złamanym nosem, występując w masce. Andrzej Mazurczak również zagrał w masce w meczu nr 3. Obaj byli dostępni i wystąpili w meczu nr 4 (15.06.2026). Brak innych istotnych braków w składzie koszykarskim Zastalu.
-
-2.  **Aktualna forma top scorerów (seria finałowa):**
-    *   🏀 **Legia Warszawa:** W drugim meczu finału (10.06.2026), Andrzej Pluta zdobył 27 punktów i zanotował 9 asyst. W czwartym meczu finału (15.06.2026), Carl Ponsar zdobył 17 punktów, a Jayvon Graves był aktywny.
-    *   🏀 **ORLEN Zastal Zielona Góra:** W pierwszym meczu finału (08.06.2026), Chavaughn Lewis trafił decydującą trójkę. W czwartym meczu finału (15.06.2026), Andrzej Mazurczak zdobył 21 punktów, Conley Garrison 16 punktów, a Dwight Allen Wilson III 10 punktów. Chavaughn Lewis jest czołowym strzelcem Zastalu w sezonie ze średnią 16.7 Pkt/mecz.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Mecz odbył się w Zielonej Górze w Hali CRS i był czwartym spotkaniem finału ORLEN Basket Ligi. Przed tym meczem Legia prowadziła w serii 2-1 po zwycięstwie w meczu nr 3 na wyjeździe (79:63). Mimo przewagi Legii w serii, Zastal grał u siebie, dążąc do wyrównania stanu rywalizacji na 2-2. Kluczowi zawodnicy Zastalu, Filip Matczak i Andrzej Mazurczak, występowali z urazami twarzy (nos w masce), co wskazywało na ich dużą determinację. W finale rozgrywanym do czterech zwycięstw, każdy mecz ma ogromne znaczenie, a przewaga własnego parkietu jest istotna. Zastal ostatecznie wygrał ten mecz 85:73, doprowadzając do remisu w serii. Z uwagi na wysoką stawkę meczu (finał, mecz u siebie o wyrównanie serii) oraz widoczną wolę walki Zastalu, typ na wyjazdową wygraną Legii był ryzykowny.
+---
+**Legia Warszawa @ ORLEN Zastal Zielona Góra**
+*   **Hala:** Zielona Góra (mecz odbył się na własnym parkiecie ORLEN Zastal Zielona Góra)
+*   **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim.
+    *   Race Thompson (Legia) powrócił do gry po kontuzji przed meczem nr 2 (10.06.2026).
+    *   Filip Matczak (Zastal) doznał urazu w meczu nr 1 (08.06.2026) i oglądał mecz nr 2 z ławki, jednak brak potwierdzonych informacji o jego niedostępności w meczu nr 4 (15.06.2026) ani na dzień dzisiejszy.
+    *   Andrzej Mazurczak (Zastal) grał w masce ochronnej w meczu nr 1, ale występuje w kolejnych spotkaniach bez zgłoszonych braków.
+*   **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+    *   *Informacje z serii finałowej:* W meczu nr 1 (08.06.2026) Jayvon Graves (Legia) zdobył 28 punktów, a Chavaughn Lewis i Jayvon Maughmer (Zastal) po 15 punktów. W meczu nr 4 (15.06.2026), wygranym przez Zastal, liderami byli Andrzej Mazurczak i Conley Garrison, zdobywając łącznie 37 punktów, zaś Dwight Wilson dodał 10 punktów i 5 zbiórek.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ na Legię Warszawa dla meczu z 15.06.2026 jest ryzykowny, ponieważ ORLEN Zastal Zielona Góra wygrał ten mecz wynikiem 85:73, doprowadzając do remisu 2-2 w serii finałowej.

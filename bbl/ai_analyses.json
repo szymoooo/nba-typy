@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-06-13T22:21:32.769998",
-  "date": "2026-06-14",
+  "generated_at": "2026-06-16T09:13:40.317911",
+  "date": "2026-06-16",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Alba Berlin @ Bayern",
-      "phase": "?",
-      "ai_pick": "Bayern",
-      "formula_pick": "Bayern",
+      "matchup": "FC Bayern München @ ALBA Berlin",
+      "phase": "BBL Finals",
+      "ai_pick": "ALBA Berlin",
+      "formula_pick": "ALBA Berlin",
       "agreement": true,
-      "confidence": 9,
-      "reasoning": "Bayern prowadzi w serii finałowej BBL 1-0 po zwycięstwie w meczu numer jeden (102-94) rozegranym 12 czerwca 2026 roku. Gospodarze mają przewagę własnego parkietu w meczu numer dwa i wykazali doskonałą formę w ostatnich meczach playoff, w tym zwycięstwo nad Alba Berlin. Alba Berlin mierzy się z kluczowymi kontuzjami, co dodatkowo osłabia ich pozycję w tej serii.",
+      "confidence": 7,
+      "reasoning": "ALBA Berlin, grając u siebie, zyskała duży impuls po zwycięstwie w drugim meczu finałów na wyjeździe, co wyrównało serię na 1:1 i odebrało Bayernowi przewagę parkietu. Kluczowi gracze ALBY, tacy jak Jack Kayil, Martin Hermannsson i Michael Rataj, pokazali dobrą formę w ostatnim meczu, a wsparcie własnych kibiców będzie dodatkowym atutem. Mimo silnej postawy Bayernu w fazie playoff, gra w Berlinie po dwóch wyrównanych meczach będzie dla nich wyzwaniem.",
       "key_factors": [
-        "Bayern prowadzi w serii finałowej BBL 1-0",
-        "Bayern gra u siebie w meczu numer 2 (przewaga własnego parkietu)",
-        "Doskonała forma Bayernu w ostatnich meczach playoff, w tym wygrana w meczu nr 1",
-        "Kontuzje kluczowych zawodników w Alba Berlin (Alex O'Connell, potencjalnie Martin Hermannsson)"
+        "Przewaga własnego parkietu ALBY Berlin w meczu nr 3",
+        "Momentum ALBY po zwycięstwie w Game 2 na wyjeździe",
+        "Aktualna forma liderów ALBY",
+        "Brak istotnych, potwierdzonych kontuzji kluczowych graczy"
       ],
-      "injury_notes": "Bayern nie ma Stefana Jovica, Kamara Baldwina i Rokasa Jokubaitisa. Elias Harris jest również kontuzjowany. W zespole Alba Berlin kontuzjowany jest Alex O'Connell. Martin Hermannsson był wyłączony z gry na około sześć tygodni z powodu kontuzji kciuka od 6 lutego 2026, co sugeruje, że może być nadal niedostępny lub dopiero wraca do formy."
+      "injury_notes": "Brak istotnych, potwierdzonych kontuzji u kluczowych graczy obu drużyn na dzień 16 czerwca 2026. Moses Wood (ALBA Berlin) doznał urazu nadgarstka około 4 czerwca 2026, jednak brak jest jasnych informacji o jego statusie na mecz. Martin Hermannsson (ALBA Berlin) powrócił po kontuzji kciuka i zagrał w Game 2."
     }
   ]
 }
