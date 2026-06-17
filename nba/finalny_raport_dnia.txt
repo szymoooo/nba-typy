@@ -1,13 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-16 18:23 ET) ---
-Zgodnie z Twoimi wytycznymi, analizuję typ na podstawie danych z dnia 2026-06-16.
+--- KRYTYCZNY AUDYT LIVE (2026-06-17 04:32 ET) ---
+Na podstawie dostępnych danych z dnia 2026-06-17:
 
----
+**Knicks @ Spurs** -> Typ: Spurs
 
-### Knicks @ Spurs -> Typ: Spurs
-
-*   **Kluczowe braki w składach (Styczeń 2026):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla meczu Knicks @ Spurs ze stycznia 2026, zawierających statusy 'Out', 'Questionable', 'GTD'.
-    *   Brak możliwości zweryfikowania składów z kontuzjami na styczeń 2026, ponieważ dostępne dane z 2026-06-16 nie obejmują szczegółowych raportów o kontuzjach z minionych miesięcy.
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
+    *   Nie ma potwierdzonych informacji o kontuzjach dla drużyn NBA na dzień 17 czerwca 2026, ponieważ sezon NBA jest już zakończony w tym okresie. Dostępne są jedynie składy na styczeń 2026 / sezon 2025-2026.
 
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Bez potwierdzonych informacji o kontuzjach obu drużyn na styczeń 2026, nie mogę rzetelnie ocenić potencjalnego wpływu absencji na wynik meczu. Typ użytkownika jest obarczony wysokim ryzykiem ze względu na brak kluczowych danych analitycznych.
+    *   Brak jakichkolwiek informacji o planowanym meczu NBA między Knicks a Spurs na dzień 17 czerwca 2026, ani raportów o kontuzjach na tę datę, sprawia, że ocena typu jest niemożliwa do zweryfikowania na podstawie "dzisiejszych danych z sieci".

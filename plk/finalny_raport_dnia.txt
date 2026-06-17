@@ -1,17 +1,27 @@
---- AUDYT PLK LIVE (2026-06-17 00:23 CET) ---
-Analiza meczu PLK (2026-06-15):
-
----
-
-**Legia Warszawa @ ORLEN Zastal Zielona Góra**
-Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-06-17 10:34 CET) ---
+MECZ: ORLEN Zastal Zielona Góra @ Legia Warszawa
+Faza: Finał (Mecz 5, stan serii 2-2)
+Hala: OSiR Warszawa Bemowo, Warszawa
+Tip-off: 20:15
 
 1.  **Kluczowe braki w składach:**
-    *   Legia Warszawa (koszykówka): Brak istotnych braków w składzie koszykarskim na dzień 2026-06-15.
-    *   ORLEN Zastal Zielona Góra (koszykówka): Brak istotnych braków w składzie koszykarskim na dzień 2026-06-15.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak potwierdzonych kontuzji kluczowych zawodników w obu zespołach na dzień meczu. Typ wydaje się być bezpieczny w kontekście dostępności składów.
+    *   🟢 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Race Thompson, który opuścił wcześniejsze mecze z powodu urazu stopy, był w pełni gotowy do gry przed finałami. Michał Kolenda również był w optymalnej dyspozycji. Matthias Tass nie występował w meczach 3 i 4 serii finałowej decyzją trenera, co nie jest kontuzją.
+    *   🟢 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Dwight Wilson, który nie grał w meczach 2 i 3, wrócił do składu w meczu 4, co było decyzją trenera/związane z formą, a nie kontuzją.
 
----
+2.  **Aktualna forma top scorerów:**
+    *   ⛹️‍♂️ **Legia Warszawa:**
+        *   **Carl Ponsar (PF):** Solidna forma w serii ze średnią 16.0 ppg, 6.8 rpg i wysoką skutecznością FG 53.5%, 3P 61.5%. W meczu 4 zdobył 17 punktów.
+        *   **Andrzej Pluta (PG/SG):** Stabilna forma z 14.0 ppg i 5.8 apg w serii, ze skutecznością FG 46.5%, 3P 42.3%. W meczu 4 zdobył 14 punktów.
+        *   **Jayvon Graves (PG/SG):** Miał 10.8 ppg w serii, ale ze słabszą skutecznością (FG 35.9%, 3P 21.4%). W meczu 4 zdobył 7 punktów.
+    *   ⛹️‍♂️ **ORLEN Zastal Zielona Góra:**
+        *   **Chavaughn Lewis (SG):** Lider Zastalu z 15.2 ppg w serii, w meczu 1 trafił zwycięską trójkę. W meczu 4 zdobył 7 punktów.
+        *   **Jayvon Maughmer (SG/SF):** W serii notuje 10.8 ppg ze skutecznością FG 54.5%, 3P 57.1%. W meczu 4 zdobył 9 punktów.
+        *   **Jakub Szumert (PF):** W serii ma 10.8 ppg i 5.8 rpg. W meczu 4 zdobył 4 punkty.
+        *   **Dodatkowo warto zauważyć:** Andrzej Mazurczak i Conley Garrison, mimo że nie są w top 3 scorerów serii, byli kluczowymi postaciami Zastalu w meczu 4, zdobywając odpowiednio 21 i 16 punktów i prowadząc zespół do zwycięstwa. Garrison, wcześniej mający problemy ze skutecznością, odzyskał rytm w meczu 4.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz 5 finału przy stanie 2-2 to kluczowe spotkanie, w którym przewaga własnego parkietu jest bardzo istotna. Legia Warszawa gra u siebie w hali OSiR Warszawa Bemowo.
+    *   Obie drużyny są w pełnych składach, bez istotnych kontuzji wpływających na rotację.
+    *   Forma top scorerów Legii jest stabilna, a Legia potrafiła zdominować Zastal w meczu 2 i 3.
+    *   Zastal pokazał jednak, że potrafi odpowiedzieć, wygrywając mecze 1 i 4, a w ostatnim meczu liderzy tacy jak Mazurczak i Garrison zagrali bardzo skutecznie.
+    *   Typ na Legię Warszawa na własnym parkiecie w decydującym meczu serii wydaje się zasadny, biorąc pod uwagę brak osłabień w składzie i chęć odzyskania inicjatywy po porażce w meczu 4.

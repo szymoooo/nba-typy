@@ -1,28 +1,27 @@
 {
-  "generated_at": "2026-06-14T22:36:45.427585",
-  "date": "2026-06-15",
+  "generated_at": "2026-06-17T08:34:05.390810",
+  "date": "2026-06-17",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Legia Warszawa @ ORLEN Zastal Zielona Góra",
+      "matchup": "ORLEN Zastal Zielona Góra @ Legia Warszawa",
       "phase": "Finał",
-      "round": "4 mecz",
-      "date": "2026-06-15T20:15:00",
+      "round": "5 mecz",
+      "date": "2026-06-17T20:15:00",
       "ai_pick": "Legia Warszawa",
       "formula_pick": "Legia Warszawa",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "Legia Warszawa prowadzi w serii finałowej 2-1 i wygrała dwa ostatnie mecze, w tym jedno spotkanie na wyjeździe w Zielonej Górze. Ich stabilna forma oraz lepsze wskaźniki zaawansowane z całego sezonu świadczą o przewadze, pomimo wysokiego czynnika desperacji ORLEN Zastalu Zielona Góra grającego u siebie w czwartym meczu.",
+      "confidence": 7,
+      "reasoning": "Legia Warszawa gra u siebie w kluczowym, piątym meczu finału, a statystycznie drużyna wygrywająca piąty mecz przy stanie 2-2 sięga po trofeum w ponad 80% przypadków. Mimo porażki w ostatnim meczu, Legia ma lepsze statystyki ofensywne i defensywne w sezonie zasadniczym, a także wyższe NetRtg. Ich forma w ostatnich trzech meczach serii to dwie wygrane i jedna porażka, a kluczowi gracze, jak Dominic Brewton III, Andrzej Pluta i Jayvon Graves (czołowi strzelcy Legii w sezonie), są gotowi do gry. Zastal co prawda już raz wygrał w Warszawie w tej serii, a gracze tacy jak Filip Matczak i Andrzej Mazurczak (czołowi strzelcy Zastalu w sezonie), pokazują dużą determinację, grając z maskami z powodu urazów nosa, jednak atut własnego parkietu Legii powinien przeważyć.",
       "key_factors": [
-        "Legia prowadzi w serii 2-1",
-        "Legia wygrała mecz nr 3 na wyjeździe w Zielonej Górze",
-        "Legia jest w lepszej formie ostatnich 2 meczów (W-W) w finale",
-        "Lepsze wskaźniki zaawansowane Legii (NetRtg +10.6)",
-        "ORLEN Zastal Zielona Góra gra u siebie z wysokim czynnikiem desperacji"
+        "Atut własnego parkietu Legii Warszawa w decydującym meczu (5. mecz w serii 2-2).",
+        "Wyższe NetRtg (+10.0 vs +5.1) i ogólnie lepsze statystyki sezonu zasadniczego Legii Warszawa.",
+        "Lepsza forma Legii w ostatnich trzech meczach finałowych (2 wygrane, 1 porażka w porównaniu do 1 wygranej, 2 porażek Zastalu).",
+        "Historyczne statystyki wskazujące na wysoką szansę zdobycia mistrzostwa po wygraniu 5. meczu przy stanie 2-2."
       ],
-      "injury_notes": "Matthias Tass (Legia) był poza składem w meczu nr 3. Filip Matczak (ORLEN Zastal Zielona Góra) grał w meczu nr 3 pomimo złamanego nosa. Patrick Cartier (ORLEN Zastal Zielona Góra) opuścił boisko za faule w meczu nr 3.",
+      "injury_notes": "Brak istotnych nowych braków. Filip Matczak i Andrzej Mazurczak (ORLEN Zastal Zielona Góra) grają z maskami z powodu urazów nosa. Race Thompson (Legia Warszawa) zmagał się z problemami zdrowotnymi na początku finałów. Dwight Wilson III (ORLEN Zastal Zielona Góra) wrócił do gry w meczu numer 4 po opuszczeniu dwóch spotkań.",
       "agreement_with_odds": "no_odds"
     }
   ]
