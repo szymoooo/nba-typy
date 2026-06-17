@@ -1,9 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-17 19:05 ET) ---
-Na podstawie dzisiejszych danych z sieci (2026-06-17) dla Twojego typu:
+--- KRYTYCZNY AUDYT LIVE (2026-06-17 19:08 ET) ---
+Dzień dobry, oto analiza Twojego typu na mecz Knicks @ Spurs, na podstawie danych z 17 czerwca 2026 roku.
 
-**Knicks @ Spurs -> Typ: Spurs**
+---
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+**Mecz: Knicks @ Spurs**
+Typ: Spurs
+
+*   **Kluczowe braki w składach (stan na 2026-06-17):**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla hipotetycznego meczu Knicks @ Spurs rozgrywanego 17 czerwca 2026. Sezon regularny NBA zakończył się, a Finały NBA 2026 między tymi drużynami również już się odbyły (Knicks zdobyli tytuł w 2026 roku). Ostatnie doniesienia o kontuzjach w Finałach z początku czerwca 2026 wskazywały na:
+        *   **San Antonio Spurs:** Luke Kornet (Questionable - nieokreślona choroba) był wymieniony 13 czerwca 2026 r. przed Game 5 Finałów NBA. Wcześniej, 2 czerwca 2026 r. przed Game 1, Spurs nie mieli żadnych zgłoszonych kontuzji.
+        *   **New York Knicks:** Mitchell Robinson (Available - złamanie piątej kości śródręcza prawej ręki) był zgłoszony jako dostępny 8 czerwca 2026 r. i wcześniej jako prawdopodobny 5 czerwca 2026 r.. Jalen Brunson nie figurował na liście kontuzjowanych.
+
+*   **Składy (styczeń 2026):**
+    *   **New York Knicks:** Kluczowi gracze w styczniu 2026 to między innymi Jalen Brunson, Mitchell Robinson i Karl-Anthony Towns (przeniesiony do Knicks).
+    *   **San Antonio Spurs:** Kluczowi gracze w styczniu 2026 to między innymi Victor Wembanyama, De'Aaron Fox i Devin Vassell.
+
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-
-*   **Uzasadnienie:** Chociaż San Antonio Spurs byli Mistrzami Konferencji Zachodniej i uczestnikami Finałów NBA w 2026 roku, z kluczowymi graczami takimi jak Victor Wembanyama i De'Aaron Fox, brak jest aktualnych raportów dotyczących kontuzji dla hipotetycznego meczu w dniu 2026-06-17. Bez potwierdzonych informacji o statusie zawodników (Out, Questionable, GTD) na dzisiejszy dzień, zatwierdzenie typu jest ryzykowne ze względu na niedostępność kluczowych danych meczowych.
+    *   Brak informacji o bezpośrednich kontuzjach na dzień dzisiejszy (17 czerwca 2026) dla tego konkretnego meczu. Ocena typu bez aktualnych raportów jest niemożliwa. Należy pamiętać, że mecz Knicks @ Spurs jest nieprawdopodobny w środku czerwca, po zakończeniu Finałów NBA 2026.
