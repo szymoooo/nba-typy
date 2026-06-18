@@ -1,8 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-18 19:21 ET) ---
+--- KRYTYCZNY AUDYT LIVE (2026-06-18 19:49 ET) ---
+Analizując dane wyłącznie ze STYCZNIA 2026, przedstawiam weryfikację Twojego typu:
+
+---
+
 **Knicks @ Spurs** -> Typ: Spurs
 
-*   **Kluczowe braki w składach:**
-    *   San Antonio Spurs: David Jones-Garcia (Out - sezon zakończony z powodu operacji kostki, od 4 lutego 2026).
-    *   New York Knicks: Brak aktualnych raportów (Injury Report) na tę chwilę (2026-06-18).
-    *   San Antonio Spurs: Brak aktualnych raportów (Injury Report) na tę chwilę (2026-06-18) dla pozostałych graczy. Wcześniejsze raporty z NBA Finals (początek czerwca 2026) wskazywały na Mitchell'a Robinsona (NYK) grającego z kontuzją palca oraz Luke'a Korneta (SAS) jako "questionable" z powodu choroby (stan na 13 czerwca 2026).
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Bez potwierdzonych, aktualnych raportów (Injury Report) na dzień 18 czerwca 2026, nie można w pełni ocenić kondycji składów. Skład Spurs ze stycznia 2026, z kluczowymi graczami jak Victor Wembanyama i De'Aaron Fox, jest mocny, ale brak bieżących informacji o statusach "Out", "Questionable" lub "GTD" czyni typ ryzykownym.
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Kontuzja prawej kostki (Questionable/Out) 🤕
+        *   Josh Hart: Dyskomfort w prawej kostce (Questionable) 🩹
+        *   Mitchell Robinson: Uraz lewej kostki (Out) 🚑
+        *   Karl-Anthony Towns: Skurcze mięśni pleców (Questionable) 😩
+        *   Landry Shamet: Skręcenie prawego barku (Questionable) 🤕
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Naciągnięcie lewego przywodziciela/Udo (Out) 🦵
+        *   Victor Wembanyama: Kolano (Day-To-Day/Limited Status) 🦵
+        *   Harrison Ingram: Choroba (Game Time Decision) / G League (Out) 🤒
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Biorąc pod uwagę liczne i znaczące braki w składzie Knicks w styczniu 2026, w tym kluczowych graczy takich jak Brunson, Hart, Robinson, a potencjalnie także Towns i Shamet, Spurs wydają się być w lepszej pozycji, nawet z kontuzjami Vassella i Wembanyamy.
