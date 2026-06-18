@@ -1,13 +1,21 @@
---- AUDYT PLK LIVE (2026-06-18 19:18 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-17):
+--- AUDYT PLK LIVE (2026-06-18 21:19 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+
+Analiza meczu finałowego (Mecz 5 finału) z 2026-06-17:
 
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak informacji o kluczowych brakach w składzie koszykarskim na dzień 2026-06-17. Pomimo wcześniejszych "walk z urazami" (stan na 2026-06-06), kluczowi gracze jak Chavaughn Lewis i Filip Matczak byli aktywni i grali w serii finałowej. Chavaughn Lewis, mimo dolegliwości z początku maja 2026, był bohaterem pierwszego meczu finałowego (08.06.2026).
-    *   **Legia Warszawa:** Race'a Thompson zmagał się z problemami zdrowotnymi i był niedostępny na pierwszy mecz finałowy (08.06.2026). Prawdopodobnie jego nieobecność utrzymywała się także 17.06.2026.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. W lutym 2026 Jakub Szumert zmagał się z problemami z plecami, co wykluczyło go z Pucharu Polski. Jednakże, statystyki z sezonu 2025/2026 wskazują, że Szumert rozegrał 38 meczów ze średnią 25.3 minut na mecz, co sugeruje jego powrót do pełnej sprawności na najważniejsze spotkania sezonu. Na dzień 17.06.2026 brak potwierdzonych informacji o jego niedostępności w finale.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Brak potwierdzonych informacji o kontuzjach czy zawieszeniach dotyczących sekcji koszykarskiej Legii Warszawa na dzień 17.06.2026.
 
-2.  **Aktualna forma top scorerów:**
-    *   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis był najlepszym strzelcem zespołu w sezonie 2025/2026 (średnia 18.5 pkt/mecz przed majem 2026) i trzecim strzelcem całej ligi. Był kluczową postacią w finale, trafiając zwycięską trójkę w pierwszym meczu serii finałowej przeciwko Legii.
-    *   **Legia Warszawa:** Andrzej Pluta Jr. został MVP sezonu 2025/2026 PLK i był liderem zespołu, notując średnio 13.6 pkt, 6.3 asysty oraz 2.2 zbiórki w 39 meczach ligowych (stan na 15.06.2026). Miał za sobą świetny sezon, mimo zmagania się wcześniej z urazem przeciążeniowym. Brak danych z API dla tego zespołu w serii.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 16.5 Pkt/mecz
+        *   Jakub Szumert: 13.4 Pkt/mecz
+        *   Andrzej Mazurczak: 12.2 Pkt/mecz (lub 11.8 Pkt/mecz)
+    *   **Legia Warszawa:**
+        *   Christian Vital: 18.0 Pkt/mecz
+        *   Michał Kolenda: 13.1 Pkt/mecz
+        *   Aric Holman: 12.4 Pkt/mecz
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa, jako obrońca tytułu i czołowa drużyna sezonu, przystępowała do serii finałowej w roli faworyta. Mimo braku Race'a Thompsona, Legia posiada głębię składu. ORLEN Zastal, choć radzi sobie dobrze w finałach i ma w formie lidera Lewisa, mierzy się z faworytem. Tip na Legię jest uzasadniony.
+    *   Legia Warszawa grała finałowy mecz nr 5 u siebie 17 czerwca 2026, który zakończył się zwycięstwem Legii, stawiając ich o krok od złota. Wynik tego meczu (17.06.2026, Finał, mecz 5: Co za powrót! Legia o krok od złota) silnie potwierdza dobrą formę zespołu Legii w kluczowym momencie sezonu. Brak poważnych osłabień w obu składach, a także przewaga własnego parkietu i dynamika serii finałowej przemawiają za typem na Legię.
