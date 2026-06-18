@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-06-18T11:50:45.426097",
-  "date": "2026-06-18",
+  "generated_at": "2026-06-18T23:23:43.882987",
+  "date": "2026-06-19",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "FC Bayern München @ Alba Berlin",
-      "phase": "Playoff Finals",
-      "ai_pick": "FC Bayern München",
+      "matchup": "Bayern @ Alba Berlin",
+      "ai_pick": null,
       "formula_pick": "Alba Berlin",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "FC Bayern München prowadzi w serii finałowej BBL 2-1 i ma szansę na zdobycie mistrzostwa w meczu numer 4. Kluczowi gracze Bayernu, Neno Dimitrijevic i Andreas Obst, są w znakomitej formie strzeleckiej, co było widoczne w poprzednich meczach. Mimo że Alba Berlin gra u siebie i będzie walczyć o utrzymanie się w serii, ogólna forma i przewaga w serii faworyzują Bayern.",
-      "key_factors": [
-        "Stan serii (2-1 dla FC Bayern München)",
-        "Forma strzelecka liderów FC Bayern München (Neno Dimitrijevic, Andreas Obst)",
-        "Presja \"mecz o wszystko\" na Alba Berlin grającej u siebie"
-      ],
-      "injury_notes": "Dla Alba Berlin, Alex O'Connell jest wykluczony. Moses Wood miał kontuzję nadgarstka na początku czerwca, jego status na dziś nie jest jasno określony jako powrót. Martin Hermannsson, mimo wcześniejszych kontuzji, gra w finałach. Dla FC Bayern München, Stefan Jovic, Kamar Baldwin i Rokas Jokubaitis są niedostępni z powodu kontuzji."
+      "note": "AI fallback"
     }
   ]
 }
