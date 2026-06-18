@@ -1,15 +1,13 @@
---- AUDYT PLK LIVE (2026-06-18 13:49 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-06-18 19:18 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-17):
 
 1.  **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim. Wcześniejsze wzmianki o "walce z urazami" i powrocie Phila Fayne'a (stan na 2026-06-06) nie wskazują na konkretne, bieżące kontuzje ani zawieszenia kluczowych zawodników przed meczem 17.06.2026.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach na Transfermarkt dotyczą sekcji piłkarskiej i są nieistotne.
+    *   **ORLEN Zastal Zielona Góra:** Brak informacji o kluczowych brakach w składzie koszykarskim na dzień 2026-06-17. Pomimo wcześniejszych "walk z urazami" (stan na 2026-06-06), kluczowi gracze jak Chavaughn Lewis i Filip Matczak byli aktywni i grali w serii finałowej. Chavaughn Lewis, mimo dolegliwości z początku maja 2026, był bohaterem pierwszego meczu finałowego (08.06.2026).
+    *   **Legia Warszawa:** Race'a Thompson zmagał się z problemami zdrowotnymi i był niedostępny na pierwszy mecz finałowy (08.06.2026). Prawdopodobnie jego nieobecność utrzymywała się także 17.06.2026.
 
 2.  **Aktualna forma top scorerów:**
-    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu.
-    *   Legia Warszawa: Brak danych z API dla tego zespołu.
+    *   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis był najlepszym strzelcem zespołu w sezonie 2025/2026 (średnia 18.5 pkt/mecz przed majem 2026) i trzecim strzelcem całej ligi. Był kluczową postacią w finale, trafiając zwycięską trójkę w pierwszym meczu serii finałowej przeciwko Legii.
+    *   **Legia Warszawa:** Andrzej Pluta Jr. został MVP sezonu 2025/2026 PLK i był liderem zespołu, notując średnio 13.6 pkt, 6.3 asysty oraz 2.2 zbiórki w 39 meczach ligowych (stan na 15.06.2026). Miał za sobą świetny sezon, mimo zmagania się wcześniej z urazem przeciążeniowym. Brak danych z API dla tego zespołu w serii.
 
-3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY]
-        *   Legia Warszawa to obrońca tytułu mistrzowskiego i najlepsza drużyna sezonu zasadniczego 2025/2026.
-        *   W dniu 17.06.2026 (dzień meczu, którego dotyczy typ), Legia Warszawa wygrała mecz numer 5 finałów ORLEN Basket Ligi z ORLEN Zastalem Zielona Góra wynikiem 84:80, obejmując prowadzenie w serii 3:2. Wynik ten potwierdza słuszność typu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa, jako obrońca tytułu i czołowa drużyna sezonu, przystępowała do serii finałowej w roli faworyta. Mimo braku Race'a Thompsona, Legia posiada głębię składu. ORLEN Zastal, choć radzi sobie dobrze w finałach i ma w formie lidera Lewisa, mierzy się z faworytem. Tip na Legię jest uzasadniony.

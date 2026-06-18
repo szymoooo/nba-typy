@@ -1,8 +1,22 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-18 07:49 ET) ---
-Analiza meczu na dzień 2026-06-18:
+--- KRYTYCZNY AUDYT LIVE (2026-06-18 13:17 ET) ---
+Brak aktualnych raportów (Injury Report) na tę chwilę.
 
-**Knicks @ Spurs**
+---
 
-*   **Status meczu:** Brak meczu zaplanowanego na 18 czerwca 2026 roku. Finały NBA 2026 pomiędzy New York Knicks a San Antonio Spurs zakończyły się zwycięstwem Knicks przed tą datą.
-*   **Kluczowe braki w składach (na dzień 2026-06-18):** Brak aktualnych raportów (Injury Report) na tę chwilę, ponieważ nie ma zaplanowanych meczów. Ostatnie dostępne raporty o kontuzjach dotyczyły Finałów NBA 2026, które zakończyły się wcześniej. Mitchell Robinson (Knicks) grał w Finałach pomimo kontuzji palca. Luke Kornet (Spurs) był wymieniany jako wątpliwy z powodu choroby na Game 5 Finałów, ale oczekiwano, że zagra.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak meczu do oceny.
+**Knicks @ Spurs -> Typ: Spurs**
+
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Out/Questionable (kontuzja prawej kostki).
+        *   Josh Hart: Out/Questionable (ból prawej kostki/kostka).
+        *   Landry Shamet: Out (bark).
+        *   Guerschon Yabusele: Questionable (mięsień czworogłowy).
+        *   Karl-Anthony Towns: Uraz pleców.
+        *   Mitchell Robinson: Zarządzanie kontuzją.
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (udo). Status niepewny ("up in the air").
+        *   Victor Wembanyama: Day-To-Day (kolano). Ograniczony status.
+        *   Jeremy Sochan: Wykluczony (kontuzja).
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   W styczniu 2026 roku New York Knicks zmagali się z poważnymi brakami w składzie, zwłaszcza dotyczącymi kluczowych graczy ofensywnych, takich jak Jalen Brunson i Josh Hart, którzy byli często wykluczeni lub z niepewnym statusem. San Antonio Spurs również miało kontuzje, w tym Devin Vassell i Victor Wembanyama, jednak Brunson i Hart mieli bardziej konsekwentnie status "Out" lub "Questionable" w tym okresie, co znacząco osłabiało Knicks. Przy tak osłabionym składzie Knicks, typ na Spurs jest uzasadniony.
