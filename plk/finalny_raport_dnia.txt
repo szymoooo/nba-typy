@@ -1,24 +1,11 @@
---- AUDYT PLK LIVE (2026-06-17 23:25 CET) ---
-**MECZ: ORLEN Zastal Zielona Góra @ Legia Warszawa**
+--- AUDYT PLK LIVE (2026-06-18 03:45 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-17):
 
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:**
-        *   Race Thompson zmaga się z problemami zdrowotnymi i zabrakło go w składzie na pierwszy mecz finałowy 8 czerwca 2026 roku. Brak nowszych informacji potwierdzających jego powrót na dzień 17 czerwca 2026 r..
-        *   Brak potwierdzonych informacji o kontuzjach innych koszykarzy Legii Warszawa na dzień 2026-06-17. Informacje o kontuzjach Michała Kolendy i Matthiasa Tassa w źródle są niejednoznaczne i prawdopodobnie dotyczą sekcji piłkarskiej lub są ogólnikowe, a dalsze źródła sugerują jego obecność w kontekście koszykarskim w okolicy 13.06.2026. Z uwagi na brak jednoznacznego potwierdzenia kontuzji koszykarza Kolendy lub Tassa na dzień meczu, koncentrujemy się na Thompsone.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Brak istotnych braków w składzie koszykarskim. Conley Garrison oraz Andrzej Mazurczak byli kluczowi w ostatnim meczu serii, co wskazuje na ich pełną dyspozycję.
+1.  **Kluczowe braki w składach**:
+    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim. Wcześniejsze kontuzje (m.in. Andrzeja Pluty, Jayvona Gravesa, Matthiasa Tassa, Michała Kolendy) wydają się być zażegnane, gdyż wymienieni zawodnicy brali udział w meczu numer 5 finałów ORLEN Basket Ligi rozegranym 17 czerwca 2026 roku.
+    *   **ORLEN Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim. Filip Matczak i Andrzej Mazurczak wystąpili w masce ochronnej po urazach nosa, co miało miejsce w meczu poprzedzającym, co nie wykluczyło ich z udziału w kolejnych spotkaniach finałowych. Inni kluczowi zawodnicy, jak Chavaughn Lewis, również powrócili do gry po wcześniejszych urazach i wystąpili w meczu nr 5.
 
-2.  **Aktualna forma top scorerów (w tej serii play-off):**
-    *   **Legia Warszawa:**
-        *   Carl Ponsar (PF): 14.4 ppg, 1.8 apg, 6.8 rpg, FG 51.0%, 3P 50.0%, 3.0 fauli/mecz.
-        *   Dominic Brewton III (PG/SG): 12.6 ppg, 2.2 apg, 4.0 rpg, FG 42.3%, 3P 20.0%, 2.0 fauli/mecz.
-        *   Andrzej Pluta (PG/SG): 12.6 ppg, 5.6 apg, 1.8 rpg, FG 40.4%, 3P 36.4%, 2.0 fauli/mecz.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis (SG): 13.4 ppg, 2.0 apg, 2.4 rpg, FG 45.1%, 3P 26.7%, 1.8 fauli/mecz.
-        *   Jakub Szumert (PF): 12.8 ppg, 1.4 apg, 5.2 rpg, FG 42.0%, 3P 33.3%, 2.4 fauli/mecz.
-        *   Jayvon Maughmer (SG/SF): 11.4 ppg, 2.0 apg, 4.4 rpg, FG 52.3%, 3P 50.0%, 1.8 fauli/mecz.
-    *   W meczu 4. serii, Conley Garrison i Andrzej Mazurczak z Zastalu zagrali bardzo dobre spotkania, co było kluczowe dla zwycięstwa Zastalu, pokazując dobrą formę tych liderów.
+2.  **Aktualna forma top scorerów**: Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY]
-    *   Legia Warszawa gra u siebie w decydującym, piątym meczu finału, prowadząc w serii 3-2. Przewaga własnego parkietu jest istotnym czynnikiem w fazie play-off. Chociaż Race Thompson prawdopodobnie pozostaje kontuzjowany dla Legii, Zastal nie zgłasza żadnych kluczowych braków w składzie. Legia wygrała poprzedni mecz 5. serii 84:80. Typ na Legię Warszawa jest uzasadniony.
+3.  **Werdykt**: ✅ ZATWIERDZONY
+    *   Mecz analizowany to piąte spotkanie finałów ORLEN Basket Ligi, rozegrane 17 czerwca 2026 roku, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 84:80, zbliżając się do mistrzostwa. Typ na Legię Warszawa był zgodny z wynikiem meczu.
