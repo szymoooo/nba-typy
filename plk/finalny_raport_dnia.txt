@@ -1,11 +1,14 @@
---- AUDYT PLK LIVE (2026-06-18 03:45 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-17):
+--- AUDYT PLK LIVE (2026-06-18 04:54 CET) ---
+✅ Analiza meczu PLK (2026-06-17):
 
-1.  **Kluczowe braki w składach**:
-    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim. Wcześniejsze kontuzje (m.in. Andrzeja Pluty, Jayvona Gravesa, Matthiasa Tassa, Michała Kolendy) wydają się być zażegnane, gdyż wymienieni zawodnicy brali udział w meczu numer 5 finałów ORLEN Basket Ligi rozegranym 17 czerwca 2026 roku.
-    *   **ORLEN Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim. Filip Matczak i Andrzej Mazurczak wystąpili w masce ochronnej po urazach nosa, co miało miejsce w meczu poprzedzającym, co nie wykluczyło ich z udziału w kolejnych spotkaniach finałowych. Inni kluczowi zawodnicy, jak Chavaughn Lewis, również powrócili do gry po wcześniejszych urazach i wystąpili w meczu nr 5.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-2.  **Aktualna forma top scorerów**: Brak danych z API dla tego zespołu.
+1.  **Kluczowe braki w składach:**
+    *   🟢 **ORLEN Zastal Zielona Góra:** Filip Matczak i Andrzej Mazurczak grali w poprzednich meczach finałowych (przed 17.06.2026) z maskami z powodu urazów nosa, co wskazywało na grę z niedyspozycją. Brak informacji o innych istotnych brakach w składzie koszykarskim na mecz 2026-06-17.
+    *   🟢 **Legia Warszawa:** Ojārs Siliņš był poza rotacją meczową na mecz 2026-06-17, a w jego miejsce do składu wrócił Matthias Tass. Race Thompson wrócił do gry po kontuzji w drugim meczu serii (10.06.2026).
 
-3.  **Werdykt**: ✅ ZATWIERDZONY
-    *   Mecz analizowany to piąte spotkanie finałów ORLEN Basket Ligi, rozegrane 17 czerwca 2026 roku, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 84:80, zbliżając się do mistrzostwa. Typ na Legię Warszawa był zgodny z wynikiem meczu.
+2.  **Aktualna forma top scorerów:**
+    *   🟢 **ORLEN Zastal Zielona Góra:** W 4. meczu serii (15.06.2026), Andrzej Mazurczak zdobył 21 punktów, a Conley Garrison 16 punktów, obaj byli kluczowymi postaciami zespołu. Garrison, po słabszych występach we wcześniejszych meczach, pokazał znaczącą poprawę formy w 4. meczu.
+    *   🟢 **Legia Warszawa:** W 5. meczu (17.06.2026), pomimo zwycięstwa, Andrzej Pluta miał słabą skuteczność z dystansu (tylko jedno trafienie na siedem prób za 3 punkty). Największe zagrożenie ofensywne dla Zastalu stanowili Michał Kolenda i Shane Hunter. W 2. meczu serii (10.06.2026) Andrzej Pluta był w znakomitej formie, zdobywając 27 punktów i 9 asyst.
+
+3.  **Werdykt:** ✅ **ZATWIERDZONY** - Legia Warszawa wygrała mecz 84:80, obejmując prowadzenie 3-2 w serii finałowej.
