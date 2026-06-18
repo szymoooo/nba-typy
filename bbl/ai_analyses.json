@@ -1,24 +1,23 @@
 {
-  "generated_at": "2026-06-17T08:35:46.960099",
-  "date": "2026-06-17",
+  "generated_at": "2026-06-18T11:50:45.426097",
+  "date": "2026-06-18",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Bayern @ Alba Berlin",
-      "phase": "?",
-      "ai_pick": "Bayern",
+      "matchup": "FC Bayern München @ Alba Berlin",
+      "phase": "Playoff Finals",
+      "ai_pick": "FC Bayern München",
       "formula_pick": "Alba Berlin",
       "agreement": false,
-      "confidence": 7,
-      "reasoning": "Bayern zakończył sezon zasadniczy jako lider tabeli BBL i wykazał się silną formą w play-offach, pokonując rywala w półfinale wynikiem 3-0. Mimo że Alba Berlin ma przewagę własnego parkietu w tym kluczowym meczu numer 3 finałów (seria 1-1), ogólna głębia składu Bayernu i obecność MVP sezonu, Andreasa Obsta, dają im przewagę.",
+      "confidence": 8,
+      "reasoning": "FC Bayern München prowadzi w serii finałowej BBL 2-1 i ma szansę na zdobycie mistrzostwa w meczu numer 4. Kluczowi gracze Bayernu, Neno Dimitrijevic i Andreas Obst, są w znakomitej formie strzeleckiej, co było widoczne w poprzednich meczach. Mimo że Alba Berlin gra u siebie i będzie walczyć o utrzymanie się w serii, ogólna forma i przewaga w serii faworyzują Bayern.",
       "key_factors": [
-        "Silna forma Bayernu w play-offach (4 zwycięstwa i 1 porażka w ostatnich 5 meczach, w tym półfinałowy sweep).",
-        "Andreas Obst, MVP sezonu 2025/26, oraz głębia składu Bayernu.",
-        "Alba Berlin jest gospodarzem meczu numer 3 w serii finałowej, która jest obecnie remisowa (1-1).",
-        "Bayern zajął 1. miejsce w sezonie zasadniczym, Alba Berlin 2. miejsce."
+        "Stan serii (2-1 dla FC Bayern München)",
+        "Forma strzelecka liderów FC Bayern München (Neno Dimitrijevic, Andreas Obst)",
+        "Presja \"mecz o wszystko\" na Alba Berlin grającej u siebie"
       ],
-      "injury_notes": "brak istotnych braków"
+      "injury_notes": "Dla Alba Berlin, Alex O'Connell jest wykluczony. Moses Wood miał kontuzję nadgarstka na początku czerwca, jego status na dziś nie jest jasno określony jako powrót. Martin Hermannsson, mimo wcześniejszych kontuzji, gra w finałach. Dla FC Bayern München, Stefan Jovic, Kamar Baldwin i Rokas Jokubaitis są niedostępni z powodu kontuzji."
     }
   ]
 }

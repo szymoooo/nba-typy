@@ -1,28 +1,15 @@
---- AUDYT PLK LIVE (2026-06-18 13:38 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-17)
+--- AUDYT PLK LIVE (2026-06-18 13:49 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
-Dzisiejsza data to 2026-06-18. Mecz odbył się wczoraj, 17 czerwca 2026 roku. Jest to finałowa seria ORLEN Basket Ligi. Legia Warszawa wygrała mecz numer 5, przejmując prowadzenie w serii 3:2. Mecz numer 6 zaplanowano na 19 czerwca 2026.
+1.  **Kluczowe braki w składach:**
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim. Wcześniejsze wzmianki o "walce z urazami" i powrocie Phila Fayne'a (stan na 2026-06-06) nie wskazują na konkretne, bieżące kontuzje ani zawieszenia kluczowych zawodników przed meczem 17.06.2026.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach na Transfermarkt dotyczą sekcji piłkarskiej i są nieistotne.
 
-**1. Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii) z 17.06.2026:**
+2.  **Aktualna forma top scorerów:**
+    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu.
+    *   Legia Warszawa: Brak danych z API dla tego zespołu.
 
-*   **ORLEN Zastal Zielona Góra:**
-    *   Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 17.06.2026. Skład na sezon 2025/2026 obejmuje m.in. Andrzeja Mazurczaka, Filipa Matczaka, Marcina Woronieckiego, Michała Sitnika, Jayvona Maughmera, Patricka Cartiera, Jakuba Szumerta, Krzysztofa Sulimę, Phila Fayne'a, Conleya Garrisona, Chavaughna Lewisa, Dwighta Wilsona III.
-    *   W meczu numer 5, który odbył się 17.06.2026, Zastal prowadził przez większą część spotkania, co sugeruje, że kluczowi zawodnicy byli dostępni i w grze.
-*   **Legia Warszawa:**
-    *   Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 17.06.2026. Skład na sezon 2025/2026 obejmuje m.in. Andrzeja Plutę, Bena Shungu, Wojciecha Tomaszewskiego, Jayvona Gravesa, Michała Kolendę, Ojārsa Siliņša, Race'a Thompsona, Matthiasa Tassa, Carla Ponsara, D.J. Brewtona.
-    *   Wcześniejsze doniesienia z grudnia 2025 r. mówiły o kontuzjach Michała Kolendy, Matthiasa Tassa i Ojarsa Silinsa, ale brak jest aktualnych informacji o ich niedostępności na czerwiec 2026 r., zwłaszcza w kontekście finałów. W meczu 5 finałów (17.06.2026) Race Thompson i Carl Ponsar byli aktywni w grze i zdobywali punkty.
-
-**2. Aktualna forma top scorerów (seria finałowa 2025/2026):**
-
-*   **ORLEN Zastal Zielona Góra:**
-    *   W meczu numer 4 (15.06.2026), wygranym przez Zastal, najlepszym strzelcem był Andrzej Mazurczak z 21 punktami i 3 asystami. Conley Garrison również miał kluczową rolę.
-    *   W meczu numer 5 (17.06.2026), Jayvon Maughmer (dwie trójki) i Conley Garrison (trójka) przyczyniali się do prowadzenia Zastalu. Chavaughn Lewis był najlepszym strzelcem Zastalu w sezonie zasadniczym ze średnią 16.3 pkt/mecz. Jakub Szumert ze średnią 13.2 pkt/mecz i Andrzej Mazurczak z 12 pkt/mecz również byli kluczowymi strzelcami.
-*   **Legia Warszawa:**
-    *   W meczu numer 5 (17.06.2026), Race Thompson kilkoma skutecznymi zagraniami zmniejszył straty, a Andrzej Pluta i Carl Ponsar próbowali reagować na prowadzenie Zastalu. Carl Ponsar był najlepiej punktującym zawodnikiem Legii w meczu numer 4 z 17 punktami i 4 zbiórkami.
-    *   W sezonie zasadniczym 2025/2026, Dominic Brewton III był najlepszym strzelcem Legii ze średnią 15.1 pkt/mecz. Następni byli Andrzej Pluta (13.6 pkt/mecz) i Jayvon Graves (13.3 pkt/mecz).
-
-**3. Werdykt:**
-
-[✅ ZATWIERDZONY]
-
-**Uzasadnienie:** Mecz, którego dotyczy typ, już się odbył (17.06.2026). Legia Warszawa wygrała spotkanie z wynikiem 84:80, co pozwoliło im objąć prowadzenie w serii finałowej 3:2. Typ na Legię Warszawa był trafny. Brak istotnych, potwierdzonych kontuzji kluczowych zawodników po obu stronach na dzień meczu. Forma top scorerów Legii, w tym Race'a Thompsona i Carla Ponsara, była wystarczająca, aby odwrócić losy spotkania, pomimo początkowej dominacji Zastalu.
+3.  **Werdykt:**
+    *   [✅ ZATWIERDZONY]
+        *   Legia Warszawa to obrońca tytułu mistrzowskiego i najlepsza drużyna sezonu zasadniczego 2025/2026.
+        *   W dniu 17.06.2026 (dzień meczu, którego dotyczy typ), Legia Warszawa wygrała mecz numer 5 finałów ORLEN Basket Ligi z ORLEN Zastalem Zielona Góra wynikiem 84:80, obejmując prowadzenie w serii 3:2. Wynik ten potwierdza słuszność typu.
