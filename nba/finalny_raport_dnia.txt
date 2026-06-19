@@ -1,21 +1,37 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-19 17:37 ET) ---
-Oto analiza Twojego typu na podstawie raportów z kontuzjami ze STYCZNIA 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-06-19 19:03 ET) ---
+Analiza meczu na podstawie danych z dnia 2026-06-19:
 
-**Knicks @ Spurs**
-Typ: Spurs
+**Knicks @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:**
-        *   Jalen Brunson (rozgrywający) – Prawdopodobnie poza grą lub "Questionable" z powodu skręcenia prawej kostki 🤕. Jego nieobecność to znaczący cios dla ofensywy Knicks.
-        *   Josh Hart (rzucający obrońca/niski skrzydłowy) – "Questionable" z powodu dyskomfortu w prawej kostce.
-        *   Mitchell Robinson (center) – Poza grą z powodu kontuzji lewej kostki lub zarządzania urazem 🤕. Wpływa to na zdolność drużyny do zbierania piłek i obrony obręczy.
-        *   Miles McBride (rozgrywający) – Poza grą (stan na 28 stycznia) 🤕.
-        *   Trey Jemison III (center) – Poza grą (przydział do G League) 🤕.
-    *   **San Antonio Spurs:**
-        *   Devin Vassell (rzucający obrońca/niski skrzydłowy) – Poza grą z powodu kontuzji uda lub naciągnięcia przywodziciela.
-        *   Victor Wembanyama (center) – "Day-to-day" lub z ograniczonym statusem z powodu kontuzji kolana ⚠️.
-        *   Jeremy Sochan (silny skrzydłowy) – Kontuzjowany (stan na 31 stycznia) 🤕.
-        *   Harrison Ingram (niski skrzydłowy) – "Game Time Decision" z powodu choroby (stan na 8 stycznia) ⚠️.
+Zgodnie z harmonogramem NBA Playoffs 2026, 19 czerwca 2026 r. to potencjalna data Rozstrzygającego Game 7 Finałów NBA (jeśli byłby konieczny). Jeden z raportów z dnia 19.06.2026 wskazuje nawet na bezpośrednie zestawienie: "3 New York Knicks vs 2 San Antonio Spurs. Game 7 · NBA Finals. 8:30 PM EDT (5:30 PM) Jun 19, 2026 · Frost Bank Center San Antonio, TX ABC.".
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    Zważywszy na znaczące braki w składzie Knicks, zwłaszcza brak J. Brunsona, który jest kluczowy dla ich ofensywy, oraz M. Robinsona, który jest ważny dla obrony i zbiórek, Twój typ na Spurs wydaje się uzasadniony. Mimo własnych kontuzji Spurs, osłabienie Knicks na kluczowych pozycjach rozgrywających i centra może przesądzić o wyniku.
+Jednakże, inny wpis z 19 czerwca 2026 r. na forum RealGM głosi: "Congratulations 2026 NBA Champion New York Knicks!", co sugeruje, że Finały NBA mogły już zostać rozstrzygnięte zwycięstwem Knicks, a tym samym Game 7 by się nie odbył.
+
+Biorąc pod uwagę niejednoznaczne informacje dotyczące rozegrania meczu, poniższa analiza opiera się na scenariuszu, w którym mecz Game 7 Finałów NBA pomiędzy Knicks a Spurs faktycznie się odbywa:
+
+---
+
+**Kluczowe braki w składach:**
+
+*   **New York Knicks:**
+    *   **Mitchell Robinson** (środkowy) 🩹: Gra z urazem palca prawej ręki (złamanie piątej kości śródręcza). Przeszedł operację przed serią Finałów, ale występował w meczach ze stabilizatorem. Jego dostępność na mecz 4 Finałów była potwierdzona.
+    *   **OG Anunoby** (skrzydłowy) 🆗: Miał wcześniej problemy z mięśniem dwugłowym uda, ale wrócił do gry w Finałach Konferencji Wschodniej i wydawał się w pełni dostępny w trakcie Finałów NBA.
+*   **San Antonio Spurs:**
+    *   Brak aktualnych raportów (Injury Report) z 19.06.2026, które wskazywałyby na status 'Out', 'Questionable' lub 'GTD' dla kluczowych graczy.
+    *   Wcześniejsze raporty z Finałów (do 13.06.2026) wskazywały, że Spurs nie mieli żadnych graczy na liście kontuzjowanych.
+    *   **De'Aaron Fox** (obrońca) 🆗: Miał uraz stawu skokowego w Finałach Konferencji Zachodniej, ale wrócił do składu i grał w Finałach NBA.
+    *   **Dylan Harper** (obrońca) 🆗: Doznał urazu przywodziciela w Finałach Konferencji Zachodniej, ale również był dostępny w Finałach NBA.
+    *   **Luke Kornet** (środkowy) 🆗: Był kwestionowany z powodu choroby przed meczem 5 Finałów (13.06.2026), ale został dopuszczony do gry.
+    *   **Victor Wembanyama** (środkowy) ⚠️: Nie jest kontuzjowany, ale zebrał 3 punkty za niesportowe faule (Flagrant Fouls) w trakcie play-offów. Jeden kolejny faul niesportowy (typu 1 lub 2) skutkowałby automatycznym zawieszeniem na jeden mecz, co stanowi potencjalne ryzyko.
+
+---
+
+**Werdykt:**
+
+*   [⚠️ **RYZYKOWNY**]
+
+Istnieją sprzeczne informacje z dnia 19.06.2026. Chociaż harmonogram wskazuje na możliwość rozegrania Game 7 Finałów NBA, to jednocześnie pojawia się informacja o mistrzostwie Knicks ("Congratulations 2026 NBA Champion New York Knicks!"). Jeśli Knicks faktycznie zdobyli już tytuł, to mecz się nie odbędzie, co czyni typ niemożliwym do realizacji.
+
+Przy założeniu, że mecz Game 7 Finałów NBA jednak się odbywa, brak aktualnych raportów (Injury Report) na dziś (19.06.2026) dla konkretnie tego meczu, które wskazywałyby na status 'Out', 'Questionable' czy 'GTD' dla kluczowych graczy obu drużyn. Niemniej jednak, wcześniejsze raporty z Finałów wskazują, że Mitchell Robinson (Knicks) gra z urazem ręki, natomiast Spurs wydają się być w pełni sił, z Victor'em Wembanyamą, De'Aaronem Foxem i Dylanem Harperem dostępnymi. Ryzykiem dla Spurs jest możliwość zawieszenia Wembanyamy za niesportowe faule.
+
+Biorąc pod uwagę potencjalne zwycięstwo Knicks w serii, typ na Spurs jest bardzo ryzykowny.
