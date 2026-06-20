@@ -1,13 +1,27 @@
---- AUDYT PLK LIVE (2026-06-20 04:45 CET) ---
-Analiza meczu PLK na 2026-06-19: Legia Warszawa @ ORLEN Zastal Zielona Góra
+--- AUDYT PLK LIVE (2026-06-20 08:58 CET) ---
+# PLK typy na 2026-06-19
+Legia Warszawa @ ORLEN Zastal Zielona Góra -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Race Thompson zmagał się z problemami zdrowotnymi przed serią finałową (stan na 8 czerwca 2026), a nowsze informacje nie wskazują na jego powrót ani inne istotne braki.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Klub walczył z urazami, a Phil Fayne wracał do składu przed finałami (stan na 6 czerwca 2026). Nie ma jednak potwierdzonych informacji o poważnych kontuzjach wykluczających kluczowych graczy przed meczem 19 czerwca. Gracze tacy jak Conley Garrison i Chavaughn Lewis byli zdolni do decydujących zagrań w serii finałowej.
+---
 
-2.  **Aktualna forma top scorerów:**
-    *   🔥 **Legia Warszawa:** Liderami strzelców w sezonie 2025/2026 byli Dominic Brewton III (14.7 Pkt/mecz), Andrzej Pluta (13.5 Pkt/mecz) i Jayvon Graves (13.1 Pkt/mecz). Andrzej Pluta zanotował 27 punktów w jednym z meczów finałowych, a Dominic Brewton również był kluczowy w ofensywie.
-    *   🔥 **ORLEN Zastal Zielona Góra:** Najlepsi strzelcy w sezonie 2025/2026 to Chavaughn Lewis (16 Pkt/mecz), Jakub Szumert (13.4 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Chavaughn Lewis był bohaterem pierwszego meczu finałów, a Conley Garrison trafił zwycięską trójkę w szóstym meczu, co świadczy o dobrej formie kluczowych graczy Zastalu.
+### Analiza meczu: Legia Warszawa @ ORLEN Zastal Zielona Góra (19.06.2026)
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mecz odbył się w Zielonej Górze (u siebie dla Zastalu) i był szóstym spotkaniem finałowej serii ORLEN Basket Ligi. Zastal Zielona Góra wygrał ten mecz 76:74 po trójce Conley'a Garrisona w ostatniej sekundzie, wyrównując stan rywalizacji na 3-3. Legia Warszawa, choć była obrońcą tytułu i faworytem, grała na wyjeździe przeciwko zmotywowanemu "rewelacyjnemu finaliście", który udowodnił, że potrafi zwyciężać w decydujących momentach. Typ na Legię w tak zaciętym, wyjazdowym meczu finałowym jest ryzykowny.
+**1. Kluczowe braki w składach:**
+
+*   **ORLEN Zastal Zielona Góra:**
+    *   **Andy Mazurczak:** Coraz bliżej powrotu do pełnych zajęć po urazie nosa; otrzymał specjalną maskę ochronną. Był gotowy na poniedziałkowe spotkanie (6 czerwca 2026), co oznacza, że powinien być dostępny na mecz 19 czerwca.
+    *   **Dwight Wilson:** Odczuwał skutki urazu kostki, ale pomimo bólu normalnie trenuje i miał być gotowy do gry na początek finałów (początek czerwca).
+    *   **Chavaughn Lewis:** W ostatnim czasie grywał mniej i opuścił dwa mecze serii z Kingiem przed finałami.
+    *   **Filip Matczak:** Był gotowy na mecz 13 czerwca, pomimo wcześniejszych obaw o uraz.
+*   **Legia Warszawa:**
+    *   Brak istotnych, aktualnych informacji o kontuzjach kluczowych koszykarzy z datą 20.06.2026. Grudzień 2025 przynosił informacje o kontuzjach Ojarsa Silinsa, Matthiasa Tassa i Michała Kolendy, które wymagały dłuższej przerwy, jednak składy na sezon 2025/2026 z czerwca 2026 wymieniają tych zawodników w kadrze. Brak potwierdzenia, że kontuzje te nadal wykluczały ich z gry 19 czerwca 2026.
+    *   Andrzej Pluta zmagał się z przeciążeniowym urazem w sezonie 2025/2026, ale w decydujących momentach był skuteczny i uznawany za lidera zespołu.
+
+**2. Aktualna forma top scorerów:**
+
+*   Brak danych z API dla tego zespołu w kontekście bieżącej serii. Dostępne informacje ogólne z sezonu 2025/2026 wskazują, że najlepszym strzelcem Zastalu jest Chavaughn Lewis (śr. 16,5 pkt. przed finałami), choć ostatnio grywał mniej. W Legii Andrzej Pluta był wskazywany jako lider zespołu w sezonie 2025/2026.
+
+**3. Werdykt:** [⚠️ RYZYKOWNY]
+
+**Uzasadnienie:**
+Mecz odbył się w Zielonej Górze, a Zastal w finale sezonu 2025/2026 potrafił sprawić niespodziankę na własnym parkiecie, wyrównując stan rywalizacji z Legią na 2:2 po zwycięstwie 85:73 (mecz z 15 czerwca 2026). Co więcej, tuż przed tym zwycięstwem trener Zastalu podkreślał, że Andy Mazurczak jest coraz bliżej powrotu po urazie nosa, a Dwight Wilson trenuje mimo bólu kostki, wskazując na mobilizację zespołu. Informacje o kontuzjach w Legii pochodziły głównie z grudnia 2025, co nie daje pewności co do ich statusu na 19 czerwca 2026, jednak brak ich wykluczenia z kadry wskazuje na ich dostępność. W sytuacji, gdy Zastal pokazał zdolność do walki i wyrównywania serii na własnym terenie, a także mobilizację wokół powracających graczy, typ na Legię Warszawa jako pewniaka jest ryzykowny.
