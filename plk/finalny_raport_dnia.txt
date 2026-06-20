@@ -1,28 +1,14 @@
---- AUDYT PLK LIVE (2026-06-20 12:09 CET) ---
-Analiza meczu PLK: Legia Warszawa @ ORLEN Zastal Zielona Góra (19.06.2026)
+--- AUDYT PLK LIVE (2026-06-20 17:47 CET) ---
+Analiza meczu: Legia Warszawa @ ORLEN Zastal Zielona Góra (typ z 2026-06-19)
 
-Mecz rozegrany został w Centrum Rekreacyjno-Sportowym w Zielonej Górze, stanowiąc szósty mecz finałów ORLEN Basket Ligi, w którym ORLEN Zastal Zielona Góra pokonał Legię Warszawa 76:74, wyrównując serię na 3:3.
+1.  **Kluczowe braki w składach koszykarskich (stan na 19.06.2026):**
+    *   🏀 **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim. Wcześniejsze doniesienia o kontuzjach z końca 2025 roku (dotyczące Andrzeja Pluty, Jayvona Gravesa, Matthiasa Tassa, Michała Kolendy, Ojarsa Silinsa) nie wskazywały na ich absencję w finałach, a niektórzy gracze wrócili do gry już wcześniej w sezonie 2025/2026. Informacje o kontuzjach piłkarzy (np. Petar Stojanović, Arkadiusz Reca, Paweł Wszołek) zostały zignorowane.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak zagrał w masce z powodu złamanego nosa, a Andrzej Mazurczak również wystąpił w masce, ale obaj byli dostępni i aktywni w meczu 6. finału 19 czerwca 2026 roku. W lutym 2026 Mazurczak powrócił po kontuzji pleców.
+    *   Podsumowując, brak istotnych braków w składzie koszykarskim, które wykluczałyby kluczowych zawodników z gry w dniu 19.06.2026.
 
-1.  **Kluczowe braki w składach**:
-    *   🏀 **Legia Warszawa**: Matthias Tass był poza kadrą meczową na to spotkanie decyzją trenera. Shane Hunter zakończył mecz z pięcioma faulami, co skutkowało jego wykluczeniem z gry w końcówce spotkania.
-    *   🏀 **ORLEN Zastal Zielona Góra**: Filip Matczak i Andrzej Mazurczak wystąpili w maskach z powodu wcześniejszych urazów nosa, co miało miejsce już od meczu 13.06.2026, ale kontynuowali grę. Phil Fayne wrócił do składu na mecze finałowe na początku czerwca. Brak innych istotnych, nowych braków w składzie koszykarskim.
+2.  **Aktualna forma top scorerów (dotycząca meczu z 19.06.2026 i serii):**
+    *   🏀 **ORLEN Zastal Zielona Góra:** W 6. meczu finału rozegranym 19 czerwca 2026 roku, najlepszymi strzelcami Zastalu byli Chavaughn Lewis (18 punktów), Conley Garrison (17 punktów) oraz Andrzej Mazurczak (15 punktów). W całym sezonie 2025/2026, Lewis osiągał średnio 16 Pkt/mecz, Jakub Szumert 13.3 Pkt/mecz, a Andrzej Mazurczak 11.9 Pkt/mecz.
+    *   🏀 **Legia Warszawa:** W 6. meczu finału rozegranym 19 czerwca 2026 roku, dla Legii najwięcej punktów zdobyli Carl Ponsar (15 punktów) i Dominic Brewton (14 punktów). Brak danych z API dla tego zespołu dla średnich sezonowych.
 
-2.  **Aktualna forma top scorerów (z meczu 19.06.2026)**:
-    *   🏀 **ORLEN Zastal Zielona Góra**:
-        *   **Chavaughn Lewis**: 18 punktów, 5 zbiórek, 1 asysta.
-        *   **Conley Garrison**: 17 punktów, 6 zbiórek, 3 asysty, zdobywca zwycięskiej trójki równo z końcową syreną.
-        *   **Andrzej Mazurczak**: 15 punktów, 2 zbiórki, 7 asyst.
-        *   **Jakub Szumert**: 12 punktów.
-    *   🏀 **Legia Warszawa**:
-        *   **Carl Ponsar**: 15 punktów.
-        *   **Dominic Brewton III**: 14 punktów.
-        *   **Ojars Silins**: trafił trzy rzuty za trzy punkty, utrzymując zespół w grze.
-        *   **Jayvon Graves**: również zaliczył skuteczne akcje.
-
-3.  **Werdykt**: [⚠️ RYZYKOWNY]
-    *   Mecz był bardzo wyrównany i dramatyczny, rozstrzygnięty rzutem w ostatniej sekundzie.
-    *   Legia Warszawa, mimo prowadzenia w serii 3:2, nie zdołała przypieczętować mistrzostwa na wyjeździe.
-    *   Przewaga własnego parkietu ORLEN Zastalu w tym meczu okazała się kluczowa, z ogłuszającym dopingiem kibiców.
-    *   Wykluczenie Shane'a Huntera za faule osłabiło Legię w końcówce.
-    *   Niewielkie urazy (maski) u kluczowych graczy Zastalu nie przeszkodziły im w dobrej grze.
-    *   Ostateczny wynik i przebieg spotkania wskazuje na ogromną nieprzewidywalność serii finałowej.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    Typ na Legię Warszawa jako zwycięzcę meczu rozegranego 19 czerwca 2026 roku w Zielonej Górze był ryzykowny. Był to 6. mecz finału, a Orlen Zastal Zielona Góra wygrał to spotkanie 76:74, doprowadzając do remisu 3-3 w serii, co podkreślało silną postawę gospodarzy na własnym parkiecie w kluczowym momencie. Wcześniej Legia prowadziła w serii 2:1 po zwycięstwie w Zielonej Górze (63:79), ale Zastal zdołał wyrównać stan rywalizacji.
