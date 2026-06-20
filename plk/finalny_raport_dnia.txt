@@ -1,14 +1,19 @@
---- AUDYT PLK LIVE (2026-06-20 17:47 CET) ---
-Analiza meczu: Legia Warszawa @ ORLEN Zastal Zielona Góra (typ z 2026-06-19)
+--- AUDYT PLK LIVE (2026-06-20 19:40 CET) ---
+**Analiza meczu PLK na 2026-06-19**
 
-1.  **Kluczowe braki w składach koszykarskich (stan na 19.06.2026):**
-    *   🏀 **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim. Wcześniejsze doniesienia o kontuzjach z końca 2025 roku (dotyczące Andrzeja Pluty, Jayvona Gravesa, Matthiasa Tassa, Michała Kolendy, Ojarsa Silinsa) nie wskazywały na ich absencję w finałach, a niektórzy gracze wrócili do gry już wcześniej w sezonie 2025/2026. Informacje o kontuzjach piłkarzy (np. Petar Stojanović, Arkadiusz Reca, Paweł Wszołek) zostały zignorowane.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak zagrał w masce z powodu złamanego nosa, a Andrzej Mazurczak również wystąpił w masce, ale obaj byli dostępni i aktywni w meczu 6. finału 19 czerwca 2026 roku. W lutym 2026 Mazurczak powrócił po kontuzji pleców.
-    *   Podsumowując, brak istotnych braków w składzie koszykarskim, które wykluczałyby kluczowych zawodników z gry w dniu 19.06.2026.
+---
 
-2.  **Aktualna forma top scorerów (dotycząca meczu z 19.06.2026 i serii):**
-    *   🏀 **ORLEN Zastal Zielona Góra:** W 6. meczu finału rozegranym 19 czerwca 2026 roku, najlepszymi strzelcami Zastalu byli Chavaughn Lewis (18 punktów), Conley Garrison (17 punktów) oraz Andrzej Mazurczak (15 punktów). W całym sezonie 2025/2026, Lewis osiągał średnio 16 Pkt/mecz, Jakub Szumert 13.3 Pkt/mecz, a Andrzej Mazurczak 11.9 Pkt/mecz.
-    *   🏀 **Legia Warszawa:** W 6. meczu finału rozegranym 19 czerwca 2026 roku, dla Legii najwięcej punktów zdobyli Carl Ponsar (15 punktów) i Dominic Brewton (14 punktów). Brak danych z API dla tego zespołu dla średnich sezonowych.
+### Legia Warszawa @ ORLEN Zastal Zielona Góra
+
+**Typ PulsBasketu:** Legia Warszawa
+
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:** Race Thompson zmagał się z problemami zdrowotnymi i był nieobecny w pierwszym meczu finałowym 8 czerwca 2026. Brak aktualnych informacji potwierdzających jego powrót do składu na mecz 19 czerwca 2026.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Chavaughn Lewis, mimo wcześniejszej kontuzji z 8 maja 2026, był bohaterem 6. meczu finałowego 19 czerwca 2026, zdobywając decydujące punkty. Phil Fayne wrócił do składu do 6 czerwca 2026. Brak istotnych braków w składzie koszykarskim na dzień 19 czerwca 2026.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **Legia Warszawa:** Dominic Brewton III (14.6 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.9 Pkt/mecz).
+    *   🏀 **ORLEN Zastal Zielona Góra:** Chavaughn Lewis (16 Pkt/mecz), Jakub Szumert (13.4 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz). Conley Garrison zdobył decydujące punkty w 6. meczu finałowym, zostając jego bohaterem.
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Typ na Legię Warszawa jako zwycięzcę meczu rozegranego 19 czerwca 2026 roku w Zielonej Górze był ryzykowny. Był to 6. mecz finału, a Orlen Zastal Zielona Góra wygrał to spotkanie 76:74, doprowadzając do remisu 3-3 w serii, co podkreślało silną postawę gospodarzy na własnym parkiecie w kluczowym momencie. Wcześniej Legia prowadziła w serii 2:1 po zwycięstwie w Zielonej Górze (63:79), ale Zastal zdołał wyrównać stan rywalizacji.
+    *   Mecz 19 czerwca 2026 był szóstym meczem finałowym, rozgrywanym w Zielonej Górze, gdzie Zastal ostatecznie zwyciężył 76:74, doprowadzając do remisu 3-3 w serii i wymuszając siódmy mecz. Typ na Legię Warszawa był ryzykowny, biorąc pod uwagę intensywność serii finałowej, przewagę własnego parkietu Zastalu w tym konkretnym meczu oraz potencjalną absencję Race'a Thompsona w Legii.
