@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-06-18T23:22:49.519755",
-  "date": "2026-06-19",
+  "generated_at": "2026-06-20T22:37:07.615017",
+  "date": "2026-06-21",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Legia Warszawa @ ORLEN Zastal Zielona Góra",
-      "phase": "Finał",
-      "round": "6 mecz",
-      "date": "2026-06-19T20:15:00",
-      "ai_pick": "Legia Warszawa",
+      "matchup": "ORLEN Zastal Zielona Góra @ Legia Warszawa",
+      "ai_pick": null,
       "formula_pick": "Legia Warszawa",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Legia Warszawa prowadzi w serii finałowej 3-2 i ma szansę zdobyć mistrzostwo na wyjeździe. Dysponuje lepszym bilansem sezonowym oraz wskaźnikami efektywności. Pomimo, że Andrzej Pluta z Legii opuścił końcówkę meczu 5 z powodu 5 fauli, Legia pokazała zdolność do wygrywania kluczowych spotkań. ORLEN Zastal gra u siebie i ma wysoki czynnik desperacji, ale ostatni mecz przegrał.",
-      "key_factors": [
-        "Prowadzenie Legii w serii 3-2 i mecz o mistrzostwo",
-        "Wyższa jakość Legii w sezonie zasadniczym i metrykach zaawansowanych (NetRtg +9.8 vs +4.9)",
-        "Zdolność Legii do wygrywania wyrównanych spotkań (wygrana w Meczu 5 pomimo foul-outu Andrzeja Pluty)",
-        "Wysoki czynnik desperacji ORLEN Zastalu grającego u siebie"
-      ],
-      "injury_notes": "Brak istotnych, nowych kontuzji zgłoszonych na dzień 2026-06-19. Filip Matczak i Andrzej Mazurczak z ORLEN Zastalu grali w masce po wcześniejszych urazach nosa/pleców. Race Thompson z Legii wrócił do gry po problemach zdrowotnych.",
-      "agreement_with_odds": "no_odds"
+      "note": "AI fallback"
     }
   ]
 }
