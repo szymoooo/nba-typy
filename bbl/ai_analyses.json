@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-20T23:16:09.036977",
+  "generated_at": "2026-06-20T23:48:11.401992",
   "date": "2026-06-21",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "ALBA BERLIN @ FC Bayern München Basketball",
+      "matchup": "ALBA BERLIN @ FC Bayern München",
       "ai_pick": null,
-      "formula_pick": "FC Bayern München Basketball",
+      "formula_pick": "FC Bayern München",
       "note": "AI fallback"
     }
   ]
