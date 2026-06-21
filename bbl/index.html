@@ -142,7 +142,28 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('bbl_139757242739904')">
+        <div class="card-header">
+            <span>16:30 CET</span><span class="click-hint">Kliknij po analizę →</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="https://api.sofascore.app/api/v1/team/3563/image" alt="Alba Berlin"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Alba Berlin</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="FC Bayern München"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">FC Bayern München</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">FC Bayern München</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: June 21, 2026 at 03:27 &middot; Data: Sofascore / 24score
+        Last updated: June 21, 2026 at 08:18 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"bbl_139757242739904": {"matchup": "Alba Berlin @ FC Bayern München", "pick": "FC Bayern München", "reasoning": "FC Bayern München ma przewagę własnego boiska w decydującym piątym meczu finałów, co jest kluczowym czynnikiem w tak wyrównanej serii. Mimo że Alba Berlin wygrała czwarty mecz, doprowadzając do remisu, Bayern ma lepszą formę w pięciu ostatnich meczach BBL (3 zwycięstwa, 2 porażki) w porównaniu do Alby (2 zwycięstwa, 3 porażki) i ogólnie silniejszy bilans w sezonie zasadniczym.", "key_factors": ["Przewaga własnego boiska dla FC Bayern München w decydującym meczu", "Remis 2-2 w serii finałowej, co oznacza wysoki 'desperation factor' dla obu drużyn", "Nieznacznie lepsza forma FC Bayern München w pięciu ostatnich meczach BBL (3-2) w porównaniu do Alba Berlin (2-3)"], "confidence": 7, "injury_notes": "Lennart Karl z FC Bayern München nadal przechodzi rehabilitację po kontuzji mięśniowej. Statusy Stefana Jovicia, Kamara Baldwina, Rokasa Jokubaitisa i Eliasa Harrisa z Bayernu są niepewne, z ostatnimi aktualizacjami sięgającymi marca 2026 roku lub wcześniej. Moses Wood z Alba Berlin zagrał w meczu 4 pomimo wcześniejszego urazu nadgarstka. Brak innych istotnych, potwierdzonych braków kluczowych graczy, którzy grali w meczu 4, na dzień meczu.", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {

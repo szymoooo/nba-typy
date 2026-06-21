@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-06-20T23:48:11.401992",
+  "generated_at": "2026-06-21T08:18:45.387087",
   "date": "2026-06-21",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "ALBA BERLIN @ FC Bayern München",
-      "ai_pick": null,
+      "matchup": "Alba Berlin @ FC Bayern München",
+      "phase": "Playoff Finals",
+      "ai_pick": "FC Bayern München",
       "formula_pick": "FC Bayern München",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "FC Bayern München ma przewagę własnego boiska w decydującym piątym meczu finałów, co jest kluczowym czynnikiem w tak wyrównanej serii. Mimo że Alba Berlin wygrała czwarty mecz, doprowadzając do remisu, Bayern ma lepszą formę w pięciu ostatnich meczach BBL (3 zwycięstwa, 2 porażki) w porównaniu do Alby (2 zwycięstwa, 3 porażki) i ogólnie silniejszy bilans w sezonie zasadniczym.",
+      "key_factors": [
+        "Przewaga własnego boiska dla FC Bayern München w decydującym meczu",
+        "Remis 2-2 w serii finałowej, co oznacza wysoki 'desperation factor' dla obu drużyn",
+        "Nieznacznie lepsza forma FC Bayern München w pięciu ostatnich meczach BBL (3-2) w porównaniu do Alba Berlin (2-3)"
+      ],
+      "injury_notes": "Lennart Karl z FC Bayern München nadal przechodzi rehabilitację po kontuzji mięśniowej. Statusy Stefana Jovicia, Kamara Baldwina, Rokasa Jokubaitisa i Eliasa Harrisa z Bayernu są niepewne, z ostatnimi aktualizacjami sięgającymi marca 2026 roku lub wcześniej. Moses Wood z Alba Berlin zagrał w meczu 4 pomimo wcześniejszego urazu nadgarstka. Brak innych istotnych, potwierdzonych braków kluczowych graczy, którzy grali w meczu 4, na dzień meczu."
     }
   ]
 }
