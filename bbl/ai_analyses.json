@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-06-21T11:15:51.883278",
+  "generated_at": "2026-06-21T11:27:23.885213",
   "date": "2026-06-21",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "ALBA Berlin @ FC Bayern München",
-      "phase": "Finale (Playoffs)",
+      "matchup": "Alba Berlin @ FC Bayern München",
+      "phase": "Playoff Finals, Game 5",
       "ai_pick": "FC Bayern München",
       "formula_pick": "FC Bayern München",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "FC Bayern München gra u siebie w decydującym piątym meczu finałów BBL, co jest kluczową przewagą. Obie drużyny prezentowały zbliżoną formę w ostatnich meczach, a seria jest wyrównana 2-2. Ewentualna absencja lub ograniczenia Martina Hermannssona w ALBA Berlin z powodu kontuzji kciuka z lutego 2026 roku może osłabić ich skład.",
+      "reasoning": "Mecz piąty finałów BBL jest decydującym starciem, w którym FC Bayern München, jako gospodarz i najlepsza drużyna sezonu zasadniczego (bilans 29-5), ma przewagę własnego parkietu. [cite: 3 (previous search)] Mimo wyrównanej formy obu zespołów w ostatnich pięciu meczach playoff (3 zwycięstwa i 2 porażki dla każdej drużyny) oraz remisu 2-2 w serii finałowej, przewaga własnego boiska w fazie playoff jest statystycznie znacząca. Bukmacherzy również faworyzują Bayern w tym spotkaniu. [cite: 3 (previous search)]",
       "key_factors": [
-        "Przewaga własnego parkietu FC Bayern München w meczu numer 5",
-        "Seria playoff jest remisowa 2-2, co czyni ten mecz decydującym",
-        "Potencjalne osłabienie ALBA Berlin przez kontuzję Martina Hermannssona"
+        "Decydujący mecz finałowy (Game 5)",
+        "Przewaga własnego parkietu dla FC Bayern München",
+        "Wyższa pozycja FC Bayern München w sezonie zasadniczym",
+        "Brak istotnych kontuzji kluczowych zawodników"
       ],
-      "injury_notes": "Dla ALBA Berlin, Martin Hermannsson doznał poważnej kontuzji więzadła kciuka w lutym 2026 roku, która miała wykluczyć go na około sześć tygodni. Jego status na 21 czerwca 2026 roku jest niepewny i prawdopodobnie będzie ograniczony lub wykluczony. Dla FC Bayern München, Rokas Jokubaitis był kontuzjowany od września 2025 roku (poważna kontuzja kolana) i miał wrócić 'na wiosnę' 2026 roku, więc jego pełna dyspozycja na finały jest wątpliwa. Kamar Baldwin nie grał od grudnia 2025 roku, a jego status jest niejasny. Elias Harris, mimo wcześniejszych doniesień o kontuzji, grał i był w dobrej formie w maju 2026 roku. Nenad Dimitrijevic i Justus Hollatz mieli drobne problemy, ale wydają się być zdolni do gry."
+      "injury_notes": "Brak istotnych nowych doniesień o kontuzjach kluczowych graczy obu drużyn koszykarskich na dzień 2026-06-21. Martin Hermannsson z Alba Berlin, który doznał kontuzji kciuka 6 lutego 2026, miał prognozowany sześciotygodniowy okres rekonwalescencji, co sugeruje jego powrót do gry pod koniec marca 2026. [cite: 25 (previous search)]"
     }
   ]
 }
