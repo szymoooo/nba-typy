@@ -1,9 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-21 17:43 ET) ---
-Mecz: Knicks @ Spurs -> Typ: Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-06-21 18:44 ET) ---
+Analiza typu: Knicks @ Spurs -> Typ: Spurs
 
-*   **Kluczowe braki w składach (na dzień 2026-06-21):** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   W sezonie 2025-26 doszło do meczu pomiędzy New York Knicks a San Antonio Spurs, w którym Spurs odnieśli zwycięstwo wynikiem 134-132. Mecz ten miał miejsce około dwóch tygodni po finale NBA Cup w połowie grudnia 2025 roku, co wskazuje na koniec grudnia 2025 lub początek stycznia 2026.
-    *   San Antonio Spurs mieli bardzo udany sezon, dochodząc do Finałów NBA w 2026 roku, gdzie zmierzyli się z Knicks. Victor Wembanyama był MVP serii i kluczową postacią drużyny, wspierany przez wschodzące gwiazdy, takie jak Stephon Castle, Dylan Harper i Julian Champagnie.
-    *   Biorąc pod uwagę zwycięstwo Spurs w bezpośrednim starciu w sezonie 2025-26 oraz ich ogólną siłę składu w tamtym okresie, typ na Spurs jest zasadny.
+    *   Roster New York Knicks (styczeń 2026, 2025-2026 sezon): Jalen Brunson, Karl-Anthony Towns, Mitchell Robinson, OG Anunoby, Josh Hart, Mikal Bridges, Jordan Clarkson, Landry Shamet, Miles McBride, Jeremy Sochan i inni.
+    *   Roster San Antonio Spurs (styczeń 2026, 2025-2026 sezon): Victor Wembanyama, De'Aaron Fox, Devin Vassell, Stephon Castle, Kelly Olynyk, Dylan Harper, Keldon Johnson i inni.
+
+    Nie znaleziono potwierdzonych informacji o kontuzjach z DZISIAJ (2026-06-21) dotyczących stanu składów na styczeń 2026. Wszelkie dostępne raporty o kontuzjach z sieci pochodzą z czerwca 2026 i dotyczą Finałów NBA 2026, co jest niezgodne z wymogiem 'tylko STYCZEŃ 2026' dla danych o statusie graczy, a jednocześnie 'z DZISIAJ (2026-06-21)' dla raportów.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Bez aktualnych raportów o kontuzjach z dnia dzisiejszego (2026-06-21), dotyczących stanu składów w styczniu 2026, nie można rygorystycznie ocenić braków kadrowych ani trafności typu.
