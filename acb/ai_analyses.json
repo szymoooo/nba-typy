@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-06-20T02:46:10.056534",
-  "date": "2026-06-20",
+  "generated_at": "2026-06-21T17:47:42.829706",
+  "date": "2026-06-21",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Barcelona @ Valencia",
-      "phase": "?",
-      "ai_pick": "Valencia",
-      "formula_pick": "Valencia",
-      "agreement": true,
+      "matchup": "Valencia Basket @ Barça",
+      "phase": "Playoff Final",
+      "ai_pick": "Valencia Basket",
+      "formula_pick": "Barça",
+      "agreement": false,
       "confidence": 6,
-      "reasoning": "Mimo przegranej w meczu numer 1 po dogrywce, Valencia gra u siebie, gdzie zazwyczaj prezentuje się bardzo dobrze, i będzie zdeterminowana, aby wyrównać stan serii. Barcelona ma przewagę 1-0, ale Valencia wygrała oba spotkania sezonu zasadniczego przeciwko Barcelonie.",
+      "reasoning": "Valencia Basket wchodzi w Mecz 3 z silnym impetem po dominującym zwycięstwie w Meczu 2, podczas gdy Barça mierzy się z obawami dotyczącymi niedawnej kontuzji Juani Marcosa oraz słabej formy i wyrzucenia Kevina Puntera w poprzednim meczu. Pomimo znaczącej przewagi własnego parkietu Barçy, obecna forma zawodników i efektywna gra zespołowa Valencia Basket dają im niewielką przewagę.",
       "key_factors": [
-        "Przewaga własnego parkietu Valencii w drugim meczu finałów ACB",
-        "Zacięta rywalizacja i motywacja Valencii do wyrównania serii po porażce w pierwszym meczu",
-        "Brak istotnych kontuzji w Barcelonie vs. urazy w Valencii (López-Arostegui, Reuvers, Puerto)"
+        "Dominująca wygrana Valencia Basket w meczu numer 2",
+        "Kontuzja Juani Marcosa i słaba forma/potencjalne zawieszenie Kevina Puntera dla Barçy",
+        "Aktualna dobra forma kluczowych graczy Valencia Basket, takich jak Jean Montero i Braxton Key",
+        "Przewaga własnego parkietu dla Barçy (Palau Blaugrana), gdzie Valencia nigdy nie wygrała meczu finałowego Ligi Endesa"
       ],
-      "injury_notes": "Valencia zmaga się z kontuzjami Xabiego Lópeza-Arosteguiego i Nate'a Reuversa (uraz kostki), a Josep Puerto, mimo powrotu do treningów, nie znalazł się w składzie na mecz 2. W Barcelonie, Tomas Satoransky uporał się z problemami z plecami."
+      "injury_notes": "Barça: Juani Marcos doznał kontuzji w Meczu 2 i miało to wpływ na przebieg spotkania. Kevin Punter został wyrzucony z parkietu w Meczu 2 i miał słabą skuteczność (2 punkty na 1/9 z gry). Valencia Basket: Xabi López-Arostegui i Nate Reuvers są potwierdzonymi absencjami z powodu kontuzji w finałach. Josep Puerto (kapitan) powrócił do gry w Meczu 2, ale wciąż odzyskuje pełną sprawność."
     }
   ]
 }

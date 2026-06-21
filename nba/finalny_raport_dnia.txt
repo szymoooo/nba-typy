@@ -1,10 +1,23 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-21 11:57 ET) ---
-Zgodnie z Twoimi wytycznymi, analizuję typy, skupiając się na składach ze STYCZNIA 2026 i stosując rygorystyczne zasady dotyczące raportów o kontuzjach z DNIA DZISIEJSZEGO (2026-06-21).
+--- KRYTYCZNY AUDYT LIVE (2026-06-21 13:46 ET) ---
+Brak aktualnych raportów (Injury Report) na tę chwilę.
 
 ---
 
+**Analiza typów na podstawie danych ze STYCZNIA 2026:**
+
 **Knicks @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫 (Ponieważ dzisiejsza data to 21 czerwca 2026, nie ma aktualnych raportów o kontuzjach dla meczu, który miałby miejsce w styczniu 2026.)
-*   **Werdykt:** ⚠️ RYZYKOWNY
-    *   **Uzasadnienie:** Pomimo znajomości ogólnych składów Knicks i Spurs ze stycznia 2026, brak aktualnych raportów o kontuzjach z dzisiejszego dnia (21.06.2026) uniemożliwia ocenę wpływu potencjalnych absencji na przebieg meczu, który miałby się odbyć w styczniu 2026. Nie mogę z czystym sumieniem zatwierdzić typu bez kluczowych informacji o statusie graczy w dniu meczu.
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: questionable (skręcenie prawej kostki) 🤕
+        *   Josh Hart: questionable (dyskomfort/ból w prawej kostce) 🤕
+        *   Mitchell Robinson: out (zarządzanie urazem, złamany mały palec) ❌
+        *   Miles McBride: out ❌
+        *   Karl-Anthony Towns: uraz pleców 🤕
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: out (uraz uda) ❌
+        *   Victor Wembanyama: day-to-day (uraz kolana) ❓
+        *   Jeremy Sochan: sidelined ❌
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Biorąc pod uwagę potencjalnie liczne i kluczowe braki w składzie Knicks w styczniu 2026 roku (Brunson, Hart, Robinson, McBride, Towns), typ na Spurs wydaje się uzasadniony. Mimo kontuzji Vassella i Sochana, oraz statusu Wembanyamy "day-to-day", osłabienia Knicks są bardziej dotkliwe dla ich podstawowej rotacji i ofensywy.

@@ -142,7 +142,28 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('acb_139868047878848')">
+        <div class="card-header">
+            <span>20:00 CET</span><span class="click-hint">Kliknij po analizę →</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23f59e0b' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23f59e0b'>%F0%9F%8F%80</text></svg>" alt="Valencia Basket"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23f59e0b' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23f59e0b'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Valencia Basket</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23f59e0b' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23f59e0b'>%F0%9F%8F%80</text></svg>" alt="Barça"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23f59e0b' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23f59e0b'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Barça</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">Valencia Basket</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: June 21, 2026 at 15:59 &middot; Data: Sofascore / 24score
+        Last updated: June 21, 2026 at 17:47 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"acb_139868047878848": {"matchup": "Valencia Basket @ Barça", "pick": "Valencia Basket", "reasoning": "Valencia Basket wchodzi w Mecz 3 z silnym impetem po dominującym zwycięstwie w Meczu 2, podczas gdy Barça mierzy się z obawami dotyczącymi niedawnej kontuzji Juani Marcosa oraz słabej formy i wyrzucenia Kevina Puntera w poprzednim meczu. Pomimo znaczącej przewagi własnego parkietu Barçy, obecna forma zawodników i efektywna gra zespołowa Valencia Basket dają im niewielką przewagę.", "key_factors": ["Dominująca wygrana Valencia Basket w meczu numer 2", "Kontuzja Juani Marcosa i słaba forma/potencjalne zawieszenie Kevina Puntera dla Barçy", "Aktualna dobra forma kluczowych graczy Valencia Basket, takich jak Jean Montero i Braxton Key", "Przewaga własnego parkietu dla Barçy (Palau Blaugrana), gdzie Valencia nigdy nie wygrała meczu finałowego Ligi Endesa"], "confidence": 6, "injury_notes": "Barça: Juani Marcos doznał kontuzji w Meczu 2 i miało to wpływ na przebieg spotkania. Kevin Punter został wyrzucony z parkietu w Meczu 2 i miał słabą skuteczność (2 punkty na 1/9 z gry). Valencia Basket: Xabi López-Arostegui i Nate Reuvers są potwierdzonymi absencjami z powodu kontuzji w finałach. Josep Puerto (kapitan) powrócił do gry w Meczu 2, ale wciąż odzyskuje pełną sprawność.", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {
