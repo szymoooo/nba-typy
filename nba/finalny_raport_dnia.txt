@@ -1,25 +1,9 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-21 17:20 ET) ---
-Analizując Twoje typy na mecz Knicks @ Spurs, na podstawie dostępnych danych z sieci ze stycznia 2026 roku:
+--- KRYTYCZNY AUDYT LIVE (2026-06-21 17:43 ET) ---
+Mecz: Knicks @ Spurs -> Typ: Spurs
 
----
+*   **Kluczowe braki w składach (na dzień 2026-06-21):** Brak aktualnych raportów (Injury Report) na tę chwilę.
 
-**Knicks @ Spurs -> Typ: Spurs**
-
-**Kluczowe braki w składach (stan na styczeń 2026):**
-
-*   **New York Knicks:**
-    *   Jalen Brunson: Day-to-day (skręcenie prawej kostki)
-    *   Josh Hart: Out / Questionable (ból/skręcenie prawej kostki)
-    *   Karl-Anthony Towns: Questionable (skurcze pleców)
-    *   Landry Shamet: Out (skręcenie prawego barku, raport z 5 stycznia)
-
-*   **San Antonio Spurs:**
-    *   Devin Vassell: Out / Sidelined (naciągnięcie lewego przywodziciela / udo)
-    *   Victor Wembanyama: Day-to-day (kolano, raport z 3 stycznia)
-    *   Jeremy Sochan: Questionable / Sidelined (choroba / nieokreślone)
-    *   Luke Kornet: Questionable (napięcie lewego przywodziciela)
-    *   Aaron Wiggins: Questionable (zapalenie prawego biodra)
-
-**Werdykt:** [⚠️ RYZYKOWNY]
-
-**Uzasadnienie:** Typ na Spurs jest ryzykowny, ponieważ drużyna San Antonio miała w styczniu 2026 roku liczne i istotne braki w składzie, w tym kluczowych graczy takich jak Devin Vassell (wielokrotnie poza grą) oraz Jeremy Sochan (wielokrotnie questionable/sidelined). Dodatkowo, Victor Wembanyama był zgłaszany jako Day-to-day z urazem kolana na początku stycznia. Choć Knicks również borykali się z ważnymi kontuzjami (Brunson, Hart, Towns), rozległość potencjalnych absencji w Spurs sprawia, że typowanie ich zwycięstwa jest obarczone wysokim ryzykiem.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   W sezonie 2025-26 doszło do meczu pomiędzy New York Knicks a San Antonio Spurs, w którym Spurs odnieśli zwycięstwo wynikiem 134-132. Mecz ten miał miejsce około dwóch tygodni po finale NBA Cup w połowie grudnia 2025 roku, co wskazuje na koniec grudnia 2025 lub początek stycznia 2026.
+    *   San Antonio Spurs mieli bardzo udany sezon, dochodząc do Finałów NBA w 2026 roku, gdzie zmierzyli się z Knicks. Victor Wembanyama był MVP serii i kluczową postacią drużyny, wspierany przez wschodzące gwiazdy, takie jak Stephon Castle, Dylan Harper i Julian Champagnie.
+    *   Biorąc pod uwagę zwycięstwo Spurs w bezpośrednim starciu w sezonie 2025-26 oraz ich ogólną siłę składu w tamtym okresie, typ na Spurs jest zasadny.
