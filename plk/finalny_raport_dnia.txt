@@ -1,12 +1,11 @@
---- AUDYT PLK LIVE (2026-06-22 03:42 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (typ z 2026-06-21):
+--- AUDYT PLK LIVE (2026-06-22 11:33 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-*   **Kluczowe braki w składach**:
-    *   **ORLEN Zastal Zielona Góra**: Filip Matczak grał w masce z powodu kontuzji nosa, podobnie jak Andrzej Mazurczak.
-    *   **Legia Warszawa**: Matthias Tass był poza kadrą meczową decyzją sztabu szkoleniowego w 7. meczu finałowym, który odbył się 21.06.2026.
+1.  **Kluczowe braki w składach**:
+    *   🏀 **Legia Warszawa**: Andrzej Pluta opuścił parkiet z urazem w końcówce 7. meczu finałowego (21.06.2026).
+    *   🏀 **ORLEN Zastal Zielona Góra**: Filip Matczak i Andrzej Mazurczak grali w masce z powodu wcześniejszych urazów nosa w serii finałowej. Phil Fayne wrócił do składu po kontuzji kostki przed rozpoczęciem finałów i był dostępny. Brak informacji o innych istotnych brakach w składzie koszykarskim.
 
-*   **Aktualna forma top scorerów**:
-    *   **ORLEN Zastal Zielona Góra**: Conley Garrison był kluczową postacią, zdobywając niesamowity rzut w 6. meczu finałowym, który wymusił 7. spotkanie. W sezonie 2025/2026, czołowymi strzelcami byli Chavaughn Lewis (16 Pkt/mecz), Jakub Szumert (13.3 Pkt/mecz) i Andrzej Mazurczak (11.9 Pkt/mecz).
-    *   **Legia Warszawa**: Andrzej Pluta został wybrany MVP finałów Orlen Basket Ligi. Carl Ponsar (średnio 11.0 pkt) i Shane Hunter (średnio 9.0 pkt) zagrali najwięcej spotkań w sezonie 2025/2026. Brak danych z API dla tego zespołu na temat top scorerów w serii finałowej.
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API dla tego zespołu. Z informacji prasowych wynika, że Andrzej Pluta (Legia Warszawa) został MVP finałów OBL. Conley Garrison (Zastal) został wyróżniony za decydujący rzut w 6. meczu.
 
-*   **Werdykt**: ✅ Typ prawidłowy (Legia Warszawa wygrała mecz 78:70, zdobywając mistrzostwo Polski w serii 4-3, mecz rozegrany 21.06.2026).
+3.  **Werdykt**: [✅ ZATWIERDZONY] (Legia Warszawa wygrała serię finałową 4-3, zdobywając Mistrzostwo Polski 2025/2026).
