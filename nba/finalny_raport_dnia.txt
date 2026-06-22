@@ -1,13 +1,23 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-22 14:14 ET) ---
-Analiza meczu na dzień 2026-06-22:
+--- KRYTYCZNY AUDYT LIVE (2026-06-22 15:59 ET) ---
+Zrozumiałem. Przystępuję do rygorystycznej analizy z uwzględnieniem podanych dat i zasad.
 
-**Knicks @ Spurs -> Typ: Spurs**
+---
+
+### Knicks @ Spurs -> Typ: Spurs
 
 *   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę, ponieważ dzisiejsza data przypada na okres po zakończeniu sezonu NBA.
-    *   Składy na koniec sezonu 2025-2026 wyglądały następująco:
-        *   **New York Knicks:** Jalen Brunson (Finals MVP), Mikal Bridges, Karl-Anthony Towns, OG Anunoby, Josh Hart, Miles McBride, Mitchell Robinson.
-        *   **San Antonio Spurs:** Victor Wembanyama, De'Aaron Fox, Stephon Castle, Devin Vassell, Keldon Johnson, Harrison Barnes.
+    *   **Składy (Styczeń 2026):**
+    *   **New York Knicks:** Jalen Brunson, Malachi Flynn, Miles McBride, Jordan Clarkson, Landry Shamet, Malcolm Brogdon, Mitchell Robinson, Ariel Hukporti, Alex Len, Karl-Anthony Towns, Mohamed Diawara, Jeremy Sochan, Josh Hart.
+    *   **San Antonio Spurs:** De'Aaron Fox, Dylan Harper, Devonte' Graham, Luke Kornet, Bismack Biyombo, Mason Plumlee, Devin Vassell, Stephon Castle, Lindy Waters III, Victor Wembanyama, Kelly Olynyk, David Jones-Garcia, Harrison Barnes, Carter Bryant, Julian Champagnie, Emanuel Miller.
+
+*   **Raporty kontuzji (2026-06-22):**
+    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę. Wcześniejsze raporty z 3 czerwca 2026 wskazywały na Mitchell'a Robinsona (palec) jako 'Questionable', OG Anunoby (ścięgno podkolanowe) jako dostępnego po wcześniejszej kontuzji, a Josh Hart (kciuk) również był zgłoszony jako kontuzjowany wcześniej. Jednak, brak jest raportów "z dzisiaj" (2026-06-22) o ich statusie.
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę. Raporty z 2 czerwca 2026 wskazywały, że Spurs nie mieli żadnych graczy na liście kontuzjowanych przed Game 1 Finałów NBA 2026. De'Aaron Fox zmagał się wcześniej ze skręceniem kostki, a Dylan Harper z urazem przywodziciela, ale obaj byli zdolni do gry w Finałach.
+
+*   **Analiza:**
+    *   Na podstawie dostępnych informacji dotyczących składów ze stycznia 2026 i braku aktualnych raportów kontuzji na dzień 2026-06-22, zarówno Knicks, jak i Spurs wydają się mieć pełne składy, jeśli bazujemy na braku *aktualnych* (dzisiejszych) raportów o wykluczeniach.
+    *   Historyczne doniesienia z Finałów NBA 2026 (początek czerwca) sugerują, że Knicks zmagali się z drobnymi kontuzjami kluczowych graczy (Robinson, Anunoby), podczas gdy Spurs byli w pełni zdrowi. Ponieważ dzisiejsze raporty (2026-06-22) nie potwierdzają kontynuacji tych urazów, przyjmuję, że wszyscy są dostępni.
+    *   Zgodnie z informacjami, San Antonio Spurs zdobyli mistrzostwo Konferencji Zachodniej w sezonie 2025-26, a Knicks wygrali Finały NBA 2026, pokonując Spurs 4-1. To sugeruje, że Knicks byli silniejszą drużyną w tym okresie.
 
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ jest ryzykowny. New York Knicks właśnie zostali mistrzami NBA w sezonie 2025-2026, pokonując San Antonio Spurs w Finałach NBA 4-1. Biorąc pod uwagę ten świeży kontekst, typowanie Spurs do zwycięstwa byłoby wysoce spekulatywne.
+    *   Typowanie Spurs w meczu, gdzie Knicks wygrali Finały NBA 2026 (pokonując Spurs) jest ryzykowne, nawet jeśli zakładamy pełne składy. Brak *aktualnych* raportów kontuzji na dziś (2026-06-22) oznacza, że nie możemy oprzeć typu na osłabieniach którejkolwiek z drużyn. Oceniamy ten typ na podstawie historycznych wyników z sezonu 2025/2026, gdzie Knicks okazali się lepsi w bezpośrednim starciu o mistrzostwo.
