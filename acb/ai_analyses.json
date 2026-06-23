@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-06-22T03:33:33.498432",
-  "date": "2026-06-22",
+  "generated_at": "2026-06-23T22:05:43.391500",
+  "date": "2026-06-24",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Valencia @ Barcelona",
-      "phase": "?",
-      "ai_pick": "Barcelona",
+      "matchup": "Valencia Basket @ Barcelona",
+      "ai_pick": null,
       "formula_pick": "Barcelona",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Barcelona gra u siebie w kluczowym trzecim meczu finałów ACB, gdzie przewaga własnego parkietu jest istotna. Valencia zmaga się z wieloma kontuzjami kluczowych graczy, co osłabia ich skład pomimo niedawnego zwycięstwa w drugim meczu serii. Skutkuje to większymi szansami dla Barcelony.",
-      "key_factors": [
-        "Przewaga własnego parkietu Barcelony (finały play-off)",
-        "Liczne kontuzje kluczowych graczy Valencii",
-        "Finały Ligi ACB (Seria 1-1)"
-      ],
-      "injury_notes": "Barcelona: brak istotnych braków. Valencia: Stefan Jovic (zapalenie kaletki w prawym łokciu), Amida Brimah (uraz ścięgna podkolanowego w prawej nodze), Xabi López-Arostegui (uraz mięśniowy prawej nogi), Nate Reuvers (choroba), Jaime Pradilla (uraz), Jean Montero (kontuzja barku, status niepewny), Josep Puerto (wrócił do treningów, ale poza składem meczowym)."
+      "note": "AI fallback"
     }
   ]
 }
