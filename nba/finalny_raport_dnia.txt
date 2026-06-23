@@ -1,18 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-23 06:22 ET) ---
-Oto analiza Twojego typu na mecz Knicks @ Spurs, uwzględniająca datę 2026-06-23 oraz wymóg danych ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-06-23 12:28 ET) ---
+Na podstawie danych z sieci (2026-06-23) dotyczących stycznia 2026, oto analiza Twojego typu:
 
----
+**Knicks @ Spurs -> Typ: Spurs**
 
-**Knicks @ Spurs**
-Typ: Spurs
-
-*   **Kluczowe braki w składach (na dzień 2026-06-23):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Należy zaznaczyć, że 23 czerwca 2026 roku nie ma aktywnych meczów NBA, więc nie ma oficjalnych, bieżących raportów kontuzji dotyczących statusu zawodników na mecz. Raporty kontuzji są zazwyczaj publikowane w dniach meczowych.
-
-*   **Sytuacja zespołów (stan na styczeń 2026):**
-    *   **New York Knicks:** Kadra na styczeń 2026 prawdopodobnie obejmowała kluczowych graczy takich jak Jalen Brunson, Mitchell Robinson, Karl-Anthony Towns, Josh Hart, Miles McBride, Jordan Clarkson, Landry Shamet i Malcolm Brogdon. Wyniki wskazują, że New York Knicks byli mistrzami NBA w 2026 roku, z Jalenem Brunsonem grającym kluczową rolę w finale.
-    *   **San Antonio Spurs:** W składzie Spurs na styczeń 2026 znajdowali się prawdopodobnie Victor Wembanyama, Devin Vassell, De'Aaron Fox, Stephon Castle, Keldon Johnson i Jeremy Sochan. Spurs zakończyli sezon 2025-26 z rekordem 62-20, zajmując 2. miejsce w Konferencji Zachodniej i mieli wysoki Net Rating (+8.3), co wskazuje na bardzo mocny sezon.
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Out/Questionable (skręcenie prawej kostki) – kluczowy zawodnik ofensywny.
+        *   Mitchell Robinson: Out (uraz lewej kostki) – ważny obrońca pod koszem.
+        *   Josh Hart: Questionable (ból prawej kostki).
+        *   Landry Shamet: Out/Questionable (skręcenie prawego barku).
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out/TBD/Sidelined (uraz uda/naciągnięcie przywodziciela lewej nogi).
+        *   Victor Wembanyama: Day-To-Day/Limited status (kolano).
+        *   Jeremy Sochan: Sidelined (pod koniec stycznia).
+        *   Harrison Ingram: GTD (choroba).
 
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Chociaż San Antonio Spurs mieli znakomity sezon 2025-26 i byli jedną z najlepszych drużyn w lidze, Knicks byli triumfatorami NBA w 2026 roku. Typowanie zwycięstwa Spurs nad aktualnymi mistrzami, nawet na własnym parkiecie, jest obarczone wysokim ryzykiem, biorąc pod uwagę dominację Knicks.
+    Brak konkretnej daty meczu w styczniu 2026 oraz zmienne statusy kontuzji kluczowych graczy obu drużyn w tym miesiącu sprawiają, że ocena jest ryzykowna. Zarówno Knicks (Brunson, Robinson, Hart) jak i Spurs (Wembanyama, Vassell, Sochan) borykali się ze znaczącymi osłabieniami, które mogłyby wpłynąć na wynik każdego meczu.
