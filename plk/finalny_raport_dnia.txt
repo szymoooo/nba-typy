@@ -1,28 +1,11 @@
---- AUDYT PLK LIVE (2026-06-24 23:55 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
-
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-06-24 23:57 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Filip Matczak grał z kontuzją nosa w masce w meczach finałowych.
-        *   Andrzej Mazurczak również występował w masce.
-        *   Phil Fayne wrócił do gry, ale walczył z urazami w trakcie serii finałowej.
-        *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim bezpośrednio przed meczem 7.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim. Andrzej Pluta i Carl Ponsar byli dostępni i grali w finałach.
+    *   **ORLEN Zastal Zielona Góra:** W maju 2026 r. informowano o kontuzji Chavaughna Lewisa (najlepszego strzelca drużyny w sezonie) oraz Miłosza Majewskiego, która wykluczała Lewisa z jednego z meczów przed fazą play-off. Brak jest jednak potwierdzonych informacji o niedostępności Chavaughna Lewisa lub innych kluczowych graczy na decydujący mecz finałowy 21 czerwca 2026 r. Phil Fayne powrócił do składu przed finałami.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na mecz 21 czerwca 2026 r. Gracze tacy jak Andrzej Pluta, DJ Brewton i Maksymilian Wilczek byli aktywni w meczach finałowych.
 
 2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Brak danych z API dla tego zespołu.
-        *   W finale wyróżnili się Chavaughn Lewis (bohater meczu 1, rzut za 3 na 1.8 sekundy przed końcem) oraz Conley Garrison (rzut na 0.2 sekundy w meczu 6, który doprowadził do meczu 7).
-        *   Najlepsi strzelcy w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
-    *   🏀 **Legia Warszawa:**
-        *   Brak danych z API dla tego zespołu.
-        *   Andrzej Pluta Jr. był MVP sezonu zasadniczego oraz MVP finałów, co świadczy o jego znakomitej formie.
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz był siódmym i decydującym spotkaniem finałów ORLEN Basket Ligi w sezonie 2025/2026.
-    *   Legia Warszawa grała u siebie w Warszawie, co stanowiło dużą przewagę w decydującym meczu o mistrzostwo.
-    *   Legia Warszawa zdobyła mistrzostwo Polski, pokonując Zastal 78:70 w tym meczu, co potwierdza ich dominację i trafność pierwotnego typu. Legia była również najlepszą drużyną fazy zasadniczej.
-    *   Zastal Zielona Góra, mimo kilku urazów kluczowych graczy i startu z 8. miejsca w play-offach, pokazał ogromną wolę walki, docierając do finału.
+3.  **Werdykt:** ✅ ZATWIERDZONY (Legia Warszawa wygrała decydujący, 7. mecz finałowy 78:70 i zdobyła Mistrzostwo Polski 2025/2026.)

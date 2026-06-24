@@ -1,12 +1,23 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-24 17:54 ET) ---
-Analizuję Twoje typy na podstawie dostępnych danych z sieci na dzień 2026-06-24, koncentrując się wyłącznie na informacjach ze STYCZNIA 2026, zgodnie z wytycznymi.
+--- KRYTYCZNY AUDYT LIVE (2026-06-24 17:57 ET) ---
+Na podstawie danych z sieci dotyczących stycznia 2026 roku, oto analiza Twojego typu:
 
----
-
-**Mecz: Knicks @ Spurs**
-**Typ: Spurs**
+**Knicks @ Spurs -> Typ: Spurs**
 
 *   **Kluczowe braki w składach (Styczeń 2026):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę dotyczących konkretnych kontuzji statusu 'Out', 'Questionable', 'GTD' dla meczu Knicks @ Spurs w styczniu 2026. Informacje o składach i statusach graczy są zmienne i często podawane na bieżąco przed konkretnym spotkaniem. Historyczne, szczegółowe raporty kontuzji z całego stycznia 2026 dla obu drużyn nie są łatwo dostępne w jednoznacznej formie na dziś (2026-06-24) bez znajomości konkretnej daty meczu.
-*   **Werdykt: [⚠️ RYZYKOWNY]**
-    *   Bez konkretnych informacji o dacie meczu w styczniu 2026 oraz bez szczegółowych raportów kontuzji z tamtego okresu dla obu drużyn, nie mogę potwierdzić braku kluczowych graczy, co sprawia, że typowanie jest ryzykowne. Brak możliwości zweryfikowania pełnych składów i statusów kontuzji na konkretny dzień w styczniu 2026 uniemożliwia rzetelną analizę.
+    *   **New York Knicks:**
+        *   Jalen Brunson: Out (kontuzja prawej kostki) 🤕
+        *   Mitchell Robinson: Out (zarządzanie kontuzją lewej kostki) 🩹
+        *   Josh Hart: Out (długoterminowa kontuzja kostki / ból prawej kostki, status: questionable) 🦵
+        *   Landry Shamet: Questionable (skręcenie prawego barku) ❓
+        *   Miles McBride: Out (od 28 stycznia) 🩹
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (naciągnięcie lewego przywodziciela / udo) 🤕
+        *   Victor Wembanyama: Day-To-Day (kolano - stan na 3 stycznia, brak późniejszych raportów sugeruje powrót do gry) 🤞
+        *   Luke Kornet: Questionable (napięcie lewego przywodziciela) ❓
+        *   Jeremy Sochan: Questionable (choroba / sidelined od 31 stycznia) 🤒
+        *   David Jones Garcia, Harrison Ingram, Stanley Umude: Out (zawodnicy G League – Two-Way) 🚫
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Knicks w styczniu 2026 roku zmagali się z poważnymi brakami kluczowych graczy, takich jak Jalen Brunson, Mitchell Robinson i Josh Hart, co znacząco osłabiłoby ich siłę rażenia i obronę. Mimo kontuzji Vassella i zmiennego statusu Sochana, Spurs, szczególnie jeśli Wembanyama byłby zdrowy, wydają się mieć przewagę w tym hipotetycznym meczu.
+
+Brak aktualnych raportów (Injury Report) na tę chwilę (2026-06-24), ponieważ analiza dotyczy danych ze stycznia 2026.
