@@ -1,11 +1,34 @@
---- AUDYT PLK LIVE (2026-06-24 23:57 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+--- AUDYT PLK LIVE (2026-06-25 01:10 CET) ---
+OK, let's break down the information for the match: ORLEN Zastal Zielona Góra @ Legia Warszawa.
+
+It's important to note that the provided match date (2026-06-21) falls within the final series of the ORLEN Basket Liga season 2025/2026. Legia Warszawa has already won the championship, defeating ORLEN Zastal Zielona Góra 4-3 in the final series, with the deciding Game 7 played on 2026-06-21 where Legia won 78-70. This means the match in question was the championship decider.
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** W maju 2026 r. informowano o kontuzji Chavaughna Lewisa (najlepszego strzelca drużyny w sezonie) oraz Miłosza Majewskiego, która wykluczała Lewisa z jednego z meczów przed fazą play-off. Brak jest jednak potwierdzonych informacji o niedostępności Chavaughna Lewisa lub innych kluczowych graczy na decydujący mecz finałowy 21 czerwca 2026 r. Phil Fayne powrócił do składu przed finałami.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na mecz 21 czerwca 2026 r. Gracze tacy jak Andrzej Pluta, DJ Brewton i Maksymilian Wilczek byli aktywni w meczach finałowych.
+    *   **ORLEN Zastal Zielona Góra**:
+        *   **Filip Matczak**: Wrócił do gry w finałach po kontuzji nosa (wystąpił w masce od 2026-06-13).
+        *   **Andrzej Mazurczak**: Wystąpił w masce od 2026-06-13.
+        *   **Chavaughn Lewis**: Odczuwał skutki zderzenia i nie zagrał w meczu o 7. miejsce w maju 2026, był najlepszym strzelcem drużyny ze średnią 18.5 pkt. Jednak późniejsze źródła (PLK.pl statystyki, czerwiec 2026) wymieniają go jako top scorera ze średnią 15.8 pkt/mecz w zakończonym sezonie 2025/2026, co sugeruje jego powrót do gry w późniejszej fazie sezonu.
+        *   **Phil Fayne**: Wrócił do gry przed finałową rywalizacją, co było kluczowe.
+        *   **Miłosz Majewski**: Uraz w maju 2026 po zderzeniu, trafił do szpitala. Brak informacji o jego powrocie przed meczem 2026-06-21.
+        *   **Sagaba Konate**: W lutym 2026 doznał poważnej kontuzji nadgarstka. Brak informacji o jego powrocie przed meczem 2026-06-21.
+        *   **Jakub Szumert**: Problemy z plecami wykluczyły go z meczu w lutym 2026. Późniejsze źródła (PLK.pl statystyki, czerwiec 2026) wymieniają go jako drugiego top scorera ze średnią 13.2 pkt/mecz w zakończonym sezonie 2025/2026, co sugeruje jego powrót do gry.
+    *   **Legia Warszawa**:
+        *   **Andrzej Pluta**: Opuścił Legię po sezonie (2026-06-24), ale grał w finale, został MVP sezonu zasadniczego i finałów 2025/2026.
+        *   **Carl Ponsar**: Opuścił Legię po sezonie (2026-06-24), ale grał w finale. Trafił do Legii na krótkoterminowy kontrakt z powodu kontuzji Race'a Thompsona.
+        *   **Race Thompson**: Kontuzja, z powodu której Carl Ponsar trafił do Legii na krótkoterminowy kontrakt. Odegrał istotną rolę w rotacji, grając w 35 meczach ze średnią 11.4 pkt. Brak dokładnych danych o jego statusie na 2026-06-21, ale fakt, że Ponsar był jego zastępstwem, sugeruje, że mógł być niedostępny lub wracał do formy.
+        *   Brak innych istotnych, potwierdzonych kontuzji koszykarzy Legii Warszawa na dzień meczu 2026-06-21. Informacje o kontuzjach piłkarzy (Petar Stojanović, Arkadiusz Reca, Paweł Wszołek) są nieistotne.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+    *   **ORLEN Zastal Zielona Góra**:
+        *   Brak danych z API dla tego zespołu w serii, ale wg statystyk PLK.pl za sezon 2025/2026, czołowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Conley Garrison, choć w pierwszych meczach finałów miał słabszą formę, był kluczowy w czwartym meczu serii i doprowadził do remisu 3:3 rzutem w ostatniej sekundzie szóstego meczu.
+    *   **Legia Warszawa**:
+        *   Brak danych z API dla tego zespołu w serii, ale wg Polsat Sport (czerwiec 2026) i PLK.pl, top scorerami w zakończonym sezonie 2025/2026 byli Dominic Brewton (14.5 Pkt/mecz - superrezerwowy), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). Andrzej Pluta został wybrany MVP sezonu zasadniczego oraz finałów.
 
-3.  **Werdykt:** ✅ ZATWIERDZONY (Legia Warszawa wygrała decydujący, 7. mecz finałowy 78:70 i zdobyła Mistrzostwo Polski 2025/2026.)
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa wygrała ten mecz (7. finałowy) i zdobyła mistrzostwo Polski.
+    *   Mecz był decydującym spotkaniem serii finałowej, co potęguje wagę przewagi własnego parkietu i dobrej formy liderów. Legia grała u siebie w Warszawie.
+    *   Pomimo pewnych braków i kontuzji w Zastalu w trakcie sezonu, kluczowi gracze wracali na decydujące mecze, jednak ostatecznie Legia okazała się silniejsza, obroniła mistrzostwo Polski i potwierdziła swoją dominację.
