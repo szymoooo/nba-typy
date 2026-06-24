@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-24T06:32:52.525608",
+  "generated_at": "2026-06-24T10:01:24.592134",
   "date": "2026-06-24",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Valencia Basket @ Barça",
+      "matchup": "Valencia @ Barcelona",
       "ai_pick": null,
-      "formula_pick": "Barça",
+      "formula_pick": "Barcelona",
       "note": "AI fallback"
     }
   ]
