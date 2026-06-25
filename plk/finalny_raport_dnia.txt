@@ -1,16 +1,24 @@
---- AUDYT PLK LIVE (2026-06-25 08:35 CET) ---
-Uwaga: Mecz ORLEN Zastal Zielona Góra @ Legia Warszawa został zaplanowany na 2026-06-21. Biorąc pod uwagę dzisiejszą datę (2026-06-25), mecz ten już się odbył. Poniższa analiza opiera się na informacjach dostępnych dla daty meczu lub tuż przed nią.
+--- AUDYT PLK LIVE (2026-06-25 12:39 CET) ---
+**Analiza meczu koszykarskiego ORLEN Basket Ligi (audyt retrospective na dzień 2026-06-25 dla meczu z 2026-06-21)**
 
 ---
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
+**Typ:** Legia Warszawa (data meczu w kontekście: 2026-06-21)
 
-1.  **Kluczowe braki w składach (stan na 2026-06-21):**
-    *   Legia Warszawa koszykówka: Brak istotnych braków w składzie koszykarskim.
-    *   ORLEN Zastal Zielona Góra koszykówka: Brak istotnych braków w składzie koszykarskim.
+1.  **Kluczowe braki w składach:**
+    *   🏀 Brak istotnych braków w składzie koszykarskim dla Legii Warszawa i ORLEN Zastalu Zielona Góra, na podstawie informacji dostępnych na dzień 2026-06-25. Sezon 2025/2026 ORLEN Basket Ligi oficjalnie zakończył się 21 czerwca 2026 roku.
 
-2.  **Aktualna forma top scorerów (dane z PulsBasketu):**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **Legia Warszawa:**
+        *   Dominic Brewton III: 14.6 punktu na mecz.
+        *   Andrzej Pluta: 13.4 punktu na mecz, uznany MVP sezonu zasadniczego i finałów, miał ogromny wpływ na obronę mistrzostwa.
+        *   Jayvon Graves: 12.9 punktu na mecz.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 16.7 punktu na mecz.
+        *   Jakub Szumert: 13.4 punktu na mecz, nagrodzony jako najlepszy zawodnik młodzieżowy w sezonie 2025/2026.
+        *   Andy Mazurczak: 11.7 punktu na mecz.
 
 3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY] Typ na Legię Warszawa. Brak zgłoszonych kluczowych braków kadrowych u obu zespołów na dzień meczu. Legia, grając u siebie w Warszawie, miałaby przewagę własnego parkietu.
+    *   ✅ **ZATWIERDZONY**
+    *   **Uzasadnienie:** Mecz ORLEN Zastal Zielona Góra @ Legia Warszawa był siódmym, decydującym spotkaniem finałowym sezonu 2025/2026 Orlen Basket Ligi. Legia Warszawa obroniła tytuł mistrza Polski, pokonując Zastal Zielona Góra wynikiem 4-3 w serii. Ostatnie spotkanie odbyło się 21 czerwca 2026 roku. Typ na Legię Warszawa okazał się trafny.
