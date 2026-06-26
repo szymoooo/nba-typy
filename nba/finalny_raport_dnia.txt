@@ -1,34 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-26 14:10 ET) ---
-Zrozumiałem instrukcje, ale muszę zaznaczyć istotne sprzeczności w podanym scenariuszu:
+--- KRYTYCZNY AUDYT LIVE (2026-06-26 14:23 ET) ---
+**Knicks @ Spurs**
 
-1.  **Data analizy vs. dane:** Poproszono mnie o analizę na podstawie "DZISIEJSZYCH danych z sieci (2026-06-26)", jednocześnie nakazując "IGNORUJ dane z lat 2024, 2025. Interesuje Cię tylko STYCZEŃ 2026.". Niemożliwe jest dokonanie rzetelnej analizy "dzisiejszych" meczów (26 czerwca 2026, czyli poza sezonem NBA) bazując wyłącznie na składach i statusach zawodników ze stycznia 2026 roku.
-2.  **Sezon NBA:** 26 czerwca 2026 to okres poza sezonem NBA. Nie odbywają się żadne mecze, a zatem nie ma "aktualnych raportów (Injury Report)" ani bieżących składów meczowych w kontekście rozgrywek ligowych.
+*   **Kluczowe braki w składach (na podstawie raportów ze STYCZNIA 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Out/Questionable (Prawy skręt stawu skokowego) 🦶
+        *   Josh Hart: Questionable (Dyskomfort w prawej kostce) 🦶
+        *   Mitchell Robinson: Out (Uraz lewej kostki) 🦶
+        *   Landry Shamet: Out/Questionable (Ból barku) 💪
+        *   Ariel Hukporti: Questionable (Uraz mięśnia czworogłowego) 🦵
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (Naderwanie lewego przywodziciela/Udo) 🦵
+        *   Luke Kornet: Questionable/Out (Napięcie lewego przywodziciela) 🦵
+        *   Jeremy Sochan: Questionable (Choroba) 😷
+        *   Aaron Wiggins: Questionable (Impigmentacja biodra) 🕺
 
-Zgodnie z zasadą, że nie zgaduję i używam wyłącznie wyszukiwania Google, a także biorąc pod uwagę datę "DZISIEJSZA DATA TO: 2026-06-26", muszę bazować na dostępnych danych z tego okresu, jednak z uwzględnieniem ograniczenia "Interesuje Cię tylko STYCZEŃ 2026" dla danych o zawodnikach. Przyjmuję to jako intencję analizy stanu drużyn na styczeń 2026, ale z perspektywy czerwcowej.
+*   **Brak aktualnych raportów (Injury Report) na tę chwilę (2026-06-26).**
 
----
-
-### Analiza meczu: Knicks @ Spurs
-
-**Typ użytkownika: Spurs**
-
-#### Kluczowe braki w składach (na podstawie dostępnych danych ze stycznia 2026, z uwzględnieniem obecnego braku aktywności ligowej):
-
-*   Brak aktualnych raportów (Injury Report) na tę chwilę (26 czerwca 2026). ❌
-*   W celu analizy składów na styczeń 2026:
-
-    Zgodnie z informacjami na styczeń 2026:
-
-*   **New York Knicks:**
-    *   W składzie Knicks na sezon 2025-2026 widoczni są tacy gracze jak Jalen Brunson, Mitchell Robinson, Josh Hart, Miles McBride. W niektórych źródłach pojawiają się również Karl-Anthony Towns i Jordan Clarkson, co sugerowałoby zmiany w składzie. Jeremy Sochan i Jose Alvarado zostali pozyskani przez Knicks w lutym 2026 roku.
-*   **San Antonio Spurs:**
-    *   Skład Spurs na sezon 2025-2026 obejmuje m.in. Victora Wembanyamę, Devina Vassella, Keldona Johnsona. W niektórych raportach z 2026 roku wymienia się także De'Aarona Foxa i Stephon Castle. San Antonio Spurs w sezonie 2025-2026 mieli imponujący bilans 62-20, zajmując 2. miejsce w Konferencji Zachodniej, z wysokim wskaźnikiem efektywności zarówno w ataku, jak i obronie.
-
-#### Werdykt:
-
-[⚠️ RYZYKOWNY]
-
-**Uzasadnienie:**
-Typ jest ryzykowny ze względu na brak aktualnych informacji o meczu oraz statusach kontuzji na 26 czerwca 2026 roku, ponieważ NBA jest w trakcie przerwy międzysezonowej. Analiza oparta jest na składach ze stycznia 2026 roku, które mogły ulec zmianom, a co najważniejsze, nie uwzględnia bieżącej formy ani hipotetycznych kontuzji, które mogłyby wystąpić w prawdziwym meczu.
-
-Jeśli jednak opieramy się na *statystykach i składach ze stycznia 2026*, San Antonio Spurs wykazali się w sezonie 2025-2026 jako bardzo mocna drużyna z bilansem 62-20 i wysoką efektywnością. New York Knicks również mieli silny skład, ale potencjalne ruchy transferowe w lutym (jak np. Jose Alvarado i Jeremy Sochan do Knicks) mogłyby wpłynąć na dynamikę drużyny, gdybyśmy analizowali późniejszą datę w sezonie 2025/2026. Biorąc pod uwagę jedynie styczeń 2026 i bardzo mocne wyniki Spurs, typ na Spurs ma pewne podstawy historyczne z tamtego okresu. Jednak brak jakichkolwiek aktualnych danych z dzisiejszego dnia (26.06.2026) czyni ten typ wysoce spekulatywnym w kontekście "dzisiejszego" meczu.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Chociaż New York Knicks borykali się ze znaczącymi brakami kadrowymi w styczniu 2026, to należy pamiętać, że są oni obecnymi mistrzami NBA, którzy pokonali San Antonio Spurs w pięciu meczach w niedawnych Finałach NBA 2026. Typowanie przeciwko obrońcy tytułu, który właśnie zwyciężył nad tym samym rywalem, jest obarczone wysokim ryzykiem, niezależnie od historycznych kontuzji.
