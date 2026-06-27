@@ -1,12 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-26 20:10 ET) ---
-Na podstawie dostępnych danych z sieci na styczeń 2026 roku:
+--- KRYTYCZNY AUDYT LIVE (2026-06-26 22:35 ET) ---
+Analizuję Twoje typy na podstawie dostępnych danych z sieci na dzień 2026-06-26, pamiętając, że interesuje mnie stan składów na styczeń 2026.
 
-**Knicks @ Spurs**
+---
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Składy (Styczeń 2026):**
-    *   **New York Knicks:** Obejmuje Jalen Brunson, Mitchell Robinson, a także potencjalne znaczące wzmocnienia takie jak Karl-Anthony Towns, Jordan Clarkson, Landry Shamet i Malcolm Brogdon. W składzie pojawiają się również Jeremy Sochan i Jose Alvarado.
-    *   **San Antonio Spurs:** W składzie znajdują się kluczowi gracze tacy jak Victor Wembanyama, Devin Vassell i Keldon Johnson. Zespół został wzmocniony o De'Aarona Foxa, Dylana Harpera i Stephona Castle'a, co znacząco poprawia ich pozycje obwodowe. W sezonie 2025-26 Spurs osiągnęli imponujący bilans 62-20, zajmując 2. miejsce w Konferencji Zachodniej, z wysokim wskaźnikiem NetRtg +8.3.
+**Mecz: Knicks @ Spurs**
+**Typ: Spurs**
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    San Antonio Spurs, z Victorem Wembanyamą jako filarem i znaczącymi wzmocnieniami takimi jak De'Aaron Fox, wykazali dominującą formę w sezonie 2025-26, osiągając bilans 62-20 i zajmując 2. miejsce w Konferencji Zachodniej. W związku z tym, typ na Spurs jest uzasadniony.
+*   **Kluczowe składy na styczeń 2026:**
+    *   **New York Knicks:**
+        *   Kluczowi gracze na styczeń 2026 obejmowali: Jalen Brunson, Josh Hart, Mitchell Robinson, OG Anunoby, Karl-Anthony Towns, Miles McBride, Jordan Clarkson, Landry Shamet, Malcolm Brogdon.
+    *   **San Antonio Spurs:**
+        *   Kluczowi gracze na styczeń 2026 obejmowali: Victor Wembanyama, Devin Vassell, Keldon Johnson, Jeremy Sochan (do 12.02.2026), De'Aaron Fox, Dylan Harper, Luke Kornet, Bismack Biyombo, Mason Plumlee, Kelly Olynyk, Stephon Castle.
+
+*   **Kluczowe braki w składach (Injury Report na 2026-06-26):**
+    *   Brak aktualnych raportów (Injury Report) z potwierdzonymi statusami 'Out', 'Questionable', 'GTD' na dzień 2026-06-26, które byłyby miarodajne dla meczu w styczniu 2026. Informacje o kontuzjach z czerwca 2026, takie jak Mitchell Robinson (uraz palca) czy Jayden Quaintance (uraz kolana), dotyczą końca sezonu 2025/2026 lub przygotowań do Ligi Letniej i nie mają zastosowania do hipotetycznego meczu w styczniu 2026. Raporty NBA CMS z 7 czerwca 2026 dla Spurs wskazują "NOT YET SUBMITTED".
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak konkretnych, potwierdzonych raportów kontuzji z datą stycznia 2026 uniemożliwia rzetelną ocenę wpływu absencji na ten hipotetyczny mecz. Analiza oparta wyłącznie na składach z tego okresu, bez uwzględnienia dynamicznych statusów zdrowotnych, jest obarczona wysokim ryzykiem.
