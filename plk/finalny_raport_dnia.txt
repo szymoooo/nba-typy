@@ -1,17 +1,21 @@
---- AUDYT PLK LIVE (2026-06-27 21:08 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)
-
-📆 Data meczu: 2026-06-21 (finał PLK 2025/2026)
+--- AUDYT PLK LIVE (2026-06-27 21:37 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21.06.2026.
-    *   **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21.06.2026.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim, potwierdzonych na dzień meczu (21.06.2026). Wcześniej w sezonie Race Thompson zmagał się z kontuzją, co skutkowało tymczasowym kontraktem dla Carla Ponsara, ale brak jest informacji o jego niedostępności na mecz finałowy.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim, potwierdzonych na dzień meczu (21.06.2026).
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu (nie podano danych z PulsBasketu dla top scorerów w serii).
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **Legia Warszawa:**
+        *   Dominic Brewton III: średnio 14.5 Pkt/mecz.
+        *   Andrzej Pluta: średnio 13.4 Pkt/mecz, wybrany MVP sezonu zasadniczego oraz MVP finałów.
+        *   Jayvon Graves: średnio 12.8 Pkt/mecz.
+        *   Carl Ponsar: średnio 11.24 Pkt/mecz.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: średnio 15.8 Pkt/mecz.
+        *   Jakub Szumert: średnio 13.2 Pkt/mecz.
+        *   Andrzej Mazurczak: średnio 11.8 Pkt/mecz.
+        *   Conley Garrison: średnio 10.98 Pkt/mecz, pokazał świetną dyspozycję w fazie play-off.
 
-3.  **Werdykt:**
-    *   ✅ **ZATWIERDZONY**
-        *   Mecz był siódmym, decydującym spotkaniem finału ORLEN Basket Ligi sezonu 2025/2026.
-        *   Legia Warszawa wygrała ten mecz wynikiem 78:70 i zdobyła mistrzostwo Polski.
-        *   Brak potwierdzonych informacji o kluczowych kontuzjach lub zawieszeniach, które mogłyby istotnie wpłynąć na wynik dla którejkolwiek z drużyn w dniu meczu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się 21 czerwca 2026 roku w Hali OSiR Bemowo w Warszawie i był decydującym, siódmym spotkaniem finałowym PLK, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, zdobywając Mistrzostwo Polski (4-3 w serii). Legia, grając u siebie w decydującym meczu, dysponowała liderami w dobrej formie, co potwierdziło zwycięstwo i obrona tytułu mistrzowskiego.
