@@ -1,20 +1,28 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-27 05:06 ET) ---
-Na podstawie danych z sieci dotyczących stycznia 2026, przedstawiam analizę Twojego typu:
+--- KRYTYCZNY AUDYT LIVE (2026-06-27 06:04 ET) ---
+Analiza meczu: Knicks @ Spurs
 
-**Knicks @ Spurs -> Typ: Spurs**
+*   **Brak aktualnych raportów (Injury Report) na tę chwilę (2026-06-27) dla ligi NBA.** Dostępne są jedynie raporty kontuzji z różnych dni STYCZNIA 2026.
 
-*   **Kluczowe braki w składach (Styczeń 2026):**
-    *   **New York Knicks:**
-        *   Jalen Brunson: Prawy skręcenie kostki (Day-to-day/Questionable w dniach 14, 17, 19 stycznia).
-        *   Josh Hart: Dyskomfort/ból w prawej kostce (Day-to-day/Questionable w dniach 10, 17, 19 stycznia).
-        *   Landry Shamet: Kontuzja barku (Out, 14 stycznia).
-        *   Ariel Hukporti: Mięsień czworogłowy (Questionable, 14 stycznia).
-    *   **San Antonio Spurs:**
-        *   Devin Vassell: Naciągnięcie mięśnia uda/przywodziciela (Out w dniach 3, 25, 31 stycznia).
-        *   Jeremy Sochan: Choroba (Questionable/Sidelined w dniach 25, 31 stycznia).
-        *   Victor Wembanyama: Kolano (Day-to-Day, 3 stycznia).
-        *   Luke Kornet: Napięcie mięśnia przywodziciela (Questionable, 25 stycznia).
+---
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+**Kluczowe braki w składach (na podstawie danych ze stycznia 2026):**
 
-    *   Mimo że San Antonio Spurs mieli bardzo dobry sezon 2025-26 (bilans 62-20, 2. miejsce w Konferencji Zachodniej), a New York Knicks również byli silni (bilans 53-29, 3. miejsce w Konferencji Wschodniej), to Knicks zostali mistrzami NBA w sezonie 2025-26, pokonując Spurs w Finałach. Obie drużyny miały w styczniu 2026 roku kluczowe braki kadrowe, które mogły znacząco wpłynąć na wynik meczu. Brak dokładnej daty meczu uniemożliwia precyzyjną ocenę stanu składów w konkretnym dniu, ale ogólna tendencja wskazuje na ryzyko.
+**New York Knicks:**
+*   Jalen Brunson: Rozcięgno podeszwowe w prawej kostce (status w styczniu zmieniał się między "day-to-day" a "OUT") 🦶
+*   Josh Hart: Dyskomfort w prawej kostce (status "day-to-day" w styczniu) 🦶
+*   Mitchell Robinson: Zarządzanie kontuzją lewej kostki ("OUT" w styczniu) 🩹
+*   Landry Shamet: Zwichnięcie prawego barku ("OUT" lub "Questionable" w styczniu) 🤕
+
+**San Antonio Spurs:**
+*   Devin Vassell: Naciągnięcie lewego przywodziciela/uda ("OUT" w styczniu) 🦵
+*   Jeremy Sochan: Choroba ("Questionable" lub "sidelined" w styczniu) 🤒
+*   Victor Wembanyama: Kolano ("Day-To-Day" na początku stycznia) 🦵
+*   Luke Kornet: Napięcie lewego przywodziciela ("Questionable" w styczniu) 🦵
+*   Aaron Wiggins: Zniekształcenie prawego biodra ("Questionable" w styczniu) 🩹
+
+---
+
+**Werdykt dla typu: Spurs**
+
+[✅ ZATWIERDZONY]
+Potencjalna absencja kluczowych graczy Knicks, takich jak Jalen Brunson i Josh Hart, znacząco osłabiłaby ich ofensywę w styczniu 2026. Mimo kontuzji w składzie Spurs (Vassell, Sochan, Wembanyama jako "Day-To-Day"), obecność De'Aarona Foxa i Victora Wembanyamy (jeśli byłby dostępny i grał) nadal dawała im silną przewagę, szczególnie w obliczu osłabionych Knicks.
