@@ -1,19 +1,22 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-26 22:35 ET) ---
-Analizuję Twoje typy na podstawie dostępnych danych z sieci na dzień 2026-06-26, pamiętając, że interesuje mnie stan składów na styczeń 2026.
+--- KRYTYCZNY AUDYT LIVE (2026-06-27 02:09 ET) ---
+Na podstawie danych z sieci z dnia 2026-06-27, nie znaleziono potwierdzonej daty meczu New York Knicks kontra San Antonio Spurs w styczniu 2026 roku. Dostępne raporty dotyczące kontuzji z tego okresu dotyczą innych spotkań obu drużyn.
+
+W związku z brakiem konkretnego meczu Knicks @ Spurs w styczniu 2026 roku, nie mogę dostarczyć kluczowych braków w składach dla tego konkretnego pojedynku ani wydać werdyktu.
+
+Poniżej przedstawiam ogólne raporty kontuzji dla obu drużyn ze stycznia 2026 roku, które zostały znalezione:
 
 ---
 
-**Mecz: Knicks @ Spurs**
-**Typ: Spurs**
+**Knicks @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe składy na styczeń 2026:**
+*   **Kluczowe braki w składach:**
     *   **New York Knicks:**
-        *   Kluczowi gracze na styczeń 2026 obejmowali: Jalen Brunson, Josh Hart, Mitchell Robinson, OG Anunoby, Karl-Anthony Towns, Miles McBride, Jordan Clarkson, Landry Shamet, Malcolm Brogdon.
+        *   **19 stycznia 2026:** Jalen Brunson (skręcenie prawej kostki, dzień po dniu), Josh Hart (ból prawej kostki, dzień po dniu).
+        *   **14 stycznia 2026:** Landry Shamet (kontuzja barku, Out), Ariel Hukporti (czworogłowy, Questionable). Jalen Brunson (skręcenie prawej kostki, Out), Mitchell Robinson (kontuzja lewej kostki, Out).
+        *   **17 stycznia 2026:** Jalen Brunson (skręcenie prawej kostki, Questionable), Josh Hart (ból prawej kostki, Questionable).
     *   **San Antonio Spurs:**
-        *   Kluczowi gracze na styczeń 2026 obejmowali: Victor Wembanyama, Devin Vassell, Keldon Johnson, Jeremy Sochan (do 12.02.2026), De'Aaron Fox, Dylan Harper, Luke Kornet, Bismack Biyombo, Mason Plumlee, Kelly Olynyk, Stephon Castle.
+        *   **3 stycznia 2026:** Devin Vassell (Udo, Out), Victor Wembanyama (Kolano, Day-To-Day).
+        *   **25 stycznia 2026:** Devin Vassell (nadwyrężenie lewego przywodziciela, Nieznany powrót), Luke Kornet (napięcie lewego przywodziciela, Questionable), Jeremy Sochan (choroba, Questionable), Aaron Wiggins (zderzenie prawego biodra, Questionable).
+        *   **31 stycznia 2026:** Jeremy Sochan (Out), Devin Vassell (Out).
 
-*   **Kluczowe braki w składach (Injury Report na 2026-06-26):**
-    *   Brak aktualnych raportów (Injury Report) z potwierdzonymi statusami 'Out', 'Questionable', 'GTD' na dzień 2026-06-26, które byłyby miarodajne dla meczu w styczniu 2026. Informacje o kontuzjach z czerwca 2026, takie jak Mitchell Robinson (uraz palca) czy Jayden Quaintance (uraz kolana), dotyczą końca sezonu 2025/2026 lub przygotowań do Ligi Letniej i nie mają zastosowania do hipotetycznego meczu w styczniu 2026. Raporty NBA CMS z 7 czerwca 2026 dla Spurs wskazują "NOT YET SUBMITTED".
-
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak konkretnych, potwierdzonych raportów kontuzji z datą stycznia 2026 uniemożliwia rzetelną ocenę wpływu absencji na ten hipotetyczny mecz. Analiza oparta wyłącznie na składach z tego okresu, bez uwzględnienia dynamicznych statusów zdrowotnych, jest obarczona wysokim ryzykiem.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak aktualnych raportów (Injury Report) na tę chwilę dla konkretnego meczu Knicks @ Spurs w styczniu 2026. Analiza na podstawie ogólnych raportów kontuzji z danego miesiąca byłaby spekulatywna bez potwierdzenia daty meczu.

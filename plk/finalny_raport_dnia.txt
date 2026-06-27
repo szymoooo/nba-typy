@@ -1,42 +1,12 @@
---- AUDYT PLK LIVE (2026-06-27 02:11 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-06-27 08:10 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa z 2026-06-21:
 
 1.  **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa:** Środkowy Matthias Tass doznał kontuzji w marcu 2026, wykluczającej go na około 4-5 tygodni. Przy założeniu planowego powrotu, powinien być dostępny na czerwcowe finały. Brak innych potwierdzonych, kluczowych kontuzji na dzień 2026-06-27, które wpłynęłyby na finał.
+    *   **ORLEN Zastal Zielona Góra:** Filip Matczak i Andrzej Mazurczak grali w finałach w maskach po urazach (stan na 13.06.2026). Dwight Wilson III odczuwał skutki urazu kostki, ale brał udział w treningach (stan na 06.06.2026). Phil Fayne wrócił do składu (stan na 06.06.2026).
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tych zespołów.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **Legia Warszawa:** Najlepsi strzelcy w sezonie 2025/2026 to Dominic Brewton III (14.6 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.9 Pkt/mecz). Andrzej Pluta został wybrany MVP sezonu zasadniczego oraz MVP finałów. W decydującym meczu finałowym kluczowe akcje należały do Race'a Thompsona i Andrzeja Pluty.
+    *   **ORLEN Zastal Zielona Góra:** Najlepsi strzelcy w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]KONTEKST DZISIEJSZYCH MECZOW (dane z PulsBasketu - to fakty, nie zgaduj):
-
-=========================================================================
-TYPY DO AUDYTU:
-=========================================================================
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
-
-=========================================================================
-ZADANIE
-=========================================================================
-Dla kazdego meczu okresl:
-1. Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii) - sprawdz Google Search.
-2. Aktualna forma top scorerow (jezeli mam dane W SERII powyzej, uwzglednij je).
-3. Werdykt: [✅ ZATWIERDZONY] albo [⚠️ RYZYKOWNY].
-
-PAMIETAJ:
-- Hala/miasto z KONTEKSTU = fakt, nie zmieniaj.
-- Faza play-off + decydujacy mecz (np. mecz 5/5 lub 7/7) = wieksza waga przewagi wlasnego parkietu i kontuzji liderow.
-
----
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-
-1.  **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim. Dostępny jest pełny skład na sezon 2025/2026, w tym m.in. Chavaughn Lewis, Andrzej Mazurczak, Phil Fayne, Conley Garrison, Patrick Cartier, Jakub Szumert, Miłosz Góreńczyk, Sagaba Konate, Jayvon Maughmer, Filip Matczak, Krzysztof Sulima, Marcin Woroniecki, Bartosz Chęciński, Jakub Kowacki, Miłosz Majewski i Dwight Allen Wilson III.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Skład na sezon 2025/2026 obejmuje m.in. D.J. Brewton, Blazej Czapla, Julian Dbrowski, Jayvon Graves, Shane Hunter, Wojciech Jasiewicz, Michal Kolenda, Dawid Niedzialkowski, Andrzej Pluta, Carl Ponsar, Ben Shungu, Ojars Silins, Matthias Tass, Race Thompson, Wojciech Tomaszewski i Maksymilian Wilczek.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. Zgodnie z danymi PLK dla sezonu 2025/2026, najlepszymi strzelcami ORLEN Zastal Zielona Góra byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+3.  **Werdykt:** ✅ ZATWIERDZONY. Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 w siódmym, decydującym meczu finałów ORLEN Basket Ligi, zdobywając Mistrzostwo Polski. Typ zgadza się z wynikiem meczu.
