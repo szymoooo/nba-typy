@@ -1,18 +1,24 @@
---- AUDYT PLK LIVE (2026-06-27 12:05 CET) ---
-# PLK typy na 2026-06-21
+--- AUDYT PLK LIVE (2026-06-27 17:20 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21) -> Typ: Legia Warszawa
 
-## ORLEN Zastal Zielona Góra @ Legia Warszawa
+1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:**
+        *   Matthias Tass (środkowy): Grał w fazie play-off, ale z ograniczonymi minutami z powodu kontuzji. Wcześniej, w marcu 2026, przewidywano 4-5 tygodni przerwy po urazie w reprezentacji, a w grudniu 2025 informowano o operacji stawu skokowego i ok. 3-miesięcznej pauzie.
+        *   Michał Kolenda (kapitan): Doznał zerwania więzadeł stawu skokowego w grudniu 2025, z przewidywaną przerwą 6-8 tygodni. W finale był aktywnym i ważnym ogniwem zespołu.
+        *   Race Thompson: Jego kontuzja była przyczyną krótkoterminowego kontraktu Carla Ponsara. Brak jednoznacznych informacji, czy był dostępny i w pełni zdrowy na finał 21.06.2026.
+        *   Brak informacji o zawieszeniach lub foul-outach z poprzedniego meczu serii.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Filip Matczak (rozgrywający/rzucający): Grał w finałach z kontuzją nosa (występował w masce).
+        *   Andrzej Mazurczak (rozgrywający): Również grał w finałach z kontuzją (występował w masce).
+        *   Chavaughn Lewis (rzucający/niski skrzydłowy): W maju 2026 zgłaszał poważny uraz ("boli mnie cała górna część ciała"), co wykluczyło go z wcześniejszego meczu o 7. miejsce. Jest wymieniony jako jeden z najlepszych strzelców Zastalu w sezonie 2025/2026. Biorąc pod uwagę wagę finału, prawdopodobnie grał z urazem.
+        *   Phil Fayne (silny skrzydłowy): Zgłoszono jego powrót do gry po kontuzji 6 czerwca 2026, przed rozpoczęciem serii finałowej.
+        *   Brak informacji o zawieszeniach lub foul-outach z poprzedniego meczu serii.
 
-### 1. Kluczowe braki w składach
-*   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Wcześniejsze doniesienia o kontuzji Chavaughna Lewisa (maj 2026) okazały się nieistotne dla tego meczu, gdyż zawodnik zagrał w finale.
-*   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Andrzej Pluta, mimo urazu doznanego w trakcie meczu, kontynuował grę i został MVP finałów. Matthias Tass miał historię kontuzji w sezonie, ale brak potwierdzenia jego absencji w tym decydującym spotkaniu.
+2.  **Aktualna forma top scorerów:**
+    *   **Legia Warszawa:** Andrzej Pluta został wybrany MVP sezonu zasadniczego i MVP finałów 2025/2026, co świadczy o jego znakomitej formie.
+    *   **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 kluczowymi strzelcami byli Chavaughn Lewis (średnio 15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Filip Matczak również był istotnym elementem zespołu.
+    *   Brak danych z API dla tego zespołu na temat bieżącej formy strzeleckiej w serii.
 
-### 2. Aktualna forma top scorerów
-Brak danych z API dla tego zespołu. Jednakże, w decydującym meczu finałowym, wyróżnili się następujący zawodnicy:
-*   **Legia Warszawa:** Andrzej Pluta (15 pkt), Dominic Brewton (11 pkt), Race Thompson (11 pkt), Shane Hunter (10 pkt).
-*   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 pkt), Jayvon Maughmer (10 pkt), Chavaughn Lewis (10 pkt).
-
-### 3. Werdykt
-[✅ ZATWIERDZONY]
-
-**Uzasadnienie:** Mecz był siódmym i decydującym spotkaniem finałowym ORLEN Basket Ligi sezonu 2025/2026. Legia Warszawa obroniła tytuł mistrza Polski, pokonując u siebie ORLEN Zastal Zielona Góra 78:70. Zwycięstwo Legii w tej serii 4-3 na własnym parkiecie (Hala Bemowo) wskazuje na silną przewagę gospodarzy w kluczowym meczu. Legia, pomimo zaciętej walki, utrzymała przewagę i zapewniła sobie mistrzostwo.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mecz odbył się 21 czerwca 2026 roku i był decydującym, siódmym spotkaniem finałowym, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, zdobywając mistrzostwo Polski.
+    *   Mimo iż typ okazał się trafny (Legia wygrała mecz i całą serię), obecność wielu kluczowych graczy w obu drużynach, grających z kontuzjami lub po niedawnym powrocie z urazów (Tass, Kolenda w Legii; Matczak, Mazurczak, Lewis w Zastalu), znacząco zwiększała nieprzewidywalność spotkania i całej serii. Ryzyko kontuzji w trakcie meczu lub pogorszenia stanu zdrowia istniejących urazów było wysokie, co zawsze czyni typ ryzykownym, nawet w przypadku trafnej prognozy końcowego zwycięzcy.
