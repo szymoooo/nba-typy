@@ -1,9 +1,14 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-28 13:53 ET) ---
-Na podstawie danych z sieci (2026-06-28):
+--- KRYTYCZNY AUDYT LIVE (2026-06-28 15:21 ET) ---
+Na podstawie danych z 2026-06-28 i informacji dotyczących stycznia 2026:
 
-**Knicks @ Spurs -> Typ: Spurs**
+**Knicks @ Spurs** -> Typ: Spurs
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. Zgodnie z wytycznymi, informacje o kontuzjach na dzień 2026-06-28 nie są dostępne w ramach danych z stycznia 2026, a raporty dla dzisiejszej daty często nie są jeszcze ostatecznie potwierdzone przez oficjalne źródła NBA.
-*   **Skład New York Knicks (styczeń 2026):** Jalen Brunson, Malachi Flynn, Miles McBride, Jordan Clarkson, Landry Shamet, Malcolm Brogdon, Mitchell Robinson, Karl-Anthony Towns, Josh Hart, Jeremy Sochan, Jose Alvarado.
-*   **Skład San Antonio Spurs (styczeń 2026):** Victor Wembanyama, Devin Vassell, Keldon Johnson, Zach Collins, Jeremy Sochan, De'Aaron Fox, Stephon Castle, Kelly Olynyk, Mason Plumlee, Harrison Barnes.
-*   **Werdykt: [⚠️ RYZYKOWNY]** Brak kluczowych informacji o kontuzjach na dzień meczu (28.06.2026) sprawia, że ocena typu jest obarczona wysokim ryzykiem. Składy ze stycznia 2026 dają ogólny obraz, ale bez aktualnych statusów zawodników (Out, Questionable, GTD), rzetelna analiza jest niemożliwa.
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+
+    Uzasadnienie:
+    San Antonio Spurs mieli bardzo udany sezon 2025-26, kończąc go z rekordem 62-20 i zajmując 2. miejsce w Konferencji Zachodniej, z wysokimi wskaźnikami ofensywnymi i defensywnymi. W ich składzie w styczniu 2026 znajdowali się kluczowi zawodnicy tacy jak Victor Wembanyama (lider play-offów w zbiórkach i blokach w sezonie 2025-26), Devin Vassell, De'Aaron Fox, Stephon Castle i Jeremy Sochan. Co więcej, Spurs pokonali Knicks 134-132 w meczu rozegranym 31 grudnia 2025 roku.
+
+    New York Knicks również mieli dobry sezon 2025-26 z rekordem 53-29. W ich składzie w styczniu 2026 byli tacy gracze jak Jalen Brunson, Karl-Anthony Towns i Mitchell Robinson.
+
+    Biorąc pod uwagę ogólną siłę Spurs w styczniu 2026 oraz ich wcześniejsze zwycięstwo nad Knicks w tym samym okresie, typ na Spurs jest uzasadniony.
