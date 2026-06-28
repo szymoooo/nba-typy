@@ -1,8 +1,28 @@
---- AUDYT PLK LIVE (2026-06-28 19:54 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-06-28 19:59 CET) ---
+Analiza meczu PLK z dnia 2026-06-21:
 
-1.  **Kluczowe braki w składach koszykarskich:**
-    *   🏀 **Legia Warszawa:** Race Thompson zmagał się z problemami zdrowotnymi i był niedostępny na pierwszy mecz finałów (8 czerwca 2026), co sugeruje, że prawdopodobnie opuścił również decydujący mecz 21 czerwca 2026. Nie znaleziono innych potwierdzonych, istotnych braków w składzie koszykarskim Legii na dzień 28.06.2026.
-    *   🏀 **ORLEN Zastal Zielona Góra:** W dniu 6 czerwca 2026 informowano o "walce z urazami w szeregach Zastalu", jednak brak jest potwierdzonych, konkretnych nazwisk kluczowych koszykarzy, którzy byli niedostępni na mecz 21 czerwca 2026, według informacji dostępnych na dzień 28.06.2026.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY] (Legia Warszawa zwyciężyła w 7. meczu finałowym 78:70, zdobywając Mistrzostwo Polski w sezonie 2025/2026.)
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis, czołowy strzelec, odczuwał skutki zderzenia i miał opuścić mecz w maju 2026. Miłosz Majewski również był kontuzjowany w tym samym incydencie. Brak definitywnych informacji o jego statusie na finałowy mecz 21 czerwca.
+        *   Przed finałami z Legią Warszawa w czerwcu 2026, Zastal zmagał się z urazami w swoich szeregach, jednak nie podano konkretnych nazwisk ani ich statusu na dzień meczu.
+        *   Phil Fayne wrócił do gry dla Zastalu około 6 czerwca 2026.
+    *   🏀 **Legia Warszawa:**
+        *   Matthias Tass zagrał tylko 10 spotkań w sezonie regularnym i 6 w fazie play-off z powodu kontuzji. W grudniu 2025 roku, Michał Kolenda i Matthias Tass byli wykluczeni na dłuższy czas, a Ojārs Siliņš opuścił jeden mecz.
+        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na decydujący mecz finałowy z dnia 2026-06-21, poza ogólnymi informacjami o problemach z kontuzjami niektórych zawodników w trakcie sezonu.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz
+        *   Jakub Szumert: 13.2 Pkt/mecz
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz, również czołowy asystent (6.5 AS/mecz w październiku 2025).
+    *   🏀 **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz
+        *   Andrzej Pluta: 13.4 Pkt/mecz. Został wybrany MVP sezonu i MVP finałów 2025/2026.
+        *   Jayvon Graves: 12.8 Pkt/mecz
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się 21 czerwca 2026 roku w Warszawie (Hala OSiR Bemowo) i był siódmym, decydującym spotkaniem finałów ORLEN Basket Ligi sezonu 2025/2026.
+    *   Legia Warszawa zwyciężyła w tym meczu 78-70, zdobywając Mistrzostwo Polski.
+    *   Typ na Legię Warszawa okazał się trafny.
