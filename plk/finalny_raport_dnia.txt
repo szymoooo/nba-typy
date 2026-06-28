@@ -1,20 +1,36 @@
---- AUDYT PLK LIVE (2026-06-28 04:49 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+--- AUDYT PLK LIVE (2026-06-28 08:58 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data typowania: 2026-06-21, perspektywa analizy: 2026-06-28):
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (silny skrzydłowy/środkowy) - wykluczony z gry do końca sezonu 2025/2026 z powodu urazu więzadła SL nadgarstka, którego doznał w lutym 2026 roku.
-        *   Dwight Wilson III (środkowy) – odczuwał skutki urazu kostki, ale trenował normalnie na początku czerwca 2026. Informacji o jego braku w meczu z 21.06 brak, zakładamy dostępność.
-    *   **Legia Warszawa:**
-        *   Race Thompson (silny skrzydłowy) – zmagał się z problemami zdrowotnymi i był niedostępny w pierwszym meczu finałowym (08.06.2026). Brak późniejszych informacji o jego powrocie przed 21.06.2026, co sugeruje jego brak w składzie.
-        *   Matthias Tass (silny skrzydłowy) – w grudniu 2025 przeszedł operację stawu skokowego z przewidywanym powrotem za około 3 miesiące. Informacja z 25 czerwca 2026 wskazuje, że Tass miał zagrać w Starcie Lublin, co sugeruje, że nie był dostępny dla Legii 21 czerwca 2026.
-        *   Michał Kolenda (niski skrzydłowy) – doznał zerwania więzadeł stawu skokowego w grudniu 2025, z przewidywanym powrotem w ciągu 6-8 tygodni. Informacja z 21 czerwca 2026 wskazuje, że Kolenda wrócił do gry i czuł się dobrze.
+*   **ORLEN Zastal Zielona Góra**
+    1.  **Kluczowe braki w składach (2025/2026 do 2026-06-21):**
+        *   Brak istotnych braków w składzie koszykarskim Legii Warszawa odnotowanych na dzień 21 czerwca 2026.
+    2.  **Aktualna forma top scorerów:**
+        *   Brak danych z API dla tego zespołu.
+    3.  **Werdykt:** [✅ ZATWIERDZONY]
 
-2.  **Aktualna forma top strzelców:**
-    *   Brak danych z API dla tego zespołu w kontekście konkretnej serii playoff.
-    *   Na podstawie danych z sezonu zasadniczego 2025/2026 (stan na maj 2026):
-        *   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis (19.47 pkt/mecz), Jakub Szumert (13.3 pkt/mecz), Andrzej Mazurczak (11.6 pkt/mecz).
-        *   **Legia Warszawa:** Andrzej Pluta (12.2 pkt, 5.9 asysty, 2.0 zbiórki - statystyki z 21 meczów sezonu zasadniczego, stan na marzec 2026).
+*   **Legia Warszawa**
+    1.  **Kluczowe braki w składach (2025/2026 do 2026-06-21):**
+        *   Brak istotnych braków w składzie koszykarskim Zastalu Zielona Góra odnotowanych na dzień 21 czerwca 2026.
+    2.  **Aktualna forma top scorerów:**
+        *   Brak danych z API dla tego zespołu.
+    3.  **Werdykt:** [✅ ZATWIERDZONY]
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowej serii ORLEN Basket Ligi. Legia Warszawa wygrała ten mecz wynikiem 78:70 i zdobyła mistrzostwo Polski. Typ na Legię Warszawa był trafny.
+**PODSUMOWANIE TYPU:**
+*   **ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+    *   **Kluczowe braki:** Brak istotnych, potwierdzonych braków w składach koszykarskich obu drużyn na dzień 21 czerwca 2026 r.
+    *   **Forma top scorerów:** Brak danych z API.
+    *   **Werdykt:** [✅ ZATWIERDZONY] - Typ jest zatwierdzony na podstawie braku potwierdzonych osłabień kadrowych, które mogłyby wpłynąć na wynik meczu.Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data typowania: 2026-06-21):
+
+*   **1. Kluczowe braki w składach (stan na 2026-06-21):**
+    *   🏀 **Legia Warszawa:**
+        *   **Race Thompson:** zmagał się z problemami zdrowotnymi i zabrakło go w składzie Legii w pierwszym meczu finałowym (08.06.2026), co sugeruje jego niepełną dyspozycję lub brak w decydującym spotkaniu.
+        *   **Matthias Tass:** z powodu kontuzji zagrał ograniczoną liczbę spotkań w sezonie regularnym i fazie posezonowej, co wpłynęło na jego ogólną dostępność i formę w playoffs.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   **Phil Fayne:** W czerwcu 2026 roku walczył z urazami, choć wrócił do gry w serii finałowej.
+        *   **Filip Matczak i Andrzej Mazurczak:** Obaj zawodnicy wystąpili w meczu nr 3 finałów (13.06.2026) w maskach, po kontuzjach nosa, co mogło wpływać na ich komfort gry.
+
+*   **2. Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+
+*   **3. Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo że Legia Warszawa ostatecznie zdobyła mistrzostwo Polski 21 czerwca 2026 roku, typ na ten mecz był ryzykowny ze względu na liczne problemy zdrowotne i ograniczoną dyspozycję kluczowych graczy w obu drużynach w decydującym, siódmym meczu finału PLK.
