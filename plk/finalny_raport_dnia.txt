@@ -1,13 +1,18 @@
---- AUDYT PLK LIVE (2026-06-29 21:06 CET) ---
-**PLK typy na 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-06-29 22:49 CET) ---
+Analiza meczu PLK na dzień 2026-06-21 (analiza wykonana w dniu 2026-06-29):
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+*   Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
-    *   🏀 **Legia Warszawa:** Michał Kolenda był kontuzjowany i wykluczony ze zgrupowania kadry narodowej (informacja z 28.06.2026, co wskazuje na jego niedyspozycję również w okresie finałów PLK). Matthias Tass odszedł z klubu 25.06.2026, co oznacza, że był częścią składu na finał 21.06.2026.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim zgłoszonych przed 21 czerwca 2026 roku.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim zgłoszonych przed 21 czerwca 2026 roku.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:**
-    *   ✅ **ZATWIERDZONY**
-    *   **Uzasadnienie:** Legia Warszawa zdobyła Mistrzostwo ORLEN Basket Ligi w sezonie 2025/2026, pokonując ORLEN Zastal Zielona Góra w decydującym, siódmym meczu finałowym, który odbył się 21.06.2026. Mimo kontuzji Michała Kolendy w Legii i ogólnych "walk z urazami" w Zastalu (bez wskazania konkretnych kluczowych braków), Legia zdołała wygrać kluczowy mecz. Typowanie Legii Warszawa było słuszne.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Brak znaczących osłabień w obu zespołach na dzień meczu (21.06.2026). Bez danych o formie top scorerów i w związku z brakiem informacji o fazie play-off czy decydującym meczu, zakładając wyrównane składy, typ na gospodarzy (Legia Warszawa) jest uzasadniony.
