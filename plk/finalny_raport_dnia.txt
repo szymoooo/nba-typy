@@ -1,31 +1,27 @@
---- AUDYT PLK LIVE (2026-06-29 09:25 CET) ---
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
-
-### Analiza meczu ORLEN Zastal Zielona Góra vs Legia Warszawa (2026-06-21)
-
-Mecz ten był siódmym, decydującym spotkaniem finałowym ORLEN Basket Ligi sezonu 2025/2026, w którym Legia Warszawa ostatecznie zdobyła mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra 78:70.
+--- AUDYT PLK LIVE (2026-06-29 14:18 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
 1.  **Kluczowe braki w składach:**
-
     *   **ORLEN Zastal Zielona Góra:**
-        *   Filip Matczak doznał urazu nosa w pierwszym meczu finałowym (8 czerwca 2026). Brak jest informacji potwierdzających jego udział w siódmym meczu, co sugeruje, że mógł być niedostępny lub jego występ był ograniczony.
-        *   Brak innych istotnych braków w składzie koszykarskim.
+        *   ⚠️ **Chavaughn Lewis** (najlepszy strzelec zespołu, średnio 15.8 pkt/mecz): Doniesienia z 8 maja 2026 roku wskazywały na jego kontuzję po zderzeniu w meczu z Dzikami Warszawa, która wyeliminowała go z walki o 7. miejsce. Nie ma potwierdzonych informacji o jego pełnym powrocie do zdrowia i udziale w decydującym meczu finałowym 21 czerwca. Jego potencjalna nieobecność lub gra z urazem byłaby znaczącym osłabieniem.
+        *   Miłosz Majewski: Również odniósł uraz w tej samej kolizji co Lewis (08.05.2026), jego status na finał nie jest jasny.
+        *   Phil Fayne: 6 czerwca 2026 roku informowano o jego powrocie po urazie, co sugeruje, że mógł grać w finale, ale być może nie w pełni formy.
     *   **Legia Warszawa:**
-        *   Matthias Tass: W grudniu 2025 roku Legia informowała o dłuższej przerwie dla Tassa z powodu kontuzji. Opuścił klub 25 czerwca 2026 roku. Brak jest informacji potwierdzających jego udział w siódmym meczu finału, co wskazuje na prawdopodobną niedostępność lub brak znaczącej roli.
-        *   Michał Kolenda, który w grudniu 2025 również zmagał się z kontuzją, w siódmym meczu finałowym był obecny na parkiecie i zdobył punkty za rzut za trzy punkty. Jego kontuzja, która wyeliminowała go ze zgrupowania kadry, miała miejsce po zakończeniu finałów (28 czerwca 2026).
-        *   Brak innych istotnych braków w składzie koszykarskim.
+        *   Michał Kolenda: Miał długoterminową kontuzję od grudnia 2025 roku. Choć 28 czerwca 2026 roku ogłoszono, że kontuzja wyeliminowała go ze zgrupowania kadry, nie ma jednoznacznych doniesień, czy brał udział w finale 21 czerwca. Legia zdobyła mistrzostwo, co sugeruje, że kluczowi gracze byli dostępni lub poradzili sobie z jego brakiem.
+        *   Matthias Tass, Ojārs Siliņš: Również kontuzjowani w grudniu 2025, brak danych o ich statusie na finał.
 
-2.  **Aktualna forma top scorerów (seria finałowa 2025/2026 i mecz 7):**
-
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
     *   **ORLEN Zastal Zielona Góra:**
-        *   W meczu 7 (21.06.2026) Andrzej Mazurczak zdobył 10 punktów. Inni gracze jak Patrick Cartier (rzut za 3 punkty), Krzysztof Sulima i Jayvon Maughmer również zdobywali punkty w tym meczu.
-        *   W całej serii finałowej do wyróżniających się zawodników Zastalu należeli Chavaughn Lewis (który w meczu 1 odwrócił losy spotkania), Conley Garrison (autor zwycięskiego rzutu za 3 punkty w meczu 6), a także liderzy sezonu 2025/2026: Chavaughn Lewis (śr. 15.8 Pkt/mecz), Jakub Szumert (śr. 13.2 Pkt/mecz) i Andrzej Mazurczak (śr. 11.8 Pkt/mecz, 15.8 w ćwierćfinałach). Patrick Cartier również był czołowym strzelcem za 3 punkty w ćwierćfinałach.
+        *   Chavaughn Lewis: 15.8 pkt/mecz (lider zespołu, 9. w lidze). Jego dyspozycja w finale pod znakiem zapytania z powodu kontuzji.
+        *   Jakub Szumert: 13.2 pkt/mecz.
+        *   Andrzej Mazurczak: 11.8 pkt/mecz.
+        *   Conley Garrison: 10.9 pkt/mecz.
     *   **Legia Warszawa:**
-        *   W meczu 7 (21.06.2026) najwięcej punktów dla Legii zdobyli: Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt) i Shane Hunter (10 Pkt). Michał Kolenda również przyczynił się do wyniku trafiając za trzy punkty.
-        *   Liderzy Legii w sezonie 2025/2026 to Dominic Brewton III (śr. 14.6 Pkt/mecz), Andrzej Pluta (śr. 13.4 Pkt/mecz), Jayvon Graves (śr. 12.9 Pkt/mecz), Race Thompson (śr. 11.4 Pkt/mecz) i Carl Ponsar (śr. 11.2 Pkt/mecz). Andrzej Pluta Jr. został MVP sezonu i finałów.
+        *   Dominic Brewton III: 14.5 pkt/mecz.
+        *   Benjamin Shungu: 14.31 pkt/mecz.
+        *   Andrzej Pluta: Mimo braku w czołówce indywidualnych statystyk ligowych, był kluczową postacią i brał udział w pomeczowych wypowiedziach po zdobyciu mistrzostwa.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-
-    *   Legia Warszawa, będąc gospodarzem siódmego meczu finałowego, wykorzystała przewagę własnego parkietu i obroniła tytuł mistrzowski, wygrywając decydujące starcie.
-    *   Typ na Legię Warszawa był prawidłowy, biorąc pod uwagę fakt, że Legia była gospodarzem decydującego meczu, a także wygrała serię finałową 4:3. Prawdopodobna absencja Filipa Matczaka w Zastalu i Matthiasa Tassa w Legii nie zmieniła przewagi Legii.
+    *   Mecz odbył się 21 czerwca 2026 roku i był 7. decydującym spotkaniem finałowym sezonu 2025/2026 Orlen Basket Ligi.
+    *   Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, zdobywając Mistrzostwo Polski.
+    *   Typ "Legia Warszawa" był prawidłowy. Legia grała u siebie w hali Bemowo. Potencjalne osłabienia Zastalu brakiem najlepszego strzelca (Chavaughn Lewis) z powodu kontuzji mogły mieć wpływ na wynik. Legia, mimo wcześniejszych problemów zdrowotnych w składzie, zdołała zoptymalizować skład na finał i obronić tytuł.
