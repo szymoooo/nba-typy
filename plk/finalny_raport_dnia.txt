@@ -1,18 +1,26 @@
---- AUDYT PLK LIVE (2026-06-29 22:49 CET) ---
-Analiza meczu PLK na dzień 2026-06-21 (analiza wykonana w dniu 2026-06-29):
-
----
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-*   Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-06-30 01:43 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim zgłoszonych przed 21 czerwca 2026 roku.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim zgłoszonych przed 21 czerwca 2026 roku.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
-    *   **Legia Warszawa:** Brak danych z API dla tego zespołu.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (silny skrzydłowy/środkowy) był wyłączony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła nadgarstka, którego doznał około lutego 2026 roku.
+        *   W meczu numer 7 finałów (21.06.2026) Conley Garrison i Jakub Szumert mieli po 3 faule do przerwy, co stawiało ich pod ryzykiem wykluczenia z gry.
+        *   Brak innych istotnych braków w składzie koszykarskim zgłoszonych na dzień meczu.
+    *   🏀 **Legia Warszawa:**
+        *   Michał Kolenda (rzucający/niski skrzydłowy) miał drobny uraz pod koniec sezonu, który uniemożliwił mu udział w zgrupowaniu kadry, ale zagrał w finale i zdobył punkty.
+        *   Brak innych istotnych braków w składzie koszykarskim.
+
+2.  **Aktualna forma top scorerów (seria finałowa):**
+
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   **Chavaughn Lewis:** Średnia 15.8 pkt/mecz w sezonie 2025/2026. Zdobył 10 punktów w 7. meczu finałów i zapewnił zwycięstwo w 1. meczu finałów celną trójką.
+        *   **Jakub Szumert:** Średnia 13.2 pkt/mecz w sezonie 2025/2026. Zdobył 8 punktów w 7. meczu finałów i rozpoczął trzecią kwartę trójką.
+        *   **Andrzej Mazurczak:** Średnia 11.8 pkt/mecz w sezonie 2025/2026. Zdobył 10 punktów w 7. meczu finałów.
+    *   🏀 **Legia Warszawa:**
+        *   **Andrzej Pluta:** Najlepszy strzelec Legii w 7. meczu finałów z 15 punktami. Zdobył 25 punktów w jednym z meczów półfinałowych.
+        *   **Maksymilian Wilczek:** Zdobył punkty, w tym trójkę, w trzeciej kwarcie 7. meczu finałów. Był 100% skuteczny za 3 punkty w tym meczu.
+        *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, co świadczy o bardzo dobrej formie całej drużyny w decydującym momencie.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak znaczących osłabień w obu zespołach na dzień meczu (21.06.2026). Bez danych o formie top scorerów i w związku z brakiem informacji o fazie play-off czy decydującym meczu, zakładając wyrównane składy, typ na gospodarzy (Legia Warszawa) jest uzasadniony.
+    Mecz był decydującym, 7. spotkaniem finałowym, rozgrywanym w hali Legii Warszawa (Hala OSiR Bemowo). Legia Warszawa zdobyła tytuł mistrza Polski, wygrywając ten mecz 78:70. Przewaga własnego parkietu w decydującym spotkaniu była kluczowa. Zastal Zielona Góra borykał się z długoterminową kontuzją Sagaby Konate i problemami z faulami dwóch kluczowych graczy w finale. Liderzy Legii, tacy jak Andrzej Pluta i Maksymilian Wilczek, byli w dobrej formie i przyczynili się do zwycięstwa.
