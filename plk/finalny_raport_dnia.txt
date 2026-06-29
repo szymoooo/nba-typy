@@ -1,14 +1,13 @@
---- AUDYT PLK LIVE (2026-06-29 21:00 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+--- AUDYT PLK LIVE (2026-06-29 21:06 CET) ---
+**PLK typy na 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate był wykluczony z gry od lutego 2026 z powodu poważnej kontuzji dłoni, która zakończyła jego sezon. Filip Matczak i Andrzej Mazurczak występowali w meczach finałowych z urazami (obaj z maskami ochronnymi, Matczak po kontuzji nosa), ale byli zdolni do gry. Phil Fayne powrócił do składu przed rozpoczęciem finałów.
-    *   **Legia Warszawa:** Michał Kolenda doznał drobnego urazu pod koniec zakończonego sezonu, co wyeliminowało go ze zgrupowania kadry po 21 czerwca. Brak jest jednak potwierdzonych informacji, że uraz ten uniemożliwił mu występ w decydującym, siódmym meczu finałowym 21 czerwca. Brak innych istotnych braków w składzie koszykarskim.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+    *   🏀 **Legia Warszawa:** Michał Kolenda był kontuzjowany i wykluczony ze zgrupowania kadry narodowej (informacja z 28.06.2026, co wskazuje na jego niedyspozycję również w okresie finałów PLK). Matthias Tass odszedł z klubu 25.06.2026, co oznacza, że był częścią składu na finał 21.06.2026.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API PulsBasketu dla tej serii.
-    *   Na podstawie średnich z sezonu 2025/2026, czołowymi strzelcami ORLEN Zastalu Zielona Góra byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
-    *   Dla Legii Warszawa, czołowymi strzelcami byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowym. Legia Warszawa wygrała ten mecz 78:70, zdobywając mistrzostwo Polski. Przewaga własnego parkietu w tak kluczowym spotkaniu finałowym była istotnym czynnikiem. Pomimo drobnych urazów w Zastalu, Legia była w stanie zabezpieczyć tytuł.
+3.  **Werdykt:**
+    *   ✅ **ZATWIERDZONY**
+    *   **Uzasadnienie:** Legia Warszawa zdobyła Mistrzostwo ORLEN Basket Ligi w sezonie 2025/2026, pokonując ORLEN Zastal Zielona Góra w decydującym, siódmym meczu finałowym, który odbył się 21.06.2026. Mimo kontuzji Michała Kolendy w Legii i ogólnych "walk z urazami" w Zastalu (bez wskazania konkretnych kluczowych braków), Legia zdołała wygrać kluczowy mecz. Typowanie Legii Warszawa było słuszne.
