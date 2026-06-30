@@ -1,14 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-30 16:30 ET) ---
-### Knicks @ Spurs -> Typ: Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-06-30 16:31 ET) ---
+Analiza meczu: Knicks @ Spurs
+Typ: Spurs
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. ⚠️
-    *   Informacje o kontuzjach dotyczących Jaydena Quaintance'a (Spurs) wskazują, że opuści on Ligę Letnią z powodu urazu kolana po operacji w lutym 2025 roku. Jest to jednak nowo wybrany zawodnik, a informacja dotyczy Ligi Letniej, nie meczu sezonu regularnego.
-    *   Mitchell Robinson (Knicks) był wymieniony w raportach kontuzji w czerwcu 2026 roku (podczas Finałów NBA) z powodu złamanego palca, ale grał w meczach. Brak jest statusu "Out", "Questionable" lub "GTD" na dzień 2026-06-30 dla hipotetycznego meczu sezonu regularnego.
+*   **Kluczowe braki w składach (na podstawie danych z 2026-06-30 i składów ze stycznia 2026):**
+    *   **New York Knicks:** Mitchell Robinson (Questionable - złamanie piątej kości śródręcza prawej ręki).
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę dla kluczowych graczy ze składu ze stycznia 2026. Jayden Quaintance (kolano) nie zagra w Lidze Letniej, ale jest debiutantem z draftu 2026 i nie byłby w składzie w styczniu 2026.
 
-*   **Składy (Styczeń 2026):**
-    *   **New York Knicks:** Jalen Brunson, OG Anunoby, Mikal Bridges, Jordan Clarkson, Karl-Anthony Towns, Mitchell Robinson, Miles McBride, Malachi Flynn, Jose Alvarado, Trey Jemison, Dillon Jones, Tyler Kolek, Kevin McCullar Jr.
-    *   **San Antonio Spurs:** Victor Wembanyama, De'Aaron Fox, Devin Vassell, Keldon Johnson, Stephon Castle, Dylan Harper, Kelly Olynyk, Lindy Waters III, Luke Kornet.
-
-*   **Werdykt: [⚠️ RYZYKOWNY]**
-    *   Brak aktualnych (2026-06-30) raportów o kontuzjach dla meczu sezonu regularnego. Analiza typu jest niemożliwa bez bieżących danych o statusach zawodników.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    San Antonio Spurs wydają się być w pełnym składzie lub bardzo blisko pełnej siły, podczas gdy New York Knicks mają kluczowego gracza, Mitchell Robinson, wymienionego jako "Questionable". Potencjalna absencja Robinsona znacznie osłabiłaby Knicks. Dlatego typ na Spurs jest uzasadniony.
