@@ -1,14 +1,11 @@
---- AUDYT PLK LIVE (2026-06-30 20:30 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-07-01 00:02 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Michał Kolenda doznał drobnego urazu pod koniec sezonu 2025/2026, który wykluczył go ze zgrupowania kadry narodowej po zakończeniu rozgrywek. Sugeruje to, że mógł być niedysponowany lub grać z urazem w decydującym meczu finałowym.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-01.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-01.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. Niemniej jednak, bazując na statystykach z sezonu 2025/2026, kluczowi strzelcy to:
-        *   🏀 **Legia Warszawa:** Dominic Brewton III (średnio 14.6 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.9 Pkt/mecz). Andrzej Pluta Jr. został MVP Finałów.
-        *   🏀 **ORLEN Zastal Zielona Góra:** Chavaughn Lewis (średnio 15.8-16.7 Pkt/mecz), Jakub Szumert (13.2-13.4 Pkt/mecz), Andrzej Mazurczak (11.7-11.8 Pkt/mecz). Jakub Szumert został uznany najlepszym młodzieżowym zawodnikiem sezonu.
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz ten był siódmym, decydującym spotkaniem finałowym sezonu PLK 2025/2026, w którym Legia Warszawa zdobyła Mistrzostwo Polski, wygrywając serię 4-3. Legia grała u siebie w tym kluczowym meczu, co stanowiło znaczącą przewagę własnego parkietu w finale. Pomimo drobnego urazu Michała Kolendy w drużynie Legii, zespół zdołał wygrać decydujące spotkanie, co potwierdza siłę drużyny i trafność typu. Typ na Legię Warszawa jest zatwierdzony.
+3.  **Werdykt:** ✅ ZATWIERDZONY
