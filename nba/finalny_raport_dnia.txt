@@ -1,12 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-06-29 19:42 ET) ---
-Na podstawie dzisiejszych danych z sieci (2026-06-29) sprawdzam Twój typ:
+--- KRYTYCZNY AUDYT LIVE (2026-06-29 21:26 ET) ---
+Analiza meczu z 1 stycznia 2026: Knicks @ Spurs. Typ: Spurs
 
-**Knicks @ Spurs -> Typ: Spurs**
+*   **Kluczowe braki w składach (na podstawie raportów ze stycznia 2026):**
+    *   **New York Knicks:**
+        *   Landry Shamet: Poza grą (kontuzja barku) 🩹. Zgłoszony jako "Out" w połowie stycznia 2026.
+        *   Mitchell Robinson: Poza grą (kontuzja kostki) 🤕. Zgłoszony jako "Out" w połowie stycznia 2026.
+        *   Jalen Brunson: Mimo wcześniejszych i późniejszych raportów o statusie "Questionable" lub "Out" z powodu urazu kostki w styczniu, Jalen Brunson grał w meczu 1 stycznia 2026.
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Poza grą (kontuzja uda) 🦵. Zgłoszony jako "Out" 3 stycznia 2026. Prawdopodobna absencja również 1 stycznia.
+        *   Victor Wembanyama: Mimo statusu "Day-To-Day" z kontuzją kolana 3 stycznia 2026, Victor Wembanyama grał w meczu 1 stycznia 2026.
+        *   Luke Kornet, Jeremy Sochan, Aaron Wiggins: Status "Questionable" z różnymi dolegliwościami pod koniec stycznia 2026.
 
-*   **Kluczowe braki w składach:**
-    *   New York Knicks: Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalne dane NBA dotyczące kontuzji, aktualizowane 2026-06-20, wskazują, że New York Knicks nie mają obecnie żadnych zawodników na liście kontuzjowanych.
-    *   San Antonio Spurs: Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalne dane NBA dotyczące kontuzji, aktualizowane 2026-06-20, wskazują, że San Antonio Spurs nie mają obecnie żadnych zawodników na liście kontuzjowanych.
-    *   Obie drużyny dysponowały silnymi składami w styczniu 2026 roku. Knicks mieli w składzie m.in. Jalena Brunsona, Karla-Anthony'ego Townsa, OG Anunoby'ego i Mitchella Robinsona. Spurs mieli Victora Wembanyamę, De'Aarona Foxa, Devina Vassella i Stephon Castle.
-
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   San Antonio Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej NBA, z wysokim wskaźnikiem efektywności ofensywnej i defensywnej. Biorąc pod uwagę ich dominujący rekord w sezonie i brak zgłoszonych kluczowych kontuzji dla którejkolwiek z drużyn, typ na zwycięstwo Spurs jest uzasadniony.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Mimo że San Antonio Spurs mieli swojego kluczowego gracza, Victora Wembanyamę, na boisku 1 stycznia 2026, brak Devina Vassella jest znaczącą stratą ofensywną. New York Knicks również mieli Jalen Brunsona w składzie, ale byli osłabieni prawdopodobnymi absencjami Mitchella Robinsona i Landry'ego Shameta. Brak jednoznacznej przewagi w kluczowych brakach w składach sprawia, że typowanie Spurs jest ryzykowne.
