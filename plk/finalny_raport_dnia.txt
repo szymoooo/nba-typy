@@ -1,17 +1,23 @@
---- AUDYT PLK LIVE (2026-07-01 09:06 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-07-01 12:50 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** 🤕 Sagaba Konate (środkowy/silny skrzydłowy) był wyłączony z gry od lutego 2026 roku z powodu kontuzji więzadła SL nadgarstka, co zakończyło jego sezon.
-    *   **Legia Warszawa:** 🩹 Michał Kolenda (niski skrzydłowy) nabawił się drobnego urazu pod koniec zakończonego sezonu, co wykluczyło go ze zgrupowania kadry pod koniec czerwca 2026. Brak jednak potwierdzenia, że opuścił z tego powodu 7. mecz finałowy 21 czerwca 2026.
+*   **Kluczowe braki w składach koszykarskich (stan na 2026-07-01):**
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim.
+        *   W finałach PLK 2025/2026, które zakończyły się tym meczem, Legia Warszawa wystąpiła w pełnym składzie, a Andrzej Pluta Jr. został MVP Finałów.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. (Brak danych w kontekście "W SERII powyzej").
-    *   **Informacja ogólna z sezonu 2025/2026 (nie z serii):** Dla ORLEN Zastal Zielona Góra, Chavaughn Lewis był wiodącym strzelcem ze średnią 15.8 Pkt/mecz, a za nim Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+*   **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   ORLEN Zastal Zielona Góra:
+        *   Chavaughn Lewis (15.8 Pkt/mecz)
+        *   Jakub Szumert (13.2 Pkt/mecz)
+        *   Andrzej Mazurczak (11.8 Pkt/mecz)
+    *   Legia Warszawa:
+        *   Dominic Brewton III (13.7 Pkt/mecz)
+        *   Jayvon Graves (13.3 Pkt/mecz)
+        *   Carl Ponsar (12.5 Pkt/mecz)
+        *   Andrzej Pluta Jr. (11.8 Pkt/mecz), MVP Finałów PLK 2025/2026.
 
-3.  **Werdykt:**
-    *   ✅ **ZATWIERDZONY**
-        *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując ORLEN Zastal Zielona Góra w siódmym meczu finałowym wynikiem 78:70. Typ na Legię Warszawa okazał się trafny.
-        *   Długoterminowa kontuzja Sagaby Konate w Zastalu była znana i wpłynęła na ich skład przez większą część sezonu i fazy play-off.
-        *   Drobny uraz Michała Kolendy w Legii odnotowano "na koniec zakończonego niedawno sezonu", co sugeruje, że mógł grać w finale lub jego brak nie był kluczowy.
-        *   Mecz był decydującym (7/7) finałem, co zwiększa wagę przewagi własnego parkietu i doświadczenia Legii.
+*   **Werdykt:** ✅ ZATWIERDZONY
+    *   Mecz był siódmym i decydującym spotkaniem finałowym PLK 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra 78-70.
+    *   Legia grała u siebie (w Warszawie) w tym decydującym meczu, co jest dodatkowym atutem.
+    *   Brak potwierdzonych istotnych osłabień w składach na dzień 2026-07-01.
