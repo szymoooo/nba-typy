@@ -1,16 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-01 07:21 ET) ---
-Analiza meczu: Knicks @ Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-07-01 12:29 ET) ---
+**Knicks @ Spurs** -> Typ: Spurs
 
-*   **Kluczowe braki w składach (Styczeń 2026):**
+*   **Kluczowe braki w składach (styczeń 2026):**
     *   **New York Knicks:**
-        *   Jalen Brunson (PG) – wielokrotnie "Questionable" lub "Out" z powodu skręcenia prawej kostki w styczniu 2026.
-        *   Josh Hart (SG/SF) – wielokrotnie "Questionable" z powodu dyskomfortu/bólu w prawej kostce w styczniu 2026.
-        *   Mitchell Robinson (C) – "Out" z powodu kontuzji lewej kostki (injury management) w połowie stycznia 2026.
-        *   Landry Shamet (SG) – "Out" z powodu kontuzji barku w połowie stycznia 2026.
+        *   Jalen Brunson: Out (prawa kostka, dzień po dniu).
+        *   Mitchell Robinson: Sidelined (zarządzanie kontuzją kostki).
+        *   Josh Hart: Out (długoterminowa kontuzja kostki; również kwestionowany z bólem prawej kostki w późniejszym okresie miesiąca).
+        *   Miles McBride: Out (koniec stycznia).
+        *   Landry Shamet: Questionable (prawe ramię).
+        *   Karl-Anthony Towns: Questionable (plecy, skurcze w odcinku piersiowym) (koniec stycznia).
     *   **San Antonio Spurs:**
-        *   Devin Vassell (SG/SF) – "Out" z powodu kontuzji uda na początku stycznia 2026.
-        *   Victor Wembanyama (PF/C) – "Day-To-Day" z powodu kontuzji kolana na początku stycznia 2026.
-        *   Harrison Ingram, Garcia Jones, Stanley Umude (G League Two-Way) – "Out" pod koniec stycznia 2026.
+        *   Devin Vassell: Out (Udo) (początek stycznia).
+        *   Victor Wembanyama: Day-To-Day (Kolano) (początek stycznia).
+        *   Jayden Quaintance: Out (kontuzja ACL i łąkotki, oczekiwana operacja oczyszczająca; nie gotowy na otwarcie sezonu).
+        *   Harrison Ingram, Garcia Jones, Stanley Umude: Out (G League two-way) (koniec stycznia).
 
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    Biorąc pod uwagę znaczące, powtarzające się braki w składzie Knicks w styczniu 2026, zwłaszcza dotyczące kluczowych graczy takich jak Jalen Brunson, Josh Hart i Mitchell Robinson, typ na Spurs jest uzasadniony. Mimo wczesnych kontuzji Vassella i Wembanyamy dla Spurs, potencjalne osłabienie Knicks, zwłaszcza ich głównego strzelca i rozgrywającego (Brunson), stanowiłoby dużą przewagę dla San Antonio. Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Knicks borykali się z licznymi kontuzjami kluczowych graczy, takich jak Brunson, Robinson i Hart, przez znaczną część stycznia 2026 roku. Ich głębia składu była osłabiona. Spurs, pomimo początkowego statusu Wembanyamy "Day-To-Day", wydają się być w lepszej sytuacji kadrowej, co uzasadnia typ.
