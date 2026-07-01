@@ -1,21 +1,12 @@
---- AUDYT PLK LIVE (2026-07-01 00:04 CET) ---
-## Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-07-01 03:54 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-### 1. Kluczowe braki w składach
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak (rozgrywający/rzucający) – doznał złamania nosa w wyniku brutalnego uderzenia łokciem w poprzednim meczu finałów (09.06.2026) i był hospitalizowany, co wykluczało go z gry w decydującym spotkaniu.
+    *   🏀 **Legia Warszawa:** Michał Kolenda (niski skrzydłowy) – opuścił zgrupowanie kadry z powodu drobnego urazu pod koniec sezonu, jednak był wymieniony w składzie meczowym na 21.06.2026 i najprawdopodobniej był dostępny do gry. Andrzej Pluta – doznał urazu w końcówce meczu 21.06.2026, ale wziął udział w grze i zdobył 15 punktów.
 
-*   **Legia Warszawa:**
-    *   Michał Kolenda: do 28 czerwca 2026 roku był wyłączony ze zgrupowania kadry narodowej z powodu drobnego urazu, którego nabawił się pod koniec zakończonego sezonu. Biorąc pod uwagę datę meczu (21 czerwca 2026), jego występ był ryzykowny lub niemożliwy.
-*   **ORLEN Zastal Zielona Góra:**
-    *   Sagaba Konate: Doznał awulsyjnego uszkodzenia więzadła SL nadgarstka podczas Pucharu Polski i jego sezon zakończył się 28 lutego 2026 roku. Zatem nie zagrał w tym meczu.
-    *   Chauvaughn Lewis: Odczuwał skutki zderzenia, którego doznał w trakcie meczu z Dzikami Warszawa i nie zagrał w meczu o 7. miejsce w maju 2026 roku. Informacje z 6 czerwca 2026 sugerowały "walkę z urazami w szeregach Zastalu", ale również "Powrót Faynea". Brak jednoznacznego potwierdzenia statusu Lewisa na 21 czerwca, jednak wcześniejsze informacje wskazują na problemy z kontuzją.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
-### 2. Aktualna forma top scorerów
-
-*   Brak danych z API dla tego zespołu.
-
-### 3. Werdykt: [✅ ZATWIERDZONY] albo [⚠️ RYZYKOWNY]
-
-*   **Werdykt: [✅ ZATWIERDZONY]**
-    *   Legia Warszawa grała u siebie, co jest istotnym atutem. W dniu 21 czerwca 2026 roku Legia Warszawa została Mistrzem Polski, co wskazuje na jej bardzo dobrą formę i prawdopodobnie brak kluczowych absencji, które mogłyby zagrozić typowi. Mecz zakończył się wynikiem 78-70 dla Legii Warszawa.
-    *   ORLEN Zastal Zielona Góra borykał się z poważnymi kontuzjami, zwłaszcza Sagaby Konate, którego sezon zakończył się już w lutym. Istniały również doniesienia o problemach zdrowotnych Chauvaughna Lewisa.
-    *   Biorąc pod uwagę fakt, że Legia Warszawa zdobyła mistrzostwo Polski w tym dniu i wygrała ten konkretny mecz (78-70), typ na Legię Warszawa był zatwierdzony.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz był 7. spotkaniem finałowej serii, a Legia Warszawa miała przewagę własnego parkietu w Warszawie. Zastal Zielona Góra grał osłabiony brakiem kluczowego gracza, Filipa Matczaka, z poważną kontuzją. Legia ostatecznie wygrała mecz 78:70 i zdobyła mistrzostwo Polski.
