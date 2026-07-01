@@ -1,8 +1,23 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-01 14:28 ET) ---
-Analiza meczu: Knicks @ Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-07-01 14:55 ET) ---
+Na podstawie dostępnych danych z sieci na dzień 2026-07-01, nie znaleziono konkretnej daty meczu Knicks @ Spurs w STYCZNIU 2026. Poniższe braki w składach oparte są na raportach z różnych dat w styczniu 2026 dla każdej z drużyn.
 
-### Knicks @ Spurs -> Typ: Spurs
+---
 
-*   **Kluczowe braki w składach:**
-    Brak aktualnych raportów (Injury Report) na tę chwilę. Zgodnie z wytycznymi, nie znaleziono potwierdzonych informacji o kontuzjach z dnia 2026-07-01 dotyczących stycznia 2026 roku. 🚫
-*   **Werdykt:** [⚠️ RYZYKOWNY] Z powodu braku aktualnych raportów dotyczących kontuzji, ocena typowanego meczu jest obarczona znacznym ryzykiem.
+**Knicks @ Spurs** -> Typ: Spurs
+
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson (PG) 🩹: Często "Out" lub "Questionable" z powodu skręcenia prawej kostki.
+        *   Mitchell Robinson (C) 🩹: "Out" z powodu urazu lewej kostki.
+        *   Josh Hart (SG/SF) ❓: "Questionable" z powodu bólu prawej kostki.
+        *   Landry Shamet (SG) 🩹/❓: "Out" (ramię), później "Questionable" (ramię).
+        *   Trey Jemison III (PF) 🚫: "Out" (przypisanie do G League).
+        *   Ariel Hukporti (C) ❓: "Questionable" (mięsień czworogłowy).
+    *   **San Antonio Spurs:**
+        *   Devin Vassell (SG/SF) 🩹: "Out" z powodu kontuzji uda (początek stycznia).
+        *   Victor Wembanyama (PF/C) 🔃: "Day-To-Day" z powodu kontuzji kolana (początek stycznia).
+        *   Harrison Ingram (SF) 🚫: "Out" (przypisanie do G League).
+        *   Garcia Jones (SG) 🚫: "Out" (przypisanie do G League).
+        *   Stanley Umude (SG) 🚫: "Out" (przypisanie do G League).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak konkretnej daty meczu Knicks @ Spurs w styczniu 2026 uniemożliwia precyzyjną ocenę stanu składów na dany dzień. Jednakże, biorąc pod uwagę ogólny stan kontuzji w styczniu 2026, New York Knicks borykali się z bardziej znaczącymi brakami kluczowych graczy (Brunson, Robinson) niż San Antonio Spurs. Jeśli kluczowi gracze Knicks byli wykluczeni w hipotetycznym meczu, typ na Spurs byłby uzasadniony. Bez potwierdzonej daty i aktualnego raportu meczowego, typ jest ryzykowny.
