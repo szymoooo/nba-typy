@@ -1,13 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-02 17:14 ET) ---
-Oto analiza Twojego typu na podstawie dostępnych danych:
+--- KRYTYCZNY AUDYT LIVE (2026-07-02 17:33 ET) ---
+Analiza meczu: Knicks @ Spurs
 
-**Knicks @ Spurs** -> Typ: Spurs
+*   **Kluczowe braki w składach (Styczeń 2026):**
 
-*   **Kluczowe braki w składach (na podstawie raportów ze stycznia 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Status wahał się od "Questionable" (prawa kostka) do "Out" (skręcenie prawej kostki) w różnych terminach w styczniu.
+        *   Mitchell Robinson: "Out" (kontuzja kostki), nie spodziewano się powrotu przed 30 stycznia.
+        *   Josh Hart: Często "Out" (kostka/ból prawej kostki) lub "Questionable" (ból prawej kostki).
+        *   Miles McBride: "Out" (kontuzja kostki) pod koniec stycznia.
+        *   Landry Shamet: "Out" (ramię) na początku stycznia.
+        *   Guerschon Yabusele: "Questionable" (mięsień czworogłowy) na początku stycznia.
 
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   W związku z dzisiejszą datą (2026-07-02) i wymogiem szukania kontuzji wyłącznie ze stycznia 2026 roku, nie ma dostępnych potwierdzonych informacji o brakach w składach dla New York Knicks ani San Antonio Spurs z tego konkretnego miesiąca. Informacje o kontuzjach są z reguły bieżące, a nie archiwalne, szczególnie w kontekście analizy meczu. Potwierdzone składy na sezon 2026-2027 nie są jeszcze ustalone w pełni ze względu na trwający okres wolnych agentów.
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: "Out" (udo) na początku stycznia.
+        *   Victor Wembanyama: "Day-To-Day" (kolano) na początku stycznia.
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+*   **Werdykt dla typu "Spurs":** ✅ ZATWIERDZONY
 
-    *   Bez aktualnych, potwierdzonych składów na sezon 2026-2027 (które w pełni kształtują się po fazie wolnych agentów w lipcu) oraz bez bieżących raportów o kontuzjach, ocena Twojego typu jest wysoce ryzykowna. Nie ma możliwości precyzyjnego określenia siły obu drużyn na dzisiejszy dzień ani ich bieżących braków kadrowych, bazując wyłącznie na danych z poprzedniego sezonu (styczeń 2026) w kwestii kontuzji.
+    Biorąc pod uwagę liczne i znaczące braki w składzie New York Knicks (w tym ich kluczowego strzelca Jalena Brunsona i obrońcy obręczy Mitchella Robinsona) oraz stabilniejszą sytuację kadrową San Antonio Spurs w styczniu 2026, typ na zwycięstwo Spurs jest **ZATWIERDZONY**. Spurs mieli również bardzo dobry bilans w styczniu (np. 25-9 na początku miesiąca i 30-14 w połowie miesiąca), co wskazuje na ich mocną formę w tym okresie.
