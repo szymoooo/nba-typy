@@ -1,20 +1,11 @@
---- AUDYT PLK LIVE (2026-07-03 00:31 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
-Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-03 01:56 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   **Sagaba Konate** (silny skrzydłowy/środkowy) – Wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji dłoni (uszkodzenie więzadła nadgarstka), której doznał pod koniec lutego 2026 roku.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim, które jednoznacznie wykluczałyby kluczowych zawodników z tego meczu. Michał Kolenda nabawił się drobnego urazu pod koniec sezonu, co wykluczyło go ze zgrupowania kadry po finale, jednak brak jest potwierdzenia jego nieobecności w tym konkretnym meczu.
-
-2.  **Aktualna forma top scorerów (sezon 2025/2026 i mecz finałowy):**
-    *   🏀 **Legia Warszawa:**
-        *   W sezonie 2025/2026 czołowymi strzelcami byli Dominic Brewton III (14.6 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.9 Pkt/mecz).
-        *   W 7. meczu finałowym (2026-06-21) wyróżnili się: Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt) oraz Shane Hunter (10 Pkt).
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   W sezonie 2025/2026 liderami punktowymi byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
-        *   W 7. meczu finałowym (2026-06-21) po stronie Zastalu, najwięcej punktów zdobył Andrzej Mazurczak (10 Pkt).
-
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim w okresie około 21.06.2026.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim w okresie około 21.06.2026.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku w OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40, 01-494 Warszawa. Był to siódmy, decydujący mecz serii finałowej Orlen Basket Ligi. Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 i zdobyła mistrzostwo Polski. Pomimo braku Sagaby Konate w składzie Zastalu, Legia była faworytem grającym u siebie w decydującym meczu, a ich czołowi strzelcy potwierdzili dobrą formę.
+    *   Brak informacji o kluczowych kontuzjach lub zawieszeniach w obu zespołach na dzień meczu (21.06.2026).
+    *   Legia Warszawa, jako gospodarz, w typie na zwycięstwo jest zatwierdzona.
