@@ -1,9 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-02 18:30 ET) ---
-Analiza meczu na dzień 2026-07-02:
+--- KRYTYCZNY AUDYT LIVE (2026-07-02 19:46 ET) ---
+Na podstawie danych z **stycznia 2026**:
 
 ### Knicks @ Spurs -> Typ: Spurs
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. ⚠️
-    *   Warto zauważyć, że podczas Finałów NBA 2026 (na początku czerwca 2026), Mitchell Robinson (Knicks) grał pomimo operacji palca. San Antonio Spurs mieli wówczas "czysty" raport kontuzji na początku Finałów.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   New York Knicks zdobyli Mistrzostwo NBA w sezonie 2025-2026, pokonując San Antonio Spurs w Finałach NBA (4-1). Knicks również pokonali Spurs w finale NBA Cup 2025. Biorąc pod uwagę dominację Knicks w niedawnych bezpośrednich starciach, typ na Spurs jest ryzykowny.
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New York Knicks:**
+        *   **Jalen Brunson** (Guard): Status: **Out/Questionable** (skręcenie prawej kostki).
+        *   **Mitchell Robinson** (Center): Status: **Out** (uraz lewej kostki).
+        *   **Josh Hart** (Guard/Forward): Status: **Questionable** (dyskomfort w prawej kostce).
+        *   **Landry Shamet** (Guard): Status: **Out/Questionable** (skręcenie prawego barku).
+        *   **Trey Jemison III** (Power Forward): Status: **Out** (przydział do G League).
+    *   **San Antonio Spurs:**
+        *   **Devin Vassell** (Guard/Forward): Status: **Out** (uraz uda, dotyczy początku stycznia).
+        *   **Victor Wembanyama** (Center/Forward): Status: **Day-To-Day** (uraz kolana, dotyczy początku stycznia). Brak szczegółowych informacji o jego statusie dla całego miesiąca, ale raport z 19 stycznia wspomina tylko jednego gracza na liście kontuzjowanych dla Spurs, co może sugerować jego powrót.
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   New York Knicks borykali się ze znaczącymi brakami kadrowymi w styczniu 2026, w tym ich kluczowego strzelca Jalena Brunsona i podstawowego centra Mitchella Robinsona. San Antonio Spurs, mimo początkowych wątpliwości co do Wembanyamy, wydają się być w lepszej sytuacji kadrowej, co daje im przewagę w tym hipotetycznym meczu.
