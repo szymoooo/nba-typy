@@ -1,29 +1,40 @@
---- AUDYT PLK LIVE (2026-07-02 00:13 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-07-02 04:39 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-Dzisiejsza data: 2026-07-02. Analiza odnosi się do meczu rozegranego 21 czerwca 2026 roku.
+*   **Data z kontekstu meczu:** 2026-06-21 (mecz odbył się w przeszłości).
+*   **Aktualna data analizy:** 2026-07-02.
+*   **Wynik rzeczywisty:** Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78-70 w 7. meczu finałowym PLK sezonu 2025/2026, zdobywając Mistrzostwo Polski.
 
 ---
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+### **ORLEN Zastal Zielona Góra**
 
-1.  **Kluczowe braki w składach:**
+1.  **Kluczowe braki w składzie koszykarskim (stan na 2026-07-02):**
+    *   ❌ Jakub Szumert: Opuścił klub, aby grać w NCAA.
+    *   ❌ Patrick Cartier: Opuścił klub, przechodząc do MHP Riesen Ludwigsburg (Niemcy).
+    *   Brak istotnych, aktualnych informacji o kontuzjach pozostałych zawodników na dzień 2026-07-02. Wcześniejsze urazy Chavaughna Lewisa, Filipa Matczaka i Phila Fayne'a (z maja/czerwca 2026) zostały opanowane, a zawodnicy wystąpili w finałach.
 
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta, lider zespołu, opuścił parkiet z urazem w końcówce siódmego meczu finałowego (21.06.2026). Nie ma informacji o jego wcześniejszej niedostępności na ten mecz, ale uraz w jego trakcie jest kluczowy dla końcowego wyniku.
-        *   Michał Kolenda: Według doniesień z 28.06.2026, Michał Kolenda nabawił się drobnego urazu pod koniec sezonu, który wyeliminował go ze zgrupowania kadry. W meczu z 15.06.2026 był kapitanem Legii i zdobył punkty, więc prawdopodobnie był dostępny na finał 21.06.2026, choć kontuzja pod koniec sezonu może sugerować, że grał z urazem lub jego występ był zagrożony. Wcześniejsze doniesienia z 09.12.2025 mówiły o dłuższej przerwie Kolendy z powodu kontuzji, ale wrócił do gry w dalszej części sezonu.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate: Już 28.02.2026 potwierdzono, że Sagaba Konate zakończył sezon z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka. Był więc niedostępny na finał.
-        *   Filip Matczak: Na dzień 06.06.2026 odczuwał dolegliwości związane ze starą kontuzją i był oszczędzany na treningach, jednak trener zakładał jego obecność w serii finałowej. Zagrał i zdobył punkty w meczu z 15.06.2026.
-        *   Dwight Wilson III: Na dzień 06.06.2026 odczuwał skutki urazu kostki, ale normalnie trenował i był gotowy do gry w finałach.
-    *   Inne informacje o kontuzjach w Legii (Paweł Wszołek, Wahan Biczachczjan, Kacper Chodyna, Ivan Brkcić, Kamil Piątkowski, Bartosz Kapustka) dotyczą sekcji piłkarskiej i są nieistotne dla meczu koszykówki.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Chavaughn Lewis: 15.8 Pkt/mecz.
+    *   Jakub Szumert: 13.2 Pkt/mecz (zawodnik opuścił klub).
+    *   Andrzej Mazurczak: 11.8 Pkt/mecz.
+
+---
+
+### **Legia Warszawa**
+
+1.  **Kluczowe braki w składzie koszykarskim (stan na 2026-07-02):**
+    *   ⚠️ Michał Kolenda: Drobny uraz, który wyeliminował go ze zgrupowania kadry (raport z 28.06.2026). Jego dostępność na dzień 2026-07-02 byłaby niepewna.
+    *   ❌ Maks Wilczek: Opuścił Legię Warszawa (01.07.2026).
+    *   ✅ Nowi zawodnicy (nie braki): Kristers Zoriks (rozgrywający/rzucający obrońca, podpisany 01.07.2026), Markus Ilver (silny/niski skrzydłowy, podpisany 01.07.2026), Jakub Andrzejewski (podpisany 27.06.2026).
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w serii finałowej. Dostępne są statystyki punktowe z 7. meczu finałowego (21.06.2026):
-        *   **Legia Warszawa:** Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
-        *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 Pkt).
-    *   Z wcześniejszych informacji (02.05.2026), Chavaughn Lewis był drugim najskuteczniejszym zawodnikiem OBL ze średnią 19,47 pkt/mecz, Jakub Szumert miał średnio 13,3 pkt/mecz, a Andrzej Mazurczak 11,6 pkt/mecz. Conley Garrison miał średnio 10,4 pkt/mecz.
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+---
 
-    Mecz finałowy odbył się w Warszawie, co dawało Legii przewagę własnego parkietu. Legia Warszawa obroniła mistrzostwo Polski, wygrywając siódmy mecz finałowy 78:70. Pomimo urazu Andrzeja Pluty w końcówce meczu i wcześniejszych problemów kadrowych obu zespołów, Legia zdołała zwyciężyć. Zastal grał bez kontuzjowanego Sagaby Konate, co było znaczącym osłabieniem przez cały sezon. Typ na Legię Warszawa okazał się trafny.
+### **Werdykt:**
+
+*   **Analiza historyczna:** Typ "Legia Warszawa" na mecz 2026-06-21 był **trafny**, ponieważ Legia Warszawa wygrała ten decydujący mecz finałowy i zdobyła mistrzostwo.
+*   **Analiza hipotetyczna (na dzień 2026-07-02):** Gdyby ten mecz miał odbyć się dzisiaj, Legia Warszawa byłaby osłabiona kontuzją Michała Kolendy i odejściem Maksymiliana Wilczka, ale jednocześnie wzmocniłaby skład o doświadczonego Kristersa Zoriksa, Markusa Ilvera i Jakuba Andrzejewskiego. ORLEN Zastal Zielona Góra straciłby natomiast dwóch kluczowych strzelców (Jakuba Szumerta i Patricka Cartiera), co jest znaczącym osłabieniem. W obliczu tych zmian kadrowych, Legia Warszawa nadal byłaby faworytem.
+*   **Werdykt dla typowania (na podstawie dostępnych danych i faktycznego wyniku):** [✅ ZATWIERDZONY]
