@@ -1,13 +1,24 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-03 17:40 ET) ---
-Oto analiza Twojego typu na mecz Knicks @ Spurs, bazując na danych z 2026-07-03:
+--- KRYTYCZNY AUDYT LIVE (2026-07-03 17:57 ET) ---
+Analiza meczu Knicks @ Spurs (2026-07-03):
 
-**Knicks @ Spurs**
+Brak aktualnych raportów (Injury Report) na tę chwilę.
 
-*   **Kluczowe braki w składach (na dzień 2026-07-03):**
-    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   **San Antonio Spurs:** Jayden Quaintance (rookie) jest wykluczony z Summer League z powodu kontuzji prawego kolana, z niepewnym terminem powrotu do regularnego sezonu.
+---
 
-*   **Werdykt dla typu "Spurs":** [✅ ZATWIERDZONY]
-    *   San Antonio Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej NBA.
-    *   Mimo że przegrali ostatni mecz z Knicks wynikiem 90-94, ich ogólna siła i bilans świadczą o dominacji.
-    *   Brak kluczowych kontuzji w składzie Spurs (kontuzja debiutanta Jaydena Quaintance'a, choć istotna dla gracza, prawdopodobnie nie wpłynie znacząco na wynik meczu w regularnym sezonie przeciwko głównej rotacji) oraz brak zgłoszonych kontuzji w Knicks wspierają ten typ.
+### Knicks @ Spurs -> Typ: Spurs
+
+*   **Kluczowe braki w składach (na podstawie raportów ze STYCZNIA 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Out (kontuzja prawej kostki, 15 stycznia) 🚑
+        *   Mitchell Robinson: Out/Questionable (uraz/zarządzanie kontuzją kostki, przez cały styczeń) 🩹
+        *   Josh Hart: Out (długoterminowa kontuzja kostki; 15 stycznia), Questionable (ból prawej kostki; 28 stycznia) 🤕
+        *   Landry Shamet: Out/Questionable (zwichnięcie prawego ramienia; 2 i 15 stycznia) 🩹
+        *   Karl-Anthony Towns: Questionable (choroba; 2 stycznia), Questionable (skurcze pleców; 24 stycznia) 🤒
+        *   Miles McBride: Out (28 stycznia) ❌
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (uraz uda; 3 stycznia) 🩹
+        *   Victor Wembanyama: Day-To-Day (kolano; 3 stycznia) ⏳
+        *   Trzech innych graczy Spurs było wymienionych jako kontuzjowanych (22 stycznia) 🤕
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo że w styczniu 2026 New York Knicks zmagali się z licznymi kontuzjami kluczowych graczy, to ostatecznie zostali mistrzami NBA w sezonie 2025-2026. To wskazuje na głębię składu i zdolność do wygrywania mimo przeciwności. San Antonio Spurs również mieli bardzo udany sezon 2025-2026, kończąc z bilansem 62-20 i zajmując 2. miejsce w Konferencji Zachodniej. Prognozowanie zwycięstwa Spurs nad ostatecznymi mistrzami, nawet z uwzględnieniem styczniowych braków Knicks, jest obarczone ryzykiem, ponieważ Knicks udowodnili swoją dominację w całym sezonie.
