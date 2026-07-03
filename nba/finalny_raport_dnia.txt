@@ -1,18 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-03 02:05 ET) ---
-Analiza meczu: Knicks @ Spurs (Styczeń 2026)
-Typ: Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-07-03 05:36 ET) ---
+Analiza meczu na podstawie danych ze STYCZNIA 2026:
+
+**Knicks @ Spurs**
 
 *   **Kluczowe braki w składach (Styczeń 2026):**
-    *   **New York Knicks:**
-        *   Jalen Brunson: Out (Prawa kostka, skręcenie) 🤕
-        *   Mitchell Robinson: Out (Lewa kostka, uraz) 🤕
-        *   Landry Shamet: Out (Barki) 🤕 / Questionable (Prawe ramię, skręcenie)
-        *   Josh Hart: Questionable (Prawa kostka, bolesność)
-        *   Karl-Anthony Towns: Questionable (Plecy, skurcze)
-        *   Ariel Hukporti: Questionable (Mięsień czworogłowy)
     *   **San Antonio Spurs:**
-        *   Devin Vassell: Out (Udo) 🤕
-        *   Victor Wembanyama: Day-To-Day (Kolano) (na początku stycznia) 🤔
+        *   Devin Vassell: Out (Udo) w dniu 3 stycznia 2026.
+        *   Victor Wembanyama: Day-To-Day (Kolano) w dniu 3 stycznia 2026.
+        *   Jayden Quaintance: Prawdopodobnie poza składem przez cały sezon 2025-26 (kontuzja ACL i łąkotki od lutego 2025).
+        *   David Jones-Garcia: Prawdopodobnie poza składem przez cały sezon 2025-26 (operacja kostki w lutym 2026).
+    *   **New York Knicks:**
+        *   Josh Hart: Out (Skręcenie prawej kostki) w dniu 5 stycznia 2026; Questionable (Ból prawej kostki) w dniu 28 stycznia 2026.
+        *   Landry Shamet: Out (Skręcenie prawego barku) w dniu 5 stycznia 2026.
+        *   Karl-Anthony Towns: Questionable (Plecy; Spazmy kręgosłupa piersiowego) w dniu 24 stycznia 2026.
+        *   Mitchell Robinson: Out (Kontuzja kostki, nie spodziewany powrót przed 30 stycznia) w dniu 28 stycznia 2026.
+        *   Miles McBride: Out (Kontuzja kostki) w dniu 28 stycznia 2026.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Biorąc pod uwagę kluczowe absencje w składzie New York Knicks w styczniu 2026, w tym lidera strzelców Jalena Brunsona i ważnego obrońcy Mitchella Robinsona, zespół był znacznie osłabiony. San Antonio Spurs, mimo braku Devina Vassella i początkowego statusu "Day-To-Day" dla Victora Wembanyamy (który w dalszej części miesiąca grał i był liderem zespołu), wydawali się mieć silniejszą pozycję. Osłabienia Knicks były bardziej dotkliwe dla ich podstawowego składu.
+*   **Werdykt dla typu: Spurs**
+    *   [✅ ZATWIERDZONY]
+    *   **Uzasadnienie:** San Antonio Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej. Pomimo incydentalnych kontuzji (Vassell Out, Wembanyama Day-To-Day na początku stycznia), ich ogólna siła i głębia składu wskazują na przewagę. New York Knicks z kolei, w różnych momentach stycznia 2026, mieli kilku kluczowych graczy (Mitchell Robinson, Miles McBride, Josh Hart, Karl-Anthony Towns) wykluczonych lub z niepewnym statusem, co mogło znacząco wpłynąć na ich wydajność. W ogólnym rozrachunku, biorąc pod uwagę stabilność i dominację Spurs w tym sezonie, typ na ich zwycięstwo jest uzasadniony.
