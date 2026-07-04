@@ -1,13 +1,14 @@
---- AUDYT PLK LIVE (2026-07-04 19:35 CET) ---
+--- AUDYT PLK LIVE (2026-07-04 21:03 CET) ---
 Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
 1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Michał Kolenda nabawił się drobnego urazu pod koniec sezonu 2025/2026, który uniemożliwił mu udział w zgrupowaniu kadry narodowej po zakończeniu sezonu, co sugeruje, że mógł być niedostępny lub grać z urazem w kluczowych meczach finałowych.
-    *   **ORLEN Zastal Zielona Góra:** Przed finałami odnotowano powrót Phila Fayne'a po urazie, co oznacza, że był dostępny na finały. Brak informacji o innych istotnych brakach w składzie koszykarskim na dzień meczu.
+    *   🏀 **Legia Warszawa:** Michał Kolenda nabawił się drobnego urazu pod koniec sezonu 2025/2026, co mogło wpłynąć na jego dyspozycję w meczu finałowym. Race Thompson powrócił do składu po kontuzji przed 10 czerwca 2026, więc był dostępny na finał.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak opuścił wcześniejsze spotkanie z powodu złamanego nosa (przed 10 czerwca 2026). Przed 13 czerwca 2026 istniała możliwość jego powrotu, co sugeruje, że mógł być dostępny na mecz 21 czerwca, choć jego pełna sprawność nie jest jasno potwierdzona. Phil Fayne wrócił do składu przed 6 czerwca 2026.
 
 2.  **Aktualna forma top scorerów:**
-    *   **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 wiodącymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). W 3. meczu finałowym Chavaughn Lewis zdobył 14 punktów, Patrick Cartier 13, a Jayvon Maughmer 12.
-    *   **Legia Warszawa:** Brak danych z API dla tego zespołu dotyczących średnich punktów na mecz dla top scorerów w całym sezonie 2025/2026. W 3. meczu finałowym Carl Ponsar zdobył 22 punkty, DJ Brewton 13. Andrzej Pluta, DJ Brewton i Maksymilian Wilczek byli wymieniani jako kluczowi zawodnicy po zdobyciu mistrzostwa.
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    Legia Warszawa wygrała ten mecz (78-70) i tym samym zdobyła mistrzostwo Polski w koszykówce w siódmym, decydującym meczu finałowym sezonu 2025/2026. Pomimo drobnego urazu Michała Kolendy w drużynie Legii, zespół zdołał triumfować w kluczowym spotkaniu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się w OSiR Warszawa Bemowo.
+    *   Był to siódmy, decydujący mecz finałów ORLEN Basket Ligi.
+    *   Legia Warszawa wygrała mecz 78:70 i zdobyła Mistrzostwo Polski w sezonie 2025/2026. Typ na Legię Warszawa był trafny.
