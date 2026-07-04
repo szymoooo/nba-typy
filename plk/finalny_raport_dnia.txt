@@ -1,23 +1,13 @@
---- AUDYT PLK LIVE (2026-07-04 18:16 CET) ---
-**PLK typy na 2026-06-21**
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-04 19:35 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
 1.  **Kluczowe braki w składach:**
-
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   ❌ Sagaba Konate: Uraz więzadła SL nadgarstka, koniec sezonu 2025/2026 od lutego 2026.
-        *   ❌ Miłosz Góreńczyk: Kontuzjowany przez większość sezonu 2025/2026, zagrał tylko w jednym meczu.
-        *   Patrick Cartier i Miłosz Góreńczyk odeszli z klubu po zakończeniu sezonu, w lipcu 2026 roku, więc byli w składzie na mecz 21.06.2026.
-    *   🏀 **Legia Warszawa:**
-        *   ❌ Michał Kolenda: Drobny uraz na koniec sezonu 2025/2026, wyeliminował go ze zgrupowania kadry pod koniec czerwca 2026, co sugeruje niedostępność lub ograniczoną sprawność na mecz finałowy.
-        *   Matthias Tass i Maksymilian Wilczek odeszli z klubu w lipcu 2026 roku, więc byli w składzie na mecz 21.06.2026.
+    *   **Legia Warszawa:** Michał Kolenda nabawił się drobnego urazu pod koniec sezonu 2025/2026, który uniemożliwił mu udział w zgrupowaniu kadry narodowej po zakończeniu sezonu, co sugeruje, że mógł być niedostępny lub grać z urazem w kluczowych meczach finałowych.
+    *   **ORLEN Zastal Zielona Góra:** Przed finałami odnotowano powrót Phila Fayne'a po urazie, co oznacza, że był dostępny na finały. Brak informacji o innych istotnych brakach w składzie koszykarskim na dzień meczu.
 
 2.  **Aktualna forma top scorerów:**
+    *   **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 wiodącymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). W 3. meczu finałowym Chavaughn Lewis zdobył 14 punktów, Patrick Cartier 13, a Jayvon Maughmer 12.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu dotyczących średnich punktów na mecz dla top scorerów w całym sezonie 2025/2026. W 3. meczu finałowym Carl Ponsar zdobył 22 punkty, DJ Brewton 13. Andrzej Pluta, DJ Brewton i Maksymilian Wilczek byli wymieniani jako kluczowi zawodnicy po zdobyciu mistrzostwa.
 
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   W sezonie 2025/2026 wiodącymi strzelcami byli: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz). Brak danych z API dla tego zespołu w kontekście konkretnych statystyk z serii.
-    *   🏀 **Legia Warszawa:**
-        *   Brak danych z API dla tego zespołu. Jednakże, Andrzej Pluta, Dominic Brewton III i Maksymilian Wilczek byli wyróżniani jako kluczowi zawodnicy po zdobyciu mistrzostwa. Andrzej Pluta grał najdłużej na parkiecie w sezonie 2025/2026.
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa miała mniejsze problemy kadrowe niż ORLEN Zastal Zielona Góra, który stracił dwóch kluczowych graczy pod koszem (Konate na cały sezon, Góreńczyk praktycznie na cały sezon). Kontuzja Kolendy w Legii była "drobnym urazem", a Legia i tak zwyciężyła w decydującym meczu finałowym (78:70) na swoim parkiecie, zdobywając Mistrzostwo Polski 2026.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    Legia Warszawa wygrała ten mecz (78-70) i tym samym zdobyła mistrzostwo Polski w koszykówce w siódmym, decydującym meczu finałowym sezonu 2025/2026. Pomimo drobnego urazu Michała Kolendy w drużynie Legii, zespół zdołał triumfować w kluczowym spotkaniu.
