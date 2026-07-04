@@ -1,11 +1,11 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-04 15:57 ET) ---
-Na podstawie dostępnych danych na dzień 2026-07-04:
+--- KRYTYCZNY AUDYT LIVE (2026-07-04 16:16 ET) ---
+Na podstawie dostępnych danych z dnia 2026-07-04:
 
-**Knicks @ Spurs -> Typ: Spurs**
+**Knicks @ Spurs**
+*   Typ: Spurs
 
-*   **Kluczowe braki w składach (2026-07-04):**
-    *   Knicks: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Spurs: Brak aktualnych raportów (Injury Report) na tę chwilę. D. Jones Garcia był wykluczony do końca sezonu 2025-26 z powodu kontuzji kostki (raport z 3 lutego). Ponieważ dzisiaj jest 4 lipca, brak jest aktualnych raportów dotyczących statusu zawodników.
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Składy na styczeń 2026 wskazują na silne drużyny. Knicks posiadają takich graczy jak Jalen Brunson, Mitchell Robinson i Karl-Anthony Towns. Spurs, z kolei, mają w składzie Victora Wembanyamę, De'Aarona Foxa i Devina Vassella.
-    *   W sezonie 2025-26 San Antonio Spurs osiągnęli imponujący bilans 62-20, zajmując 2. miejsce w Konferencji Zachodniej i wykazując wysoki Net Rating +8.3. Biorąc pod uwagę ich dominację w minionym sezonie i brak aktualnych raportów o kontuzjach na dzień 2026-07-04, typ na Spurs wydaje się uzasadniony.
+*   **Kluczowe braki w składach:**
+    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę. W styczniu 2026 roku w składzie Knicks byli m.in. Jalen Brunson, Mitchell Robinson i Karl-Anthony Towns.
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę. W styczniu 2026 roku w składzie Spurs byli m.in. Victor Wembanyama, De'Aaron Fox i Devin Vassell.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak aktualnych raportów kontuzji na dzień 2026-07-04 uniemożliwia rzetelną ocenę).
