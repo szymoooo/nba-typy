@@ -1,14 +1,31 @@
---- AUDYT PLK LIVE (2026-07-04 21:03 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-07-04 21:58 CET) ---
+Poniżej znajduje się audyt typu bukmacherskiego na mecz ORLEN Zastal Zielona Góra @ Legia Warszawa z dnia 2026-06-21:
+
+---
+
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Michał Kolenda nabawił się drobnego urazu pod koniec sezonu 2025/2026, co mogło wpłynąć na jego dyspozycję w meczu finałowym. Race Thompson powrócił do składu po kontuzji przed 10 czerwca 2026, więc był dostępny na finał.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak opuścił wcześniejsze spotkanie z powodu złamanego nosa (przed 10 czerwca 2026). Przed 13 czerwca 2026 istniała możliwość jego powrotu, co sugeruje, że mógł być dostępny na mecz 21 czerwca, choć jego pełna sprawność nie jest jasno potwierdzona. Phil Fayne wrócił do składu przed 6 czerwca 2026.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   ❌ **Sagaba Konate** (silny skrzydłowy/środkowy): Wykluczony z gry do końca sezonu z powodu awulsyjnego uszkodzenia więzadła nadgarstka, kontuzja potwierdzona 28 lutego 2026 r..
+        *   ⚠️ **Filip Matczak** (rozgrywający): Odczuwał dolegliwości związane ze starą kontuzją 6 czerwca 2026 r., ale sztab szkoleniowy liczył na jego dostępność w serii finałowej.
+        *   ⚠️ **Dwight Allen Wilson III** (środkowy): Odczuwał skutki urazu kostki 6 czerwca 2026 r., ale normalnie uczestniczył w treningach.
+    *   🏀 **Legia Warszawa:**
+        *   ⚠️ **Michał Kolenda** (niski skrzydłowy/rzucający): Odnotowano "drobny uraz" na koniec sezonu, który wyeliminował go ze zgrupowania kadry 28 czerwca 2026 r. Prawdopodobnie grał w finale 21 czerwca, ale mógł być osłabiony lub grać z bólem.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   **Chavaughn Lewis**: 15.8 Pkt/mecz.
+        *   **Jakub Szumert**: 13.2 Pkt/mecz.
+        *   **Andrzej Mazurczak**: 11.8 Pkt/mecz.
+        *   **Conley Garrison**: 10.9 Pkt/mecz. Conley Garrison, Andrzej Mazurczak i Jakub Szumert byli w dobrej formie w fazie play-off, z Garrisonem notującym 26 punktów, 6 zbiórek i 6 asyst w meczu półfinałowym 31 maja 2026 r.
+    *   🏀 **Legia Warszawa:**
+        *   **Dominic Brewton III**: 14.5 Pkt/mecz.
+        *   **Andrzej Pluta**: 13.4 Pkt/mecz.
+        *   **Jayvon Graves**: 12.8 Pkt/mecz. Andrzej Pluta i Carl Ponsar byli kluczowymi graczami w serii finałowej.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się w OSiR Warszawa Bemowo.
-    *   Był to siódmy, decydujący mecz finałów ORLEN Basket Ligi.
-    *   Legia Warszawa wygrała mecz 78:70 i zdobyła Mistrzostwo Polski w sezonie 2025/2026. Typ na Legię Warszawa był trafny.
+    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowym Orlen Basket Ligi. Legia Warszawa wygrała ten mecz 78:70, zdobywając mistrzostwo Polski.
+    *   Legia grała u siebie w Warszawie, co w decydującym meczu play-off jest znaczącą przewagą.
+    *   ORLEN Zastal Zielona Góra zmagał się z długotrwałą kontuzją Sagaby Konate i mniejszymi problemami Matczaka oraz Wilsona. Mimo to, ich kluczowi strzelcy byli w formie.
+    *   Legia Warszawa, mimo drobnego urazu Kolendy, wydawała się mieć pełniejszy skład i wykorzystała przewagę własnego parkietu. Biorąc pod uwagę, że Legia była liderem sezonu zasadniczego (Zastal na 8. miejscu) i ostatecznie zwyciężyła w decydującym meczu, typ na Legię Warszawa był uzasadniony.
