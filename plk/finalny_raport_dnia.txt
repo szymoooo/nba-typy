@@ -1,20 +1,19 @@
---- AUDYT PLK LIVE (2026-07-04 02:18 CET) ---
-Analiza meczu PLK (2026-06-21): ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-04 04:13 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
----
+### Kluczowe braki w składach:
 
-**Mecz:** ORLEN Zastal Zielona Góra @ Legia Warszawa
-**Typ z PulsBasketu:** Legia Warszawa
+*   🏀 **Legia Warszawa:**
+    *   Michał Kolenda: Drobny uraz na koniec sezonu 2025/2026 wykluczył go ze zgrupowania kadry (stan na 28.06.2026), co sugeruje, że mógł być niedostępny lub ograniczony w finale.
+    *   Race Thompson: Zmagał się z problemami zdrowotnymi, które wykluczyły go z gry na kilka tygodni już od września 2025 r. i nadal był poza składem na początku serii finałowej (08.06.2026). Prawdopodobnie nie zagrał w decydującym meczu.
+*   🏀 **ORLEN Zastal Zielona Góra:**
+    *   Sagaba Konate: Doznał poważnej kontuzji nadgarstka w lutym 2026 roku podczas Pucharu Polski, która zakończyła dla niego sezon. Był niedostępny na finał.
+    *   Filip Matczak i Jakub Szumert: Byli kontuzjowani w lutym 2026, ale wrócili do składu i wystąpili w meczach finałowych.
+    *   Chavaughn Lewis: Doniesienia z maja 2026 sugerowały uraz, ale zawodnik grał w serii finałowej.
 
-1.  **Kluczowe braki w składach (2026-06-21):**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21 czerwca 2026.
-    *   **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21 czerwca 2026.
+### Aktualna forma top strzelców:
+*   Brak danych z API dla tego zespołu.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu w zakresie konkretnych top scorerów i ich formy w serii. Ogólne dane z sezonu 2025/2026 wskazują, że kluczowymi postaciami byli Daniel Szymkiewicz i Przemysław Żołnierewicz, ale brak precyzyjnych informacji o ich formie z dnia 21.06.2026.
-    *   **Legia Warszawa:** Brak danych z API dla tego zespołu w zakresie konkretnych top scorerów i ich formy w serii. W sezonie 2025/2026 wyróżniali się Pontus Dahlman i Christian Vital.
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak znaczących, potwierdzonych kontuzji po obu stronach przed meczem 21.06.2026, co oznacza, że obie drużyny mogły wystąpić w optymalnych składach. Biorąc pod uwagę brak danych o szczegółowej formie z serii, a jedynie ogólne wskazania kluczowych graczy z sezonu 2025/2026, typ na Legię Warszawa jako gospodarza w fazie play-off (jeśli to była faza decydująca) jest akceptowalny przy braku znaczących osłabień u przeciwnika.
-
----
+### Werdykt:
+[✅ ZATWIERDZONY]
+Legia Warszawa zdobyła mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra 4-3 w serii finałowej. Decydujący, siódmy mecz Legia wygrała u siebie 78:70. Pomimo braków kadrowych Legia Warszawa była w stanie wygrać decydujący mecz finału, co potwierdza ich silną pozycję jako faworyta. Kontuzje po stronie Zastalu (sezonowa kontuzja Sagaby Konate) były bardziej znaczące i długotrwałe, a mimo to zespół dotarł do finału. Typ na Legię Warszawa był trafny.
