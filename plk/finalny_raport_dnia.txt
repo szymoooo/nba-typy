@@ -1,19 +1,12 @@
---- AUDYT PLK LIVE (2026-07-04 04:13 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-07-04 10:30 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-### Kluczowe braki w składach:
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Phil Fayne, który wcześniej zmagał się z urazem, powrócił do gry przed 6 czerwca 2026 roku.
+    *   **Legia Warszawa:** Michał Kolenda zmaga się z drobnym urazem, którego nabawił się pod koniec niedawno zakończonego sezonu 2025/2026. Z tego powodu został wyeliminowany ze zgrupowania kadry narodowej, co potwierdzono 28 czerwca 2026 roku.
 
-*   🏀 **Legia Warszawa:**
-    *   Michał Kolenda: Drobny uraz na koniec sezonu 2025/2026 wykluczył go ze zgrupowania kadry (stan na 28.06.2026), co sugeruje, że mógł być niedostępny lub ograniczony w finale.
-    *   Race Thompson: Zmagał się z problemami zdrowotnymi, które wykluczyły go z gry na kilka tygodni już od września 2025 r. i nadal był poza składem na początku serii finałowej (08.06.2026). Prawdopodobnie nie zagrał w decydującym meczu.
-*   🏀 **ORLEN Zastal Zielona Góra:**
-    *   Sagaba Konate: Doznał poważnej kontuzji nadgarstka w lutym 2026 roku podczas Pucharu Polski, która zakończyła dla niego sezon. Był niedostępny na finał.
-    *   Filip Matczak i Jakub Szumert: Byli kontuzjowani w lutym 2026, ale wrócili do składu i wystąpili w meczach finałowych.
-    *   Chavaughn Lewis: Doniesienia z maja 2026 sugerowały uraz, ale zawodnik grał w serii finałowej.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
-### Aktualna forma top strzelców:
-*   Brak danych z API dla tego zespołu.
-
-### Werdykt:
-[✅ ZATWIERDZONY]
-Legia Warszawa zdobyła mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra 4-3 w serii finałowej. Decydujący, siódmy mecz Legia wygrała u siebie 78:70. Pomimo braków kadrowych Legia Warszawa była w stanie wygrać decydujący mecz finału, co potwierdza ich silną pozycję jako faworyta. Kontuzje po stronie Zastalu (sezonowa kontuzja Sagaby Konate) były bardziej znaczące i długotrwałe, a mimo to zespół dotarł do finału. Typ na Legię Warszawa był trafny.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Uraz kapitana Legii, Michała Kolendy, jest istotnym osłabieniem, nawet jeśli jest "drobny", ponieważ jego dostępność i forma na dzień dzisiejszy (04.07.2026) są pod znakiem zapytania.
