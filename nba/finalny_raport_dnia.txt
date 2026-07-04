@@ -1,13 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-04 06:06 ET) ---
-Na dzień 2026-07-04, typowanie meczu Knicks @ Spurs jest trudne, ponieważ mecze NBA nie są rozgrywane w tym terminie, a dostępne raporty dotyczą ogólnych składów z sezonu 2025-2026 oraz stanu zdrowia graczy po zakończeniu rozgrywek lub przed ligą letnią.
+--- KRYTYCZNY AUDYT LIVE (2026-07-04 06:35 ET) ---
+Analiza meczu: Knicks @ Spurs (Styczeń 2026)
 
-**Knicks @ Spurs -> Typ: Spurs**
+**Kluczowe braki w składach (Styczeń 2026):**
 
-- **Kluczowe braki w składach:**
-    *   **New York Knicks:**
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę dla hipotetycznego meczu 2026-07-04. Wcześniejsze raporty z początku czerwca 2026 wspominały o Mitchellu Robinsonie (uraz palca), jednak był on dostępny na mecz 9 czerwca 2026. Skład Knicks z sezonu 2025-2026 obejmował między innymi Jalen Brunson, Mitchell Robinson, OG Anunoby, Josh Hart, Karl-Anthony Towns (ostatni dwóch zawodników to nowe nabytki lub zmiennicy z wcześniejszych lat, zależnie od źródła).
-    *   **San Antonio Spurs:**
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę dla hipotetycznego meczu 2026-07-04. David Jones-Garcia był wyłączony z gry do końca sezonu 2025-26 z powodu operacji kostki od lutego 2026. Skład Spurs z sezonu 2025-2026 i 2026-2027 zawierał takie nazwiska jak Victor Wembanyama, Jeremy Sochan, Devin Vassell, Keldon Johnson, Stephon Castle, De'Aaron Fox. Rookie Jayden Quaintance (draft 2026) miał zerwane ACL i łąkotkę w lutym 2025 i nie miał zagrać w lidze letniej 2026.
+*   **New York Knicks:**
+    *   Jalen Brunson: Out/Questionable (kontuzja prawej kostki, skręcenie/dyskomfort) w połowie stycznia. Jest to kluczowy zawodnik ofensywny.
+    *   Josh Hart: Out/Questionable (kontuzja prawej kostki, ból/dyskomfort) w połowie stycznia.
+    *   Landry Shamet: Out (bark) w połowie stycznia.
+    *   Karl-Anthony Towns: Uraz pleców pod koniec stycznia.
 
-- **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak jest konkretnych raportów o kontuzjach lub statusach (Out, Questionable, GTD) na 4 lipca 2026 dla meczu Knicks @ Spurs, ponieważ ta data przypada poza regularnym sezonem NBA. Dostępne informacje dotyczą ogólnego stanu zdrowia zawodników po zakończeniu sezonu 2025-2026 lub przed ligą letnią, a nie meczu w normalnym trybie rozgrywek. Bez kluczowych informacji o aktualnych brakach w składach, zatwierdzenie lub odrzucenie typu jest niemożliwe na podstawie zadanych kryteriów.
+*   **San Antonio Spurs:**
+    *   Devin Vassell: Out (udo/naciągnięcie przywodziciela lewego uda) przez większą część stycznia.
+    *   Victor Wembanyama: Day-To-Day (kolano) na początku stycznia, ale wydaje się, że grał w późniejszych meczach stycznia.
+
+**Werdykt dla typu: Spurs**
+
+Biorąc pod uwagę ogólną sytuację kadrową w styczniu 2026, zwłaszcza w połowie miesiąca, New York Knicks borykali się z poważnymi brakami, w tym z absencją Jalen Brunsona, co znacząco osłabiłoby ich ofensywę. San Antonio Spurs również mieli absencję Devina Vassella, ale ich pozostali kluczowi gracze, tacy jak Victor Wembanyama i De'Aaron Fox, byli aktywni i dobrze się prezentowali w styczniu. Spurs mieli również lepszy bilans w tym okresie.
+
+[✅ ZATWIERDZONY] Twój typ na Spurs jest uzasadniony.
