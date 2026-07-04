@@ -1,23 +1,20 @@
---- AUDYT PLK LIVE (2026-07-03 20:52 CET) ---
-## ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-04 02:18 CET) ---
+Analiza meczu PLK (2026-06-21): ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-### 1. Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)
+---
 
-*   **Legia Warszawa:**
-    *   Michał Kolenda – kontuzja wyeliminowała go ze zgrupowania kadry (stan na 28.06.2026).
-    *   Maksymilian Wilczek – odszedł z Legii (stan na 01.07.2026).
-*   **ORLEN Zastal Zielona Góra:**
-    *   Chavaughn Lewis – odczuwał skutki zderzenia i nie był w stanie grać w meczu o 7. miejsce, który odbył się 08.05.2026, był wtedy najlepszym strzelcem drużyny. Brak aktualizacji statusu jego kontuzji na dzień 2026-07-03, jednak jest wymieniony w składzie na sezon 2025/2026 i jako top scorer na PLK.pl. Biorąc pod uwagę datę meczu (21.06.2026), jego wcześniejsza kontuzja mogła mieć wpływ na jego dyspozycję.
+**Mecz:** ORLEN Zastal Zielona Góra @ Legia Warszawa
+**Typ z PulsBasketu:** Legia Warszawa
 
-### 2. Aktualna forma top scorerów
+1.  **Kluczowe braki w składach (2026-06-21):**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21 czerwca 2026.
+    *   **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21 czerwca 2026.
 
-*   **Legia Warszawa:**
-    *   RealGM wskazuje na Race'a Thompsona (PER 23.1), Shane'a Huntera (PER 21.8) i D.J. Brewtona (PER 20.2) jako jednych z najlepiej punktujących zawodników Legii w sezonie 2025/2026 pod kątem wskaźnika PER (Player Efficiency Rating). Andrzej Pluta również jest wymieniany jako kluczowy zawodnik.
-*   **ORLEN Zastal Zielona Góra:**
-    *   Chavaughn Lewis - 15.8 Pkt/mecz w sezonie 2025/2026.
-    *   Jakub Szumert - 13.2 Pkt/mecz w sezonie 2025/2026.
-    *   Andrzej Mazurczak - 11.8 Pkt/mecz w sezonie 2025/2026.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu w zakresie konkretnych top scorerów i ich formy w serii. Ogólne dane z sezonu 2025/2026 wskazują, że kluczowymi postaciami byli Daniel Szymkiewicz i Przemysław Żołnierewicz, ale brak precyzyjnych informacji o ich formie z dnia 21.06.2026.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu w zakresie konkretnych top scorerów i ich formy w serii. W sezonie 2025/2026 wyróżniali się Pontus Dahlman i Christian Vital.
 
-### 3. Werdykt:
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Brak znaczących, potwierdzonych kontuzji po obu stronach przed meczem 21.06.2026, co oznacza, że obie drużyny mogły wystąpić w optymalnych składach. Biorąc pod uwagę brak danych o szczegółowej formie z serii, a jedynie ogólne wskazania kluczowych graczy z sezonu 2025/2026, typ na Legię Warszawa jako gospodarza w fazie play-off (jeśli to była faza decydująca) jest akceptowalny przy braku znaczących osłabień u przeciwnika.
 
-[⚠️ RYZYKOWNY] - Brak jednoznacznych informacji o aktualnym stanie kontuzji Chavaughna Lewisa, czołowego strzelca Zastalu, na dzień meczu 21.06.2026, co wprowadza element niepewności. Legia natomiast miała kontuzję Michała Kolendy i odejście Maksymiliana Wilczka, co mogło wpłynąć na ich skład. Mimo że Legia Warszawa wygrała ten mecz 78:70, w momencie analizy (z perspektywy przedmeczowej, na podstawie dostępnych danych) obecność kontuzji kluczowego gracza Zastalu oraz zmiany kadrowe w Legii sprawiają, że typ był ryzykowny.
+---
