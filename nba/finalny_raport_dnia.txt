@@ -1,7 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-04 17:14 ET) ---
-Oto analiza Twojego typu na podstawie dostępnych danych z dnia 2026-07-04:
+--- KRYTYCZNY AUDYT LIVE (2026-07-04 19:14 ET) ---
+Na podstawie danych z sieci (2026-07-04) dotyczących stycznia 2026:
 
 **Knicks @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Zarówno New York Knicks, jak i San Antonio Spurs dysponowały w styczniu 2026 roku bardzo silnymi składami. Knicks mieli w swoim składzie graczy takich jak Jalen Brunson, Karl-Anthony Towns, OG Anunoby czy Mikal Bridges. Spurs mogli pochwalić się Victorem Wembanyamą, De'Aaronem Foxem, Devinem Vassellem i Stephonem Castle. Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując drugie miejsce w Konferencji Zachodniej, a oba zespoły spotkały się w Finałach NBA w czerwcu 2026 roku. Biorąc pod uwagę wyrównany poziom obu drużyn i brak aktualnych, potwierdzonych raportów o kontuzjach na dzień 04.07.2026, typowanie zwycięzcy jest ryzykowne.
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Out/Questionable (skręcenie prawej kostki).
+        *   Mitchell Robinson: Out/Questionable (uraz/zarządzanie urazem lewej kostki).
+        *   Josh Hart: Out/Questionable (ból prawej kostki).
+        *   Landry Shamet: Out/Questionable (uraz prawego barku).
+        *   Karl-Anthony Towns, OG Anunoby, Mikal Bridges są na rosterze i pełnią kluczowe role.
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (uraz uda/naciągnięcie przywodziciela lewego uda).
+        *   Victor Wembanyama: Day-To-Day (uraz kolana we wczesnym styczniu), ale w późniejszym styczniu prowadził zespół w punktacji i zbiórkach, co sugeruje powrót do gry.
+        *   De'Aaron Fox i Stephon Castle są kluczowymi graczami.
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Spurs wykazali się silną formą w styczniu 2026, posiadając jeden z najlepszych bilansów w lidze i wysokie pozycje w statystykach ofensywnych i defensywnych. Wembanyama (po powrocie z Day-To-Day) i Fox byli kluczowymi postaciami.
+    *   Knicks borykali się z licznymi kontuzjami kluczowych graczy (Brunson, Robinson, Hart) w różnych momentach stycznia, co mogło znacząco osłabić ich skład.
