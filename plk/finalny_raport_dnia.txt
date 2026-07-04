@@ -1,18 +1,23 @@
---- AUDYT PLK LIVE (2026-07-04 17:11 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
-
-Informacje dotyczące meczu z dnia 21 czerwca 2026 wskazują, że było to siódme, decydujące spotkanie finałowej serii Orlen Basket Ligi, w którym Legia Warszawa zdobyła Mistrzostwo Polski.
+--- AUDYT PLK LIVE (2026-07-04 18:16 CET) ---
+**PLK typy na 2026-06-21**
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Filip Matczak i Dwight Wilson, choć mieli drobne urazy wcześniej w czerwcu, wystąpili w meczach finałowych. Chavaughn Lewis również wrócił do formy po majowej kontuzji i był czołowym strzelcem w finałach.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda nabawił się drobnego urazu pod koniec sezonu, przez który opuścił zgrupowanie kadry po finałach, jednak grał w meczu nr 6 i był częścią zwycięskiego składu.
 
-2.  **Aktualna forma top scorerów (w serii):**
-    *   🏀 **ORLEN Zastal Zielona Góra:** W meczach finałowych kluczowi gracze prezentowali zmienną, ale często wysoką formę. W meczu nr 4 (15.06) Andrzej Mazurczak zdobył 21 punktów, a Conley Garrison 16, co stanowiło znaczącą poprawę w porównaniu do wcześniejszych spotkań. W meczu nr 6 (19.06) Conley Garrison był bohaterem, trafiając decydującą trójkę na sekundę przed końcem, co dało Zastalowi zwycięstwo 76:74. Inni liderzy punktowi to Chavaughn Lewis (18 Pkt w meczu nr 6) i Jakub Szumert.
-    *   🏀 **Legia Warszawa:** W serii finałowej Legia opierała się na kilku strzelcach. W meczu nr 4 (15.06) Carl Ponsar zdobył 17 punktów, Andrzej Pluta 14, a Dominic Brewton III 12. W meczu nr 6 (19.06) Carl Ponsar zdobył 15 punktów, Dominic Brewton 14, Ojars Silins 12, a Andrzej Pluta 11. Dominic Brewton również miał kluczową akcję pod koniec meczu nr 6.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   ❌ Sagaba Konate: Uraz więzadła SL nadgarstka, koniec sezonu 2025/2026 od lutego 2026.
+        *   ❌ Miłosz Góreńczyk: Kontuzjowany przez większość sezonu 2025/2026, zagrał tylko w jednym meczu.
+        *   Patrick Cartier i Miłosz Góreńczyk odeszli z klubu po zakończeniu sezonu, w lipcu 2026 roku, więc byli w składzie na mecz 21.06.2026.
+    *   🏀 **Legia Warszawa:**
+        *   ❌ Michał Kolenda: Drobny uraz na koniec sezonu 2025/2026, wyeliminował go ze zgrupowania kadry pod koniec czerwca 2026, co sugeruje niedostępność lub ograniczoną sprawność na mecz finałowy.
+        *   Matthias Tass i Maksymilian Wilczek odeszli z klubu w lipcu 2026 roku, więc byli w składzie na mecz 21.06.2026.
+
+2.  **Aktualna forma top scorerów:**
+
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   W sezonie 2025/2026 wiodącymi strzelcami byli: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz). Brak danych z API dla tego zespołu w kontekście konkretnych statystyk z serii.
+    *   🏀 **Legia Warszawa:**
+        *   Brak danych z API dla tego zespołu. Jednakże, Andrzej Pluta, Dominic Brewton III i Maksymilian Wilczek byli wyróżniani jako kluczowi zawodnicy po zdobyciu mistrzostwa. Andrzej Pluta grał najdłużej na parkiecie w sezonie 2025/2026.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując ORLEN Zastal Zielona Góra w decydującym, siódmym meczu finałów 78:70.
-    *   Mecz nr 7 rozegrano w Warszawie, na własnym parkiecie Legii (Hala Bemowo), co w decydującym spotkaniu serii play-off jest znaczącą przewagą.
-    *   Obie drużyny przystąpiły do decydującego starcia bez kluczowych osłabień, a ich top scorerzy prezentowali wysoką formę, co potwierdza zaciętość całej serii (wynik 4-3).
-    *   W związku z ostatecznym zwycięstwem Legii Warszawa, typ jest zatwierdzony.
+    *   Legia Warszawa miała mniejsze problemy kadrowe niż ORLEN Zastal Zielona Góra, który stracił dwóch kluczowych graczy pod koszem (Konate na cały sezon, Góreńczyk praktycznie na cały sezon). Kontuzja Kolendy w Legii była "drobnym urazem", a Legia i tak zwyciężyła w decydującym meczu finałowym (78:70) na swoim parkiecie, zdobywając Mistrzostwo Polski 2026.
