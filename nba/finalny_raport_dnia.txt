@@ -1,16 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-05 11:17 ET) ---
-Oto analiza Twojego typu na mecz Knicks @ Spurs, bazując na dostępnych danych z dnia 2026-07-05:
+--- KRYTYCZNY AUDYT LIVE (2026-07-05 12:35 ET) ---
+**Mecz:** Knicks @ Spurs
+**Typ użytkownika:** Spurs
 
 ---
 
-**Knicks @ Spurs**
-*   **Typ użytkownika:** Spurs
+**Kluczowe braki w składach (Styczeń 2026):**
 
-**Kluczowe braki w składach:**
-*   **New York Knicks:** Mitchell Robinson (C) – poza grą z powodu złamanej ręki (kostki), której doznał przed Finałami NBA.
-*   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **New York Knicks:**
+    *   Brak aktualnych raportów (Injury Report) z potwierdzonymi statusami 'Out', 'Questionable', 'GTD' dla meczu z 1 stycznia 2026. Oficjalne raporty z tego dnia wskazywały "NOT YET SUBMITTED".
+*   **San Antonio Spurs:**
+    *   David Jones Garcia: Out (Ankle surgery, out for remainder of 2025-26 season, ogłoszone 4 lutego 2026).
+    *   Brak aktualnych raportów (Injury Report) z potwierdzonymi statusami 'Out', 'Questionable', 'GTD' dla innych graczy dla meczu z 1 stycznia 2026. Oficjalne raporty z tego dnia wskazywały "NOT YET SUBMITTED".
 
-**Werdykt:** [✅ ZATWIERDZONY]
+---
 
-**Uzasadnienie:**
-Biorąc pod uwagę potwierdzoną absencję kluczowego środkowego Knicks, Mitchella Robinsona, zespół traci znacząco w obronie podkoszowej i na deskach. Spurs, z dominującym pod koszem Victorem Wembanyamą w składzie, mogą skutecznie wykorzystać ten brak. Bez raportów o poważniejszych kontuzjach po stronie Spurs na dzień dzisiejszy, ich przewaga w strefie podkoszowej jest znacząca.
+**Werdykt:** [⚠️ RYZYKOWNY]
+
+**Uzasadnienie Werdyktu:**
+Mimo że San Antonio Spurs odniosło zwycięstwo w meczu z New York Knicks 1 stycznia 2026 (134-132), brak szczegółowych, potwierdzonych raportów o kontuzjach ze statusami 'Out', 'Questionable', 'GTD' dla obu drużyn na ten konkretny dzień sprawia, że ocena typu jest ryzykowna. Dostępne oficjalne raporty z 1 stycznia 2026 wskazywały na status "NOT YET SUBMITTED" dla obu zespołów. Jedyne potwierdzone osłabienie to David Jones Garcia (Spurs), który był wykluczony z gry na resztę sezonu.
