@@ -1,28 +1,16 @@
---- AUDYT PLK LIVE (2026-07-05 18:36 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (typ z 2026-06-21):
+--- AUDYT PLK LIVE (2026-07-05 19:47 CET) ---
+**PLK typy na 2026-06-21**
 
-Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowym ORLEN Basket Ligi sezonu 2025/2026. Legia Warszawa wygrała ten mecz 78-70, zdobywając Mistrzostwo Polski. Sezon PLK 2025/2026 zakończył się 21 czerwca 2026 roku.
+---
 
-1.  **Kluczowe braki w składach (stan na koniec sezonu 2025/2026):**
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate: Zakończył sezon w lutym 2026 roku z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka.
-        *   Miłosz Góreńczyk: Większość sezonu pauzował z powodu kontuzji. 3 lipca 2026 roku ogłoszono jego odejście z klubu.
-        *   Patrick Cartier: 3 lipca 2026 roku odszedł z Zastalu, przenosząc się do niemieckiej Bundesligi. (Wystąpił w finałach, np. w 4. meczu zdobył 8 pkt.)
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Przed serią finałową, 6 czerwca 2026 roku, pojawiła się informacja o "powrocie Faynea i walce z urazami w szeregach Zastalu", co sugeruje, że Phil Fayne mógł być dostępny po urazie, ale drużyna ogólnie zmagała się z problemami zdrowotnymi. Brak jednak potwierdzonych, kluczowych absencji koszykarskich na dzień meczu (21.06.2026).
 
-    *   🏀 **Legia Warszawa:**
-        *   Michał Kolenda: Doznał drobnego urazu pod koniec sezonu 2025/2026, co wyeliminowało go ze zgrupowania kadry na dzień 28 czerwca 2026 roku. Wcześniej, w grudniu 2025, był kontuzjowany i miał pauzować na kilka tygodni lub miesięcy. (W finałach, np. w 4. meczu zdobył 7 pkt.)
-        *   Matthias Tass: Doznał kontuzji w marcu 2026, pauzował ok. 4-5 tygodni. Prawdopodobnie wrócił do składu na fazę play-off.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **Legia Warszawa:** W sezonie 2025/2026 czołowymi strzelcami byli Dominic Brewton III (średnio 14.6 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.9 Pkt/mecz). Andrzej Pluta został uznany MVP sezonu oraz MVP finałów 2025/2026, co świadczy o jego znakomitej formie.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Liderami punktowymi w sezonie 2025/2026 byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Andrzej Mazurczak wyróżniał się również w asystach (6.8 asysty/mecz w ćwierćfinałach), a Conley Garrison w punktach (13.8 Pkt/mecz w ćwierćfinałach) i asystach (5.5 asysty/mecz w ćwierćfinałach). Jayvon Maughmer zdobył 10 punktów w pierwszej kwarcie piątego meczu finałowego, co wskazuje na dobrą dyspozycję w serii.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026 i finały):**
-
-    *   🏀 **Legia Warszawa:**
-        *   W sezonie 2025/2026 wśród czołowych strzelców ligi byli Dominic Brewton III (średnio 14.5 pkt na mecz) oraz Benjamin Shungu (średnio 14.31 pkt na mecz).
-        *   W finałach, Andrzej Pluta Jr. został MVP. W czwartym meczu finałowym (15.06.2026) wyróżnili się Carl Ponsar (17 pkt), Andrzej Pluta (14 pkt) i Dominic Brewton (12 pkt).
-
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   W sezonie 2025/2026 liderem strzelców Zastalu był Chavaughn Lewis (średnio 15.84 pkt na mecz).
-        *   W czwartym meczu finałowym (15.06.2026) najwięcej punktów zdobyli Andrzej Mazurczak (21 pkt) i Conley Garrison (16 pkt).
-
-3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY] – Legia Warszawa wygrała mecz z ORLEN Zastalem Zielona Góra 21 czerwca 2026 roku (był to Game 7 finałów OBL), zdobywając mistrzostwo Polski. Oznacza to, że pierwotny typ był trafny.
+3.  **Werdykt:** ✅ ZATWIERDZONY. Mecz rozgrywany 21 czerwca 2026 roku był siódmym, decydującym spotkaniem finałowym ORLEN Basket Ligi. Legia Warszawa wygrała na własnym parkiecie 78:70, zdobywając Mistrzostwo Polski w sezonie 2025/2026. Typ był prawidłowy.

@@ -1,20 +1,16 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-05 12:35 ET) ---
-**Mecz:** Knicks @ Spurs
-**Typ użytkownika:** Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-07-05 13:47 ET) ---
+Analiza meczu: Knicks @ Spurs (Styczeń 2026)
 
----
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **New York Knicks:**
+        *   Mitchell Robinson: Status zmienny (Questionable/Out) z powodu kontuzji kostki.
+        *   Josh Hart: Status zmienny (Out/Questionable) z powodu kontuzji kostki.
+        *   Landry Shamet: Out (kontuzja barku).
+        *   Karl-Anthony Towns: Questionable (choroba) na początku stycznia.
+        *   Miles McBride: Out pod koniec stycznia.
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (uraz uda) na początku stycznia.
+        *   Victor Wembanyama: Day-To-Day (uraz kolana) na początku stycznia.
 
-**Kluczowe braki w składach (Styczeń 2026):**
-
-*   **New York Knicks:**
-    *   Brak aktualnych raportów (Injury Report) z potwierdzonymi statusami 'Out', 'Questionable', 'GTD' dla meczu z 1 stycznia 2026. Oficjalne raporty z tego dnia wskazywały "NOT YET SUBMITTED".
-*   **San Antonio Spurs:**
-    *   David Jones Garcia: Out (Ankle surgery, out for remainder of 2025-26 season, ogłoszone 4 lutego 2026).
-    *   Brak aktualnych raportów (Injury Report) z potwierdzonymi statusami 'Out', 'Questionable', 'GTD' dla innych graczy dla meczu z 1 stycznia 2026. Oficjalne raporty z tego dnia wskazywały "NOT YET SUBMITTED".
-
----
-
-**Werdykt:** [⚠️ RYZYKOWNY]
-
-**Uzasadnienie Werdyktu:**
-Mimo że San Antonio Spurs odniosło zwycięstwo w meczu z New York Knicks 1 stycznia 2026 (134-132), brak szczegółowych, potwierdzonych raportów o kontuzjach ze statusami 'Out', 'Questionable', 'GTD' dla obu drużyn na ten konkretny dzień sprawia, że ocena typu jest ryzykowna. Dostępne oficjalne raporty z 1 stycznia 2026 wskazywały na status "NOT YET SUBMITTED" dla obu zespołów. Jedyne potwierdzone osłabienie to David Jones Garcia (Spurs), który był wykluczony z gry na resztę sezonu.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny borykały się z istotnymi brakami kadrowymi w styczniu 2026. Knicks mieli wielu kluczowych graczy (Robinson, Hart, Shamet, a także Towns i McBride w zależności od daty) ze statusem Out lub Questionable. Spurs, choć mieli Vassella wykluczonego, mieli także Victora Wembanyamę ze statusem Day-To-Day na początku miesiąca, co wprowadza dużą niepewność co do jego dostępności i wpływu na grę. Biorąc pod uwagę znaczące absencje w obu zespołach, typ na Spurs jest ryzykowny.
