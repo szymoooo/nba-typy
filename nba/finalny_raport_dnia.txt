@@ -1,17 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-05 17:37 ET) ---
-Poniżej przedstawiam analizę Twojego typu na podstawie dostępnych danych z dnia 2026-07-05:
+--- KRYTYCZNY AUDYT LIVE (2026-07-05 19:47 ET) ---
+## Knicks @ Spurs
 
----
+**Typ:** Spurs
 
-**Knicks @ Spurs -> Typ: Spurs**
+*   **Kluczowe braki w składach (na styczeń 2026):**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę, dotyczących konkretnego meczu w styczniu 2026. Raporty o kontuzjach znalezione na dzień 2026-07-05 dotyczą Finałów NBA 2026 (czerwiec 2026), gdzie Mitchell Robinson (Knicks) był wymieniony jako "Questionable" z powodu złamanego palca, a Spurs mieli pełny skład.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
 
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:**
-        *   Mitchell Robinson (C): Kontuzja dłoni/kostki. Dodatkowo, Robinson w zeszłym tygodniu uzgodnił warunki odejścia z Knicks, aby podpisać kontrakt z Boston Celtics (informacja z 5 lipca 2026). Skutecznie `OUT`.
-        *   Brak innych aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby statusy `Out`, `Questionable` lub `GTD` dla pozostałych graczy Knicks.
-    *   **San Antonio Spurs:**
-        *   D. Jones Garcia (SF): `Out For Season` (kostka) (raport z 3 lutego 2026).
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby statusy `Out`, `Questionable` lub `GTD` dla pozostałych graczy, w tym De'Aarona Foxa i Dylana Harpera, którzy w maju 2026 grali pomimo dolegliwości.
-
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Uzasadnienie: New York Knicks są osłabieni brakiem kluczowego środkowego, Mitchella Robinsona, który nie tylko zmaga się z kontuzją, ale także opuścił już drużynę. Choć Spurs mają sezonowego kontuzjowanego zawodnika (D. Jones Garcia), brak Robinsona jest znaczącym ciosem dla Knicks w kontekście pojedynczego meczu. Brak innych potwierdzonych braków dla Spurs przemawia na korzyść Twojego typu.
+*(Ze względu na brak aktualnych raportów o kontuzjach dla meczu w styczniu 2026, ocena tego typu jest ryzykowna, ponieważ kluczowe informacje są niedostępne w dniu dzisiejszym (2026-07-05).)*
