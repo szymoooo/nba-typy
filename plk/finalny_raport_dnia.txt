@@ -1,23 +1,26 @@
---- AUDYT PLK LIVE (2026-07-05 12:09 CET) ---
-### PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-05 17:17 CET) ---
+## Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-#### Kluczowe braki w składach:
-*   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda odczuwał drobny uraz pod koniec sezonu, ale grał w decydujących meczach finałowych, w tym 21.06.2026.
-*   **ORLEN Zastal Zielona Góra:**
-    *   🤕 **Sagaba Konate:** Koniec sezonu z powodu kontuzji dłoni, której nabawił się w lutym 2026 roku.
-    *   🩹 **Miłosz Majewski:** Uległ kontuzji w kolizji przed 8 maja 2026 roku i trafił do szpitala. Brak informacji o jego powrocie na serię finałową, nie figuruje wśród strzelców w meczu 21.06.2026.
+Mecz finałowy o Mistrzostwo Polski w koszykówce. Legia Warszawa wygrała ten mecz 78:70, zapewniając sobie tytuł mistrzowski w serii 4-3.
 
-#### Aktualna forma top scorerów (z meczu 21.06.2026, 7. meczu finału):
-*   **Legia Warszawa:**
-    *   Andrzej Pluta: 15 punktów.
-    *   Race Thompson: 11 punktów.
-    *   Dominic Brewton III: 11 punktów.
-    *   Shane Hunter: 10 punktów.
-*   **ORLEN Zastal Zielona Góra:**
-    *   Andrzej Mazurczak: 10 punktów.
-    *   Chavaughn Lewis: Był czołowym strzelcem w meczu nr 6 z 18 punktami i grał również w meczu nr 7.
+### ORLEN Zastal Zielona Góra
 
-#### Werdykt:
-✅ ZATWIERDZONY
-*   Legia Warszawa zdobyła Mistrzostwo Polski w tym decydującym 7. meczu finału, pokonując ORLEN Zastal Zielona Góra 78:70 na własnym parkiecie. Przewaga własnego parkietu w decydującym meczu play-off oraz kluczowe braki kadrowe w Zastalu miały wpływ na wynik.
+1.  **Kluczowe braki w składzie:**
+    *   Brak istotnych braków w składzie koszykarskim w dniu meczu (2026-06-21) ani aktualnie (2026-07-05) z potwierdzonych źródeł. W maju 2026 r. Zastal przystępował do play-offów w niemal doskonałej kondycji fizycznej.
+
+2.  **Aktualna forma top scorerów (PulsBasket):**
+    *   Brak danych z API dla tego zespołu.
+    *   Według dostępnych statystyk z sezonu 2025/2026, czołowymi strzelcami ORLEN Zastal Zielona Góra byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+
+### Legia Warszawa
+
+1.  **Kluczowe braki w składzie:**
+    *   **Race Thompson** 🤕 – W dniu 2026-06-08, Race Thompson zmagał się z problemami zdrowotnymi i brakowało go w składzie Legii w pierwszym meczu finałowej serii. Brak informacji o jego powrocie na mecz 21.06.2026, co sugeruje, że mógł być niedostępny lub grać z ograniczonymi możliwościami.
+    *   **Michał Kolenda** 🤕 – Zmagał się z drobnym urazem pod koniec sezonu 2025/2026, który wyeliminował go ze zgrupowania kadry 28.06.2026. Zagrał w meczu 15.06.2026, zdobywając 7 punktów, więc jego status na 21.06.2026 był prawdopodobnie jako grający, ale z urazem.
+    *   **Grzegorz Kulka** 🤕 – Kontuzja wykluczyła go z gry do końca sezonu 2025/2026.
+
+2.  **Aktualna forma top scorerów (PulsBasket):**
+    *   Brak danych z API dla tego zespołu.
+    *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026. W meczu numer 7 finału (21.06.2026), Legia pokonała Zastal 78:70.
+
+### Werdykt: [✅ ZATWIERDZONY]
