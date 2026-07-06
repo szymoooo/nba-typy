@@ -1,11 +1,22 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-06 18:06 ET) ---
-Analiza meczu na dzień 2026-07-06:
+--- KRYTYCZNY AUDYT LIVE (2026-07-06 19:32 ET) ---
+Analiza meczu: Knicks @ Spurs (2026-07-06)
 
-**Knicks @ Spurs** -> Typ: Spurs
+Ze względu na datę 2026-07-06, wszelkie rozgrywki NBA w tym okresie to zazwyczaj Liga Letnia (Summer League), w której biorą udział zawodnicy z innej puli niż regularne składy z sezonu zasadniczego. Wyszukiwania wskazują na odbywanie się California Classic i Salt Lake City Summer League w tym czasie, ale nie ma potwierdzonego meczu Knicks @ Spurs w formacie regularnego sezonu na dzień 6 lipca 2026.
 
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:** Mitchell Robinson opuścił Knicks i podpisał kontrakt z Boston Celtics w ostatnim tygodniu (stan na 2026-07-06), co jest znaczącym osłabieniem.
-    *   **San Antonio Spurs:** David Jones (SF) jest kontuzjowany (kostka) i spodziewany jest powrót najwcześniej 1 października 2026 roku. Tarris Reed (rookie, wybrany w Drafcie 2026) opuścił mecz Ligi Letniej 5 lipca 2026 roku z powodu odpoczynku, ale ma zagrać 7 lipca 2026 roku; jego absencja nie jest kluczowa dla typowego meczu NBA.
+**Kluczowe braki w składach (na podstawie składów ze Stycznia 2026 i braku aktualnych raportów na 2026-07-06):**
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Biorąc pod uwagę potwierdzone odejście kluczowego gracza Mitchell Robinson z New York Knicks oraz kontuzję Davida Jonesa w Spurs, Knicks wydają się być bardziej osłabieni. Twoja prognoza na Spurs jest zatwierdzona.
+*   **Knicks (skład Styczeń 2026):**
+    *   Potencjalni kluczowi gracze w składzie na styczeń 2026 to: Jalen Brunson, OG Anunoby, Mitchell Robinson, Josh Hart, Karl-Anthony Towns (na podstawie raportów z sezonu 2025-26 i 2026).
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-07-06) dla regularnego składu Knicks, które wskazywałyby na statusy 'Out', 'Questionable', 'GTD'. Wcześniejsze raporty (z maja/czerwca 2026) dotyczyły kontuzji takich graczy jak Mitchell Robinson (palec), OG Anunoby (ścięgno podkolanowe) czy Josh Hart (kciuk), ale nie są aktualne na dziś.
+*   **Spurs (skład Styczeń 2026):**
+    *   Potencjalni kluczowi gracze w składzie na styczeń 2026 to: Victor Wembanyama, De'Aaron Fox, Devin Vassell, Stephon Castle, Keldon Johnson (na podstawie raportów z sezonu 2025-26 i 2026).
+    *   D. Jones (David Jones) był wymieniany jako kontuzjowany (kostka) z przewidywanym powrotem nie wcześniej niż 1 października, ale ten raport datowany jest na 5 lipca 2026, co dotyczy okresu offseason i jest ogólną informacją, nie specyficzną dla meczu. David Jones-Garcia był wykluczony na resztę sezonu 2025-26 z powodu kontuzji kostki, raport z 4 lutego 2026.
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-07-06) dla regularnego składu Spurs, które wskazywałyby na statusy 'Out', 'Questionable', 'GTD' dla hipotetycznego meczu.
+
+**Werdykt dla typu: Spurs**
+
+*   **Kluczowe braki w składach:** Brak aktualnych, oficjalnych raportów o kontuzjach (Injury Report) dla regularnych składów Knicks i Spurs na dzień 2026-07-06, które miałyby zastosowanie do meczu sezonu zasadniczego. Informacje o kontuzjach, które znaleziono, są albo nieaktualne na dzisiejszy dzień, albo dotyczą okresu poza sezonem zasadniczym.
+*   **Kontekst daty:** Data 2026-07-06 przypada w okresie NBA Summer League, gdzie występują zmienne składy, niezwiązane bezpośrednio z regularnymi rosterami ze stycznia 2026. Typowanie meczu w oparciu o składy z okresu regularnego sezonu dla daty Ligi Letniej jest problematyczne.
+*   **Brak podstaw:** Bez aktualnych raportów kontuzji dla obu drużyn i uwzględniając niejednoznaczność terminu meczu (brak potwierdzenia meczu regularnego sezonu 6 lipca), trudno jest ocenić typ.
+
+Werdykt: [⚠️ RYZYKOWNY]
