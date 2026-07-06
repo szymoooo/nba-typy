@@ -1,33 +1,21 @@
---- AUDYT PLK LIVE (2026-07-06 03:21 CET) ---
-MECZ: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-06 08:54 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
----
-
-🏀 **ORLEN Zastal Zielona Góra**
 1.  **Kluczowe braki w składach:**
-    *   ❌ **Sagaba Konate** (Silny skrzydłowy/Środkowy): Wykluczony z gry do końca sezonu 2025/2026 od lutego 2026 z powodu awulsyjnego uszkodzenia więzadła nadgarstka.
-    *   ⚠️ **Chavaughn Lewis** (Rzucający): Najlepszy strzelec drużyny. Doznał kontuzji w kolizji w maju 2026 i opuścił mecz o 7. miejsce. Jego występ w finałach byłby ryzykowny lub niemożliwy.
-    *   ⚠️ **Miłosz Majewski** (Niski skrzydłowy/Silny skrzydłowy): Doznał kontuzji w tej samej kolizji co Lewis w maju 2026, jego status na finały jest niepewny.
-2.  **Aktualna forma top scorerów:**
-    *   **Chavaughn Lewis:** Wiodący strzelec Zastalu ze średnią 15.84 punktu na mecz w sezonie 2025/2026. Niestety, jego forma w finale byłaby mocno ograniczona z powodu majowej kontuzji.
-    *   **Jakub Szumert:** Średnio 13.2 punktu na mecz i uznany za drugiego najlepszego polskiego zawodnika sezonu zasadniczego.
-    *   **Andrzej Mazurczak:** Średnio 11.8 punktu na mecz.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate – kontuzja dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka) w lutym 2026, wykluczająca go z reszty sezonu 2025/2026.
+    *   🏀 **Legia Warszawa:**
+        *   Michał Kolenda – drobny uraz pod koniec sezonu 2025/2026, który wyeliminował go ze zgrupowania kadry w czerwcu 2026. Istniały również wcześniejsze problemy zdrowotne w grudniu 2025.
+        *   Brak potwierdzonych informacji o kontuzjach lub niedostępnościach innych istotnych zawodników z dnia meczu (2026-06-21) lub bezpośrednio przed nim, poza wspomnianym Kolendą oraz wcześniejszymi kontuzjami Ojārs Siliņš i Matthiasa Tass w grudniu 2025, dla których brak aktualizacji statusu na czerwiec 2026.
 
----
+2.  **Aktualna forma top scorerów (seria):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Conley Garrison wykazywał dobrą formę, biorąc ciężar gry na siebie w kluczowych momentach półfinałów (maj 2026).
+        *   Brak danych z API dla tego zespołu.
+    *   🏀 **Legia Warszawa:**
+        *   Jayvon Graves był wyróżniającym się strzelcem w październiku 2025, zdobywając 23 punkty w meczu Ligi Mistrzów FIBA. Wrócił do gry po kontuzji w grudniu 2025.
+        *   Brak danych z API dla tego zespołu.
 
-🏀 **Legia Warszawa**
-1.  **Kluczowe braki w składach:**
-    *   ⚠️ **Michał Kolenda** (Niski skrzydłowy): Zmagał się z drobnym urazem pod koniec sezonu, co wykluczyło go ze zgrupowania kadry w czerwcu 2026. Sugeruje to, że mógł nie być w pełni formy lub dostępny na finały. Wcześniej (grudzień 2025) informowano o dłuższej przerwie.
-    *   ⚠️ **Matthias Tass** (Środkowy): Kontuzja w grudniu 2025 wymagała "kilku tygodni, nawet miesięcy" przerwy. Jego pełna gotowość na finały nie jest jednoznacznie potwierdzona.
-    *   Brak istotnych braków w składzie koszykarskim poza wymienionymi.
-2.  **Aktualna forma top scorerów:**
-    *   🔥 **Andrzej Pluta Jr.:** Został uznany MVP sezonu zasadniczego PLK 2025/2026 oraz najlepszym Polakiem ligi. Był kluczową postacią drużyny.
-    *   **Dominic Brewton III:** Średnio 14.5 punktu na mecz w sezonie 2025/2026.
-    *   **Benjamin Shungu:** Średnio 14.31 punktu na mecz w sezonie 2025/2026.
-    *   Legia Warszawa zakończyła sezon zasadniczy jako lider tabeli.
-
----
-
-✅ **Werdykt:** [✅ ZATWIERDZONY]
-
-**Uzasadnienie:** Mecz z 21 czerwca 2026 był siódmym, decydującym spotkaniem finałów PLK, w którym Legia Warszawa zdobyła mistrzostwo Polski. Legia, jako najwyżej rozstawiona drużyna po sezonie zasadniczym i obrońca tytułu, posiadała przewagę własnego parkietu w tym decydującym starciu. Zastal Zielona Góra miał znaczące osłabienia w składzie, zwłaszcza z powodu kontuzji kluczowego centra Sagaby Konate (wykluczonego na cały sezon) oraz prawdopodobnej absencji lub ograniczeń dla najlepszego strzelca Chavaughna Lewisa i Miłosza Majewskiego. Legia z kolei miała w składzie MVP sezonu zasadniczego, Andrzeja Plutę Jr., a jej ogólna forma i głębia składu były na wyższym poziomie, co doprowadziło do zdobycia mistrzostwa.
+3.  **Werdykt:**
+    Mecz był siódmym i decydującym spotkaniem finałowym ORLEN Basket Ligi 2025/2026. Legia Warszawa wygrała ten mecz 78-70 i zdobyła mistrzostwo Polski. Pomimo braków kadrowych w obu zespołach, Legia zdołała zwyciężyć we własnej hali.
+    [✅ ZATWIERDZONY]
