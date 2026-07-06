@@ -1,9 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-06 16:47 ET) ---
-Na podstawie dzisiejszych danych (2026-07-06) dla meczu Knicks @ Spurs i Twojego typu (Spurs):
+--- KRYTYCZNY AUDYT LIVE (2026-07-06 16:57 ET) ---
+Na podstawie danych z sieci z 2026-07-06, oto analiza Twojego typu:
 
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:** Mitchell Robinson (kontuzja ręki; uzgodnił warunki z Boston Celtics, opuszczając Knicks) 🤕
-    *   **San Antonio Spurs:** Tarris Reed Jr. (Summer League, odpoczynek; nie zagrał w niedzielnym meczu Summer League) 😴
+**Knicks @ Spurs** -> Typ: Spurs
+
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Czasami out/questionable (skręcenie kostki) 🤕
+        *   Josh Hart: Czasami out/questionable (ból/dyskomfort kostki) 🤕
+        *   Mitchell Robinson: Czasami out/questionable (uraz/zarządzanie urazem kostki) 🤕
+        *   Landry Shamet: Czasami out/questionable (uraz barku) 🤕
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (uraz uda/przywodziciela) 🩹
+        *   Victor Wembanyama: Day-To-Day (kolano) ⏳ (raport z 3 stycznia 2026)
 
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Absencja Mitchell Robinsona, kluczowego gracza Knicks, z powodu kontuzji i jego odejścia z zespołu, osłabia drużynę Nowego Jorku. Brak Tarris Reed Jr. dla Spurs jest związany z odpoczynkiem podczas Ligi Letniej i nie stanowi tak znaczącego osłabienia w kontekście hipotetycznego meczu sezonu regularnego. Dlatego typ na Spurs wydaje się uzasadniony.
+    *   San Antonio Spurs w sezonie 2025-2026 mieli znacznie lepszy bilans (62-20, 2. miejsce w Konferencji Zachodniej) niż New York Knicks (53-29, 3. miejsce w Konferencji Wschodniej).
+    *   Mimo braku Devina Vassella, kluczowi zawodnicy Spurs, tacy jak Victor Wembanyama (który był Day-To-Day tylko w jednym z raportowanych przypadków) i De'Aaron Fox, zdawali się być zdrowsi i bardziej dostępni niż kluczowi gracze Knicks (Brunson, Hart, Robinson), którzy często borykali się z kontuzjami w styczniu 2026.
+    *   Spurs pokonali Knicks 134-132 31 grudnia 2025 roku.
