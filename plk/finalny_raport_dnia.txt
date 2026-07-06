@@ -1,21 +1,34 @@
---- AUDYT PLK LIVE (2026-07-06 08:54 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-06 13:24 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate – kontuzja dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka) w lutym 2026, wykluczająca go z reszty sezonu 2025/2026.
-    *   🏀 **Legia Warszawa:**
-        *   Michał Kolenda – drobny uraz pod koniec sezonu 2025/2026, który wyeliminował go ze zgrupowania kadry w czerwcu 2026. Istniały również wcześniejsze problemy zdrowotne w grudniu 2025.
-        *   Brak potwierdzonych informacji o kontuzjach lub niedostępnościach innych istotnych zawodników z dnia meczu (2026-06-21) lub bezpośrednio przed nim, poza wspomnianym Kolendą oraz wcześniejszymi kontuzjami Ojārs Siliņš i Matthiasa Tass w grudniu 2025, dla których brak aktualizacji statusu na czerwiec 2026.
+**1. Kluczowe braki w składach:**
 
-2.  **Aktualna forma top scorerów (seria):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Conley Garrison wykazywał dobrą formę, biorąc ciężar gry na siebie w kluczowych momentach półfinałów (maj 2026).
-        *   Brak danych z API dla tego zespołu.
-    *   🏀 **Legia Warszawa:**
-        *   Jayvon Graves był wyróżniającym się strzelcem w październiku 2025, zdobywając 23 punkty w meczu Ligi Mistrzów FIBA. Wrócił do gry po kontuzji w grudniu 2025.
-        *   Brak danych z API dla tego zespołu.
+*   **ORLEN Zastal Zielona Góra:**
+    *   🤕 **Sagaba Konate:** Koniec sezonu od lutego 2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka.
+    *   🤕 **Filip Matczak:** W pierwszym meczu finałowym (przed 21.06) doznał złamania nosa i musiał opuścić halę. Śledził mecz z karetki.
+    *   ⚠️ **Phil Fayne:** Wrócił do zespołu na serię finałową po sprawach rodzinnych w USA, jednak jego forma i dostępność na każdy mecz serii finałowej była monitorowana. Trenował indywidualnie w USA, a jego występ w pierwszym meczu finału nie był pewny.
+    *   ⚠️ **Andrzej Mazurczak:** Po urazie nosa otrzymał specjalną maskę ochronną i trenował indywidualnie, wracał do zajęć z kontaktem przed finałami.
+    *   ⚠️ **Chavaughn Lewis:** W maju 2026 odczuwał skutki zderzenia i bóle w górnej części ciała, przez co opuścił jeden z meczów. Był jednak aktywny w meczach finałowych.
 
-3.  **Werdykt:**
-    Mecz był siódmym i decydującym spotkaniem finałowym ORLEN Basket Ligi 2025/2026. Legia Warszawa wygrała ten mecz 78-70 i zdobyła mistrzostwo Polski. Pomimo braków kadrowych w obu zespołach, Legia zdołała zwyciężyć we własnej hali.
-    [✅ ZATWIERDZONY]
+*   **Legia Warszawa:**
+    *   🤕 **Michał Kolenda:** Nabył drobnego urazu pod koniec zakończonego sezonu, co wyeliminowało go ze zgrupowania kadry w czerwcu 2026.
+    *   ⚠️ **Andrzej Pluta, Jayvon Graves, Matthias Tass:** W listopadzie 2025 byli kontuzjowani i pauzowali, ale mieli wrócić po przerwie reprezentacyjnej. Brak aktualnych informacji o ich kontuzjach na czerwiec 2026 sugeruje, że byli dostępni. Race Thompson również zmagał się z urazem we wrześniu 2025, który miał go wykluczyć na kilka tygodni. Biorąc pod uwagę datę meczu (21.06.2026), prawdopodobnie wszyscy byli dostępni.
+
+**2. Aktualna forma top scorerów (sezon 2025/2026):**
+
+*   **ORLEN Zastal Zielona Góra:**
+    *   🔥 **Chavaughn Lewis:** Średnio 15.8 Pkt/mecz w sezonie 2025/2026. W szóstym meczu finałowym (19.06.2026) zdobył 18 punktów.
+    *   🏀 **Jakub Szumert:** Średnio 13.2 Pkt/mecz w sezonie 2025/2026. W szóstym meczu finałowym zdobył 12 punktów. Został wybrany do najlepszej piątki sezonu zasadniczego 2025/26.
+    *   🏀 **Andrzej Mazurczak:** Średnio 11.8 Pkt/mecz w sezonie 2025/2026. W szóstym meczu finałowym zdobył 15 punktów.
+
+*   **Legia Warszawa:**
+    *   🔥 **Dominic Brewton III:** Średnio 14.6 Pkt/mecz w sezonie 2025/2026. W szóstym meczu finałowym (19.06.2026) zdobył 14 punktów. W decydującym 7. meczu zdobył 11 punktów.
+    *   🔥 **Andrzej Pluta:** Średnio 13.4 Pkt/mecz w sezonie 2025/2026. W szóstym meczu finałowym zdobył 11 punktów. Został MVP sezonu zasadniczego 2025/26 i został wybrany do najlepszej piątki sezonu zasadniczego 2025/26. W decydującym 7. meczu zdobył 15 punktów.
+    *   🏀 **Jayvon Graves:** Średnio 12.9 Pkt/mecz w sezonie 2025/2026. W szóstym meczu finałowym zdobył 7 punktów.
+
+**3. Werdykt:**
+
+[✅ ZATWIERDZONY]
+
+**Uzasadnienie:**
+Mecz odbył się 21 czerwca 2026 roku i był to siódmy, decydujący mecz finału ORLEN Basket Ligi. Legia Warszawa wygrała ten mecz 78:70 i obroniła mistrzostwo Polski. Legia Warszawa była top seedem w sezonie zasadniczym i obrońcą tytułu. Zastal Zielona Góra musiał zmagać się z urazami kluczowych zawodników takich jak Sagaba Konate (koniec sezonu) i Filip Matczak (złamany nos), który doznał urazu w trakcie serii finałowej. Andrzej Mazurczak i Phil Fayne również mieli problemy zdrowotne/dostępnościowe w trakcie finałów, choć wracali do gry. Michał Kolenda z Legii miał drobny uraz pod koniec sezonu, ale wydaje się, że Legia była w lepszej sytuacji kadrowej na decydujący mecz. Andrzej Pluta, MVP sezonu zasadniczego, był w dobrej formie. Legia grała u siebie w Warszawie (OSiR Warszawa Bemowo). Mimo że poprzednie mecze serii były bardzo wyrównane, z Zastalem wygrywającym mecz 6 rzutem w ostatniej sekundzie, atut własnego parkietu w decydującym meczu i mniejsze problemy kadrowe przemawiają za Legią.

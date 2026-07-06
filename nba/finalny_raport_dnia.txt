@@ -1,13 +1,30 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-06 02:53 ET) ---
-Weryfikacja typu na podstawie danych z dnia 2026-07-06:
+--- KRYTYCZNY AUDYT LIVE (2026-07-06 07:24 ET) ---
+Analiza meczu: Knicks @ Spurs
+Typ użytkownika: Spurs
 
-**Knicks @ Spurs -> Typ: Spurs**
+---
 
-*   **Składy na styczeń 2026:**
-    *   **New York Knicks:** Jalen Brunson, Malachi Flynn, Miles McBride, Mitchell Robinson, Karl-Anthony Towns, Mohamed Diawara, Jeremy Sochan, Jordan Clarkson, Landry Shamet, Malcolm Brogdon, Ariel Hukporti, Alex Len.
-    *   **San Antonio Spurs:** De'Aaron Fox, Dylan Harper, Devonte' Graham, Victor Wembanyama, Jayden Quaintance, Emanuel Miller, Luke Kornet, Tarris Reed Jr., Bismack Biyombo, Devin Vassell, Stephon Castle, Lindy Waters III.
+Ponieważ Dzisiejsza Data to 2026-07-06, a interesuje mnie tylko STYCZEŃ 2026, poszukuję historycznych danych z tego okresu, dostępnych w dniu dzisiejszym.
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę, które potwierdzałyby statusy 'Out', 'Questionable', 'GTD' dla konkretnego meczu w styczniu 2026, z perspektywy dzisiejszej daty (2026-07-06).
+### Knicks @ Spurs
 
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Ze względu na brak możliwości pozyskania potwierdzonych informacji o kontuzjach i statusach zawodników (Out, Questionable, GTD) specyficznych dla daty meczu w styczniu 2026 (zgodnie z zasadą sprawdzania raportów z dnia 2026-07-06), ocena typu jest obarczona wysokim ryzykiem.
+**Kluczowe braki w składach (na podstawie raportów ze STYCZNIA 2026):**
+
+*   **New York Knicks:**
+    *   Mitchell Robinson: Questionable (Ankle), Out (Ankle), Out (Left Ankle; Injury Management). By late January, he was still out with an ankle injury and not expected back before January 30th.
+    *   Josh Hart: Out (Ankle), Out (Right Ankle; Sprain). By late January, he was questionable with right ankle soreness.
+    *   Landry Shamet: Out (Shoulder), Out (Right Shoulder; Sprain).
+    *   Miles McBride: Out (Ankle), ruled out by January 28th.
+    *   Karl-Anthony Towns: Questionable (Illness) na początku stycznia.
+    *   *Uwaga*: Karl-Anthony Towns i Jeremy Sochan są wymienieni w składzie Knicks na sezon 2025-26/2026-27 w niektórych źródłach, co wskazuje na znaczące zmiany w składzie w stosunku do poprzednich lat.
+
+*   **San Antonio Spurs:**
+    *   Devin Vassell: Out (Thigh) na początku stycznia.
+    *   Victor Wembanyama: Day-To-Day (Knee) na początku stycznia.
+    *   *Uwaga*: Spurs mieli imponujący bilans 25-9 na początku stycznia 2026 i byli 6. w lidze pod względem punktów na mecz. Wembanyama był liderem w zbiórkach, a De'Aaron Fox był czołowym strzelcem. Do 22 stycznia 2026, ich bilans to 30-14.
+
+**Werdykt:** [⚠️ RYZYKOWNY]
+
+*   Typ jest ryzykowny, ponieważ New York Knicks mieli liczne kontuzje kluczowych graczy, takich jak Mitchell Robinson, Josh Hart, Miles McBride i Landry Shamet w styczniu 2026 roku. Znaczące braki w defensywie i na tablicach (Robinson) oraz w rotacji obwodowej (McBride, Hart) osłabiały zespół Knicks.
+*   San Antonio Spurs, nawet z wątpliwościami co do stanu zdrowia Wembanyamy na początku stycznia, pokazywali solidną formę w styczniu 2026 roku, posiadając silny bilans i dobrą ofensywę. Fakt, że Spurs byli bez kontuzji kluczowych graczy w finale NBA 2026 przeciwko Knicks (co nastąpiło po styczniu) sugeruje ich ogólną siłę i zdrowie w tym sezonie.
+*   Biorąc pod uwagę znaczące osłabienia Knicks w styczniu i dobrą dyspozycję Spurs, typ na Spurs ma podstawy, ale nie jest "zatwierdzony" ze względu na "Questionable" statusy niektórych zawodników Knicks, co mogłoby zmienić dynamikę meczu, gdyby zagrali. Brak precyzyjnej daty meczu w styczniu również utrudnia dokładną ocenę wpływu tych kontuzji.
