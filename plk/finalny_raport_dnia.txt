@@ -1,13 +1,21 @@
---- AUDYT PLK LIVE (2026-07-07 08:31 CET) ---
-🏀 **ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-07 12:08 CET) ---
+Dziś jest 2026-07-07. Poniżej audyt typu na mecz ORLEN Zastal Zielona Góra @ Legia Warszawa, który miał miejsce 2026-06-21.
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim, które miałyby kluczowe znaczenie w finałowym meczu. Phil Fayne powrócił do składu przed serią finałową.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim, które miałyby kluczowe znaczenie w finałowym meczu. Michał Kolenda nabawił się drobnego urazu pod koniec sezonu, co wyeliminowało go ze zgrupowania kadry po zakończeniu rozgrywek, ale występował we wcześniejszych meczach finałowych.
+---
 
-2.  **Aktualna forma top scorerów (na podstawie ostatnich meczów serii):**
-    *   **ORLEN Zastal Zielona Góra:** W meczu nr 4 (15.06.2026) wyróżnili się Andrzej Mazurczak (21 pkt) i Conley Garrison (16 pkt). W meczu nr 6 (19.06.2026) Conley Garrison oddał decydujący rzut na zwycięstwo.
-    *   **Legia Warszawa:** W meczu nr 4 (15.06.2026) najskuteczniejsi byli Carl Ponsar (17 pkt) i Andrzej Pluta (14 pkt). W meczu nr 6 (19.06.2026) Carl Ponsar (15 pkt), DJ Brewton (14 pkt) i Ojars Silins (12 pkt) byli liderami punktowymi. Brak danych z API dla tego zespołu.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+
+1.  **Kluczowe braki w składach (stan na 2026-07-07):**
+    *   **Legia Warszawa:**
+        *   Łotewski skrzydłowy Ojars Silins odszedł z klubu 5 lipca 2026 roku po dwóch udanych sezonach.
+        *   Brak istotnych kontuzji koszykarskich zgłoszonych w bieżącym okresie (lipiec 2026).
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Patrick Cartier (silny skrzydłowy) odszedł z Zastalu do MHP Riesen Ludwigsburg w Niemczech po sezonie 2025/2026.
+        *   Miłosz Góreńczyk (rzucający/niski skrzydłowy) odszedł z Zastalu do Kotwicy Port Morski Kołobrzeg.
+        *   Sagaba Konate (silny skrzydłowy/środkowy) doznał kontuzji dłoni w lutym 2026 roku, co wykluczyło go z reszty sezonu 2025/2026. Brak aktualnych informacji na dzień 2026-07-07 dotyczących jego statusu na nadchodzący sezon 2026/2027 lub pełnego powrotu do zdrowia.
+
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21.06.2026 w Hali Bemowo w Warszawie i był decydującym, siódmym spotkaniem finałowym. Legia Warszawa obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra 78:70. Typ został prawidłowo wskazany.
+    *   Mecz, do którego odnosił się ten typ (finał PLK 2025/2026), został rozegrany 21 czerwca 2026 roku. Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 w siódmym, decydującym meczu serii finałowej, zdobywając Mistrzostwo Polski. Typ na Legię Warszawa okazał się trafny.
