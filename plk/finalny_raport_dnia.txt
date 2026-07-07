@@ -1,21 +1,41 @@
---- AUDYT PLK LIVE (2026-07-07 12:08 CET) ---
-Dziś jest 2026-07-07. Poniżej audyt typu na mecz ORLEN Zastal Zielona Góra @ Legia Warszawa, który miał miejsce 2026-06-21.
+--- AUDYT PLK LIVE (2026-07-07 12:52 CET) ---
+## Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
----
+### ORLEN Zastal Zielona Góra
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+1.  **Kluczowe braki w składzie:**
+    *   W lutym 2026 roku (przed finałami) Zastal mierzył się z kontuzjami Filipa Matczaka, Jakuba Szumerta oraz Sagaby Konate (uraz nadgarstka podczas Pucharu Polski).
+    *   Na początku czerwca 2026 roku (przed rozpoczęciem serii finałowej) donoszono o "walce z urazami w szeregach Zastalu" i powrocie Phila Fayne'a, co wskazywało na ogólne problemy zdrowotne w drużynie, choć bez precyzyjnego wskazania braków na dzień 21.06.2026.
+    *   Brak jest potwierdzonych informacji o konkretnych, istotnych brakach w składzie koszykarskim ORLEN Zastal Zielona Góra bezpośrednio na dzień meczu 2026-06-21, które wykluczałyby kluczowych zawodników z gry w finałowym starciu.
 
-1.  **Kluczowe braki w składach (stan na 2026-07-07):**
-    *   **Legia Warszawa:**
-        *   Łotewski skrzydłowy Ojars Silins odszedł z klubu 5 lipca 2026 roku po dwóch udanych sezonach.
-        *   Brak istotnych kontuzji koszykarskich zgłoszonych w bieżącym okresie (lipiec 2026).
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Patrick Cartier (silny skrzydłowy) odszedł z Zastalu do MHP Riesen Ludwigsburg w Niemczech po sezonie 2025/2026.
-        *   Miłosz Góreńczyk (rzucający/niski skrzydłowy) odszedł z Zastalu do Kotwicy Port Morski Kołobrzeg.
-        *   Sagaba Konate (silny skrzydłowy/środkowy) doznał kontuzji dłoni w lutym 2026 roku, co wykluczyło go z reszty sezonu 2025/2026. Brak aktualnych informacji na dzień 2026-07-07 dotyczących jego statusu na nadchodzący sezon 2026/2027 lub pełnego powrotu do zdrowia.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Chavaughn Lewis (15.8 Pkt/mecz)
+    *   Jakub Szumert (13.2 Pkt/mecz)
+    *   Andrzej Mazurczak (11.8 Pkt/mecz)
+    *   Conley Garrison (10.9 Pkt/mecz)
+    *   Jayvon Maughmer (10 Pkt/mecz)
+    *   W meczu z 13.06.2026, Lewis (14 Pkt), Patrick Cartier (13 Pkt) i Maughmer (12 Pkt) byli wiodącymi strzelcami Zastalu.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+### Legia Warszawa
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz, do którego odnosił się ten typ (finał PLK 2025/2026), został rozegrany 21 czerwca 2026 roku. Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 w siódmym, decydującym meczu serii finałowej, zdobywając Mistrzostwo Polski. Typ na Legię Warszawa okazał się trafny.
+1.  **Kluczowe braki w składzie:**
+    *   Michał Kolenda nabawił się "drobnego urazu" pod koniec sezonu 2025/2026, który wyeliminował go ze zgrupowania kadry narodowej pod koniec czerwca 2026. To sugeruje, że mógł być niedostępny lub grać z ograniczeniami w decydującym meczu finałowym 21.06.2026.
+    *   Wcześniejsze informacje z grudnia 2025 roku wskazywały na długotrwałe kontuzje Matthiasa Tassa i Michała Kolendy, a także absencję Ojarsa Silinsa, jednak status tych urazów na czerwiec 2026 nie jest jednoznacznie potwierdzony jako wykluczający ich z gry w finale, poza wspomnianym drobnym urazem Kolendy.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Dominic Brewton III (14.5 Pkt/mecz)
+    *   Andrzej Pluta (13.4 Pkt/mecz)
+    *   Jayvon Graves (12.8 Pkt/mecz)
+    *   W meczu z 13.06.2026, Carl Ponsar (22 Pkt) i Dominic Brewton III (13 Pkt) byli wiodącymi strzelcami Legii.
+
+### Werdykt:
+
+Typ: Legia Warszawa
+
+*   Legia Warszawa zdobyła mistrzostwo PLK w sezonie 2025/2026, pokonując Zastal Zielona Góra w finale.
+*   Ostatni mecz finałowej serii odbył się 21.06.2026, gdzie Legia wygrała 78-70.
+*   Zarówno Zastal, jak i Legia, borykały się z urazami w ciągu sezonu. Kontuzja Michała Kolendy z Legii pod koniec sezonu mogła być osłabieniem dla drużyny, jednak Legia ostatecznie zwyciężyła w serii.
+*   Zastal również miał problemy z kontuzjami, zwłaszcza na początku 2026 roku.
+*   Mimo pewnych problemów kadrowych, Legia pokazała siłę w decydującym meczu, grając na własnym parkiecie w 7. meczu finałów (co zwiększa wagę przewagi własnego parkietu w decydującym spotkaniu play-off).
+
+**Werdykt: ✅ ZATWIERDZONY**

@@ -1,14 +1,13 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-07 06:07 ET) ---
+--- KRYTYCZNY AUDYT LIVE (2026-07-07 06:52 ET) ---
+Na podstawie dzisiejszych danych (2026-07-07) analizuję Twój typ:
+
 **Knicks @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach (styczeń 2026):**
+*   **Kluczowe braki w składach:**
     *   **New York Knicks:**
-        *   Jalen Brunson: Questionable (skręcenie kostki) w okolicach 19 stycznia 2026.
-        *   Josh Hart: Out (kostka) 2 stycznia 2026; Questionable (dyskomfort kostki) 19 stycznia 2026; Questionable (ból kostki) 28 stycznia 2026.
-        *   Mitchell Robinson: Questionable (kostka) 2 stycznia 2026; Out 28 stycznia 2026.
-        *   Landry Shamet: Out (skręcenie barku) 2 stycznia 2026.
-        *   Miles McBride: Out 28 stycznia 2026.
-    *   **San Antonio Spurs:** Brak konkretnych, potwierdzonych nazwisk z przypisanymi statusami (Out, Questionable, GTD) w raportach kontuzji z stycznia 2026. W jednym raporcie z 22 stycznia 2026 wspomniano o trzech kontuzjowanych graczach Spurs, ale bez podania ich tożsamości.
+        *   Mitchell Robinson (C): Zgłoszono uraz ręki przed Finałami NBA (czerwiec 2026); niedawno zgodził się opuścić Knicks.
+        *   Landry Shamet (SG): status Questionable (nadwyrężenie szyi) na mecz 7 lipca 2026 r..
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę dotyczących zawodników z sezonu 2025-26.
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    Brak pełnych, potwierdzonych informacji o konkretnych brakach kadrowych Spurs w styczniu 2026, z uwzględnieniem statusów "Out", "Questionable" lub "GTD", sprawia, że ocena typu jest ryzykowna. Knicks mieli kluczowych graczy (Brunson, Hart, Robinson) z problemami zdrowotnymi lub poza składem w różnych terminach stycznia 2026, co mogłoby wpłynąć na wynik meczu.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    San Antonio Spurs, z bilansem 62-20 w sezonie 2025-26, byli silną drużyną w Konferencji Zachodniej. Brak zgłoszonych aktualnych kontuzji u kluczowych zawodników Spurs, w porównaniu do doniesień o urazie Mitchell'a Robinsona i statusie Landry'ego Shamet'a w Knicks, sprawia, że typ na Spurs jest uzasadniony.
