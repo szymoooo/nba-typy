@@ -1,10 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-06 19:39 ET) ---
-Oto analiza Twojego typu na podstawie dzisiejszych danych (2026-07-06):
+--- KRYTYCZNY AUDYT LIVE (2026-07-06 22:28 ET) ---
+Oto analiza Twojego typu na podstawie dostępnych danych z 2026-07-06:
 
-**Mecz:** Knicks @ Spurs
-**Typ:** Spurs
+**Mecz: Knicks @ Spurs**
+**Typ: Spurs**
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. NBA jest w okresie poza sezonem (off-season), więc nie ma regularnych raportów o kontuzjach na dzień 6 lipca 2026 r.
-    *   *Uwaga:* Tarris Reed z San Antonio Spurs nie grał w meczu Summer League 6 lipca z powodu odpoczynku, ale miał zagrać 7 lipca. Nie jest to jednak kontuzja w kontekście meczu sezonu zasadniczego.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie:** Analiza hipotetycznego meczu NBA w dniu 6 lipca 2026 r. jest wysoce ryzykowna, ponieważ data ta przypada na okres poza sezonem zasadniczym. Chociaż składy New York Knicks i San Antonio Spurs na sezon 2025-2026 (lub obecne na 2026/2027) są dostępne, brak jest oficjalnych raportów o kontuzjach dla meczu rozgrywanego w tym terminie. Bez konkretnego kontekstu meczu (np. Summer League, mecz przedsezonowy) i bez aktualnych informacji o statusie graczy, typ jest spekulatywny.
+**Kluczowe braki w składach:**
+
+*   **New York Knicks:**
+    *   Mitchell Robinson (opuścił drużynę przed 06.07.2026, podpisując kontrakt z Boston Celtics) 💔
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla pozostałych graczy z dnia 2026-07-06.
+*   **San Antonio Spurs:**
+    *   D. Jones Garcia (Out For Season - Ankle, od 03.02.2026) 🚑
+
+**Werdykt: [✅ ZATWIERDZONY]**
+
+**Uzasadnienie:**
+San Antonio Spurs w sezonie 2025-26 mieli imponujący bilans 62-20, zajmując 2. miejsce w Konferencji Zachodniej i wykazując wysoki Net Rating (+8.3), co świadczy o ich silnej pozycji. Pokonali również Knicks 134-132 w grudniu 2025 roku.
+Kluczowy gracz Knicks, Mitchell Robinson, opuścił drużynę przed 6 lipca 2026 roku. Chociaż nie jest to kontuzja, jego odejście stanowi znaczące osłabienie składu. Spurs mają jednego gracza, D. Jonesa Garcię, wykluczonego do końca sezonu z powodu kontuzji kostki od lutego 2026 roku. W kontekście ogólnej siły drużyn i większego osłabienia Knicks poprzez odejście kluczowego zawodnika, typ na Spurs wydaje się być uzasadniony.
