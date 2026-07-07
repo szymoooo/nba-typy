@@ -1,22 +1,13 @@
---- AUDYT PLK LIVE (2026-07-07 01:32 CET) ---
-Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-07 08:31 CET) ---
+🏀 **ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach (stan na 2026-07-07):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   ❌ Sagaba Konate (silny skrzydłowy/środkowy): Koniec sezonu 2025/2026 z powodu kontuzji dłoni, której doznał 28 lutego 2026 r.. Był niedostępny na mecz 21 czerwca 2026 r. i nadal jest w okresie rekonwalescencji poza sezonem.
-        *   Brak innych istotnych braków w składzie koszykarskim, poza naturalnymi ruchami transferowymi po zakończonym sezonie.
-    *   **Legia Warszawa:**
-        *   ⚠️ Michał Kolenda: Doznał drobnego urazu pod koniec sezonu 2025/2026, co wykluczyło go ze zgrupowania kadry narodowej 28 czerwca 2026 r.. Jego dostępność na mecz 21 czerwca 2026 r. mogła być ograniczona lub był niedysponowany. Na dzień 2026-07-07 jest w trakcie rekonwalescencji poza sezonem.
-        *   Brak innych istotnych braków w składzie koszykarskim, poza naturalnymi ruchami transferowymi po zakończonym sezonie.
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim, które miałyby kluczowe znaczenie w finałowym meczu. Phil Fayne powrócił do składu przed serią finałową.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim, które miałyby kluczowe znaczenie w finałowym meczu. Michał Kolenda nabawił się drobnego urazu pod koniec sezonu, co wyeliminowało go ze zgrupowania kadry po zakończeniu rozgrywek, ale występował we wcześniejszych meczach finałowych.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: W sezonie 2025/2026 był wiodącym strzelcem Zastalu ze średnią 15.8 punktów na mecz.
-        *   Jakub Szumert: Był drugim najlepszym strzelcem drużyny ze średnią 13.2 punktów na mecz.
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta Jr.: Został wybrany MVP Finałów PLK sezonu 2025/2026, co świadczy o jego kluczowej roli ofensywnej i doskonałej formie w decydującej fazie rozgrywek.
+2.  **Aktualna forma top scorerów (na podstawie ostatnich meczów serii):**
+    *   **ORLEN Zastal Zielona Góra:** W meczu nr 4 (15.06.2026) wyróżnili się Andrzej Mazurczak (21 pkt) i Conley Garrison (16 pkt). W meczu nr 6 (19.06.2026) Conley Garrison oddał decydujący rzut na zwycięstwo.
+    *   **Legia Warszawa:** W meczu nr 4 (15.06.2026) najskuteczniejsi byli Carl Ponsar (17 pkt) i Andrzej Pluta (14 pkt). W meczu nr 6 (19.06.2026) Carl Ponsar (15 pkt), DJ Brewton (14 pkt) i Ojars Silins (12 pkt) byli liderami punktowymi. Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:**
-    Mecz 21 czerwca 2026 r. był finałem sezonu PLK 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo, pokonując Zastal Zielona Góra. Typ na Legię Warszawa okazał się trafny.
-
-    [✅ ZATWIERDZONY]
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się 21.06.2026 w Hali Bemowo w Warszawie i był decydującym, siódmym spotkaniem finałowym. Legia Warszawa obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra 78:70. Typ został prawidłowo wskazany.
