@@ -1,22 +1,25 @@
---- AUDYT PLK LIVE (2026-07-08 04:03 CET) ---
-Poniżej przedstawiam analizę meczu ORLEN Zastal Zielona Góra @ Legia Warszawa z dnia 2026-06-21:
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-07-08 09:56 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🟢 **Legia Warszawa:** Michał Kolenda, mimo drobnego urazu, który wyeliminował go ze zgrupowania kadry po sezonie, wystąpił w decydującym, siódmym meczu finału, zdobywając 8 punktów. Brak innych istotnych braków w składzie koszykarskim.
-    *   🟢 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-08, które wpływałyby na mecz z 21.06.2026.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-08, które wpływałyby na mecz z 21.06.2026.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [✅ ZATWIERDZONY] (Brak potwierdzonych braków w składach, które mogłyby negatywnie wpłynąć na typ).
 
-2.  **Aktualna forma top scorerów:**
-    *   🔥 **Legia Warszawa:**
-        *   Andrzej Pluta był w doskonałej formie, zdobywając 15 punktów w tym meczu i zostając MVP finałów oraz sezonu zasadniczego.
-        *   Pozostali czołowi strzelcy w tym meczu to Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt) i Shane Hunter (10 Pkt). Średnie sezonowe Dominic Brewton III (14.5 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz) również świadczą o dobrej formie kluczowych graczy.
-    *   🎯 **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak był najlepszym strzelcem Zastalu w tym meczu z 10 punktami.
-        *   Wiodący strzelcy Zastalu w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, który odbył się 2026-06-21:
 
-3.  **Werdykt:** ✅ **ZATWIERDZONY**
-    *   Mecz był siódmym, decydującym spotkaniem finałowym PLK, co zawsze zwiększa wagę domowego parkietu. Legia Warszawa grała u siebie w hali OSiR Warszawa Bemowo.
-    *   Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 i zdobyła Mistrzostwo Polski. Wynik ten potwierdza trafność typu.
-    *   Kluczowi zawodnicy Legii, w tym MVP Andrzej Pluta, zaprezentowali wysoką formę w decydującym meczu.
-    *   Brak istotnych, potwierdzonych braków w składach, które mogłyby wpłynąć na wynik meczu.
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate doznał poważnie wyglądającej kontuzji nadgarstka w lutym 2026 i mógł opuścić resztę turnieju o Puchar Polski, a być może i cały sezon. Informacja o jego powrocie przed 21.06.2026 nie jest jednoznaczna, jednak w składach na sezon 2025/2026 jest wymieniany jako zawodnik. Niemniej jednak, w meczu nr 4 finałów (15.06.2026) Konate nie był wymieniony wśród zdobywców punktów ani w składzie na ten mecz. Z tego względu jego dostępność na mecz 21.06.2026 jest wątpliwa.
+        *   Filip Matczak i Jakub Szumert byli kontuzjowani w lutym 2026. Jednakże, Filip Matczak zdobył 2 punkty w meczu nr 4 finałów (15.06.2026), a Jakub Szumert zdobył 4 punkty w tym samym meczu. Oznacza to, że obaj powrócili do gry przed meczem z 21.06.2026.
+    *   **Legia Warszawa:**
+        *   Michał Kolenda nabawił się drobnego urazu pod koniec sezonu 2025/2026, który wyeliminował go ze zgrupowania kadry pod koniec czerwca 2026 (dokładnie 28.06.2026). Zagrał jednak i zdobył 7 punktów w meczu nr 4 finałów (15.06.2026). Biorąc pod uwagę datę urazu i meczu, jego występ 21.06.2026 mógł być pod znakiem zapytania lub mógł grać z urazem.
+        *   Adam Linowski, choć nie jest wymieniony w składzie na sezon 2025/2026, miał kontuzję wymagającą operacji w 2018 roku, wykluczającą go do końca roku. Ta informacja jest przestarzała i nieistotna dla sezonu 2025/2026.
+        *   Antonio Colak doznał urazu 07.07.2026, ale jest to zawodnik sekcji piłkarskiej Legii Warszawa, a informacja nie dotyczy koszykówki.
+        *   Petar Stojanović, wymieniony na Transfermarkt jako kontuzjowany (naderwanie ścięgna) z powrotem przewidzianym na 30.09.2026, jest również zawodnikiem sekcji piłkarskiej Legii Warszawa.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu. W meczu nr 4 finałów (15.06.2026) najlepsi strzelcy to Andrzej Mazurczak (21 pkt) dla Zastalu i Carl Ponsar (17 pkt) dla Legii.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Wątpliwości budzi dostępność Sagaby Konate dla Zastalu ze względu na wcześniejszą poważną kontuzję, mimo że jest w składzie na sezon.
+    *   Michał Kolenda z Legii, mimo że zagrał w poprzednim meczu serii, nabawił się urazu "pod koniec zakończonego niedawno sezonu", co mogło wpłynąć na jego dyspozycję w decydującym meczu finałowym.
+    *   Fakt, że mecz 21.06.2026 był ewentualnym siódmym meczem finałowym, co zwiększa wagę dyspozycji kluczowych zawodników i wpływ ewentualnych drobnych urazów.
