@@ -1,15 +1,16 @@
---- AUDYT PLK LIVE (2026-07-08 22:47 CET) ---
-Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21) -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-09 00:11 CET) ---
+Zgodnie z Twoimi wytycznymi, przedstawiam analizę meczu z uwzględnieniem danych aktualnych na dzień 2026-07-09.
 
-1.  **Kluczowe braki w składach**:
-    *   **Legia Warszawa**: Michał Kolenda doznał drobnego urazu pod koniec sezonu 2025/2026, co wyeliminowało go ze zgrupowania kadry na dzień 2026-06-28. Niemniej jednak grał w meczach finałowych serii przed 21 czerwca. Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień meczu.
-    *   **ORLEN Zastal Zielona Góra**: Phil Fayne wrócił do składu przed 6 czerwca 2026 i grał w serii finałowej. Miłosz Majewski również był dostępny i zagrał w meczu finałowym (0 pkt). Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień meczu.
+---
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
+Typ z audytu: Legia Warszawa
 
-2.  **Aktualna forma top scorerów (z PulsBasketu lub z wyszukiwania)**:
-    *   Brak danych z API dla tej serii, ale dostępne są statystyki meczu z 21.06.2026 (Mecz 7 Finału).
-    *   **Legia Warszawa**: W meczu finałowym (21.06.2026) najlepiej punktowali Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt) i Dominic Brewton III (11 Pkt). Średnio w sezonie 2025/2026 Dominic Brewton III zdobywał 14.5 Pkt/mecz, a Andrzej Pluta 13.4 Pkt/mecz.
-    *   **ORLEN Zastal Zielona Góra**: W meczu finałowym (21.06.2026) najlepiej punktowali Andrzej Mazurczak (10 Pkt) i Conley Garrison (8 Pkt). Wcześniej w tej serii (mecz 4, 15.06.2026) Andrzej Mazurczak i Conley Garrison zdobyli łącznie 37 punktów, co wskazywało na zwyżkę formy po słabszych meczach 2 i 3. Jednak w decydującym meczu 7 ich skuteczność była niższa.
+1.  **Kluczowe braki w składach (stan na 2026-07-09):**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
 
-3.  **Werdykt**: Legia Warszawa wygrała ten mecz 78:70 i została mistrzem Orlen Basket Ligi w sezonie 2025/2026. Mecz był siódmym i decydującym spotkaniem serii finałowej, rozgrywanym na własnym parkiecie Legii (OSiR Warszawa Bemowo). Przy braku krytycznych, potwierdzonych osłabień w składzie Legii oraz przewadze własnego parkietu w decydującym meczu, typ na Legię był uzasadniony.
+2.  **Aktualna forma top scorerów (stan na 2026-07-09):**
+    *   W związku z zakończeniem sezonu i okresem przygotowawczym do nowych rozgrywek, brak jest bieżących danych o aktualnej formie top scorerów dla obu zespołów.
 
-    *   [✅ ZATWIERDZONY]
+3.  **Werdykt:**
+    *   [⚠️ RYZYKOWNY] Analiza jest ryzykowna ze względu na fakt, że mecz odbył się 2026-06-21, a bieżąca ocena formy i kontuzji (2026-07-09) nie odzwierciedla bezpośrednio sytuacji z dnia meczu. Brak potwierdzonych braków w składach na dzień dzisiejszy (poza sezonem) sprawia, że ocena predictionu z 2026-06-21 na podstawie danych z 2026-07-09 jest mocno utrudniona i anachroniczna.
