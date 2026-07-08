@@ -1,25 +1,24 @@
---- AUDYT PLK LIVE (2026-07-08 09:56 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-08 12:13 CET) ---
+Poniżej przedstawiam analizę meczu koszykówki z dnia 2026-06-21:
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-08, które wpływałyby na mecz z 21.06.2026.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-08, które wpływałyby na mecz z 21.06.2026.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY] (Brak potwierdzonych braków w składach, które mogłyby negatywnie wpłynąć na typ).
+    *   🏀 **ORLEN Zastal Zielona Góra:** Phil Fayne wrócił do składu na serię finałową po przerwie z powodów rodzinnych i grał w decydujących meczach. Veljko Brkić dołączył do Zastalu 29 czerwca 2026 roku, a więc był niedostępny na ten mecz. Brak innych istotnych braków w składzie koszykarskim.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim odnotowanych na dzień meczu.
 
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, który odbył się 2026-06-21:
+2.  **Aktualna forma top scorerów (z PulsBasketu i wyszukanych danych):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz (średnia z sezonu 2025/2026).
+        *   Jakub Szumert: 13.2 Pkt/mecz (średnia z sezonu 2025/2026).
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz (średnia z sezonu 2025/2026). W meczu nr 4 (15.06.2026) Andrzej Mazurczak i Conley Garrison zdobyli łącznie 37 punktów, prezentując dobrą formę. Conley Garrison był bohaterem meczu nr 6 (19.06.2026), trafiając zwycięski rzut i zapewniając Zastalowi wygraną 76:74.
+    *   🏀 **Legia Warszawa:**
+        *   Dominic Brewton III: 14.6 Pkt/mecz (średnia z sezonu 2025/2026).
+        *   Andrzej Pluta: 13.4 Pkt/mecz (średnia z sezonu 2025/2026). Trener Zastalu wskazywał Andrzeja Plutę jako kluczowego gracza, na którym trzeba się skupić.
+        *   Jayvon Graves: 12.9 Pkt/mecz (średnia z sezonu 2025/2026).
+        *   Carl Ponsar zdobył 17 punktów w meczu nr 4 (15.06.2026).
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate doznał poważnie wyglądającej kontuzji nadgarstka w lutym 2026 i mógł opuścić resztę turnieju o Puchar Polski, a być może i cały sezon. Informacja o jego powrocie przed 21.06.2026 nie jest jednoznaczna, jednak w składach na sezon 2025/2026 jest wymieniany jako zawodnik. Niemniej jednak, w meczu nr 4 finałów (15.06.2026) Konate nie był wymieniony wśród zdobywców punktów ani w składzie na ten mecz. Z tego względu jego dostępność na mecz 21.06.2026 jest wątpliwa.
-        *   Filip Matczak i Jakub Szumert byli kontuzjowani w lutym 2026. Jednakże, Filip Matczak zdobył 2 punkty w meczu nr 4 finałów (15.06.2026), a Jakub Szumert zdobył 4 punkty w tym samym meczu. Oznacza to, że obaj powrócili do gry przed meczem z 21.06.2026.
-    *   **Legia Warszawa:**
-        *   Michał Kolenda nabawił się drobnego urazu pod koniec sezonu 2025/2026, który wyeliminował go ze zgrupowania kadry pod koniec czerwca 2026 (dokładnie 28.06.2026). Zagrał jednak i zdobył 7 punktów w meczu nr 4 finałów (15.06.2026). Biorąc pod uwagę datę urazu i meczu, jego występ 21.06.2026 mógł być pod znakiem zapytania lub mógł grać z urazem.
-        *   Adam Linowski, choć nie jest wymieniony w składzie na sezon 2025/2026, miał kontuzję wymagającą operacji w 2018 roku, wykluczającą go do końca roku. Ta informacja jest przestarzała i nieistotna dla sezonu 2025/2026.
-        *   Antonio Colak doznał urazu 07.07.2026, ale jest to zawodnik sekcji piłkarskiej Legii Warszawa, a informacja nie dotyczy koszykówki.
-        *   Petar Stojanović, wymieniony na Transfermarkt jako kontuzjowany (naderwanie ścięgna) z powrotem przewidzianym na 30.09.2026, jest również zawodnikiem sekcji piłkarskiej Legii Warszawa.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu. W meczu nr 4 finałów (15.06.2026) najlepsi strzelcy to Andrzej Mazurczak (21 pkt) dla Zastalu i Carl Ponsar (17 pkt) dla Legii.
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Wątpliwości budzi dostępność Sagaby Konate dla Zastalu ze względu na wcześniejszą poważną kontuzję, mimo że jest w składzie na sezon.
-    *   Michał Kolenda z Legii, mimo że zagrał w poprzednim meczu serii, nabawił się urazu "pod koniec zakończonego niedawno sezonu", co mogło wpłynąć na jego dyspozycję w decydującym meczu finałowym.
-    *   Fakt, że mecz 21.06.2026 był ewentualnym siódmym meczem finałowym, co zwiększa wagę dyspozycji kluczowych zawodników i wpływ ewentualnych drobnych urazów.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz był decydującym, siódmym spotkaniem finału ORLEN Basket Ligi w sezonie 2025/2026. Legia Warszawa posiadała przewagę własnego parkietu. Legia ostatecznie wygrała ten mecz 78:70 i obroniła tytuł Mistrza Polski. Typ na Legię Warszawa był trafny.
