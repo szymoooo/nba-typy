@@ -1,15 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-08 19:32 ET) ---
-Na podstawie dostępnych danych z dnia 2026-07-08:
+--- KRYTYCZNY AUDYT LIVE (2026-07-08 21:12 ET) ---
+Knicks @ Spurs -> Typ: Spurs
 
-**Knicks @ Spurs**
-Typ użytkownika: Spurs
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson (skręcenie prawej kostki) – status "Questionable" w okolicach 19 stycznia 2026.
+        *   Josh Hart (dyskomfort w prawej kostce, skręcenie prawej kostki) – status "Questionable" w okolicach 19 stycznia 2026; "Out" 5 i 7 stycznia 2026.
+        *   Karl-Anthony Towns (skurcze pleców) – status "Questionable" w okolicach 23 stycznia 2026.
+        *   Landry Shamet (skręcenie prawego barku) – "Out" 5 i 7 stycznia 2026.
+        *   Mitchell Robinson (uraz/zarządzanie kontuzją) – wymieniany w raporcie 15 stycznia 2026.
+    *   **San Antonio Spurs:**
+        *   Raporty z początku stycznia 2026 wspominają o trzech kontuzjowanych graczach Spurs około 21 stycznia 2026, ale nie podają konkretnych nazwisk ani statusów. Ogólnie, Spurs mieli zdrowy skład w finale NBA 2026 (koniec sezonu 2025-26).
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Liga NBA jest w okresie poza sezonem, a oficjalne raporty kontuzji dla hipotetycznego meczu z dnia 8 lipca 2026 nie są dostępne.
+*   **Aktualne raporty kontuzji (2026-07-08):**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalne raporty NBA CMS na 8 lipca 2026 dla meczów 9 lipca 2026 pokazują status "NOT YET SUBMITTED" dla obu drużyn. (Uwaga: Jalen Brunson przeszedł operację lewego nadgarstka i oczekuje się, że wróci do gry przed rozpoczęciem następnego sezonu, co jest aktualizacją poza sezonem.)
 
-*   **Składy (stan na lipiec 2026, na podstawie dostępnych informacji posezonowych/off-season):**
-    *   **New York Knicks:** Skład Knicks na lipiec 2026 będzie w trakcie kształtowania w związku z rynkiem wolnych agentów i draftem, jeśli te procesy jeszcze trwają. Ostatnie dostępne informacje o rosterze pochodzą z końca sezonu 2025-2026. W składzie Knicks z końca sezonu 2025-2026 znajdowali się między innymi Jalen Brunson, Julius Randle, Donte DiVincenzo, OG Anunoby, Mitchell Robinson.
-    *   **San Antonio Spurs:** Podobnie jak w przypadku Knicks, skład Spurs na lipiec 2026 będzie dynamiczny. Ostatnie dostępne informacje o rosterze z końca sezonu 2025-2026 wskazywały na obecność takich graczy jak Victor Wembanyama, Jeremy Sochan, Keldon Johnson, Devin Vassell.
-
-*   **Werdykt: [⚠️ RYZYKOWNY]**
-    Brak aktualnych raportów o kontuzjach i fakt, że mecz odbywa się poza sezonem NBA, uniemożliwiają rzetelną analizę. Nie ma żadnych danych, które pozwalałyby na ocenę formy drużyn ani na identyfikację kluczowych braków wpływających na wynik hipotetycznego spotkania.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   San Antonio Spurs zakończyli sezon 2025-26 z rekordem 62-20, zajmując 2. miejsce w Konferencji Zachodniej. Victor Wembanyama zdobył tytuł Defensive Player of the Year i został wybrany do All-NBA First Team. Biorąc pod uwagę znaczące absencje i statusy "Questionable" kluczowych zawodników Knicks w styczniu 2026, typ na Spurs jest uzasadniony.
