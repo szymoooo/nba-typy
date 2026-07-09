@@ -1,13 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-09 18:14 ET) ---
-Dla meczu Knicks @ Spurs, przyjmując kontekst stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-09 19:37 ET) ---
+Na podstawie dostępnych danych ze stycznia 2026:
 
 **Knicks @ Spurs** -> Typ: Spurs
 
-*   **Kluczowe braki w składach:**
+*   **Kluczowe braki w składach (Styczeń 2026):**
     *   **New York Knicks:**
-        *   2 stycznia 2026: Josh Hart (Out - Prawy staw skokowy; zwichnięcie) 🩹, Landry Shamet (Out - Prawy bark; zwichnięcie) 🩹, Mitchell Robinson (Questionable - Lewy staw skokowy; zarządzanie kontuzją) ❓, Karl-Anthony Towns (Questionable - Choroba) ❓.
-        *   14 stycznia 2026: Landry Shamet (Out - Prawy bark; zwichnięcie) 🩹. Josh Hart powrócił po opuszczeniu ośmiu meczów.
-        *   28 stycznia 2026: Mitchell Robinson (Out) 🩹, Miles McBride (Out) 🩹, Josh Hart (Questionable - Ból prawego stawu skokowego) ❓.
-    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę o konkretnych kluczowych brakach w składach San Antonio Spurs na styczeń 2026. Dostępny jest raport z 21 stycznia 2026, który wspomina o trzech kontuzjowanych graczach przed meczem 22 stycznia 2026, ale bez podania nazwisk kluczowych zawodników.
+        *   Jalen Brunson: Out (Prawa kostka, skręcenie) - 15 stycznia.
+        *   Mitchell Robinson: Out (Lewa kostka, zarządzanie urazem) - 15 stycznia.
+        *   Karl-Anthony Towns: Questionable (Choroba) - 2 stycznia. Później uraz pleców - 23 stycznia.
+        *   Josh Hart: Out (Prawa kostka, skręcenie) - 2 stycznia. Powrócił do 14 stycznia.
+        *   Miles McBride: Out (Uraz kostki, nie dopuszczony do kontaktu) - 2 stycznia.
+        *   Landry Shamet: Out (Prawe ramię, skręcenie) - 2 stycznia. Był "Questionable" 15 stycznia.
+    *   **San Antonio Spurs:**
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę o konkretnych, kluczowych zawodnikach na statusie "Out" lub "Questionable" dla meczów w styczniu 2026. Wiadomo, że Victor Wembanyama opuścił część wczesnego sezonu z naciągnięciem łydki, a drobne urazy dotknęły Stephon Castle'a, Devina Vassella, Dylana Harpera i Harrisona Barnesa w ciągu sezonu, ale bez potwierdzonych statusów na styczeń. Raport z 22 stycznia wspomina o trzech kontuzjowanych graczach Spurs, ale nie precyzuje kto to.
 
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Ze względu na znaczące osłabienia w składzie Knicks w styczniu 2026, typ na Spurs może wydawać się uzasadniony. Jednak brak szczegółowych informacji o kluczowych kontuzjach w składzie Spurs w tym samym okresie sprawia, że werdykt jest ryzykowny.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Knicks w styczniu 2026 borykali się ze znacznymi brakami, w tym kluczowych graczy takich jak Brunson, Robinson i Towns w różnych momentach. Spurs, pomimo pewnych drobnych urazów w trakcie sezonu, wydają się mieć stabilniejszy skład w tym okresie, co potwierdza ich imponujący bilans 62-20 w sezonie 2025-26 i 2. miejsce w Konferencji Zachodniej. Biorąc pod uwagę osłabienia Knicks, typ na Spurs jest uzasadniony.
