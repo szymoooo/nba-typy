@@ -1,8 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-09 16:24 ET) ---
-Knicks @ Spurs -> Typ: Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-07-09 16:42 ET) ---
+Analiza meczu Knicks @ Spurs (Styczeń 2026):
 
-*   **Kluczowe braki w składach (na podstawie stycznia 2026):**
-    *   **New York Knicks:** Brak aktualnych danych o kluczowych brakach w składzie Knicks ze stycznia 2026 roku.
-    *   **San Antonio Spurs:** Brak aktualnych danych o kluczowych brakach w składzie Spurs ze stycznia 2026 roku.
-*   **Aktualne raporty o kontuzjach (2026-07-09):** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o brakach w składach ze stycznia 2026 oraz brak aktualnych raportów o kontuzjach uniemożliwia rzetelną analizę.)
+*   **Kluczowe braki w składach (Styczeń 2026):**
+
+    *   **New York Knicks:**
+        *   Jalen Brunson: questionable/out (prawy staw skokowy) 🦶
+        *   Josh Hart: questionable/out (prawy staw skokowy/ból stawu skokowego) 🤕
+        *   Mitchell Robinson: questionable/out (lewy staw skokowy/kontuzja stawu skokowego) 🦵
+        *   Landry Shamet: questionable/out (prawy bark/bark) 🩹
+        *   Trey Jemison III: out (przydział do G League) ➡️
+
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: out (naciągnięcie lewego przywodziciela/długotrwała kontuzja przywodziciela) 🩹
+        *   Jeremy Sochan: questionable (od 22 stycznia) 🤔
+        *   Luke Kornet: questionable (od 22 stycznia) 🤔
+
+*   **Werdykt dla typu: Spurs**
+
+    *   [⚠️ RYZYKOWNY]
+    *   **Uzasadnienie:** Knicks mogą mieć znaczne osłabienia kluczowych graczy (Brunson, Hart, Robinson) przez różne okresy w styczniu 2026. Spurs również mają braki (Vassell jest wykluczony), a Sochan i Kornet mogą być wątpliwi w późniejszym styczniu. Jednak potencjalna absencja czołowych strzelców i centra Knicksów sprawia, że ich skład jest bardziej niestabilny. Victor Wembanyama, kluczowy gracz Spurs, był aktywny w styczniu 2026. Brak konkretnej daty meczu w styczniu sprawia, że typ jest ryzykowny z powodu dynamicznie zmieniających się raportów kontuzji.
