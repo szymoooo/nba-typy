@@ -1,15 +1,18 @@
---- AUDYT PLK LIVE (2026-07-09 20:28 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-07-09 22:25 CET) ---
+**PLK typy na 2026-06-21**
+
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate (silny skrzydłowy/środkowy) był kontuzjowany (awulsyjne uszkodzenie więzadła nadgarstka) i wykluczony z gry do końca sezonu 2025/2026 od lutego 2026 roku.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda (kapitan) zagrał w finale, pomimo drobnego urazu, którego nabawił się pod koniec sezonu, a który później wyeliminował go ze zgrupowania kadry.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Kontuzja nadgarstka Sagaby Konate, która wyeliminowała go z gry do końca sezonu od lutego 2026 roku.
+    *   🏀 **Legia Warszawa:** Michał Kolenda zagrał w meczu, zdobywając 8 punktów w 21:37 minutach, pomimo drobnego urazu, którego nabawił się pod koniec sezonu i który uniemożliwił mu udział w zgrupowaniu kadry po finałach. Wcześniej, w grudniu 2025 roku, miał dłuższą przerwę w grze z powodu kontuzji. Brak innych istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. (Zgodnie z zasadami, dane z pojedynczego meczu finałowego nie są traktowane jako "dane z PulsBasketu" dla top scorerów w serii).
+2.  **Aktualna forma top scorerów (mecz finałowy 2026-06-21):**
+    *   🏀 **Legia Warszawa:** Liderami punktowymi w tym decydującym meczu byli Andrzej Pluta (15 punktów), Race Thompson (11 punktów), Dominic Brewton III (11 punktów) oraz Shane Hunter (10 punktów). Andrzej Pluta został również wybrany MVP finałów.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Najlepszym strzelcem Zastalu w tym spotkaniu był Andrzej Mazurczak (10 punktów). W całym sezonie 2025/2026 czołowymi strzelcami zespołu byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) oraz Andrzej Mazurczak (11.8 Pkt/mecz).
 
-3.  **Werdykt:**
-    *   ✅ **ZATWIERDZONY**
-        *   Mecz był siódmym, decydującym spotkaniem finałowym, rozgrywanym na własnym parkiecie Legii Warszawa. Przewaga własnego parkietu w takim meczu jest znacząca.
-        *   Legia Warszawa zwyciężyła w tym meczu 78:70, zdobywając Mistrzostwo Polski.
-        *   Zastal grał bez kontuzjowanego Sagaby Konate, co było osłabieniem.
+3.  **Werdykt:** ✅ **ZATWIERDZONY**
+    *   Legia Warszawa grała w tym meczu na własnym parkiecie w OSiR Warszawa Bemowo, co w 7. meczu finałowej serii stanowiło istotną przewagę.
+    *   ORLEN Zastal Zielona Góra był osłabiony brakiem Sagaby Konate, którego kontuzja wykluczyła z reszty sezonu.
+    *   Legia Warszawa wykazała się silną formą strzelecką wielu zawodników, a Andrzej Pluta został wyróżniony jako MVP finałów, co świadczy o wysokiej dyspozycji kluczowych graczy Legii.
+    *   Legia Warszawa ostatecznie wygrała mecz 78:70 i zdobyła mistrzostwo Polski.
