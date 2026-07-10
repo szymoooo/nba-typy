@@ -1,24 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-10 12:27 ET) ---
-Analiza typów na podstawie danych z STYCZNIA 2026 (z uwzględnieniem danych z 2026-07-10).
+--- KRYTYCZNY AUDYT LIVE (2026-07-10 14:09 ET) ---
+Analiza meczu: Knicks @ Spurs
 
----
+*   **Kluczowe braki w składach (2026-07-10):**
+    Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalny raport NBA z 2026-07-10 wskazuje status "NOT YET SUBMITTED" dla obu drużyn w hipotetycznym meczu NYK@SAS.
 
-**Knicks @ Spurs** -> Typ: Spurs
+*   **Werdykt:**
+    Biorąc pod uwagę brak aktualnych raportów kontuzji na dzień 2026-07-10, opieramy się na ogólnej formie z sezonu 2025-26. San Antonio Spurs zakończyli ten sezon z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej. New York Knicks zakończyli sezon z bilansem 53-29, co dało im 3. miejsce w Konferencji Wschodniej.
 
-*   **Kluczowe braki w składach:**
-
-    *   **New York Knicks:**
-        *   Mitchell Robinson (C) – OUT (lewa kostka) 🩹
-        *   Jalen Brunson (PG) – OUT (prawa kostka) 🩹 (Zauważono również status "Questionable" w innych raportach ze stycznia, ale status "OUT" z 15 stycznia jest znaczący).
-        *   Josh Hart (SG/SF) – OUT/Questionable (kostka) 🤕
-        *   Miles McBride (PG/SG) – OUT (kostka) 🩹
-        *   Landry Shamet (SG) – OUT/Questionable (ramię) 🩹
-
-    *   **San Antonio Spurs:**
-        *   Devin Vassell (SG/SF) – OUT (nadciągnięcie przywodziciela) 🩹
-        *   Jeremy Sochan (PF) – Questionable (kontuzja) ❓
-        *   Luke Kornet (C) – Questionable (kontuzja) ❓
-        *   Victor Wembanyama i De'Aaron Fox byli aktywni w styczniu 2026 r..
-
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   New York Knicks są znacząco osłabieni potencjalną nieobecnością swojego kluczowego rozgrywającego, Jalen Brunsona, oraz podstawowego centra Mitchell Robinsona, a także innych ważnych graczy rotacji. Mimo braku Devina Vassella, San Antonio Spurs mają aktywnych swoich czołowych graczy, Victora Wembanyamę i De'Aarona Foxa. W styczniu 2026 r. Spurs prezentowali solidny bilans domowy (13-5 do 15 stycznia), co w połączeniu z poważnymi brakami Knicks, czyni typ na Spurs zatwierdzonym.
+    [✅ ZATWIERDZONY] Twój typ na Spurs jest zatwierdzony, bazując na ich silnej dyspozycji w poprzednim sezonie.

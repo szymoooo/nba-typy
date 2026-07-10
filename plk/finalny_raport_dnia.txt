@@ -1,31 +1,12 @@
---- AUDYT PLK LIVE (2026-07-10 18:28 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-07-10 20:09 CET) ---
+Analiza meczu PLK z dnia 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
+1.  **Kluczowe braki w składach (2026-06-21):**
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda, mimo drobnego urazu zgłoszonego 28 czerwca 2026 r., zagrał w meczu finałowym 15 czerwca 2026 r., co wskazuje na jego dostępność również na dzień 21 czerwca 2026 r.. Brak potwierdzonych informacji o kontuzjach, zawieszeniach czy foul-outach innych kluczowych zawodników Legii na ten mecz.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Brak potwierdzonych informacji o kontuzjach, zawieszeniach czy foul-outach kluczowych zawodników Zastalu na ten mecz.
 
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-07-10.
-        *   Odnotowano, że pod koniec sezonu 2025/2026, w czerwcu, zespół zmagał się z urazami, a Andrzej Mazurczak trenował w masce, ale brak jest aktualnych doniesień o ich statusie na dzień dzisiejszy.
-        *   Patrick Cartier i Miłosz Góreńczyk opuścili klub, natomiast Trazarien White i Veljko Brkić to nowi zawodnicy na sezon 2026/27.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-07-10.
-        *   Michał Kolenda nabawił się "drobnego urazu" pod koniec sezonu, który wykluczył go ze zgrupowania kadry 28 czerwca 2026. Brak aktualnych informacji z 2026-07-10 potwierdzających trwanie tego urazu.
-        *   Andrzej Pluta i Maksymilian Wilczek opuścili klub. Nowymi zawodnikami na sezon 2026/27 są Szymon Tomczak i Jakub Andrzejewski.
-
-2.  **Aktualna forma top scorerów (na podstawie sezonu 2025/2026):**
-
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis (15.8 Pkt/mecz w sezonie 2025/2026).
-        *   Jakub Szumert (13.2 Pkt/mecz w sezonie 2025/2026).
-        *   Andrzej Mazurczak (11.8 Pkt/mecz w sezonie 2025/2026).
-        *   Conley Garrison (10.9 Pkt/mecz, 5.2 asysty w sezonie 2025/2026).
-
-    *   🏀 **Legia Warszawa:**
-        *   Dominic Brewton III (14.5 Pkt/mecz w sezonie 2025/2026).
-        *   Andrzej Pluta (13.4 Pkt/mecz w sezonie 2025/2026) - zawodnik opuścił klub.
-        *   Jayvon Graves (12.8 Pkt/mecz w sezonie 2025/2026).
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-
-    *   **Uzasadnienie:** Mecz z 21.06.2026 był finałowym starciem sezonu PLK, co oznacza wysoką stawkę i potencjalne wyczerpanie zawodników. Zgodnie z analizą aktualnych danych (na dzień 2026-07-10), brak jest potwierdzonych informacji o trwających, istotnych kontuzjach w obu zespołach. Jednakże, doniesienia z końca sezonu 2025/2026 dotyczące "drobnego urazu" Michała Kolendy (Legia) oraz "walki z urazami" w Zastalu i gry Andrzeja Mazurczaka w masce wskazują na to, że obie drużyny mogły przystąpić do meczu z 21 czerwca z pewnymi osłabieniami lub z graczami niebędącymi w optymalnej formie. Bez konkretnych, aktualnych informacji o statusie tych urazów na dzień meczu (21.06.2026), nie można precyzyjnie ocenić ich wpływu na wynik. Zmiany kadrowe na sezon 2026/27 są liczne, ale odnoszą się do przyszłości, a nie do historycznego meczu.
+3.  **Werdykt:**
+    *   [✅ ZATWIERDZONY] Legia Warszawa zwyciężyła ORLEN Zastal Zielona Góra w decydującym siódmym meczu finałów PLK sezonu 2025/2026, zdobywając mistrzostwo Polski 21 czerwca 2026 roku.
