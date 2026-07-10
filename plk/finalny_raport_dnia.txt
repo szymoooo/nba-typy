@@ -1,26 +1,29 @@
---- AUDYT PLK LIVE (2026-07-10 21:53 CET) ---
-Poniżej przedstawiam audyt typu na mecz PLK z dnia 2026-06-21:
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-07-10 23:10 CET) ---
+Analiza meczu PLK (2026-06-21): ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda, mimo drobnego urazu odniesionego pod koniec sezonu, wystąpił w meczu i zdobył 8 punktów.
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Wszyscy kluczowi zawodnicy zagrali w meczu.
 
-2.  **Aktualna forma top scorerów (w kontekście meczu 2026-06-21):**
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta: 15 punktów w meczu (średnia sezonu 2025/2026: 13.4 Pkt/mecz).
-        *   DJ Brewton: 11 punktów w meczu (średnia sezonu 2025/2026: 14.5 Pkt/mecz).
-        *   Race Thompson: 11 punktów w meczu.
-        *   Shane Hunter: 10 punktów w meczu.
-        *   Jayvon Graves: 9 punktów w meczu (średnia sezonu 2025/2026: 12.8 Pkt/mecz).
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Andy Mazurczak: 10 punktów w meczu (średnia w ćwierćfinałach 2025/2026: 15.8 Pkt/mecz).
-        *   Jayvon Maughmer: 10 punktów w meczu.
-        *   Chavaughn Lewis: 10 punktów w meczu.
-        *   Conley Garrison: 8 punktów w meczu (średnia w ćwierćfinałach 2025/2026: 13.8 Pkt/mecz).
-        *   Filip Matczak: 8 punktów w meczu.
-        *   Jakub Szumert: 8 punktów w meczu (średnia w ćwierćfinałach 2025/2026: 13.5 Pkt/mecz).
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate: Poważna kontuzja nadgarstka w lutym 2026 roku, która mogła wykluczyć go z udziału w całym turnieju. Nie wystąpił w meczu numer 7 finału.
+    *   🏀 **Legia Warszawa:**
+        *   Matthias Tass: W grudniu 2025 roku ogłoszono jego dłuższą przerwę z powodu kontuzji. Nie znalazł się w składzie na mecz numer 7 finału.
+        *   Michał Kolenda: Mimo drobnego urazu odniesionego pod koniec sezonu, zagrał w meczu numer 7 finału, zdobywając 8 punktów.
+
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21, Game 7):**
+    (Brak danych z API dla całej serii, przedstawiono dane z rozstrzygającego meczu)
+
+    *   🏀 **Legia Warszawa:**
+        *   Andrzej Pluta: 15 punktów
+        *   Dominic Brewton III: 11 punktów
+        *   Race Thompson: 11 punktów
+        *   Shane Hunter: 10 punktów
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak: 10 punktów
+        *   Jayvon Maughmer: 10 punktów
+        *   Chavaughn Lewis: 10 punktów
+        *   Conley Garrison: 8 punktów
+        *   Filip Matczak: 8 punktów
+        *   Jakub Szumert: 8 punktów
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa wygrała ten mecz (Game 7 finału) u siebie wynikiem 78-70. Brak istotnych braków kadrowych w obu zespołach na dzień meczu. Legia wykorzystała atut własnego parkietu w decydującym spotkaniu.
+    Legia Warszawa wygrała ten decydujący, siódmy mecz finału na własnym parkiecie (OSiR Warszawa Bemowo), zdobywając mistrzostwo Polski. Legia była faworytem grając u siebie w Game 7, a brak Sagaby Konate po stronie Zastalu dodatkowo osłabiał gości. Typ na Legię był uzasadniony.
