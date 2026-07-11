@@ -1,10 +1,12 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-11 15:45 ET) ---
-Analiza meczu na dzień 2026-07-11:
+--- KRYTYCZNY AUDYT LIVE (2026-07-11 15:59 ET) ---
+Analiza meczu na dzień 2026-07-11: Knicks @ Spurs
 
-**Knicks @ Spurs -> Typ: Spurs**
+*   **Kluczowe braki w składach (2026-07-11):**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalne raporty dla tego hipotetycznego meczu mają status "NOT YET SUBMITTED".
+*   **Rostery (Styczeń 2026 dla kontekstu gry):**
+    *   **New York Knicks:** Kadra na styczeń 2026 obejmuje m.in. Jalen Brunson, Karl-Anthony Towns, Mitchell Robinson, OG Anunoby, Josh Hart, Miles McBride, Jordan Clarkson, Mikal Bridges i Jose Alvarado. Knicks zakończyli sezon 2025-26 z bilansem 53-29.
+    *   **San Antonio Spurs:** Kadra na styczeń 2026 obejmuje m.in. Victor Wembanyama, De'Aaron Fox, Devin Vassell, Keldon Johnson, Jeremy Sochan i Dylan Harper. Jeremy Sochan był w składzie Spurs do 10 lutego 2026. Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej.
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalne raporty dla tego meczu na dzień 2026-07-11 są oznaczone jako "NOT YET SUBMITTED".
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   San Antonio Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej.
-    *   New York Knicks zakończyli sezon 2025-26 z bilansem 53-29, zajmując 3. miejsce w Konferencji Wschodniej.
-    *   Biorąc pod uwagę lepszy bilans Spurs w poprzednim sezonie, typ na Spurs jest uzasadniony.
+*   **Werdykt dla typu: Spurs**
+    *   Biorąc pod uwagę kadry ze stycznia 2026, San Antonio Spurs prezentowali się jako silniejsza drużyna w sezonie 2025-26, kończąc z lepszym bilansem niż New York Knicks. W obliczu braku potwierdzonych aktualnych kontuzji na dzień 2026-07-11 dla obu zespołów, siła rosteru z okresu referencyjnego (styczeń 2026) jest kluczowa.
+    *   **[✅ ZATWIERDZONY]**
