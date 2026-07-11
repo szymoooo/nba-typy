@@ -1,42 +1,15 @@
---- AUDYT PLK LIVE (2026-07-12 00:59 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data analizy: 2026-07-12)
-
-Mecz typowany na 2026-06-21 był finałem sezonu 2025/2026 Orlen Basket Ligi, w którym Legia Warszawa zdobyła mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra. Obecna data to 2026-07-12, czyli poza sezonem rozgrywek PLK, który rozpocznie się w październiku 2026. Analiza opiera się na dostępnych informacjach o zmianach kadrowych i kontuzjach na dzień 2026-07-12.
-
----
-
-### ORLEN Zastal Zielona Góra
+--- AUDYT PLK LIVE (2026-07-12 01:34 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+*   **Mecz:** Finał ORLEN Basket Ligi, Mecz nr 7.
+*   **Hala:** OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40, Warszawa.
 
 1.  **Kluczowe braki w składach:**
-    *   🤕 **Sagaba Konate**: Doznał poważnej kontuzji nadgarstka w Pucharze Polski (21.02.2026). Wymagał nastawienia nadgarstka i prognozowano dłuższą przerwę. Brak aktualnych informacji o pełnym powrocie do zdrowia na dzień 12.07.2026.
-    *   ➡️ **Miłosz Góreńczyk**: Odszedł z klubu do Kotwicy Port Morski Kołobrzeg.
-    *   ➡️ **Patrick Cartier**: Odszedł z klubu do MHP Riesen Ludwigsburg.
-    *   ➡️ **Jakub Szumert**: Ma grać w NCAA, co oznacza odejście z klubu na sezon PLK.
-    *   🔄 **Trazarien White**: Nowy zawodnik Zastalu przed sezonem 2026/2027.
-    *   ⚠️ Wcześniejsze doniesienia z 06.06.2026 wskazywały na problemy z kontuzją Filipa Matczaka oraz trwające dolegliwości kostki u Dwighta Wilsona, jednak brak aktualizacji na 12.07.2026.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda doznał drobnego urazu pod koniec sezonu 2025/2026, który uniemożliwił mu udział w zgrupowaniu kadry po zakończeniu rozgrywek, ale brak potwierdzonych informacji, że był niedostępny na ten konkretny mecz finałowy (2026-06-21).
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Przed finałami Zastal zmagał się z urazami, ale Phil Fayne wrócił do gry.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w kontekście aktualnej formy na dzień 12.07.2026 (poza sezonem). Top scorerzy z sezonu 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Należy pamiętać, że Jakub Szumert odchodzi.
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
+    *   **Legia Warszawa:** Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
+    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 Pkt).
 
----
-
-### Legia Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   🤕 **Michał Kolenda**: Odpadł ze zgrupowania kadry narodowej (28.06.2026) z powodu drobnego urazu odniesionego pod koniec minionego sezonu. Brak aktualnych informacji o pełnym powrocie do zdrowia na dzień 12.07.2026, choć uraz opisano jako "drobny".
-    *   ➡️ **Dominic Green**: Będzie grał w Energa Czarnych Słupsk.
-    *   ➡️ **Maksymilian Wilczek**: Dołączył do Arriva Lotto Twardych Pierników Toruń.
-    *   ➡️ **Ojars Silins**: Odszedł z Legii.
-    *   🔄 **Markus Ilver**: Podpisał dwuletni kontrakt z Legią Warszawa.
-    *   ⚠️ **Błażej Czapla i Dawid Niedziałkowski**: Powołani na EuroBasket U-20 (09.07.2026), co w przypadku meczu mogłoby wpłynąć na ich dostępność, ale jest to poza sezonem ligowym.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w kontekście aktualnej formy na dzień 12.07.2026 (poza sezonem). Top scorerzy z sezonu 2025/2026 to Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). Dominic Brewton III nadal figuruje w składzie Legii.
-
----
-
-### Werdykt: Legia Warszawa
-
-Na dzień 12.07.2026, w okresie poza sezonem ligowym, ORLEN Zastal Zielona Góra odnotował znaczące ubytki kadrowe w postaci odejść kluczowych graczy (Patrick Cartier, Miłosz Góreńczyk, Jakub Szumert) oraz długoterminową kontuzję Sagaby Konate z lutego 2026 roku, której aktualny stan jest niepewny. Legia Warszawa również ma kilku zawodników, którzy zmienili klub (Dominic Green, Maksymilian Wilczek, Ojars Silins) i Michała Kolendę z drobnym urazem. Jednakże, straty Zastalu, w tym kontuzja Konate, wydają się być bardziej dotkliwe dla stabilności składu. Zakładając, że Legia utrzymuje trzon swoich top scorerów z minionego sezonu (Brewton, Pluta, Graves), jej sytuacja kadrowa wydaje się być korzystniejsza.
-
-**Werdykt:** [✅ ZATWIERDZONY]
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Legia Warszawa wygrała ten decydujący mecz finałowy 78:70, zdobywając Mistrzostwo Polski 2025/2026. Mecz odbył się na własnym parkiecie Legii, co w decydującym spotkaniu serii play-off jest istotnym atutem. Brak potwierdzonych kluczowych absencji, które znacząco wpłynęłyby na wynik.
