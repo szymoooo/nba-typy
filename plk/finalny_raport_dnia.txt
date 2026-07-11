@@ -1,30 +1,24 @@
---- AUDYT PLK LIVE (2026-07-11 16:59 CET) ---
-# Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-07-11 18:04 CET) ---
+Analiza meczu PLK na dzień 2026-07-11 (z uwzględnieniem, że podana data meczu 2026-06-21 prawdopodobnie odnosi się do terminu audytowanego typu, a analiza ma być aktualna na dzień dzisiejszy, 2026-07-11 – co jest okresem posezonowym w PLK).
 
-### ORLEN Zastal Zielona Góra
+---
 
-1.  **Kluczowe braki w składzie:**
-    *   Potencjalna absencja Sagaby Konate (silny skrzydłowy/środkowy). Zgłosił kontuzję nadgarstka w lutym 2026 i nie ma potwierdzonych informacji o jego powrocie na finałową serię. Nie znalazł się na liście strzelców w meczu z Legią 15 czerwca 2026.
-    *   Chavaughn Lewis, Filip Matczak, Jakub Szumert i Miłosz Majewski, którzy wcześniej zmagali się z urazami, byli aktywni i punktowali w meczu z Legią 15 czerwca 2026 roku, co sugeruje ich dostępność na 21 czerwca.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+*Typ: Legia Warszawa*
 
-2.  **Aktualna forma top scorerów (w serii, na podstawie meczu z 15 czerwca 2026):**
-    *   Andrzej Mazurczak: 21 punktów
-    *   Conley Garrison: 16 punktów
-    *   Dwight Wilson III: 10 punktów
-    *   Chavaughn Lewis: 7 punktów
+1.  **Kluczowe braki w składach**:
+    *   W związku z tym, że dzisiejsza data to 2026-07-11, liga PLK jest w okresie posezonowym (po sezonie 2025/2026) lub na bardzo wczesnym etapie przygotowań do sezonu 2026/2027.
+    *   W tym okresie, brak jest aktywnych rozgrywek ligowych, co oznacza brak kontuzji meczowych, zawieszeń czy foul-outów.
+    *   Brak istotnych, potwierdzonych w dostępnych źródłach (plk.pl, polskikosz.pl, sportowefakty.wp.pl, klubowe profile X) długoterminowych kontuzji koszykarzy Legii Warszawa, które zostałyby ogłoszone do dnia 2026-07-11.
+    *   Brak istotnych, potwierdzonych w dostępnych źródłach długoterminowych kontuzji koszykarzy ORLEN Zastalu Zielona Góra, które zostałyby ogłoszone do dnia 2026-07-11.
+    *   Transfery i zmiany w składach na nowy sezon 2026/2027 mogą być w toku, ale nie są to "braki w składzie" w kontekście meczowym.
+    *   Brak istotnych braków w składzie koszykarskim, które byłyby aktualne dla hipotetycznego meczu w dniu 2026-07-11.
 
-### Legia Warszawa
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API PulsBasketu dla tego zespołu, co do top scorerów w serii.
+    *   Ze względu na okres posezonowy (lipiec 2026), nie ma możliwości oceny "aktualnej formy" top scorerów w kontekście rozgrywek ligowych. Zawodnicy są w przerwie między sezonami.
+    *   Wiadomości dotyczące potencjalnych transferów lub podpisanych kontraktów na sezon 2026/2027 są wczesne i nie pozwalają na ocenę formy strzeleckiej poszczególnych graczy.
 
-1.  **Kluczowe braki w składzie:**
-    *   Prawdopodobna absencja Matthiasa Tassa (środkowy). W grudniu 2025 roku zgłoszono, że czeka go dłuższa przerwa z powodu kontuzji. Nie został odnotowany na liście strzelców w meczu z Zastalem 15 czerwca 2026.
-    *   Michał Kolenda, Andrzej Pluta i Jayvon Graves, którzy wcześniej zmagali się z kontuzjami, byli aktywni i punktowali w meczu z Zastalem 15 czerwca 2026 roku. Michał Kolenda doznał drobnego urazu pod koniec sezonu, który wyeliminował go ze zgrupowania kadry, ale miało to miejsce po zakończeniu rozgrywek, co sugeruje jego udział w finale.
-
-2.  **Aktualna forma top scorerów (w serii, na podstawie meczu z 15 czerwca 2026):**
-    *   Carl Ponsar: 17 punktów
-    *   Andrzej Pluta: 14 punktów
-    *   Dominic Brewton III: 12 punktów
-    *   Jayvon Graves: 7 punktów
-
-### Werdykt: ✅ ZATWIERDZONY
-
-Mecz 21 czerwca 2026 roku był siódmym, decydującym spotkaniem finałowej serii PLK. Legia Warszawa wygrała ten mecz 78:70, grając na własnym parkiecie. Pomimo drobnych wątpliwości dotyczących Sagaby Konate po stronie Zastalu oraz Matthiasa Tassa w Legii, większość kluczowych graczy obu drużyn była aktywna w poprzedzającym meczu 15 czerwca. Legia, jako gospodarz decydującego meczu, wykorzystała przewagę własnego parkietu. Typ na Legię Warszawa jest zatwierdzony.
+3.  **Werdykt**: ⚠️ RYZYKOWNY
+    *   Analiza jest ryzykowna, ponieważ data 2026-07-11 przypada na okres posezonowy w PLK, co uniemożliwia ocenę kluczowych braków meczowych (kontuzje krótkoterminowe, zawieszenia) oraz aktualnej formy strzeleckiej zawodników w kontekście rywalizacji ligowej.
+    *   Typowanie meczu na podstawie danych z okresu posezonowego jest wysoce spekulatywne.
