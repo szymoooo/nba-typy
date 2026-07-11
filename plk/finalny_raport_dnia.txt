@@ -1,16 +1,38 @@
---- AUDYT PLK LIVE (2026-07-11 01:31 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-07-11 04:01 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** 🤕 Chavaughn Lewis (czołowy strzelec) był kontuzjowany już na początku maja 2026 i jego udział w końcówce sezonu był wątpliwy. W lutym 2026 kontuzjowani byli także Filip Matczak, Jakub Szumert i Sagaba Konate (uraz nadgarstka). Chociaż Phil Fayne wrócił do gry na początku czerwca, ogólna kondycja kadry Zastalu była opisywana jako "walka z urazami" przed finałami. Zatem można założyć, że Lewis był niedostępny lub mocno ograniczony, a Matczak, Szumert i Konate również mogli być osłabieni lub poza składem na decydujące spotkanie.
-    *   **Legia Warszawa:** 🤕 Michał Kolenda doznał drobnego urazu pod koniec sezonu 2025/2026, który wykluczył go ze zgrupowania kadry 28 czerwca 2026, co sugeruje, że był on niedostępny lub ograniczony również na mecz 21 czerwca.
+Mecz ten był decydującym, siódmym spotkaniem finału ORLEN Basket Ligi sezonu 2025/2026. Odbył się w Warszawie, na hali OSiR Warszawa Bemowo.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz). Warto zaznaczyć, że w meczu nr 4 (15.06) Andrzej Mazurczak i Conley Garrison zdobyli łącznie 37 punktów, prezentując wysoką formę.
-    *   **Legia Warszawa:** Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz). W meczu nr 4 (15.06) Carl Ponsar był najlepszym strzelcem Legii z 17 punktami.
+### ORLEN Zastal Zielona Góra
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz nr 7 finałów PLK to decydujące spotkanie. Legia Warszawa, jako obrońca tytułu i najlepsza drużyna sezonu zasadniczego, posiadała przewagę własnego parkietu.
-    *   Znaczące braki w składzie Zastalu, w tym czołowego strzelca Chavaughna Lewisa, oraz ogólna "walka z urazami" w zespole z Zielonej Góry, stanowiły istotne osłabienie przed finałem.
-    *   Pomimo kontuzji Michała Kolendy w Legii, ich skład był mniej dotknięty brakami kluczowych graczy.
-    *   Przewaga własnego parkietu w decydującym meczu, w połączeniu z historią obrony tytułu przez Legię, silnie wspierała typ na gospodarzy. Legia Warszawa ostatecznie wygrała mecz 78:70, zdobywając mistrzostwo Polski.
+1.  **Kluczowe braki w składzie**:
+    *   ❌ **Sagaba Konate** (silny skrzydłowy / środkowy) - wykluczony z gry do końca sezonu 2025/2026 z powodu urazu więzadła nadgarstka, którego doznał 28 lutego 2026 roku.
+    *   ⚠️ **Filip Matczak** (rozgrywający) - odczuwał dolegliwości związane ze starą kontuzją, ale sztab szkoleniowy oszczędzał go i oczekiwano, że będzie gotowy na serię finałową.
+    *   ⚠️ **Dwight Wilson III** (środkowy) - odczuwał skutki urazu kostki, ale trenował z kontaktem.
+    *   ✅ **Phil Fayne** (silny skrzydłowy) - wrócił do gry po kontuzji, grając w masce, i był gotowy na finały.
+
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API dla tego zespołu dotyczących formy w serii.
+    *   Najlepsi strzelcy w sezonie 2025/2026:
+        *   Chavaughn Lewis (15.8 Pkt/mecz)
+        *   Jakub Szumert (13.2 Pkt/mecz)
+        *   Andrzej Mazurczak (11.8 Pkt/mecz)
+
+### Legia Warszawa
+
+1.  **Kluczowe braki w składzie**:
+    *   ⚠️ **Michał Kolenda** (niski skrzydłowy) - opuścił zgrupowanie reprezentacji Polski 28 czerwca 2026 roku z powodu drobnego urazu, którego nabawił się pod koniec zakończonego niedawno sezonu, co sugeruje, że mógł być niedostępny lub ograniczony w meczu finałowym 21 czerwca.
+    *   Brak innych istotnych braków w składzie koszykarskim.
+
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API dla tego zespołu dotyczących formy w serii.
+    *   Najlepsi strzelcy w sezonie 2025/2026:
+        *   Dominic Brewton III (14.5 Pkt/mecz)
+        *   Andrzej Pluta (13.4 Pkt/mecz)
+        *   Jayvon Graves (12.8 Pkt/mecz)
+
+### Werdykt:
+
+Typ: Legia Warszawa [✅ ZATWIERDZONY]
+
+**Uzasadnienie**: Legia Warszawa grała u siebie w decydującym, siódmym meczu finałowym. ORLEN Zastal Zielona Góra borykał się z poważną kontuzją Sagaby Konate, który był wykluczony do końca sezonu, a także z mniejszymi urazami Filipa Matczaka i Dwighta Wilsona III, którzy grali z bólem. Pomimo potencjalnego braku Michała Kolendy w Legii, przewaga własnego parkietu w tak kluczowym meczu oraz większe osłabienia w Zastalu sprawiają, że typ na Legię Warszawa jest uzasadniony. Ostatecznie Legia Warszawa wygrała ten mecz 78-70 i zdobyła mistrzostwo Polski.
