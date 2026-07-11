@@ -1,12 +1,23 @@
---- AUDYT PLK LIVE (2026-07-11 19:17 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-07-11 22:52 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):**
-    *   **Legia Warszawa:** Michał Kolenda zmagał się z drobnym urazem pod koniec sezonu 2025/2026, co wykluczyło go ze zgrupowania kadry narodowej po zakończeniu rozgrywek.
-    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate doznał poważnej kontuzji dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka) w lutym 2026 roku, co wyeliminowało go z gry do końca sezonu 2025/2026. Został zastąpiony przez Dwighta Wilsona III, który dołączył do zespołu w marcu 2026 roku.
+1.  **Kluczowe braki w składach:**
+    *   Legia Warszawa: Brak istotnych, potwierdzonych braków w składzie koszykarskim dla tego meczu. Michał Kolenda nabawił się drobnego urazu pod koniec sezonu, który wykluczył go ze zgrupowania kadry po 28 czerwca 2026, ale grał w czwartym meczu finałowym 15 czerwca 2026. Brak informacji, by był niedostępny na mecz 21 czerwca.
+    *   ORLEN Zastal Zielona Góra: Zespół borykał się z urazami, jednak kluczowy zawodnik Phil Fayne wrócił do gry i występował w meczach finałowych (np. zdobył 6 punktów w meczu nr 4). Brak potwierdzonych, kluczowych braków w składzie koszykarskim na mecz 21 czerwca.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (z uwzględnieniem danych z serii):**
+    *   **Legia Warszawa (na podstawie Meczu nr 4, 15.06.2026):**
+        *   Carl Ponsar: 17 punktów, 4 zbiórki.
+        *   Andrzej Pluta: 14 punktów.
+        *   Dominic Brewton: 12 punktów.
+        *   W sezonie 2025/2026, Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz) byli wiodącymi strzelcami Legii.
+    *   **ORLEN Zastal Zielona Góra (na podstawie Meczu nr 4, 15.06.2026):**
+        *   Andrzej Mazurczak: 21 punktów, 3 asysty.
+        *   Conley Garrison: 16 punktów.
+        *   Dwight Allen Wilson III: 10 punktów.
+        *   W sezonie 2025/2026, Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz) byli czołowymi strzelcami Zastalu. Andrzej Mazurczak był w znakomitej formie w meczu nr 4.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Pomimo drobnego urazu Michała Kolendy w Legii i długoterminowej kontuzji Sagaby Konate w Zastalu (zastąpionego przez Dwighta Wilsona III), Legia Warszawa była mistrzem Polski w sezonie 2025/2026. Mecz z 21 czerwca 2026 roku był częścią finałowej serii play-off, w której Legia ostatecznie triumfowała. Przewaga własnego parkietu Legii w Warszawie była istotnym czynnikiem.
+    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowym PLK, w którym Legia Warszawa zdobyła mistrzostwo Polski pokonując ORLEN Zastal Zielona Góra 78:70.
+    *   Legia Warszawa grała u siebie (nie podano hali w kontekście, ale jako gospodarz meczu numer 7 finału rozgrywanego w Warszawie) i była faworytem, kończąc sezon zasadniczy na 1. miejscu.
+    *   Brak istotnych, potwierdzonych osłabień w składach obu drużyn na ten decydujący mecz.
