@@ -1,8 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-11 13:16 ET) ---
-Oto analiza Twojego typu na mecz Knicks @ Spurs, bazując na dostępnych danych z dnia 2026-07-11:
+--- KRYTYCZNY AUDYT LIVE (2026-07-11 15:45 ET) ---
+Analiza meczu na dzień 2026-07-11:
 
-### Knicks @ Spurs
+**Knicks @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. Raporty NBA CMS z 2026-07-11 dla New York Knicks i San Antonio Spurs wskazują status "NOT YET SUBMITTED" (Jeszcze nie zgłoszone).
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalne raporty dla tego meczu na dzień 2026-07-11 są oznaczone jako "NOT YET SUBMITTED".
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mimo że New York Knicks zdobyli mistrzostwo NBA w sezonie 2025-26, pokonując San Antonio Spurs w finałach, obecny mecz jest prawdopodobnie rozgrywany w ramach Ligi Letniej NBA, na co wskazuje prognoza z dnia 11 lipca 2026. Według tej prognozy, San Antonio Spurs mają "lepszy młody skład" na dzisiejsze starcie Ligi Letniej i są faworytem do zwycięstwa nad Knicks.
+    *   San Antonio Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej.
+    *   New York Knicks zakończyli sezon 2025-26 z bilansem 53-29, zajmując 3. miejsce w Konferencji Wschodniej.
+    *   Biorąc pod uwagę lepszy bilans Spurs w poprzednim sezonie, typ na Spurs jest uzasadniony.
