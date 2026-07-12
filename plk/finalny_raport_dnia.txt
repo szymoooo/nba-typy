@@ -1,39 +1,18 @@
---- AUDYT PLK LIVE (2026-07-12 11:45 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-07-12 11:48 CET) ---
+Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa
+Typ: Legia Warszawa
 
-Dzisiejsza data: 2026-07-12. Analiza dotyczy historycznego meczu z dnia 2026-06-21.
+1.  **Kluczowe braki w składach (2026-06-21):**
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień meczu. Michał Kolenda, który w grudniu 2025 miał dłuższą przerwę z powodu kontuzji, grał już 15 czerwca 2026 w 4. meczu finałów.
+    *   **ORLEN Zastal Zielona Góra:** 🤕 Sagaba Konate był wyłączony z gry do końca sezonu 2025/2026 z powodu kontuzji dłoni, której doznał w lutym 2026.
 
----
-
-**Mecz:** ORLEN Zastal Zielona Góra @ Legia Warszawa
-**Typ z PulsBasketu:** Legia Warszawa
-
----
-
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   ❌ Sagaba Konate (silny skrzydłowy/środkowy): Potwierdzona kontuzja dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka) zakończyła jego sezon już 28 lutego 2026 roku.
-        *   ❓ Filip Matczak: Miał kontuzję w lutym 2026, status na mecz 21.06.2026 niepotwierdzony jako powrót.
-        *   ✅ Jakub Szumert: Mimo kontuzji w lutym 2026, występował jako jeden z czołowych strzelców w serii ćwierćfinałowej w maju 2026, co sugeruje powrót do pełnej sprawności przed finałami.
-        *   ✅ Phil Fayne: Według informacji z 6 czerwca 2026 roku, powrócił do składu po kontuzji.
-    *   **Legia Warszawa:**
-        *   Kontuzje Michała Kolendy, Matthiasa Tassa i Ojārs Siliņša były zgłaszane w grudniu 2025 roku jako długoterminowe. Jednakże, brak jest aktualnych informacji z czerwca 2026 roku potwierdzających ich niedostępność na finałowy mecz. Biorąc pod uwagę fakt zdobycia mistrzostwa, zakłada się, że kluczowi gracze byli dostępni lub zespół skutecznie radził sobie z ewentualnymi brakami. Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień meczu.
-
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **Legia Warszawa:**
-        *   Dominic Brewton III: Średnio 14.5 Pkt/mecz. W meczu 3. finału (13.06.2026) zdobył 13 punktów.
-        *   Andrzej Pluta: Średnio 13.4 Pkt/mecz.
-        *   Jayvon Graves: Średnio 12.8 Pkt/mecz.
-        *   Carl Ponsar: W meczu 3. finału (13.06.2026) był top scorerem Legii z 22 punktami.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: Średnio 15.8 Pkt/mecz. W meczu 3. finału (13.06.2026) zdobył 14 punktów.
-        *   Jakub Szumert: Średnio 13.2 Pkt/mecz.
-        *   Andrzej Mazurczak: Średnio 11.8 Pkt/mecz.
-        *   Patrick Cartier: W meczu 3. finału (13.06.2026) zdobył 13 punktów.
-        *   Jayvon Maughmer: W meczu 3. finału (13.06.2026) zdobył 12 punktów.
+2.  **Aktualna forma top scorerów (mecz 21.06.2026):**
+    *   **Legia Warszawa:** Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
+    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 Pkt).
+    *   Brak danych z API dla tego zespołu na temat formy top scorerów w serii.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz 21 czerwca 2026 roku był 7. i decydującym spotkaniem finałowej serii PLK sezonu 2025/2026.
-    *   Legia Warszawa grała u siebie i ostatecznie wygrała ten mecz 78-70, zdobywając Mistrzostwo Polski w sezonie 2025/2026.
-    *   Znaczącym osłabieniem Zastalu była nieobecność Sagaby Konate na cały sezon.
-    *   Przewaga własnego parkietu w decydującym meczu finału, połączona z potwierdzonymi osłabieniami Zastalu i ostatecznym wynikiem, potwierdza słuszność typu na Legię Warszawa.
+    *   Mecz odbył się 21 czerwca 2026 roku w Hali OSiR Bemowo w Warszawie i był 7. decydującym spotkaniem finałowym PLK.
+    *   Legia Warszawa grała na własnym parkiecie.
+    *   ORLEN Zastal Zielona Góra osłabiony był brakiem Sagaby Konate, który zakończył sezon w lutym 2026.
+    *   Zaletą Legii był brak kluczowych kontuzji i przewaga własnego parkietu w decydującym meczu serii finałowej.
