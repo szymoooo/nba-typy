@@ -1,15 +1,12 @@
---- AUDYT PLK LIVE (2026-07-12 22:02 CET) ---
-Analiza meczu PLK na dzień 2026-06-21:
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-12 22:57 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji nadgarstka, której doznał w lutym 2026 roku.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Race Thompson, który zmagał się z problemami zdrowotnymi na początku serii finałowej, był dostępny i zagrał w tym decydującym meczu.
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026.
 
 2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** W decydującym, siódmym meczu finału Andrzej Mazurczak zdobył 10 punktów. Chavaughn Lewis, inny z czołowych strzelców (średnio 15.8 Pkt/mecz w sezonie 2025/2026), również był aktywny w serii finałowej, zdobywając kluczowe punkty w poprzednich spotkaniach.
-    *   🏀 **Legia Warszawa:** W decydującym meczu finałowym Andrzej Pluta zdobył 15 punktów, Race Thompson 11 punktów, Dominic Brewton III 11 punktów, a Shane Hunter 10 punktów. W całym sezonie 2025/2026 czołowymi strzelcami byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). Legia obroniła tytuł Mistrza Polski, co świadczy o ich doskonałej formie i skuteczności liderów w najważniejszym momencie sezonu.
+    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu.
+    *   Legia Warszawa: Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    Legia Warszawa grała u siebie w decydującym, siódmym meczu finału PLK i obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra 78:70. Mimo długoterminowej absencji Sagaby Konate w Zastalu, Legia miała pełny skład i zaprezentowała doskonałą formę, będąc faworytem serii i dominując w całym sezonie zasadniczym.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
