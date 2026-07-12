@@ -1,18 +1,26 @@
---- AUDYT PLK LIVE (2026-07-12 20:52 CET) ---
-**Mecz:** ORLEN Zastal Zielona Góra @ Legia Warszawa (Finał ORLEN Basket Ligi, Mecz 7/7)
-**Data meczu:** 2026-06-21
-**Hala:** OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40, 01-494 Warszawa
-**Typ z PulsBasketu:** Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-12 21:53 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:**
-        *   Matthias Tass: Poza kadrą meczową decyzją sztabu szkoleniowego.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate: Kontuzja nadgarstka (awulsyjne uszkodzenie więzadła SL) zakończyła sezon w lutym 2026, był niedostępny do końca rozgrywek.
-        *   Filip Matczak, Jakub Szumert, Dwight Wilson III i Chavaughn Lewis mieli wcześniejsze lub drobne urazy, ale wystąpili w tym meczu finałowym.
+Mecz z 21.06.2026 był siódmym, decydującym spotkaniem finałowym Orlen Basket Ligi, w którym Legia Warszawa zmierzyła się z ORLEN Zastalem Zielona Góra. Legia Warszawa wygrała ten mecz 78:70 i zdobyła mistrzostwo Polski.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+### 1. Kluczowe braki w składach:
 
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    Legia Warszawa, będąca liderem sezonu zasadniczego i obrońcą tytułu, wygrała decydujący, siódmy mecz finałowy z ORLEN Zastalem Zielona Góra (78:70), zdobywając Mistrzostwo Polski. Brak Matthiasa Tassa w składzie Legii i długoterminowa kontuzja Sagaby Konate w Zastalu były istotne, ale Legia, jako faworyt, potwierdziła swoją wyższość.
+*   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim, które byłyby zgłoszone w kontekście finału na dzień 21.06.2026. Skład Legii na sezon 2025/2026 obejmował m.in. Dominic Brewton III, Andrzej Pluta, Jayvon Graves, Shane Hunter, Michał Kolenda, Maksymilian Wilczek, Ojars Silins, Carl Ponsar, Błażej Czapla, Wojciech Tomaszewski, Tytus Antoniuk, Krzysztof Antosik. Jerrick Harding, gracz Rytasu Wilno i przyszły reprezentant Polski, doznał makabrycznej kontuzji w meczu Ligi Mistrzów w październiku 2025 roku, jednak dotyczyła ona drużyny przeciwnej, a nie Legii.
+*   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim, które byłyby zgłoszone w kontekście finału na dzień 21.06.2026. Skład Zastalu na sezon 2025/2026 obejmował m.in. Chavaughn Lewis, Jakub Szumert, Andrzej Mazurczak, Patrick Cartier, Bartosz Chęciński, Phil Fayne, Conley Garrison, Miłosz Góreńczyk, Sagaba Konate, Jakub Kowacki, Miłosz Majewski, Filip Matczak, Jayvon Maughmer, Krzysztof Sulima, Dwight Allen Wilson III, Marcin Woroniecki. Przed finałami (na dzień 6 czerwca 2026) trener Zastalu wspominał o powrocie Phila Fayne'a, co sugeruje, że mógł być on wcześniej kontuzjowany lub nieobecny, ale na finał był dostępny.
+
+### 2. Aktualna forma top scorerów:
+
+*   **Legia Warszawa:**
+    *   W decydującym, siódmym meczu finału PLK (21.06.2026) przeciwko ORLEN Zastal Zielona Góra, czołowymi strzelcami Legii byli: Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt) oraz Dominic Brewton III (11 Pkt).
+    *   W całym sezonie 2025/2026, Dominic Brewton III był wiodącym strzelcem Legii ze średnią 14.5 Pkt/mecz. Andrzej Pluta notował średnio 13.4 Pkt/mecz, a Jayvon Graves 12.8 Pkt/mecz.
+    *   Legia Warszawa jako drużyna miała średnio 83.5 punktu na mecz w sezonie 2025/2026.
+*   **ORLEN Zastal Zielona Góra:**
+    *   W decydującym meczu finału (21.06.2026), czołowymi strzelcami Zastalu byli: Andrzej Mazurczak (10 Pkt), Jayvon Maughmer (10 Pkt) i Chavaughn Lewis (10 Pkt).
+    *   W sezonie 2025/2026, wiodącymi strzelcami Zastalu byli: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   ORLEN Zastal Zielona Góra jako drużyna miała średnio 83.5 punktu na mecz w sezonie 2025/2026.
+
+### 3. Werdykt:
+
+Mecz Legia Warszawa vs ORLEN Zastal Zielona Góra 21.06.2026 był siódmym, decydującym meczem finałowym, rozegranym w Warszawie. Legia Warszawa wygrała ten mecz i została mistrzem Polski. Gra na własnym parkiecie w decydującym spotkaniu oraz brak zgłoszonych kluczowych kontuzji w obu drużynach na dzień meczu czyniło typ na Legię Warszawa sensownym.
+
+[✅ ZATWIERDZONY]
