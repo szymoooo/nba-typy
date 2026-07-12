@@ -1,15 +1,20 @@
---- AUDYT PLK LIVE (2026-07-12 01:34 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-*   **Mecz:** Finał ORLEN Basket Ligi, Mecz nr 7.
-*   **Hala:** OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40, Warszawa.
+--- AUDYT PLK LIVE (2026-07-12 03:09 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+
+To był siódmy i decydujący mecz finałów ORLEN Basket Ligi sezonu 2025/2026. Mecz odbył się w Warszawie na Bemowie, na hali OSiR Warszawa Bemowo, będącej domowym obiektem Legii.
 
 1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda doznał drobnego urazu pod koniec sezonu 2025/2026, który uniemożliwił mu udział w zgrupowaniu kadry po zakończeniu rozgrywek, ale brak potwierdzonych informacji, że był niedostępny na ten konkretny mecz finałowy (2026-06-21).
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Przed finałami Zastal zmagał się z urazami, ale Phil Fayne wrócił do gry.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda nabawił się "drobnego urazu" pod koniec sezonu, co wyeliminowało go ze zgrupowania kadry po finałach. Jednakże, grał on w meczach finałowych nr 4 (7 pkt) i nr 6 (5 pkt), co sugeruje, że był dostępny i zdolny do gry w decydującym meczu. Informacje o kontuzjach niezwiązanych z sekcją koszykarską (np. Antonio Colak) zostały zignorowane.
 
-2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
-    *   **Legia Warszawa:** Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
-    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 Pkt).
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+    *   **ORLEN Zastal Zielona Góra:** W meczach finałowych liderzy wykazywali zmienną formę. Andrzej Mazurczak zdobył 21 punktów w meczu nr 4 i 15 punktów w meczu nr 6. Conley Garrison, po słabszym początku serii, poprawił się, zdobywając 16 punktów w meczu nr 4 i 17 punktów w meczu nr 6. Chavaughn Lewis był bohaterem meczu nr 1 i zdobył 18 punktów w meczu nr 6.
+    *   **Legia Warszawa:** Kluczowi strzelcy utrzymywali wysoką formę. Andrzej Pluta Jr. został uznany MVP sezonu 2025/2026 oraz MVP finałów, co świadczy o jego znakomitej dyspozycji. W meczu nr 4, Carl Ponsar zdobył 17 punktów, Andrzej Pluta 14, a Dominic Brewton 12. W meczu nr 6, Carl Ponsar miał 15 punktów, Dominic Brewton 14, Ojars Silins 12, a Andrzej Pluta 11.
 
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Legia Warszawa wygrała ten decydujący mecz finałowy 78:70, zdobywając Mistrzostwo Polski 2025/2026. Mecz odbył się na własnym parkiecie Legii, co w decydującym spotkaniu serii play-off jest istotnym atutem. Brak potwierdzonych kluczowych absencji, które znacząco wpłynęłyby na wynik.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz nr 7 finałów, odbywający się na własnym parkiecie Legii Warszawa, stanowił dużą przewagę dla gospodarzy.
+    *   Legia Warszawa była obrońcą tytułu i najlepszą drużyną sezonu zasadniczego.
+    *   Brak kluczowych, potwierdzonych braków w składach obu drużyn na ten decydujący mecz.
+    *   Forma liderów Legii, a zwłaszcza status MVP dla Andrzeja Pluty Jr., wskazywała na ich silną pozycję.
+    *   Legia Warszawa zwyciężyła w tym meczu 78:70, zdobywając mistrzostwo Polski.
