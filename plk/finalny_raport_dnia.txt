@@ -1,20 +1,24 @@
---- AUDYT PLK LIVE (2026-07-12 03:09 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-07-12 09:48 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21, audyt na dzień 2026-07-12):
 
-To był siódmy i decydujący mecz finałów ORLEN Basket Ligi sezonu 2025/2026. Mecz odbył się w Warszawie na Bemowie, na hali OSiR Warszawa Bemowo, będącej domowym obiektem Legii.
+1.  **Kluczowe braki w składach (stan na okolice 2026-06-21):**
+    *   **Legia Warszawa**:
+        *   Michał Kolenda: dołączył do kadry reprezentacji Polski, ale musiał opuścić zgrupowanie z powodu drobnego urazu, którego nabawił się pod koniec sezonu 2025/2026. Kontuzja ta została zgłoszona 28 czerwca 2026 roku i sugeruje, że mógł być niedostępny lub ograniczony w grze 21 czerwca 2026 roku.
+    *   **ORLEN Zastal Zielona Góra**:
+        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-21. Klub generalnie zmagał się z urazami pod koniec sezonu, ale brak jest konkretnych nazwisk, których niedostępność na 21 czerwca 2026 roku byłaby potwierdzona. Informacja o Patricku Cartierze opuszczającym Zastal po sezonie 2025/2026 jest aktualna na wrzesień 2025 roku, ale nie dotyczy jego dostępności na mecz rozegrany w trakcie sezonu 2025/2026.
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda nabawił się "drobnego urazu" pod koniec sezonu, co wyeliminowało go ze zgrupowania kadry po finałach. Jednakże, grał on w meczach finałowych nr 4 (7 pkt) i nr 6 (5 pkt), co sugeruje, że był dostępny i zdolny do gry w decydującym meczu. Informacje o kontuzjach niezwiązanych z sekcją koszykarską (np. Antonio Colak) zostały zignorowane.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **Legia Warszawa**:
+        *   Dominic Brewton III (14.5 Pkt/mecz)
+        *   Andrzej Pluta (13.4 Pkt/mecz)
+        *   Jayvon Graves (12.8 Pkt/mecz)
+    *   **ORLEN Zastal Zielona Góra**:
+        *   Chavaughn Lewis (15.8 Pkt/mecz)
+        *   Jakub Szumert (13.2 Pkt/mecz)
+        *   Andrzej Mazurczak (11.8 Pkt/mecz)
+        *   W meczu około 15 czerwca 2026 roku, Andrzej Mazurczak i Conley Garrison zdobyli łącznie 37 punktów, co wskazuje na ich dobrą formę w końcówce sezonu.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-    *   **ORLEN Zastal Zielona Góra:** W meczach finałowych liderzy wykazywali zmienną formę. Andrzej Mazurczak zdobył 21 punktów w meczu nr 4 i 15 punktów w meczu nr 6. Conley Garrison, po słabszym początku serii, poprawił się, zdobywając 16 punktów w meczu nr 4 i 17 punktów w meczu nr 6. Chavaughn Lewis był bohaterem meczu nr 1 i zdobył 18 punktów w meczu nr 6.
-    *   **Legia Warszawa:** Kluczowi strzelcy utrzymywali wysoką formę. Andrzej Pluta Jr. został uznany MVP sezonu 2025/2026 oraz MVP finałów, co świadczy o jego znakomitej dyspozycji. W meczu nr 4, Carl Ponsar zdobył 17 punktów, Andrzej Pluta 14, a Dominic Brewton 12. W meczu nr 6, Carl Ponsar miał 15 punktów, Dominic Brewton 14, Ojars Silins 12, a Andrzej Pluta 11.
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz nr 7 finałów, odbywający się na własnym parkiecie Legii Warszawa, stanowił dużą przewagę dla gospodarzy.
-    *   Legia Warszawa była obrońcą tytułu i najlepszą drużyną sezonu zasadniczego.
-    *   Brak kluczowych, potwierdzonych braków w składach obu drużyn na ten decydujący mecz.
-    *   Forma liderów Legii, a zwłaszcza status MVP dla Andrzeja Pluty Jr., wskazywała na ich silną pozycję.
-    *   Legia Warszawa zwyciężyła w tym meczu 78:70, zdobywając mistrzostwo Polski.
+3.  **Werdykt**: ⚠️ RYZYKOWNY
+    *   Mecz miał miejsce w decydującej fazie sezonu (finały PLK), gdzie Zastal, po zwycięstwie nad Legią około 15 czerwca, "wrócił do gry o mistrzostwo Polski". To wskazuje na zaciętą rywalizację i dobrą formę Zastalu.
+    *   Potencjalna absencja lub ograniczenie kluczowego gracza Legii, Michała Kolendy, mogła wpłynąć na wynik meczu.
+    *   W kontekście wyrównanej serii playoff i znanej dobrej formy Zastalu w tym okresie, typowanie Legii jako pewniaka jest ryzykowne, zwłaszcza przy niepełnym składzie.
