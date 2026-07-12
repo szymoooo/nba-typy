@@ -1,18 +1,23 @@
---- AUDYT PLK LIVE (2026-07-12 11:48 CET) ---
-Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa
-Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-12 17:02 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
 1.  **Kluczowe braki w składach (2026-06-21):**
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień meczu. Michał Kolenda, który w grudniu 2025 miał dłuższą przerwę z powodu kontuzji, grał już 15 czerwca 2026 w 4. meczu finałów.
-    *   **ORLEN Zastal Zielona Góra:** 🤕 Sagaba Konate był wyłączony z gry do końca sezonu 2025/2026 z powodu kontuzji dłoni, której doznał w lutym 2026.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Mimo wcześniejszych problemów zdrowotnych, Race Thompson zagrał w tym meczu, zdobywając 11 punktów.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Chociaż na początku czerwca zgłaszano ogólne "walki z urazami", Phil Fayne powrócił do składu, a dla tego konkretnego meczu nie ma informacji o kluczowych absencjach.
 
-2.  **Aktualna forma top scorerów (mecz 21.06.2026):**
-    *   **Legia Warszawa:** Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
-    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 Pkt).
-    *   Brak danych z API dla tego zespołu na temat formy top scorerów w serii.
+2.  **Aktualna forma top scorerów (sezon 2025/2026 i mecz 2026-06-21):**
+    *   **Legia Warszawa (sezon 2025/2026):**
+        *   Dominic Brewton III: 14.5 Pkt/mecz
+        *   Andrzej Pluta: 13.4 Pkt/mecz
+        *   Jayvon Graves: 12.8 Pkt/mecz
+        *   **W meczu 2026-06-21:** Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
+    *   **ORLEN Zastal Zielona Góra (sezon 2025/2026):**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz
+        *   Jakub Szumert: 13.2 Pkt/mecz
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz
+        *   **W meczu 2026-06-21:** Andrzej Mazurczak (10 Pkt).
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku w Hali OSiR Bemowo w Warszawie i był 7. decydującym spotkaniem finałowym PLK.
-    *   Legia Warszawa grała na własnym parkiecie.
-    *   ORLEN Zastal Zielona Góra osłabiony był brakiem Sagaby Konate, który zakończył sezon w lutym 2026.
-    *   Zaletą Legii był brak kluczowych kontuzji i przewaga własnego parkietu w decydującym meczu serii finałowej.
+    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowym PLK sezonu 2025/2026.
+    *   Legia Warszawa grała u siebie (OSiR Bemowo, Warszawa) i zwyciężyła 78:70, zdobywając Mistrzostwo Polski.
+    *   Brak potwierdzonych kluczowych absencji, które znacząco wpłynęłyby na wynik tego decydującego meczu.
