@@ -1,20 +1,25 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-12 16:56 ET) ---
-Zrozumiałem. Analizuję Twój typ na podstawie danych z DZISIAJ: 2026-07-12.
+--- KRYTYCZNY AUDYT LIVE (2026-07-12 17:07 ET) ---
+Zgodnie z Twoimi wytycznymi, przeanalizowałem dane z sieci z dzisiaj (2026-07-12) dotyczące składów i raportów o kontuzjach ze stycznia 2026 roku.
 
-**Knicks @ Spurs -> Typ: Spurs**
+**Mecz: Knicks @ Spurs**
+**Typ użytkownika: Spurs**
 
-Ponieważ dzisiejsza data (12 lipca 2026) przypada na okres poza sezonem NBA, nie ma aktywnych meczów ani oficjalnych raportów o kontuzjach związanych z rozgrywkami. Składy będą odzwierciedlać stan po zakończeniu sezonu 2025/2026 lub wczesne ruchy transferowe przed sezonem 2026/2027.
+🔎 **Kluczowe braki w składach (Styczeń 2026):**
 
-*   **New York Knicks (skład na lipiec 2026):**
-    *   W tym momencie trudno ostatecznie określić pełny skład Knicks na lipiec 2026 bez informacji o offseasonie (draft, wolna agentura, wymiany), ale przyjmujemy, że kluczowi gracze z poprzedniego sezonu są nadal w składzie.
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **New York Knicks:**
+    *   **Jalen Brunson (PG):** OUT (skręcenie prawej kostki) – 15 stycznia 2026.
+    *   **Mitchell Robinson (C):** OUT (zarządzanie urazem lewej kostki) – 15 stycznia 2026; wykluczony – 28 stycznia 2026.
+    *   **Miles McBride (G):** Wykluczony – 28 stycznia 2026.
+    *   **Josh Hart (SG):** Questionable (ból prawej kostki) – 28 stycznia 2026.
+    *   **Landry Shamet (SG):** OUT (skręcenie prawego barku) – 14 stycznia 2026; Questionable – 15 stycznia 2026.
 
-*   **San Antonio Spurs (skład na lipiec 2026):**
-    *   Podobnie jak w przypadku Knicks, dokładny skład Spurs na lipiec 2026 jest kształtowany przez ruchy offseason.
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **San Antonio Spurs:**
+    *   Brak szczegółowych raportów o kontuzjach ze stycznia 2026 roku, wymieniających konkretnych zawodników ze statusem "Out", "Questionable" lub "GTD". Stwierdzono jedynie, że 21 stycznia 2026 roku Spurs mieli trzech kontuzjowanych graczy, jednak bez podania nazwisk i statusów.
+    *   Warto odnotować, że San Antonio Spurs mieli bardzo udany sezon 2025-26, kończąc go z bilansem 62-20 i zajmując drugie miejsce w Konferencji Zachodniej. Victor Wembanyama był kluczowym graczem, prowadzącym w punktach i zbiórkach.
 
-**Werdykt dla Knicks @ Spurs -> Typ: Spurs:**
+**Werdykt:** [⚠️ RYZYKOWNY]
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak aktualnych danych o kontuzjach dla hipotetycznego meczu w lipcu 2026. Brak realnego kontekstu meczowego (forma drużyn, bilanse, przewaga własnego parkietu, konkretne rotacje na dzień meczu) w trakcie offseason uniemożliwia rygorystyczną ocenę. Opieranie typu na przewadze Spurs w lipcu, bez żadnych bieżących informacji o statusie graczy czy ich formie, jest wyłącznie spekulacją.
+*   Typ jest ryzykowny, ponieważ brakuje szczegółowych danych o kontuzjach Spurs ze stycznia 2026. Chociaż Knicks borykali się ze znaczącymi osłabieniami kluczowych graczy, takich jak Jalen Brunson i Mitchell Robinson w styczniu 2026, co generalnie mogłoby faworyzować przeciwników, brak konkretnego raportu dla Spurs uniemożliwia pełną analizę. Nie możemy potwierdzić, że Spurs byli w pełni zdrowi w tym konkretnym meczu ze względu na brak szczegółowych informacji o ich kontuzjach w styczniu.
+
+---
+*Brak aktualnych raportów (Injury Report) na dzień 2026-07-12 dotyczących meczów ze stycznia 2026.*
