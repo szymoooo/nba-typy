@@ -1,36 +1,22 @@
---- AUDYT PLK LIVE (2026-07-12 18:13 CET) ---
-Analiza meczu PLK z dnia 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-12 19:29 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21):
 
-### ORLEN Zastal Zielona Góra
-
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
-    *   Według dostępnych informacji, na dzień 2026-07-12, Conley Garrison podpisał kontrakt z ORLEN Zastalem na sezon 2026/27, co świadczy o jego dostępności. Andrzej Mazurczak również pozostaje kluczowym zawodnikiem i jest zabezpieczony na obwodzie. Filip Matczak grał z kontuzją nosa (w masce) w połowie czerwca 2026, ale kontynuował grę w finałach, co sugeruje jego dostępność do gry w tym okresie.
-    *   Brak istotnych, aktualnych (na 2026-07-12) doniesień o kontuzjach czy zawieszeniach koszykarzy ORLEN Zastalu Zielona Góra. Trazarien White dołączył do drużyny 8 lipca 2026 roku, podpisując kontrakt do końca sezonu 2026/27, co oznacza, że byłby dostępny na przyszłe mecze, ale nie na ten konkretny z 21 czerwca 2026. Patrick Cartier odszedł z Zastalu Zielona Góra po świetnym sezonie.
-    *   **Werdykt braków:** Brak istotnych braków w składzie koszykarskim na dzień 2026-07-12, choć Patrick Cartier odszedł z klubu po sezonie.
-
-2.  **Aktualna forma top scorerów:**
-    *   Chavaughn Lewis był top scorerem ORLEN Zastalu w sezonie 2025/2026 ze średnią 15.8 Pkt/mecz. Jakub Szumert miał średnio 13.2 Pkt/mecz, a Andrzej Mazurczak 11.8 Pkt/mecz.
-    *   Conley Garrison był "niezwykle ważnym zawodnikiem" w minionych rozgrywkach (2025/2026), notując średnio 10,9 punktu, 3,8 zbiórki i 5,2 asysty w 44 meczach. W połowie czerwca 2026, był kluczowy dla rywalizacji z Legią.
-    *   **Werdykt formy:** Dobra forma kluczowych zawodników, zwłaszcza Garrisona, Lewisa, Szumerta i Mazurczaka, w sezonie 2025/2026 i w finałach.
-
-### Legia Warszawa
-
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
-    *   Z Legii Warszawa odeszli Andrzej Pluta (wybrał ligę hiszpańską) i Carl Ponsar (wrócił do Francji). Maksymilian Wilczek również opuścił klub, szukając większej roli w innej drużynie. Matthias Tass również przeniósł się do PGE Start Lublin. Te odejścia dotyczą sezonu 2026/2027 i późniejszych, ale ci zawodnicy nie byliby w składzie Legii w lipcu 2026.
-    *   Na dzień 2026-07-12, Legia Warszawa dokonała kilku transferów: Szymon Tomczak dołączył do zespołu, Jakub Andrzejewski również, a Michal Ševčík został wypożyczony (piłkarz, pominięty zgodnie z zasadami). Ben Shungu podpisał kontrakt z Legią Warszawa przed rozpoczęciem sezonu 2025/2026.
-    *   Należy **ignorować** informacje o kontuzjach piłkarzy (np. Antonio Colak, Zoran Arsenić, Wojtek Urbański, Michał Ševčík), ponieważ dotyczy to sekcji piłkarskiej.
-    *   **Werdykt braków:** Legia Warszawa przeszła zmiany kadrowe po sezonie 2025/2026, tracąc Andrzeja Plutę, Carla Ponsara, Maksymiliana Wilczka i Matthiasa Tassa, ale pozyskując nowych zawodników. Na dzień 2026-07-12 brak istotnych, bieżących kontuzji koszykarzy.
+1.  **Kluczowe braki w składach koszykarskich:**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   **Sagaba Konate** – wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji więzadła nadgarstka, której doznał w lutym 2026 roku.
+        *   **Filip Matczak** – odczuwał dolegliwości związane ze starym urazem w okolicy 6 czerwca 2026 roku, co stawiało pod znakiem zapytania jego pełną dyspozycję na mecz 21 czerwca.
+        *   **Jakub Szumert** – był kontuzjowany i nie wystąpił w Pucharze Polski w lutym 2026 roku. Brak potwierdzonych informacji o jego powrocie przed 21 czerwca 2026 roku.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach dotyczące Antonio Colaka czy Wahana Biczachczjana dotyczą sekcji piłkarskiej Legii Warszawa i nie są istotne dla meczu koszykówki.
 
 2.  **Aktualna forma top scorerów:**
-    *   Top scorerami Legii Warszawa w sezonie 2025/2026 byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). Andrzej Pluta, jako MVP rundy zasadniczej i finałów Orlen Basket Ligi w tym sezonie, był kluczowym graczem, ale opuścił klub po sezonie.
-    *   **Werdykt formy:** Dominująca forma Andrzeja Pluty w sezonie 2025/2026, jednak nie jest już w składzie Legii.
+    *   Brak danych z API dla tego zespołu dotyczących formy top strzelców w serii.
+    *   Zgodnie ze statystykami z sezonu 2025/2026, czołowymi strzelcami byli:
+        *   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
+        *   **Legia Warszawa:** Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
+    *   W meczu z 15 czerwca 2026 roku, Andrzej Mazurczak i Conley Garrison z Zastalu znacząco poprawili swoją skuteczność, zdobywając łącznie 37 punktów, natomiast dla Legii wyróżnił się Carl Ponsar (17 pkt).
 
-### Werdykt dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa:
-Mecz odbył się 21.06.2026, a Legia Warszawa wygrała 78:70. ORLEN Zastal Zielona Góra oraz Legia Warszawa były finalistami Superpucharu Polski, co świadczy o wysokiej klasie obu drużyn w sezonie 2025/2026. Analiza opiera się na informacjach o składach i kontuzjach dostępnych na dzień 2026-07-12, zgodnie z instrukcjami.
+3.  **Werdykt:**
+    Mecz z 21 czerwca 2026 roku był 7. i decydującym spotkaniem finałów PLK sezonu 2025/2026. Legia Warszawa wygrała ten mecz 78:70 i zdobyła mistrzostwo Polski. Biorąc pod uwagę liczne braki kadrowe w zespole Zastalu (Konate wykluczony na sezon, wątpliwości wokół Matczaka i Szumerta) oraz fakt, że Legia grała u siebie w decydującym meczu serii, tip na Legię Warszawa był solidny.
 
-*   **ORLEN Zastal Zielona Góra:** Skład zasadniczo stabilny, kluczowi zawodnicy z sezonu 2025/2026 pozostają.
-*   **Legia Warszawa:** Zmiany kadrowe po sezonie 2025/2026, zwłaszcza odejście tak kluczowych graczy jak Pluta, Ponsar, Wilczek i Tass, wpływają na *przyszłą* siłę składu. Jednak na dzień 2026-07-12 nie ma doniesień o bieżących kontuzjach koszykarzy.
-
-Typ "Legia Warszawa" na mecz z 2026-06-21, bazując na ówczesnej formie i składach (przed odejściem kluczowych graczy), wydaje się uzasadniony. Sam mecz zakończył się zwycięstwem Legii 78:70.
-
-**Werdykt:** ✅ ZATWIERDZONY (Analiza retrospektywna, uwzględniająca datę meczu 21.06.2026 i dostępne informacje o składach na ten okres, oraz aktualny status drużyn na 12.07.2026).
+    ✅ **ZATWIERDZONY**

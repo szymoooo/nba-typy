@@ -1,22 +1,12 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-12 12:13 ET) ---
-Oto analiza Twojego typu na podstawie danych ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-12 13:28 ET) ---
+Analiza meczu: Knicks @ Spurs
+Typ: Spurs
 
-**Knicks @ Spurs -> Typ: Spurs**
+Dzisiejsza data (2026-07-12) to okres poza sezonem NBA, co wpływa na dostępność aktualnych raportów o statusie graczy (Out, Questionable, GTD) dla hipotetycznego meczu. Zgodnie z zasadami, ignorowane są dane z lat 2024, 2025, a kontekst meczu dotyczy stycznia 2026.
 
-*   **Kluczowe braki w składach (styczeń 2026):**
-    *   **New York Knicks:**
-        *   Jalen Brunson: Questionable (kostka).
-        *   Josh Hart: Out/Questionable (kostka).
-        *   Mitchell Robinson: Questionable (kostka)/Injury Management.
-        *   Landry Shamet: Out (ramię).
-        *   Trey Jemison III: Out (przypisanie do G League).
-    *   **San Antonio Spurs:**
-        *   Devin Vassell: Out (naciągnięcie przywodziciela).
-        *   Jeremy Sochan: Questionable (dla meczu 22 stycznia).
-        *   Luke Kornet: Questionable (dla meczu 22 stycznia).
-        *   Victor Wembanyama był zdrowy i aktywny na boisku (stan na 22 stycznia).
+*   **Kluczowe braki w składach:**
+    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę. W lipcu 2026 roku nie ma aktywnych, meczowych statusów kontuzji (Out, Questionable, GTD) dla graczy, którzy byli w składzie Knicks w styczniu 2026 roku. Niektórzy gracze (np. Mitchell Robinson, OG Anunoby, Josh Hart) mieli kontuzje pod koniec sezonu 2025-26, ale na dzień 12 lipca 2026 roku brak jest potwierdzonych informacji o ich statusie meczowym.
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę. Na dzień 12 lipca 2026 roku nie ma aktywnych, meczowych statusów kontuzji (Out, Questionable, GTD) dla graczy, którzy byli w składzie Spurs w styczniu 2026 roku. Choć Jayden Quaintance (wybrany w drafcie 2026) ma długoterminową kontuzję (zerwanie ACL i łąkotki), nie był on w składzie Spurs w styczniu 2026 roku.
 
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Potencjalne znaczące braki w składzie Knicks, w tym kluczowi gracze tacy jak Jalen Brunson i Josh Hart, osłabiają ich ofensywę. Spurs, mimo braku Devina Vassella, mają zdrowego Victora Wembanyamę i solidny skład, co czyni ich faworytem, zwłaszcza w obliczu osłabień przeciwnika.
-
-*   **Brak aktualnych raportów (Injury Report) na tę chwilę.** ❌ (Odnosząc się do 12 lipca 2026 r., poza sezonem NBA nie ma aktywnych raportów o kontuzjach dla regularnych meczów).
+    *   Biorąc pod uwagę, że na dzień 12 lipca 2026 roku brak jest jakichkolwiek aktualnych raportów o kontuzjach (Injury Report) w formacie "Out", "Questionable" lub "GTD" dla kluczowych graczy obu drużyn, którzy byli w składach w styczniu 2026 roku, z perspektywy informacji o urazach nie ma czynników ryzyka, które mogłyby podważyć typ. Typ jest zatwierdzony na podstawie braku negatywnych informacji o kontuzjach.
