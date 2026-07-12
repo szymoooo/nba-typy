@@ -1,24 +1,39 @@
---- AUDYT PLK LIVE (2026-07-12 09:48 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21, audyt na dzień 2026-07-12):
+--- AUDYT PLK LIVE (2026-07-12 11:45 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-1.  **Kluczowe braki w składach (stan na okolice 2026-06-21):**
-    *   **Legia Warszawa**:
-        *   Michał Kolenda: dołączył do kadry reprezentacji Polski, ale musiał opuścić zgrupowanie z powodu drobnego urazu, którego nabawił się pod koniec sezonu 2025/2026. Kontuzja ta została zgłoszona 28 czerwca 2026 roku i sugeruje, że mógł być niedostępny lub ograniczony w grze 21 czerwca 2026 roku.
-    *   **ORLEN Zastal Zielona Góra**:
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-21. Klub generalnie zmagał się z urazami pod koniec sezonu, ale brak jest konkretnych nazwisk, których niedostępność na 21 czerwca 2026 roku byłaby potwierdzona. Informacja o Patricku Cartierze opuszczającym Zastal po sezonie 2025/2026 jest aktualna na wrzesień 2025 roku, ale nie dotyczy jego dostępności na mecz rozegrany w trakcie sezonu 2025/2026.
+Dzisiejsza data: 2026-07-12. Analiza dotyczy historycznego meczu z dnia 2026-06-21.
+
+---
+
+**Mecz:** ORLEN Zastal Zielona Góra @ Legia Warszawa
+**Typ z PulsBasketu:** Legia Warszawa
+
+---
+
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   ❌ Sagaba Konate (silny skrzydłowy/środkowy): Potwierdzona kontuzja dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka) zakończyła jego sezon już 28 lutego 2026 roku.
+        *   ❓ Filip Matczak: Miał kontuzję w lutym 2026, status na mecz 21.06.2026 niepotwierdzony jako powrót.
+        *   ✅ Jakub Szumert: Mimo kontuzji w lutym 2026, występował jako jeden z czołowych strzelców w serii ćwierćfinałowej w maju 2026, co sugeruje powrót do pełnej sprawności przed finałami.
+        *   ✅ Phil Fayne: Według informacji z 6 czerwca 2026 roku, powrócił do składu po kontuzji.
+    *   **Legia Warszawa:**
+        *   Kontuzje Michała Kolendy, Matthiasa Tassa i Ojārs Siliņša były zgłaszane w grudniu 2025 roku jako długoterminowe. Jednakże, brak jest aktualnych informacji z czerwca 2026 roku potwierdzających ich niedostępność na finałowy mecz. Biorąc pod uwagę fakt zdobycia mistrzostwa, zakłada się, że kluczowi gracze byli dostępni lub zespół skutecznie radził sobie z ewentualnymi brakami. Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień meczu.
 
 2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **Legia Warszawa**:
-        *   Dominic Brewton III (14.5 Pkt/mecz)
-        *   Andrzej Pluta (13.4 Pkt/mecz)
-        *   Jayvon Graves (12.8 Pkt/mecz)
-    *   **ORLEN Zastal Zielona Góra**:
-        *   Chavaughn Lewis (15.8 Pkt/mecz)
-        *   Jakub Szumert (13.2 Pkt/mecz)
-        *   Andrzej Mazurczak (11.8 Pkt/mecz)
-        *   W meczu około 15 czerwca 2026 roku, Andrzej Mazurczak i Conley Garrison zdobyli łącznie 37 punktów, co wskazuje na ich dobrą formę w końcówce sezonu.
+    *   **Legia Warszawa:**
+        *   Dominic Brewton III: Średnio 14.5 Pkt/mecz. W meczu 3. finału (13.06.2026) zdobył 13 punktów.
+        *   Andrzej Pluta: Średnio 13.4 Pkt/mecz.
+        *   Jayvon Graves: Średnio 12.8 Pkt/mecz.
+        *   Carl Ponsar: W meczu 3. finału (13.06.2026) był top scorerem Legii z 22 punktami.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: Średnio 15.8 Pkt/mecz. W meczu 3. finału (13.06.2026) zdobył 14 punktów.
+        *   Jakub Szumert: Średnio 13.2 Pkt/mecz.
+        *   Andrzej Mazurczak: Średnio 11.8 Pkt/mecz.
+        *   Patrick Cartier: W meczu 3. finału (13.06.2026) zdobył 13 punktów.
+        *   Jayvon Maughmer: W meczu 3. finału (13.06.2026) zdobył 12 punktów.
 
-3.  **Werdykt**: ⚠️ RYZYKOWNY
-    *   Mecz miał miejsce w decydującej fazie sezonu (finały PLK), gdzie Zastal, po zwycięstwie nad Legią około 15 czerwca, "wrócił do gry o mistrzostwo Polski". To wskazuje na zaciętą rywalizację i dobrą formę Zastalu.
-    *   Potencjalna absencja lub ograniczenie kluczowego gracza Legii, Michała Kolendy, mogła wpłynąć na wynik meczu.
-    *   W kontekście wyrównanej serii playoff i znanej dobrej formy Zastalu w tym okresie, typowanie Legii jako pewniaka jest ryzykowne, zwłaszcza przy niepełnym składzie.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz 21 czerwca 2026 roku był 7. i decydującym spotkaniem finałowej serii PLK sezonu 2025/2026.
+    *   Legia Warszawa grała u siebie i ostatecznie wygrała ten mecz 78-70, zdobywając Mistrzostwo Polski w sezonie 2025/2026.
+    *   Znaczącym osłabieniem Zastalu była nieobecność Sagaby Konate na cały sezon.
+    *   Przewaga własnego parkietu w decydującym meczu finału, połączona z potwierdzonymi osłabieniami Zastalu i ostatecznym wynikiem, potwierdza słuszność typu na Legię Warszawa.
