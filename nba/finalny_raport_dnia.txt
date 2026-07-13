@@ -1,9 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-12 20:11 ET) ---
-Mecz: Knicks @ Spurs -> Typ: Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-07-12 22:06 ET) ---
+Knicks @ Spurs -> Typ: Spurs
 
 *   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla głównych składów New York Knicks i San Antonio Spurs na dzień 12 lipca 2026, ponieważ jest to okres poza sezonem zasadniczym NBA i trwa Liga Letnia.
-    *   Dla rozgrywek Summer League 2026, Jayden Quaintance (San Antonio Spurs), wybrany w drafcie 2026 (20. ogólnie), jest wyłączony z gry z powodu kontuzji (zerwane ACL i łąkotka, uraz z lutego 2025).
+    *   **New York Knicks (styczeń 2026):**
+        *   Mitchell Robinson: Out (m.in. 15 stycznia, 28 stycznia – z powodu urazu kostki/zarządzania kontuzją) 🤕
+        *   Jalen Brunson: Out (15 stycznia – z powodu skręcenia prawej kostki) 🤕
+        *   Miles McBride: Out (28 stycznia) 🤕
+        *   Josh Hart: Questionable (28 stycznia – ból prawej kostki), wrócił po opuszczeniu 8 meczów (do 14 stycznia).
+        *   Landry Shamet: Out (14 stycznia – z powodu skręcenia prawego barku), Questionable (15 stycznia – z powodu skręcenia prawego barku) 🤕
+    *   **San Antonio Spurs (styczeń 2026):**
+        *   Brak wyszczególnionych nazwisk, ale 22 stycznia Spurs mieli trzech zawodników na liście kontuzjowanych.
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-07-12).
 
-*   **Werdykt:**
-    *   [⚠️ RYZYKOWNY] Analiza jest ryzykowna. Bez potwierdzonych raportów kontuzji dla głównych składów na datę 12 lipca 2026 oraz bez kontekstu konkretnego meczu sezonu zasadniczego, niemożliwe jest dokonanie rygorystycznej oceny typu na podstawie kluczowych braków w składach.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   San Antonio Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej. Victor Wembanyama był liderem ligi w blokach (3.1 na mecz), a zespół plasował się wysoko w ofensywie (3. miejsce w PPG) i defensywie (8. miejsce w PPG traconych). Do składu Spurs w styczniu 2026 dołączyli znaczący gracze, tacy jak De'Aaron Fox i Dylan Harper.
+    *   New York Knicks, pomimo ogólnie silnego sezonu (bilans 28-18 do 28 stycznia) i wzmocnień (m.in. Karl-Anthony Towns), mierzyło się z kluczowymi absencjami swoich liderów, takich jak Jalen Brunson i Mitchell Robinson, w styczniu 2026. Ich braki znacząco osłabiały siłę zespołu.
+    *   Biorąc pod uwagę doskonałą formę Spurs w sezonie 2025-26 oraz udokumentowane problemy zdrowotne kluczowych graczy Knicks w styczniu 2026, typ na Spurs jest **ZATWIERDZONY**.

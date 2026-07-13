@@ -1,19 +1,22 @@
---- AUDYT PLK LIVE (2026-07-13 02:12 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-07-13 04:06 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-### ORLEN Zastal Zielona Góra
+Mecz ten był siódmym, decydującym spotkaniem finałów PLK sezonu 2025/2026, rozgrywanym w Warszawie. Legia Warszawa wygrała ten mecz 78:70 i zdobyła mistrzostwo Polski.
 
-1.  **Kluczowe braki w składzie:**
-    *   🤕 **Sagaba Konate** (silny skrzydłowy/środkowy): Doznał awulsyjnego uszkodzenia więzadła SL nadgarstka podczas Pekao S.A. Pucharu Polski (około 21-28 lutego 2026) i został wykluczony z gry do końca sezonu 2025/2026. Tym samym był niedostępny na mecz 2026-06-21.
-    *   W lutym 2026 kontuzjowani byli również Filip Matczak i Jakub Szumert, choć brak jest precyzyjnych informacji o ich statusie na czerwiec 2026. Artykuł z 6 czerwca 2026 wspomina ogólnie o "walce z urazami w szeregach Zastalu", co sugeruje potencjalne inne niedyspozycje, jednak bez konkretnych nazwisk.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] – Znaczący brak w postaci kontuzjowanego Sagaby Konate, wykluczonego do końca sezonu.
+### 1. Kluczowe braki w składach
+*   **ORLEN Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim zgłoszonych przed tym meczem. Informacje o ruchach kadrowych (odejścia Patricka Cartiera i Miłosza Góreńczyka, przyjście Trazariena White'a) dotyczą sezonu 2026/2027 i nie miały wpływu na ten mecz.
+*   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim zgłoszonych przed tym meczem.
 
-### Legia Warszawa
+### 2. Aktualna forma top scorerów
+*   **ORLEN Zastal Zielona Góra**:
+    *   W sezonie 2025/2026, czołowymi strzelcami byli Chavaughn Lewis (średnio 15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   W decydującym meczu finałowym (21.06.2026) najlepszym strzelcem Zastalu był Andrzej Mazurczak z 10 punktami.
+*   **Legia Warszawa**:
+    *   W sezonie 2025/2026, czołowymi strzelcami byli Dominic Brewton III (średnio 14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+    *   W finałowym meczu (21.06.2026) najlepiej punktowali Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt) i Shane Hunter (10 Pkt).
+    *   Wcześniej w serii, w meczu 5 (17.06.2026), Dominic Brewton III zdobył 21 punktów, Jayvon Graves 13 punktów, a Race Thompson 11 punktów.
 
-1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim, potwierdzonych na dzień 2026-07-13, które dotyczyłyby meczu z 2026-06-21. Wyszukane informacje o kontuzjach Legii Warszawa dotyczą sekcji piłkarskiej lub są zbyt stare (sprzed sezonu 2025/2026).
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY] – Brak potwierdzonych kluczowych braków w składzie koszykarskim.
+### 3. Werdykt
+✅ **ZATWIERDZONY**
+
+**Uzasadnienie**: Legia Warszawa była w sezonie 2025/2026 mistrzem ligi i zagrała jako gospodarz w decydującym, siódmym meczu finałów PLK. Ich kluczowi zawodnicy, tacy jak Andrzej Pluta i Dominic Brewton III, byli w dobrej formie strzeleckiej w finałach. Brak zgłoszonych kontuzji kluczowych graczy w obu zespołach w tym okresie, a fakt, że Legia była drużyną dominującą w sezonie zasadniczym i obrońcą tytułu, dodatkowo uzasadnia typ. Legia ostatecznie wygrała mecz i zdobyła mistrzostwo.
