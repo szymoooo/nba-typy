@@ -1,19 +1,37 @@
---- AUDYT PLK LIVE (2026-07-13 20:22 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa
-Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-13 20:27 CET) ---
+---
+**Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)**
 
-📅 Mecz analizowany: 2026-06-21 (finał PLK 2025/2026, 7. mecz serii)
-🗓️ Aktualna data analizy: 2026-07-13
+**Data analizy:** 2026-07-13
+**Mecz przewidywany na:** 2026-06-21 (Audyt typu na ten mecz)
 
 ---
 
-1.  **Kluczowe braki w składach (stan na 2026-07-13, z uwzględnieniem sezonu 2025/2026):**
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim, które wpłynęłyby na ten mecz. Race Thompson, który we wrześniu 2025 roku zmagał się z kontuzją wykluczającą go na kilka tygodni, wrócił do składu i grał w serii finałowej. Informacje o kontuzjach piłkarzy (np. Antonio Colak) są nieistotne.
-    *   **ORLEN Zastal Zielona Góra:** 🤕 **Sagaba Konate** (silny skrzydłowy/środkowy) był wykluczony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026 roku. Był to znaczący brak w rotacji Zastalu w kluczowej fazie sezonu.
+**ORLEN Zastal Zielona Góra**
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026 i finały):**
-    *   **Legia Warszawa:** Zespół Legii Warszawa zakończył sezon zasadniczy na pierwszym miejscu w tabeli z bilansem 22 zwycięstw i 8 porażek. Mistrzostwo Polski w sezonie 2025/2026 obroniła Legia Warszawa. MVP sezonu i MVP finałów został **Andrzej Pluta Jr.** Inni czołowi strzelcy w sezonie 2025/2026 to Dominic Brewton III (śr. 14.5 Pkt/mecz) i Jayvon Graves (śr. 12.8 Pkt/mecz). W szóstym meczu finału, Legię punktowo prowadzili Carl Ponsar (15 pkt), Dominic Brewton (14 pkt) i Ojars Silins (12 pkt).
-    *   **ORLEN Zastal Zielona Góra:** Zastal zakończył sezon zasadniczy na 8. miejscu z bilansem 16-14, ale dotarł aż do finału. W szóstym meczu finału, w Zastalu wyróżnili się Chavaughn Lewis (18 pkt), Conley Garrison (17 pkt) (który zdobył decydujące punkty rzutem za trzy) i Andrzej Mazurczak (15 pkt). Kapitan Filip Matczak również był ważną postacią, pomimo wcześniejszych problemów zdrowotnych. Zastal pokazał ogromną wolę walki i potrafił odradzić się w sezonie pomimo problemów organizacyjnych i kadrowych.
+1.  **Kluczowe braki w składzie (stan na 2026-07-13):**
+    *   Brak potwierdzonych informacji o kontuzjach lub zawieszeniach koszykarzy ORLEN Zastal Zielona Góra na dzień 13 lipca 2026 roku. W okresie posezonowym ruchy kadrowe są częste. Klub nie ogłosił znaczących braków w kadrze, które wpłynęłyby na hipotetyczny mecz rozgrywany dzisiaj.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa była liderem sezonu zasadniczego i ostatecznie zdobyła Mistrzostwo Polski pokonując Zastal 4-3 w serii finałowej, której Game 7 odbył się 21 czerwca 2026. Posiadali MVP sezonu i finałów (Andrzej Pluta Jr.) oraz przewagę własnego parkietu w decydującym meczu. Zastal, mimo heroicznej walki i dotarcia do finału z 8. miejsca, musiał radzić sobie bez kontuzjowanego Sagaby Konate. Typ na Legię Warszawa był trafny.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API PulsBasketu dla tego zespołu. Ze względu na okres międzysezonowy (lipiec 2026), bieżąca forma strzelecka poszczególnych zawodników jest trudna do oceny. Skład na sezon 2026/2027 jest w trakcie kompletowania.
+
+---
+
+**Legia Warszawa**
+
+1.  **Kluczowe braki w składzie (stan na 2026-07-13):**
+    *   Brak istotnych braków w składzie koszykarskim Legii Warszawa zgłoszonych na dzień 13 lipca 2026 roku. Podobnie jak w przypadku Zastalu, jest to okres posezonowy, charakteryzujący się transferami, a nie aktywną grą.
+
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API PulsBasketu dla tego zespołu. Ze względu na okres posezonowy, ocena bieżącej formy strzeleckiej jest utrudniona. Klub koncentruje się na budowaniu składu na nadchodzący sezon.
+
+---
+
+**Werdykt:**
+
+Biorąc pod uwagę, że analiza odbywa się 13 lipca 2026 r., a mecz miałby miejsce w okresie poza sezonem ligowym, trudno ocenić formę drużyn i poszczególnych zawodników. Brak konkretnych, potwierdzonych informacji o kontuzjach czy zawieszeniach dla obu zespołów. Przewaga własnego parkietu, istotna w fazie play-off, nie może być tu brana pod uwagę, gdyż nie jest to mecz play-off ani nie wskazano miejsca rozgrywania meczu w kontekście (mimo że Legia jest gospodarzem).
+
+Ze względu na brak aktualnych danych o formie strzeleckiej i potwierdzonych brakach kadrowych, które mogłyby wpłynąć na wynik hipotetycznego meczu, oraz fakt, że analiza dotyczy *audytu* typu z przeszłości w kontekście *obecnej* daty, werdykt jest następujący:
+
+**Werdykt: [⚠️ RYZYKOWNY]**
+*   Trudno zweryfikować trafność typu z 21.06.2026 na podstawie danych z 13.07.2026 ze względu na okres posezonowy i brak aktywnych rozgrywek. Informacje o składach i formie są nieaktualne w kontekście daty meczu.
