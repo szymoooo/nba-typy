@@ -1,12 +1,19 @@
---- AUDYT PLK LIVE (2026-07-12 22:57 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+--- AUDYT PLK LIVE (2026-07-13 02:12 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
 
-1.  **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026.
+### ORLEN Zastal Zielona Góra
 
+1.  **Kluczowe braki w składzie:**
+    *   🤕 **Sagaba Konate** (silny skrzydłowy/środkowy): Doznał awulsyjnego uszkodzenia więzadła SL nadgarstka podczas Pekao S.A. Pucharu Polski (około 21-28 lutego 2026) i został wykluczony z gry do końca sezonu 2025/2026. Tym samym był niedostępny na mecz 2026-06-21.
+    *   W lutym 2026 kontuzjowani byli również Filip Matczak i Jakub Szumert, choć brak jest precyzyjnych informacji o ich statusie na czerwiec 2026. Artykuł z 6 czerwca 2026 wspomina ogólnie o "walce z urazami w szeregach Zastalu", co sugeruje potencjalne inne niedyspozycje, jednak bez konkretnych nazwisk.
 2.  **Aktualna forma top scorerów:**
-    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu.
-    *   Legia Warszawa: Brak danych z API dla tego zespołu.
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] – Znaczący brak w postaci kontuzjowanego Sagaby Konate, wykluczonego do końca sezonu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+### Legia Warszawa
+
+1.  **Kluczowe braki w składzie:**
+    *   Brak istotnych braków w składzie koszykarskim, potwierdzonych na dzień 2026-07-13, które dotyczyłyby meczu z 2026-06-21. Wyszukane informacje o kontuzjach Legii Warszawa dotyczą sekcji piłkarskiej lub są zbyt stare (sprzed sezonu 2025/2026).
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [✅ ZATWIERDZONY] – Brak potwierdzonych kluczowych braków w składzie koszykarskim.
