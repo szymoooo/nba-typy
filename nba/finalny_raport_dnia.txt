@@ -1,11 +1,12 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-13 17:09 ET) ---
-Analiza meczu: Knicks @ Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-07-13 17:13 ET) ---
+Na podstawie danych z 2026-07-13:
 
-*   **Kluczowe braki w składach (stan na 2026-07-13):**
-    *   **New York Knicks:** Jalen Brunson (po operacji lewego nadgarstka, spodziewany powrót "późnym latem"). Brak aktualnych raportów (Injury Report) dla reszty składu na dzień 13 lipca 2026.
-    *   **San Antonio Spurs:** Jayden Quaintance (rekonwalescencja po problemach z kolanami). Brak aktualnych raportów (Injury Report) dla reszty składu na dzień 13 lipca 2026.
+**Knicks @ Spurs -> Typ: Spurs**
 
+*   **Kluczowe braki w składach:**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Poddany operacji nadgarstka (od 2026-07-07), powrót spodziewany później tego lata. 🩹
+    *   **San Antonio Spurs:**
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   W sezonie 2025-26 San Antonio Spurs zakończyli z lepszym bilansem (62-20) niż New York Knicks (53-29).
-    *   Biorąc pod uwagę aktualne doniesienia o kontuzjach na dzień 13 lipca 2026, brak MVP Finałów NBA, Jalena Brunsona, jest znaczącym osłabieniem dla Knicks. Kontuzja Jaydena Quaintance'a, choć zauważalna, ma mniejszy wpływ na ogólną siłę Spurs w porównaniu do absencji Brunsona dla Knicks.
-    *   Dlatego, pomimo że oryginalny typ dotyczył stycznia 2026, biorąc pod uwagę bieżące (2026-07-13) informacje o absencjach, typ na Spurs jest **ZATWIERDZONY**.
+    *   Bazując na składach ze stycznia 2026, oba zespoły dysponują silnymi graczami. Jednakże, obecność kontuzji kluczowego zawodnika Knicks (Jalen Brunson) w lipcu 2026, w połączeniu z brakiem zgłoszonych kontuzji w Spurs na dzień 2026-07-13, przechyla szalę na korzyść San Antonio.
