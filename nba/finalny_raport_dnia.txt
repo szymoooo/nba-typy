@@ -1,12 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-13 17:13 ET) ---
-Na podstawie danych z 2026-07-13:
+--- KRYTYCZNY AUDYT LIVE (2026-07-13 19:14 ET) ---
+Dzień dobry! Analizuję Twoje typy na podstawie danych ze stycznia 2026 roku.
 
-**Knicks @ Spurs -> Typ: Spurs**
+---
 
-*   **Kluczowe braki w składach:**
+**Mecz: Knicks @ Spurs**
+*   **Kluczowe braki w składach (Styczeń 2026):**
     *   **New York Knicks:**
-        *   Jalen Brunson: Poddany operacji nadgarstka (od 2026-07-07), powrót spodziewany później tego lata. 🩹
-    *   **San Antonio Spurs:**
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
+        *   Jalen Brunson: Out (Prawa kostka, skręcenie) / Questionable (Prawa kostka, skręcenie)
+        *   Mitchell Robinson: Out (Lewa kostka, zarządzanie urazem) / Questionable (Kostka)
+        *   Josh Hart: Out (Kostka) / Questionable (Prawa kostka, bolesność)
+        *   Landry Shamet: Questionable (Prawe ramię, skręcenie) / Out (Ramię)
+    *   **San Antonio Spurs:** Brak potwierdzonych nazwisk i statusów (Out, Questionable, GTD) kontuzjowanych zawodników na styczeń 2026. Raport z 21 stycznia 2026 r. wspomina o "trzech kontuzjowanych graczach", ale bez szczegółów. Brak aktualnych raportów (Injury Report) na tę chwilę dla konkretnych zawodników Spurs w styczniu 2026 r.
+
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Bazując na składach ze stycznia 2026, oba zespoły dysponują silnymi graczami. Jednakże, obecność kontuzji kluczowego zawodnika Knicks (Jalen Brunson) w lipcu 2026, w połączeniu z brakiem zgłoszonych kontuzji w Spurs na dzień 2026-07-13, przechyla szalę na korzyść San Antonio.
+    *   New York Knicks borykali się ze znacznymi brakami kadrowymi w styczniu 2026 roku, z kluczowymi graczami takimi jak Jalen Brunson, Mitchell Robinson i Josh Hart, którzy byli poza składem lub ich status był wątpliwy.
+    *   San Antonio Spurs w sezonie 2025-26 zakończyli sezon z bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej, co wskazuje na ich silną formę.
+    *   Biorąc pod uwagę poważne osłabienia Knicks i ogólną siłę Spurs w tym okresie, typ na Spurs jest uzasadniony.
