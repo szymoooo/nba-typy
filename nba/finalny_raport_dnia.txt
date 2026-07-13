@@ -1,18 +1,12 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-13 19:14 ET) ---
-Dzień dobry! Analizuję Twoje typy na podstawie danych ze stycznia 2026 roku.
+--- KRYTYCZNY AUDYT LIVE (2026-07-13 19:15 ET) ---
+Na podstawie danych z 2026-07-13 oraz składów ze stycznia 2026:
 
----
+**Knicks @ Spurs -> Typ: Spurs**
 
-**Mecz: Knicks @ Spurs**
-*   **Kluczowe braki w składach (Styczeń 2026):**
-    *   **New York Knicks:**
-        *   Jalen Brunson: Out (Prawa kostka, skręcenie) / Questionable (Prawa kostka, skręcenie)
-        *   Mitchell Robinson: Out (Lewa kostka, zarządzanie urazem) / Questionable (Kostka)
-        *   Josh Hart: Out (Kostka) / Questionable (Prawa kostka, bolesność)
-        *   Landry Shamet: Questionable (Prawe ramię, skręcenie) / Out (Ramię)
-    *   **San Antonio Spurs:** Brak potwierdzonych nazwisk i statusów (Out, Questionable, GTD) kontuzjowanych zawodników na styczeń 2026. Raport z 21 stycznia 2026 r. wspomina o "trzech kontuzjowanych graczach", ale bez szczegółów. Brak aktualnych raportów (Injury Report) na tę chwilę dla konkretnych zawodników Spurs w styczniu 2026 r.
-
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. ❌
+    *   *Uwaga: Oficjalne raporty NBA CMS na 2026-07-13 wskazują "NOT YET SUBMITTED" dla zaplanowanych meczów. Wzmianki o kontuzjach z tego dnia dotyczą zawodników Summer League (Mohamed Diawara, Pacome Dadiet dla Knicks), co nie wpływa na typy głównego składu.*
+*   **Analiza:**
+    *   **San Antonio Spurs:** W sezonie 2025-26 Spurs osiągnęli imponujący bilans 62-20, zajmując 2. miejsce w Konferencji Zachodniej. Ich skład w styczniu 2026 zawierał dominującego Victora Wembanyamę (lider ligi w blokach w 2025-26), De'Aarona Foxa i Devina Vassella.
+    *   **New York Knicks:** Knicks zakończyli sezon 2025-26 z rekordem 53-29, plasując się na 3. pozycji w Konferencji Wschodniej. W styczniu 2026 ich skład obejmował m.in. Jalena Brunsona, OG Anunoby'ego i Mikal Bridgesa, a także Karl-Anthony'ego Townsa (wg niektórych źródeł).
+    *   Wyraźnie lepszy bilans sezonu 2025-26 przemawia na korzyść Spurs.
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   New York Knicks borykali się ze znacznymi brakami kadrowymi w styczniu 2026 roku, z kluczowymi graczami takimi jak Jalen Brunson, Mitchell Robinson i Josh Hart, którzy byli poza składem lub ich status był wątpliwy.
-    *   San Antonio Spurs w sezonie 2025-26 zakończyli sezon z bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej, co wskazuje na ich silną formę.
-    *   Biorąc pod uwagę poważne osłabienia Knicks i ogólną siłę Spurs w tym okresie, typ na Spurs jest uzasadniony.
