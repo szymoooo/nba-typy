@@ -1,13 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-14 13:56 ET) ---
-Oto analiza Twojego typu na podstawie dostępnych danych z dnia 2026-07-14:
+--- KRYTYCZNY AUDYT LIVE (2026-07-14 14:08 ET) ---
+Oto analiza Twojego typu na podstawie danych ze stycznia 2026:
 
 **Knicks @ Spurs -> Typ: Spurs**
 
-*   **Kluczowe braki w składach (stan na 2026-07-14):**
-    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę. Ostatnie oficjalne dane z 2026-07-08 wskazują, że New York Knicks nie mają żadnych zawodników na liście kontuzjowanych.
-    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę. Nie znaleziono potwierdzonych informacji o kontuzjach na dzień 2026-07-14.
-*   **Analiza składów (styczeń 2026):**
-    *   **New York Knicks:** W składzie na styczeń 2026 znaleźli się m.in. Jalen Brunson, Karl-Anthony Towns, OG Anunoby, Josh Hart, Mitchell Robinson, Jordan Clarkson, Jose Alvarado, Mikal Bridges, Miles McBride i Landry Shamet. Knicks zakończyli sezon 2025-26 z bilansem 53-29, zajmując 3. miejsce w Konferencji Wschodniej.
-    *   **San Antonio Spurs:** W składzie na styczeń 2026 znajdowali się kluczowi gracze tacy jak Victor Wembanyama, De'Aaron Fox, Devin Vassell, Keldon Johnson i Julian Champagnie. Jeremy Sochan był również w składzie w styczniu 2026, zanim został zwolniony 10 lutego 2026. Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej. Mieli również wyższy Net Rating (+8.3) w porównaniu do Knicks (+6.5).
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **New York Knicks:**
+        *   Mitchell Robinson (Center): wielokrotnie poza grą lub "Questionable" z powodu problemów z kostką.
+        *   Jalen Brunson (Guard): poza grą z powodu skręcenia prawej kostki (stan na 14 stycznia).
+        *   Landry Shamet (Guard): poza grą z powodu zwichnięcia prawego barku (wczesny styczeń).
+        *   Josh Hart (Guard/Forward): poza grą z powodu kontuzji kostki na początku stycznia, później wrócił, ale był "Questionable" z powodu bólu prawej kostki pod koniec miesiąca.
+        *   Miles McBride (Guard): poza grą pod koniec stycznia.
+    *   **San Antonio Spurs:**
+        *   Devin Vassell (Guard/Forward): poza grą z powodu naciągnięcia lewego przywodziciela.
+        *   Jeremy Sochan (Forward): "Questionable" pod koniec stycznia.
+        *   Luke Kornet (Center): "Questionable" pod koniec stycznia.
+
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Biorąc pod uwagę lepszy bilans i statystyki San Antonio Spurs z sezonu 2025-26 (62-20 vs 53-29) oraz brak kluczowych kontuzji zgłoszonych na dzień dzisiejszy (poza okresem aktywnych gier), typ na Spurs wydaje się uzasadniony.
+    *   New York Knicks borykali się ze znaczącymi problemami zdrowotnymi w styczniu 2026, tracąc kluczowych graczy takich jak Jalen Brunson i Mitchell Robinson, a także mieli zmienną dostępność Josha Harta i Milesa McBride'a.
+    *   San Antonio Spurs, mimo braku Devina Vassella i niepewnego statusu Sochana i Korneta, mieli w składzie lidera Victora Wembanyamę, który prowadził zespół, oraz Stephon Castle'a, który wnosił punkty.
+    *   Biorąc pod uwagę osłabienia Knicks na kluczowych pozycjach, typ na Spurs jest uzasadniony. Spurs mieli solidny styczeń 2026, osiągając wynik 27-12 do 10 stycznia i pokonując silne drużyny.
