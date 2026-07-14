@@ -1,21 +1,19 @@
---- AUDYT PLK LIVE (2026-07-14 11:18 CET) ---
-=========================================================================
-TYPY DO AUDYTU:
-=========================================================================
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-14 11:55 CET) ---
+Analiza meczu: **ORLEN Zastal Zielona Góra @ Legia Warszawa** (data meczu: 2026-06-21)
 
----
+1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Kluczowi zawodnicy tacy jak Michał Kolenda i Matthias Tass, którzy mieli kontuzje w grudniu 2025 roku, wrócili do gry i byli aktywni w meczach finałowych w czerwcu 2026 roku.
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate (silny skrzydłowy / środkowy) doznał awulsyjnego uszkodzenia więzadła SL nadgarstka w lutym 2026 roku i zakończył sezon, co było znaczącym osłabieniem.
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz w sezonie 2025/2026. Zdobył 21 punktów w meczu 17 czerwca 2026.
+        *   Andrzej Pluta: 13.4 Pkt/mecz w sezonie 2025/2026.
+        *   Jayvon Graves: 12.8 Pkt/mecz w sezonie 2025/2026.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz w sezonie 2025/2026.
+        *   Jakub Szumert: 13.2 Pkt/mecz w sezonie 2025/2026. Wykazywał się dobrą dyspozycją, zdobywając 21 punktów w meczu 17 czerwca 2026.
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz w sezonie 2025/2026.
 
-1.  **Kluczowe braki w składach (stan na 2026-07-14):**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Patrick Cartier (opuścił klub 03.07.2026), Miłosz Góreńczyk (opuścił klub 03.07.2026).
-    *   🏀 **Legia Warszawa:** Andrzej Pluta (opuścił klub przed 27.06.2026), Maksymilian Wilczek (opuścił klub przed 26.06.2026), Matthias Tass (opuścił klub przed 26.06.2026).
-    *   Brak istotnych braków w składzie koszykarskim (kontuzje, zawieszenia, foul-outy) na dzień 2026-07-14 dla obu zespołów.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa jest aktualnym mistrzem Polski (sezon 2025/2026), a ORLEN Zastal Zielona Góra zdobył wicemistrzostwo. Ta pozycja w lidze wskazuje na siłę Legii.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Legia Warszawa była obrońcą tytułu i zdobyła mistrzostwo Polski w sezonie 2025/2026. Mecz 21 czerwca 2026 był finałem rozgrywek. Legia zakończyła serię finałową z Zastalem Zielona Góra na swoją korzyść (3:2 przed decydującym meczem). Zastal miał osłabienia kadrowe w postaci kontuzji Sagaby Konate, co osłabiało ich pozycje podkoszowe. W związku z tym, typ na Legię Warszawa był uzasadniony.
