@@ -1,12 +1,57 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-13 20:08 ET) ---
-Analiza meczu Knicks @ Spurs (2026-07-13):
+--- KRYTYCZNY AUDYT LIVE (2026-07-13 21:51 ET) ---
+thought.
+The user wants me to analyze a hypothetical Knicks @ Spurs game, with a predicted winner "Spurs".
+I need to provide:
+- Kluczowe braki w składach.
+- Werdykt: [✅ ZATWIERDZONY] lub [⚠️ RYZYKOWNY].
 
-*   **Kluczowe braki w składach:**
-    *   **New York Knicks:**
-        *   Jalen Brunson (G) – Przeszedł operację lewego nadgarstka 7 lipca 2026 roku i oczekuje się, że wróci do gry "później tego lata". To oznacza, że prawdopodobnie będzie nieobecny 13 lipca 2026.
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę dla innych graczy z potwierdzonym statusem "Out", "Questionable" lub "GTD" na 13 lipca 2026. Chociaż Mitchell Robinson był "Questionable" z powodu złamanego palca w czerwcu 2026, najnowsze ogólne raporty z 8 lipca 2026 wskazują, że Knicks nie mają obecnie graczy na liście kontuzjowanych, jednak informacja o Brunsonie jest bardziej precyzyjna i aktualna.
-    *   **San Antonio Spurs:**
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę. W czerwcu 2026 roku Spurs nie mieli żadnych graczy na liście kontuzjowanych przed Finałami NBA. Nie ma potwierdzonych informacji o kontuzjach kluczowych graczy takich jak Victor Wembanyama, De'Aaron Fox czy Devin Vassell na 13 lipca 2026.
+My instructions are:
+1. Use Google Search *exclusively* for current rosters.
+2. Ignore 2024, 2025 data. Focus *only* on JANUARY 2026 for general team/roster context.
+3. For injury reports, if I don't find confirmed information from *TODAY (2026-07-13)*, I must write 'Brak aktualnych raportów (Injury Report) na tę chwilę'.
+4. DO NOT GUESS. Check statuses: 'Out', 'Questionable', 'GTD'.
+5. Short, bullet points, emojis.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Nieobecność Jalen Brunsona, który był MVP Finałów NBA i kluczowym strzelcem Knicks, stanowi znaczące osłabienie dla zespołu z Nowego Jorku. San Antonio Spurs, w oparciu o dostępne dane, wydają się mieć pełny skład, co daje im przewagę w tym hipotetycznym meczu.
+From the search results:
+- **Knicks Roster January 2026**: Several sources indicate the Knicks roster around January 2026 included players like Jalen Brunson, OG Anunoby, Mikal Bridges, Josh Hart, Karl-Anthony Towns, Mitchell Robinson, Jordan Clarkson, Miles McBride, Jose Alvarado, Jeremy Sochan, Landry Shamet.
+- **Spurs Roster January 2026**: Sources indicate the Spurs roster around January 2026 included Victor Wembanyama, De'Aaron Fox, Devin Vassell, Keldon Johnson, Stephon Castle, Dylan Harper, Bismack Biyombo.
+
+- **Injury Reports for 2026-07-13**:
+    - For Knicks: One source mentions "New York Knicks have no players currently on the NBA injury report" as of 2026-07-08. Another injury report from July 13, 2026, explicitly states "New York Knicks. NOT YET SUBMITTED" for a game on 07/13/2026 (DET@NYK). However, for a Summer League game on July 13, 2026, Pacome Dadiet (Knicks) is listed as "out (undisclosed)" for a game against the Pistons. Pacome Dadiet is on the 2026-2027 Knicks roster.
+    - For Spurs: A search for "San Antonio Spurs injury report July 13 2026" did not yield a direct injury report for that specific date for a regular NBA game. One source from June 2026 (for the NBA Finals) stated "Spurs Have No Players Listed on First 2026 NBA Finals Injury Report" regarding major players like De'Aaron Fox and Dylan Harper. Another source states "Injury data is temporarily unavailable" for San Antonio Spurs Injuries 2026. The NBA CMS report for 07/13/2026 does not list a Spurs game.
+
+The crucial rule: "Jeśli nie znajdziesz potwierdzonych informacji o kontuzjach z DZISIAJ (2026-07-13), napisz 'Brak aktualnych raportów (Injury Report) na tę chwilę'."
+
+For the Knicks, while Pacome Dadiet is listed as out for a Summer League game on 2026-07-13, the main NBA injury report for July 13, 2026, for the Knicks (for a regular season game, DET@NYK) states "NOT YET SUBMITTED". The question is if a Summer League injury counts as a "key absence" for a regular season game analysis. Given the context of "Knicks @ Spurs" as a regular game, and the explicit "NOT YET SUBMITTED", it's safer to stick to the rule for general NBA games.
+
+For the Spurs, there is no direct injury report for 2026-07-13 for a regular season game.
+
+Therefore, for both teams, based on today's (July 13, 2026) main NBA injury reports, the information is not fully confirmed for key players in a regular season context.
+
+Let's carefully apply the rule: "Jeśli nie znajdziesz potwierdzonych informacji o kontuzjach z DZISIAJ (2026-07-13), napisz 'Brak aktualnych raportów (Injury Report) na tę chwilę'."
+
+Even though some sources mention rosters for January 2026, and some injury updates for early July 2026 or June 2026 for the NBA Finals, for a *current* (July 13, 2026) injury report regarding a hypothetical regular season game between Knicks and Spurs, the direct search for "NBA injury report July 13 2026 New York Knicks" and "NBA injury report July 13 2026 San Antonio Spurs" did not yield definitive, confirmed "Out", "Questionable", "GTD" statuses for key players for a regular season game *on that exact date*. The NBA CMS report for 07/13/2026 states "NOT YET SUBMITTED" for the Knicks and doesn't list the Spurs for a game.
+
+The Summer League injury for Dadiet is specific to Summer League and might not reflect the status for a hypothetical regular season game involving the full roster. Given the strictness of the rule, it's safer to go with the "Brak aktualnych raportów" if the main injury report is "NOT YET SUBMITTED" or not available for a regular game.
+
+Therefore, I cannot identify "Kluczowe braki w składach" based on confirmed 2026-07-13 injury reports for a regular NBA game.
+
+Regarding the "Werdykt", since I cannot assess key absences due to lack of current injury data, making a "ZATWIERDZONY" or "RYZYKOWNY" call based solely on rosters from January 2026 (without current health status) would be guessing. The rules explicitly state "NIE ZGADUJ".
+
+I will state the lack of injury reports as per the rule. And then address the verdict.
+
+The user's type is "Spurs". Without injury information, and knowing only the rosters from January 2026, it's impossible to make an informed decision on the "Werdykt" and justify it rigorously. Therefore, the verdict has to be "RYZYKOWNY" as there's not enough data to confirm or deny the pick.
+
+Let's refine the answer structure.
+For "Kluczowe braki w składach", I must explicitly state "Brak aktualnych raportów (Injury Report) na tę chwilę" if I don't find *confirmed* reports from July 13, 2026.
+
+I found rosters for January 2026 for both teams, which is good for the "Interesuje Cię tylko STYCZEŃ 2026" part for roster context.
+However, for *injuries* for "DZISIAJ (2026-07-13)", the NBA CMS report for July 13, 2026, shows "NOT YET SUBMITTED" for Knicks in a scheduled game. There's no specific NBA game listed for Spurs on that date in that report. For a Summer League game, Dadiet is out for Knicks, but Summer League is different from regular season. The rule for injury reports is very strict.
+
+Final decision: Stick to the strict interpretation of "Jeśli nie znajdziesz potwierdzonych informacji o kontuzjach z DZISIAJ (2026-07-13), napisz 'Brak aktualnych raportów (Injury Report) na tę chwilę'." for key players in a regular season context.Analiza meczu: Knicks @ Spurs
+
+*   **Kluczowe braki w składach**:
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla kluczowych zawodników w kontekście regularnego sezonu (stan na 2026-07-13). Raport NBA CMS z 13 lipca 2026 wskazuje status "NOT YET SUBMITTED" dla New York Knicks w planowanym meczu, a dla San Antonio Spurs brak wzmianki o meczu w tym raporcie. Stwierdzono, że Pacome Dadiet (Knicks) jest poza składem na mecz Ligi Letniej 13 lipca 2026 z powodu nieujawnionej przyczyny.
+
+*   **Werdykt**: [⚠️ RYZYKOWNY]
+    *   Ze względu na brak potwierdzonych, aktualnych raportów o kontuzjach kluczowych graczy obu drużyn (z wyłączeniem Ligi Letniej) na dzień 2026-07-13, niemożliwe jest dokonanie rygorystycznej oceny typu. Rostery z stycznia 2026 roku dla Knicks obejmowały m.in. Jalena Brunsona, OGa Anunoby'ego i Karla-Anthony'ego Townsa, natomiast dla Spurs Victora Wembanyamę, De'Aarona Foxa i Devina Vassella. Jednak bez aktualnego statusu zdrowotnego, każda prognoza jest spekulatywna.
