@@ -1,22 +1,14 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-14 05:55 ET) ---
-Na podstawie danych z stycznia 2026, oto analiza Twojego typu:
+--- KRYTYCZNY AUDYT LIVE (2026-07-14 11:26 ET) ---
+Analiza meczu na podstawie danych z 2026-07-14:
 
-**Knicks @ Spurs** -> Typ: Spurs
+**Knicks @ Spurs**
+*   Typ: Spurs
 
-*   Brak potwierdzonych raportów o meczu Knicks @ Spurs w styczniu 2026. Ostatni mecz tych drużyn w 2025 roku odbył się 31 grudnia, gdzie Spurs pokonali Knicks 134-132.
+*   **Kluczowe braki w składach:**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. ❌ (Jest środek sezonu wakacyjnego NBA, brak aktywnych raportów kontuzji na 14 lipca 2026 r. dla meczów sezonu regularnego.)
+    *   Należy jednak odnotować, że Jeremy Sochan został zwolniony przez San Antonio Spurs 10 lutego 2026 roku, co oznacza, że byłby dostępny w styczniu 2026 roku.
+    *   New York Knicks to aktualni mistrzowie NBA z poprzedniego sezonu, co sugeruje silny skład w styczniu 2026 roku.
+    *   San Antonio Spurs, z Victorem Wembanyamą, również mieli "spektakularny atak na tytuł" w poprzednim sezonie, co wskazuje na mocną drużynę.
 
-**Kluczowe braki w składach (Styczeń 2026 - ogólny status):**
-
-*   **New York Knicks:**
-    *   Jalen Brunson: OUT (skręcenie prawej kostki) lub Questionable w różnych terminach stycznia. Kluczowy strzelec.
-    *   Mitchell Robinson: OUT (lewa kostka, zarządzanie kontuzją) lub Questionable. Ważny dla obrony i zbiórek.
-    *   Josh Hart: OUT (problem z kostką) lub Questionable. Ważny zawodnik na skrzydle.
-    *   Landry Shamet: Questionable (skręcenie prawego ramienia) lub OUT.
-
-*   **San Antonio Spurs:**
-    *   Devin Vassell: OUT (naciągnięcie lewego przywodziciela) w połowie stycznia.
-    *   Jeremy Sochan: Questionable (późny styczeń).
-    *   Luke Kornet: Questionable (późny styczeń).
-
-**Werdykt:** [✅ ZATWIERDZONY]
-Mimo braku potwierdzonego meczu w styczniu 2026, biorąc pod uwagę znaczne osłabienia kluczowych graczy New York Knicks (Brunson, Robinson, Hart) w tym okresie oraz relatywnie stabilniejszą sytuację Spurs (pomimo braku Vassella), typ na San Antonio Spurs jest uzasadniony dla hipotetycznego meczu w styczniu 2026. Spurs mieli również lepszy bilans w połowie stycznia 2026.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo że San Antonio Spurs mieli mocny skład w poprzednim sezonie, w tym Victora Wembanyamę, a Knicks również byli mistrzami, brak specyficznych raportów kontuzji z daty meczu (styczeń 2026), bazując wyłącznie na dzisiejszych danych (14.07.2026), czyni ten typ ryzykownym. Nie możemy dokładnie ocenić pełnej siły obu zespołów w tamtym konkretnym dniu.
