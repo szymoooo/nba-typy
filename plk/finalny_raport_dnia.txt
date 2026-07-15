@@ -1,14 +1,27 @@
---- AUDYT PLK LIVE (2026-07-15 20:01 CET) ---
-# PLK typy na 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-15 21:37 CET) ---
+# PLK typy na 2026-06-21
 
-### 1. Kluczowe braki w składach
-*   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Filip Matczak grał z kontuzją nosa, a Andrzej Mazurczak w masce w trakcie serii finałowej, ale obaj wystąpili w decydującym meczu.
-*   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+## ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-### 2. Aktualna forma top scorerów (mecz 2026-06-21)
-*   **ORLEN Zastal Zielona Góra:** W decydującym meczu najwięcej punktów dla Zastalu zdobył Andrzej Mazurczak (10 punktów). Wcześniej w serii, dobre występy mieli również Chavaughn Lewis (25 punktów w meczu 2) oraz Conley Garrison (16 punktów w meczu 4).
-*   **Legia Warszawa:** W decydującym meczu wyróżnili się Andrzej Pluta (15 punktów), Race Thompson (11 punktów), Dominic Brewton III (11 punktów) i Shane Hunter (10 punktów). W trakcie serii w dobrej formie byli także Carl Ponsar (22 punkty w meczu 3, 17 punktów w meczu 4) oraz Andrzej Pluta (27 punktów w meczu 2).
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis (rzucający), czołowy strzelec Zastalu (15.8 Pkt/mecz w sezonie 2025/2026), doznał kontuzji po zderzeniu w meczu z Dzikami Warszawa około 8 maja 2026 roku. Miał opuścić jedno ze spotkań i nadal odczuwał skutki urazu. Możliwe, że jego dyspozycja na mecz 21 czerwca była ograniczona lub był niedostępny.
+        *   Miłosz Majewski doznał urazu w tym samym zderzeniu co Lewis i również trafił do szpitala około 8 maja 2026 roku.
+        *   Filip Matczak (rozgrywający) wrócił do gry po kontuzji nosa, grając w masce w meczach finałowych około 13 czerwca 2026 roku.
+        *   Andrzej Mazurczak (rozgrywający) również występował w masce w meczach finałowych około 13 czerwca 2026 roku.
+        *   Ogólnie, zawodnicy Zastalu byli zdeterminowani grać pomimo urazów w finałach Orlen Basket Ligi, co sugeruje obciążenie kontuzjami w drużynie.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim Legii Warszawa odnotowanych w okresie okołomeczowym (2026-06-21) ani aktualnie (2026-07-15). Informacje o kontuzjach piłkarzy Legii Warszawa, takich jak Antonio Colak, są nieistotne dla meczu koszykówki.
 
-### 3. Werdykt
-[✅ ZATWIERDZONY]
-Legia Warszawa wygrała decydujący 7. mecz serii finałowej na własnym parkiecie (OSiR Warszawa Bemowo) 78:70, zdobywając mistrzostwo Polski w sezonie 2025/2026. Typ był poprawny.
+2.  **Aktualna forma top scorerów:**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz (sezon 2025/2026). Jego forma była prawdopodobnie obniżona ze względu na wspomnianą kontuzję.
+        *   Jakub Szumert: 13.2 Pkt/mecz (sezon 2025/2026).
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz (sezon 2025/2026). Jego gra w masce mogła wpływać na komfort gry.
+    *   **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz (sezon 2025/2026).
+        *   Andrzej Pluta: 13.4 Pkt/mecz (sezon 2025/2026).
+        *   Jayvon Graves: 12.8 Pkt/mecz (sezon 2025/2026).
+        *   Brak danych z API PulsBasketu dla tej serii, ale na podstawie dostępnych informacji, topowi strzelcy Legii byli w dobrej dyspozycji bez doniesień o kontuzjach.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa wydaje się mieć przewagę wynikającą z lepszej sytuacji kadrowej. ORLEN Zastal Zielona Góra borykał się z urazami kluczowych graczy, w tym czołowego strzelca Chavaughna Lewisa, oraz innych zawodników grających z kontuzjami, co mogło znacząco wpłynąć na ich dyspozycję w decydującym meczu finałów (mecz 7/7).
