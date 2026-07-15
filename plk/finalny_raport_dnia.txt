@@ -1,18 +1,11 @@
---- AUDYT PLK LIVE (2026-07-15 17:37 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, 2026-06-21:
-
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-15 18:56 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   **Sagaba Konate:** Koniec sezonu od 28 lutego 2026 z powodu kontuzji dłoni, doznanej podczas Pekao S.A. Pucharu Polski.
-        *   **Andrzej Mazurczak:** Powracał po kontuzji i trenował w masce przed finałami (stan na 6 czerwca 2026), ale był zdolny do gry i wystąpił w serii.
-    *   🏀 **Legia Warszawa:**
-        *   **Michał Kolenda i Matthias Tass:** Obaj zawodnicy mieli dłuższą przerwę z powodu kontuzji, potwierdzoną w grudniu 2025. Brak informacji o ich powrocie i udziale w decydujących meczach finałowych przed 21 czerwca 2026, co oznacza, że mogli być niedostępni lub nie w pełni formy na ten kluczowy mecz.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:**
-    *   [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie:** Mecz był siódmym i decydującym spotkaniem finałów ORLEN Basket Ligi (Legia wygrała serię 4-3). Legia Warszawa wygrała ten konkretny mecz 78-70 i zdobyła mistrzostwo Polski. Mimo ostatecznego zwycięstwa Legii, brak jednoznacznych informacji o powrocie Michała Kolendy i Matthiasa Tassa po "dłuższej przerwie" z powodu kontuzji (informacja z grudnia 2025) wprowadza element ryzyka. Są to potencjalnie kluczowi gracze, których absencja mogła wpłynąć na przebieg spotkania. Zastal również miał istotny brak w postaci Sagaby Konate i Mazurczaka wracającego po urazie, co jednak nie niweluje potencjalnych osłabień Legii. Decydujący mecz finału, w którym typowano Legię mimo potencjalnych ważnych braków w składzie, czyni typ ryzykownym, choć finalnie zakończył się sukcesem.
+    *   **Legia Warszawa:** Matthias Tass był poza kadrą meczową decyzją sztabu szkoleniowego.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim, kluczowi zawodnicy tacy jak Filip Matczak, Jakub Szumert, Sagaba Konate i Chavaughn Lewis, mimo wcześniejszych doniesień o drobnych urazach lub wątpliwościach co do ich występu w serii, zagrali w meczu finałowym lub wcześniejszych spotkaniach finałów.
+2.  **Aktualna forma top scorerów (z serii finałowej):**
+    *   **Legia Warszawa:** Andrzej Pluta był MVP finałów i top scorerem Legii w siódmym meczu z 15 punktami. W całej serii finałowej prezentował wyśmienitą formę. Dominic Brewton (21 pkt w meczu 5, 14 pkt w meczu 6, 11 pkt w meczu 7) oraz Race Thompson (11 pkt w meczu 5, 6 pkt w meczu 6, 11 pkt w meczu 7) również byli w bardzo dobrej dyspozycji strzeleckiej.
+    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (21 pkt w meczu 4, 15 pkt w meczu 6, 10 pkt w meczu 7) oraz Conley Garrison (16 pkt w meczu 4, 17 pkt w meczu 6 z decydującym rzutem) byli liderami punktowymi Zastalu i utrzymywali wysoką formę przez całą serię. Chavaughn Lewis był "bohaterem" meczu 1 i zdobył 18 punktów w meczu 6.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa, będąca obrońcą tytułu i najlepszą drużyną sezonu zasadniczego, grała siódmy, decydujący mecz finału Orlen Basket Ligi na własnym parkiecie w hali OSiR Bemowo w Warszawie. Zastal Zielona Góra był rewelacją play-off, dochodząc do finału z 8. miejsca po sezonie zasadniczym. Pomimo zaciętej walki i dobrej formy strzeleckiej po obu stronach, Legia Warszawa ostatecznie wygrała mecz 78:70, zdobywając Mistrzostwo Polski. Przewaga własnego parkietu w decydującym spotkaniu oraz stabilna forma liderów Legii, w tym MVP finałów Andrzeja Pluty, uzasadniały typ na Legię.
