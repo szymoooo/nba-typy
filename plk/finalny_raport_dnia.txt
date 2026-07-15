@@ -1,25 +1,26 @@
---- AUDYT PLK LIVE (2026-07-15 01:28 CET) ---
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-15 06:45 CET) ---
+Analiza meczu PLK na dzień 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
----
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** W szóstym meczu finałowej serii (19 czerwca 2026), decyzją trenera Heiko Rannuli, poza kadrą meczową znalazł się Matthias Tass, a do składu wrócił Ojars Silins. Brak potwierdzonych informacji o innych istotnych kontuzjach lub zawieszeniach koszykarzy Legii na dzień 21 czerwca 2026.
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 21 czerwca 2026. Chociaż wcześniej (6 czerwca 2026) informowano o "walce z urazami", Phil Fayne powrócił do składu, a inni kluczowi zawodnicy grali w meczach finałowych. Informacje o odejściach Patricka Cartiera i Miłosza Góreńczyka dotyczą sezonu 2026/2027 i pojawiły się po zakończeniu finałów.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim w okresie finałów PLK 2025/2026.
+    *   **Legia Warszawa:** Race Thompson zmagał się z problemami zdrowotnymi i był niedostępny w pierwszym meczu finałów, co sugeruje jego brak lub ograniczoną dyspozycyjność również w decydującym spotkaniu. Wcześniejsze doniesienia z grudnia 2025 wspominały o kontuzjach Michała Kolendy i Matthiasa Tassa, jednak ich status na czerwiec 2026 nie jest jasno określony jako kluczowy brak w kontekście finału, poza ogólnymi "problemami zdrowotnymi" Legii.
 
-2.  **Aktualna forma top scorerów (mecz 21 czerwca 2026, finał, mecz 7):**
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta: 15 Pkt (MVP finałów)
-        *   Race Thompson: 11 Pkt
-        *   Dominic Brewton III: 11 Pkt
-        *   Shane Hunter: 10 Pkt
-        *   W sezonie 2025/2026, czołowymi strzelcami byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+2.  **Aktualna forma top scorerów:**
     *   **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak: 10 Pkt
-        *   W poprzednich meczach finałowych wyróżniali się również Jayvon Maughmer, Krzysztof Sulima, Patrick Cartier, Conley Garrison i Jakub Szumert. Jakub Szumert został wybrany najlepszym zawodnikiem młodzieżowym OBL w sezonie 2025/2026. Conley Garrison oddał zwycięski rzut za trzy punkty w meczu nr 6.
+        *   Najlepsi strzelcy w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+        *   W finałach Chavaughn Lewis był kluczowy, zdobywając zwycięski rzut za trzy punkty w meczu numer 1.
+        *   W meczu numer 5 (17 czerwca) Andrzej Mazurczak i Conley Garrison zaprezentowali świetną formę, zdobywając łącznie 37 punktów, znacząco przyczyniając się do wygranej. Skuteczni byli również Phil Fayne, Patrick Cartier i Dwight Wilson.
+    *   **Legia Warszawa:**
+        *   Najlepsi strzelcy w sezonie 2025/2026 to Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+        *   W meczu numer 4 finałów (15 czerwca) Carl Ponsar (17 pkt) i Andrzej Pluta byli najbardziej efektywni dla Legii.
+        *   W meczu numer 1 finałów (8 czerwca) Matthias Tass miał problemy ze skutecznością.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa wygrała siódmy mecz finałowy Orlen Basket Ligi 78:70, zdobywając Mistrzostwo Polski na własnym parkiecie w OSiR Warszawa Bemowo. Legia była liderem sezonu zasadniczego i pomimo zaciętej walki w serii finałowej, potwierdziła swoją przewagę w decydującym spotkaniu, z kilkoma zawodnikami w dobrej formie strzeleckiej, w tym MVP finałów Andrzejem Plutą.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mecz był 7. i decydującym spotkaniem finałów PLK 2025/2026, rozgrywanym w Warszawie, na hali Bemowo.
+    *   Legia Warszawa była obrońcą tytułu i ostatecznie zdobyła mistrzostwo, wygrywając tę serię 4-3 (mecz 7: 78:70).
+    *   Pomimo faktu, że Legia wygrała, jej typ na to spotkanie był ryzykowny z perspektywy przedmeczowej ze względu na:
+        *   Nieobecność kluczowego zawodnika, Race'a Thompsona, lub jego ograniczoną dyspozycję w serii finałowej.
+        *   ORLEN Zastal Zielona Góra, będąc "sensacyjnym finalistą", prezentował wysoką formę w całej serii, doprowadzając do decydującego meczu i wykazując skuteczność swoich liderów w kluczowych momentach.
+        *   Wynik serii 4-3 świadczy o niezwykle wyrównanej rywalizacji, gdzie każdy mecz, a zwłaszcza ten decydujący, był obarczony dużym ryzykiem, mimo przewagi własnego parkietu Legii.
