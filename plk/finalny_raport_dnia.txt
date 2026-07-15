@@ -1,27 +1,21 @@
---- AUDYT PLK LIVE (2026-07-15 21:37 CET) ---
-# PLK typy na 2026-06-21
+--- AUDYT PLK LIVE (2026-07-15 21:40 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-## ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
-
-1.  **Kluczowe braki w składach:**
+1.  🏀 **Kluczowe braki w składach (2026-06-21):**
     *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis (rzucający), czołowy strzelec Zastalu (15.8 Pkt/mecz w sezonie 2025/2026), doznał kontuzji po zderzeniu w meczu z Dzikami Warszawa około 8 maja 2026 roku. Miał opuścić jedno ze spotkań i nadal odczuwał skutki urazu. Możliwe, że jego dyspozycja na mecz 21 czerwca była ograniczona lub był niedostępny.
-        *   Miłosz Majewski doznał urazu w tym samym zderzeniu co Lewis i również trafił do szpitala około 8 maja 2026 roku.
-        *   Filip Matczak (rozgrywający) wrócił do gry po kontuzji nosa, grając w masce w meczach finałowych około 13 czerwca 2026 roku.
-        *   Andrzej Mazurczak (rozgrywający) również występował w masce w meczach finałowych około 13 czerwca 2026 roku.
-        *   Ogólnie, zawodnicy Zastalu byli zdeterminowani grać pomimo urazów w finałach Orlen Basket Ligi, co sugeruje obciążenie kontuzjami w drużynie.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim Legii Warszawa odnotowanych w okresie okołomeczowym (2026-06-21) ani aktualnie (2026-07-15). Informacje o kontuzjach piłkarzy Legii Warszawa, takich jak Antonio Colak, są nieistotne dla meczu koszykówki.
-
-2.  **Aktualna forma top scorerów:**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz (sezon 2025/2026). Jego forma była prawdopodobnie obniżona ze względu na wspomnianą kontuzję.
-        *   Jakub Szumert: 13.2 Pkt/mecz (sezon 2025/2026).
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz (sezon 2025/2026). Jego gra w masce mogła wpływać na komfort gry.
+        *   Sagaba Konate (silny skrzydłowy/środkowy) – kontuzja nadgarstka wykluczająca go z gry do końca sezonu 2025/2026, potwierdzona 28 lutego 2026 roku.
+        *   Chavaughn Lewis (rzucający obrońca) – był niedostępny z powodu kontuzji na mecz o 7. miejsce 8 maja 2026 roku. Jako jeden z najlepszych strzelców, jego brak w decydującym finale jest wysoce prawdopodobny i znaczący.
+        *   Filip Matczak (rozgrywający) i Jakub Szumert (silny skrzydłowy) – byli kontuzjowani w lutym 2026 roku. Brak aktualizacji statusu ich dostępności na czerwiec 2026.
     *   **Legia Warszawa:**
-        *   Dominic Brewton III: 14.5 Pkt/mecz (sezon 2025/2026).
-        *   Andrzej Pluta: 13.4 Pkt/mecz (sezon 2025/2026).
-        *   Jayvon Graves: 12.8 Pkt/mecz (sezon 2025/2026).
-        *   Brak danych z API PulsBasketu dla tej serii, ale na podstawie dostępnych informacji, topowi strzelcy Legii byli w dobrej dyspozycji bez doniesień o kontuzjach.
+        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim kluczowych zawodników na dzień meczu. Wcześniejsze kontuzje z grudnia 2025 (Michał Kolenda, Matthias Tass) mogły zostać wyleczone, a Andrzej Pluta i Jayvon Graves wrócili do składu przed finałami.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa wydaje się mieć przewagę wynikającą z lepszej sytuacji kadrowej. ORLEN Zastal Zielona Góra borykał się z urazami kluczowych graczy, w tym czołowego strzelca Chavaughna Lewisa, oraz innych zawodników grających z kontuzjami, co mogło znacząco wpłynąć na ich dyspozycję w decydującym meczu finałów (mecz 7/7).
+2.  🔥 **Aktualna forma top scorerów:**
+    *   **Legia Warszawa:** Andrzej Pluta znajdował się w znakomitej formie, co potwierdzają nagrody MVP sezonu zasadniczego oraz MVP finałów w sezonie 2025/2026.
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu. Conley Garrison, kluczowy zawodnik Zastalu, kontynuował grę w klubie, osiągając średnio 10,9 punktu, 5,2 asysty, 3,8 zbiórki i 1,5 przechwytu na mecz w sezonie 2025/2026. Chavaughn Lewis był uznawany za jednego z najlepszych strzelców, ale prawdopodobnie był kontuzjowany.
+
+3.  ⚖️ **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa grała u siebie w Hali Bemowo w Warszawie, co stanowiło istotną przewagę w decydującym, siódmym meczu finałów PLK.
+    *   Legia zdobyła mistrzostwo Polski, pokonując Zastal 4-3 w serii, co świadczy o ich dominacji i przygotowaniu do kluczowego spotkania.
+    *   Kluczowy zawodnik Legii, Andrzej Pluta, był w szczytowej formie, zdobywając nagrody MVP.
+    *   ORLEN Zastal Zielona Góra zmagał się z poważnymi brakami kadrowymi, w tym sezonową kontuzją Sagaby Konate i prawdopodobnym brakiem Chavaughna Lewisa, jednego z ich czołowych strzelców.
+    *   Łączna suma tych czynników (przewaga własnego parkietu, forma lidera, potwierdzony brak kontuzji kluczowych graczy u gospodarzy oraz znaczące osłabienia u gości) przemawia za zatwierdzeniem typu na Legię Warszawa.
