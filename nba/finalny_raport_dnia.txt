@@ -1,11 +1,13 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-16 15:34 ET) ---
-**Analiza typów NBA (2026-07-16)**
+--- KRYTYCZNY AUDYT LIVE (2026-07-16 17:17 ET) ---
+Analiza meczu NBA: Knicks @ Spurs (2026-07-16)
 
 ---
 
 **Knicks @ Spurs** -> Typ: Spurs
 
 *   **Kluczowe braki w składach:**
-    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   **San Antonio Spurs:** Jayden Quaintance (rookie) – po operacji prawego kolana (uszkodzenie łąkotki), prawdopodobnie opuści znaczną część sezonu regularnego.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak kluczowego, nowego zawodnika dla Spurs).
+    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalny raport NBA na dzień 2026-07-16 dla New York Knicks to "NOT YET SUBMITTED", co oznacza brak potwierdzonych statusów kontuzji (Out, Questionable, GTD) na dzisiaj.
+    *   **San Antonio Spurs:** Jayden Quaintance (C/PF) jest OUT. Przeszedł udaną operację prawego kolana (uszkodzenie łąkotki) w środę (15 lipca 2026 r.) i wciąż dochodzi do siebie po poważnej kontuzji kolana z lutego 2025 r. Spodziewane jest, że opuści cały obóz treningowy i potencjalnie znaczną część sezonu regularnego.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo że San Antonio Spurs mieli bardzo udany sezon 2025-26, kończąc go z bilansem 62-20 i na 2. miejscu w Konferencji Zachodniej, a także dochodząc do Finałów NBA, brak oficjalnego raportu o kontuzjach dla New York Knicks na dzisiaj wprowadza niepewność co do ich pełnego składu. Kontuzja Jaydena Quaintance'a u Spurs jest znacząca (długoterminowa nieobecność po operacji). Bez pełnej jasności co do bieżącego statusu zdrowotnego Knicks, typowanie jest ryzykowne.

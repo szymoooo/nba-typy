@@ -1,18 +1,10 @@
---- AUDYT PLK LIVE (2026-07-16 20:10 CET) ---
-Analiza meczu PLK z 2026-06-21:
+--- AUDYT PLK LIVE (2026-07-16 23:18 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21) -> Typ: Legia Warszawa
 
-=========================================================================
-ORLEN Zastal Zielona Góra @ Legia Warszawa
-=========================================================================
-
-1.  Kluczowe braki w składach:
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Michał Kolenda i Matthias Tass doznali poważnych kontuzji w grudniu 2025 roku (zerwanie więzadeł stawu skokowego i konieczność operacji odpowiednio), ale nie ma potwierdzonych informacji o ich niedostępności w dniu meczu finałowego 21 czerwca 2026 r. z dzisiejszej daty (16 lipca 2026 r.).
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim. W czerwcu 2026 r. zespół mierzył się z "walką z urazami", jednak brak konkretnych nazwisk zawodników i potwierdzonych informacji o ich niedostępności na mecz finałowy z dzisiejszej daty (16 lipca 2026 r.).
-
-2.  Aktualna forma top scorerów:
-    *   Brak danych z API dla tego zespołu w serii.
-    *   Legia Warszawa: Andrzej Pluta Jr. został MVP Finałów sezonu 2025/26 oraz znalazł się w najlepszej piątce sezonu zasadniczego 2025/26. Inni wiodący strzelcy w sezonie 2025/26 to Dominic Brewton III (średnio 14.5 pkt/mecz) oraz Benjamin Shungu (średnio 14.31 pkt/mecz).
-    *   ORLEN Zastal Zielona Góra: Chavaughn Lewis był wiodącym strzelcem w sezonie 2025/26 (średnio 15.8 pkt/mecz). Jakub Szumert znalazł się w najlepszej piątce sezonu zasadniczego 2025/26 i notował średnio 13.2 pkt/mecz. Andrzej Mazurczak (średnio 11.8 pkt/mecz) był liderem zespołu w meczach fazy play-off w maju 2026 r..
-
-3.  Werdykt: [✅ ZATWIERDZONY]
-    *   Mecz 21 czerwca 2026 r. był siódmym meczem finałów PLK sezonu 2025/26. Legia Warszawa wygrała ten mecz 78:70 i zdobyła mistrzostwo Polski, co potwierdza słuszność typu.
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim obu drużyn na dzień 2026-06-21. Informacje o wcześniejszych kontuzjach Legii z grudnia 2025 (Ojars Silins, Matthias Tass, Michał Kolenda) nie są potwierdzone jako aktywne braki w siódmym meczu finału PLK w czerwcu 2026, a zawodnicy tacy jak Michał Kolenda i Andrzej Pluta byli aktywni w serii finałowej.
+2.  **Aktualna forma top scorerów:**
+    *   Mecz 2026-06-21 był decydującym, siódmym meczem finału PLK 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo Polski.
+    *   **Legia Warszawa:** Andrzej Pluta (15 punktów), Race Thompson (11 punktów), Dominic Brewton III (11 punktów), Shane Hunter (10 punktów) byli wiodącymi strzelcami w tym meczu. Andrzej Pluta Jr. został MVP sezonu i finałów PLK 2025/2026, co świadczy o jego znakomitej formie.
+    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 punktów) był najlepszym strzelcem drużyny w tym meczu. W sezonie 2025/2026 wiodącymi strzelcami Zastalu byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+3.  **Werdykt:** [✅ ZATWIERDZONY]
