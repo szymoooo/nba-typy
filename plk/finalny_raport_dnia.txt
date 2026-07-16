@@ -1,35 +1,14 @@
---- AUDYT PLK LIVE (2026-07-16 01:35 CET) ---
-# PLK typy na 2026-06-21
+--- AUDYT PLK LIVE (2026-07-16 09:33 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa z 2026-06-21:
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+Mecz Legia Warszawa vs ORLEN Zastal Zielona Góra odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowym sezonu 2025/2026 Orlen Basket Ligi. Legia Warszawa zwyciężyła 78:70, zdobywając Mistrzostwo Polski. Z tego powodu, werdykt dotyczący przyszłego typu jest nieadekwatny, ponieważ wynik meczu jest już znany.
 
-1.  **Kluczowe braki w składach (stan na 2026-07-16):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   ❌ Miłosz Góreńczyk (transfer do Kotwicy Port Morski Kołobrzeg)
-        *   ❌ Patrick Cartier (transfer do MHP Riesen Ludwigsburg)
-        *   ⚠️ Sagaba Konate (zakończył sezon 2025/2026 z kontuzją nadgarstka w lutym 2026; brak aktualnych informacji o jego stanie zdrowia na 2026-07-16, lecz był niedostępny na koniec poprzedniego sezonu)
-        *   ✅ Jan Wójcik (nowy nabytek/powrót, ogłoszony 15.07.2026)
-        *   ✅ Trazarien White (nowy nabytek, ogłoszony 08.07.2026)
-    *   **Legia Warszawa:**
-        *   ❌ Andrzej Pluta (transfer do Basquet Girona, ogłoszony 24.06.2026)
-        *   ❌ Carl Ponsar (transfer do ligi francuskiej, ogłoszony 24.06.2026)
-        *   ❌ Race Thompson (transfer do Skyliners Frankfurt, ogłoszony 11.07.2026)
-        *   ❌ Shane Hunter (powrót do Maccabi Tel Awiw po wypożyczeniu, ogłoszony 15.07.2026)
-        *   ✅ Szymon Tomczak (nowy transfer, ogłoszony 24.06.2026)
-        *   ✅ Jakub Andrzejewski (nowy transfer, ogłoszony 27.06.2026)
-
-2.  **Aktualna forma top scorerów (na podstawie sezonu 2025/2026 i zmian kadrowych na 2026-07-16):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis (15.8 Pkt/mecz w sezonie 2025/2026)
-        *   Jakub Szumert (13.2 Pkt/mecz w sezonie 2025/2026)
-        *   Andrzej Mazurczak (11.8 Pkt/mecz w sezonie 2025/2026)
-        *   Conley Garrison (10.9 Pkt/mecz w sezonie 2025/2026, przedłużył kontrakt)
-        *   Trazarien White (nowy nabytek, 19.3 Pkt/mecz w NCAA w sezonie 2023/2024)
-    *   **Legia Warszawa:**
-        *   Dominic Brewton III (14.5 Pkt/mecz w sezonie 2025/2026)
-        *   Jayvon Graves (12.8 Pkt/mecz w sezonie 2025/2026)
-        *   Andrzej Pluta (13.4 Pkt/mecz w sezonie 2025/2026 – opuścił zespół)
-    *   Brak danych z API dla tego zespołu w kontekście "aktualnej formy" poza statystykami z zakończonego sezonu 2025/2026.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mecz odbył się 2026-06-21, a Legia Warszawa wygrała go, zdobywając Mistrzostwo Polski w sezonie 2025/2026. Jednakże, audyt opiera się na informacjach aktualnych na 2026-07-16. Na dzień dzisiejszy (poza sezonem), Legia Warszawa odnotowała znaczące osłabienia kadrowe w postaci odejścia kluczowych zawodników, takich jak Andrzej Pluta, Carl Ponsar, Race Thompson i Shane Hunter. Te braki sprawiają, że ocena "Typ: Legia Warszawa" na podstawie bieżącej siły zespołu jest ryzykowna dla przyszłych przewidywań.
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim obu drużyn, które zostałyby zgłoszone jako kontuzje, zawieszenia lub foul-outy, wpływające na ten mecz finałowy. Składy obu drużyn na sezon 2025/2026 były dostępne.
+2.  **Aktualna forma top scorerów (w serii):**
+    *   Zgodnie z informacjami z finału, MVP meczu finałowego oraz całego sezonu 2025/2026 został Andrzej Pluta Jr. (Legia Warszawa), który w siódmym meczu finałowym zdobył 15 punktów i zanotował 5 asyst.
+    *   Wyróżniający się strzelcy Legii Warszawa w sezonie 2025/2026 to Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+    *   Dla ORLEN Zastal Zielona Góra, w meczu finałowym Andrzej Mazurczak zdobył 10 punktów, 5 asyst i 5 zbiórek.
+    *   Wiodący strzelcy ORLEN Zastal Zielona Góra w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+3.  **Werdykt:** [Mecz ROZEGRANY]
+    *   Legia Warszawa zwyciężyła w tym spotkaniu 78:70, zdobywając Mistrzostwo Polski 2025/2026.
