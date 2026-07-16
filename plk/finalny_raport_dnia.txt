@@ -1,24 +1,30 @@
---- AUDYT PLK LIVE (2026-07-16 23:47 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
+--- AUDYT PLK LIVE (2026-07-17 01:02 CET) ---
+# PLK typy na 2026-06-21
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Filip Matczak: Odczuwał skutki dawnego urazu na początku czerwca 2026 roku, co sugeruje, że mógł grać z ograniczeniami lub być poza składem w finale.
-        *   Sagaba Konate: Doznał poważnej kontuzji nadgarstka 21 lutego 2026 roku, która mogła wykluczyć go z gry do końca sezonu.
-        *   Jakub Szumert: Kontuzjowany 21 lutego 2026 roku.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim na dzień 21 czerwca 2026 roku. Kontuzje Michała Kolendy i Matthiasa Tassa z grudnia 2025 roku miały prognozowany czas rekonwalescencji, który pozwoliłby im na powrót do gry przed tą datą.
+## ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-2.  **Aktualna forma top scorerów (z serii finałowej):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak i Conley Garrison: W meczu finałowym około 15 czerwca 2026 roku zdobyli łącznie 37 punktów, znacząco poprawiając swoją skuteczność w porównaniu do wcześniejszych spotkań serii.
-        *   Chavaughn Lewis: Był wiodącym strzelcem zespołu w sezonie 2025/2026 ze średnią 15.84 punktu na mecz.
-        *   Dwight Wilson, Phil Fayne, Patrick Cartier: Również wykazali się dobrą formą w meczu około 15 czerwca 2026 roku.
-    *   🏀 **Legia Warszawa:**
-        *   Carl Ponsar: Zdobył 17 punktów w meczu finałowym około 15 czerwca 2026 roku.
-        *   Andrzej Pluta Jr.: Został MVP sezonu 2025/2026 oraz MVP finałów.
-        *   Dominic Brewton III: Był jednym z czołowych strzelców sezonu 2025/2026 ze średnią 14.5 punktu na mecz.
-        *   Benjamin Shungu: Również należał do najlepszych strzelców w sezonie ze średnią 14.31 punktu na mecz.
+### 1. Kluczowe braki w składach:
+*   **ORLEN Zastal Zielona Góra:**
+    *   ❌ Miłosz Góreńczyk (opuścił klub, przeszedł do Kotwicy Port Morski Kołobrzeg na sezon 2026/2027).
+    *   ❌ Patrick Cartier (opuścił klub, przeszedł do MHP Riesen Ludwigsburg na sezon 2026/2027).
+    *   ⚠️ Sagaba Konate (był kontuzjowany w marcu 2026, brak aktualnych informacji o jego pełnej dyspozycyjności na dzień 2026-07-17, ale informacja o kontuzji z sezonu 2025/2026 była istotna).
+    *   ✅ Nowi zawodnicy na sezon 2026/2027: Trazarien White, Jan Wójcik, Veljko Brkić.
+*   **Legia Warszawa:**
+    *   ❌ Andrzej Pluta (opuścił klub, przeniósł się do ligi hiszpańskiej na sezon 2026/2027).
+    *   ❌ Maksymilian Wilczek (opuścił klub w poszukiwaniu większej roli na sezon 2026/2027).
+    *   ❌ Matthias Tass (opuścił klub, przeniósł się do PGE Start Lublin na sezon 2026/2027).
+    *   ✅ Brak istotnych braków kontuzji na dzień 2026-07-17.
+    *   ✅ Nowi zawodnicy na sezon 2026/2027: Szymon Tomczak, Jakub Andrzejewski.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz był decydującym, siódmym spotkaniem finałów PLK sezonu 2025/2026, rozgrywanym na własnym parkiecie Legii Warszawa. Legia Warszawa zdobyła Mistrzostwo Polski, wygrywając ten mecz 78:70. Zastal Zielona Góra zmagał się z potencjalnymi problemami zdrowotnymi kluczowych zawodników, takich jak Filip Matczak i Sagaba Konate, co mogło mieć wpływ na ich dyspozycję w tak ważnym spotkaniu. Przewaga własnego parkietu w decydującym meczu finałowym była znaczącym atutem Legii.
+### 2. Aktualna forma top scorerów:
+*   **ORLEN Zastal Zielona Góra:**
+    *   Z sezonu 2025/2026: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz). Mazurczak pozostaje kluczowym graczem.
+    *   Nowy transfer, Trazarien White, opisywany jest jako "slasher" z dużym potencjałem ofensywnym, notował średnio 24.3 punktu na mecz w lidze australijskiej przed dołączeniem do Zastalu.
+*   **Legia Warszawa:**
+    *   Brak danych z API dla tego zespołu.
+    *   Szymon Tomczak, nowy nabytek Legii, miał "życiowy sezon" 2025/2026 w barwach Energa Czarnych Słupsk, notując średnio 11.9 punktu, 5.3 zbiórek i 1.1 asyst na mecz.
+    *   Michał Kolenda jest kapitanem i kluczowym zawodnikiem pozostającym w zespole.
+
+### 3. Werdykt:
+*   ⚠️ **RYZYKOWNY**
+    *   Mecz jest datowany na przeszłość (21.06.2026), a analiza jest prowadzona w trakcie okienka transferowego (17.07.2026) przed nowym sezonem 2026/2027, co wiąże się ze znacznymi zmianami kadrowymi w obu zespołach. Wiele kluczowych dla poprzedniego sezonu nazwisk opuściło Legię, co może osłabiać jej siłę, pomimo ciekawych transferów przychodzących. Zastal również ma rotację w składzie i kontuzję Konate z poprzedniego sezonu, co wpływa na ocenę pełnej mocy drużyny. Ocena "formy" jest trudna, biorąc pod uwagę okres międzysezonowy i liczne zmiany.

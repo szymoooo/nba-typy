@@ -1,16 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-16 17:46 ET) ---
+--- KRYTYCZNY AUDYT LIVE (2026-07-16 19:01 ET) ---
 Analiza meczu: Knicks @ Spurs
 
-**Typ użytkownika:** Spurs
+*   **Kluczowe braki w składach (na podstawie raportów ze stycznia 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Out (kontuzja prawej kostki, 15 stycznia) 🚑
+        *   Mitchell Robinson: Sidelined/Out/Questionable (zarządzanie kontuzją kostki / kontuzja kostki, 2, 15, 16 stycznia) 🤕
+        *   Josh Hart: Out (długoterminowy problem z kostką, 2, 7, 15, 17 stycznia) 🩹
+        *   Landry Shamet: Questionable/Out (skręcenie prawego barku, 2, 7, 15 stycznia) 🏥
+        *   Karl-Anthony Towns: Problem z plecami (23 stycznia) 🤕
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (uraz uda/lewy przywodziciel, 3, 15, 22 stycznia) 🦵
+        *   Victor Wembanyama: Day-To-Day (kontuzja kolana, 3 stycznia) 🦵
+        *   Jeremy Sochan: Questionable (22 stycznia); Out (ból lewego czworogłowego, 31 stycznia) 🩹
+        *   Luke Kornet: Questionable (22 stycznia) 🤒
 
----
-
-**Kluczowe braki w składach (na podstawie danych z 2026-07-16):**
-
-*   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę. Ostatni dostępny raport z 2026-07-08 wskazywał, że Knicks nie mieli żadnych graczy na liście kontuzjowanych. Raporty dotyczące hipotetycznych meczów Knicks na 2026-07-16 wskazują status "NOT YET SUBMITTED", co oznacza brak potwierdzonych statusów "Out", "Questionable" czy "GTD" na tę datę.
-
-*   **San Antonio Spurs:** Jayden Quaintance (SF) 🤕 – Out. Przeszedł udaną operację kolana (uszkodzenie łąkotki) 16 lipca 2026 roku. Spodziewa się, że opuści cały obóz treningowy i potencjalnie znaczną część sezonu regularnego.
-
-**Werdykt:** [⚠️ RYZYKOWNY]
-
-**Uzasadnienie:** Chociaż Jayden Quaintance to nowo wybrany zawodnik i jego rola w potencjalnym meczu 16 lipca 2026 roku mogłaby być ograniczona, jest to potwierdzona absencja kluczowego dla przyszłości drużyny gracza, który przeszedł operację w dniu meczu. Brak jakichkolwiek potwierdzonych absencji po stronie Knicks, w połączeniu z informacją o kontuzji u Spurs, sprawia, że typ na Spurs jest ryzykowny.
+*   **Werdykt (Typ: Spurs):** [⚠️ RYZYKOWNY]
+    *   Knicks w styczniu 2026 borykali się z poważnymi brakami, w tym z kontuzjami kluczowych graczy takich jak Brunson, Robinson i Hart. Taki stan rzeczy znacząco osłabiłby ich potencjał. Spurs również mieli kilku kontuzjowanych graczy, ale kluczowy Victor Wembanyama był w większości dostępny (oprócz krótkiego statusu "Day-To-Day" na początku miesiąca), a De'Aaron Fox pełnił rolę lidera. Niemniej jednak, bez konkretnego raportu o kontuzjach dla meczu Knicks @ Spurs w styczniu 2026, ocena jest obarczona ryzykiem.
+*   **Raport o kontuzjach na dzisiaj (2026-07-16):** Brak aktualnych raportów (Injury Report) na tę chwilę. Wszelkie statusy w dzisiejszym raporcie NBA są oznaczone jako "NOT YET SUBMITTED".
