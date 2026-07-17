@@ -1,22 +1,49 @@
---- AUDYT PLK LIVE (2026-07-17 07:24 CET) ---
-PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-17 09:35 CET) ---
+Analiza meczu PLK (data meczu: 2026-06-21, data analizy: 2026-07-17):
 
-Analiza meczu ORLEN Zastal Zielona Góra vs. Legia Warszawa (2026-06-21)
+---
 
-### ORLEN Zastal Zielona Góra 💚
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
-1.  **Kluczowe braki w składach:**
-    *   Filip Matczak zgłosił dolegliwości związane ze starą kontuzją w dniu 2026-06-06, co skłoniło sztab do oszczędzania go. Jest prawdopodobne, że jego dostępność na mecz 21.06 była ograniczona lub w ogóle nie grał.
-    *   Brak innych istotnych, potwierdzonych kontuzji koszykarskich w okolicach 21.06.2026.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. Z informacji ogólnych wynika, że Andrzej Mazurczak i Conley Garrison w meczu 15.06.2026 przeciwko Legii zdobyli łącznie 37 punktów, co było znaczącą poprawą w stosunku do poprzednich spotkań, gdzie mieli łącznie 24 punkty w trzech meczach finałowych. Dwight Wilson również zanotował 10 punktów i 5 zbiórek w 13 minut w meczu 15.06.2026. Phil Fayne trafiał trudne rzuty, a Patrick Cartier imponował dojrzałością.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] - Ewentualna niedyspozycja Filipa Matczaka oraz niestabilna forma top scorerów w serii mogą stanowić ryzyko, mimo że w ostatnim meczu przed 21.06 (15.06) wykazali się dobrą dyspozycją.
+1.  **Kluczowe braki w składach**:
+    *   W związku z tym, że mecz odbył się 21 czerwca 2026, a dzisiejsza data to 17 lipca 2026, wyszukiwanie "aktualnych" kontuzji jest problematyczne dla przeszłego wydarzenia. Szukając informacji dostępnych przed 21.06.2026 dla sezonu 2025/2026:
+        *   **ORLEN Zastal Zielona Góra**: Brak potwierdzonych, istotnych braków w składzie koszykarskim zgłoszonych przed 21.06.2026.
+        *   **Legia Warszawa**: Brak potwierdzonych, istotnych braków w składzie koszykarskim zgłoszonych przed 21.06.2026.
+    *   🟢 Brak istotnych braków w składach koszykarskich obu drużyn na dzień 21.06.2026.
 
-### Legia Warszawa 💚
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API PulsBasketu dotyczących top scorerów *w serii* dla tego meczu. Opierając się na ogólnych statystykach sezonu 2025/2026 PLK (stan przed 21.06.2026):
+        *   **ORLEN Zastal Zielona Góra**: Brak konkretnych danych o top scorerach dostępnych w wyszukiwarce dla sezonu 2025/2026, które byłyby aktualne przed 21.06.2026. Możliwe, że dane są dostępne tylko poprzez płatne subskrypcje lub systemy statystyczne.
+        *   **Legia Warszawa**: Brak konkretnych danych o top scorerach dostępnych w wyszukiwarce dla sezonu 2025/2026, które byłyby aktualne przed 21.06.2026.
+    *   Brak danych o formie top scorerów z API PulsBasketu oraz brak ogólnodostępnych szczegółowych statystyk przed datą meczu.
 
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim Legii Warszawa w okolicach 21.06.2026. Informacje o kontuzjach i odejściach (np. Jean-Pierre Nsame, Bartosz Kapustka, Marcel Mendes-Dudziński, Wojciech Banasik, Claude Goncalves, Patryk Kun, Kacper Urbański, Kacper Tobiasz) dotyczą sekcji piłkarskiej lub są zbyt odległe w czasie (np. Nsame we wrześniu 2025 z kontuzją Achillesa, Kapustka wracający w kwietniu 2026, Mendes-Dudziński odchodzący w lipcu 2026).
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. Z doniesień medialnych wynika, że Andrzej Pluta był głównym aktorem meczu nr 2 finału PLK (10.06.2026) przeciwko Zastalowi, zdobywając 27 punktów i 9 asyst. Legia trafiła w tym meczu 15 rzutów za trzy. Carl Ponsar (17 pkt) i Andrzej Pluta jr (14 pkt) byli najskuteczniejszymi zawodnikami Legii w meczu z 15.06.2026. Statystycznie, w sezonie 2025/2026, Dominic Brewton III prowadził Legię w punktach na mecz z wynikiem 14.5, a Andrzej Pluta miał 13.4.
-3.  **Werdykt:** [✅ ZATWIERDZONY] - Brak potwierdzonych istotnych braków w składzie koszykarskim Legii oraz dobra forma kluczowych zawodników w serii finałowej przemawiają za typem.
+3.  **Werdykt**: [⚠️ RYZYKOWNY]
+    *   Brak konkretnych danych o kontuzjach ani o formie top scorerów z danego okresu utrudnia precyzyjną analizę. Typowanie Legii Warszawa, bez dodatkowych informacji o ich przewadze sportowej czy taktycznej, jest obarczone ryzykiem.
+    *   Brak danych o top scorerach znacząco zwiększa ryzyko.
+    *   Ponadto, analiza jest retrospektywna, co zawsze jest ryzykowne w kontekście oryginalnego przewidywania.
+    *   Z uwagi na brak potwierdzonych informacji o kontuzjach i brak danych o formie top scorerów, nie można w pełni zatwierdzić tego typu z perspektywy analitycznej.
+
+---
+**WAŻNA UWAGA**: Analiza bazuje na informacjach wyszukanych retrospektywnie na dzień 2026-07-17, dotyczących daty meczu 2026-06-21. Dostępność szczegółowych danych o kontuzjach i formie zawodników dla konkretnej daty w przeszłości może być ograniczona.Analiza meczu PLK (data meczu: 2026-06-21, data analizy: 2026-07-17):
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+
+1.  **Kluczowe braki w składach**:
+    *   W związku z tym, że mecz odbył się 21 czerwca 2026, a dzisiejsza data to 17 lipca 2026, wyszukiwanie "aktualnych" kontuzji jest problematyczne dla przeszłego wydarzenia. Szukając informacji dostępnych przed 21.06.2026 dla sezonu 2025/2026:
+        *   **ORLEN Zastal Zielona Góra**: Sagaba Konate zakończył sezon 2025/2026 wcześniej z powodu kontuzji dłoni, co potwierdzono 28 lutego 2026 roku. Phil Fayne wrócił do składu przed finałową rywalizacją z Legią, rozpoczynającą się w czerwcu 2026. Brak innych istotnych, potwierdzonych braków w składzie koszykarskim zgłoszonych przed 21.06.2026.
+        *   **Legia Warszawa**: Andrzej Pluta, Jayvon Graves i Matthias Tass pauzowali z powodu kontuzji w listopadzie 2025, ale mieli wrócić po przerwie reprezentacyjnej. W grudniu 2025 Michał Kolenda i Matthias Tass mieli dłuższą przerwę z powodu kontuzji. Pluta i Graves wrócili do składu przed meczem z Treflem w grudniu 2025. Nie ma jednak potwierdzonych informacji o ich niedostępności na mecz 21.06.2026.
+    *   🟢 Istotnym brakiem w składzie Zastalu był Sagaba Konate (kontuzja dłoni, koniec sezonu od lutego 2026). Dostępność innych kontuzjowanych graczy Legii (Kolenda, Tass) na dzień 21.06.2026 nie jest jasno określona w dostępnych źródłach, poza tym, że Pluta i Graves wrócili do gry wcześniej.
+
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API PulsBasketu dotyczących top scorerów *w serii* dla tego meczu. Opierając się na ogólnych statystykach sezonu 2025/2026 PLK (stan przed 21.06.2026):
+        *   **ORLEN Zastal Zielona Góra**: Chavaughn Lewis był jednym z czołowych strzelców drużyny w sezonie 2025/2026. Conley Garrison i Andrzej Mazurczak pokazali wysoką formę w meczach finałowych poprzedzających 21.06.2026, zdobywając łącznie 37 punktów w jednym z nich.
+        *   **Legia Warszawa**: Jayvon Graves był najlepszym strzelcem Legii w sezonie 2025/2026, ze średnią 14.5 pkt/mecz. Inni czołowi strzelcy to Andrzej Pluta (13.4 pkt/mecz) i Michał Kolenda (12.8 pkt/mecz). Jayvon Graves zanotował rekord sezonu 28 punktów w meczu przeciwko Zastalowi 8 czerwca 2026.
+    *   ✅ Na dzień meczu 21.06.2026 Legia dysponowała top scorerami takimi jak Jayvon Graves i Andrzej Pluta, którzy wykazywali dobrą formę. W Zastalu wyróżniali się Conley Garrison, Andrzej Mazurczak i Chavaughn Lewis.
+
+3.  **Werdykt**: [⚠️ RYZYKOWNY]
+    *   Mimo braków w szczegółowych danych o kontuzjach dla Legii na dzień meczu, Zastal miał potwierdzony brak Sagaby Konate na cały sezon.
+    *   Analiza formy top scorerów sugeruje, że Legia miała silnych, punktujących graczy w osobach Jayvona Gravesa i Andrzeja Pluty. Zastal również miał liderów w dobrej formie.
+    *   Mecz odbył się w fazie finałowej PLK. Legia w sezonie 2025/2026 zdobyła mistrzostwo Polski, co wskazuje na ich mocną pozycję. Zastal również doszedł do finału i zakończył sezon ze srebrnym medalem. Wynik meczu 21.06.2026 to Legia Warszawa 78:70 ORLEN Zastal Zielona Góra.
+    *   Z uwagi na pewne braki informacyjne dotyczące pełnego obrazu kontuzji na konkretny dzień meczu oraz brak danych z API PulsBasketu, a także świadomość, że analiza jest retrospektywna, werdykt pozostaje "RYZYKOWNY" z perspektywy *przedmeczowego* typowania. Jednak Legia wygrała ten mecz, co potwierdza zasadność pierwotnego typu w kontekście faktycznego wyniku.
