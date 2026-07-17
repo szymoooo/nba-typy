@@ -1,14 +1,22 @@
---- AUDYT PLK LIVE (2026-07-17 04:02 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-07-17 07:24 CET) ---
+PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+Analiza meczu ORLEN Zastal Zielona Góra vs. Legia Warszawa (2026-06-21)
+
+### ORLEN Zastal Zielona Góra 💚
 
 1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Kluczowy zawodnik Race Thompson zmagał się z problemami zdrowotnymi i był niedostępny na mecze finałowe, w tym na spotkanie 21 czerwca 2026 roku.
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Andrzej Mazurczak wrócił do gry po kontuzji przed rozpoczęciem finałów.
-
+    *   Filip Matczak zgłosił dolegliwości związane ze starą kontuzją w dniu 2026-06-06, co skłoniło sztab do oszczędzania go. Jest prawdopodobne, że jego dostępność na mecz 21.06 była ograniczona lub w ogóle nie grał.
+    *   Brak innych istotnych, potwierdzonych kontuzji koszykarskich w okolicach 21.06.2026.
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+    *   Brak danych z API dla tego zespołu. Z informacji ogólnych wynika, że Andrzej Mazurczak i Conley Garrison w meczu 15.06.2026 przeciwko Legii zdobyli łącznie 37 punktów, co było znaczącą poprawą w stosunku do poprzednich spotkań, gdzie mieli łącznie 24 punkty w trzech meczach finałowych. Dwight Wilson również zanotował 10 punktów i 5 zbiórek w 13 minut w meczu 15.06.2026. Phil Fayne trafiał trudne rzuty, a Patrick Cartier imponował dojrzałością.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] - Ewentualna niedyspozycja Filipa Matczaka oraz niestabilna forma top scorerów w serii mogą stanowić ryzyko, mimo że w ostatnim meczu przed 21.06 (15.06) wykazali się dobrą dyspozycją.
 
-3.  **Werdykt:**
-    *   ⚠️ **RYZYKOWNY** - Mimo przewagi własnego parkietu Legii Warszawa w decydującym meczu numer 7, brak kluczowego gracza Race'a Thompsona stanowił istotny czynnik ryzyka.
+### Legia Warszawa 💚
+
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim Legii Warszawa w okolicach 21.06.2026. Informacje o kontuzjach i odejściach (np. Jean-Pierre Nsame, Bartosz Kapustka, Marcel Mendes-Dudziński, Wojciech Banasik, Claude Goncalves, Patryk Kun, Kacper Urbański, Kacper Tobiasz) dotyczą sekcji piłkarskiej lub są zbyt odległe w czasie (np. Nsame we wrześniu 2025 z kontuzją Achillesa, Kapustka wracający w kwietniu 2026, Mendes-Dudziński odchodzący w lipcu 2026).
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu. Z doniesień medialnych wynika, że Andrzej Pluta był głównym aktorem meczu nr 2 finału PLK (10.06.2026) przeciwko Zastalowi, zdobywając 27 punktów i 9 asyst. Legia trafiła w tym meczu 15 rzutów za trzy. Carl Ponsar (17 pkt) i Andrzej Pluta jr (14 pkt) byli najskuteczniejszymi zawodnikami Legii w meczu z 15.06.2026. Statystycznie, w sezonie 2025/2026, Dominic Brewton III prowadził Legię w punktach na mecz z wynikiem 14.5, a Andrzej Pluta miał 13.4.
+3.  **Werdykt:** [✅ ZATWIERDZONY] - Brak potwierdzonych istotnych braków w składzie koszykarskim Legii oraz dobra forma kluczowych zawodników w serii finałowej przemawiają za typem.
