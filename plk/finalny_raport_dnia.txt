@@ -1,30 +1,14 @@
---- AUDYT PLK LIVE (2026-07-17 01:02 CET) ---
-# PLK typy na 2026-06-21
+--- AUDYT PLK LIVE (2026-07-17 04:02 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-## ORLEN Zastal Zielona Góra @ Legia Warszawa
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-### 1. Kluczowe braki w składach:
-*   **ORLEN Zastal Zielona Góra:**
-    *   ❌ Miłosz Góreńczyk (opuścił klub, przeszedł do Kotwicy Port Morski Kołobrzeg na sezon 2026/2027).
-    *   ❌ Patrick Cartier (opuścił klub, przeszedł do MHP Riesen Ludwigsburg na sezon 2026/2027).
-    *   ⚠️ Sagaba Konate (był kontuzjowany w marcu 2026, brak aktualnych informacji o jego pełnej dyspozycyjności na dzień 2026-07-17, ale informacja o kontuzji z sezonu 2025/2026 była istotna).
-    *   ✅ Nowi zawodnicy na sezon 2026/2027: Trazarien White, Jan Wójcik, Veljko Brkić.
-*   **Legia Warszawa:**
-    *   ❌ Andrzej Pluta (opuścił klub, przeniósł się do ligi hiszpańskiej na sezon 2026/2027).
-    *   ❌ Maksymilian Wilczek (opuścił klub w poszukiwaniu większej roli na sezon 2026/2027).
-    *   ❌ Matthias Tass (opuścił klub, przeniósł się do PGE Start Lublin na sezon 2026/2027).
-    *   ✅ Brak istotnych braków kontuzji na dzień 2026-07-17.
-    *   ✅ Nowi zawodnicy na sezon 2026/2027: Szymon Tomczak, Jakub Andrzejewski.
+1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Kluczowy zawodnik Race Thompson zmagał się z problemami zdrowotnymi i był niedostępny na mecze finałowe, w tym na spotkanie 21 czerwca 2026 roku.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Andrzej Mazurczak wrócił do gry po kontuzji przed rozpoczęciem finałów.
 
-### 2. Aktualna forma top scorerów:
-*   **ORLEN Zastal Zielona Góra:**
-    *   Z sezonu 2025/2026: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz). Mazurczak pozostaje kluczowym graczem.
-    *   Nowy transfer, Trazarien White, opisywany jest jako "slasher" z dużym potencjałem ofensywnym, notował średnio 24.3 punktu na mecz w lidze australijskiej przed dołączeniem do Zastalu.
-*   **Legia Warszawa:**
+2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
-    *   Szymon Tomczak, nowy nabytek Legii, miał "życiowy sezon" 2025/2026 w barwach Energa Czarnych Słupsk, notując średnio 11.9 punktu, 5.3 zbiórek i 1.1 asyst na mecz.
-    *   Michał Kolenda jest kapitanem i kluczowym zawodnikiem pozostającym w zespole.
 
-### 3. Werdykt:
-*   ⚠️ **RYZYKOWNY**
-    *   Mecz jest datowany na przeszłość (21.06.2026), a analiza jest prowadzona w trakcie okienka transferowego (17.07.2026) przed nowym sezonem 2026/2027, co wiąże się ze znacznymi zmianami kadrowymi w obu zespołach. Wiele kluczowych dla poprzedniego sezonu nazwisk opuściło Legię, co może osłabiać jej siłę, pomimo ciekawych transferów przychodzących. Zastal również ma rotację w składzie i kontuzję Konate z poprzedniego sezonu, co wpływa na ocenę pełnej mocy drużyny. Ocena "formy" jest trudna, biorąc pod uwagę okres międzysezonowy i liczne zmiany.
+3.  **Werdykt:**
+    *   ⚠️ **RYZYKOWNY** - Mimo przewagi własnego parkietu Legii Warszawa w decydującym meczu numer 7, brak kluczowego gracza Race'a Thompsona stanowił istotny czynnik ryzyka.

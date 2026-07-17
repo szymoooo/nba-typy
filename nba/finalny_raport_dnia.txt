@@ -1,19 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-16 19:01 ET) ---
-Analiza meczu: Knicks @ Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-07-16 22:02 ET) ---
+**Knicks @ Spurs** -> Typ: Spurs
 
-*   **Kluczowe braki w składach (na podstawie raportów ze stycznia 2026):**
+*   **Kluczowe braki w składach (2026-07-16):**
     *   **New York Knicks:**
-        *   Jalen Brunson: Out (kontuzja prawej kostki, 15 stycznia) 🚑
-        *   Mitchell Robinson: Sidelined/Out/Questionable (zarządzanie kontuzją kostki / kontuzja kostki, 2, 15, 16 stycznia) 🤕
-        *   Josh Hart: Out (długoterminowy problem z kostką, 2, 7, 15, 17 stycznia) 🩹
-        *   Landry Shamet: Questionable/Out (skręcenie prawego barku, 2, 7, 15 stycznia) 🏥
-        *   Karl-Anthony Towns: Problem z plecami (23 stycznia) 🤕
+        *   Jalen Brunson (rozgrywający) - OUT 🚫 (przeszedł operację lewego nadgarstka 7 lipca 2026 r., wymaga co najmniej 2 miesięcy rehabilitacji; zdobywca MVP Finałów 2026).
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę dla innych kluczowych graczy z wykluczeniem lub statusem 'Questionable'/'GTD' na 16 lipca 2026 r.
     *   **San Antonio Spurs:**
-        *   Devin Vassell: Out (uraz uda/lewy przywodziciel, 3, 15, 22 stycznia) 🦵
-        *   Victor Wembanyama: Day-To-Day (kontuzja kolana, 3 stycznia) 🦵
-        *   Jeremy Sochan: Questionable (22 stycznia); Out (ból lewego czworogłowego, 31 stycznia) 🩹
-        *   Luke Kornet: Questionable (22 stycznia) 🤒
+        *   Jayden Quaintance (rookie center) - OUT 🚫 (przeszedł operację prawego kolana 16 lipca 2026 r., wykluczony na czas nieokreślony, powrót spodziewany w 2027 r.).
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę dla innych kluczowych graczy z wykluczeniem lub statusem 'Questionable'/'GTD' na 16 lipca 2026 r. (De'Aaron Fox i Dylan Harper, którzy byli kontuzjowani w maju 2026 r., nie znaleźli się na liście kontuzjowanych przed Finałami 2026 r.).
 
-*   **Werdykt (Typ: Spurs):** [⚠️ RYZYKOWNY]
-    *   Knicks w styczniu 2026 borykali się z poważnymi brakami, w tym z kontuzjami kluczowych graczy takich jak Brunson, Robinson i Hart. Taki stan rzeczy znacząco osłabiłby ich potencjał. Spurs również mieli kilku kontuzjowanych graczy, ale kluczowy Victor Wembanyama był w większości dostępny (oprócz krótkiego statusu "Day-To-Day" na początku miesiąca), a De'Aaron Fox pełnił rolę lidera. Niemniej jednak, bez konkretnego raportu o kontuzjach dla meczu Knicks @ Spurs w styczniu 2026, ocena jest obarczona ryzykiem.
-*   **Raport o kontuzjach na dzisiaj (2026-07-16):** Brak aktualnych raportów (Injury Report) na tę chwilę. Wszelkie statusy w dzisiejszym raporcie NBA są oznaczone jako "NOT YET SUBMITTED".
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mimo że New York Knicks pokonali San Antonio Spurs w Finałach NBA 2026, kluczowa absencja MVP Finałów, Jalena Brunsona, znacząco osłabia Knicks.
+    *   Spurs, mimo kontuzji debiutanta Jaya Quaintance'a (który jako świeżo draftowany zawodnik nie miałby natychmiastowego wpływu na grę), wydają się mieć silniejszy skład na ten konkretny mecz, zwłaszcza biorąc pod uwagę dodanie Tobiasa Harrisa w offseason.
+    *   Bez Brunsona, Knicks tracą swoją główną siłę ofensywną i kreatora gry.
