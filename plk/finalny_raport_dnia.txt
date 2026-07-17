@@ -1,33 +1,13 @@
---- AUDYT PLK LIVE (2026-07-17 21:04 CET) ---
-Mecz PLK na 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-17 21:18 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ: Legia Warszawa
 
-### ORLEN Zastal Zielona Góra
+1.  **Kluczowe braki w składach** 🩹
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+    *   **ORLEN Zastal Zielona Góra:** Drużyna zmagała się z urazami przed finałową serią sezonu 2025/2026. W maju 2026 roku Chavaughn Lewis, jeden z czołowych strzelców Zastalu (średnio 18.5 pkt), odczuwał skutki kolizji i był wykluczony z jednego z wcześniejszych spotkań. Na początku czerwca 2026 roku, tuż przed finałami z Legią, ORLEN Zastal Zielona Góra ogólnie "walczył z urazami", choć Phil Fayne miał wrócić do składu.
 
-1.  **Kluczowe braki w składach:**
-    *   🚫 Sagaba Konate (silny skrzydłowy/środkowy) - wykluczony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026 roku.
-    *   ⚠️ Chavaughn Lewis (rzucający) - w maju 2026 doznał urazu w zderzeniu z Miłoszem Majewskim i wciąż odczuwał ból, co stawiało pod znakiem zapytania jego pełną dyspozycję na kluczowe mecze. Był trzecim strzelcem PLK ze średnią 18.5 pkt.
-    *   ✅ Andrzej Mazurczak (rozgrywający) - wracał do zdrowia po kontuzji i miał być gotowy na finały, trenował w masce.
-    *   Filip Matczak i Jakub Szumert byli kontuzjowani w lutym 2026, ale brak danych o ich niedyspozycji w czerwcu. Jakub Szumert zanotował dobry występ w pierwszym meczu finałów (08.06.2026).
+2.  **Aktualna forma top scorerów** 📊
+    *   Brak danych z API dla tego zespołu.
 
-2.  **Aktualna forma top scorerów:**
-    *   Chavaughn Lewis był wiodącym strzelcem zespołu w sezonie 2025/2026 (18.5 pkt/mecz), jednak jego forma w samej serii finałowej mogła być obniżona przez kontuzję z maja.
-    *   Brak danych z API dla tego zespołu dotyczących konkretnych statystyk z serii finałowej.
-
-### Legia Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   ✅ Brak istotnych braków w składzie koszykarskim. Gracze kontuzjowani w listopadzie 2025 (Andrzej Pluta, Jayvon Graves, Matthias Tass) wrócili do gry.
-
-2.  **Aktualna forma top scorerów:**
-    *   Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz) byli czołowymi strzelcami Legii w sezonie 2025/2026.
-    *   Andrzej Pluta Jr. został MVP Sezonu i MVP Finałów PLK 2025/2026, co świadczy o jego doskonałej formie.
-    *   Brak danych z API dla tego zespołu dotyczących konkretnych statystyk z serii finałowej.
-
-### Werdykt: Legia Warszawa
-
-*   **Typ: Legia Warszawa**
-*   **Werdykt: ✅ ZATWIERDZONY**
-    *   Legia Warszawa była Mistrzem PLK w sezonie 2025/2026, wygrywając z Zastalem Zielona Góra w finale.
-    *   Mecz 2026-06-21 był siódmym i decydującym meczem finałowej serii, który Legia wygrała 78-70.
-    *   Legia Warszawa była najwyżej rozstawioną drużyną po sezonie zasadniczym i miała w składzie MVP Sezonu i Finałów (Andrzeja Plutę Jr.).
-    *   Zastal borykał się z poważną kontuzją Sagaby Konate i potencjalnie ograniczoną dyspozycją Chavaughna Lewisa, co osłabiało ich siłę.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa była liderem sezonu zasadniczego ORLEN Basket Ligi 2025/2026 i ostatecznie zdobyła Mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra w finale. Andrzej Pluta Jr. został uznany MVP sezonu zasadniczego i finałów 2025/2026, co świadczy o jego znakomitej formie i kluczowym wkładzie w sukces Legii. Pomimo walki z urazami, ORLEN Zastal Zielona Góra dotarł do finału, a Conley Garrison został wyróżniony za decydujący rzut w szóstym meczu finałów, który przedłużył nadzieje Zielonogórzan. Legia Warszawa, jako silniejszy zespół sezonu, zwyciężyła w finale 78-70 w meczu rozegranym 21 czerwca 2026 roku.
