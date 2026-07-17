@@ -1,14 +1,22 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-17 11:17 ET) ---
-Analiza meczu: Knicks @ Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-07-17 12:41 ET) ---
+Analiza meczu na podstawie danych ze stycznia 2026:
 
-**Kluczowe braki w składach (stan na 2026-07-17):**
-*   Brak aktualnych raportów (Injury Report) na tę chwilę dla drużyn New York Knicks i San Antonio Spurs. Większość dostępnych raportów wskazuje "No injuries to report" dla zespołów NBA lub są to raporty z ligy WNBA/Summer League.
+**Knicks @ Spurs**
 
-**Analiza składów (stan na styczeń 2026):**
-*   **New York Knicks:** Kadra Knicks na sezon 2025-26 zawierała kluczowych graczy takich jak Jalen Brunson, OG Anunoby, Mikal Bridges, Jordan Clarkson i Karl-Anthony Towns. Skład uzupełniali również Jose Alvarado, Malcolm Brogdon, Andre Drummond, Malachi Flynn, Trey Jemison III, Alex Len, Miles McBride, Kevin McCullar Jr., Mohamed Diawara i Pacome Dadiet.
-*   **San Antonio Spurs:** Skład Spurs na sezon 2025-26 prezentował się bardzo mocno, z graczami takimi jak Victor Wembanyama, De'Aaron Fox, Devin Vassell, Keldon Johnson, Tobias Harris i Harrison Barnes. W składzie byli również Stephon Castle, Julian Champagnie, Dylan Harper, Luke Kornet, Jayden Quaintance, Tarris Reed Jr., Jeremy Sochan, Lindy Waters III, Bismack Biyombo, Carter Bryant, David Jones-Garcia, Devonte' Graham, Jordan McLaughlin, Kelly Olynyk i Mason Plumlee.
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **New York Knicks:**
+        *   Landry Shamet: Out (kontuzja barku) przez większość stycznia. 🩹
+        *   Josh Hart: Out (skręcenie kostki) na początku stycznia, wrócił około 14 stycznia. 🩹
+        *   Karl-Anthony Towns: Questionable (choroba/kontuzja pleców) na początku/w połowie stycznia. 🤕
+        *   Mitchell Robinson: Questionable (ból kostki/zarządzanie kontuzją) przez większość stycznia. 🤕
+        *   Jalen Brunson: Zgłoszony z kontuzją kostki w połowie stycznia. 🩹
+        *   Miles McBride: Out (kontuzja kostki) na początku stycznia. 🩹
+        *   Ariel Hukporti: Questionable (kontuzja mięśnia czworogłowego) w połowie stycznia. 🤕
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (naciągnięcie mięśnia uda/przywodziciela) przez cały styczeń. 🩹
+        *   Victor Wembanyama: Day-To-Day (kolano) na początku stycznia. 🤕
+        *   Jeremy Sochan: Questionable (w połowie/pod koniec stycznia). 🤕
+        *   Luke Kornet: Questionable (w połowie/pod koniec stycznia). 🤕
 
-**Werdykt:**
-Na podstawie dostępnych danych dotyczących składów z sezonu 2025-26 (z uwzględnieniem stycznia 2026), drużyna San Antonio Spurs osiągnęła znakomity bilans 62-20, kończąc sezon na 2. miejscu w Konferencji Zachodniej. Ich skład, wzmocniony czołowymi talentami, jak Victor Wembanyama i De'Aaron Fox, stanowił o ich ogromnej sile. Knicks również dysponowali bardzo mocnym składem w tym okresie, jednak historyczny bilans Spurs przemawia na ich korzyść.
-
-**Spurs -> Typ: ✅ ZATWIERDZONY**
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   **Uzasadnienie:** Chociaż San Antonio Spurs mieli bardzo dobry bilans w styczniu (np. 25-9 na początku miesiąca) i byli mocną drużyną, to brak Devina Vassella był znaczącym osłabieniem. New York Knicks z kolei borykali się z bardziej rozległymi i rotacyjnymi problemami kadrowymi, z kluczowymi graczami takimi jak Karl-Anthony Towns, Mitchell Robinson i Jalen Brunson (na różnych etapach miesiąca) zgłoszonymi jako kontuzjowani lub wątpliwi. Bez dokładnej daty meczu w styczniu, trudno jednoznacznie ocenić precyzyjny skład obu drużyn. Liczne kontuzje i statusy "Questionable" po stronie Knicks, pomimo powrotu Josha Harta w połowie miesiąca, sprawiają, że postawienie na Spurs było ryzykownym typem, ponieważ obie drużyny miały istotne braki. Brak aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby na stan zdrowia zawodników *dzisiaj* (2026-07-17) w kontekście meczu ze stycznia 2026.
