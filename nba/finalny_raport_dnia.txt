@@ -1,22 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-17 12:41 ET) ---
-Analiza meczu na podstawie danych ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-17 13:48 ET) ---
+### Knicks @ Spurs -> Typ: Spurs
 
-**Knicks @ Spurs**
+**Kluczowe braki w składach (Styczeń 2026):**
 
-*   **Kluczowe braki w składach (Styczeń 2026):**
-    *   **New York Knicks:**
-        *   Landry Shamet: Out (kontuzja barku) przez większość stycznia. 🩹
-        *   Josh Hart: Out (skręcenie kostki) na początku stycznia, wrócił około 14 stycznia. 🩹
-        *   Karl-Anthony Towns: Questionable (choroba/kontuzja pleców) na początku/w połowie stycznia. 🤕
-        *   Mitchell Robinson: Questionable (ból kostki/zarządzanie kontuzją) przez większość stycznia. 🤕
-        *   Jalen Brunson: Zgłoszony z kontuzją kostki w połowie stycznia. 🩹
-        *   Miles McBride: Out (kontuzja kostki) na początku stycznia. 🩹
-        *   Ariel Hukporti: Questionable (kontuzja mięśnia czworogłowego) w połowie stycznia. 🤕
-    *   **San Antonio Spurs:**
-        *   Devin Vassell: Out (naciągnięcie mięśnia uda/przywodziciela) przez cały styczeń. 🩹
-        *   Victor Wembanyama: Day-To-Day (kolano) na początku stycznia. 🤕
-        *   Jeremy Sochan: Questionable (w połowie/pod koniec stycznia). 🤕
-        *   Luke Kornet: Questionable (w połowie/pod koniec stycznia). 🤕
+*   **New York Knicks:**
+    *   Jalen Brunson: Prawdopodobnie OUT (np. 15 stycznia – Skręcenie prawej kostki). 🤕
+    *   Mitchell Robinson: Prawdopodobnie OUT (np. 15 stycznia – Kontuzja/zarządzanie urazem lewej kostki; 28 stycznia – Wykluczony). 🩹
+    *   Miles McBride: Prawdopodobnie OUT (np. 28 stycznia – Wykluczony). 🩹
+    *   Josh Hart: Prawdopodobnie Questionable (np. 28 stycznia – Ból prawej kostki). ❓
+    *   Landry Shamet: Prawdopodobnie Questionable (np. 15 stycznia – Skręcenie prawego barku). ❓
+*   **San Antonio Spurs:**
+    *   Devin Vassell: Prawdopodobnie OUT (np. 3 stycznia – Udo). 🩹
+    *   Victor Wembanyama: Prawdopodobnie Day-To-Day (np. 3 stycznia – Kolano). ⏳
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie:** Chociaż San Antonio Spurs mieli bardzo dobry bilans w styczniu (np. 25-9 na początku miesiąca) i byli mocną drużyną, to brak Devina Vassella był znaczącym osłabieniem. New York Knicks z kolei borykali się z bardziej rozległymi i rotacyjnymi problemami kadrowymi, z kluczowymi graczami takimi jak Karl-Anthony Towns, Mitchell Robinson i Jalen Brunson (na różnych etapach miesiąca) zgłoszonymi jako kontuzjowani lub wątpliwi. Bez dokładnej daty meczu w styczniu, trudno jednoznacznie ocenić precyzyjny skład obu drużyn. Liczne kontuzje i statusy "Questionable" po stronie Knicks, pomimo powrotu Josha Harta w połowie miesiąca, sprawiają, że postawienie na Spurs było ryzykownym typem, ponieważ obie drużyny miały istotne braki. Brak aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby na stan zdrowia zawodników *dzisiaj* (2026-07-17) w kontekście meczu ze stycznia 2026.
+Brak aktualnych raportów (Injury Report) na tę chwilę (2026-07-17), które dotyczyłyby bezpośrednio meczu ze stycznia 2026.
+
+**Werdykt:** [✅ ZATWIERDZONY]
+
+**Uzasadnienie:** San Antonio Spurs zakończyli sezon 2025-26 z imponującym bilansem 62-20, zajmując 2. miejsce w Konferencji Zachodniej. Byli silni zarówno w ataku (3. pod względem punktów na mecz), jak i w obronie (8. pod względem punktów przeciwnika na mecz). New York Knicks, choć również mieli dobry sezon (53-29, 3. miejsce w Konferencji Wschodniej), w styczniu 2026 roku zmagali się z licznymi kontuzjami kluczowych graczy, takich jak Jalen Brunson i Mitchell Robinson, co znacząco obniżało ich potencjał. Nawet z potencjalnymi mniejszymi brakami (jak Vassell OUT i Wembanyama Day-To-Day na początku stycznia), Spurs byli drużyną dominującą w tamtym okresie.
