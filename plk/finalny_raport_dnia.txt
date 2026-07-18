@@ -1,13 +1,14 @@
---- AUDYT PLK LIVE (2026-07-18 19:47 CET) ---
-Analiza meczu PLK na 2026-06-21:
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-18 21:45 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Phil Fayne wracał po urazie kostki na finały i trenował indywidualnie, ale był gotowy pomóc zespołowi. Pozostali zawodnicy Zastalu byli gotowi do walki o mistrzowski tytuł.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate był wykluczony do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, doznanego w lutym 2026 roku.
+    *   🏀 **Legia Warszawa:** Michał Kolenda i Matthias Tass doznali kontuzji w grudniu 2025 roku, lecz przewidywane terminy powrotów (6-8 tygodni dla Kolendy, 3 miesiące dla Tassa) sugerowały, że mogli być dostępni na finały. Michał Kolenda zagrał w meczu nr 4 finałów 15 czerwca 2026 roku, zdobywając 7 punktów. Brak potwierdzonych informacji o ich niedostępności na mecz 21 czerwca 2026 roku. Brak innych istotnych braków w składzie koszykarskim.
+
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:**
-    *   ✅ **ZATWIERDZONY**
-        *   Mecz odbywał się w Warszawie i był kluczowym spotkaniem finałowej serii (prawdopodobnie piątym meczem, przy stanie 2-2). Legia, jako obrońca tytułu i zwycięzca sezonu zasadniczego, posiadała przewagę własnego parkietu w decydującej fazie. Brak kluczowych kontuzji u gospodarzy, przy lekkim znaku zapytania o pełną dyspozycję Phila Fayne'a ze strony Zastalu, dodatkowo wspiera ten typ.
+    *   Brak danych z API dla tego zespołu w kontekście promptu. Dostępne są jednak dane z 4. meczu finałów (15.06.2026):
+        *   🏀 **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (21 pkt), Conley Garrison (16 pkt), Dwight Allen Wilson (10 pkt). Andrzej Mazurczak był również trzecim najlepszym strzelcem Zastalu w sezonie 2025/2026 ze średnią 11.8 pkt/mecz.
+        *   🏀 **Legia Warszawa:** Carl Ponsar (17 pkt), Andrzej Pluta (14 pkt), Dominic Brewton (12 pkt). Andrzej Pluta został MVP sezonu 2025/2026 ORLEN Basket Ligi.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się 21 czerwca 2026 roku i był 7. decydującym spotkaniem finałowym sezonu 2025/2026 ORLEN Basket Ligi. Legia Warszawa, grając u siebie, zdobyła Mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra 78:70. Legia Warszawa zakończyła sezon zasadniczy na pierwszym miejscu. Silna pozycja Legii jako faworyta sezonu, tytuł MVP dla Andrzeja Pluty oraz przewaga własnego parkietu w decydującym meczu finałowym, pomimo absencji Sagaby Konate w Zastalu, uzasadniają typ na Legię Warszawa.
