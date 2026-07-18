@@ -1,9 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-18 10:59 ET) ---
-Na podstawie dzisiejszych danych (2026-07-18) i informacji o składach ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-18 12:04 ET) ---
+Oto analiza Twojego typu na podstawie danych ze stycznia 2026 roku:
 
-**Knicks @ Spurs**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+**Knicks @ Spurs** -> Typ: Spurs
+
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Out/Questionable (skręcenie prawej kostki). Jest to kluczowy zawodnik, odpowiadający za 28 punktów i 6 asyst w ofensywie Knicks.
+        *   Josh Hart: Out/Questionable (problemy z kostką, skręcenie prawej kostki). Istotny dla głębi skrzydeł, zbiórek i ruchu piłki.
+        *   Mitchell Robinson: Sidelined/Out (zarządzanie kontuzją kostki).
+        *   Karl-Anthony Towns: Kontuzja pleców (raport z 23 stycznia 2026).
+        *   Landry Shamet: Questionable/Out (skręcenie prawego barku).
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (uraz uda, raport z 3 stycznia 2026).
+        *   Victor Wembanyama: Day-to-Day (problem z kolanem, raport z 3 stycznia 2026). Jego status jest kluczowy.
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę dla innych graczy Spurs na konkretne daty w styczniu 2026, poza ogólną informacją o trzech kontuzjowanych graczach 22 stycznia 2026.
+
 *   **Werdykt:** [⚠️ RYZYKOWNY]
 
-*Uzasadnienie:*
-Brak jest aktualnych raportów o kontuzjach na dzień 2026-07-18, które byłyby specyficzne dla hipotetycznego meczu ze stycznia 2026. Chociaż San Antonio Spurs mieli bardzo mocny sezon 2025-26, kończąc z rekordem 62-20 i jako 2. drużyna w Konferencji Zachodniej, a także byli wymieniani jako obrońcy tytułu mistrzów Konferencji Zachodniej w 2026, inne źródła wskazują na to, że New York Knicks zdobyli tytuł mistrza NBA w 2026 roku. Konflikt tych informacji oraz brak szczegółowych danych o składach meczowych i kontuzjach w styczniu 2026 sprawia, że zatwierdzenie tego typu jest ryzykowne.
+*   **Uzasadnienie:** Chociaż New York Knicks borykali się ze znaczącymi brakami kluczowych graczy (Brunson, Hart, Robinson, Towns) przez większość stycznia 2026, typ na Spurs jest ryzykowny ze względu na niepewność co do statusu Victora Wembanyamy (day-to-day z powodu kolana na początku miesiąca). Jeśli Wembanyama byłby niedostępny, znacząco osłabiłoby to Spurs, mimo problemów kadrowych Knicks. Bez jasnego statusu Wembanyamy na dzień meczu, typ jest obarczony ryzykiem.
