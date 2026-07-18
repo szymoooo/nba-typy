@@ -1,17 +1,30 @@
---- AUDYT PLK LIVE (2026-07-18 10:46 CET) ---
-=========================================================================
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-18 11:21 CET) ---
+Analiza meczu PLK z dnia 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim zgłoszonych przed 21 czerwca 2026 roku.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim zgłoszonych przed 21 czerwca 2026 roku.
+📍 Mecz odbył się w OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40, 01-494 Warszawa.
 
-2.  **Aktualna forma top scorerów:**
-    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
-    *   **Legia Warszawa:** Brak danych z API dla tego zespołu.
+### ORLEN Zastal Zielona Góra
 
+1.  **Kluczowe braki w składzie:**
+    *   Brak istotnych braków w składzie koszykarskim. Filip Matczak i Andrzej Mazurczak wystąpili w maskach z powodu urazów nosa, ale byli dostępni do gry. Phil Fayne powrócił do składu na finały.
+2.  **Aktualna forma top scorerów (mecz 2026-06-21):**
+    *   Andrzej Mazurczak: 10 punktów.
+    *   Brak danych z API dla tego zespołu (dla całej serii).
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Bez zgłoszonych kluczowych braków w składach obu drużyn w okolicach 21 czerwca 2026 roku, nie ma zewnętrznych czynników, które podważałyby typ na Legię Warszawa na podstawie dostępnych informacji.
 
-*Wszystkie informacje o kontuzjach i brakach w składach odnoszą się do stanu drużyn koszykarskich w okolicach 21 czerwca 2026 roku, zgodnie z publicznie dostępnymi danymi na dzień 2026-07-18.*
+### Legia Warszawa
+
+1.  **Kluczowe braki w składzie:**
+    *   Brak istotnych braków w składzie koszykarskim. Michał Kolenda i Matthias Tass, którzy mieli kontuzje w grudniu 2025 roku, byli już dostępni i grali w finałach.
+2.  **Aktualna forma top scorerów (mecz 2026-06-21):**
+    *   Andrzej Pluta: 15 punktów.
+    *   Race Thompson: 11 punktów.
+    *   Dominic Brewton III: 11 punktów.
+    *   Shane Hunter: 10 punktów.
+    *   Brak danych z API dla tego zespołu (dla całej serii).
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+
+### Werdykt końcowy dla typu: Legia Warszawa
+
+*   **Legia Warszawa zwyciężyła w tym meczu 78:70 i zdobyła mistrzostwo Polski w sezonie 2025/2026, wygrywając serię 4-3.**
+*   **Werdykt:** [✅ ZATWIERDZONY]
