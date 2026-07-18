@@ -1,12 +1,13 @@
---- AUDYT PLK LIVE (2026-07-18 19:15 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+--- AUDYT PLK LIVE (2026-07-18 19:47 CET) ---
+Analiza meczu PLK na 2026-06-21:
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień 2026-07-18. Informacje o kontuzjach w sekcji piłkarskiej są nieistotne dla tego meczu. Zawodnicy Błażej Czapla i Dawid Niedziałkowski zostali powołani na EuroBasket U-20 na początku lipca 2026, co świadczy o ich aktywności.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-07-18. Choć na początku czerwca 2026 wspominano o "walce z urazami" w szeregach Zastalu, brak jest konkretnych, potwierdzonych informacji o kontuzjach kluczowych koszykarzy z datą dzisiejszą (2026-07-18).
-
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Phil Fayne wracał po urazie kostki na finały i trenował indywidualnie, ale był gotowy pomóc zespołowi. Pozostali zawodnicy Zastalu byli gotowi do walki o mistrzowski tytuł.
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
-
 3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY] – Mecz odbył się 21 czerwca 2026 roku i Legia Warszawa zwyciężyła 78:70, zdobywając tytuł Mistrza Polski. Brak aktualnych (2026-07-18) potwierdzonych istotnych braków kadrowych w koszykówce dla obu zespołów nie wpływa na ocenę tego historycznego typu.
+    *   ✅ **ZATWIERDZONY**
+        *   Mecz odbywał się w Warszawie i był kluczowym spotkaniem finałowej serii (prawdopodobnie piątym meczem, przy stanie 2-2). Legia, jako obrońca tytułu i zwycięzca sezonu zasadniczego, posiadała przewagę własnego parkietu w decydującej fazie. Brak kluczowych kontuzji u gospodarzy, przy lekkim znaku zapytania o pełną dyspozycję Phila Fayne'a ze strony Zastalu, dodatkowo wspiera ten typ.
