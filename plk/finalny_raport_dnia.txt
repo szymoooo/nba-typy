@@ -1,31 +1,17 @@
---- AUDYT PLK LIVE (2026-07-18 06:43 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ z 2026-06-21: Legia Warszawa)
+--- AUDYT PLK LIVE (2026-07-18 10:46 CET) ---
+=========================================================================
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-Zgodnie z datą dzisiejszą (2026-07-18) przeprowadzam audyt typów, bazując na aktualnych informacjach o składach koszykarskich.
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim zgłoszonych przed 21 czerwca 2026 roku.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim zgłoszonych przed 21 czerwca 2026 roku.
 
----
+2.  **Aktualna forma top scorerów:**
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu.
 
-**ORLEN Zastal Zielona Góra**
-1.  **Kluczowe braki w składach**:
-    *   Brak istotnych braków w składzie koszykarskim (brak aktualnych, potwierdzonych kontuzji na dzień 2026-07-18) ✅.
-    *   Informacje o kontuzjach Chavaughna Lewisa i Miłosza Majewskiego z maja 2026 oraz statusie Andrzeja Mazurczaka z czerwca 2026 dotyczą przeszłości i nie są aktualnymi brakami na dzień 18.07.2026. Klub ogłosił nowe transfery (Jan Wójcik, Trazarien White) na sezon 2026/2027, co świadczy o ruchach kadrowych, ale nie o brakach z obecnej kadry.
-2.  **Aktualna forma top scorerów**:
-    *   Brak danych z API dla tego zespołu.
-    *   W sezonie 2025/2026 wiodącymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
-3.  **Werdykt**: [⚠️ RYZYKOWNY]
-    *   Mimo braku aktualnych kontuzji, ruchy kadrowe i fakt, że ocena dotyczy przeszłego meczu z perspektywy dzisiejszej (po sezonie), sprawiają, że ocena aktualnej siły drużyny jest ryzykowna bez znajomości dynamiki zmian w stosunku do daty meczu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Bez zgłoszonych kluczowych braków w składach obu drużyn w okolicach 21 czerwca 2026 roku, nie ma zewnętrznych czynników, które podważałyby typ na Legię Warszawa na podstawie dostępnych informacji.
 
-**Legia Warszawa**
-1.  **Kluczowe braki w składach**:
-    *   Brak istotnych braków w składzie koszykarskim (brak aktualnych, potwierdzonych kontuzji na dzień 2026-07-18) ✅.
-    *   Z kadry Legii Warszawa koszykówka odeszli ważni zawodnicy: Shane Hunter i Race Thompson (14.07.2026) oraz Ojārs Siliņš (05.07.2026). Są to istotne braki w kadrze na dzień dzisiejszy (2026-07-18) w porównaniu do składu z sezonu 2025/2026.
-    *   Kontuzje Michała Kolendy i Matthiasa Tassa z grudnia 2025 roku dotyczyły sezonu 2025/2026, ale na dzień 18.07.2026 są to urazy historyczne, które prawdopodobnie zostały wyleczone.
-    *   Informacje o kontuzjach piłkarzy (Antonio Colak, Zoran Arsenić, Wojciech Urbański, Paweł Wszołek i inni) są nieistotne dla sekcji koszykarskiej.
-2.  **Aktualna forma top scorerów**:
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt**: [⚠️ RYZYKOWNY]
-    *   Legia Warszawa, pomimo że historycznie wygrała ten mecz (78-70 dnia 21.06.2026), na dzień dzisiejszy (2026-07-18) odnotowała odejścia kluczowych zawodników z kadry z sezonu 2025/2026 (Thompson, Hunter, Siliņš). Te zmiany osłabiają jej obecny potencjał, co czyni typ oparty na aktualnej sile drużyny ryzykownym.
-
----
-**Werdykt końcowy dla typu: Legia Warszawa**
-*   [⚠️ RYZYKOWNY] – Typ został historycznie zatwierdzony (Legia wygrała mecz), jednakże analiza aktualnych składów na dzień 2026-07-18 wskazuje na osłabienia w kadrze Legii (odejścia kluczowych graczy), co czyni ten typ ryzykownym, jeśli miałby być prognozą na dzień dzisiejszy.
+*Wszystkie informacje o kontuzjach i brakach w składach odnoszą się do stanu drużyn koszykarskich w okolicach 21 czerwca 2026 roku, zgodnie z publicznie dostępnymi danymi na dzień 2026-07-18.*
