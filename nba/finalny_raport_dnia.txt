@@ -1,6 +1,9 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-18 13:47 ET) ---
-Na podstawie dzisiejszych danych (2026-07-18) dotyczących NBA:
+--- KRYTYCZNY AUDYT LIVE (2026-07-18 14:28 ET) ---
+Analiza meczu na dzień 2026-07-18:
 
-**Knicks @ Spurs**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. Liga NBA jest w okresie poza sezonem, a dla daty 18 lipca 2026 r. raporty o kontuzjach dotyczące meczów są oznaczone jako "NOT YET SUBMITTED".
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych o aktywnych meczach i raportów o kontuzjach uniemożliwia rzetelną analizę.
+**Knicks @ Spurs -> Typ: Spurs**
+
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. (NBA jest w okresie poza sezonem, a oficjalne raporty kontuzji na dzień 2026-07-18 wskazują status "NOT YET SUBMITTED" dla wszystkich meczów).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak aktualnych raportów kontuzji uniemożliwia rygorystyczną ocenę typów w oparciu o bieżący stan zdrowia zawodników.
+    *   W związku z okresem poza sezonem NBA, jakakolwiek ocena typu jest spekulatywna i nie opiera się na danych meczowych ani statusach kontuzji. Składy obu drużyn, takie jak New York Knicks (m.in. Jalen Brunson, Jordan Clarkson, Karl-Anthony Towns, Jeremy Sochan) oraz San Antonio Spurs (m.in. Victor Wembanyama, De'Aaron Fox, Devin Vassell), są znane, ale bez kontekstu konkretnego meczu i raportów kontuzji, zatwierdzenie typu jest niemożliwe.
