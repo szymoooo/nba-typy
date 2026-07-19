@@ -1,29 +1,13 @@
---- AUDYT PLK LIVE (2026-07-19 11:46 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)
-
----
-
-**ORLEN Zastal Zielona Góra:**
+--- AUDYT PLK LIVE (2026-07-19 11:49 CET) ---
+Analiza meczu: **ORLEN Zastal Zielona Góra @ Legia Warszawa** (data meczu: 2026-06-21)
 
 1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-07-19.
-    *   Klub wzmocnił się przed sezonem 2026/2027 m.in. powrotem Jana Wójcika (15 lipca 2026) oraz pozyskaniem Jakuba Galewskiego (19 lipca 2026). Aktualny skład na sezon 2026/2027 obejmuje również Andy'ego Mazurczaka, Conleya Garrisona i Filipa Matczaka.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Phil Fayne, który wcześniej zmagał się z kwestiami rodzinnymi, wrócił do zespołu na serię finałową w czerwcu 2026 i był aktywny w meczach finałowych.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Gracze tacy jak Andrzej Pluta, Jayvon Graves i Matthias Tass, którzy mieli kontuzje w listopadzie 2025, wrócili na parkiet po przerwie reprezentacyjnej i brali udział w meczach finałowych.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (sezon 2025/2026, stan na czerwiec 2026):**
+    *   **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 do czołowych strzelców należeli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) oraz Andrzej Mazurczak (11.8 Pkt/mecz). W czwartym meczu finałowym (15.06.2026), Andrzej Mazurczak zdobył 21 punktów, Conley Garrison 16, a Dwight Allen Wilson 10, prowadząc Zastal do zwycięstwa.
+    *   **Legia Warszawa:** Liderami punktowymi w sezonie 2025/2026 byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). W czwartym meczu finałowym (15.06.2026), Legię prowadzili Carl Ponsar (17 pkt), Andrzej Pluta (14 pkt) i Dominic Brewton (12 pkt). Andrzej Pluta Jr. został MVP Finałów sezonu 2025/2026.
 
----
-
-**Legia Warszawa:**
-
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-07-19.
-    *   Skład Legii Warszawa na sezon 2026/2027 jest w trakcie formowania, z uwzględnieniem nowych zawodników takich jak Dominic Brewton III, Jayvon Graves i Shane Hunter. Informacje o kontuzjach Michała Kolendy i Matthiasa Tassa pochodzą z grudnia 2025 i nie są aktualne na dzień dzisiejszy.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
----
-
-**Werdykt dla typy: Legia Warszawa**
-✅ ZATWIERDZONY (Brak potwierdzonych, istotnych braków kadrowych w sekcjach koszykarskich obu drużyn na dzień 2026-07-19).
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Legia Warszawa była obrońcą tytułu i zajęła 1. miejsce w sezonie zasadniczym 2025/2026. Zastal Zielona Góra, mimo że zajął 8. miejsce w rundzie zasadniczej, dotarł do finału. Seria finałowa była wyrównana (remis 2-2 po 4 meczach), a Legia ostatecznie zdobyła mistrzostwo Polski w sezonie 2025/2026. Biorąc pod uwagę, że Legia była faworytem i ostatecznym zwycięzcą ligi, a także brak kluczowych braków w składzie w decydującej fazie sezonu, typ na Legię Warszawa na dzień 2026-06-21 (prawdopodobnie jeden z decydujących meczów finału) jest uzasadniony.
