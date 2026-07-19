@@ -1,15 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-19 16:57 ET) ---
-Na podstawie danych ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-19 17:08 ET) ---
+Knicks @ Spurs -> Typ: Spurs
 
-**Knicks @ Spurs**
-
-*   **Kluczowe braki w składach (styczeń 2026):**
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **San Antonio Spurs:**
+        *   Victor Wembanyama: Out (Left Knee Soreness - 02.01.2026) 🤕
+        *   Devin Vassell: Out (Left Adductor Strain - 02.01.2026) 🤕
     *   **New York Knicks:**
-        *   Mitchell Robinson: Questionable (Ankle, 2 stycznia 2026), Out (28 stycznia 2026) 🤕
-        *   Landry Shamet: Out (Shoulder, 2 stycznia 2026) 🤕
-        *   Josh Hart: Out (Ankle, 2 stycznia 2026), Questionable (Prawostronny ból kostki, 28 stycznia 2026) 🤕
-        *   Miles McBride: Out (28 stycznia 2026) 🤕
-    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) z potwierdzonymi statusami 'Out', 'Questionable', 'GTD' na styczeń 2026. Raport z 19 stycznia 2026 dla meczu SAS@HOU wskazywał "NOT YET SUBMITTED" (Raport nie został jeszcze przesłany).
+        *   Josh Hart: Out (Right Ankle Sprain - 02.01.2026) 🤕
+        *   Mitchell Robinson: Questionable (Left Ankle - 02.01.2026), Out (Left Ankle injury Management - 15.01.2026) 🤕
+        *   Jalen Brunson: Out (Right Ankle Sprain - 15.01.2026) 🤕
+        *   Landry Shamet: Questionable (Right Shoulder Sprain - 15.01.2026) 🤕
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   New York Knicks borykali się z licznymi kontuzjami kluczowych graczy w styczniu 2026, w tym Mitchell Robinson, Josh Hart, Landry Shamet i Miles McBride. Brak jest potwierdzonych raportów o istotnych kontuzjach dla San Antonio Spurs w tym samym okresie, co sugeruje, że ich skład był w lepszej kondycji.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    Biorąc pod uwagę, że kluczowi gracze San Antonio Spurs, tacy jak Victor Wembanyama i Devin Vassell, byli poza grą z powodu kontuzji na początku stycznia 2026 roku, typ na Spurs jest ryzykowny. New York Knicks również zmagało się z ważnymi absencjami, w tym Josha Harta, Jalen Brunsona i Mitchell Robinsona w różnych momentach stycznia.
