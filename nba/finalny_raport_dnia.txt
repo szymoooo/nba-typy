@@ -1,7 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-19 14:29 ET) ---
-Na podstawie danych z 2026-07-19:
+--- KRYTYCZNY AUDYT LIVE (2026-07-19 16:57 ET) ---
+Na podstawie danych ze stycznia 2026:
 
-**Knicks @ Spurs** -> Typ: Spurs
+**Knicks @ Spurs**
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY] (Brak informacji o kluczowych kontuzjach, które wpłynęłyby na ryzyko typu).
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New York Knicks:**
+        *   Mitchell Robinson: Questionable (Ankle, 2 stycznia 2026), Out (28 stycznia 2026) 🤕
+        *   Landry Shamet: Out (Shoulder, 2 stycznia 2026) 🤕
+        *   Josh Hart: Out (Ankle, 2 stycznia 2026), Questionable (Prawostronny ból kostki, 28 stycznia 2026) 🤕
+        *   Miles McBride: Out (28 stycznia 2026) 🤕
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) z potwierdzonymi statusami 'Out', 'Questionable', 'GTD' na styczeń 2026. Raport z 19 stycznia 2026 dla meczu SAS@HOU wskazywał "NOT YET SUBMITTED" (Raport nie został jeszcze przesłany).
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   New York Knicks borykali się z licznymi kontuzjami kluczowych graczy w styczniu 2026, w tym Mitchell Robinson, Josh Hart, Landry Shamet i Miles McBride. Brak jest potwierdzonych raportów o istotnych kontuzjach dla San Antonio Spurs w tym samym okresie, co sugeruje, że ich skład był w lepszej kondycji.
