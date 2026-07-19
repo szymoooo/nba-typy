@@ -1,12 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-18 16:52 ET) ---
+--- KRYTYCZNY AUDYT LIVE (2026-07-18 21:06 ET) ---
 Analiza meczu: Knicks @ Spurs
+Typ użytkownika: Spurs
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. 📅 (dla 2026-07-18)
+---
 
-*   **Skład New York Knicks (sezon 2025-26):** Kluczowi gracze w składzie na sezon 2025-26 obejmują Jalen Brunson, OG Anunoby, Mikal Bridges, Jordan Clarkson oraz Karl-Anthony Towns i Jeremy Sochan.
+*   **Kluczowe braki w składach (stan na 2026-07-18):**
+    *   **New York Knicks:**
+        *   Mohamed Diawara (F): Kontuzja palca, opuścił mecze Summer League.
+        *   Mitchell Robinson (C): Kontuzja palca (ostatnia aktualizacja 04.06.2026).
+        *   OG Anunoby (PF): Kontuzja ścięgna podkolanowego (ostatnia aktualizacja 18.05.2026).
+        *   Josh Hart (SG): Kontuzja kciuka (ostatnia aktualizacja 07.05.2026).
+    *   **San Antonio Spurs:**
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalny raport z dnia 18.07.2026 wskazuje status "NOT YET SUBMITTED".
 
-*   **Skład San Antonio Spurs (sezon 2025-26/2026-27):** Kluczowi gracze w składzie na sezony 2025-26/2026-27 to Victor Wembanyama, Devin Vassell, Keldon Johnson, Julian Champagnie oraz De'Aaron Fox i Stephon Castle.
+*   **Werdykt:** [✅ ZATWIERDZONY]
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Bez konkretnych informacji o statusie kontuzji dla stycznia 2026 roku, ani aktualnych raportów kontuzji na dzień 2026-07-18, ocena jest obarczona dużym ryzykiem. Składy obu drużyn wydają się być mocne, z Knicks posiadającymi doświadczony i utalentowany trzon, a Spurs rozwijającymi się wokół Victora Wembanyamy. Na podstawie samych nazwisk, Knicks wydają się mieć bardziej ugruntowany i głęboki skład. Typ na Spurs jest ryzykowny bez dalszych danych o ich formie i dostępności kluczowych graczy w styczniu 2026.
+**Uzasadnienie:**
+Roster New York Knicks na styczeń 2026 obejmował takie nazwiska jak Jalen Brunson, OG Anunoby, Mikal Bridges, Josh Hart i Karl-Anthony Towns. Z kolei skład San Antonio Spurs na styczeń 2026 zawierał takich zawodników jak Victor Wembanyama, Devin Vassell, Keldon Johnson i De'Aaron Fox.
+
+Biorąc pod uwagę aktualne raporty kontuzji (stan na 18.07.2026), New York Knicks borykają się z kilkoma istotnymi brakami, w tym z urazami kluczowych graczy, takich jak Mitchell Robinson, OG Anunoby i Josh Hart, a także nowszym urazem Mohameda Diawary. W przypadku San Antonio Spurs, nie ma aktualnie potwierdzonych raportów o kontuzjach na dzień 18.07.2026 ze statusem 'Out', 'Questionable' lub 'GTD'. Przyjmując hipotetyczny mecz rozgrywany dzisiaj (18.07.2026), przewaga zdrowotna przemawia za Spurs, co czyni typ [Spurs] zatwierdzonym.
