@@ -1,25 +1,25 @@
---- AUDYT PLK LIVE (2026-07-20 01:04 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-20 01:13 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-### Analiza meczu (stan na 2026-07-20)
-
-Ze względu na to, że dzisiejsza data to 2026-07-20, a mecz odbył się 2026-06-21, analiza opiera się o aktualny stan kadrowy i transfery w okresie poza sezonowym 2026/2027, a nie o historyczne dane z dnia meczu.
-
-#### ORLEN Zastal Zielona Góra
-
+### ORLEN Zastal Zielona Góra
 1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-20. Okres transferowy jest w toku, a większość zespołów PLK finalizuje składy na nadchodzący sezon 2026/2027.
+    *   ❌ **Sagaba Konate** (silny skrzydłowy/środkowy): Doznał kontuzji dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka) podczas Pekao S.A. Pucharu Polski w lutym 2026 roku, co zakończyło dla niego sezon 2025/2026.
+    *   ⚠️ **Chavaughn Lewis** (rzucający): Odniósł poważny uraz w meczu z Dzikami Warszawa 8 maja 2026 roku i był wykluczony z gry o 7. miejsce. Był najlepszym strzelcem Zastalu w sezonie 2025/2026 ze średnią 15.8 pkt/mecz. Jego status na 21 czerwca 2026 r. jest niejasny, ale prawdopodobnie był niedostępny lub mocno ograniczony.
+    *   ⚠️ **Filip Matczak** (rozgrywający) i **Jakub Szumert** (silny skrzydłowy): Obaj byli kontuzjowani w lutym 2026 roku przed meczem Pucharu Polski. Przed finałami (początek czerwca 2026) trener Zastalu, Arkadiusz Miłoszewski, informował o monitorowaniu sytuacji zdrowotnej kilku ważnych zawodników, w tym Matczaka i Szumerta, co sugeruje, że ich pełna dyspozycja mogła być problemem. Jakub Szumert był drugim najlepszym polskim zawodnikiem sezonu zasadniczego 2025/2026.
+    *   ✅ **Phil Fayne** (silny skrzydłowy): Wrócił do zespołu na serię finałową po sprawach rodzinnych w USA (informacja z 6 czerwca 2026 r.). Trenował indywidualnie, ale jego pełna gotowość do gry w pierwszym meczu finału była niepewna. W meczu 21 czerwca prawdopodobnie był już do dyspozycji, choć jego forma mogła być daleka od optymalnej.
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w kontekście "formy w serii" na dzień 2026-07-20. Trwają doniesienia o ruchach kadrowych i negocjacjach kontraktowych na sezon 2026/2027.
-
-#### Legia Warszawa
-
+    *   **Chavaughn Lewis**: Był najlepszym strzelcem Zastalu (15.8 pkt/mecz), ale jego kontuzja z maja 2026 r. stawiała jego formę pod dużym znakiem zapytania.
+    *   **Jakub Szumert**: Był drugim najlepszym strzelcem drużyny (13.2 pkt/mecz) i docenionym polskim zawodnikiem, jednak jego dyspozycja mogła być osłabiona przez wcześniejsze problemy zdrowotne.
+    *   **Andrzej Mazurczak**: Trzeci strzelec zespołu ze średnią 11.8 pkt/mecz w sezonie 2025/2026.
+### Legia Warszawa
 1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-20. Kluby PLK są w fazie budowania lub potwierdzania składów na nadchodzący sezon 2026/2027.
+    *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 21 czerwca 2026 roku.
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w kontekście "formy w serii" na dzień 2026-07-20. Doniesienia prasowe koncentrują się na letnich transferach i przygotowaniach do nowego sezonu.
+    *   **Andrzej Pluta**: Został wybrany MVP sezonu zasadniczego ORLEN Basket Ligi 2025/2026 oraz najlepszym polskim zawodnikiem sezonu zasadniczego (informacja z 7 maja 2026 r.), co świadczy o jego znakomitej formie. Był kluczowym elementem ofensywy Legii.
+    *   **Jayvon Graves**: Był jedną z wiodących postaci Legii w sezonie 2025/2026 i jednym z najlepszych obrońców ligi, co przyczyniło się do sukcesów zespołu.
+    *   Brak danych z API dla pozostałych wiodących strzelców.
 
-#### Werdykt:
-Na dzień 2026-07-20, brak jest konkretnych danych dotyczących kontuzji lub niedyspozycji koszykarzy dla obu drużyn, które mogłyby wpłynąć na ocenę *minionego* meczu. W okresie międzysezonowym składy są w fazie zmian, a informacje o formie czy brakach dotyczących *minionego* meczu (2026-06-21) nie są dostępne w kontekście dzisiejszej daty analizy (2026-07-20). Tym samym, nie ma wystarczających informacji, aby potwierdzić lub podważyć typ z daty meczu.
+### Werdykt:
+[⚠️ RYZYKOWNY]
 
-⚠️ **RYZYKOWNY** (z uwagi na brak aktualnych danych z dnia meczu i analizę w okresie off-season).
+**Uzasadnienie:** Mecz jest ryzykowny dla typu na Legię Warszawa, nie ze względu na formę Legii, ale z uwagi na znaczące braki kadrowe w zespole ORLEN Zastalu Zielona Góra. Sagaba Konate był wykluczony z gry na cały sezon, a ich najlepszy strzelec, Chavaughn Lewis, był kontuzjowany blisko terminu meczu i jego występ był wątpliwy. Dodatkowo, Filip Matczak i Jakub Szumert również zmagali się z urazami. Te osłabienia w kluczowych pozycjach Zastalu, zwłaszcza w obliczu meczu finałowego, sprawiają, że ich zdolność do skutecznej rywalizacji była znacznie ograniczona. Legia Warszawa, z MVP ligi Andrzejem Plutą w składzie i bez zgłoszonych kontuzji, miała wyraźną przewagę kadrową.
