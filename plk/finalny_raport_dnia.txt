@@ -1,12 +1,16 @@
---- AUDYT PLK LIVE (2026-07-19 04:02 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-19 09:47 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-1.  **Kluczowe braki w składach (na dzień 2026-06-21):**
-    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim dla Legii Warszawa i ORLEN Zastal Zielona Góra na dzień 2026-06-21. Obie drużyny rywalizowały w finale PLK, co sugeruje optymalne składy.
+1.  **Kluczowe braki w składach**:
+    *   Brak istotnych braków w składzie koszykarskim dla obu drużyn na dzień 2026-07-19.
+    *   Należy odnotować, że 13 czerwca 2026 roku Filip Matczak i Andrzej Mazurczak z ORLEN Zastalu Zielona Góra wystąpili w maskach z powodu wcześniejszych urazów nosa, jednak byli zdolni do gry w okresie finałów.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **ORLEN Zastal Zielona Góra:** Najlepsi strzelcy w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Jakub Szumert został wybrany najlepszym zawodnikiem młodzieżowym ORLEN Basket Ligi w sezonie 2025/2026.
-    *   **Legia Warszawa:** Andrzej Pluta Jr. został uznany MVP Finałów i MVP Sezonu PLK 2025/2026. Brak danych z API dla tego zespołu w kontekście top scorerów na mecz.
+2.  **Aktualna forma top scorerów (sezon 2025/26)**:
+    *   🏀 **ORLEN Zastal Zielona Góra**: Wiodący strzelcy to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   🏀 **Legia Warszawa**: Najlepsi strzelcy to Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). Andrzej Pluta został wybrany Najbardziej Wartościowym Zawodnikiem (MVP) sezonu zasadniczego 2025/26 Orlen Basket Ligi.
 
-3.  **Werdykt:**
-    *   ✅ ZATWIERDZONY - Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra 4-3 w serii finałowej. Ostatni mecz serii, rozegrany 21 czerwca 2026 roku, zakończył się zwycięstwem Legii 78:70.
+3.  **Werdykt**: ✅ ZATWIERDZONY
+    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałów PLK sezonu 2025/26.
+    *   Legia Warszawa, grając u siebie, wygrała to spotkanie 78:70, zdobywając Mistrzostwo Polski.
+    *   Legia była najlepszą drużyną sezonu zasadniczego i obroniła tytuł mistrzowski.
+    *   Brak potwierdzonych istotnych braków w składach koszykarskich na dzień analizy (2026-07-19) oraz fakt, że Legia dysponowała MVP sezonu, Andrzejem Plutą, a także miała przewagę własnego parkietu w decydującym meczu, świadczy o mocnej pozycji Legii.
