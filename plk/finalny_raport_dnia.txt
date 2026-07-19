@@ -1,18 +1,25 @@
---- AUDYT PLK LIVE (2026-07-20 00:00 CET) ---
-Analiza meczu PLK na dzień 2026-06-21:
+--- AUDYT PLK LIVE (2026-07-20 01:04 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+### Analiza meczu (stan na 2026-07-20)
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)**:
-    *   **ORLEN Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim. W ostatnim znanym meczu (Game 6 finału, 19.06.2026) wszyscy kluczowi zawodnicy byli aktywni.
-    *   **Legia Warszawa**:
-        *   ❌ **Matthias Tass**: W grudniu 2025 roku zgłoszono, że czeka go dłuższa przerwa z powodu kontuzji. Nie figuruje w statystykach meczu z 19.06.2026, co sugeruje jego dalszą niedostępność.
-        *   ✅ **Michał Kolenda**: Mimo wcześniejszych doniesień o dłuższej przerwie, zagrał w meczu 19.06.2026, zdobywając 5 punktów.
-        *   ⚠️ **Shane Hunter**: Zakończył mecz 19.06.2026 z 5 faulami, ale foul-out z jednego meczu zazwyczaj nie skutkuje zawieszeniem na kolejny.
+Ze względu na to, że dzisiejsza data to 2026-07-20, a mecz odbył się 2026-06-21, analiza opiera się o aktualny stan kadrowy i transfery w okresie poza sezonowym 2026/2027, a nie o historyczne dane z dnia meczu.
 
-2.  **Aktualna forma top scorerów**: (Na podstawie meczu Game 6 finału z 19.06.2026, jako najbliższego znanego spotkania w serii)
-    *   **ORLEN Zastal Zielona Góra**: Najlepsi strzelcy w ostatnim meczu to Chavaughn Lewis (18 Pkt), Conley Garrison (17 Pkt) i Andrzej Mazurczak (15 Pkt). Drużyna wygrała to spotkanie 76:74.
-    *   **Legia Warszawa**: W meczu z 19.06.2026 wiodącymi strzelcami byli Carl Ponsar (15 Pkt) i Dominic Brewton III (14 Pkt).
+#### ORLEN Zastal Zielona Góra
 
-3.  **Werdykt: [⚠️ RYZYKOWNY]**
-    *   **Uzasadnienie**: Typ na Legię Warszawa jest ryzykowny. ORLEN Zastal Zielona Góra zwyciężył w ostatnim znanym meczu finałowym (19.06.2026) przeciwko Legii, co świadczy o ich dobrej formie i zdolności do wygrywania zaciętych spotkań. Legia prawdopodobnie wciąż mierzy się z brakiem Matthiasa Tassa, który był kontuzjowany. Bez dodatkowych informacji o specyfice meczu 21.06.2026 (np. jego randze w serii, miejscu rozgrywania), biorąc pod uwagę ostatni wynik i braki kadrowe Legii, stawianie na Legię jest obarczone ryzykiem.
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-20. Okres transferowy jest w toku, a większość zespołów PLK finalizuje składy na nadchodzący sezon 2026/2027.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu w kontekście "formy w serii" na dzień 2026-07-20. Trwają doniesienia o ruchach kadrowych i negocjacjach kontraktowych na sezon 2026/2027.
+
+#### Legia Warszawa
+
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-20. Kluby PLK są w fazie budowania lub potwierdzania składów na nadchodzący sezon 2026/2027.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu w kontekście "formy w serii" na dzień 2026-07-20. Doniesienia prasowe koncentrują się na letnich transferach i przygotowaniach do nowego sezonu.
+
+#### Werdykt:
+Na dzień 2026-07-20, brak jest konkretnych danych dotyczących kontuzji lub niedyspozycji koszykarzy dla obu drużyn, które mogłyby wpłynąć na ocenę *minionego* meczu. W okresie międzysezonowym składy są w fazie zmian, a informacje o formie czy brakach dotyczących *minionego* meczu (2026-06-21) nie są dostępne w kontekście dzisiejszej daty analizy (2026-07-20). Tym samym, nie ma wystarczających informacji, aby potwierdzić lub podważyć typ z daty meczu.
+
+⚠️ **RYZYKOWNY** (z uwagi na brak aktualnych danych z dnia meczu i analizę w okresie off-season).
