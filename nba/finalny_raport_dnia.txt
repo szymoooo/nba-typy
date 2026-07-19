@@ -1,21 +1,17 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-18 21:06 ET) ---
-Analiza meczu: Knicks @ Spurs
-Typ użytkownika: Spurs
+--- KRYTYCZNY AUDYT LIVE (2026-07-18 22:02 ET) ---
+🗓️ **Data dzisiejsza: 2026-07-18**
 
 ---
 
-*   **Kluczowe braki w składach (stan na 2026-07-18):**
-    *   **New York Knicks:**
-        *   Mohamed Diawara (F): Kontuzja palca, opuścił mecze Summer League.
-        *   Mitchell Robinson (C): Kontuzja palca (ostatnia aktualizacja 04.06.2026).
-        *   OG Anunoby (PF): Kontuzja ścięgna podkolanowego (ostatnia aktualizacja 18.05.2026).
-        *   Josh Hart (SG): Kontuzja kciuka (ostatnia aktualizacja 07.05.2026).
-    *   **San Antonio Spurs:**
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalny raport z dnia 18.07.2026 wskazuje status "NOT YET SUBMITTED".
+**Knicks @ Spurs**
+*   **Typ użytkownika:** Spurs
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
+*   **Kluczowe braki w składach (stan na 2026-07-18, dla hipotetycznego meczu w styczniu 2026):**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby na konkretne braki w składach Knicks lub Spurs na mecz w styczniu 2026. Raporty z lipca 2026 dotyczą rozgrywek Summer League lub są niekompletne.
+    *   Jedyną długoterminową kontuzją, o której wiadomo w lipcu 2026, jest operacja kolana rookiego Spurs, Jaydena Quaintance'a, który prawdopodobnie opuści początek sezonu 2026-27. Jednak jako gracz wybrany w drafcie 2026, nie byłby on w składzie Spurs w styczniu 2026.
+    *   W kontekście Finałów NBA 2026, Mitchell Robinson (Knicks) był wymieniany jako "Questionable" z powodu złamanego palca, a Spurs mieli pełny skład. Brak jednak informacji dla stycznia 2026.
 
-**Uzasadnienie:**
-Roster New York Knicks na styczeń 2026 obejmował takie nazwiska jak Jalen Brunson, OG Anunoby, Mikal Bridges, Josh Hart i Karl-Anthony Towns. Z kolei skład San Antonio Spurs na styczeń 2026 zawierał takich zawodników jak Victor Wembanyama, Devin Vassell, Keldon Johnson i De'Aaron Fox.
-
-Biorąc pod uwagę aktualne raporty kontuzji (stan na 18.07.2026), New York Knicks borykają się z kilkoma istotnymi brakami, w tym z urazami kluczowych graczy, takich jak Mitchell Robinson, OG Anunoby i Josh Hart, a także nowszym urazem Mohameda Diawary. W przypadku San Antonio Spurs, nie ma aktualnie potwierdzonych raportów o kontuzjach na dzień 18.07.2026 ze statusem 'Out', 'Questionable' lub 'GTD'. Przyjmując hipotetyczny mecz rozgrywany dzisiaj (18.07.2026), przewaga zdrowotna przemawia za Spurs, co czyni typ [Spurs] zatwierdzonym.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Zarówno New York Knicks, jak i San Antonio Spurs były finalistami NBA w 2026 roku, co wskazuje na to, że obie drużyny były niezwykle silne w sezonie 2025-26, w tym w styczniu 2026.
+    *   Knicks ostatecznie zdobyli mistrzostwo NBA 2026, a Jalen Brunson został MVP Finałów.
+    *   Bez konkretnych informacji o kontuzjach z dnia meczu w styczniu 2026, obstawianie przeciwko mistrzowskiej drużynie Knicks jest ryzykowne, nawet w meczu z inną drużyną finałową.

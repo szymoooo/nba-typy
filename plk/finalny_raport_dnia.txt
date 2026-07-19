@@ -1,13 +1,12 @@
---- AUDYT PLK LIVE (2026-07-19 00:39 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
+--- AUDYT PLK LIVE (2026-07-19 04:02 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Wcześniejsze kontuzje (m.in. Michała Kolendy, Matthiasa Tassa, Ojarsa Siliņša) były raportowane w grudniu 2025 roku, ale nie ma potwierdzonych informacji o ich braku na mecz finałowy 21.06.2026.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Chavaughn Lewis zgłaszał dolegliwości po urazie w maju 2026 roku, co stawiało jego występ pod znakiem zapytania w jednym z wcześniejszych meczów play-off, jednak brak jest potwierdzenia jego absencji w finałowym meczu 21.06.2026.
+1.  **Kluczowe braki w składach (na dzień 2026-06-21):**
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim dla Legii Warszawa i ORLEN Zastal Zielona Góra na dzień 2026-06-21. Obie drużyny rywalizowały w finale PLK, co sugeruje optymalne składy.
 
-2.  **Aktualna forma top scorerów:**
-    *   🔥 **Legia Warszawa:** Andrzej Pluta był w wyśmienitej formie, zdobywając tytuł MVP sezonu zasadniczego PLK 2025/2026 oraz MVP Finałów. Inni czołowi strzelcy sezonu to Dominic Brewton III (14.5 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
-    *   🔥 **ORLEN Zastal Zielona Góra:** Czołowi strzelcy sezonu 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **ORLEN Zastal Zielona Góra:** Najlepsi strzelcy w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Jakub Szumert został wybrany najlepszym zawodnikiem młodzieżowym ORLEN Basket Ligi w sezonie 2025/2026.
+    *   **Legia Warszawa:** Andrzej Pluta Jr. został uznany MVP Finałów i MVP Sezonu PLK 2025/2026. Brak danych z API dla tego zespołu w kontekście top scorerów na mecz.
 
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Legia Warszawa zdobyła mistrzostwo PLK w sezonie 2025/2026, pokonując Zastal Zielona Góra w finale. Mecz 21.06.2026 był siódmym meczem finałowym, wygranym przez Legię 78-70, co zapewniło im tytuł.
+3.  **Werdykt:**
+    *   ✅ ZATWIERDZONY - Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra 4-3 w serii finałowej. Ostatni mecz serii, rozegrany 21 czerwca 2026 roku, zakończył się zwycięstwem Legii 78:70.
