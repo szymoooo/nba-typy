@@ -1,17 +1,18 @@
---- AUDYT PLK LIVE (2026-07-19 23:09 CET) ---
-Analiza meczu PLK z 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-20 00:00 CET) ---
+Analiza meczu PLK na dzień 2026-06-21:
 
-1.  **Kluczowe braki w składach**:
-    *   **ORLEN Zastal Zielona Góra**: Mimo wcześniejszych doniesień o drobnych urazach lub nieobecnościach (Phil Fayne z powodów rodzinnych, Andy Mazurczak z urazem nosa, Filip Matczak z nawrotem dawnego urazu), wszyscy kluczowi zawodnicy zagrali w decydującym meczu finałowym 21 czerwca 2026 roku. Phil Fayne powrócił na serię finałową, a Andy Mazurczak i Filip Matczak byli w składzie i zdobywali punkty.
-    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim. Doniesienia o kontuzjach dotyczyły sekcji piłkarskiej. Wszyscy kluczowi zawodnicy wystąpili w finale.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
-2.  **Aktualna forma top scorerów**:
-    *   Brak danych z API dla tego zespołu.
-    *   **Top scorerzy meczu (2026-06-21)**:
-        *   **Legia Warszawa**: Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
-        *   **ORLEN Zastal Zielona Góra**: Andrzej Mazurczak (10 Pkt).
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)**:
+    *   **ORLEN Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim. W ostatnim znanym meczu (Game 6 finału, 19.06.2026) wszyscy kluczowi zawodnicy byli aktywni.
+    *   **Legia Warszawa**:
+        *   ❌ **Matthias Tass**: W grudniu 2025 roku zgłoszono, że czeka go dłuższa przerwa z powodu kontuzji. Nie figuruje w statystykach meczu z 19.06.2026, co sugeruje jego dalszą niedostępność.
+        *   ✅ **Michał Kolenda**: Mimo wcześniejszych doniesień o dłuższej przerwie, zagrał w meczu 19.06.2026, zdobywając 5 punktów.
+        *   ⚠️ **Shane Hunter**: Zakończył mecz 19.06.2026 z 5 faulami, ale foul-out z jednego meczu zazwyczaj nie skutkuje zawieszeniem na kolejny.
 
-3.  **Werdykt**: [✅ ZATWIERDZONY]
-    *   Mecz był siódmym i decydującym spotkaniem finałowej serii, rozegranym w Warszawie. Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, zdobywając Mistrzostwo Polski.
-    *   Przewaga własnego parkietu w decydującym meczu o mistrzostwo była kluczowym czynnikiem dla Legii.
-    *   Brak znaczących osłabień w składach obu drużyn dodatkowo wzmocnił wagę czynnika przewagi własnego parkietu i dobrej formy kluczowych zawodników Legii w tym spotkaniu.
+2.  **Aktualna forma top scorerów**: (Na podstawie meczu Game 6 finału z 19.06.2026, jako najbliższego znanego spotkania w serii)
+    *   **ORLEN Zastal Zielona Góra**: Najlepsi strzelcy w ostatnim meczu to Chavaughn Lewis (18 Pkt), Conley Garrison (17 Pkt) i Andrzej Mazurczak (15 Pkt). Drużyna wygrała to spotkanie 76:74.
+    *   **Legia Warszawa**: W meczu z 19.06.2026 wiodącymi strzelcami byli Carl Ponsar (15 Pkt) i Dominic Brewton III (14 Pkt).
+
+3.  **Werdykt: [⚠️ RYZYKOWNY]**
+    *   **Uzasadnienie**: Typ na Legię Warszawa jest ryzykowny. ORLEN Zastal Zielona Góra zwyciężył w ostatnim znanym meczu finałowym (19.06.2026) przeciwko Legii, co świadczy o ich dobrej formie i zdolności do wygrywania zaciętych spotkań. Legia prawdopodobnie wciąż mierzy się z brakiem Matthiasa Tassa, który był kontuzjowany. Bez dodatkowych informacji o specyfice meczu 21.06.2026 (np. jego randze w serii, miejscu rozgrywania), biorąc pod uwagę ostatni wynik i braki kadrowe Legii, stawianie na Legię jest obarczone ryzykiem.
