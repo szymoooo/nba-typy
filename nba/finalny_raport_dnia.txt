@@ -1,7 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-20 11:54 ET) ---
-**Knicks @ Spurs -> Typ: Spurs**
+--- KRYTYCZNY AUDYT LIVE (2026-07-20 14:09 ET) ---
+Na podstawie danych ze stycznia 2026:
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę, ponieważ NBA nie rozgrywa meczów w dniu 20 lipca 2026 r.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Na podstawie danych ze stycznia 2026 roku, New York Knicks byli obrońcami tytułu mistrza NBA, pokonując San Antonio Spurs w pięciu meczach w poprzednich finałach NBA (sezon 2025-2026). W związku z tym, postawienie na Spurs przeciwko niedawnym mistrzom, którzy pokonali ich w finałach, jest ryzykowne bez konkretnych informacji o kontuzjach lub zmianach w składach znacząco wpływających na siłę drużyn.
+**Knicks @ Spurs** -> Typ: Spurs
+
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New York Knicks:**
+        *   Jalen Brunson: Out (Prawy staw skokowy - skręcenie) 🤕
+        *   Mitchell Robinson: Out (Lewy staw skokowy - uraz, zarządzanie urazem) 🤕
+        *   Miles McBride: Out 🤕
+        *   Landry Shamet: Out/Questionable (Prawy bark - skręcenie) 🤕
+        *   Josh Hart: Out/Questionable (Staw skokowy) 🤕
+    *   **San Antonio Spurs:**
+        *   Devin Vassell: Out (Udo) 🤕
+        *   Victor Wembanyama: Day-To-Day (Kolano) 🔄
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Biorąc pod uwagę potencjalne, znaczące braki w składzie Knicks w styczniu 2026 roku, w tym kluczowych graczy takich jak Jalen Brunson i Mitchell Robinson, oraz fakt, że Spurs mieli solidny bilans w tym miesiącu (25-9 na początku stycznia, 30-14 w połowie stycznia), typ na Spurs wydaje się uzasadniony. Mimo statusu Wembanyamy jako "Day-To-Day", osłabienia Knicks byłyby prawdopodobnie bardziej dotkliwe dla ich szans na wygraną.
