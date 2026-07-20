@@ -1,16 +1,17 @@
---- AUDYT PLK LIVE (2026-07-20 10:46 CET) ---
-Analiza meczu na podstawie danych z 2026-07-20, z uwzględnieniem podanej daty meczu (2026-06-21). Należy zaznaczyć, że analiza opiera się na aktualnych informacjach (20.07.2026) i może nie odzwierciedlać stanu faktycznego w dniu 21.06.2026.
+--- AUDYT PLK LIVE (2026-07-20 12:49 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa (Mecz z 2026-06-21)**
 
----
+1.  **Kluczowe braki w składach koszykarskich:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Dostępne źródła nie wskazują na poważne kontuzje kluczowych koszykarzy Zastalu przed decydującym meczem finałowym w czerwcu 2026.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Chociaż w grudniu 2025 Legia zmagała się z kontuzjami (m.in. Ojārs Siliņš, Matthias Tass, Michał Kolenda), to w meczach finałowych w czerwcu 2026 ci zawodnicy byli aktywni i punktowali.
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+2.  **Aktualna forma top scorerów (na podstawie finałów PLK 2025/2026):**
+    *   🔥 **ORLEN Zastal Zielona Góra:**
+        *   W sezonie 2025/2026 czołowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+        *   W finałach ci zawodnicy utrzymywali wysoką formę. Przykładowo, w meczu nr 7 (2026-06-21) Chavaughn Lewis zdobył 20 punktów, Andrzej Mazurczak 13, a Patrick Cartier 12. W meczu nr 4 (2026-06-15) Andrzej Mazurczak zdobył 21 punktów, a Conley Garrison 16.
+    *   🔥 **Legia Warszawa:**
+        *   W sezonie 2025/2026 najlepszymi strzelcami Legii byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+        *   W meczach finałowych byli to kluczowi gracze. W meczu nr 7 (2026-06-21) Dominic Brewton III zanotował 17 punktów, Carl Ponsar 16, a Andrzej Pluta 14. W meczu nr 4 (2026-06-15) Carl Ponsar zdobył 17 punktów, Andrzej Pluta 14, a Dominic Brewton 12.
 
-1.  **Kluczowe braki w składach (2026-07-20):**
-    *   **ORLEN Zastal Zielona Góra:** W dniu 20 lipca 2026 roku, w okresie posezonowym, doniesienia prasowe i oficjalne komunikaty wskazują na wczesną fazę budowania składu na sezon 2026/2027. Brak potwierdzonych informacji o kontuzjach kluczowych koszykarzy. Oczekiwane są zmiany w składzie.
-    *   **Legia Warszawa:** Podobnie jak w przypadku Zastalu, w lipcu 2026 roku Legia Warszawa jest w trakcie kompletowania kadry na nadchodzący sezon. Brak istotnych, potwierdzonych braków w składzie koszykarskim (kontuzje, zawieszenia) na dzień 20.07.2026.
-
-2.  **Aktualna forma top scorerów (2026-07-20):**
-    *   Brak danych z API PulsBasketu dla top scorerów w kontekście serii. Ze względu na okres posezonowy (lipiec 2026), ocena aktualnej formy strzeleckiej poszczególnych zawodników jest niemożliwa na podstawie danych meczowych.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie:** Mecz miał miejsce w przeszłości (2026-06-21), a analiza jest prowadzona na dzień 2026-07-20. Informacje o aktualnych składach i kontuzjach dotyczą stanu obecnego (lipiec 2026), czyli okresu posezonowego, a nie dnia meczu. Składy na nowy sezon są w fazie budowy, a dane o formie i ewentualnych brakach z dnia meczu są niedostępne. Typ jest ryzykowny z powodu niemożności weryfikacji warunków (skład, forma, kontuzje) z dnia 21.06.2026 przy użyciu aktualnych danych.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa wygrała decydujący, siódmy mecz finałowy z ORLEN Zastalem Zielona Góra wynikiem 78:70 w dniu 2026-06-21, zdobywając mistrzostwo PLK. Typ na Legię Warszawa okazał się trafny.
