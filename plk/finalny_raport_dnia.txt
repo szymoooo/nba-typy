@@ -1,12 +1,12 @@
---- AUDYT PLK LIVE (2026-07-21 00:31 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-07-21 01:41 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Wszyscy kluczowi zawodnicy byli dostępni na 7. mecz finałowy.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Zespół wystąpił w pełnym składzie w decydującym meczu finału PLK.
+    *   🏀 **Legia Warszawa:** Kluczowi zawodnicy z sezonu 2025/2026, Andrzej Pluta (MVP sezonu zasadniczego i finałów) oraz Jayvon Graves, opuścili klub. Pluta przeniósł się do ligi hiszpańskiej, a Graves dołączył do klubu z Livorno. W ich miejsce Legia pozyskała m.in. Szymona Tomczaka i Jakuba Andrzejewskiego.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-07-21. Skład Zastalu został wzmocniony o Trazariena White'a, a Conley Garrison przedłużył kontrakt.
 
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:**
-    *   ✅ **ZATWIERDZONY** (Legia Warszawa wygrała ten mecz 78:70 i zdobyła Mistrzostwo Polski 2025/2026)
+3.  **Werdykt:** ⚠️ RYZYKOWNY
+    *   Legia Warszawa, choć jest obrońcą tytułu, straciła dwóch kluczowych strzelców (Andrzeja Plutę i Jayvona Gravesa). To znaczące osłabienia, które mogą wpłynąć na stabilność i ofensywny potencjał zespołu na początku nowego sezonu lub w meczach towarzyskich. Zastal, wicemistrz Polski, utrzymał trzon składu i dokonał wzmocnień, co sprawia, że wynik meczu jest bardziej nieprzewidywalny.
