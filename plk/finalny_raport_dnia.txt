@@ -1,12 +1,25 @@
---- AUDYT PLK LIVE (2026-07-21 01:41 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-21 04:01 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-07-21)
+
+⚠️ **Uwaga:** Zgodnie z kalendarzem Polskiej Ligi Koszykówki (PLK), sezon 2025/2026 zakończył się 21 czerwca 2026 roku, a nowy sezon 2026/2027 rozpocznie się 2 października 2026 roku (Superpuchar Polski 26-27 września 2026). Oznacza to, że 21 lipca 2026 roku jest okresem poza sezonem rozgrywkowym PLK, i żadne oficjalne mecze ligowe nie są zaplanowane na tę datę. W związku z tym, analiza opiera się na danych z zakończonego sezonu 2025/2026.
+
+---
+
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Kluczowi zawodnicy z sezonu 2025/2026, Andrzej Pluta (MVP sezonu zasadniczego i finałów) oraz Jayvon Graves, opuścili klub. Pluta przeniósł się do ligi hiszpańskiej, a Graves dołączył do klubu z Livorno. W ich miejsce Legia pozyskała m.in. Szymona Tomczaka i Jakuba Andrzejewskiego.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-07-21. Skład Zastalu został wzmocniony o Trazariena White'a, a Conley Garrison przedłużył kontrakt.
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-07-21. Ze względu na przerwę międzysezonową (off-season), nie są dostępne bieżące raporty dotyczące kontuzji, zawieszeń czy foul-outów dla meczu w tym terminie. Informacje o kontuzjach z końcówki poprzedniego sezonu (np. Chavaughn Lewis i Miłosz Majewski w maju 2026 dla Zastalu, Race Thompson w czerwcu 2026 dla Legii) nie są aktualne dla dzisiejszej daty i potencjalnego meczu.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.84 Pkt/mecz (najlepszy strzelec zespołu w sezonie 2025/2026).
+        *   Jakub Szumert: 13.2 Pkt/mecz.
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz.
+    *   **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz (najlepszy strzelec zespołu w sezonie 2025/2026).
+        *   Andrzej Pluta: 13.4 Pkt/mecz.
+        *   Jayvon Graves: 12.8 Pkt/mecz.
+    *   Brak danych z API dla tego zespołu "w serii" ze względu na przerwę międzysezonową.
 
-3.  **Werdykt:** ⚠️ RYZYKOWNY
-    *   Legia Warszawa, choć jest obrońcą tytułu, straciła dwóch kluczowych strzelców (Andrzeja Plutę i Jayvona Gravesa). To znaczące osłabienia, które mogą wpłynąć na stabilność i ofensywny potencjał zespołu na początku nowego sezonu lub w meczach towarzyskich. Zastal, wicemistrz Polski, utrzymał trzon składu i dokonał wzmocnień, co sprawia, że wynik meczu jest bardziej nieprzewidywalny.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ jest ryzykowny, ponieważ na dzień 2026-07-21 nie odbywają się żadne oficjalne mecze Polskiej Ligi Koszykówki. Sezon 2025/2026 jest zakończony, a sezon 2026/2027 jeszcze się nie rozpoczął. W związku z tym, nie ma możliwości weryfikacji formy drużyn ani ich składów w kontekście faktycznego, konkurencyjnego spotkania.
