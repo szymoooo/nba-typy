@@ -1,11 +1,14 @@
---- AUDYT PLK LIVE (2026-07-21 19:26 CET) ---
-✅ **ORLEN Zastal Zielona Góra @ Legia Warszawa**
+--- AUDYT PLK LIVE (2026-07-22 00:38 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. W lutym 2026 r. zgłaszano urazy Filipa Matczaka, Jakuba Szumerta i Sagaby Konate, a w czerwcu 2026 r. Phil Fayne wracał do zespołu po sprawach rodzinnych, a Dwight Wilson III zmagał się z urazem kostki. Brak jednak potwierdzonych informacji o kontuzjach lub zawieszeniach na dzień 2026-07-21.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. W grudniu 2025 r. Michał Kolenda i Matthias Tass byli kontuzjowani, a w czerwcu 2026 r. Race Thompson zmagał się z problemami zdrowotnymi. Brak jednak potwierdzonych informacji o kontuzjach lub zawieszeniach na dzień 2026-07-21.
+Mecz odbył się w ramach finałów Orlen Basket Ligi w sezonie 2025/2026. Legia Warszawa obroniła tytuł mistrza Polski, wygrywając siódmy mecz finałowy 78:70 z ORLEN Zastalem Zielona Góra.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+1.  **Kluczowe braki w składach**:
+    *   **Legia Warszawa**: W grudniu 2025 roku Legia borykała się z kontuzjami, w tym Michała Kolendy (który opuścił parkiet po 100 sekundach meczu w grudniu 2025) oraz Ojarsa Silinsa i Matthiasa Tassa, którzy byli niedostępni w tamtym okresie. Jednakże, brak jest potwierdzonych informacji o ich niedostępności w dniu 2026-06-21. Brak istotnych braków w składzie koszykarskim Legii Warszawa bezpośrednio przed finałem.
+    *   **ORLEN Zastal Zielona Góra**: Na początku maja 2026 roku Zastal miał problemy kadrowe, z Chavaughnem Lewisem (najlepszy strzelec, który opuścił mecz z powodu urazu) i Miłoszem Majewskim, którzy trafili do szpitala po zderzeniu. Lewis nadal odczuwał skutki zderzenia w dniu 8 maja 2026. W maju 2026, Zastal zmagał się również z powrotem Phillipa Fayne'a, a Andrzej Mazurczak stracił większość sezonu 2024/25 z powodu kontuzji, ale nie ma potwierdzenia, że był nieobecny w finale 2025/2026. Brak istotnych braków w składzie koszykarskim Zastalu Zielona Góra bezpośrednio przed finałem.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API dla tego zespołu. Jednakże, z meczu finałowego z 21 czerwca 2026, najlepsi strzelcy to: Andrzej Pluta (Legia, 15 pkt), Race Thompson (Legia, 11 pkt), Dominic Brewton III (Legia, 11 pkt), Shane Hunter (Legia, 10 pkt), Andrzej Mazurczak (Zastal, 10 pkt). Dominic Brewton III był wiodącym strzelcem Legii w całym sezonie ze średnią 14.5 pkt/mecz. Chavaughn Lewis był trzecim strzelcem rozgrywek PLK ze średnią 18.5 pkt w sezonie 2025/2026, jednak jego forma mogła być zaburzona przez kontuzję z początku maja.
+
+3.  **Werdykt**:
+    *   [✅ ZATWIERDZONY] Legia Warszawa była mistrzem Polski w sezonie 2025/2026, wygrywając siódmy mecz finałowy z Zastalem 78:70. Typ na Legię Warszawa był zgodny z ostatecznym wynikiem tego decydującego meczu finałowego.
