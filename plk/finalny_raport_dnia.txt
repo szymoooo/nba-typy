@@ -1,25 +1,30 @@
---- AUDYT PLK LIVE (2026-07-21 04:01 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-07-21)
-
-⚠️ **Uwaga:** Zgodnie z kalendarzem Polskiej Ligi Koszykówki (PLK), sezon 2025/2026 zakończył się 21 czerwca 2026 roku, a nowy sezon 2026/2027 rozpocznie się 2 października 2026 roku (Superpuchar Polski 26-27 września 2026). Oznacza to, że 21 lipca 2026 roku jest okresem poza sezonem rozgrywkowym PLK, i żadne oficjalne mecze ligowe nie są zaplanowane na tę datę. W związku z tym, analiza opiera się na danych z zakończonego sezonu 2025/2026.
+--- AUDYT PLK LIVE (2026-07-21 09:56 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 ---
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)** 🤕
 
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-07-21. Ze względu na przerwę międzysezonową (off-season), nie są dostępne bieżące raporty dotyczące kontuzji, zawieszeń czy foul-outów dla meczu w tym terminie. Informacje o kontuzjach z końcówki poprzedniego sezonu (np. Chavaughn Lewis i Miłosz Majewski w maju 2026 dla Zastalu, Race Thompson w czerwcu 2026 dla Legii) nie są aktualne dla dzisiejszej daty i potencjalnego meczu.
-
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
     *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.84 Pkt/mecz (najlepszy strzelec zespołu w sezonie 2025/2026).
-        *   Jakub Szumert: 13.2 Pkt/mecz.
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz.
-    *   **Legia Warszawa:**
-        *   Dominic Brewton III: 14.5 Pkt/mecz (najlepszy strzelec zespołu w sezonie 2025/2026).
-        *   Andrzej Pluta: 13.4 Pkt/mecz.
-        *   Jayvon Graves: 12.8 Pkt/mecz.
-    *   Brak danych z API dla tego zespołu "w serii" ze względu na przerwę międzysezonową.
+        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-07-21. W sezonie 2025/2026 w lutym kontuzji nadgarstka nabawił się Sagaba Konate, a także Filip Matczak i Jakub Szumert byli kontuzjowani, ale nie ma aktualnych informacji wskazujących na ich niedostępność na dzień dzisiejszy (2026-07-21).
+        *   Chavaughn Lewis (najlepszy strzelec Zastalu w sezonie 2025/2026 ze średnią 18.5 pkt/mecz) był kontuzjowany w maju 2026, ale brak aktualnych informacji o jego statusie na 2026-07-21.
+        *   Zastal pozyskał Jakuba Galewskiego (trzyletnia umowa) i Jana Wójcika, który wraca do klubu na sezon 2026/2027.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ jest ryzykowny, ponieważ na dzień 2026-07-21 nie odbywają się żadne oficjalne mecze Polskiej Ligi Koszykówki. Sezon 2025/2026 jest zakończony, a sezon 2026/2027 jeszcze się nie rozpoczął. W związku z tym, nie ma możliwości weryfikacji formy drużyn ani ich składów w kontekście faktycznego, konkurencyjnego spotkania.
+    *   **Legia Warszawa:**
+        *   Heiko Rannula (trener).
+        *   **Jayvon Graves** oraz **Shane Hunter** odeszli z Legii po sezonie 2025/2026 (Graves do Libertas Livorno, Hunter wraca do Maccabi Tel Awiw). Jayvon Graves był jednym z najlepszych obrońców ligi w sezonie 2025/26 i wiodącą postacią.
+        *   **Andrzej Pluta** (MVP rundy zasadniczej i finałów sezonu 2025/2026) odszedł do hiszpańskiej ligi ACB (Basquet Girona).
+        *   **Ojārs Siliņš** wrócił na ojczyznę po sezonie 2025/2026.
+        *   **Maksymilian Wilczek** przeszedł do Arriva Lotto Twarde Pierniki Toruń w poszukiwaniu większej roli.
+        *   Nowi zawodnicy w Legii to Kristers Zoriks, Jakub Andrzejewski, Markus Ilver i Szymon Tomczak.
+        *   Brak aktualnych informacji o kontuzjach dla kluczowych koszykarzy Legii Warszawa na dzień 2026-07-21. Informacje o kontuzjach Kolendy i Tassa pochodzą z grudnia 2025, a Colaka z lipca 2026 (piłka nożna).
+
+2.  **Aktualna forma top scorerów** 📊
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
+        *   W sezonie 2025/2026, czołowymi strzelcami Zastalu byli: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Brak danych o ich aktualnej formie na dzień 2026-07-21.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu.
+        *   Legia, jako mistrz Polski 2025/2026, straciła kluczowych graczy, w tym MVP Andrzeja Plutę i Jayvona Gravesa. Oznacza to, że jej ofensywa będzie musiała zostać przebudowana z nowymi zawodnikami.
+
+3.  **Werdykt:** ⚠️ RYZYKOWNY
+
+    Legia Warszawa, mimo zdobycia Mistrzostwa Polski w sezonie 2025/2026, straciła trzech kluczowych zawodników: MVP Andrzeja Plutę, Jayvona Gravesa (jednego z najlepszych obrońców ligi) oraz Ojarsa Silinsa. Chociaż pozyskała nowych graczy (Kristers Zoriks, Jakub Andrzejewski, Markus Ilver, Szymon Tomczak), ich zgranie i zdolność do zastąpienia liderów pozostają niewiadomą na początku nowego sezonu. Zastal Zielona Góra, choć wicemistrz Polski, również ma nowych zawodników (Galewski, Wójcik) i brak jest aktualnych danych o kontuzjach kluczowych graczy z poprzedniego sezonu, co może wskazywać na stabilniejszą sytuację kadrową w porównaniu do Legii. Brak danych o aktualnej formie top scorerów dodatkowo zwiększa ryzyko.
