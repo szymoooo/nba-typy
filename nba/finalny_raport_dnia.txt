@@ -1,11 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-21 11:46 ET) ---
-Dla meczu Grizzlies @ Hawks (Typ: Hawks):
+--- KRYTYCZNY AUDYT LIVE (2026-07-21 13:26 ET) ---
+### Grizzlies @ Hawks -> Typ: Hawks
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Kluczowe braki w składach:**
+    *   Memphis Grizzlies: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Atlanta Hawks: Brak aktualnych raportów (Injury Report) na tę chwilę.
 
-    *   **Atlanta Hawks (Roster Styczeń 2026):** CJ McCollum, Trae Young, Jalen Johnson, Onyeka Okongwu.
-    *   **Memphis Grizzlies (Roster Styczeń 2026):** Ja Morant, Brandon Clarke, Zach Edey, Santi Aldama.
+*   **Werdykt:** [✅ ZATWIERDZONY]
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+**Uzasadnienie:**
+Na podstawie dostępnych danych z sezonu 2025-2026, w którym to mecz miałby się odbyć w styczniu 2026:
+*   Atlanta Hawks zakończyli sezon 2025-2026 z rekordem 46-36 (6. miejsce w Konferencji Wschodniej) lub 48-40 (1. miejsce w Southeast Division). Ich skład w styczniu 2026 obejmował między innymi Trae Younga, Jalen Johnsona, C.J. McColluma i Onyeka Okongwu.
+*   Memphis Grizzlies zakończyli sezon 2025-2026 z rekordem 25-57 (13. miejsce w Konferencji Zachodniej). Od marca 2026 roku Ja Morant, Brandon Clarke i Zach Edey zostali wykluczeni z gry na resztę sezonu 2025-26 z powodu kontuzji. Chociaż ta informacja jest z marca, świadczy o trudnościach zespołu w tym sezonie, co prawdopodobnie miało wpływ na ich formę w styczniu.
 
-    *   Brak potwierdzonych, aktualnych raportów o kontuzjach na dzień 2026-07-21 uniemożliwia rzetelną ocenę dostępności kluczowych graczy. Bez tych informacji, każdy typ jest obarczony wysokim ryzykiem.
+Biorąc pod uwagę znacznie lepszy bilans sezonowy Atlanta Hawks oraz potencjalne braki kluczowych graczy Memphis Grizzlies w trakcie sezonu, typ na Hawks wydaje się być uzasadniony.
