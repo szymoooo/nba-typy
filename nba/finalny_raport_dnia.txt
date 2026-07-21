@@ -1,9 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-21 17:40 ET) ---
-Grizzlies @ Hawks -> Typ: Hawks
+--- KRYTYCZNY AUDYT LIVE (2026-07-21 19:13 ET) ---
+Dla meczu Grizzlies @ Hawks, na podstawie danych ze stycznia 2026:
 
-*   **Kluczowe braki w składach (stan na Styczeń 2026):**
-    *   **Memphis Grizzlies:** Ja Morant (Out - kontuzja łydki 🦵), Brandon Clarke (Out - naciągnięcie łydki 🦵), Zach Edey (Out - reakcja stresowa kostki 🦵), Ty Jerome (Out - naciągnięcie łydki 🦵), Scotty Pippen Jr. (Out - rekonwalescencja po operacji palucha 🦶), John Konchar (Out - rekonwalescencja po operacji kciuka 👍).
-    *   **Atlanta Hawks:** Kristaps Porzingis (Out - zapalenie ścięgna Achillesa 🦵), N'Faly Dante (Out - zerwane ACL kolana 🦵), Zaccharie Risacher (Out - stłuczenie kości kolana 🦵).
+**Grizzlies @ Hawks -> Typ: Hawks**
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Absencja Ja Moranta, gwiazdorskiego rozgrywającego Grizzlies, jest kluczowym osłabieniem, które znacznie obniża ich szanse na zwycięstwo. Mimo kontuzji w zespole Hawks, brak Moranta dla Grizzlies jest bardziej znaczący.
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Atlanta Hawks:**
+        *   Kristaps Porzingis (kontuzja ścięgna Achillesa, wykluczony przez większość stycznia) 🩹
+        *   N'Faly Dante (zerwane ACL, wykluczony na resztę sezonu) 🤕
+        *   Zaccharie Risacher (stłuczenie kości kolana, wykluczony przez większość stycznia, dostępny pod koniec miesiąca) 🩹
+        *   Onyeka Okongwu (złamanie zęba, wykluczony pod koniec stycznia) 🤕
+        *   Jalen Johnson (napięcie łydki, status zmienny pod koniec stycznia) 🦵
+    *   **Memphis Grizzlies:**
+        *   Scotty Pippen Jr. (kontuzja palca u nogi) 🦶
+        *   Zach Edey (problemy ze stawem skokowym/łydką, później wykluczony na resztę sezonu z powodu urazu łokcia) 🩹
+        *   Ty Jerome (problemy ze stawem skokowym/łydką) 🦵
+        *   Brandon Clarke (problemy ze stawem skokowym/łydką, później wykluczony na resztę sezonu z powodu naciągnięcia łydki) 🩹
+        *   Derrick Rose (naciągnięcie ścięgna podkolanowego) 🦵
+        *   Ja Morant był aktywny i stanowił główny punkt ofensywy na dzień 21 stycznia 2026 r..
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Hawks borykali się z poważnymi brakami w formacji podkoszowej w styczniu 2026, w tym kluczowych graczy takich jak Kristaps Porzingis i Zaccharie Risacher (przez większość miesiąca), co znacznie osłabiało ich siłę. Mimo że Grizzlies również mieli kontuzje, ich główni gracze (Morant, Jackson Jr., Aldama) byli zdolni do gry w tym okresie.
