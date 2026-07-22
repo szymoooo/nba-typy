@@ -1,26 +1,35 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-22 11:44 ET) ---
-Na podstawie danych z 22 lipca 2026 roku:
+--- KRYTYCZNY AUDYT LIVE (2026-07-22 13:03 ET) ---
+Oto analiza Twoich typów na podstawie danych ze STYCZNIA 2026:
 
 ---
 
-**Mecz: Lakers @ Kings**
-*   **Typ: Kings**
+### Lakers @ Kings -> Typ: Kings
 
-*   **Kluczowe braki w składach:**
-    *   **Lakers:** Brak aktualnych kluczowych graczy wykluczonych z powodu długoterminowych kontuzji na dzień 22 lipca 2026. Adou Thiero był wykluczony z powodu urazu nadgarstka podczas Ligi Letniej 6 lipca 2026 r., ale nie jest to kluczowy zawodnik na poziomie sezonu regularnego.
-    *   **Kings:** Domantas Sabonis (menisk) i Zach LaVine (ręka) byli wykluczeni na resztę sezonu 2025-26 od lutego 2026 r. z powodu operacji.
-
+*   **Kluczowe braki w składach (stan na 12 stycznia 2026):**
+    *   **Los Angeles Lakers:**
+        *   Austin Reaves: OUT (Grade 2 left gastrocnemius strain, przewidywana 4-tygodniowa absencja)
+        *   Adou Thiero: OUT (right MCL sprain, powrót nie wcześniej niż pod koniec stycznia)
+        *   Rui Hachimura: Questionable (problem z łydką)
+        *   Gabe Vincent: OUT (uraz pleców, poza grą od 14 grudnia 2025, brak daty powrotu)
+    *   **Sacramento Kings:**
+        *   Domantas Sabonis: OUT (uraz kolana, powrót nie wcześniej niż pod koniec stycznia)
+        *   Keegan Murray: OUT (skręcenie lewej kostki, brak daty powrotu)
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ jest ryzykowny, ponieważ Kings mają potwierdzone długoterminowe braki dwóch kluczowych zawodników (Sabonis, LaVine), którzy byliby nieobecni w hipotetycznym meczu.
+    *   Typ na Kings jest ryzykowny, ponieważ braki w składzie Kings, w tym kluczowi gracze tacy jak Domantas Sabonis i Keegan Murray, są znaczące i poważnie osłabiają zespół. Sabonis jest wielokrotnym All-Starem i motorem napędowym ich ofensywy. Mimo że Lakers również mają ważne absencje, strata dwóch podstawowych graczy, jak Sabonis i Murray, stawia Kings w trudnej sytuacji.
 
 ---
 
-**Mecz: Grizzlies @ Hawks**
-*   **Typ: Hawks**
+### Grizzlies @ Hawks -> Typ: Hawks
 
-*   **Kluczowe braki w składach:**
-    *   **Grizzlies:** Ja Morant (uraz więzadła pobocznego łokciowego), Brandon Clarke (naciągnięcie łydki), Zach Edey (dyskomfort w łokciu) i Santi Aldama (kolano) byli wykluczeni na resztę sezonu 2025-26 od marca 2026 r.
-    *   **Hawks:** Mouhamed Gueye (stopa) przeszedł operację złamanej stopy 15 lipca 2026 r. i będzie wymagał 3-4 miesięcy na ponowną ocenę. Jest wykluczony.
-
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Typ jest zatwierdzony. Mimo braku Mouhameda Gueye'a (który nie jest kluczowym zawodnikiem pierwszego składu), Grizzlies mają znacznie poważniejsze, długoterminowe braki kluczowych graczy (Morant, Clarke, Edey, Aldama), co osłabia ich znacznie bardziej niż Hawks.
+*   **Kluczowe braki w składach (stan na 21 stycznia 2026):**
+    *   **Memphis Grizzlies:**
+        *   Scotty Pippen Jr.: OUT (uraz palca u nogi)
+        *   Zach Edey: OUT (problem ze stawem skokowym)
+        *   Ty Jerome: OUT (problem z łydką)
+        *   Brandon Clarke: OUT (problemy ze stawem skokowym/łydką)
+    *   **Atlanta Hawks:**
+        *   Kristaps Porzingis: OUT (zapalenie lewego ścięgna Achillesa, 5. mecz z rzędu, ponowna ocena stanu zdrowia około 26 stycznia)
+        *   Zaccharie Risacher: OUT (stłuczenie kości lewego kolana, 5. mecz z rzędu, podobny harmonogram ponownej oceny)
+        *   N'Faly Dante: OUT (po operacji kolana, poza grą do końca sezonu)
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ na Hawks jest ryzykowny ze względu na znaczące absencje w ich składzie, w tym Kristapsa Porzingisa i Zaccharie Risachera. Są to kluczowi gracze, a ich brak wpływa na obronę i rozciąganie gry. Chociaż Grizzlies również zmagają się z wieloma kontuzjami graczy rotacyjnych, braki Hawks w pierwszej piątce sprawiają, że ich mecz jest nieprzewidywalny.
