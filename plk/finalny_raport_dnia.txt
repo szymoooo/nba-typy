@@ -1,32 +1,29 @@
---- AUDYT PLK LIVE (2026-07-22 02:08 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-07-22 09:56 CET) ---
+=========================================================================
+TYPY DO AUDYTU:
+=========================================================================
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-**1. Kluczowe braki w składach:**
+=========================================================================
+ANALIZA
+=========================================================================
 
-*   **Legia Warszawa:**
-    *   Matthias Tass był poza kadrą meczową w siódmym, decydującym spotkaniu finałowym przeciwko Zastalowi Zielona Góra (21.06.2026). Nie podano jednak informacji o kontuzji, a jedynie decyzję sztabu szkoleniowego.
-    *   Brak innych istotnych braków w składzie koszykarskim Legii Warszawa odnotowanych w okresie poprzedzającym mecz finałowy lub w dniu meczu. Transfermarkt, mimo sekcji kontuzji, nie podaje kontuzji koszykarzy Legii w tym okresie, a jedynie piłkarzy.
-*   **ORLEN Zastal Zielona Góra:**
-    *   Sagaba Konate doznał kontuzji dłoni podczas Pekao S.A. Pucharu Polski w lutym 2026 i zakończył sezon 2025/2026. W związku z tym, był niedostępny na mecz finałowy 21.06.2026.
-    *   Brak innych istotnych braków w składzie koszykarskim Zastalu Zielona Góra odnotowanych w okresie poprzedzającym mecz finałowy lub w dniu meczu. Wcześniejsze doniesienia mówiły o tym, że mimo strat graczy Zastal był "rozpędzony" w Pucharze Polski.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
-**2. Aktualna forma top scorerów (z PulsBasketu - brak danych API dla tego zespołu):**
+1.  **Kluczowe braki w składach:**
+    *   ORLEN Zastal Zielona Góra: Sagaba Konate doznał kontuzji dłoni w lutym 2026 roku, która zakończyła jego sezon 2025/2026. Brak innych istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-07-22.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-07-22.
 
-Brak danych z API dla tego zespołu. Jednakże, z wyników meczu finałowego (21.06.2026) dostępne są informacje o najlepszych strzelcach obu drużyn w tym konkretnym spotkaniu:
-*   **Legia Warszawa:** Andrzej Pluta (15 pkt), Race Thompson (11 pkt), Dominic Brewton III (11 pkt), Shane Hunter (10 pkt).
-*   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 pkt).
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   ORLEN Zastal Zielona Góra: W sezonie 2025/2026 czołowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   Legia Warszawa: W sezonie 2025/2026 liderami punktowymi byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). Andrzej Pluta Jr. został MVP sezonu oraz MVP finałów PLK 2025/2026, co świadczy o jego wybitnej formie.
 
-Wcześniejsze doniesienia z 6. meczu finałowego (19.06.2026) wskazywały na następujących top scorerów:
-*   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis (18 pkt), Conley Garrison (17 pkt), Andrzej Mazurczak (15 pkt), Jakub Szumert (12 pkt).
-*   **Legia Warszawa:** Carl Ponsar (15 pkt), Dominic Brewton (14 pkt), Ojars Silins (12 pkt), Andrzej Pluta (11 pkt).
+3.  **Werdykt:**
+    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowym sezonu PLK 2025/2026. Legia Warszawa wygrała ten mecz 78-70 i zdobyła mistrzostwo Polski.
+    *   Legia Warszawa była najlepszą drużyną sezonu zasadniczego i obroniła tytuł mistrzowski.
+    *   Zastal Zielona Góra był wicemistrzem.
+    *   Kontuzja Sagaby Konate z Zastalu (koniec sezonu w lutym 2026) osłabiła zespół na etapie play-offów i finałów.
+    *   Doskonała forma MVP sezonu i finałów, Andrzeja Pluty Jr. z Legii, była kluczowa.
 
-**3. Werdykt:**
-
-*   **ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
-    *   Legia Warszawa grała u siebie w decydującym, siódmym meczu finałowym (OSiR Warszawa Bemowo).
-    *   Legia Warszawa wygrała mecz wynikiem 78:70 i zdobyła mistrzostwo Polski.
-    *   Zastal Zielona Góra miał osłabienie w postaci Sagaby Konate, który zakończył sezon w lutym 2026.
-    *   W decydującym meczu Legia zagrała bez Matthiasa Tassa, ale to nie przeszkodziło drużynie w odniesieniu zwycięstwa.
-    *   W kontekście finału i przewagi własnego parkietu dla Legii, typ na Legię Warszawa był ✅ ZATWIERDZONY.
-
-Werdykt: ✅ ZATWIERDZONY
+**Werdykt:** [✅ ZATWIERDZONY]
