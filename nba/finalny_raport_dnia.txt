@@ -1,20 +1,26 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-22 06:21 ET) ---
-Analiza typów na podstawie danych ze Stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-22 11:44 ET) ---
+Na podstawie danych z 22 lipca 2026 roku:
 
 ---
 
-**1. Lakers @ Kings -> Typ: Kings**
+**Mecz: Lakers @ Kings**
+*   **Typ: Kings**
 
-*   **Kluczowe braki w składach (Styczeń 2026):**
-    *   **Lakers:** Austin Reaves (kontuzja łydki, wykluczony na co najmniej 4 tygodnie w początku stycznia) 🩹, Adou Thiero (kontuzja MCL, wykluczony na większą część stycznia) 🩹, Rui Hachimura (problemy z łydką/kolanem, wykluczony) 🩹. Luka Dončić był na liście kontuzjowanych, ale często grał, będąc czołowym strzelcem.
-    *   **Kings:** Domantas Sabonis (częściowe zerwanie łąkotki, wykluczony na większość stycznia) 🩹, Keegan Murray (skręcenie kostki, wykluczony) 🩹. Dennis Schroder (zawieszenie ligowe w połowie stycznia) 🚫.
-*   **Werdykt:** [⚠️ RYZYKOWNY] Z uwagi na znaczące braki kluczowych zawodników po obu stronach, zwłaszcza Sabonisa i Murraya dla Kings, ten typ jest obarczony wysokim ryzykiem.
+*   **Kluczowe braki w składach:**
+    *   **Lakers:** Brak aktualnych kluczowych graczy wykluczonych z powodu długoterminowych kontuzji na dzień 22 lipca 2026. Adou Thiero był wykluczony z powodu urazu nadgarstka podczas Ligi Letniej 6 lipca 2026 r., ale nie jest to kluczowy zawodnik na poziomie sezonu regularnego.
+    *   **Kings:** Domantas Sabonis (menisk) i Zach LaVine (ręka) byli wykluczeni na resztę sezonu 2025-26 od lutego 2026 r. z powodu operacji.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ jest ryzykowny, ponieważ Kings mają potwierdzone długoterminowe braki dwóch kluczowych zawodników (Sabonis, LaVine), którzy byliby nieobecni w hipotetycznym meczu.
 
 ---
 
-**2. Grizzlies @ Hawks -> Typ: Hawks**
+**Mecz: Grizzlies @ Hawks**
+*   **Typ: Hawks**
 
-*   **Kluczowe braki w składach (Styczeń 2026):**
-    *   **Grizzlies:** Zach Edey (reakcja stresowa w kostce, wykluczony na cały styczeń, powrót najwcześniej pod koniec lutego) 🩹, Brandon Clarke (naciągnięcie łydki, wykluczony na cały styczeń) 🩹, Scotty Pippen Jr. (operacja palca u stopy, wykluczony na cały styczeń) 🩹, Ty Jerome (problem z kostką, wykluczony pod koniec stycznia) 🩹.
-    *   **Hawks:** Kristaps Porzingis (zapalenie ścięgna Achillesa, wykluczony na większość stycznia) 🩹, N'Faly Dante (zerwane ACL, wykluczony do końca sezonu) 💔, Onyeka Okongwu (złamanie zęba, wykluczony pod koniec stycznia) 🩹. Zaccharie Risacher (stłuczenie kości kolana, początkowo wykluczony, ale dostępny pod koniec stycznia) 🔄. Trae Young i Jalen Johnson byli aktywni i pełnili kluczowe role.
-*   **Werdykt:** [⚠️ RYZYKOWNY] Obie drużyny doświadczyły poważnych kontuzji. Chociaż Hawks tracą kilku ważnych graczy, Grizzlies również mają istotne braki w rotacji podkoszowej i obwodowej. To sprawia, że wynik meczu jest bardzo niepewny.
+*   **Kluczowe braki w składach:**
+    *   **Grizzlies:** Ja Morant (uraz więzadła pobocznego łokciowego), Brandon Clarke (naciągnięcie łydki), Zach Edey (dyskomfort w łokciu) i Santi Aldama (kolano) byli wykluczeni na resztę sezonu 2025-26 od marca 2026 r.
+    *   **Hawks:** Mouhamed Gueye (stopa) przeszedł operację złamanej stopy 15 lipca 2026 r. i będzie wymagał 3-4 miesięcy na ponowną ocenę. Jest wykluczony.
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Typ jest zatwierdzony. Mimo braku Mouhameda Gueye'a (który nie jest kluczowym zawodnikiem pierwszego składu), Grizzlies mają znacznie poważniejsze, długoterminowe braki kluczowych graczy (Morant, Clarke, Edey, Aldama), co osłabia ich znacznie bardziej niż Hawks.
