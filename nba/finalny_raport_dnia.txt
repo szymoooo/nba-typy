@@ -1,34 +1,11 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-22 14:02 ET) ---
-Oto analiza Twoich typów na podstawie dostępnych danych z dnia 2026-07-22:
+--- KRYTYCZNY AUDYT LIVE (2026-07-22 14:35 ET) ---
+Jako rygorystyczny analityk NBA, bazując na dzisiejszych danych z sieci (2026-07-22), muszę stwierdzić, że podane mecze Lakers @ Kings oraz Grizzlies @ Hawks nie odbywają się w dniu 22 lipca 2026 roku. Sezon NBA zakończył się, a najbliższe mecze przedsezonowe planowane są na październik 2026 roku. Obecnie trwa offseason, a drużyny ogłaszają składy na Ligę Letnią lub dokonują transferów i podpisów kontraktów.
 
----
+W związku z tym, nie ma możliwości sprawdzenia kluczowych braków w składach ani zatwierdzenia typów dla nieistniejących meczów.
 
-**Mecz 1: Lakers @ Kings**
-*   **Typ:** Kings
-*   **Kluczowe braki w składach:**
-    *   **Lakers:**
-        *   LeBron James opuścił drużynę po sezonie 2025-26.
-        *   W. Kessler (C) był poza grą do końca sezonu 2025-26 z powodu operacji barku (raport z listopada 2025).
-        *   Adou Thiero doznał kontuzji nadgarstka na początku lipca 2026 podczas Ligi Letniej.
-    *   **Kings:**
-        *   Keegan Murray (F) – Questionable (kostka).
-        *   Domantas Sabonis (C) – Questionable (kolano).
-        *   De'Andre Hunter (F) – Probable (oko).
-        *   Zach LaVine (G) – Probable (dłoń).
-        *   Malik Monk (G) – Probable (sprawy osobiste).
-        *   Inne źródła wskazują "Brak aktualnych raportów (Injury Report) na tę chwilę".
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Mimo niektórych statusów "Questionable" dla Kings, są to informacje z ogólnego raportu urazów z 2026 roku, a nie konkretne dla meczu z 22 lipca. Brak jasnych, potwierdzonych raportów o meczowych brakach na dzień dzisiejszy, a także duże zmiany w składzie Lakers (odejście LeBrona) czynią ten typ niepewnym.
-
----
-
-**Mecz 2: Grizzlies @ Hawks**
-*   **Typ:** Hawks
-*   **Kluczowe braki w składach:**
-    *   **Grizzlies:**
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę. RotoWire podaje, że "Memphis Grizzlies nie mają obecnie żadnych graczy na liście kontuzjowanych NBA". Covers.com również wskazuje "No injuries to report" dla sezonu 2025-2026.
-        *   Jaren Jackson Jr. został wytransferowany 3 lutego 2026.
-        *   Ja Morant (kontuzja lewego łokcia) i Brandon Clarke (kontuzja prawej łydki) byli wykluczeni do końca sezonu 2025-26, ale oczekuje się, że wrócą w sezonie 2026-27.
-    *   **Hawks:**
-        *   Mouhamed Gueye (PF) – Out (złamanie stopy, operacja 15 lipca 2026, ponowna ocena za 3-4 miesiące).
-        *   Trae Young został wytransferowany 9 stycznia 2026.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Hawks mają potwierdzony kluczowy brak w postaci Mouhameda Gueye'a na najbliższe miesiące. Zmiany w składach (transfer Trae Younga) znacząco wpływają na dynamikę drużyny. Brak aktywnych raportów kontuzji dla Grizzlies (poza historycznymi sezonowymi brakami Moranta i Clarke'a, którzy mają wrócić) utrudnia ocenę ich bieżącej siły.
+*   **Lakers @ Kings**
+    *   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Werdykt: [⚠️ RYZYKOWNY] – Mecz nie odbywa się.
+*   **Grizzlies @ Hawks**
+    *   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Werdykt: [⚠️ RYZYKOWNY] – Mecz nie odbywa się.
