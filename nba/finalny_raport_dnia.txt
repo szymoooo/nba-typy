@@ -1,18 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-21 20:08 ET) ---
-Wyniki analizy na dzień 2026-07-21 dla meczu Grizzlies @ Hawks (odnoszące się do meczu ze Stycznia 2026):
+--- KRYTYCZNY AUDYT LIVE (2026-07-21 21:59 ET) ---
+Na podstawie danych z 2026-01-21, oto analiza:
 
-**Memphis Grizzlies:**
-*   **Kluczowe braki w składzie:**
-    *   Scotty Pippen Jr. (PG) - Poza składem (kontuzja palca u nogi) 🦶
-    *   Zach Edey (C) - Poza składem (kontuzja kostki, przewidywany powrót pod koniec lutego) 🩹
-    *   Ty Jerome (G) - Niedostępny (problemy z łydką) 🦵
-    *   Brandon Clarke (PF/C) - Niedostępny (naciągnięcie łydki stopnia 2) 🦵
+**Grizzlies @ Hawks**
+Typ użytkownika: Hawks
 
-**Atlanta Hawks:**
-*   **Kluczowe braki w składzie:**
-    *   Kristaps Porzingis (C/PF) - Poza składem (zapalenie ścięgna Achillesa w lewej nodze) 🩹
-    *   Zaccharie Risacher (SF) - Niedostępny (stłuczenie kości lewego kolana) 🦵
-    *   N'Faly Dante (C) - Poza składem na resztę sezonu (operacja kolana, zerwane ACL w prawym kolanie) 🏥
+*   **Kluczowe braki w składach (2026-01-21):**
+    *   **Memphis Grizzlies:**
+        *   Scotty Pippen Jr. (kontuzja palca u nogi) – Out ❌
+        *   Zach Edey (problem z kostką) – Out ❌
+        *   Ty Jerome (problem z kostką) – Out ❌
+        *   Brandon Clarke (problem z łydką) – Out ❌
+    *   **Atlanta Hawks:**
+        *   Kristaps Porzingis (zapalenie ścięgna Achillesa) – Out ❌
+        *   Zaccharie Risacher (stłuczenie kości lewego kolana) – Out ❌
+        *   N'Faly Dante (operacja kolana, poza sezonem) – Out ❌
 
-**Werdykt dla typu Hawks:**
-[⚠️ RYZYKOWNY] - Obie drużyny borykały się z poważnymi brakami kadrowymi, szczególnie w przedniej formacji, co sprawiało, że mecz był "źle osłabiony" i trudny do przewidzenia.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    Hawks są osłabieni brakiem kluczowych graczy podkoszowych, takich jak Porzingis i Risacher, co znacząco wpływa na ich obronę i rozciąganie gry. Mimo braków w Grizzlies, ich główni zawodnicy są dostępni.
