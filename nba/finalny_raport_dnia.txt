@@ -1,16 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-22 03:56 ET) ---
-Na podstawie danych z STYCZNIA 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-22 06:21 ET) ---
+Analiza typów na podstawie danych ze Stycznia 2026:
 
-**Lakers @ Kings -> Typ: Kings**
+---
 
-*   **Kluczowe braki w składach (około 12 stycznia 2026):**
-    *   **Lakers:** Austin Reaves (Out - naciągnięcie łydki) 🩹, Adou Thiero (Out - naciągnięcie MCL) 🩹, Rui Hachimura (Questionable/Day-to-day - łydka) ❓, Jaxson Hayes (Out - ból ścięgna podkolanowego) 🩹.
-    *   **Kings:** Domantas Sabonis (Out - kontuzja kolana) 🤕, Keegan Murray (Out - skręcenie kostki) 🤕, Dennis Schroder (Out - zawieszenie ligowe) 🚫, Isaiah Stevens (Day-to-day - kontrakt dwukierunkowy) ❓.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Kings byli osłabieni brakiem dwóch kluczowych starterów (Sabonis, Murray) oraz ważnego rezerwowego (Schroder). Lakers, pomimo własnych absencji, byli faworytem z lepszym bilansem.
+**1. Lakers @ Kings -> Typ: Kings**
 
-**Grizzlies @ Hawks -> Typ: Hawks**
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Lakers:** Austin Reaves (kontuzja łydki, wykluczony na co najmniej 4 tygodnie w początku stycznia) 🩹, Adou Thiero (kontuzja MCL, wykluczony na większą część stycznia) 🩹, Rui Hachimura (problemy z łydką/kolanem, wykluczony) 🩹. Luka Dončić był na liście kontuzjowanych, ale często grał, będąc czołowym strzelcem.
+    *   **Kings:** Domantas Sabonis (częściowe zerwanie łąkotki, wykluczony na większość stycznia) 🩹, Keegan Murray (skręcenie kostki, wykluczony) 🩹. Dennis Schroder (zawieszenie ligowe w połowie stycznia) 🚫.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Z uwagi na znaczące braki kluczowych zawodników po obu stronach, zwłaszcza Sabonisa i Murraya dla Kings, ten typ jest obarczony wysokim ryzykiem.
 
-*   **Kluczowe braki w składach (około 21 stycznia 2026):**
-    *   **Grizzlies:** Scotty Pippen Jr. (Out - kontuzja palca/po operacji) 🤕, Zach Edey (Out - problemy z kostką/reakcja stresowa) 🤕, Ty Jerome (Out - naciągnięcie łydki) 🤕, Brandon Clarke (Out - problemy z kostką i łydką) 🤕, Santi Aldama (Questionable - ból kolana) ❓.
-    *   **Hawks:** Kristaps Porzingis (Out - zapalenie ścięgna Achillesa) 🤕, Zaccharie Risacher (Out - stłuczenie kości kolana) 🤕, N'Faly Dante (Out - koniec sezonu po operacji kolana) ❌.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny były mocno osłabione kluczowymi kontuzjami. Hawks brakowało ważnych graczy w strefie podkoszowej (Porzingis, Risacher), co osłabiało ich obronę i spacing. Grizzlies byli lekkimi faworytami w tym meczu.
+---
+
+**2. Grizzlies @ Hawks -> Typ: Hawks**
+
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Grizzlies:** Zach Edey (reakcja stresowa w kostce, wykluczony na cały styczeń, powrót najwcześniej pod koniec lutego) 🩹, Brandon Clarke (naciągnięcie łydki, wykluczony na cały styczeń) 🩹, Scotty Pippen Jr. (operacja palca u stopy, wykluczony na cały styczeń) 🩹, Ty Jerome (problem z kostką, wykluczony pod koniec stycznia) 🩹.
+    *   **Hawks:** Kristaps Porzingis (zapalenie ścięgna Achillesa, wykluczony na większość stycznia) 🩹, N'Faly Dante (zerwane ACL, wykluczony do końca sezonu) 💔, Onyeka Okongwu (złamanie zęba, wykluczony pod koniec stycznia) 🩹. Zaccharie Risacher (stłuczenie kości kolana, początkowo wykluczony, ale dostępny pod koniec stycznia) 🔄. Trae Young i Jalen Johnson byli aktywni i pełnili kluczowe role.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Obie drużyny doświadczyły poważnych kontuzji. Chociaż Hawks tracą kilku ważnych graczy, Grizzlies również mają istotne braki w rotacji podkoszowej i obwodowej. To sprawia, że wynik meczu jest bardzo niepewny.
