@@ -1,11 +1,35 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-22 14:35 ET) ---
-Jako rygorystyczny analityk NBA, bazując na dzisiejszych danych z sieci (2026-07-22), muszę stwierdzić, że podane mecze Lakers @ Kings oraz Grizzlies @ Hawks nie odbywają się w dniu 22 lipca 2026 roku. Sezon NBA zakończył się, a najbliższe mecze przedsezonowe planowane są na październik 2026 roku. Obecnie trwa offseason, a drużyny ogłaszają składy na Ligę Letnią lub dokonują transferów i podpisów kontraktów.
+--- KRYTYCZNY AUDYT LIVE (2026-07-22 15:50 ET) ---
+Oto analiza Twoich typów na podstawie danych z dnia 2026-07-22:
 
-W związku z tym, nie ma możliwości sprawdzenia kluczowych braków w składach ani zatwierdzenia typów dla nieistniejących meczów.
+---
 
-*   **Lakers @ Kings**
-    *   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Werdykt: [⚠️ RYZYKOWNY] – Mecz nie odbywa się.
-*   **Grizzlies @ Hawks**
-    *   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Werdykt: [⚠️ RYZYKOWNY] – Mecz nie odbywa się.
+### Lakers @ Kings -> Typ: Kings
+
+*   **Kluczowe braki w składach (na dzień 2026-07-22):**
+    *   **Lakers:**
+        *   Walker Kessler: Wyłączony do końca sezonu 2025-26 (kontuzja barku, operacja w listopadzie 2025).
+        *   Adou Thiero: Wykluczony z powodu kontuzji nadgarstka (6 lipca 2026).
+    *   **Kings:**
+        *   Keegan Murray: Sezon zakończony (operacja 15 maja 2026).
+        *   Zach LaVine: Wyłączony do końca sezonu 2025-26 (operacja ręki 28 czerwca 2026), status "questionable" na początek kolejnego sezonu.
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Obie drużyny mają poważne, długoterminowe braki z kluczowych graczy, co sprawia, że ocena jest obarczona dużym ryzykiem, szczególnie w kontekście hipotetycznego meczu w środku offseasonu.
+
+---
+
+### Grizzlies @ Hawks -> Typ: Hawks
+
+*   **Kluczowe braki w składach (na dzień 2026-07-22):**
+    *   **Grizzlies:**
+        *   Santi Aldama: Wyłączony do końca sezonu 2025-26 (kontuzja prawego kolana, zabieg artroskopowy 15 marca 2026).
+        *   Ja Morant: Wyłączony do końca sezonu 2025-26 (naciągnięcie więzadła łokciowego w lewym łokciu, iniekcja PRP 25 marca 2026), przewiduje się pełny powrót do zdrowia przed sezonem 2026-27.
+        *   Brandon Clarke: Wyłączony do końca sezonu 2025-26 (naciągnięcie prawej łydki 25 marca 2026), przewiduje się pełny powrót do zdrowia przed sezonem 2026-27.
+        *   Zach Edey: Wyłączony do końca sezonu 2025-26 (zabieg z powodu dyskomfortu w lewym łokciu 25 marca 2026), przewiduje się pełny powrót do zdrowia przed sezonem 2026-27.
+    *   **Hawks:**
+        *   Mouhamed Gueye: Złamana lewa stopa, przeszedł operację 15 lipca 2026, ponowna ocena za 3-4 miesiące. Jest wyłączony z gry.
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Grizzlies borykają się z licznymi długoterminowymi kontuzjami kluczowych graczy, co znacznie osłabia ich skład. Hawks również mają świeżą kontuzję (Gueye), ale skala problemów Grizzlies jest większa. Mimo to, w offseasonie, gdy brakuje aktualnych raportów meczowych, każdy typ jest ryzykowny.
+
+---
+
+*Brak aktualnych raportów (Injury Report) na tę chwilę w kontekście bieżących gier NBA, ponieważ 22 lipca 2026 to okres poza sezonem zasadniczym i play-offami.*
