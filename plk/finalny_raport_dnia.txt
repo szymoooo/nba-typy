@@ -1,12 +1,25 @@
---- AUDYT PLK LIVE (2026-07-22 21:50 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-22 23:59 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-1.  **Kluczowe braki w składach (2026-06-21):**
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 21.06.2026.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 21.06.2026.
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate: Poważna kontuzja nadgarstka (od lutego 2026), prawdopodobnie wykluczony z gry w finale.
+        *   Filip Matczak: Odczuwał dolegliwości związane ze starą kontuzją na początku czerwca 2026, lecz oczekiwano, że będzie potrzebny w serii finałowej. Mógł grać z ograniczeniami.
+    *   **Legia Warszawa:**
+        *   Jerrick Harding: Doznał poważnej kontuzji (prawdopodobnie kręgosłupa lub wstrząsu mózgu) w październiku 2025, co wykluczyło go z gry na cały sezon 2025/2026.
+        *   Race Thompson: Zmagał się z problemami zdrowotnymi i był nieobecny w pierwszym meczu finałowym (8 czerwca 2026). Brak aktualizacji sugeruje, że mógł być niedostępny lub limitowany w meczu 7.
 
-2.  **Aktualna forma top scorerów (sezon 2025-26):**
-    *   ORLEN Zastal Zielona Góra: W sezonie 2025/2026, wiodącymi strzelcami Zastalu byli Darious Hall (średnio 16.5 punktu na mecz) oraz Jan Wójcik (13.2 punktu na mecz).
-    *   Legia Warszawa: W sezonie 2025/2026, czołowymi strzelcami Legii Warszawa byli Christian Vital (średnio 17.8 punktu na mecz) i Aric Holman (14.1 punktu na mecz).
+2.  **Aktualna forma top scorerów (sezon 2025/2026 przed meczem 7. finału):**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz
+        *   Jakub Szumert: 13.2 Pkt/mecz
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz
+    *   **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz
+        *   Andrzej Pluta: 13.4 Pkt/mecz
+        *   Jayvon Graves: 12.8 Pkt/mecz
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Mecz odbył się 21 czerwca 2026 roku i był 7. decydującym meczem finałowym ORLEN Basket Ligi sezonu 2025/2026, rozgrywanym w Warszawie.
+    *   Legia Warszawa grała na własnym parkiecie, co w decydującym meczu finału stanowiło znaczącą przewagę.
+    *   Legia Warszawa zwyciężyła w tym spotkaniu 78:70, zdobywając Mistrzostwo Polski. Zatem typ na Legię Warszawa był trafny.
