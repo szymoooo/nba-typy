@@ -1,12 +1,45 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-23 14:07 ET) ---
-Na podstawie danych z 2026-07-23:
+--- KRYTYCZNY AUDYT LIVE (2026-07-23 16:17 ET) ---
+Oto analiza Twoich typów na podstawie dostępnych danych ze stycznia 2026:
 
-**Lakers @ Kings -> Typ: Kings**
+---
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Los Angeles Lakers dokonali znaczących wzmocnień, pozyskując Lukę Doncica, Walkera Kesslera, Collina Sextona i Quentina Grimesa. Chociaż LeBron James opuścił drużynę, obecność Doncica czyni Lakers bardzo silnym kandydatem. Sacramento Kings, mimo że również wzmocnili swój skład, między innymi Zachem LaVine'em, mogą mieć trudności w rywalizacji z tak przebudowanymi Lakers.
+### Lakers @ Kings -> Typ: Kings
 
-**Grizzlies @ Hawks -> Typ: Hawks**
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Los Angeles Lakers:**
+        *   Austin Reaves (kontuzja łydki - OUT 🩹)
+        *   Rui Hachimura (kontuzja kolana/łydki - OUT 🩹)
+        *   Adou Thiero (kontuzja MCL - OUT 🩹)
+        *   Gabe Vincent (kontuzja pleców - OUT 🩹)
+        *   Maxi Kleber (rekonwalescencja po operacji stopy - OUT 🩹)
+        *   Bronny James Jr. (problemy z dolną częścią ciała - OUT 🩹)
+    *   **Sacramento Kings:**
+        *   Domantas Sabonis (częściowe zerwanie łąkotki - OUT 🩹) (przez większość stycznia)
+        *   Keegan Murray (skręcenie stawu skokowego - OUT 🩹) (przez większość stycznia)
+        *   Russell Westbrook (kontuzja stopy - QUESTIONABLE/OUT ⚠️) (pod koniec stycznia)
+        *   Malik Monk (stłuczenie pięty - QUESTIONABLE ⚠️) (pod koniec stycznia)
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Memphis Grizzlies prezentują się na papierze jako drużyna z bardzo mocnym i głębokim składem, w którym znajdują się Jerami Grant, Kentavious Caldwell-Pope, Isaiah Stewart, Zach Edey, D'Angelo Russell, Cameron Boozer, Taylor Hendricks i Kris Murray. Atlanta Hawks, pomimo projektowanego solidnego składu wyjściowego, mogą mieć trudności z nawiązaniem równorzędnej walki z tak wzmocnionymi Grizzlies. Ousmane Gueye jest kontuzjowany (uraz stopy, reewaluacja za 3-4 miesiące od lipca 2026), ale to nie jest aktywny raport kontuzji na dzień dzisiejszy (2026-07-23) dla meczu.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Kings w styczniu 2026 byli mocno osłabieni, zwłaszcza brak Domantasa Sabonisa i Keegana Murraya to ogromne uderzenie w ich siłę podkoszową i ofensywną. Potencjalne braki Westbrook i Monka pod koniec miesiąca dodatkowo komplikowały sytuację. Mimo kontuzji Lakers, absencje kluczowych graczy Kings sprawiają, że Twój typ jest bardzo ryzykowny.
+
+---
+
+### Grizzlies @ Hawks -> Typ: Hawks
+
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Memphis Grizzlies:**
+        *   Scotty Pippen Jr. (kontuzja palca u nogi - OUT 🩹)
+        *   Zach Edey (kontuzja kostki - OUT 🩹)
+        *   Ty Jerome (kontuzja kostki/łydki - OUT 🩹)
+        *   Brandon Clarke (kontuzja łydki - OUT 🩹)
+        *   Ja Morant (stłuczenie łydki - DOUBTFUL ⚠️) (na początku stycznia)
+    *   **Atlanta Hawks:**
+        *   Kristaps Porzingis (zapalenie ścięgna Achillesa - OUT 🩹) (przez większość stycznia)
+        *   N'Faly Dante (zerwane ACL - OUT na sezon 🩹)
+        *   Zaccharie Risacher (stłuczenie kości kolana - OUT 🩹) (przez większość stycznia, później dostępny)
+        *   Onyeka Okongwu (złamanie zęba - OUT 🩹) (pod koniec stycznia)
+        *   Jalen Johnson (ciasnota łydki - QUESTIONABLE/AVAILABLE ⚠️) (pod koniec stycznia)
+        *   Luke Kennard (skręcenie szyi - QUESTIONABLE ⚠️) (połowa stycznia)
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny w styczniu 2026 zmagały się z licznymi kontuzjami. Grizzlies mieli kilku rotacyjnych graczy poza składem, a Morant był wątpliwy. Hawks byli poważnie osłabieni brakiem kluczowych graczy podkoszowych, Kristapsa Porzingisa i N'Faly Dante, przez znaczną część miesiąca. Rybacher i Okongwu również opuścili wiele spotkań. Hawks mieli poważnie przetrzebiony frontcourt, co czyni ten typ bardzo ryzykownym.
