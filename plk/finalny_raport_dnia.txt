@@ -1,12 +1,16 @@
---- AUDYT PLK LIVE (2026-07-23 09:59 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-23 12:19 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu dla typu: 2026-06-21):
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
-    *   **ORLEN Zastal Zielona Góra:** 🇵🇱 Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23, w kontekście sezonu 2025/2026.
-    *   **Legia Warszawa:** 🇵🇱 Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23, w kontekście sezonu 2025/2026.
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** Przed serią finałową (która zakończyła się 21 czerwca 2026) Phil Fayne wrócił do składu. Filip Matczak zgłaszał dolegliwości związane ze starą kontuzją, ale był brany pod uwagę do gry w serii finałowej. Dwight Wilson odczuwał skutki urazu kostki, ale trenował normalnie i uczestniczył w meczach. Na dzień 21.06.2026 nie ma informacji o kluczowych zawodnikach wykluczonych z gry.
+    *   **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21.06.2026. Starsze kontuzje (Pluta, Graves, Tass z listopada/grudnia 2025) zostały rozwiązane przed fazą finałową.
 
-2.  **Aktualna forma top scorerów:**
-    *   **ORLEN Zastal Zielona Góra:** 📊 Brak danych z API dla tego zespołu.
-    *   **Legia Warszawa:** 📊 Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu w kontekście średniej punktowej na mecz dla top scorerów.
+    *   **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz
+        *   Andrzej Pluta: 13.4 Pkt/mecz
+        *   Jayvon Graves: 12.8 Pkt/mecz
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz 21.06.2026 był siódmym, decydującym spotkaniem serii finałowej ORLEN Basket Ligi, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra (78:70) i zdobyła Mistrzostwo Polski. Pomimo drobnych dolegliwości w Zastalu, drużyna grała w pełnym składzie, a Legia okazała się silniejsza w kluczowym momencie sezonu.
