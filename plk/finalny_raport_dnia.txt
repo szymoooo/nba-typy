@@ -1,48 +1,25 @@
---- AUDYT PLK LIVE (2026-07-23 22:17 CET) ---
-Analiza meczu PLK (2026-06-21): ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-23 22:51 CET) ---
+Analiza meczu na dzień 2026-07-23 (mecz odbył się 2026-06-21):
 
-### ORLEN Zastal Zielona Góra
-
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:**
-    *   [⚠️ RYZYKOWNY] - Brak danych o formie top scorerów i kontekście meczu z 21 czerwca 2026 r. utrudnia precyzyjną ocenę.
-
-### Legia Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:**
-    *   [⚠️ RYZYKOWNY] - Brak danych o formie top scorerów i kontekście meczu z 21 czerwca 2026 r. utrudnia precyzyjną ocenę.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
 ---
-**Ogólny Werdykt dla typu:** Legia Warszawa
-[⚠️ RYZYKOWNY] - Brak dostępu do aktualnych danych o formie strzelców oraz braki informacyjne z dnia meczu (2026-06-21), zgodnie z wytycznymi, nie pozwalają na jednoznaczne zatwierdzenie typu. Informacje o kontuzjach są aktualne na 2026-07-23, co niekoniecznie odzwierciedla sytuację w dniu meczu.Analiza meczu PLK (2026-06-21): ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-Mecz, o którym mowa, był finałem sezonu 2025/2026 Polskiej Ligi Koszykówki, w którym Legia Warszawa zdobyła mistrzostwo, pokonując ORLEN Zastal Zielona Góra. Dziś jest 2026-07-23, co oznacza, że znajdujemy się w okresie poza sezonem PLK 2025/2026, a nowy sezon 2026/2027 rozpocznie się 2 października 2026 roku. Kluby ogłaszają obecnie nowe transfery, np. Legia pozyskała György'ego Golomana, a Zastal Toyaza Solomona.
-
-### ORLEN Zastal Zielona Góra
-
-1.  **Kluczowe braki w składach:**
+**ORLEN Zastal Zielona Góra:**
+1.  **Kluczowe braki w składzie (kontuzje, brak w kadrze, zawieszenie):**
     *   Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23.
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:**
-    *   [⚠️ RYZYKOWNY] - Brak bieżących danych o kontuzjach (na dzień 2026-07-23) oraz o formie strzelców dla daty meczu.
-
-### Legia Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:**
-    *   [⚠️ RYZYKOWNY] - Brak bieżących danych o kontuzjach (na dzień 2026-07-23) oraz o formie strzelców dla daty meczu.
+    *   Brak danych z API dla tego zespołu. Brak aktualnych informacji o top scorerach na dzień 2026-07-23.
 
 ---
-**Ogólny Werdykt dla typu:** Legia Warszawa
-[⚠️ RYZYKOWNY] - Mimo że historycznie Legia Warszawa wygrała ten mecz, który był finałem sezonu PLK 2025/2026, to zgodnie z rygorystycznymi zasadami audytu, nie dysponujemy potwierdzonymi informacjami o kontuzjach z dnia dzisiejszego (2026-07-23), które byłyby bezpośrednio związane z meczem z 21 czerwca 2026 r. Brak jest również danych z API dotyczących formy top scorerów. Z tego względu, w oparciu o dostępne informacje i zasady, typ należy uznać za ryzykowny z perspektywy aktualnej analizy.
+
+**Legia Warszawa:**
+1.  **Kluczowe braki w składzie (kontuzje, brak w kadrze, zawieszenie):**
+    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu. Brak aktualnych informacji o top scorerach na dzień 2026-07-23.
+
+---
+
+**Werdykt:** [⚠️ RYZYKOWNY]
+Brak szczegółowych danych na temat aktualnej formy top scorerów oraz fakt, że analiza dotyczy meczu z przeszłości (2026-06-21), sprawia, że typ jest ryzykowny z perspektywy dzisiejszej oceny (2026-07-23). Brak danych o ówczesnych kontuzjach i formie na dzień meczu uniemożliwia rzetelną ocenę retrospektywną.
