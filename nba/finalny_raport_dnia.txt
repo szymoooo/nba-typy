@@ -1,20 +1,38 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-22 22:06 ET) ---
-Na podstawie danych z 22 lipca 2026, analizuję Twoje typy dla meczów ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-23 01:34 ET) ---
+Dzisiejsza data to 2026-07-23. Liga NBA jest obecnie w okresie poza sezonem (off-season), a rozgrywki regularne rozpoczną się w październiku 2026 roku. W związku z tym, żadne mecze nie są rozgrywane dzisiaj, a co za tym idzie, nie ma aktualnych raportów o kontuzjach w kontekście statusów meczowych (Out, Questionable, GTD).
+
+Poniżej przedstawiam analizę Twoich typów, bazując na dostępnych informacjach o składach na lipiec 2026 oraz uwzględniając brak aktywnych meczów:
 
 ---
 
 **Lakers @ Kings -> Typ: Kings**
 
-*   **Kluczowe braki w składach (stan na styczeń 2026):**
-    *   **Kings:** Domantas Sabonis (OUT – kontuzja kolana), Keegan Murray (OUT – skręcenie lewej kostki), Dennis Schroder (OUT – zawieszenie). Isaiah Stevens (Day-to-day). Rui Hachimura (Questionable – łydka).
-    *   **Lakers:** Austin Reaves (OUT – naciągnięcie mięśnia łydki), Adou Thiero (OUT – skręcenie MCL). Luka Dončić (doznał urazu uda w poprzednim meczu, status niepewny).
-*   **Werdykt:** ⚠️ RYZYKOWNY. Kings byli bez dwóch kluczowych starterów (Sabonis, Murray) i ważnego rozgrywającego (Schroder). Lakers również mieli znaczące braki, w tym Reavesa i Thiero. Typ na Kings, biorąc pod uwagę ich poważne osłabienia, jest ryzykowny.
+*   **Kluczowe braki w składach (na podstawie zmian w składzie na lipiec 2026):**
+    *   **Los Angeles Lakers:**
+        *   LeBron James (opuścił drużynę) 💔
+        *   Rui Hachimura (przeszedł do Clippers) 🔄
+        *   Jaxson Hayes (przeszedł do Jazz) 🔄
+        *   Deandre Ayton (wytransferowany) 🔄
+        *   Marcus Smart (podpisał kontrakt z inną drużyną) 🔄
+        *   Luke Kennard (podpisał kontrakt z inną drużyną) 🔄
+        *   Adou Thiero (rozgrywał Summer League po kontuzjach kolana w sezonie debiutanckim) 🩹
+    *   **Sacramento Kings:**
+        *   DeMar DeRozan (zwolniony z kontraktu) 👋
+        *   Devin Carter (wytransferowany do Atlanta Hawks) 🔄
+*   **Raporty o kontuzjach (Injury Report):** Brak aktualnych raportów (Injury Report) na tę chwilę, ponieważ nie są rozgrywane żadne mecze.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak meczów uniemożliwia ocenę typu. Skład Lakers uległ znacznym zmianom po odejściu LeBrona Jamesa i jest budowany wokół Luki Doncicia, z nowymi nabytkami takimi jak Walker Kessler, Collin Sexton i Quentin Grimes. Kings również dokonali zmian, pozyskując m.in. Preciousa Achiuwę i Dariusza Acuffa Jr.. Bez danych z sezonu i raportów meczowych, typ jest spekulacyjny.
 
 ---
 
 **Grizzlies @ Hawks -> Typ: Hawks**
 
-*   **Kluczowe braki w składach (stan na styczeń 2026):**
-    *   **Grizzlies:** Scotty Pippen Jr. (OUT – kontuzja palca u nogi), Zach Edey (OUT – problemy z kostką), Ty Jerome (OUT – łydka), Brandon Clarke (OUT – łydka). Santi Aldama (Questionable – ból prawego kolana).
-    *   **Hawks:** Kristaps Porzingis (OUT – zapalenie ścięgna Achillesa), Zaccharie Risacher (OUT – stłuczenie kości lewego kolana), N'Faly Dante (OUT na sezon – operacja kolana).
-*   **Werdykt:** ⚠️ RYZYKOWNY. Obie drużyny były mocno osłabione. Hawks byli bez dwóch kluczowych graczy podkoszowych (Porzingis, Risacher) oraz Dantego na cały sezon, co znacząco wpływało na ich obronę i spacing. Grizzlies również brakowało kilku graczy rotacyjnych. W obliczu licznych braków kluczowych graczy podkoszowych Hawks, typ na nich jest ryzykowny.
+*   **Kluczowe braki w składach (na podstawie zmian w składzie na lipiec 2026):**
+    *   **Memphis Grizzlies:**
+        *   Brak wyraźnych, znaczących braków w składzie odnotowanych w dostępnych źródłach na lipiec 2026, poza naturalnymi rotacjami składu Summer League.
+    *   **Atlanta Hawks:**
+        *   Eli Ndiaye (ukończył poprzedni sezon z rozdartym obrąbkiem barkowym, obecnie gra w Summer League) 🩹
+        *   Jacob Toppin (ukończył poprzedni sezon z rozdartym obrąbkiem barkowym, obecnie gra w Summer League) 🩹
+        *   Jonathan Kuminga (opcja drużyny odrzucona, nieograniczony wolny agent) ✍️
+        *   Hawks wzmocnili skład o graczy takich jak CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels i Jalen Johnson jako przewidywana pierwsza piątka.
+*   **Raporty o kontuzjach (Injury Report):** Brak aktualnych raportów (Injury Report) na tę chwilę, ponieważ nie są rozgrywane żadne mecze.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Podobnie jak w pierwszym przypadku, brak rozgrywanych meczów uniemożliwia rzetelną ocenę typu. Hawks dokonali znaczących zmian w składzie, włączając w to nowych kluczowych graczy. Ograniczone informacje o aktualnym, pełnym składzie Grizzlies utrudniają porównanie. Typ jest spekulacyjny.
