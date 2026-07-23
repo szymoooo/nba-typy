@@ -1,25 +1,12 @@
---- AUDYT PLK LIVE (2026-07-23 22:51 CET) ---
-Analiza meczu na dzień 2026-07-23 (mecz odbył się 2026-06-21):
+--- AUDYT PLK LIVE (2026-07-23 23:37 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu do audytu: 2026-06-21):
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+1.  **Kluczowe braki w składach:**
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23. Informacje o kontuzjach z grudnia 2025 r. (Michał Kolenda, Matthias Tass) nie wskazują na ich bieżącą niedostępność, a Ojārs Siliņš opuścił klub. Doniesienia z Transfermarkt i Legionisci.com dotyczą sekcji piłkarskiej i są ignorowane.
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23. Artykuł z czerwca 2026 r. wspomina o "walce z urazami", ale nie precyzuje aktualnych kontuzji na dziś. Doniesienia z maja 2026 r. dotyczące kontuzji w Kingu Szczecin nie dotyczą Zastalu.
 
----
-
-**ORLEN Zastal Zielona Góra:**
-1.  **Kluczowe braki w składzie (kontuzje, brak w kadrze, zawieszenie):**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23.
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. Brak aktualnych informacji o top scorerach na dzień 2026-07-23.
+    *   Brak danych z API dla tego zespołu.
 
----
-
-**Legia Warszawa:**
-1.  **Kluczowe braki w składzie (kontuzje, brak w kadrze, zawieszenie):**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-07-23.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. Brak aktualnych informacji o top scorerach na dzień 2026-07-23.
-
----
-
-**Werdykt:** [⚠️ RYZYKOWNY]
-Brak szczegółowych danych na temat aktualnej formy top scorerów oraz fakt, że analiza dotyczy meczu z przeszłości (2026-06-21), sprawia, że typ jest ryzykowny z perspektywy dzisiejszej oceny (2026-07-23). Brak danych o ówczesnych kontuzjach i formie na dzień meczu uniemożliwia rzetelną ocenę retrospektywną.
+3.  **Werdykt:**
+    *   [✅ ZATWIERDZONY]
