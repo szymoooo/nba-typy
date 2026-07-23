@@ -1,16 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-22 20:13 ET) ---
-Na podstawie danych z 22 lipca 2026 roku:
+--- KRYTYCZNY AUDYT LIVE (2026-07-22 22:06 ET) ---
+Na podstawie danych z 22 lipca 2026, analizuję Twoje typy dla meczów ze stycznia 2026:
 
-Obecna data (2026-07-22) przypada na okres poza sezonem NBA. Według dostępnych informacji, na dzień 22 lipca 2026 roku nie są zaplanowane żadne mecze NBA. W związku z tym, nie istnieją aktualne raporty dotyczące kontuzji (Injury Report) ze statusami takimi jak 'Out', 'Questionable' czy 'GTD' dla konkretnych spotkań.
+---
 
-Zgodnie z Twoimi zasadami: "Jeśli nie znajdziesz potwierdzonych informacji o kontuzjach z DZISIAJ (2026-07-22), napisz 'Brak aktualnych raportów (Injury Report) na tę chwilę'."
+**Lakers @ Kings -> Typ: Kings**
 
-**Lakers @ Kings**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych o składach i kontuzjach uniemożliwia rzetelną ocenę typu.
+*   **Kluczowe braki w składach (stan na styczeń 2026):**
+    *   **Kings:** Domantas Sabonis (OUT – kontuzja kolana), Keegan Murray (OUT – skręcenie lewej kostki), Dennis Schroder (OUT – zawieszenie). Isaiah Stevens (Day-to-day). Rui Hachimura (Questionable – łydka).
+    *   **Lakers:** Austin Reaves (OUT – naciągnięcie mięśnia łydki), Adou Thiero (OUT – skręcenie MCL). Luka Dončić (doznał urazu uda w poprzednim meczu, status niepewny).
+*   **Werdykt:** ⚠️ RYZYKOWNY. Kings byli bez dwóch kluczowych starterów (Sabonis, Murray) i ważnego rozgrywającego (Schroder). Lakers również mieli znaczące braki, w tym Reavesa i Thiero. Typ na Kings, biorąc pod uwagę ich poważne osłabienia, jest ryzykowny.
 
-**Grizzlies @ Hawks**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych o składach i kontuzjach uniemożliwia rzetelną ocenę typu.
+---
 
-Należy zauważyć, że podczas gdy niektóre źródła wspominają o długoterminowych kontuzjach z sezonu 2025-26, które mogą ciągnąć się do lipca 2026 (np. Santi Aldama z Grizzlies z operacją kolana w marcu 2026 czy Gueye z Hawks po operacji stopy w lipcu 2026), nie są to raporty meczowe dla konkretnych gier zaplanowanych na 22 lipca 2026 roku. Instrukcja dotycząca "STYCZEŃ 2026" odnosiłaby się do kontekstu składów w tamtym okresie, ale nie do aktualnych (z 22.07.2026) raportów meczowych o kontuzjach.
+**Grizzlies @ Hawks -> Typ: Hawks**
+
+*   **Kluczowe braki w składach (stan na styczeń 2026):**
+    *   **Grizzlies:** Scotty Pippen Jr. (OUT – kontuzja palca u nogi), Zach Edey (OUT – problemy z kostką), Ty Jerome (OUT – łydka), Brandon Clarke (OUT – łydka). Santi Aldama (Questionable – ból prawego kolana).
+    *   **Hawks:** Kristaps Porzingis (OUT – zapalenie ścięgna Achillesa), Zaccharie Risacher (OUT – stłuczenie kości lewego kolana), N'Faly Dante (OUT na sezon – operacja kolana).
+*   **Werdykt:** ⚠️ RYZYKOWNY. Obie drużyny były mocno osłabione. Hawks byli bez dwóch kluczowych graczy podkoszowych (Porzingis, Risacher) oraz Dantego na cały sezon, co znacząco wpływało na ich obronę i spacing. Grizzlies również brakowało kilku graczy rotacyjnych. W obliczu licznych braków kluczowych graczy podkoszowych Hawks, typ na nich jest ryzykowny.
