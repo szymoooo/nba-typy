@@ -1,21 +1,28 @@
---- AUDYT PLK LIVE (2026-07-24 19:13 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu w kontekście: 2026-06-21)
+--- AUDYT PLK LIVE (2026-07-24 20:12 CET) ---
+Analiza meczu PLK na dzień 2026-06-21:
 
-**UWAGA: Mecz wskazany w kontekście (2026-06-21) jest datą przeszłą względem daty dzisiejszej (2026-07-24). Poniższa analiza bazuje na aktualnym statusie klubów na dzień 2026-07-24, w kontekście zakończonego sezonu 2025/2026 oraz przygotowań do sezonu 2026/2027.**
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
----
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   **Sagaba Konate:** Sezon zakończony w lutym 2026 roku z powodu kontuzji więzadła nadgarstka.
+        *   **Filip Matczak:** Przed finałami (stan na 6 czerwca 2026) odczuwał dolegliwości związane ze starym urazem i był oszczędzany na treningach, aby nie zaostrzać bólu. Jego pełna dyspozycja w meczu finałowym mogła być ograniczona.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026. Andrzej Pluta, Jayvon Graves i Matthias Tass, którzy byli kontuzjowani w listopadzie 2025, mieli wrócić po przerwie reprezentacyjnej i byli dostępni w finałach. Michał Kolenda przeszedł zabieg po zakończeniu sezonu, w lipcu 2026, więc był dostępny na ten mecz.
 
-### **ORLEN Zastal Zielona Góra @ Legia Warszawa**
+2.  **Aktualna forma top scorerów:**
+    *   🏀 **Legia Warszawa (mecz finałowy 21.06.2026):**
+        *   Andrzej Pluta: 15 punktów.
+        *   Race Thompson: 11 punktów.
+        *   Dominic Brewton III: 11 punktów.
+        *   Dominic Brewton III był wiodącym strzelcem Legii w sezonie 2025/2026 ze średnią 14.5 Pkt/mecz, Andrzej Pluta miał 13.4 Pkt/mecz, a Jayvon Graves 12.8 Pkt/mecz.
+    *   🏀 **ORLEN Zastal Zielona Góra (mecz finałowy 21.06.2026):**
+        *   Andrzej Mazurczak: 10 punktów. Wcześniej w meczu 4 finałów (15.06.2026) Andrzej Mazurczak zdobył 21 punktów, a Conley Garrison 16 punktów, co przyczyniło się do lepszej gry Zastalu.
 
-1.  **Kluczowe braki w składach (na dzień 2026-07-24):**
-    *   **ORLEN Zastal Zielona Góra:** Brak potwierdzonych, istotnych kontuzji koszykarskich na dzień 2026-07-24. Okres transferowy jest w toku, więc skład na nadchodzący sezon 2026/2027 będzie się krystalizował. Klub borykał się z problemami finansowymi w poprzednich sezonach, co często wpływa na stabilność kadrową i odejścia zawodników po sezonie.
-    *   **Legia Warszawa:** Brak potwierdzonych, istotnych kontuzji koszykarskich na dzień 2026-07-24. Podobnie jak w przypadku Zastalu, trwają ruchy transferowe przed sezonem 2026/2027.
+3.  **Werdykt:**
+    *   Legia Warszawa grała w swoim własnym mieście, na hali OSiR Warszawa Bemowo, co w decydującym 7. meczu finałów (o Mistrzostwo Polski) było znaczącą przewagą.
+    *   Legia obroniła tytuł Mistrza Polski, wygrywając ten mecz 78:70.
+    *   Zastal miał osłabienia w składzie (Konate poza sezonem, Matczak z urazem), podczas gdy Legia była w pełnym składzie.
+    *   Liderzy Legii, tacy jak Andrzej Pluta i Dominic Brewton III, byli w dobrej formie strzeleckiej w tym kluczowym spotkaniu.
 
-2.  **Aktualna forma top scorerów (z sezonu 2025/2026, brak danych z "serii" dla minionego meczu):**
-    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu. Zastal w sezonie 2025/2026 prawdopodobnie nadal opierał się na rotacji zawodników, z potencjalnym wiodącym strzelcem, ale bez konkretnych danych z PulsBasketu trudno wskazać nazwisko.
-    *   **Legia Warszawa:** Brak danych z API dla tego zespołu. Legia w sezonie 2025/2026 zazwyczaj charakteryzowała się zbilansowanym atakiem, z kilkoma zawodnikami zdolnymi do bycia top scorerami w danym meczu, ale bez konkretnych danych z PulsBasketu trudno wskazać nazwisko.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie (na podstawie kontekstu meczu z 2026-06-21 i aktualnej sytuacji):** Biorąc pod uwagę, że typ "Legia Warszawa" dotyczył meczu, który już się odbył (2026-06-21), ocena werdyktu jest retrospektywna. W końcówce sezonu 2025/2026 Legia Warszawa prezentowała zazwyczaj stabilniejszą formę niż ORLEN Zastal Zielona Góra, zwłaszcza grając u siebie. Zastal często zmagał się z problemami kadrowymi i finansowymi, co mogło negatywnie wpływać na wyniki. Jednak bez znajomości faktycznych składów i formy z 21.06.2026 oraz wyniku tamtego meczu, ocena jest obarczona ryzykiem. Z perspektywy dzisiejszej (2026-07-24), oba zespoły są w fazie budowania składów na nowy sezon, a ich "formę" trudno ocenić. Typowanie Legii u siebie w sezonie 2025/2026 przeciwko Zastalowi było często uzasadnione, ale bez danych z meczu 21.06.2026, werdykt jest ryzykowny z uwagi na brak możliwości weryfikacji faktycznych zdarzeń z dnia meczu.
-
----
+**Werdykt:** [✅ ZATWIERDZONY]
