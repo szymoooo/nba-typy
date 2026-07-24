@@ -1,38 +1,15 @@
---- AUDYT PLK LIVE (2026-07-24 23:39 CET) ---
-Analiza meczu PLK na dzień 2026-07-24, audyt typu z 2026-06-21:
+--- AUDYT PLK LIVE (2026-07-24 23:57 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data predykcji: 2026-06-21) na dzień 2026-07-24:
 
 ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
+1.  **Kluczowe braki w składach (stan na 2026-07-24):**
+    *   🏀 **Legia Warszawa:** Michał Kolenda przeszedł operację stawu skokowego 23 lipca 2026 roku i jest niedostępny.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate doznał kontuzji dłoni w lutym 2026 roku, która zakończyła jego sezon. Brak aktualnych informacji o jego powrocie do pełnej sprawności na dzień 24 lipca 2026, co oznacza, że może być nadal w trakcie rehabilitacji lub poza kadrą na początku nowego sezonu.
 
-    *   **Legia Warszawa:**
-        *   Dominic Brewton (obrońca) – Opuścił klub w styczniu 2026 i przeniósł się do izraelskiego Bnei Herzliya.
-        *   Andrzej Pluta (rozgrywający) – Przeniósł się do hiszpańskiego Basquet Girona po sezonie mistrzowskim z Legią.
-        *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-07-24.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Jayvon Maughmer (obrońca) – Oficjalnie odszedł z klubu i podpisał kontrakt z francuskim Elan Béarnais Pau-Lacq-Orthez.
-        *   Sagaba Konate (silny skrzydłowy/środkowy) – Doznał awulsyjnego uszkodzenia więzadła nadgarstka w lutym 2026, co zakończyło jego sezon 2025/2026. Brak aktualnych informacji o jego statusie na 2026-07-24.
-        *   Chavaughn Lewis (rzucający) – Doznał kontuzji w maju 2026, która wykluczyła go z meczu o 7. miejsce w sezonie 2025/2026. Brak aktualnych informacji o jego statusie na 2026-07-24.
-        *   Miłosz Majewski (niski skrzydłowy/silny skrzydłowy) – Doznał kontuzji w maju 2026 w tym samym incydencie co Chavaughn Lewis. Brak aktualnych informacji o jego statusie na 2026-07-24.
-        *   Brak innych istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-07-24.
-
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-
-    *   **Legia Warszawa:**
-        *   Dominic Brewton (14.5 Pkt/mecz) – Opuścił klub.
-        *   Andrzej Pluta (13.4 Pkt/mecz) – Opuścił klub.
-        *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, co świadczy o bardzo dobrej formie drużynowej w minionym sezonie.
-        *   Do drużyny dołączyli nowi zawodnicy, tacy jak Jakub Andrzejewski i Szymon Tomczak pod koniec czerwca 2026.
-
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis (15.8 Pkt/mecz) – Doznał kontuzji pod koniec sezonu 2025/2026.
-        *   Jakub Szumert (13.2 Pkt/mecz)
-        *   Andrzej Mazurczak (11.8 Pkt/mecz)
-        *   Zastal dotarł do finału PLK w sezonie 2025/2026, gdzie zmierzył się z Legią Warszawa. Wyniki ostatnich meczów w czerwcu 2026 przeciwko Legii wskazywały na porażki Zastalu (76-74, 78-70 dla Legii). Klub przygotowuje się do udziału w FIBA Europe Cup w sezonie 2026/2027 i pozyskał nowych zawodników, m.in. Trazariena White'a, Toyaza "Taya" Solomona i Jana Wójcika.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-
-    Uzasadnienie: Pomimo że Legia Warszawa była mistrzem Polski w poprzednim sezonie, straciła dwóch kluczowych strzelców (Brewton i Pluta). ORLEN Zastal Zielona Góra, choć wicemistrz Polski, miał istotne problemy kadrowe pod koniec sezonu 2025/2026 w postaci poważnych kontuzji (Konate, Lewis, Majewski) oraz odejścia Jayvona Maughmera. Chociaż brak aktualnych potwierdzeń ich statusu na 2026-07-24, takie braki i rotacje kadrowe wprowadzają niepewność. Przewaga własnego parkietu Legii jest istotna, ale zmiany w składach obu drużyn mogą wpłynąć na przebieg meczu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Prognoza Legia Warszawa na mecz z 2026-06-21 jest zatwierdzona. Legia Warszawa zdobyła mistrzostwo PLK w sezonie 2025/2026, pokonując ORLEN Zastal Zielona Góra w siedmiomeczowej serii finałowej w czerwcu 2026 roku. Pomimo obecnych (2026-07-24) rotacji w składach w okresie transferowym i kontuzji Michała Kolendy w Legii oraz niepewnego statusu Sagaby Konate w Zastalu, oryginalna prognoza była zgodna z historycznym wynikiem mistrzostw.
