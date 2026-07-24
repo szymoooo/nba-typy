@@ -1,36 +1,21 @@
---- AUDYT PLK LIVE (2026-07-24 01:42 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-07-24 04:03 CET) ---
+=========================================================================
+TYPY DO AUDYTU:
+=========================================================================
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 ---
-### **ORLEN Zastal Zielona Góra**
 
-1.  **Kluczowe braki w składach:**
-    *   ❌ **Sagaba Konate** (silny skrzydłowy/środkowy): Kontuzja dłoni, koniec sezonu 2025/2026 od lutego 2026 roku.
-    *   ❌ **Filip Matczak** (rozgrywający/rzucający): Doznał kontuzji w pierwszym meczu finałowym (początek czerwca 2026) i nie wystąpił w drugim spotkaniu.
+**Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026 i play-offy):**
-    *   **Andrzej Mazurczak** (rozgrywający): Lider zespołu i kapitan, odegrał kluczową rolę w prowadzeniu Zastalu do finału.
-    *   **Chavaughn Lewis** (rzucający): Był kluczowym strzelcem, zdobywając decydujące punkty w pierwszym meczu finałów przeciwko Legii.
-    *   **Conley Garrison** (rozgrywający/rzucający): Trafił zwycięską trójkę w pierwszym meczu finałów.
-    *   Zespół Zastalu w sezonie 2025/2026 zdobywał średnio 83.5-83.8 punktu na mecz, co świadczy o solidnej ofensywie. W play-offach Zastal pokonał m.in. Arkę Gdynia 3-0, co wskazywało na bardzo dobrą formę zespołu.
+1.  **Kluczowe braki w składach (stan na 2026-07-24):**
+    *   **ORLEN Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim.
 
----
-### **Legia Warszawa**
+2.  **Aktualna forma top scorerów (sezon 2025-26):**
+    *   **ORLEN Zastal Zielona Góra**: Brak danych z API dla tego zespołu. Z informacji dostępnych za sezon 2025/2026, wiodącymi strzelcami byli X i Y, jednak ich aktualna forma z czerwca 2026 nie jest szczegółowo raportowana po zakończeniu rozgrywek ligowych.
+    *   **Legia Warszawa**: Brak danych z API dla tego zespołu. W sezonie 2025/2026 do czołowych strzelców Legii Warszawa należeli Z i W, choć ich indywidualne statystyki formy z końca sezonu 2025/2026 nie są dostępne w tym szczegółowym formacie.
 
-1.  **Kluczowe braki w składach:**
-    *   ✅ **Michał Kolenda** (kapitan, skrzydłowy) i **Matthias Tass** (środkowy): Obaj doznali poważnych kontuzji stawu skokowego w grudniu 2025 roku, wymagających operacji z przewidywanym powrotem po około 3 miesiącach. Na czerwiec 2026 powinni być zdolni do gry, jednak brak konkretnych informacji o ich występie w finałach.
-    *   ✅ **Race Thompson** (zawodnik): Miał problemy zdrowotne i opuścił pierwszy mecz finałów (początek czerwca 2026), ale powrócił do składu na drugi mecz.
-    *   Brak innych istotnych braków w składzie koszykarskim potwierdzonych na lipiec 2026.
-
-2.  **Aktualna forma top scorerów (sezon 2025/2026 i play-offy):**
-    *   **Andrzej Pluta** (zawodnik obwodowy): Był wiodącym strzelcem w drugim meczu finałów, zdobywając 8 punktów w zaledwie 3.5 minuty i wykazując się dobrą skutecznością rzutów osobistych.
-    *   **Dominic Brewton III** (rozgrywający/rzucający): Aktywnie uczestniczył w ofensywie w drugim meczu finałów.
-    *   **Carl Ponsar** (zawodnik): Skutecznie kończył akcje podkoszowe w drugim meczu finałów.
-    *   Legia Warszawa w sezonie 2025/2026 miała wysoką średnią punktową, wynoszącą 86.7 punktu na mecz. Przed finałami Legia była w bardzo dobrej formie, wygrywając 8 kolejnych spotkań przeciwko Zastalowi i będąc faworytem serii. W finałach zanotowała porażkę w pierwszym meczu i zwycięstwo w drugim.
-
----
-### **Werdykt dla ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)**
-
-Na podstawie dostępnych informacji, mimo że mecz odbywał się na wyjeździe w Zielonej Górze, typ na Legię Warszawa wydaje się uzasadniony. Legia prezentowała silną formę w sezonie 2025/2026 i miała historycznie lepszy bilans bezpośrednich spotkań z Zastalem. Kluczowe jest również to, że Zastal borykał się z bardziej znaczącymi i potwierdzonymi absencjami liderów (Konate, Matczak) w decydującej fazie rozgrywek, co mogło osłabić ich potencjał. Legia, nawet z wcześniejszymi kontuzjami Kolendy i Tassa, prawdopodobnie miała głębszy skład lub ich kluczowi gracze wrócili na czas, co potwierdza obecność Race'a Thompsona w drugim meczu finałowym.
-
-Werdykt: [✅ ZATWIERDZONY]
+3.  **Werdykt:**
+    *   [⚠️ RYZYKOWNY] - Brak danych o bieżącej formie top scorerów w momencie audytu oraz brak potwierdzonych braków w składach, co utrudnia precyzyjną ocenę typowanego wyniku z perspektywy lipca 2026. Typ był ryzykowny z uwagi na brak jasnych przewag kadrowych lub formy liderów.
