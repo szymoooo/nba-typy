@@ -1,14 +1,31 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-24 15:47 ET) ---
-Na podstawie dzisiejszych danych z sieci (2026-07-24) dotyczących stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-24 16:24 ET) ---
+Oto analiza Twoich typów na podstawie danych z dnia 2026-07-24, z uwzględnieniem składów ze stycznia 2026:
 
 ---
 
-**Mecz: Lakers @ Kings**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę z dnia 2026-07-24, odnoszących się do meczów w styczniu 2026.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Ze względu na brak aktualnych raportów o kontuzjach z dzisiejszej daty dotyczących stycznia 2026, weryfikacja typu jest ryzykowna.
+### Lakers @ Kings -> Typ: Kings
+
+*   **Kluczowe braki w składach:**
+    *   **Los Angeles Lakers:**
+        *   LeBron James: Według doniesień z 24 lipca 2026, LeBron James podjął "szokującą decyzję" o dołączeniu do 76ers. Oznacza to, że jest niedostępny dla Lakers.
+        *   Anthony Davis: Został wytransferowany z Mavericks do Wizards w lutym 2026 roku i opuścił resztę sezonu 2025-26 z powodu kontuzji dłoni i pachwiny. Nawet jeśli byłby Lakerem w styczniu 2026, byłby kontuzjowany; jednakże, w styczniu 2026 grał dla Mavericks i był wykluczony na 6 tygodni z powodu kontuzji ręki od 13 stycznia 2026.
+    *   **Sacramento Kings:**
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę dla kluczowych graczy, takich jak De'Aaron Fox czy Domantas Sabonis. Skład Kings w sezonie 2025-26 obejmował między innymi Preciousa Achiuwę i DeMara DeRozana (przed jego zwolnieniem w lipcu 2026).
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Zakładając, że typ "Kings" opiera się na stabilnych składach ze stycznia 2026, brak LeBrona Jamesa w Lakers (z powodu potencjalnego transferu) jest ogromnym osłabieniem. Brak aktualnych informacji o kontuzjach dla Kings nie daje pewności co do ich pełnej siły.
 
 ---
 
-**Mecz: Grizzlies @ Hawks**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę z dnia 2026-07-24, odnoszących się do meczów w styczniu 2026.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Ze względu na brak aktualnych raportów o kontuzjach z dzisiejszej daty dotyczących stycznia 2026, weryfikacja typu jest ryzykowna.
+### Grizzlies @ Hawks -> Typ: Hawks
+
+*   **Kluczowe braki w składach:**
+    *   **Memphis Grizzlies:**
+        *   Ja Morant: Od 24 marca 2026 roku ogłoszono, że Ja Morant opuści resztę sezonu 2025-26 z powodu skręcenia więzadła pobocznego łokcia, z pełnym powrotem oczekiwanym na sezon 2026-27. Jest więc niedostępny.
+        *   Desmond Bane: Według raportu z 14 lipca 2026 roku, Desmond Bane (jako zawodnik Grizzlies) doznał skręcenia lewej kostki stopnia 3 i będzie pauzował przez co najmniej sześć tygodni. Jest więc niedostępny.
+    *   **Atlanta Hawks:**
+        *   Trae Young: Został wytransferowany z Hawks do Wizards w styczniu 2026 roku. Później ogłoszono (7 kwietnia 2026), że opuści resztę sezonu 2025-26 z powodu bólu w dole pleców i stłuczenia prawego mięśnia czworogłowego. Ze względu na transfer, jest on kluczowym brakiem dla Hawks.
+        *   Dejounte Murray: Został wytransferowany z Hawks do Pelicans w lipcu 2026 roku. Choć według raportu z 15 lipca 2026 roku jest bez kontuzji i dostępny do gry, to ze względu na transfer, jest on kluczowym brakiem dla Hawks.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ jest ryzykowny. Zarówno Grizzlies, jak i Hawks mają poważne osłabienia. Grizzlies bez Ja Moranta i Desmonda Bane'a tracą dwie swoje gwiazdy. Hawks, po transferach Trae Younga i Dejounte Murraya, drastycznie zmieniają swój skład w porównaniu ze styczniem 2026, co czyni ten typ bardzo niepewnym.
