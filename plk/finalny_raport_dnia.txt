@@ -1,26 +1,17 @@
---- AUDYT PLK LIVE (2026-07-24 09:57 CET) ---
-# PLK typy na 2026-06-21
+--- AUDYT PLK LIVE (2026-07-24 12:13 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+Data meczu: 2026-06-21
+Data analizy: 2026-07-24
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate: Doznał kontuzji dłoni w lutym 2026 roku, co zakończyło dla niego sezon 2025/2026. Byłby niedostępny na mecz 21 czerwca 2026.
-        *   Chavaughn Lewis: Odniósł kontuzję górnej części ciała w zderzeniu w meczu przed 8 maja 2026 i był wykluczony z gry w tamtym okresie. Prawdopodobnie byłby niedostępny na mecz 21 czerwca 2026.
-        *   Filip Matczak i Dwight Wilson III: Mieli drobne dolegliwości na początku czerwca 2026, ale oczekiwano, że będą dostępni do gry w fazie finałowej.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim.
+1.  **Kluczowe braki w składach (koszykarskich)**:
+    *   🏀 **ORLEN Zastal Zielona Góra**: Sagaba Konate doznał kontuzji dłoni w lutym 2026 roku, która wykluczyła go z gry do końca sezonu 2025/2026.
+    *   🏀 **Legia Warszawa**: Matthias Tass doznał poważnego urazu stawu skokowego w grudniu 2025 roku, wymagającego operacji i przewidywanej trzymiesięcznej przerwy, co oznaczało jego absencję w finałach sezonu 2025/2026. Michał Kolenda, kontuzjowany w grudniu 2025 z prognozowaną przerwą 6-8 tygodni, wrócił do gry i wystąpił w finałowej serii.
+    *   Brak innych istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-07-24, które wpłynęłyby na ocenę tego historycznego meczu.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: Był najlepszym strzelcem drużyny ze średnią 15.8 Pkt/mecz, jednak jego forma byłaby zagrożona ze względu na kontuzję.
-        *   Jakub Szumert: 13.2 Pkt/mecz.
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz, odegrał kluczową rolę w meczach playoffowych w maju 2026.
-        *   Conley Garrison: 10.9 Pkt/mecz i 5.2 asysty.
-    *   🏀 **Legia Warszawa:**
-        *   Dominic Brewton III: 14.5 Pkt/mecz.
-        *   Andrzej Pluta: 13.4 Pkt/mecz, zdobywca nagrody MVP Finałów PLK 2025/2026.
-        *   Jayvon Graves: 12.8 Pkt/mecz, zdobył 21 punktów w meczu w maju 2026.
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa była obrońcą tytułu mistrza Polski w sezonie 2025/2026 i najlepszą drużyną sezonu zasadniczego. W dniu meczu (2026-06-21) Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70. Zastal miał osłabiony skład z powodu kontuzji kluczowych graczy (Konate, Lewis), co dodatkowo zwiększyło przewagę Legii.
+3.  **Werdykt**: Legia Warszawa ostatecznie wygrała decydujący, siódmy mecz finałowy Orlen Basket Ligi 21 czerwca 2026 roku, zdobywając mistrzostwo Polski. Mecz był rozstrzygający (7/7) i Legia grała u siebie, co zwiększało wagę przewagi własnego parkietu. Pomimo osłabień w obu zespołach (Konate w Zastalu, Tass w Legii), typ na Legię Warszawa okazał się trafny.
+
+    *   [✅ ZATWIERDZONY]

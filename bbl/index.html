@@ -142,7 +142,28 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('bbl_140372000035136')">
+        <div class="card-header">
+            <span>Scheduled</span><span class="click-hint">Kliknij po analizę →</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="No matches scheduled for 2026-07-24"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">No matches scheduled for 2026-07-24</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="No matches scheduled for 2026-07-24"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">No matches scheduled for 2026-07-24</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">No matches scheduled for 2026-07-24</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: July 24, 2026 at 07:57 &middot; Data: Sofascore / 24score
+        Last updated: July 24, 2026 at 10:14 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"bbl_140372000035136": {"matchup": "No matches scheduled for 2026-07-24 @ No matches scheduled for 2026-07-24", "pick": "No matches scheduled for 2026-07-24", "reasoning": "Na dzień 24 lipca 2026 roku, zgodnie z dostępnymi informacjami, nie są zaplanowane żadne mecze easyCredit BBL. W związku z tym nie ma możliwości dokonania analizy ani przewidywania wyniku spotkania.", "key_factors": ["Brak zaplanowanych meczów"], "confidence": 1, "injury_notes": "Brak meczów, brak istotnych braków.", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {

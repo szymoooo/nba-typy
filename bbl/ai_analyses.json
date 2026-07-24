@@ -1,24 +1,21 @@
 {
-  "generated_at": "2026-06-21T11:27:23.885213",
-  "date": "2026-06-21",
+  "generated_at": "2026-07-24T10:14:21.439465",
+  "date": "2026-07-24",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Alba Berlin @ FC Bayern München",
-      "phase": "Playoff Finals, Game 5",
-      "ai_pick": "FC Bayern München",
-      "formula_pick": "FC Bayern München",
+      "matchup": "No matches scheduled for 2026-07-24 @ No matches scheduled for 2026-07-24",
+      "phase": "No matches scheduled for 2026-07-24",
+      "ai_pick": "No matches scheduled for 2026-07-24",
+      "formula_pick": "No matches scheduled for 2026-07-24",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Mecz piąty finałów BBL jest decydującym starciem, w którym FC Bayern München, jako gospodarz i najlepsza drużyna sezonu zasadniczego (bilans 29-5), ma przewagę własnego parkietu. [cite: 3 (previous search)] Mimo wyrównanej formy obu zespołów w ostatnich pięciu meczach playoff (3 zwycięstwa i 2 porażki dla każdej drużyny) oraz remisu 2-2 w serii finałowej, przewaga własnego boiska w fazie playoff jest statystycznie znacząca. Bukmacherzy również faworyzują Bayern w tym spotkaniu. [cite: 3 (previous search)]",
+      "confidence": 1,
+      "reasoning": "Na dzień 24 lipca 2026 roku, zgodnie z dostępnymi informacjami, nie są zaplanowane żadne mecze easyCredit BBL. W związku z tym nie ma możliwości dokonania analizy ani przewidywania wyniku spotkania.",
       "key_factors": [
-        "Decydujący mecz finałowy (Game 5)",
-        "Przewaga własnego parkietu dla FC Bayern München",
-        "Wyższa pozycja FC Bayern München w sezonie zasadniczym",
-        "Brak istotnych kontuzji kluczowych zawodników"
+        "Brak zaplanowanych meczów"
       ],
-      "injury_notes": "Brak istotnych nowych doniesień o kontuzjach kluczowych graczy obu drużyn koszykarskich na dzień 2026-06-21. Martin Hermannsson z Alba Berlin, który doznał kontuzji kciuka 6 lutego 2026, miał prognozowany sześciotygodniowy okres rekonwalescencji, co sugeruje jego powrót do gry pod koniec marca 2026. [cite: 25 (previous search)]"
+      "injury_notes": "Brak meczów, brak istotnych braków."
     }
   ]
 }
