@@ -1,28 +1,25 @@
---- AUDYT PLK LIVE (2026-07-24 20:12 CET) ---
-Analiza meczu PLK na dzień 2026-06-21:
-
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-24 21:48 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa (Mecz z dnia 2026-06-21)**
 
 1.  **Kluczowe braki w składach:**
     *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   **Sagaba Konate:** Sezon zakończony w lutym 2026 roku z powodu kontuzji więzadła nadgarstka.
-        *   **Filip Matczak:** Przed finałami (stan na 6 czerwca 2026) odczuwał dolegliwości związane ze starym urazem i był oszczędzany na treningach, aby nie zaostrzać bólu. Jego pełna dyspozycja w meczu finałowym mogła być ograniczona.
+        *   ❌ Chavaughn Lewis (najlepszy strzelec Zastalu w sezonie 2025/2026 ze średnią 15.8 Pkt/mecz) był kontuzjowany już 2026-05-08 i nadal odczuwał skutki zderzenia, co wykluczyło go z gry w meczu o 7. miejsce. Jest bardzo prawdopodobne, że był niedostępny lub bardzo ograniczony w serii finałowej w czerwcu 2026.
+        *   ❌ Filip Matczak i Jakub Szumert (13.2 Pkt/mecz) byli kontuzjowani już w lutym 2026 roku i ich brak w składzie był odnotowany przed finałową rywalizacją z Legią w czerwcu 2026.
+        *   ❌ Sagaba Konate doznał poważnej kontuzji nadgarstka 2026-02-21 podczas Pucharu Polski, jego dostępność w czerwcu 2026 była wątpliwa.
     *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026. Andrzej Pluta, Jayvon Graves i Matthias Tass, którzy byli kontuzjowani w listopadzie 2025, mieli wrócić po przerwie reprezentacyjnej i byli dostępni w finałach. Michał Kolenda przeszedł zabieg po zakończeniu sezonu, w lipcu 2026, więc był dostępny na ten mecz.
+        *   ❌ Michał Kolenda (kapitan Legii, średnio 8.4 Pkt/mecz w sezonie 2025/2026) przeszedł planowy zabieg stawu skokowego 2026-07-23 z prognozowaną przerwą 8-10 tygodni. Oznacza to, że był niedostępny na mecz 2026-06-21.
 
-2.  **Aktualna forma top scorerów:**
-    *   🏀 **Legia Warszawa (mecz finałowy 21.06.2026):**
-        *   Andrzej Pluta: 15 punktów.
-        *   Race Thompson: 11 punktów.
-        *   Dominic Brewton III: 11 punktów.
-        *   Dominic Brewton III był wiodącym strzelcem Legii w sezonie 2025/2026 ze średnią 14.5 Pkt/mecz, Andrzej Pluta miał 13.4 Pkt/mecz, a Jayvon Graves 12.8 Pkt/mecz.
-    *   🏀 **ORLEN Zastal Zielona Góra (mecz finałowy 21.06.2026):**
-        *   Andrzej Mazurczak: 10 punktów. Wcześniej w meczu 4 finałów (15.06.2026) Andrzej Mazurczak zdobył 21 punktów, a Conley Garrison 16 punktów, co przyczyniło się do lepszej gry Zastalu.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz (Jednak niedostępny/ograniczony z powodu kontuzji przed meczem 2026-06-21).
+        *   Jakub Szumert: 13.2 Pkt/mecz (Niedostępny z powodu kontuzji przed meczem 2026-06-21).
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz.
+    *   🏀 **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz.
+        *   Andrzej Pluta: 13.4 Pkt/mecz.
+        *   Jayvon Graves: 12.8 Pkt/mecz.
 
-3.  **Werdykt:**
-    *   Legia Warszawa grała w swoim własnym mieście, na hali OSiR Warszawa Bemowo, co w decydującym 7. meczu finałów (o Mistrzostwo Polski) było znaczącą przewagą.
-    *   Legia obroniła tytuł Mistrza Polski, wygrywając ten mecz 78:70.
-    *   Zastal miał osłabienia w składzie (Konate poza sezonem, Matczak z urazem), podczas gdy Legia była w pełnym składzie.
-    *   Liderzy Legii, tacy jak Andrzej Pluta i Dominic Brewton III, byli w dobrej formie strzeleckiej w tym kluczowym spotkaniu.
-
-**Werdykt:** [✅ ZATWIERDZONY]
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się 2026-06-21 i był decydującym, siódmym meczem finału Orlen Basket Ligi.
+    *   Legia Warszawa obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra 78:76 w tym meczu.
+    *   Biorąc pod uwagę znaczące osłabienia kadrowe w zespole ORLEN Zastalu Zielona Góra (kontuzje kluczowych strzelców i ważnych graczy: Chavaughn Lewis, Filip Matczak, Jakub Szumert, Sagaba Konate), ich szanse w finale były obniżone. Mimo kontuzji kapitana Legii, Michała Kolendy, typ na Legię Warszawa był trafny.
