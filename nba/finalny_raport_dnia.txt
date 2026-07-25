@@ -1,17 +1,26 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-25 11:08 ET) ---
-Zgodnie z dzisiejszymi danymi z sieci (2026-07-25) i wytycznymi, przedstawiam analizę Twoich typów:
+--- KRYTYCZNY AUDYT LIVE (2026-07-25 12:12 ET) ---
+Na podstawie DZISIEJSZYCH danych z sieci (2026-07-25), oto analiza Twoich typów:
 
 ---
-### Lakers @ Kings -> Typ: Kings
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Bez aktualnych raportów o kontuzjach, trudno potwierdzić typ na podstawie braków kadrowych.
+**Lakers @ Kings -> Typ: Kings**
 
----
-### Grizzlies @ Hawks -> Typ: Hawks
-
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Bez aktualnych raportów o kontuzjach, trudno potwierdzić typ na podstawie braków kadrowych.
+*   **Kluczowe braki w składach (2026-07-25):**
+    *   **Lakers:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   **Kings:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Bez potwierdzonych, aktualnych raportów o kontuzjach na dzień 2026-07-25 dla obu drużyn, nie można jednoznacznie ocenić ich kondycji przed hipotetycznym meczem. Typ jest ryzykowny ze względu na brak kluczowych danych.
 
 ---
-*Ważna uwaga: Ze względu na to, że dzisiejsza data (2026-07-25) przypada poza sezonem NBA, nie ma aktywnych raportów o kontuzjach dla meczów. Składy zostały sprawdzone na styczeń 2026.*
+
+**Grizzlies @ Hawks -> Typ: Hawks**
+
+*   **Kluczowe braki w składach (2026-07-25):**
+    *   **Grizzlies:**
+        *   Santi Aldama (Knee) – Out For Season 🤕
+        *   Zach Edey (Ankle) – Out For Season 🤕
+        *   Richie Saunders (Knee) – Expected to be out until at least Dec 1 🤕
+    *   **Hawks:**
+        *   Mouhamed Gueye (Foot) – Expected to be out until at least Oct 15 🤕
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Atlanta Hawks mają jednego kontuzjowanego gracza, Mouhameda Gueye, który jest wykluczony do co najmniej 15 października. Memphis Grizzlies borykają się z poważniejszymi brakami, gdyż Santi Aldama i Zach Edey są wykluczeni do końca sezonu, a Richie Saunders do co najmniej 1 grudnia. Mniejsze osłabienia Hawks w porównaniu do Grizzlies sprawiają, że typ jest zatwierdzony.
