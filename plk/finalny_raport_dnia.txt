@@ -1,19 +1,27 @@
---- AUDYT PLK LIVE (2026-07-25 11:43 CET) ---
-Mecz ORLEN Zastal Zielona Góra @ Legia Warszawa, którego dotyczy typ, miał miejsce 2026-06-21. Dzisiejsza data to 2026-07-25. Ze względu na to, że analiza ma być przeprowadzona na podstawie danych z 2026-07-25, a typ dotyczy wydarzenia, które już się odbyło, nie jest możliwe dostarczenie trafnego werdyktu ani oceny formy zawodników dla meczu z przeszłości. Poniżej przedstawiam aktualne informacje o drużynach na dzień 2026-07-25, w kontekście okresu międzysezonowego.
+--- AUDYT PLK LIVE (2026-07-25 17:08 CET) ---
+**Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
 
----
+Ten mecz był siódmym, decydującym spotkaniem finałów ORLEN Basket Ligi sezonu 2025/2026. Legia Warszawa wygrała ten mecz 78-70 i zdobyła mistrzostwo Polski. Spotkanie odbyło się w Warszawie na hali OSiR Bemowo.
 
-🏀 **ORLEN Zastal Zielona Góra @ Legia Warszawa**
+1.  **Kluczowe braki w składach:**
 
-1.  **Kluczowe braki w składach (na 2026-07-25) / Aktualny status drużyn:**
+    *   🏀 **Legia Warszawa:**
+        *   Race Thompson prawdopodobnie zmagał się z problemami zdrowotnymi, co mogło wpłynąć na jego dostępność.
+        *   Andrzej Pluta, Jayvon Graves i Matthias Tass byli kontuzjowani w listopadzie 2025, ale źródła z czerwca 2026 sugerują ich powrót do gry w późniejszych fazach sezonu. Andrzej Pluta Jr. został MVP sezonu i finałów.
+        *   Michał Kolenda przeszedł planowy zabieg stawu skokowego w lipcu 2026, co wskazuje, że był dostępny na finały w czerwcu.
+        *   Brak potwierdzonych istotnych braków w składzie koszykarskim Legii Warszawa bezpośrednio na mecz 2026-06-21, poza potencjalnymi problemami zdrowotnymi Race'a Thompsona.
 
-    *   **ORLEN Zastal Zielona Góra:** W lipcu 2026 roku, w okresie międzysezonowym PLK, kluby skupiają się na budowaniu składów na nadchodzący sezon 2026/2027. Informacje o bieżących kontuzjach koszykarzy, którzy ewentualnie mogliby wpłynąć na występ w meczu z 21 czerwca, są nieistotne, ponieważ mecz już się odbył. Na dzień 2026-07-25 brak jest doniesień o istotnych, długoterminowych kontuzjach kluczowych koszykarzy Zastalu, które rzutowałyby na skład w nadchodzącym sezonie, ani o zawieszeniach.
-    *   **Legia Warszawa:** Podobnie jak w przypadku Zastalu, na dzień 2026-07-25, Legia Warszawa znajduje się w fazie budowania składu na sezon 2026/2027. Brak jest potwierdzonych informacji o kontuzjach czy zawieszeniach koszykarzy, które byłyby aktualne w kontekście dzisiejszej daty. Aktywność dotyczy głównie transferów i przedłużania kontraktów.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   **Sagaba Konate** doznał poważnego urazu dłoni podczas Pucharu Polski w lutym 2026 i został wykluczony z gry do końca sezonu. To była znacząca absencja w strefie podkoszowej Zastalu.
+        *   Filip Matczak (kontuzja pachwiny) i Patrick Cartier (ból kręgosłupa) mieli problemy zdrowotne w lutym 2026, ale wygląda na to, że byli gotowi do gry w finałach.
+        *   Chavaughn Lewis, choć w maju 2026 był wymieniany jako kontuzjowany przed fazą play-off, był kluczowym zawodnikiem w finale, zdobywając zwycięski rzut w meczu numer 1.
+        *   Brak innych istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów (na 2026-07-25):**
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+    *   Jednak, bazując na dostępnych informacjach z serii finałowej:
+        *   **Legia Warszawa:** Andrzej Pluta Jr. był kluczowym graczem i MVP sezonu/finałów. Carl Ponsar (17 pkt w meczu 4) oraz Ojars Silins i Andrzej Pluta (skuteczni w meczu 1) byli wyróżniającymi się zawodnikami.
+        *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak i Conley Garrison w meczu numer 4 zdobyli łącznie 37 punktów, odgrywając kluczową rolę. Dwight Wilson (10 pkt, 5 zbiórek w 13 min. w meczu 4), Phil Fayne i Patrick Cartier również pokazali dobrą formę. Chavaughn Lewis był bohaterem meczu numer 1.
 
-    *   Brak danych z API dla tego zespołu w kontekście meczu z przeszłości. W okresie międzysezonowym (lipiec 2026) nie ma bieżącej "formy meczowej" top scorerów, gdyż rozgrywki ligowe nie trwają. Ich status dotyczy przygotowań do nowego sezonu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-
-    *   **Uzasadnienie:** Mecz ORLEN Zastal Zielona Góra @ Legia Warszawa odbył się 2026-06-21, czyli ponad miesiąc temu. Analiza braków w składach, formy top scorerów oraz wydawanie werdyktu dla już rozegranego spotkania na podstawie danych z 2026-07-25 jest niemożliwe i nieadekwatne. Werdykt "Ryzykowny" odnosi się do niemożności oceny typu z przeszłości na podstawie aktualnych informacji.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa była topowym zespołem sezonu zasadniczego (1. miejsce) i obrońcą tytułu. Zastal Zielona Góra, mimo że zajął 8. miejsce w sezonie zasadniczym, niespodziewanie dotarł do finału poprzez fazę play-in. Decydujący 7. mecz serii finałowej na własnym parkiecie Legii był ogromną przewagą. Zastal musiał radzić sobie bez Sagaby Konate, co było znacznym osłabieniem. Forma liderów Legii, zwłaszcza Andrzeja Pluty Jr., który został MVP sezonu i finałów, oraz atut własnego boiska w kluczowym spotkaniu, mocno przemawiały za typem na Legię.
