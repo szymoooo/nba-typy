@@ -1,26 +1,45 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-24 18:57 ET) ---
-Aby zweryfikować Twoje typy, muszę odwołać się do danych z sieci. Zgodnie z wytycznymi, skupiam się na składach ze STYCZNIA 2026 oraz raportach o kontuzjach z DNIA DZISIEJSZEGO (2026-07-24).
-
-Z uwagi na to, że 24 lipca 2026 to środek poza-sezonowego okresu w NBA, brak jest aktywnych raportów o kontuzjach związanych z rozgrywkami ligowymi.
+--- KRYTYCZNY AUDYT LIVE (2026-07-24 22:01 ET) ---
+Na podstawie danych z sieci na dzień 24-07-2026, analizując sytuację kadrową z *STYCZNIA 2026*:
 
 ---
 
-### Mecz: Lakers @ Kings
+**Lakers @ Kings -> Typ: Kings**
 
-**Typ:** Kings
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Lakers:**
+        *   Austin Reaves (Out - naciągnięcie mięśnia brzuchatego łydki II stopnia)
+        *   Adou Thiero (Out - skręcenie MCL w prawym kolanie)
+        *   Rui Hachimura (Questionable - problem z łydką)
+        *   Gabe Vincent (Out - plecy)
+        *   Maxi Kleber (Out - rekonwalescencja po operacji stopy)
+    *   **Kings:**
+        *   Domantas Sabonis (Out - kontuzja kolana)
+        *   Keegan Murray (Out - skręcenie lewej kostki)
+        *   Isaiah Stevens (Day-to-day - kontrakt two-way)
 
-*   **Kluczowe braki w składach (na podstawie danych ze Stycznia 2026 oraz braku aktualnych raportów z 24.07.2026):**
-    *   **Lakers:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   **Kings:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** ⚠️ RYZYKOWNY - Brak aktualnych raportów o kontuzjach z dzisiejszego dnia uniemożliwia ocenę stanu zdrowia kluczowych graczy. Składy ze stycznia 2026, bez informacji o bieżących brakach, nie dają wystarczającej pewności do zatwierdzenia typu.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Kings brakuje kluczowych graczy, takich jak Sabonis i Murray, co znacząco obniża ich siłę. Lakers również borykają się z licznymi brakami, w tym Reavesem i Thiero. Typ na Kings jest ryzykowny ze względu na osłabienie obu drużyn.
 
 ---
 
-### Mecz: Grizzlies @ Hawks
+**Grizzlies @ Hawks -> Typ: Hawks**
 
-**Typ:** Hawks
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Grizzlies:**
+        *   Ja Morant (Out - stłuczenie prawej łydki, kontuzja zakończająca sezon)
+        *   Scotty Pippen Jr. (Out - rekonwalescencja po operacji palucha lewej stopy)
+        *   Brandon Clarke (Out - naciągnięcie prawej łydki, kontuzja zakończająca sezon)
+        *   Zach Edey (Out - reakcja stresowa lewej kostki, kontuzja zakończająca sezon)
+        *   Ty Jerome (Out - naciągnięcie prawej łydki)
+        *   Derrick Rose (Out - naciągnięcie lewego ścięgna podkolanowego)
+        *   Georges Niang (Out - reakcja stresowa czwartej kości śródstopia lewej stopy)
+    *   **Hawks:**
+        *   N'Faly Dante (Out - zerwanie ACL w prawym kolanie, koniec sezonu)
+        *   Kristaps Porzingis (Out - tendinopatia ścięgna Achillesa lewej nogi)
+        *   Zaccharie Risacher (Out - stłuczenie kości lewego kolana)
+        *   Onyeka Okongwu (Out - złamanie zęba)
+        *   Dyson Daniels (Questionable - skręcenie prawej kostki)
+        *   Jalen Johnson (Questionable/Available - napięcie lewej łydki, był "questionable" 29 stycznia, ale "available" 31 stycznia)
 
-*   **Kluczowe braki w składach (na podstawie danych ze Stycznia 2026 oraz braku aktualnych raportów z 24.07.2026):**
-    *   **Grizzlies:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   **Hawks:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** ⚠️ RYZYKOWNY - Brak aktualnych raportów o kontuzjach z dzisiejszego dnia uniemożliwia ocenę stanu zdrowia kluczowych graczy. Składy ze stycznia 2026, bez informacji o bieżących brakach, nie dają wystarczającej pewności do zatwierdzenia typu.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Grizzlies byli w styczniu 2026 roku zdziesiątkowani kontuzjami, z wieloma kluczowymi graczami poza grą na dłuższy czas. Hawks również mieli znaczne braki, w tym Porzingisa i Dante. Mimo że Grizzlies byli w gorszej sytuacji kadrowej, Hawks również mieli poważne osłabienia, co czyni ten typ ryzykownym.
