@@ -1,26 +1,24 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-25 12:12 ET) ---
-Na podstawie DZISIEJSZYCH danych z sieci (2026-07-25), oto analiza Twoich typów:
+--- KRYTYCZNY AUDYT LIVE (2026-07-25 13:18 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z 25 lipca 2026 roku:
 
 ---
 
-**Lakers @ Kings -> Typ: Kings**
+### Lakers @ Kings -> Typ: Kings
 
-*   **Kluczowe braki w składach (2026-07-25):**
-    *   **Lakers:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   **Kings:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Bez potwierdzonych, aktualnych raportów o kontuzjach na dzień 2026-07-25 dla obu drużyn, nie można jednoznacznie ocenić ich kondycji przed hipotetycznym meczem. Typ jest ryzykowny ze względu na brak kluczowych danych.
+*   **Kluczowe braki w składach (stan na styczeń 2026, raportowane do 2026-07-25):**
+    *   **Lakers:** Brak aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby na kluczowe absencje w styczniu 2026 r.. Dončić i Reaves doznali kontuzji pod koniec sezonu 2025-26, co nie wpływa na styczeń.
+    *   **Kings:** Keegan Murray był wykluczony na resztę sezonu 2025-26 z powodu operacji (raport z marca 2026 r.), co oznacza, że byłby nieobecny w styczniu 2026 r.. Brak potwierdzonych statusów 'Out', 'Questionable', 'GTD' dla innych kluczowych graczy na styczeń 2026 r.
+
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Mimo braku kluczowych absencji dla Lakers w styczniu (na podstawie dostępnych raportów), typ na Kings jest ryzykowny, biorąc pod uwagę osłabienie Kings brakiem kluczowego gracza, jakim jest Keegan Murray. Zakładając pełne zdrowie Lakers, wygrana Kings jest mniej pewna.
 
 ---
 
-**Grizzlies @ Hawks -> Typ: Hawks**
+### Grizzlies @ Hawks -> Typ: Hawks
 
-*   **Kluczowe braki w składach (2026-07-25):**
-    *   **Grizzlies:**
-        *   Santi Aldama (Knee) – Out For Season 🤕
-        *   Zach Edey (Ankle) – Out For Season 🤕
-        *   Richie Saunders (Knee) – Expected to be out until at least Dec 1 🤕
-    *   **Hawks:**
-        *   Mouhamed Gueye (Foot) – Expected to be out until at least Oct 15 🤕
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Atlanta Hawks mają jednego kontuzjowanego gracza, Mouhameda Gueye, który jest wykluczony do co najmniej 15 października. Memphis Grizzlies borykają się z poważniejszymi brakami, gdyż Santi Aldama i Zach Edey są wykluczeni do końca sezonu, a Richie Saunders do co najmniej 1 grudnia. Mniejsze osłabienia Hawks w porównaniu do Grizzlies sprawiają, że typ jest zatwierdzony.
+*   **Kluczowe braki w składach (stan na styczeń 2026, raportowane do 2026-07-25):**
+    *   **Grizzlies:** Ja Morant (naciągnięcie więzadła łokciowego), Brandon Clarke (naciągnięcie łydki) i Zach Edey (zabieg na łokciu) byli wykluczeni na resztę sezonu 2025-26 (raport z marca 2026 r.), co oznacza, że byliby nieobecni w styczniu 2026 r.. Derrick Rose (naciągnięcie ścięgna podkolanowego) i Georges Niang (reakcja stresowa stopy) również byli zgłaszani jako niezdolni do gry w 2026 r..
+    *   **Hawks:** Brak aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby na kluczowe absencje w styczniu 2026 r..
+
+*   **Werdykt:** ✅ ZATWIERDZONY
+    *   Typ na Hawks jest zatwierdzony, biorąc pod uwagę znaczne osłabienia składu Grizzlies z powodu braku kluczowych graczy, takich jak Ja Morant, Brandon Clarke i Zach Edey, którzy byli wykluczeni na resztę sezonu 2025-26. Hawks wydają się mieć pełny skład w styczniu 2026 r. na podstawie dostępnych raportów.
