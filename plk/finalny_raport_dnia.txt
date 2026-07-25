@@ -1,40 +1,18 @@
---- AUDYT PLK LIVE (2026-07-25 22:06 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-07-25 23:10 CET) ---
+=========================================================================
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-Dzisiejszy mecz, rozegrany 21 czerwca 2026 roku, był siódmym, decydującym spotkaniem finałów ORLEN Basket Ligi. Legia Warszawa wygrała ten mecz 78:70 i zdobyła mistrzostwo Polski.
+1.  **Kluczowe braki w składach:**
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21. Michał Kolenda, kapitan, przeszedł planowy zabieg stawu skokowego dopiero 23 lipca 2026 roku, więc był dostępny na ten mecz.
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21.
 
----
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Legia Warszawa:
+        *   Dominic Brewton III: 14.5 Pkt/mecz
+        *   Andrzej Pluta: 13.4 Pkt/mecz (MVP Finałów sezonu 2025/2026)
+        *   Jayvon Graves: 12.8 Pkt/mecz
+    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu. (Landrius Horton był liderem strzelców całej ligi z 19.7 pkt/mecz w sezonie 2025-2026).
 
-### ORLEN Zastal Zielona Góra
-
-1.  **Kluczowe braki w składzie**:
-    *   ❌ **Sagaba Konate**: Zakończył sezon w lutym 2026 roku z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka.
-    *   ⚠️ **Phil Fayne**: Powrócił do zespołu na serię finałową z USA (informacja z 6 czerwca 2026), jednak jego gotowość na pierwszy mecz była niepewna. W decydującym meczu 7 (21 czerwca 2026) zdobył 0 punktów.
-    *   ✅ Filip Matczak i Jakub Szumert, choć kontuzjowani w lutym 2026, wrócili do gry i punktowali w meczu nr 7 finałów.
-
-2.  **Aktualna forma top scorerów (mecz 2026-06-21)**:
-    *   Andy Mazurczak: 10 punktów
-    *   Jayvon Maughmer: 10 punktów
-    *   Chavaughn Lewis: 10 punktów
-
----
-
-### Legia Warszawa
-
-1.  **Kluczowe braki w składzie**:
-    *   ⚠️ **Matthias Tass**: W grudniu 2025 roku doznał poważnej kontuzji stawu skokowego wymagającej operacji, z przewidywanym powrotem do gry po około 3 miesiącach. Brak danych potwierdzających jego pełną sprawność i kluczową rolę w finałach, nie punktował w meczu nr 7.
-    *   ✅ Michał Kolenda, mimo kontuzji więzadeł stawu skokowego w grudniu 2025, był gotowy do gry w finałach i zdobył 8 punktów w meczu nr 7. Przeprowadził planowy zabieg po zakończeniu sezonu (22 lipca 2026).
-
-2.  **Aktualna forma top scorerów (mecz 2026-06-21)**:
-    *   Andrzej Pluta: 15 punktów
-    *   DJ Brewton: 11 punktów
-    *   Race Thompson: 11 punktów
-    *   Shane Hunter: 10 punktów
-
----
-
-### Werdykt
-
-**Typ: Legia Warszawa** -> ✅ **ZATWIERDZONY**
-
-**Uzasadnienie**: Legia Warszawa wygrała decydujący mecz numer 7 na własnym parkiecie (Hala OSiR Bemowo, Warszawa) i zdobyła mistrzostwo Polski. Mimo pewnych osłabień (Matthias Tass prawdopodobnie nie w pełni sił po kontuzji), kluczowi strzelcy Legii zaprezentowali dobrą formę, a zespół zdołał pokonać osłabiony Zastal, który grał bez Sagaby Konate. Przewaga własnego parkietu w decydującym meczu serii play-off okazała się kluczowa.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa grała u siebie w Hali Bemowo w decydującym, siódmym meczu finałów PLK sezonu 2025/2026. Legia ostatecznie wygrała ten mecz 78:70, zdobywając mistrzostwo Polski. Biorąc pod uwagę przewagę własnego parkietu w meczu o mistrzostwo i stabilny skład, typ na Legię Warszawa był trafny.
