@@ -1,24 +1,41 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-25 16:06 ET) ---
-Oto analiza Twoich typów na podstawie danych z dnia 2026-07-25:
+--- KRYTYCZNY AUDYT LIVE (2026-07-25 16:58 ET) ---
+Oto analiza Twoich typów na podstawie danych z stycznia 2026 roku:
 
 ---
 
 **Lakers @ Kings** -> Typ: Kings
 
-*   **Kluczowe braki w składach (na podstawie zmian w składzie do 25.07.2026):**
-    *   **Lakers:** Brak LeBrona Jamesa, który dołączył do Philadelphia 76ers. Luka Doncić jest kluczowym graczem, wspieranym przez Austina Reavesa, Quentina Grimesa i Walkera Kesslera w wyjściowym składzie.
-    *   **Kings:** DeMar DeRozan został zwolniony. Zespół wzmocnił się defensywnymi graczami, a Domantas Sabonis i Zach LaVine pozostają kluczowymi postaciami.
-*   **Brak aktualnych raportów (Injury Report) na tę chwilę.**
+*   **Kluczowe braki w składach (stan na 12 stycznia 2026):**
+    *   **Lakers:**
+        *   Adou Thiero (Out) - Zwichnięcie MCL w prawym kolanie 🩹
+        *   Rui Hachimura (Out) - Naciągnięcie lewego kolana/łydki 🩹
+        *   Maxi Kleber (Out) - Rekonwalescencja po operacji prawej stopy 🩹
+        *   Bronny James Jr. (Out) - Problem z "South" (nieokreślony uraz) 🩹
+        *   Austin Reaves (Out) - Łydka 🩹
+        *   Gabe Vincent (Out) - Plecy 🩹
+    *   **Kings:**
+        *   Domantas Sabonis (Out) - Częściowe naderwanie łąkotki w lewym kolanie 🩹
+        *   Keegan Murray (Out) - Skręcenie lewej kostki 🩹
+        *   Dennis Schroder (Out) - Zawieszenie ligowe 🚫
+
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Lakers, choć stracili LeBrona, mają Doncića jako lidera i solidne uzupełnienia. Kings, pomimo wzmocnień obronnych i stabilnego rdzenia, niekoniecznie są faworytem. Bez konkretnych raportów o kontuzjach dla hipotetycznego meczu, przewaga Kings nie jest oczywista.
+    *   Mimo znaczących braków w składzie Lakers, Kings również borykali się z poważnymi kontuzjami kluczowych graczy, takich jak Sabonis i Murray, a także brakiem Schrodera. To sprawia, że typ na Kings jest ryzykowny, biorąc pod uwagę osłabienie obu drużyn.
 
 ---
 
 **Grizzlies @ Hawks** -> Typ: Hawks
 
-*   **Kluczowe braki w składach (na podstawie zmian w składzie do 25.07.2026):**
-    *   **Grizzlies:** Ja Morant został wytransferowany do Portland Trail Blazers. Jaren Jackson Jr. został wytransferowany do Utah Jazz. Kentavious Caldwell-Pope i D'Angelo Russell są w trakcie lub po negocjacjach w sprawie wykupu/transferu. Tragicznie zmarł Brandon Clarke. Zespół pozyskał Jeremiego Granta, Krisa Murraya, Isaiah Stewarta i Quintena Posta.
-    *   **Hawks:** Zespół pozyskał Luguentza Dorta, Aarona Wigginsa, Ryana Nembharda i Devina Cartera. CJ McCollum i Jock Landale ponownie podpisali kontrakty. Hawks celują w miano pretendenta.
-*   **Brak aktualnych raportów (Injury Report) na tę chwilę.**
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Grizzlies doświadczyli ogromnych strat w kluczowych zawodnikach (Morant, Jackson Jr., Caldwell-Pope, Russell) i tragicznej śmierci Brandona Clarke'a, co znacząco osłabia ich skład. Hawks natomiast wzmocnili się kilkoma solidnymi graczami i dążą do rywalizacji. Ich skład wydaje się znacznie silniejszy.
+*   **Kluczowe braki w składach (stan na 21 stycznia 2026):**
+    *   **Grizzlies:**
+        *   Scotty Pippen Jr. (Out) - Kontuzja palca u nogi 🩹
+        *   Zach Edey (Out) - Problemy z kostką 🩹
+        *   Ty Jerome (Out) - Problemy z łydką 🩹
+        *   Brandon Clarke (Out) - Problemy z łydką 🩹
+        *   John Konchar (Out) - Rekonwalescencja po operacji UCL lewego kciuka (stan na 6 stycznia) 🩹
+    *   **Hawks:**
+        *   Kristaps Porzingis (Out) - Zapalenie ścięgna Achillesa w lewej nodze 🩹
+        *   Zaccharie Risacher (Out) - Stłuczenie kości lewego kolana 🩹
+        *   N'Faly Dante (Out) - Koniec sezonu (operacja kolana) 🩹
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny miały w tym okresie poważne braki kadrowe. Hawks byli osłabieni brakiem kluczowych graczy takich jak Porzingis i Risacher, co czyniło ich typ na zwycięstwo ryzykownym, zwłaszcza przeciwko Grizzlies, którzy mimo kontuzji Moranta, mieli go aktywnego w składzie.
