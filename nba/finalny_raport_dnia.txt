@@ -1,16 +1,24 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-25 05:19 ET) ---
-Analizując Twoje typy na podstawie danych z DZISIAJ (2026-07-25) i zgodnie z rygorystycznymi zasadami, nie jestem w stanie znaleźć **aktualnych raportów (Injury Report) na dzień 2026-07-25**, które dotyczyłyby statusu kontuzji graczy na styczeń 2026. Wszystkie dostępne informacje o kontuzjach z tego okresu są historyczne i nie stanowią "potwierdzonych informacji o kontuzjach z DZISIAJ (2026-07-25)".
+--- KRYTYCZNY AUDYT LIVE (2026-07-25 05:42 ET) ---
+Oto analiza Twoich typów na podstawie danych z dnia 2026-07-25 i składów ze stycznia 2026:
 
-Dlatego dla obu meczów obowiązuje następujący werdykt:
+---
 
-### Lakers @ Kings
+### Lakers @ Kings -> Typ: Kings
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   *Historyczne informacje ze stycznia 2026 wskazywały na znaczące absencje, takie jak Domantas Sabonis (uraz łąkotki), Keegan Murray (skręcenie kostki) w Kings oraz Austin Reaves (naciągnięcie łydki), Adou Thiero (skręcenie MCL), Rui Hachimura (uraz kolana/łydki) w Lakers. Jednak te dane nie są "aktualnymi raportami z dzisiaj".*
-*   **Werdykt:** ⚠️ RYZYKOWNY
+*   **Kluczowe braki w składach (styczeń 2026 vs. dzisiejsze raporty):**
+    *   **Los Angeles Lakers:** Brak aktualnych raportów (Injury Report) na tę chwilę dla konkretnych statusów (Out, Questionable, GTD) na dzień 2026-07-25. W kwietniu 2026 Luka Dončić (kontuzja ścięgna podkolanowego) i Austin Reaves (naciągnięcie mięśnia skośnego) byli wykluczeni z gry, natomiast LeBron James i Jaxson Hayes byli określani jako "Questionable" na koniec sezonu 2025-26. Walker Kessler przeszedł operację lewego barku i opuścił resztę sezonu 2025-26. Matisse Thybulle, który dołączył do Lakers, miał liczne kontuzje w ciągu ostatnich kilku lat. Marcus Smart również miał obawy zdrowotne. Jednak te raporty nie wskazują konkretnego statusu "Out", "Questionable" czy "GTD" na dzień 2026-07-25.
+    *   **Sacramento Kings:** Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalne dane NBA z 2026-07-07 wskazywały, że Kings nie mieli żadnych graczy na liście kontuzjowanych. Chociaż pojawiła się informacja, że Vezenkov zmaga się ze skręceniem prawej kostki i jego występ jest niepewny, brak jest precyzyjnego statusu (Out, Questionable, GTD) na dzień 2026-07-25.
 
-### Grizzlies @ Hawks
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak aktualnych, potwierdzonych raportów kontuzji na dzień 2026-07-25 dla kluczowych graczy obu drużyn, co utrudnia ocenę wpływu na hipotetyczny mecz. Zespoły na dzień dzisiejszy (poza sezonem) zazwyczaj nie podają codziennych raportów. Składy ze stycznia 2026 mogły się różnić, a wszelkie kontuzje z kwietnia 2026 nie są aktualne na 25 lipca 2026.
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   *Historyczne informacje ze stycznia 2026 wskazywały na poważne problemy kadrowe w Grizzlies, w tym Zach Edey (kontuzja kostki), Brandon Clarke (naciągnięcie łydki), Scotty Pippen Jr. (kontuzja palca u nogi). W Hawks natomiast Kristaps Porzingis (zapalenie ścięgna Achillesa), Zaccharie Risacher (stłuczenie kości kolana), N'Faly Dante (zerwanie ACL) byli poza grą. Jednak te dane nie są "aktualnymi raportami z dzisiaj".*
-*   **Werdykt:** ⚠️ RYZYKOWNY
+---
+
+### Grizzlies @ Hawks -> Typ: Hawks
+
+*   **Kluczowe braki w składach (styczeń 2026 vs. dzisiejsze raporty):**
+    *   **Memphis Grizzlies:** Brak aktualnych raportów (Injury Report) na tę chwilę dla konkretnych statusów (Out, Questionable, GTD) na dzień 2026-07-25. W marcu 2026 Ja Morant, Brandon Clarke i Zach Edey zostali wykluczeni z gry do końca sezonu 2025-26. Nie ma jednak aktualizacji ich statusu na 2026-07-25, która wskazywałaby, że nadal są "Out", "Questionable" lub "GTD" na dzień dzisiejszy.
+    *   **Atlanta Hawks:** Mouhamed Gueye przeszedł operację złamanej stopy 15 lipca 2026 i ma zostać ponownie oceniony za 3-4 miesiące. Oznacza to, że jest obecnie poza grą. Pozostałe raporty z marca 2026 wskazywały na czysty raport kontuzji.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo że dla Hawks mamy potwierdzoną kontuzję Mouhameda Gueye na dzień 2026-07-15, co jest kluczowym brakiem, brakuje aktualnych raportów dla Grizzlies. Niepewność co do pełnego stanu zdrowia obu zespołów na dziś (poza sezonem) sprawia, że ocena jest ryzykowna.
