@@ -1,24 +1,22 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-25 18:02 ET) ---
-Witaj, analityku! Sprawdzam Twoje typy na podstawie dostępnych danych z dnia 2026-07-25.
-
-Należy pamiętać, że 25 lipca 2026 r. to okres poza sezonem zasadniczym NBA, co oznacza brak aktywnych raportów o kontuzjach dla bieżących meczów. Informacje o składach są dostępne na styczeń 2026 r. i szerszy sezon 2025-26.
+--- KRYTYCZNY AUDYT LIVE (2026-07-25 19:14 ET) ---
+Oto analiza Twoich typów na podstawie danych ze stycznia 2026:
 
 ---
 
-### Lakers @ Kings -> Typ: Kings
+**Lakers @ Kings -> Typ: Kings**
 
-*   **Kluczowe braki w składach (2026-07-25):** Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
-    *   W odniesieniu do wcześniejszych raportów z sezonu 2025-26, Lakers mieli Walkera Kesslera z urazem barku (Out For Season - Shoulder).
-    *   Kings mieli Vezenkova z kontuzją kostki (niepewny status). Również były doniesienia o operacji Keegana Murraya w maju 2026 r. i jego absencji w dalszej części sezonu 2025-26, a także o kontuzjach Domantasa Sabonisa w sezonie 2025-26.
-*   **Werdykt:** ⚠️ RYZYKOWNY
-    *   Brak bieżących raportów o kontuzjach na dzień 25.07.2026 r. uniemożliwia ocenę wpływu na hipotetyczny mecz. Skład Kings na sezon 2025-26 obejmował graczy takich jak Precious Achiuwa, Domantas Sabonis, Keegan Murray, Malik Monk i Russell Westbrook. Roster Lakers na sezon 2025-26 zawierał takich graczy jak LeBron James (przejście do 76ers wg doniesień z lipca 2026), Luka Dončić (przejście do Lakers w lutym 2025), Dalton Knecht i Christian Koloko. Bez aktualnych informacji o stanie zdrowia kluczowych graczy i kontekstu meczowego, trudno jest zatwierdzić ten typ.
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Lakers:** Adou Thiero (Knee/MCL) - OUT 🩹, Austin Reaves (Calf) - OUT 🩹, Rui Hachimura (Knee Strain) - OUT 🩹, Maxi Kleber (Foot Surgery) - OUT 🩹, Bronny James Jr. (Undisclosed "South" issue) - OUT 🩹.
+    *   **Kings:** Domantas Sabonis (Knee, partial meniscus tear) - OUT 🩹, Keegan Murray (Ankle sprain) - OUT 🩹, Dennis Schroder (League Suspension) - OUT 🚫, Isaiah Stevens (G League assignment) - OUT ➡️, Daeqwon Plowden (G League assignment) - OUT ➡️.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    Obie drużyny borykają się z poważnymi brakami kadrowymi, w tym kluczowymi starterami. Brak Domantasa Sabonisa znacząco wpływa na zbiórki i scoring Kings. W związku z licznymi kontuzjami, wynik meczu jest bardzo trudny do przewidzenia.
 
 ---
 
-### Grizzlies @ Hawks -> Typ: Hawks
+**Grizzlies @ Hawks -> Typ: Hawks**
 
-*   **Kluczowe braki w składach (2026-07-25):** Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
-    *   Z wcześniejszych raportów z sezonu 2025-26, Memphis Grizzlies ogłosili w marcu 2026 r., że Ja Morant (UCL sprain w lewym łokciu), Brandon Clarke (naciągnięcie łydki) i Zach Edey (problemy z lewym łokciem) opuszczą resztę sezonu 2025-26, ale mieli wrócić w sezonie 2026-27.
-    *   Hawks mieli Muhameza Gueye'a, który przeszedł operację złamanej stopy w lipcu 2026 r. i miał być ponownie oceniony za 3-4 miesiące.
-*   **Werdykt:** ⚠️ RYZYKOWNY
-    *   Podobnie jak w przypadku pierwszego meczu, brak aktualnych raportów o kontuzjach na dzień 25.07.2026 r. uniemożliwia rzetelną ocenę. Skład Hawks na sezon 2025-26 zawierał graczy takich jak Buddy Hield, Caleb Houstan, Jalen Johnson, Luke Kennard. W lipcu 2026 r. do Hawks dołączył Luguentz Dort w ramach wymiany. Roster Grizzlies na sezon 2025-26 obejmował Waltera Claytona Jr., Jarena Jacksona Jr., Scotty'ego Pippena Jr. i Vincenta Williamsa Jr.. Ze względu na brak aktualnych informacji o kontuzjach i kontekstu meczowego, trudno jest zatwierdzić ten typ.
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Grizzlies:** Zach Edey (Ankle/Stress Reaction) - OUT 🩹 (powrót nie wcześniej niż w lutym), Brandon Clarke (Calf Strain) - OUT 🩹 (powrót za 4-6 tygodni), Scotty Pippen Jr. (Toe surgery recovery) - OUT 🩹 (powrót za 4-6 tygodni), Ty Jerome (Ankle/Calf) - OUT 🩹, John Konchar (Thumb UCL surgery) - OUT 🩹, Ja Morant (Calf Contusion) - Doubtful (na dzień 6 stycznia) ❓, Derrick Rose (Hamstring) - OUT 🩹, Georges Niang (Foot stress reaction) - OUT 🩹.
+    *   **Hawks:** Kristaps Porzingis (Achilles Tendinitis) - OUT 🩹, Onyeka Okongwu (Dental Fracture) - OUT 🦷, N'Faly Dante (Torn ACL in knee) - OUT na sezon 🤕. Zaccharie Risacher (Knee Contusion) był OUT/Questionable w niektórych meczach, ale Dostępny pod koniec stycznia. Jalen Johnson (Calf tightness) był Questionable, później Dostępny. Dyson Daniels (Ankle Sprain) - Questionable (na dzień 18 stycznia) ❓.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    Obie drużyny są poważnie osłabione kontuzjami. Grizzlies brakuje wielu kluczowych graczy rotacji, w tym ich podstawowego centra Zach Edeya, Brandona Clarke'a i Scotty'ego Pippena Jr.. Hawks mają osłabioną strefę podkoszową przez braki Kristapsa Porzingisa, Onyeki Okongwu i N'Faly Dante. Taki stan rzeczy czyni prognozę wyniku tego meczu wysoce ryzykowną.
