@@ -1,20 +1,24 @@
---- AUDYT PLK LIVE (2026-07-26 07:42 CET) ---
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-26 10:14 CET) ---
+Analiza meczów PLK na dzień 2026-06-21, uwzględniająca aktualne (2026-07-26) informacje o składach i kontuzjach:
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach (stan na 2026-07-26):**
-    *   🏀 **Legia Warszawa:**
-        *   Kapitan Michał Kolenda przeszedł zabieg stawu skokowego (informacja z 22.07.2026).
-        *   Dominic Brewton przeniósł się do Izraela (informacja z 25.07.2026).
-        *   Jayvon Graves jest zawodnikiem Livorno (informacja z 19.07.2026).
-        *   Race Thompson i Shane Hunter odeszli z Legii (informacja z 14.07.2026).
-        *   Ojārs Siliņš jest byłym zawodnikiem Legii Warszawa (informacja z 25.07.2026).
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate doznał awulsyjnego uszkodzenia więzadła SL nadgarstka w lutym 2026 roku, co zakończyło jego sezon 2025/2026.
-        *   Brak istotnych braków w składzie koszykarskim potwierdzonych na 2026-07-26 dla pozostałych zawodników.
+    *   🟢 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Nie ma potwierdzonych informacji o kontuzjach czy niedostępnościach koszykarzy Zastalu z datą 2026-07-26. Informacje o kontuzji Sagaby Konate z lutego 2026 dotyczyły końca sezonu 2025/2026. Obecnie nie ma nowych doniesień o jego niedostępności.
+    *   🔴 **Legia Warszawa:**
+        *   **Kontuzja:** Michał Kolenda (kapitan) przeszedł planowy zabieg stawu skokowego 23.07.2026. Przewidywany czas przerwy od treningów wynosi od 8 do 10 tygodni.
+        *   **Braki w kadrze (odejścia kluczowych graczy z sezonu 2025/2026, stan na 2026-07-26):**
+            *   DJ Brewton przeniósł się do Izraela (informacja z 25.07.2026).
+            *   Jayvon Graves został zawodnikiem Livorno we Włoszech (informacja z 19.07.2026).
+            *   Andrzej Pluta wybrał ofertę z ligi hiszpańskiej (informacja z 27.06.2026).
+            *   Maksymilian Wilczek również pożegnał się z zespołem (informacja z 27.06.2026).
 
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
+    *   Warto zaznaczyć, że Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz) byli czołowymi strzelcami Legii w sezonie 2025/2026, ale wszyscy trzej opuścili klub na dzień 26.07.2026.
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mecz odbył się 21.06.2026 i był prawdopodobnie decydującym spotkaniem (mecz 7/7) finałów PLK.
-    *   Analiza opiera się na aktualnych brakach w składach na dzień 2026-07-26, zgodnie z wytycznymi. Legia Warszawa, choć historycznie wygrała ten mecz, na dzień audytu ma znaczące osłabienia kadrowe wynikające z odejścia kluczowych zawodników (Brewton, Graves, Thompson, Hunter, Siliņš) oraz kontuzji kapitana Michała Kolendy. Zastal natomiast stracił Sagabę Konate na resztę sezonu 2025/2026. Tak istotne braki w Legii sprawiają, że typ na jej zwycięstwo jest ryzykowny, gdyby mecz był rozgrywany z jej obecnym składem.
+    *   Mimo że mecz odbył się 21.06.2026, analiza oparta na aktualnych informacjach z 26.07.2026 wskazuje na znaczące osłabienia Legii. Klub stracił trzech czołowych strzelców z poprzedniego sezonu (Brewton, Pluta, Graves) oraz Michała Kolendę z powodu kontuzji. Te "braki w kadrze" i kontuzja kluczowego zawodnika, nawet jeśli dotyczą składu na nadchodzący sezon, wpływają na ocenę ryzyka w kontekście długoterminowym.
