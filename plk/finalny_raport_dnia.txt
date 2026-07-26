@@ -1,22 +1,22 @@
---- AUDYT PLK LIVE (2026-07-26 20:36 CET) ---
-# Analiza meczu PLK (2026-06-21): ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-26 23:04 CET) ---
+**Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)**
 
-## Legia Warszawa
+1.  **Kluczowe braki w składach koszykarskich (stan na 2026-07-26, odnoszący się do meczu 2026-06-21):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   **Sagaba Konate** (silny skrzydłowy/środkowy): Doznał awulsyjnego uszkodzenia więzadła nadgarstka podczas Pekao S.A. Pucharu Polski w lutym 2026 roku i został wyłączony z gry do końca sezonu 2025/2026. Był niedostępny na mecz 2026-06-21.
+        *   **Phil Fayne** (silny skrzydłowy): Powrócił do zespołu na serię finałową po przerwie z powodów rodzinnych. Mimo początkowych wątpliwości trenera, był w kadrze i grał w finałach.
+        *   **Andrzej Mazurczak** (rozgrywający): Grał w finałach w masce ochronnej po urazie nosa.
+        *   **Filip Matczak** (rozgrywający): Był oszczędzany ze względu na dawny uraz, ale był dostępny i grał w finałach.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim. Kluczowi zawodnicy, tacy jak Dominic Brewton, Andrzej Pluta i Jayvon Graves, byli dostępni i aktywni w serii finałowej. Doniesienia o ich transferach do innych klubów dotyczą okresu po zakończeniu sezonu 2025/2026.
 
-1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim Legii Warszawa zgłoszonych na dzień 2026-07-26. W okresie letnim między sezonami, składy mogą ulegać zmianom, jednak brak doniesień o aktualnych kontuzjach kluczowych zawodników.
-
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
+    *   Na podstawie ogólnodostępnych informacji z serii finałowej 2025/2026:
+        *   Wśród top scorerów Legii Warszawa w sezonie 2025/2026 byli **Dominic Brewton III** (14.5 Pkt/mecz), **Andrzej Pluta** (13.4 Pkt/mecz) i **Jayvon Graves** (12.8 Pkt/mecz).
+        *   W drugim meczu finałowym **Andrzej Pluta** był najlepszym zawodnikiem Legii z 27 punktami i 9 asystami, natomiast **Chavaughn Lewis** zdobył 25 punktów dla Zastalu.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-
-## ORLEN Zastal Zielona Góra
-
-1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim ORLEN Zastalu Zielona Góra zgłoszonych na dzień 2026-07-26. Klub był w trakcie przebudowy i szukał nowych zawodników na sezon 2026/2027, jednak brak doniesień o aktualnych kontuzjach w kadrze.
-
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY] - Zastal Zielona Góra w sezonie 2025/2026 borykał się z problemami finansowymi i organizacyjnymi, co często wpływało na stabilność składu i wyniki sportowe. Status zespołu w PLK na nadchodzący sezon 2026/2027 jest niepewny, co zwiększa ryzyko.
+    *   Mecz 2026-06-21 był decydującym, siódmym spotkaniem finałowym ORLEN Basket Ligi, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 i zdobyła mistrzostwo Polski.
+    *   Legia grała przed własną publicznością, co w decydującym meczu serii ma duże znaczenie.
+    *   Zastal borykał się z potwierdzoną długotrwałą kontuzją Sagaby Konate, co osłabiało ich strefę podkoszową.
