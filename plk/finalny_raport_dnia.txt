@@ -1,13 +1,26 @@
---- AUDYT PLK LIVE (2026-07-26 11:56 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, zaplanowanego na 2026-06-21, analiza aktualnego stanu drużyn na dzień 2026-07-26:
+--- AUDYT PLK LIVE (2026-07-26 12:14 CET) ---
+=========================================================================
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+1.  **Kluczowe braki w składach:**
+    Analiza braku w składach wymaga odwołania się do informacji z okolic daty meczu (2026-06-21) oraz obecnych (2026-07-26) doniesień o długoterminowych urazach z sezonu 2025/2026.
 
-1.  **Kluczowe braki w składach (stan na 2026-07-26):**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate doznał poważnego urazu nadgarstka (awulsyjne uszkodzenie więzadła SL) w lutym 2026 roku podczas Pucharu Polski, co wykluczyło go z gry do końca sezonu 2025/2026 i wymagało operacji. Jego status powrotu na parkiet lub dalszy udział w zespole jest niepewny na dzień 2026-07-26. W lipcu 2026 Zastal dokonał wzmocnień, pozyskując Jakuba Galewskiego (umowa do 2029), Jana Wójcika, Toyaza Solomona i Trazariena White'a.
-    *   🏀 **Legia Warszawa:** Kapitan Michał Kolenda przeszedł planowy zabieg stawu skokowego 22 lipca 2026 roku i jest niedostępny. Ponadto, Legia przeszła znaczącą przebudowę składu po zakończeniu sezonu 2025/2026 (który zakończyła mistrzostwem Polski). Andrzej Pluta, MVP sezonu 2025/2026 i finałów, opuścił klub, przenosząc się do Hiszpanii. Jayvon Graves odszedł do Livorno. Dominic Brewton III przenosi się do Izraela. Race Thompson i Shane Hunter również opuścili Legię. Carl Ponsar, Matthias Tass i Maksymilian Wilczek także nie są już zawodnikami Legii. Nowymi zawodnikami Legii są m.in. Gyorgy Goloman (środkowy), Kristers Zoriks, Jakub Andrzejewski, Markus Ilver i Szymon Tomczak.
+**Legia Warszawa:**
+*   Michał Kolenda (rzucający/niski skrzydłowy) – Doznał zerwania więzadeł stawu skokowego na początku grudnia 2025 roku, co oznaczało przerwę 6-8 tygodni.
+*   Matthias Tass (środkowy) – Od grudnia 2025 roku miał poważny uraz stawu skokowego wymagający operacji i dłuższą przerwę (ok. 3 miesiące).
+*   Kapitan Legii (nazwisko nie sprecyzowane, ale z kontekstu newsów o Kolendzie prawdopodobnie chodzi o niego) przeszedł zabieg stawu skokowego 22.07.2026, ale to już po dacie meczu i raczej dotyczy przygotowań do nowego sezonu, a nie meczu z 21.06.2026.
+*   Brak istotnych braków w składzie koszykarskim, które byłyby aktualne na 2026-07-26 i dotyczyły meczu z 2026-06-21 poza już wymienionymi długoterminowymi kontuzjami Kolendy i Tassa, które wydają się być zakończone przed datą meczu, ale mogły wpłynąć na formę. Newsy o kontuzjach piłkarzy (np. Antonio Colak, Paweł Wszołek) są ignorowane.
 
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu w kontekście formy w serii.
+**ORLEN Zastal Zielona Góra:**
+*   Andrzej Mazurczak (rozgrywający) – W sezonie 2024/25 stracił większość sezonu z powodu kontuzji. Jednak w maju 2026 był liderem zespołu w play-offach, zdobywając 22 punkty, 5 asyst i 3 przechwyty w meczu z Kingiem Szczecin, co sugeruje powrót do pełnej sprawności przed meczem 21.06.2026.
+*   Phil Fayne (silny skrzydłowy) – Z informacji z lutego 2026 wynika, że był aktywny i skuteczny, co wskazuje na brak kontuzji w okresie meczu. W czerwcu 2026 jest mowa o jego powrocie i walce z urazami w szeregach Zastalu, ale bez sprecyzowania długoterminowej absencji przed 21.06.2026.
+*   Brak istotnych braków w składzie koszykarskim, które byłyby aktualne na 2026-07-26 i dotyczyły meczu z 2026-06-21. Doniesienia o kontuzjach w Zastalu w czerwcu 2026 były ogólne ("walka z urazami"), bez wskazań na konkretnych kluczowych graczy wykluczonych z gry na dzień meczu.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Legia Warszawa, choć była mistrzem Polski w zakończonym sezonie 2025/2026, przechodzi dużą rewolucję kadrową w okresie posezonowym (lipiec 2026), tracąc wielu kluczowych zawodników, w tym MVP Andrzeja Plutę, oraz ma kontuzjowanego kapitana Michała Kolendę. Również ORLEN Zastal Zielona Góra ma niepewny status Sagaby Konate i pozyskał nowych graczy. Tak znaczące zmiany w składach obu drużyn na dzień analizy (2026-07-26) sprawiają, że przewidywanie wyniku meczu, który odbył się 2026-06-21, na podstawie obecnych kadr jest bardzo ryzykowne.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+
+*   **Uzasadnienie:** Pomimo wcześniejszych kontuzji Michała Kolendy i Matthiasa Tassa w Legii Warszawa (grudzień 2025), ich przewidywany czas powrotu do gry sugerowałby ich dostępność na mecz 21.06.2026. Brak konkretnych, potwierdzonych informacji o absencji kluczowych koszykarzy Legii Warszawa lub ORLEN Zastalu Zielona Góra z powodu kontuzji, zawieszeń lub foul-outów, które byłyby aktualne na 2026-07-26 i miałyby bezpośredni wpływ na mecz z 21.06.2026. Andrzej Mazurczak, kluczowy gracz Zastalu, był w dobrej formie w maju 2026.
+*   Typ na Legię Warszawa wydaje się zatwierdzony w kontekście braku potwierdzonych, kluczowych osłabień, które mogłyby zmienić wynik.
