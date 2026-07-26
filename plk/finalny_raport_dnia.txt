@@ -1,26 +1,22 @@
---- AUDYT PLK LIVE (2026-07-26 12:14 CET) ---
-=========================================================================
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-26 17:09 CET) ---
+Analiza przewidywań na dzień 2026-06-21:
 
-1.  **Kluczowe braki w składach:**
-    Analiza braku w składach wymaga odwołania się do informacji z okolic daty meczu (2026-06-21) oraz obecnych (2026-07-26) doniesień o długoterminowych urazach z sezonu 2025/2026.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-**Legia Warszawa:**
-*   Michał Kolenda (rzucający/niski skrzydłowy) – Doznał zerwania więzadeł stawu skokowego na początku grudnia 2025 roku, co oznaczało przerwę 6-8 tygodni.
-*   Matthias Tass (środkowy) – Od grudnia 2025 roku miał poważny uraz stawu skokowego wymagający operacji i dłuższą przerwę (ok. 3 miesiące).
-*   Kapitan Legii (nazwisko nie sprecyzowane, ale z kontekstu newsów o Kolendzie prawdopodobnie chodzi o niego) przeszedł zabieg stawu skokowego 22.07.2026, ale to już po dacie meczu i raczej dotyczy przygotowań do nowego sezonu, a nie meczu z 21.06.2026.
-*   Brak istotnych braków w składzie koszykarskim, które byłyby aktualne na 2026-07-26 i dotyczyły meczu z 2026-06-21 poza już wymienionymi długoterminowymi kontuzjami Kolendy i Tassa, które wydają się być zakończone przed datą meczu, ale mogły wpłynąć na formę. Newsy o kontuzjach piłkarzy (np. Antonio Colak, Paweł Wszołek) są ignorowane.
+---
 
-**ORLEN Zastal Zielona Góra:**
-*   Andrzej Mazurczak (rozgrywający) – W sezonie 2024/25 stracił większość sezonu z powodu kontuzji. Jednak w maju 2026 był liderem zespołu w play-offach, zdobywając 22 punkty, 5 asyst i 3 przechwyty w meczu z Kingiem Szczecin, co sugeruje powrót do pełnej sprawności przed meczem 21.06.2026.
-*   Phil Fayne (silny skrzydłowy) – Z informacji z lutego 2026 wynika, że był aktywny i skuteczny, co wskazuje na brak kontuzji w okresie meczu. W czerwcu 2026 jest mowa o jego powrocie i walce z urazami w szeregach Zastalu, ale bez sprecyzowania długoterminowej absencji przed 21.06.2026.
-*   Brak istotnych braków w składzie koszykarskim, które byłyby aktualne na 2026-07-26 i dotyczyły meczu z 2026-06-21. Doniesienia o kontuzjach w Zastalu w czerwcu 2026 były ogólne ("walka z urazami"), bez wskazań na konkretnych kluczowych graczy wykluczonych z gry na dzień meczu.
-
+**ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
+    *   Brak istotnych braków w składzie koszykarskim z potwierdzonych informacji na dzień 2026-07-26. Wcześniejsze doniesienia z sezonu 2025/2026 o kontuzjach Sagaby Konate (kontuzja nadgarstka, koniec sezonu 2025/2026), Filipa Matczaka (stara kontuzja), Dwighta Wilsona (uraz kostki) i Chavaughna Lewisa (po zderzeniu z graczem Dzików) dotyczyły poprzedniego sezonu i nie ma aktualnych informacji o ich niedyspozycji na dzień 2026-07-26.
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o formie top scorerów oraz brak aktualnych informacji o kontuzjach dla dnia 2026-07-26 utrudnia precyzyjną ocenę).
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+---
 
-*   **Uzasadnienie:** Pomimo wcześniejszych kontuzji Michała Kolendy i Matthiasa Tassa w Legii Warszawa (grudzień 2025), ich przewidywany czas powrotu do gry sugerowałby ich dostępność na mecz 21.06.2026. Brak konkretnych, potwierdzonych informacji o absencji kluczowych koszykarzy Legii Warszawa lub ORLEN Zastalu Zielona Góra z powodu kontuzji, zawieszeń lub foul-outów, które byłyby aktualne na 2026-07-26 i miałyby bezpośredni wpływ na mecz z 21.06.2026. Andrzej Mazurczak, kluczowy gracz Zastalu, był w dobrej formie w maju 2026.
-*   Typ na Legię Warszawa wydaje się zatwierdzony w kontekście braku potwierdzonych, kluczowych osłabień, które mogłyby zmienić wynik.
+**Legia Warszawa**
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
+    *   Brak istotnych braków w składzie koszykarskim z potwierdzonych informacji na dzień 2026-07-26. Wcześniejsze doniesienia z sezonu 2025/2026 o kontuzjach Michała Kolendy i Matthiasa Tassa dotyczyły poprzedniego sezonu i nie ma aktualnych informacji o ich niedyspozycji na dzień 2026-07-26. Informacje o kontuzjach z lipca 2026 roku dotyczą sekcji piłkarskiej Legii Warszawa, a nie koszykarskiej.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o formie top scorerów oraz brak aktualnych informacji o kontuzjach dla dnia 2026-07-26 utrudnia precyzyjną ocenę).
