@@ -1,24 +1,13 @@
---- AUDYT PLK LIVE (2026-07-26 10:14 CET) ---
-Analiza meczów PLK na dzień 2026-06-21, uwzględniająca aktualne (2026-07-26) informacje o składach i kontuzjach:
+--- AUDYT PLK LIVE (2026-07-26 11:56 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, zaplanowanego na 2026-06-21, analiza aktualnego stanu drużyn na dzień 2026-07-26:
 
----
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 1.  **Kluczowe braki w składach (stan na 2026-07-26):**
-    *   🟢 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Nie ma potwierdzonych informacji o kontuzjach czy niedostępnościach koszykarzy Zastalu z datą 2026-07-26. Informacje o kontuzji Sagaby Konate z lutego 2026 dotyczyły końca sezonu 2025/2026. Obecnie nie ma nowych doniesień o jego niedostępności.
-    *   🔴 **Legia Warszawa:**
-        *   **Kontuzja:** Michał Kolenda (kapitan) przeszedł planowy zabieg stawu skokowego 23.07.2026. Przewidywany czas przerwy od treningów wynosi od 8 do 10 tygodni.
-        *   **Braki w kadrze (odejścia kluczowych graczy z sezonu 2025/2026, stan na 2026-07-26):**
-            *   DJ Brewton przeniósł się do Izraela (informacja z 25.07.2026).
-            *   Jayvon Graves został zawodnikiem Livorno we Włoszech (informacja z 19.07.2026).
-            *   Andrzej Pluta wybrał ofertę z ligi hiszpańskiej (informacja z 27.06.2026).
-            *   Maksymilian Wilczek również pożegnał się z zespołem (informacja z 27.06.2026).
+    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate doznał poważnego urazu nadgarstka (awulsyjne uszkodzenie więzadła SL) w lutym 2026 roku podczas Pucharu Polski, co wykluczyło go z gry do końca sezonu 2025/2026 i wymagało operacji. Jego status powrotu na parkiet lub dalszy udział w zespole jest niepewny na dzień 2026-07-26. W lipcu 2026 Zastal dokonał wzmocnień, pozyskując Jakuba Galewskiego (umowa do 2029), Jana Wójcika, Toyaza Solomona i Trazariena White'a.
+    *   🏀 **Legia Warszawa:** Kapitan Michał Kolenda przeszedł planowy zabieg stawu skokowego 22 lipca 2026 roku i jest niedostępny. Ponadto, Legia przeszła znaczącą przebudowę składu po zakończeniu sezonu 2025/2026 (który zakończyła mistrzostwem Polski). Andrzej Pluta, MVP sezonu 2025/2026 i finałów, opuścił klub, przenosząc się do Hiszpanii. Jayvon Graves odszedł do Livorno. Dominic Brewton III przenosi się do Izraela. Race Thompson i Shane Hunter również opuścili Legię. Carl Ponsar, Matthias Tass i Maksymilian Wilczek także nie są już zawodnikami Legii. Nowymi zawodnikami Legii są m.in. Gyorgy Goloman (środkowy), Kristers Zoriks, Jakub Andrzejewski, Markus Ilver i Szymon Tomczak.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-    *   Warto zaznaczyć, że Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz) byli czołowymi strzelcami Legii w sezonie 2025/2026, ale wszyscy trzej opuścili klub na dzień 26.07.2026.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu w kontekście formy w serii.
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mimo że mecz odbył się 21.06.2026, analiza oparta na aktualnych informacjach z 26.07.2026 wskazuje na znaczące osłabienia Legii. Klub stracił trzech czołowych strzelców z poprzedniego sezonu (Brewton, Pluta, Graves) oraz Michała Kolendę z powodu kontuzji. Te "braki w kadrze" i kontuzja kluczowego zawodnika, nawet jeśli dotyczą składu na nadchodzący sezon, wpływają na ocenę ryzyka w kontekście długoterminowym.
+    Legia Warszawa, choć była mistrzem Polski w zakończonym sezonie 2025/2026, przechodzi dużą rewolucję kadrową w okresie posezonowym (lipiec 2026), tracąc wielu kluczowych zawodników, w tym MVP Andrzeja Plutę, oraz ma kontuzjowanego kapitana Michała Kolendę. Również ORLEN Zastal Zielona Góra ma niepewny status Sagaby Konate i pozyskał nowych graczy. Tak znaczące zmiany w składach obu drużyn na dzień analizy (2026-07-26) sprawiają, że przewidywanie wyniku meczu, który odbył się 2026-06-21, na podstawie obecnych kadr jest bardzo ryzykowne.
