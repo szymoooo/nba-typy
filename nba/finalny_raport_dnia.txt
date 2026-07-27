@@ -1,24 +1,30 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-27 15:56 ET) ---
-Zgodnie z Twoimi wytycznymi, przeanalizowałem dostępne dane dla daty 2026-07-27, koncentrując się na składach z stycznia 2026 roku i szukając aktualnych raportów o kontuzjach.
+--- KRYTYCZNY AUDYT LIVE (2026-07-27 17:08 ET) ---
+Na podstawie dostępnych danych z 2026-07-27, przedstawiam analizę Twoich typów:
 
 ---
 
-### Lakers @ Kings -> Typ: Kings
+**Mecz 1: Lakers @ Kings**
+*   **Typ:** Kings
 
-*   **Kluczowe braki w składach (2026-07-27):**
-    *   **Lakers:** Brak aktualnych raportów (Injury Report) na tę chwilę. Wcześniejszy raport z 26 lipca 2026 r. wskazywał na "czysty" raport kontuzji, ale dotyczył meczu z Clippers. Natomiast Adou Thiero opuścił mecz LAL Summer League 6 lipca 2026 z powodu urazu nadgarstka.
-    *   **Kings:** Brak aktualnych raportów (Injury Report) na tę chwilę. Raport z 27 lipca 2026 r. wspomina o tym, że Domantas Sabonis, Zach LaVine i Keegan Murray opuścili dużą część poprzedniego sezonu z powodu kontuzji, ale nie ma ich aktualnego statusu na dzisiaj.
+*   **Kluczowe braki w składach:**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-07-27) dla tego konkretnego meczu. ❌
+    *   Jednakże, z raportu kontuzji z 27 stycznia 2026 roku wynika, że dla Sacramento Kings wykluczeni (Out) byli: Zach LaVine (ból pleców), Malik Monk (ból prawej kostki) i Keegan Murray (zwichnięcie lewej kostki).
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak aktualnych, szczegółowych raportów o kontuzjach na dzień 27 lipca 2026 r. dla obu drużyn sprawia, że ocena jest ryzykowna. Chociaż Sacramento Kings mieli problem z kontuzjami kluczowych graczy w poprzednim sezonie (2025-26), co wpłynęło na ich słaby bilans (22-60), brak potwierdzenia ich obecnego stanu zdrowia uniemożliwia zatwierdzenie typu.
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Sacramento Kings zakończyli sezon 2025-26 z rekordem 22-60. Mimo obecności Zach LaVine'a w składzie w styczniu 2026, wyniki zespołu były słabe.
+    *   Los Angeles Lakers mieli znacznie lepszy sezon 2025-26, kończąc z rekordem 53-29.
+    *   Biorąc pod uwagę gorszy bilans Kings oraz kluczowe braki w składzie (LaVine, Monk, Murray) w styczniu, typ na Kings jest obarczony wysokim ryzykiem.
 
 ---
 
-### Grizzlies @ Hawks -> Typ: Hawks
+**Mecz 2: Grizzlies @ Hawks**
+*   **Typ:** Hawks
 
-*   **Kluczowe braki w składach (2026-07-27):**
-    *   **Grizzlies:** Brak aktualnych raportów (Injury Report) na tę chwilę. Raporty z 2025-26 wskazywały na poważne kontuzje, np. Zach Edey był wykluczony na resztę sezonu z powodu kontuzji kostki, a Jaylen Wells z powodu urazu palca. Zach Edey wracał do zdrowia po drugiej operacji kostki w czerwcu 2026 r..
-    *   **Hawks:** Brak aktualnych raportów (Injury Report) na tę chwilę. Wcześniejszy raport z 9 lipca 2026 r. wskazywał, że Hawks nie mają graczy na liście kontuzjowanych.
+*   **Kluczowe braki w składach:**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-07-27). ❌
+    *   Z raportu kontuzji z 27 stycznia 2026 roku, Trae Young był wykluczony (Out) dla Washington Wizards (nie Hawks). Nie znaleziono konkretnych raportów kontuzji dla Memphis Grizzlies ani Atlanta Hawks na 27 stycznia 2026 r. w dostępnych wynikach.
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Pomimo braku aktualnych raportów o kontuzjach na 27 lipca 2026 r., wcześniejsze doniesienia o poważnych kontuzjach kluczowych graczy Grizzlies z sezonu 2025-26 (np. Zach Edey) wprowadzają niepewność. Chociaż Hawks wydają się mieć "czysty" raport, brak ostatecznego potwierdzenia dla obu drużyn na dzisiejszy dzień sprawia, że typ jest ryzykowny.
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Brak szczegółowych danych o składach Memphis Grizzlies i Atlanta Hawks na styczeń 2026 w dostępnych wynikach wyszukiwania utrudnia rzetelną ocenę.
+    *   Brak informacji o kontuzjach dla obu zespołów w styczniu 2026 sprawia, że ocena ryzyka jest niemożliwa bez kluczowych danych o dostępności zawodników.
+    *   W związku z tym, bez pełnego obrazu sytuacji kadrowej, typ na Hawks jest ryzykowny.
