@@ -1,24 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-27 06:10 ET) ---
-Na podstawie danych z 2026-07-27, przedstawiam analizę Twoich typów:
+--- KRYTYCZNY AUDYT LIVE (2026-07-27 07:16 ET) ---
+Dobrze, rozumiem. Jako rygorystyczny analityk NBA, bazując na danych z dnia 2026-07-27 i z uwzględnieniem wskazanych restrykcji, przeanalizuję Twoje typy.
 
----
+Ważna uwaga: Ze względu na to, że dzisiejsza data to 2026-07-27, a NBA nie rozgrywa meczów w lipcu, nie ma dostępnych aktualnych raportów o kontuzjach na ten dzień, które odnosiłyby się do aktywnych gier. Instrukcja "Interesuje Cię tylko STYCZEŃ 2026" jest trudna do zinterpretowania w kontekście bieżących raportów kontuzji z 27 lipca 2026. Zgodnie z zasadą, jeśli nie znajdę potwierdzonych informacji o kontuzjach z DZISIAJ (2026-07-27), muszę napisać 'Brak aktualnych raportów (Injury Report) na tę chwilę'. W związku z tym, werdykty będą oparte głównie na ogólnej sile składów z sezonu 2025-2026, bez możliwości uwzględnienia konkretnych braków meczowych.
 
-**Mecz: Lakers @ Kings**
-Typ: Kings
+## Lakers @ Kings -> Typ: Kings
 
-*   **Kluczowe braki w składach:**
-    *   Lakers: Brak aktualnych raportów (Injury Report) na tę chwilę. Adou Thiero doznał kontuzji nadgarstka na początku lipca 2026 roku podczas letniej ligi, ale brak potwierdzonego statusu (Out, Questionable, GTD) dla meczu regularnego sezonu na dzień 27 lipca 2026.
-    *   Kings: Brak aktualnych raportów (Injury Report) na tę chwilę.
+-   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+-   **Analiza składów (Sezon 2025-2026):**
+    *   **Los Angeles Lakers:** Zakończyli sezon 2025-2026 z bilansem 53-29, zajmując 4. miejsce w Konferencji Zachodniej. Doszli do półfinałów konferencji, gdzie przegrali z Thunder 0-4. LeBron James zakończył swoją karierę w Lakers po tym sezonie. Luka Dončić doznał kontuzji ścięgna podkolanowego w kwietniu 2026.
+    *   **Sacramento Kings:** Skład na sezon 2025-2026 obejmował między innymi Precious Achiuwa, Patrick Baldwin Jr., Dylan Cardwell, Devin Carter i Nique Clifford. Russell Westbrook dołączył do Kings w październiku 2025 i rozegrał dla nich sezon 2025-2026, notując średnio 15.2 punktu, 6.7 asysty i 5.4 zbiórki.
+-   **Werdykt:** ⚠️ RYZYKOWNY. Typ jest ryzykowny ze względu na brak możliwości oceny bieżących kontuzji, co jest kluczowe dla analizy meczowej. Odejście LeBrona Jamesa z Lakers po sezonie 2025-2026 oraz kontuzja Luki Dončicia (jeśli był w składzie Lakers w tym hipotetycznym meczu ze stycznia 2026) osłabiają Lakers. Kings z Russellem Westbrookiem w składzie byli prawdopodobnie drużyną z silnym doświadczeniem, jednak bez aktualnych raportów o kontuzjach, trudno o precyzyjną ocenę.
 
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak kluczowych braków w składach po żadnej ze stron na podstawie dostępnych raportów sprawia, że typ oparty na kontuzjach jest nieuzasadniony.
+## Grizzlies @ Hawks -> Typ: Hawks
 
----
-
-**Mecz: Grizzlies @ Hawks**
-Typ: Hawks
-
-*   **Kluczowe braki w składach:**
-    *   Grizzlies: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Hawks: Brak aktualnych raportów (Injury Report) na tę chwilę.
-
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak kluczowych braków w składach po żadnej ze stron na podstawie dostępnych raportów sprawia, że typ oparty na kontuzjach jest nieuzasadniony.
+-   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+-   **Analiza składów (Sezon 2025-2026):**
+    *   **Memphis Grizzlies:** Zakończyli sezon 2025-2026 z bilansem 25-57, zajmując 13. miejsce w Konferencji Zachodniej. W trakcie sezonu Brandon Clarke doznał poważnego naciągnięcia łydki w grudniu 2025, co wykluczyło go z reszty sezonu. Jaren Jackson Jr. został wytransferowany do Utah Jazz 3 lutego 2026. Ja Morant zagrał tylko 20 meczów z powodu kontuzji łokcia i zawieszenia, a następnie został wyłączony z gry na resztę sezonu 24 marca 2026. W lipcu 2026, Kentavious Caldwell-Pope jest w trakcie dogadywania wykupu kontraktu z Grizzlies, by móc podpisać umowę z 76ers.
+    *   **Atlanta Hawks:** Zakończyli sezon 2025-2026 z bilansem 46-36, zajmując 6. miejsce w Konferencji Wschodniej. Skład obejmował między innymi CJ McCollum, Dyson Daniels, Jalen Johnson, Jonathan Kuminga, Onyeka Okongwu, Jock Landale.
+-   **Werdykt:** ✅ ZATWIERDZONY. Mimo braku bieżących raportów o kontuzjach, na podstawie informacji o składach z sezonu 2025-2026, Grizzlies byli zespołem z poważnymi osłabieniami. Strata Brandona Clarke'a na większość sezonu, transfer Jarena Jacksona Jr. w lutym 2026 i ograniczone występy Ja Moranta (oraz jego późniejsza kontuzja) znacząco wpłynęły na ich wyniki. Hawks natomiast zakończyli sezon z solidnym bilansem i mieli bardziej stabilny skład. Dlatego typ na Hawks wydaje się być uzasadniony.

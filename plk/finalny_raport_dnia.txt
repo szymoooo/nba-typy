@@ -1,22 +1,15 @@
---- AUDYT PLK LIVE (2026-07-27 12:11 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-07-27 13:17 CET) ---
+# PLK typy na 2026-06-21
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate (silny skrzydłowy/środkowy) był kontuzjowany od lutego 2026 (uszkodzenie więzadła nadgarstka) i wykluczony z gry do końca sezonu 2025/2026. Filip Matczak i Dwight Wilson III odczuwali dolegliwości urazowe na początku czerwca 2026, ale uczestniczyli w treningach i brak jest potwierdzenia ich absencji w 7. meczu finału.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień meczu. Michał Kolenda i Ojars Silins, którzy wcześniej zmagali się z kontuzjami, byli dostępni i grali w finałach.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Nie znaleziono potwierdzonych informacji o kontuzjach lub zawieszeniach koszykarzy Legii Warszawa na dzień 2026-06-21.
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim. Nie znaleziono potwierdzonych informacji o kontuzjach lub zawieszeniach koszykarzy ORLEN Zastal Zielona Góra na dzień 2026-06-21.
 
-2.  **Aktualna forma top scorerów (mecz finałowy 2026-06-21):**
-    *   🏀 **Legia Warszawa:**
-        *   Andrzej Pluta: 15 punktów w meczu 7. finału (powyżej średniej sezonu 13.4 Pkt/mecz).
-        *   Race Thompson: 11 punktów w meczu 7. finału.
-        *   Dominic Brewton III: 11 punktów w meczu 7. finału (nieco poniżej średniej sezonu 14.5 Pkt/mecz).
-        *   Shane Hunter: 10 punktów w meczu 7. finału.
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak: 10 punktów w meczu 7. finału (nieco poniżej średniej sezonu 11.8 Pkt/mecz).
-        *   Chavaughn Lewis, będący liderem punktowym Zastalu w sezonie (15.8 Pkt/mecz), zdobył 7 punktów w meczu 4. finału i nie znalazł się wśród czołowych strzelców w meczu 7.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Legia Warszawa: Brak danych z API dla tego zespołu.
+    *   ORLEN Zastal Zielona Góra: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa grała u siebie w decydującym 7. meczu finału PLK sezonu 2025/2026.
-    *   Legia zdobyła mistrzostwo Polski, pokonując Zastal 78:70.
-    *   Zastal miał osłabienie w postaci długoterminowej kontuzji Sagaby Konate.
-    *   Indywidualna forma kluczowych zawodników Legii, zwłaszcza Andrzeja Pluty, była dobra w tym decydującym spotkaniu.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Mecz odbył się 21 czerwca 2026 roku jako siódme, decydujące spotkanie finałów PLK sezonu 2025/2026 w hali Bemowo w Warszawie. Legia Warszawa wygrała 78:70, zdobywając Mistrzostwo Polski. Typ na zwycięstwo Legii Warszawa jest zatem zatwierdzony na podstawie historycznego wyniku meczu.
