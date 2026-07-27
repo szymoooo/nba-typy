@@ -1,30 +1,46 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-27 17:08 ET) ---
-Na podstawie dostępnych danych z 2026-07-27, przedstawiam analizę Twoich typów:
+--- KRYTYCZNY AUDYT LIVE (2026-07-27 17:19 ET) ---
+Oto analiza Twoich typów na podstawie danych ze STYCZNIA 2026:
 
 ---
 
-**Mecz 1: Lakers @ Kings**
-*   **Typ:** Kings
+### Lakers @ Kings 👑
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-07-27) dla tego konkretnego meczu. ❌
-    *   Jednakże, z raportu kontuzji z 27 stycznia 2026 roku wynika, że dla Sacramento Kings wykluczeni (Out) byli: Zach LaVine (ból pleców), Malik Monk (ból prawej kostki) i Keegan Murray (zwichnięcie lewej kostki).
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Los Angeles Lakers:**
+        *   Austin Reaves (łydka - OUT) 🦵
+        *   Adou Thiero (kolano - OUT) 🩹
+        *   Rui Hachimura (łydka/kolano - OUT/Questionable w różnych terminach) 🤕
+        *   Gabe Vincent (plecy - OUT na początku stycznia) 🩹
+        *   Bronny James Jr. (nieujawniony problem - OUT w połowie stycznia) ❓
+    *   **Sacramento Kings:**
+        *   Domantas Sabonis (kolano/łąkotka - OUT przez większość stycznia) 🦵
+        *   Keegan Murray (skręcenie kostki - OUT przez cały styczeń) 🤕
+        *   Zach LaVine (ból pleców - OUT pod koniec stycznia) 🩹
+        *   Malik Monk (stłuczenie pięty - QUESTIONABLE pod koniec stycznia) 🦶
+        *   Russell Westbrook (stłuczenie stopy - QUESTIONABLE pod koniec stycznia) 🦶
 
-*   **Werdykt:** ⚠️ RYZYKOWNY
-    *   Sacramento Kings zakończyli sezon 2025-26 z rekordem 22-60. Mimo obecności Zach LaVine'a w składzie w styczniu 2026, wyniki zespołu były słabe.
-    *   Los Angeles Lakers mieli znacznie lepszy sezon 2025-26, kończąc z rekordem 53-29.
-    *   Biorąc pod uwagę gorszy bilans Kings oraz kluczowe braki w składzie (LaVine, Monk, Murray) w styczniu, typ na Kings jest obarczony wysokim ryzykiem.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ na Kings jest ryzykowny, ponieważ brak dwóch kluczowych graczy, Domantasa Sabonisa i Keegana Murraya, przez większość stycznia znacząco osłabia ich skład. Lakers, choć również mieli braki, mieli dostępnych swoich głównych liderów (LeBron James, Anthony Davis) bez oznaczenia kontuzji w niektórych kluczowych meczach.
 
 ---
 
-**Mecz 2: Grizzlies @ Hawks**
-*   **Typ:** Hawks
+### Grizzlies @ Hawks 🦅
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-07-27). ❌
-    *   Z raportu kontuzji z 27 stycznia 2026 roku, Trae Young był wykluczony (Out) dla Washington Wizards (nie Hawks). Nie znaleziono konkretnych raportów kontuzji dla Memphis Grizzlies ani Atlanta Hawks na 27 stycznia 2026 r. w dostępnych wynikach.
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Memphis Grizzlies:**
+        *   Ja Morant (stłuczenie łydki, później skręcenie UCL łokcia - OUT przez większość stycznia) 🩹
+        *   Brandon Clarke (naciągnięcie łydki - OUT) 🦵
+        *   Zach Edey (reakcja stresowa kostki - OUT) 🦶
+        *   Ty Jerome (naciągnięcie łydki - OUT) 🦵
+        *   Scotty Pippen Jr. (rekonwalescencja po operacji palucha - OUT) 🦶
+        *   N'Faly Dante (operacja kolana - OUT do końca sezonu) 🦵
+        *   Santi Aldama (zarządzanie kontuzją kolana - OUT pod koniec stycznia) 🩹
+    *   **Atlanta Hawks:**
+        *   Kristaps Porzingis (zapalenie ścięgna Achillesa - OUT przez większość stycznia) 🩹
+        *   Zaccharie Risacher (stłuczenie kości kolana - OUT przez większość stycznia, później dostępny) 🦵
+        *   N'Faly Dante (zerwanie ACL kolana - OUT do końca sezonu) 🦵
+        *   Onyeka Okongwu (złamanie zęba - OUT pod koniec stycznia) 🦷
+        *   Jalen Johnson (napięcie łydki - QUESTIONABLE/Dostępny pod koniec stycznia) 🦵
 
-*   **Werdykt:** ⚠️ RYZYKOWNY
-    *   Brak szczegółowych danych o składach Memphis Grizzlies i Atlanta Hawks na styczeń 2026 w dostępnych wynikach wyszukiwania utrudnia rzetelną ocenę.
-    *   Brak informacji o kontuzjach dla obu zespołów w styczniu 2026 sprawia, że ocena ryzyka jest niemożliwa bez kluczowych danych o dostępności zawodników.
-    *   W związku z tym, bez pełnego obrazu sytuacji kadrowej, typ na Hawks jest ryzykowny.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny były poważnie osłabione w styczniu 2026. Hawks tracili kluczowych graczy podkoszowych, takich jak Porzingis i Dante, a także Risachera przez większość miesiąca. Grizzlies z kolei grali bez swojego lidera Ja Moranta przez znaczną część stycznia, a także wielu innych rotacyjnych graczy. Typ na Hawks jest ryzykowny ze względu na znaczące braki w ich składzie.
