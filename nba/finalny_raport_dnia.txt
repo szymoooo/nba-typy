@@ -1,20 +1,45 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-27 14:07 ET) ---
-Na podstawie danych z sieci na styczeń 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-27 14:18 ET) ---
+Analiza meczów NBA na podstawie danych ze STYCZNIA 2026:
 
 ---
 
-### Lakers @ Kings -> Typ: Kings
+### Lakers @ Kings
 
-*   **Kluczowe braki w składach (styczeń 2026):**
-    *   **Lakers:** Austin Reaves (Out - łydka), Adou Thiero (Out - MCL/kolano), Rui Hachimura (Out - łydka/kolano), Maxi Kleber (Out - stopa), Bronny James Jr. (Out - "South" issue), Gabe Vincent (Out - plecy).
-    *   **Kings:** Domantas Sabonis (Out - naderwanie łąkotki/kolano), Keegan Murray (Out - skręcenie kostki), Malik Monk (Questionable - stłuczenie pięty), Russell Westbrook (Questionable - stłuczenie stopy). Zach LaVine (Out - ból pleców). Keon Ellis i Dennis Schröder zostali wytransferowani pod koniec stycznia/początek lutego.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny były mocno przetrzebione kontuzjami w styczniu 2026. Kings byli bez kluczowych graczy, takich jak Sabonis i Murray, a status Monk i Westbrooka był niepewny pod koniec miesiąca. Lakers również mieli kilku ważnych graczy poza grą. Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Lakers:**
+        *   Adou Thiero (Knee) - OUT 🩹
+        *   Austin Reaves (Calf) - OUT 🩹
+        *   Rui Hachimura (Knee/Calf) - OUT 🩹
+        *   Bronny James Jr. (Undisclosed "South" issue) - OUT 🤕
+        *   Gabe Vincent (Back) - OUT 🩹
+    *   **Kings:**
+        *   Domantas Sabonis (Left Knee; Partial Meniscus Tear) - OUT 🩹
+        *   Keegan Murray (Left Ankle; Sprain) - OUT 🩹
+        *   Dennis Schroder (League Suspension) - OUT 🚫
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typowanie Kings jest ryzykowne, biorąc pod uwagę brak dwóch kluczowych starterów, Domantasa Sabonisa i Keegana Murraya, przez znaczną część stycznia 2026. Ich absencje mocno osłabiają rebounding i scoring wewnętrzny Kings. Lakers również mają kilku graczy poza składem, ale ich główne gwiazdy (Luka Dončić, LeBron James) były dostępne i prowadziły drużynę.
 
 ---
 
-### Grizzlies @ Hawks -> Typ: Hawks
+### Grizzlies @ Hawks
 
-*   **Kluczowe braki w składach (styczeń 2026):**
-    *   **Grizzlies:** Ja Morant (Out - skręcenie więzadła łokciowego w lewym łokciu), Zach Edey (Out - reakcja stresowa w lewej kostce), Brandon Clarke (Out - naciągnięcie łydki), Scotty Pippen Jr. (Out - rekonwalescencja po operacji palca), Santi Aldama (Out - kolano), Ty Jerome (Out - łydka).
-    *   **Hawks:** N'Faly Dante (Out - zerwanie ACL, koniec sezonu), Kristaps Porzingis (Out - zapalenie ścięgna Achillesa), Onyeka Okongwu (Out - złamanie zęba). Jalen Johnson (Dostępny pod koniec stycznia), Zaccharie Risacher (Dostępny pod koniec stycznia).
-*   **Werdykt:** [✅ ZATWIERDZONY] – Grizzlies byli w styczniu 2026 zdziesiątkowani kontuzjami, z wieloma kluczowymi starterami, w tym Ja Morantem, poza grą. Chociaż Hawks również mieli braki, to powrót Jalen Johnsona i Zaccharie Risachera pod koniec miesiąca, w połączeniu z rozległymi kontuzjami Grizzlies, sprawia, że typ na Hawks jest zatwierdzony. Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Grizzlies:**
+        *   Scotty Pippen Jr. (Toe Injury/Surgery Recovery) - OUT 🩹
+        *   Zach Edey (Ankle/Stress Reaction) - OUT 🩹
+        *   Ty Jerome (Ankle/Calf Strain) - OUT 🩹
+        *   Brandon Clarke (Calf Strain) - OUT 🩹
+        *   John Konchar (Left Thumb; UCL Surgery Recovery) - OUT 🩹
+        *   Derrick Rose (Left Hamstring Strain) - UNLIKELY 🩹
+        *   Ja Morant (Right Calf; Contusion) - DOUBTFUL ❓
+    *   **Hawks:**
+        *   Kristaps Porzingis (Left Achilles Tendinitis) - OUT 🩹
+        *   N'Faly Dante (Right Knee; Torn ACL) - OUT FOR SEASON 🚨
+        *   Onyeka Okongwu (Dental Fracture) - OUT 🤕
+        *   Vit Krejci (Left Ankle; Sprain) - OUT 🩹
+        *   Zaccharie Risacher (Left Knee; Bone Contusion) - OUT/QUESTIONABLE (by 31.01.26 AVAILABLE) 🤕❓✅
+        *   Jalen Johnson (Left Calf; Tightness) - QUESTIONABLE (by 31.01.26 AVAILABLE) ❓✅
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny borykały się z poważnymi problemami kadrowymi w styczniu 2026. Grizzlies mieli wielu graczy rotacyjnych poza składem, w tym potencjalnie swoją gwiazdę Ja Moranta. Hawks zmagali się z brakiem kluczowych zawodników podkoszowych, takich jak Porzingis, Dante (kontuzja kończąca sezon) i Okongwu. Znaczące osłabienia w obu zespołach sprawiają, że wynik jest bardzo nieprzewidywalny.
