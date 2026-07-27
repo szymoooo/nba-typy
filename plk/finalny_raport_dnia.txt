@@ -1,17 +1,24 @@
---- AUDYT PLK LIVE (2026-07-27 20:18 CET) ---
-Analiza meczu na dzień 2026-06-21, z uwzględnieniem składów i dostępności zawodników na dzień 2026-07-27.
+--- AUDYT PLK LIVE (2026-07-27 21:58 CET) ---
+Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa
+Data meczu: 2026-06-21
+Hala meczu: OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40, 01-494 Warszawa
 
----
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate: Prawdopodobnie niedostępny z powodu poważnej kontuzji nadgarstka, której doznał w lutym 2026 roku.
+        *   Filip Matczak: Zgłaszał dolegliwości związane ze starą kontuzją na początku czerwca 2026, był oszczędzany na treningach, ale jego udział w serii finałowej był planowany.
+    *   **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim. Jerrick Harding, choć doznał kontuzji w październiku 2025, nie był zawodnikiem Legii Warszawa w sezonie PLK 2025/2026.
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa
+2.  **Aktualna forma top scorerów (dane z 7. meczu finałowego, 2026-06-21):**
+    *   **Legia Warszawa:**
+        *   Andrzej Pluta: 15 punktów w 7. meczu finałowym. Był także wybrany MVP Finałów i MVP Sezonu 2025/2026.
+        *   Race Thompson: 11 punktów w 7. meczu finałowym.
+        *   Dominic Brewton III: 11 punktów w 7. meczu finałowym.
+        *   Shane Hunter: 10 punktów w 7. meczu finałowym.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak: 10 punktów w 7. meczu finałowym.
+        *   W sezonie 2025/2026 czołowymi strzelcami Zastalu byli Chavaughn Lewis (15.8 Pkt/mecz) i Jakub Szumert (13.2 Pkt/mecz).
 
-1.  **Kluczowe braki w składach (na dzień 2026-07-27):**
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Należy jednak zaznaczyć, że Legia Warszawa, po zdobyciu mistrzostwa Polski w sezonie 2025/2026, przeszła radykalną przebudowę kadry na sezon 2026/2027. Klub opuścili kluczowi zawodnicy, w tym MVP rundy zasadniczej i finałów Andrzej Pluta (przeszedł do ligi hiszpańskiej), Carl Ponsar, Matthias Tass oraz Maksymilian Wilczek. Do zespołu dołączyli m.in. Jakub Andrzejewski, Szymon Tomczak, Kristers Zoriks, Markus Ilver oraz Gyorgy Goloman.
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Zastal również aktywnie działał na rynku transferowym. Do klubu dołączyli nowi zawodnicy, tacy jak Trazarien White (ogłoszony 8 lipca), Veljko Brkić (powrócił 29 czerwca) oraz Jan Wójcik (powrócił 17 lipca), a także Toyaz "Tay" Solomon.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mecz analizowany z perspektywy dnia 2026-07-27, z uwzględnieniem zmian kadrowych po sezonie 2025/2026. Legia Warszawa, mimo iż była mistrzem Polski, na dzień 2026-07-27 funkcjonuje w znacząco zmienionym składzie, tracąc swojego MVP (Andrzej Pluta) oraz innych ważnych graczy. Chociaż do zespołu dołączyli nowi zawodnicy, ich zgranie i forma w nowej drużynie są niepotwierdzone. ORLEN Zastal Zielona Góra również dokonał istotnych wzmocnień. W kontekście tak znaczących zmian w obu zespołach, przewidywanie zwycięzcy w decydującym meczu finałowym (takim jak ten z 21.06.2026, który Legia faktycznie wygrała), opierając się na obecnych, przebudowanych kadrach, jest ryzykowne ze względu na brak możliwości oceny faktycznej synergii i formy nowych składów.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa wygrała ten decydujący, 7. mecz finałowy (78:70 lub 77:71) i obroniła tytuł Mistrza Polski. Byli faworytami, zakończyli sezon zasadniczy na pierwszym miejscu, a mecz odbył się na ich własnym parkiecie. Tip na Legię Warszawa był trafny.
