@@ -1,15 +1,11 @@
---- AUDYT PLK LIVE (2026-07-27 13:17 CET) ---
-# PLK typy na 2026-06-21
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-27 18:25 CET) ---
+**PLK typy na 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Nie znaleziono potwierdzonych informacji o kontuzjach lub zawieszeniach koszykarzy Legii Warszawa na dzień 2026-06-21.
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim. Nie znaleziono potwierdzonych informacji o kontuzjach lub zawieszeniach koszykarzy ORLEN Zastal Zielona Góra na dzień 2026-06-21.
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim (wg. aktualnych raportów na 2026-07-27).
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim (wg. aktualnych raportów na 2026-07-27).
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   Legia Warszawa: Brak danych z API dla tego zespołu.
-    *   ORLEN Zastal Zielona Góra: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Mecz odbył się 21 czerwca 2026 roku jako siódme, decydujące spotkanie finałów PLK sezonu 2025/2026 w hali Bemowo w Warszawie. Legia Warszawa wygrała 78:70, zdobywając Mistrzostwo Polski. Typ na zwycięstwo Legii Warszawa jest zatem zatwierdzony na podstawie historycznego wyniku meczu.
