@@ -1,18 +1,15 @@
---- AUDYT PLK LIVE (2026-07-28 01:30 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-07-28 03:54 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-*   **Kluczowe braki w składach** 🩹:
-    *   Brak istotnych braków w składzie koszykarskim dla obu drużyn, potwierdzonych na dzień meczu 2026-06-21. Informacje o ruchach kadrowych i kontuzjach (np. Michała Kolendy czy odejściu Jayvona Maughmera z Zastalu) dotyczą okresu po rozegranym meczu.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-*   **Aktualna forma top scorerów** 🔥:
-    *   **ORLEN Zastal Zielona Góra (sezon 2025/2026)**:
-        *   Chavaughn Lewis: 15.8 Pkt/mecz
-        *   Jakub Szumert: 13.2 Pkt/mecz
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz
-    *   **Legia Warszawa**: brak danych z API dla tego zespołu.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate był niedostępny z powodu sezonowej kontuzji nadgarstka, której doznał w lutym 2026 roku.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
 
-*   **Werdykt** ✅:
-    *   Mecz był siódmym i decydującym spotkaniem finałowym sezonu 2025/2026 PLK.
-    *   Legia Warszawa, grając u siebie (OSiR Bemowo, Warszawa), pokonała ORLEN Zastal Zielona Góra wynikiem 78:70, zdobywając Mistrzostwo Polski.
-    *   Typ na Legię Warszawa był prawidłowy.
-    *   [✅ ZATWIERDZONY]
+2.  **Aktualna forma top scorerów:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Dane z API PulsBasketu dla tej serii nie są dostępne. Jednakże, w sezonie 2025/2026 do czołowych strzelców zespołu należeli Chavaughn Lewis (średnio 15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) oraz Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się 2026-06-21 i był siódmym, decydującym spotkaniem finałowym, w którym Legia Warszawa zdobyła mistrzostwo Polski. Typ na Legię Warszawa był trafny. Dodatkowo, Legia przystąpiła do tego finałowego meczu bez potwierdzonych poważnych osłabień, podczas gdy Zastal musiał radzić sobie bez Sagaby Konate.
