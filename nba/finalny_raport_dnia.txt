@@ -1,42 +1,44 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-28 12:06 ET) ---
-Oto analiza Twoich typów na podstawie dostępnych danych z 28 lipca 2026 roku:
+--- KRYTYCZNY AUDYT LIVE (2026-07-28 13:45 ET) ---
+Analiza meczów NBA (2026-07-28):
 
 ---
 
-### Mecz: Grizzlies @ Hawks
+**Grizzlies @ Hawks**
 Typ: Hawks
 
-*   **Kluczowe braki w składach:**
-    *   **Grizzlies:**
-        *   Ja Morant 🚫 (Sprzedany do Portland Trail Blazers 29 czerwca 2026)
-        *   Brandon Clarke 🚫 (Zmarł 11 maja 2026)
-        *   Zach Edey 🤕 (Sezon 2025-26 zakończony z powodu kontuzji lewej kostki, ogłoszone 25 marca 2026)
-        *   Scotty Pippen Jr. 🤕 (Dochodził do siebie po operacji palucha lewej stopy w styczniu 2026, przewidywany powrót za 4-6 tygodni od 14 stycznia 2026)
-        *   Ty Jerome 🤕 (Kontuzja łydki w styczniu 2026)
-    *   **Hawks:** Brak aktualnych raportów (Injury Report) na tę chwilę. W raporcie z 29 stycznia 2026 Jalen Johnson był "Questionable" (napięcie lewej łydki), a Onyeka Okongwu (złamanie zęba), Kristaps Porzingis (zapalenie ścięgna Achillesa) i Zaccharie Risacher (stłuczenie kości lewego kolana) byli "Out". Nie ma potwierdzenia ich statusu na 28 lipca 2026.
+*   **Kluczowe braki w składach (stan na styczeń 2026):**
+    *   Memphis Grizzlies:
+        *   Ja Morant: Kontuzja UCL lewego łokcia, opuścił resztę sezonu 2025-26 (potwierdzono w marcu 2026).
+        *   Brandon Clarke: Naciągnięcie prawej łydki, opuścił resztę sezonu 2025-26 (potwierdzono w marcu 2026).
+        *   Zach Edey: Uraz lewego łokcia, opuścił resztę sezonu 2025-26 (potwierdzono w marcu 2026).
+        *   Derrick Rose: Naciągnięcie lewego ścięgna podkolanowego (informacje z 2026).
+        *   Georges Niang: Reakcja stresowa czwartej kości śródstopia w lewej stopie (informacje z 2026).
+        *   Eric Gordon: Wymieniony i nie wystąpi (informacje z 2026).
+        *   Santi Aldama, Kentavious Caldwell-Pope, Taylor Hendricks, GG Jackson, Ty Jerome, Scotty Pippen Jr., Cam Spencer, Jaylen Wells: Wszyscy byli wykluczeni ze składu na koniec sezonu 2025-26 z powodu różnych kontuzji (informacje z kwietnia 2026).
+    *   Atlanta Hawks:
+        *   Onyeka Okongwu: Złamanie zęba, wykluczony (stan na 29 stycznia 2026).
+        *   Kristaps Porzingis: Zapalenie ścięgna Achillesa lewej nogi, wykluczony (stan na 29 stycznia 2026).
+        *   Zaccharie Risacher: Stłuczenie kości lewego kolana, wykluczony (stan na 29 stycznia 2026).
+        *   Jalen Johnson: Naciągnięcie lewej łydki, status "Questionable" (stan na 29 stycznia 2026).
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Grizzlies mają osłabiony skład z powodu kluczowych graczy nieobecnych na stałe (Morant, Clarke) oraz poważnych kontuzji kończących sezon 2025-26 (Edey) lub długoterminowych (Pippen Jr., Jerome). Mimo braku aktualnych raportów dla Hawks, ich skład z stycznia 2026 roku, nawet z kilkoma kontuzjami, wydaje się być znacznie silniejszy niż poważnie osłabieni Grizzlies.
+*   **Brak aktualnych raportów (Injury Report) na tę chwilę** (2026-07-28) dla tych drużyn, ponieważ jest to poza sezonem NBA. Jedyny znaleziony raport dotyczy odzyskania zdrowia Kyrie Irvinga z Dallas Mavericks po kontuzji ACL.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Ze względu na liczne kluczowe braki w składzie Grizzlies w kontekście stycznia 2026 oraz znaczące kontuzje w Hawks w tym samym okresie, typ na Hawks jest ryzykowny, mimo że mieli mocny skład z CJ McCollumem, Jalenem Johnsonem, Onyeką Okongwu i Nickeilem Alexander-Walkerem. Kontuzje Porzingisa i Risachera osłabiają frontcourt Hawks.)
 
 ---
 
-### Mecz: Lakers @ Kings
+**Lakers @ Kings**
 Typ: Kings
 
-*   **Kluczowe braki w składach:**
-    *   **Lakers:** Brak. Zespół zgłosił "całkowicie czysty raport kontuzji" 26 lipca 2026 roku, z LeBronem Jamesem, Luką Dončićem i Austinem Reavesem dostępnymi.
-    *   **Kings:**
-        *   Domantas Sabonis 🚫 (Sezon 2025-26 zakończony po operacji kolana 18 lutego 2026)
-        *   Zach LaVine 🚫 (Sezon 2025-26 zakończony po operacji prawej ręki, ogłoszone przed przerwą na All-Star w 2026)
-        *   De'Andre Hunter 🚫 (Sezon 2025-26 zakończony po operacji oka, ogłoszone 25 lutego 2026)
-        *   Drew Eubanks 🚫 (Sezon 2025-26 zakończony po operacji lewego kciuka 16 marca 2026)
-        *   Keegan Murray 🤕 (Problemy z kostką w marcu 2026)
-        *   Malik Monk 🤕 (Problemy z kostką w marcu 2026)
-        *   Russell Westbrook 🤕 (Problemy ze stopą w marcu 2026)
-        *   Devin Carter 🤕 (Problemy z łydką w marcu 2026)
-        Brak aktualnych raportów (Injury Report) na tę chwilę dla 28 lipca 2026, które wskazywałyby na powrót tych graczy.
+*   **Kluczowe braki w składach (stan na styczeń 2026):**
+    *   Los Angeles Lakers:
+        *   Luka Dončić: Urazy (informacje z kwietnia/maja 2026, co sugeruje, że był to problem w drugiej połowie sezonu 2025-26).
+        *   Jarred Vanderbilt: Urazy (informacje z maja 2026, problem w drugiej połowie sezonu 2025-26).
+        *   Matisse Thybulle: Kontuzja kolana w połowie sezonu 2025-26.
+    *   Sacramento Kings:
+        *   Domantas Sabonis: Operacja kolana (zerwane łąkotki lewego kolana), opuścił resztę sezonu 2025-26 (potwierdzono w lutym 2026).
+        *   Keegan Murray: Koniec sezonu (potwierdzono w marcu 2026).
+        *   Zach LaVine: Operacja prawej dłoni, koniec sezonu (potwierdzono w lutym 2026).
+        *   Aleksandar Vezenkov: Skręcenie prawej kostki, status "Uncertain" (informacje z 2026).
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Lakers mają pełny skład kluczowych graczy i są zdrowi. Kings, bazując na zakończeniu sezonu 2025-26, mieli wielu kluczowych graczy z kontuzjami kończącymi sezon. Bez aktualnego raportu z 28 lipca 2026 potwierdzającego ich powrót do zdrowia, zakłada się, że ich osłabienie z poprzedniego sezonu nadal miałoby wpływ. Typowanie Kings w tej sytuacji jest ryzykowne ze względu na ich liczne i poważne braki.
-
----
+*   **Brak aktualnych raportów (Injury Report) na tę chwilę** (2026-07-28) dla tych drużyn, ponieważ jest to poza sezonem NBA. Isaiah Stevens (Kings) został zwolniony 28 lipca 2026, co jest ruchem kadrowym, a nie raportem o kontuzji przedmeczowej.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Obie drużyny miały znaczące braki w składach w drugiej połowie sezonu 2025-26. Kings, z kluczowymi graczami takimi jak Domantas Sabonis, Keegan Murray i Zach LaVine poza grą już w lutym/marcu 2026, byliby znacznie osłabieni w styczniu 2026, jeśli ich kontuzje były długoterminowe. Lakers również mieli problemy zdrowotne z Luką Dončićem i Jarredem Vanderbiltem. Typ na Kings w tej sytuacji jest bardzo ryzykowny z powodu przewidywanych osłabień w styczniu 2026.)
