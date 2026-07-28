@@ -1,27 +1,38 @@
---- AUDYT PLK LIVE (2026-07-28 09:40 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
-
-Dzisiejsza data to 2026-07-28, więc mecz już się odbył. Wynik meczu finałowego (Game 7) pomiędzy Legią Warszawa a ORLEN Zastalem Zielona Góra to 78:70 dla Legii Warszawa, co oznaczało zdobycie mistrzostwa przez Legię.
+--- AUDYT PLK LIVE (2026-07-28 12:14 CET) ---
+The match "ORLEN Zastal Zielona Góra @ Legia Warszawa" was scheduled for 2026-06-21. This was the final match of the season, with Legia Warszawa eventually winning the championship by defeating ORLEN Zastal Zielona Góra 78-70 in Game 7 of the finals on 2026-06-21.
 
 ---
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa
+**ORLEN Zastal Zielona Góra**
 
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-21. Zawodnicy tacy jak Andrzej Pluta, Jayvon Graves, Michał Kolenda i Ojārs Siliņš, którzy mieli problemy zdrowotne wcześniej w sezonie 2025/2026, byli aktywni i punktowali w Game 7 finałów. Doniesienia o kontuzjach piłkarzy Legii Warszawa (np. Antonio Colak, Rafał Adamski) są nieistotne dla tego meczu koszykówki.
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21. Podstawowi gracze, w tym Andrzej Mazurczak, wystąpili w finale.
-2.  **Aktualna forma top scorerów (z meczu 2026-06-21 - Game 7):**
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta: 15 punktów
-        *   Dominic Brewton III: 11 punktów
-        *   Race Thompson: 11 punktów
-        *   Shane Hunter: 10 punktów
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Andy Mazurczak: 10 punktów
-        *   Jayvon Maughmer: 10 punktów
-        *   Chavaughn Lewis: 10 punktów
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Mecz był siódmym i decydującym spotkaniem finałowym, co zwiększa wagę przewagi własnego parkietu. Legia Warszawa grała u siebie w OSiR Warszawa Bemowo.
-    *   Obie drużyny przystąpiły do meczu w najsilniejszych składach, bez kluczowych kontuzji liderów.
-    *   Topowi strzelcy Legii Warszawa zaprezentowali dobrą formę w decydującym spotkaniu, prowadząc drużynę do zwycięstwa.
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)**
+    *   Sagaba Konate, silny skrzydłowy/środkowy, zakończył sezon w lutym 2026 roku z powodu kontuzji dłoni doznanej podczas Pekao S.A. Pucharu Polski.
+    *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim przed finałem 21 czerwca 2026.
+
+2.  **Aktualna forma top scorerow (jezeli mam dane W SERII powyzej, uwzglednij je)**
+    *   W sezonie 2025/2026, czołowymi strzelcami ORLEN Zastal Zielona Góra byli:
+        *   Chavaughn Lewis (15.8 Pkt/mecz).
+        *   Jakub Szumert (13.2 Pkt/mecz).
+        *   Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   Conley Garrison był bohaterem szóstego meczu finałowego (19.06.2026), trafiając zwycięski rzut w ostatniej sekundzie, doprowadzając do remisu w serii 3:3.
+
+---
+
+**Legia Warszawa**
+
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)**
+    *   Przed 21 czerwca 2026, brak potwierdzonych istotnych braków w składzie koszykarskim. W grudniu 2025 roku Legia borykała się z kontuzjami Michała Kolendy i Matthiasa Tassa, ale brak informacji o ich niedostępności na czerwiec 2026. Informacje o kontuzjach piłkarzy (np. Mileta Rajović, Rafał Adamski, Juergen Elitim) są nieistotne dla meczu koszykówki.
+
+2.  **Aktualna forma top scorerow (jezeli mam dane W SERII powyzej, uwzglednij je)**
+    *   W sezonie 2025/2026, czołowymi strzelcami Legii Warszawa byli:
+        *   Dominic Brewton III (14.5 Pkt/mecz).
+        *   Andrzej Pluta (13.4 Pkt/mecz).
+        *   Jayvon Graves (12.8 Pkt/mecz).
+    *   Andrzej Pluta Jr. został MVP sezonu 2025-26 PLK oraz MVP Finałów.
+
+---
+
+**Werdykt:** [⚠️ RYZYKOWNY]
+*   Mecz odbył się 21 czerwca 2026 roku jako siódmy, decydujący mecz finału PLK, w którym Legia Warszawa obroniła tytuł Mistrza Polski, wygrywając 78:70. Mecz był bardzo zacięty i rozstrzygnął się w końcówce.
+*   Zastal borykał się z brakiem Sagaby Konate od lutego. Legia Warszawa, grając u siebie, była faworytem.
+*   Decydujący mecz finałów zawsze jest ryzykowny do typowania, zwłaszcza gdy seria jest na remis, a oba zespoły prezentują wysoką formę. Pomimo końcowego zwycięstwa Legii, mecz ten był bardzo wyrównany i typowanie go jako pewnego byłoby obarczone ryzykiem.
