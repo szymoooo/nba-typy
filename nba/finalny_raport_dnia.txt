@@ -1,15 +1,40 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-28 16:49 ET) ---
-Na podstawie DZISIEJSZYCH danych z sieci (2026-07-28):
+--- KRYTYCZNY AUDYT LIVE (2026-07-28 16:59 ET) ---
+Oto analiza Twoich typów na podstawie danych z stycznia 2026 roku:
 
-### Grizzlies @ Hawks -> Typ: Hawks
+---
 
-*   **Kluczowe braki w składach (na podstawie ogólnych zmian w składzie, brak aktualnych raportów kontuzji z 2026-07-28):**
-    *   **Memphis Grizzlies:** Brak Ja Moranta (sprzedany do Portland Trail Blazers po sezonie 2025-26), brak Jarena Jacksona Jr. (sprzedany do Utah Jazz 3 lutego 2026), Brandon Clarke (zmarł 11 maja 2026). Zespół pozyskał m.in. D'Angelo Russella, Isaiaha Stewarta i Jeramiego Granta.
-    *   **Atlanta Hawks:** Brak aktualnych raportów (Injury Report) na tę chwilę. Roster zawiera m.in. CJ McColluma, Nickeila Alexander-Walkera, Dysona Danielsa, Jalena Johnsona i Jocka Landale'a.
-*   **Werdykt:** [✅ ZATWIERDZONY] Biorąc pod uwagę znaczące osłabienia Grizzlies po odejściu Moranta, Jacksona Jr. oraz tragiczną śmierć Clarke'a, i stabilniejszy skład Hawks z doświadczonymi graczami, typ na Hawks wydaje się rozsądny.
+**1. Grizzlies @ Hawks -> Typ: Hawks**
 
-### Lakers @ Kings -> Typ: Kings
+*   **Kluczowe braki w składach (stan na 28 stycznia 2026):**
+    *   **Memphis Grizzlies:**
+        *   Ja Morant (Lewy łokieć, naderwanie UCL) 🤕 [OUT]
+        *   Brandon Clarke (Prawa łydka, naciągnięcie) 🤕 [OUT]
+        *   Zach Edey (Lewa kostka, reakcja stresowa) 🤕 [OUT]
+        *   Ty Jerome (Prawa łydka, naciągnięcie) 🤕 [OUT]
+        *   Scotty Pippen Jr. (Lewy paluch, rekonwalescencja po operacji) 🤕 [OUT]
+        *   Brak zawodników ze statusem 'Questionable'.
+    *   **Atlanta Hawks:**
+        *   Kristaps Porzingis (Lewe ścięgno Achillesa, tendinopatia) 🤕 [OUT]
+        *   Zaccharie Risacher (Lewe kolano, stłuczenie kości) 🤕 [OUT]
+        *   N'Faly Dante (Prawe kolano, zerwane ACL) 🤕 [OUT na sezon]
+        *   Dyson Daniels (Prawa kostka, zwichnięcie) ❓ [Questionable]
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
-*   **Werdykt:** [⚠️ RYZYKOWNY] Brak aktualnych informacji o składach i kontuzjach z dzisiejszego dnia (2026-07-28) sprawia, że ocena jest obarczona dużym ryzykiem. Nie mogę zatwierdzić typu bez bieżących danych.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Atlanta Hawks, pomimo własnych braków, wydaje się być w znacznie lepszej sytuacji kadrowej niż zdziesiątkowani kontuzjami Memphis Grizzlies. Grizzlies brakuje kluczowych graczy na wielu pozycjach, co mocno osłabia ich potencjał ofensywny i defensywny.
+
+---
+
+**2. Lakers @ Kings -> Typ: Kings**
+
+*   **Kluczowe braki w składach (stan na 12 stycznia 2026):**
+    *   **Los Angeles Lakers:**
+        *   Austin Reaves (Lewa łydka, naciągnięcie II stopnia mięśnia brzuchatego) 🤕 [OUT]
+        *   Adou Thiero (Prawe MCL, zwichnięcie) 🤕 [OUT]
+        *   Rui Hachimura (Problemy z łydką) ❓ [Questionable]
+    *   **Sacramento Kings:**
+        *   Domantas Sabonis (Lewe kolano, częściowe naderwanie łąkotki) 🤕 [OUT]
+        *   Keegan Murray (Lewa kostka, zwichnięcie) 🤕 [OUT]
+        *   Isaiah Stevens (Dwuetapowy kontrakt, status 'day-to-day') ❓ (często jako OUT dla G League)
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny borykają się z istotnymi brakami. Kings brakuje kluczowego Sabonisa i Murraya, co znacząco wpływa na ich siłę podkoszową i ofensywę. Lakers również mają osłabioną rotację, szczególnie bez Reavesa i Thiero, a wątpliwy status Hachimury dodatkowo zwiększa ryzyko. Typ jest ryzykowny ze względu na dużą liczbę absencji po obu stronach, co czyni wynik meczu mniej przewidywalnym.
