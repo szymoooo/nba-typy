@@ -1,15 +1,27 @@
---- AUDYT PLK LIVE (2026-07-28 03:54 CET) ---
+--- AUDYT PLK LIVE (2026-07-28 09:40 CET) ---
 Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+Dzisiejsza data to 2026-07-28, więc mecz już się odbył. Wynik meczu finałowego (Game 7) pomiędzy Legią Warszawa a ORLEN Zastalem Zielona Góra to 78:70 dla Legii Warszawa, co oznaczało zdobycie mistrzostwa przez Legię.
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate był niedostępny z powodu sezonowej kontuzji nadgarstka, której doznał w lutym 2026 roku.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
-
-2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Dane z API PulsBasketu dla tej serii nie są dostępne. Jednakże, w sezonie 2025/2026 do czołowych strzelców zespołu należeli Chavaughn Lewis (średnio 15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) oraz Andrzej Mazurczak (11.8 Pkt/mecz).
-    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 2026-06-21 i był siódmym, decydującym spotkaniem finałowym, w którym Legia Warszawa zdobyła mistrzostwo Polski. Typ na Legię Warszawa był trafny. Dodatkowo, Legia przystąpiła do tego finałowego meczu bez potwierdzonych poważnych osłabień, podczas gdy Zastal musiał radzić sobie bez Sagaby Konate.
+    *   **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-21. Zawodnicy tacy jak Andrzej Pluta, Jayvon Graves, Michał Kolenda i Ojārs Siliņš, którzy mieli problemy zdrowotne wcześniej w sezonie 2025/2026, byli aktywni i punktowali w Game 7 finałów. Doniesienia o kontuzjach piłkarzy Legii Warszawa (np. Antonio Colak, Rafał Adamski) są nieistotne dla tego meczu koszykówki.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21. Podstawowi gracze, w tym Andrzej Mazurczak, wystąpili w finale.
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21 - Game 7):**
+    *   **Legia Warszawa:**
+        *   Andrzej Pluta: 15 punktów
+        *   Dominic Brewton III: 11 punktów
+        *   Race Thompson: 11 punktów
+        *   Shane Hunter: 10 punktów
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Andy Mazurczak: 10 punktów
+        *   Jayvon Maughmer: 10 punktów
+        *   Chavaughn Lewis: 10 punktów
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Mecz był siódmym i decydującym spotkaniem finałowym, co zwiększa wagę przewagi własnego parkietu. Legia Warszawa grała u siebie w OSiR Warszawa Bemowo.
+    *   Obie drużyny przystąpiły do meczu w najsilniejszych składach, bez kluczowych kontuzji liderów.
+    *   Topowi strzelcy Legii Warszawa zaprezentowali dobrą formę w decydującym spotkaniu, prowadząc drużynę do zwycięstwa.
