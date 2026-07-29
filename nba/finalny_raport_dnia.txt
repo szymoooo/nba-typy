@@ -1,24 +1,39 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-29 01:22 ET) ---
-Oto analiza Twoich typów na podstawie danych z 29 lipca 2026, z uwzględnieniem składów ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-29 04:08 ET) ---
+Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-07-29):
 
 ---
-
 ### Grizzlies @ Hawks -> Typ: Hawks
 
-*   **Kluczowe braki w składach (2026-07-29):** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Składy (Styczeń 2026):**
-    *   **Grizzlies:** Ja Morant (PG), Jaren Jackson Jr. (PF/C), Brandon Clarke (PF), Zach Edey (C).
-    *   **Hawks:** Z silnym składem w styczniu 2026, w tym CJ McCollum (PG), Trae Young (PG), Jalen Johnson (PF), Jonathan Kuminga (PF) i Onyeka Okongwu (C).
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Biorąc pod uwagę siłę składu Hawks w styczniu 2026, w tym ich mocną linię obwodową i wszechstronny frontcourt, typ na Hawks jest uzasadniony.
+*   **Kluczowe braki w składach:**
+    *   **Memphis Grizzlies:**
+        *   Ja Morant: Wymieniony do Portland Trail Blazers 29 czerwca 2026 r.
+        *   Brandon Clarke: Zmarł 11 maja 2026 r.
+        *   Zach Edey: Przeszedł operację łokcia, oczekiwany pełny powrót na sezon 2026-27.
+        *   Jaylen Wells: Złamanie dużego palca u prawej stopy, poza grą do końca sezonu 2025-26.
+        *   Scotty Pippen Jr.: Operacja dużego palca u prawej stopy, poza grą do końca sezonu 2025-26.
+    *   **Atlanta Hawks:**
+        *   Mouhamed Gueye: Złamana lewa stopa, poza grą na 3-4 miesiące od lipca 2026 r., przewidywany powrót na październik-listopad 2026 r.
+        *   Eli Ndiaye: Zerwane obrąbki barkowej, poza grą do końca sezonu 2025-26.
+        *   Jacob Toppin: Zerwane obrąbki barkowej, poza grą do końca sezonu 2025-26.
+*   **Aktualne raporty o kontuzjach (Injury Report):** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Grizzlies stracili dwóch kluczowych graczy (Moranta i Clarke'a), co znacząco osłabia ich skład, pomimo nabytków w drafcie 2026. Hawks, mimo kilku kontuzji i braku aktywnych statusów GTD, mają bardziej stabilny skład i dokonali istotnych wzmocnień od stycznia 2026 r. (np. Devin Carter, Luguentz Dort). Jednak znaczne straty Grizzlies czynią ten typ bardzo ryzykownym ze względu na niepewność co do ich obecnej siły.
 
 ---
-
 ### Lakers @ Kings -> Typ: Kings
 
-*   **Kluczowe braki w składach (2026-07-29):** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Składy (Styczeń 2026):**
-    *   **Lakers:** Posiadając supergwiazdy takie jak LeBron James (SF), Luka Dončić (SF) i Austin Reaves (SG) w styczniu 2026, Lakers mają znaczną przewagę talentu.
-    *   **Kings:** Ich skład w styczniu 2026 obejmuje graczy takich jak Zach LaVine (SG), Malik Monk (SG), Domantas Sabonis (C) i Keegan Murray (SF).
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Pomimo solidnego składu Kings, zespół Lakers ze stycznia 2026 z LeBronem Jamesem, Luką Dončiciem i Austinem Reavesem wydaje się być znacznie silniejszy. Typ na Kings jest ryzykowny wobec takiej przewagi talentu Lakers.
+*   **Kluczowe braki w składach:**
+    *   **Los Angeles Lakers:**
+        *   LeBron James: Ogłosił, że nie będzie grał dla Lakers od sezonu 2026-27. Jest to ogromna strata.
+        *   Luka Doncić: Kontuzja ścięgna podkolanowego w kwietniu 2026 r., w trakcie rehabilitacji. Jego gotowość na hipotetyczny mecz dzisiaj jest niepewna.
+        *   Austin Reaves: Kontuzja mięśnia skośnego brzucha w kwietniu 2026 r., w trakcie rehabilitacji.
+    *   **Sacramento Kings:**
+        *   Domantas Sabonis: Przeszedł sezonową operację kolana (zerwany lewy łąkotka) w lutym 2026 r.
+        *   De'Andre Hunter: Przeszedł sezonową operację oka w lutym 2026 r.
+        *   Zach LaVine: Przeszedł sezonową operację ręki w lutym 2026 r. Chociaż zdecydował się pozostać w zespole, jego powrót do pełnej sprawności jest kluczowy.
+        *   Keegan Murray: Skręcenie lewej kostki, prawdopodobnie poza grą do końca sezonu 2025-26.
+        *   DeMar DeRozan: Zwolniony 5 lipca 2026 r.
+        *   Devin Carter: Wymieniony do Hawks.
+*   **Aktualne raporty o kontuzjach (Injury Report):** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Obie drużyny borykają się z poważnymi brakami. Lakers stracili LeBrona Jamesa, a Luka Doncić i Austin Reaves mieli niedawne kontuzje. Kings również mają liczne i poważne kontuzje (Sabonis, Hunter, LaVine z sezonu 2025-26). Ze względu na tak wiele kluczowych absencji po obu stronach, typ jest bardzo ryzykowny, a wynik hipotetycznego meczu trudny do przewidzenia.
