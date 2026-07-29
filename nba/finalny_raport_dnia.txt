@@ -1,30 +1,40 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-28 20:10 ET) ---
-Oto analiza Twoich typów na podstawie dostępnych danych z sieci (2026-07-28), z uwzględnieniem składów ze stycznia 2026 i aktualnych raportów o kontuzjach:
+--- KRYTYCZNY AUDYT LIVE (2026-07-28 21:58 ET) ---
+Na podstawie danych z 2026-07-28, analizuję Twoje typy dla meczów ze stycznia 2026:
 
 ---
 
 ### Grizzlies @ Hawks -> Typ: Hawks
 
-*   **Skład (styczeń 2026, sezon 2025-26):**
-    *   **Memphis Grizzlies:** Zawodnicy tacy jak Ja Morant, Jaren Jackson Jr., Brandon Clarke byli częścią składu. Eric Gordon został wytransferowany.
-    *   **Atlanta Hawks:** Skład obejmował między innymi takich graczy jak Buddy Hield, Jalen Johnson, Onyeka Okongwu, Jonathan Kuminga, CJ McCollum i Zaccharie Risacher.
-*   **Kluczowe braki w składach (2026-07-28):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Wcześniejsze raporty (z końca sezonu 2025-26) wskazywały, że Ja Morant, Brandon Clarke i Zach Edey zostali wykluczeni z gry na resztę sezonu 2025-26 z powodu kontuzji. Raport z 28 lipca 2026 r. wskazuje, że Morant i Jaren Jackson dobrze wracają po kontuzjach. Atlanta Hawks, według raportu z 9 lipca 2026 r., nie miała żadnych zawodników na liście kontuzjowanych.
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak potwierdzonych, aktualnych (2026-07-28) kontuzji z oficjalnym statusem "Out", "Questionable" lub "GTD" dla NBA, które mogłyby wpłynąć na ryzyko tego typu.
+*   **Kluczowe braki w składach (stan na 21 stycznia 2026):**
+    *   **Memphis Grizzlies:**
+        *   Scotty Pippen Jr. (kontuzja palca u nogi) 🩹 OUT
+        *   Zach Edey (kostka) 🩹 OUT
+        *   Ty Jerome (łydka) 🩹 OUT
+        *   Brandon Clarke (łydka) 🩹 OUT
+        *   Santi Aldama (ból prawego kolana) ⚠️ Day-to-day
+    *   **Atlanta Hawks:**
+        *   Kristaps Porzingis (zapalenie lewego ścięgna Achillesa) 🩹 OUT (re-ewaluacja około 26 stycznia)
+        *   Zaccharie Risacher (stłuczenie kości lewego kolana) 🩹 OUT (re-ewaluacja około 26 stycznia)
+        *   N'Faly Dante (operacja kolana) 🩹 OUT (do końca sezonu)
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny miały znaczące braki kadrowe w styczniu 2026. Hawks byli osłabieni brakiem Kristapsa Porzingisa i Zaccharie Risachera, co ograniczało ich obronę w strefie podkoszowej i spacing. Grizzlies również brakowało kilku graczy rotacji, w tym Zacha Edey'a i Brandona Clarke'a. Mimo to, Ja Morant i Jaren Jackson Jr. byli dostępni dla Grizzlies. Patrząc na skalę kontuzji Hawks, typ na Hawks jest ryzykowny, choć byli faworytem z przewagą 2.5 punktu w tym meczu.
 
 ---
 
 ### Lakers @ Kings -> Typ: Kings
 
-*   **Skład (styczeń 2026, sezon 2025-26):**
-    *   **Los Angeles Lakers:** Skład obejmował między innymi LeBrona Jamesa, Lukę Doncica, Austina Reavesa, Deandre Aytona i Marcusa Smarta.
-    *   **Sacramento Kings:** Skład obejmował między innymi Domantasa Sabonisa, Keegana Murraya, DeMara DeRozana, Malika Monka i Zachariego LaVine'a.
-*   **Kluczowe braki w składach (2026-07-28):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Raporty z końca sezonu 2025-26 wskazywały na poważne kontuzje w składzie Kings, w tym Domantas Sabonis (operacja kolana), Zach LaVine (operacja ręki) i De'Andre Hunter (operacja oka) byli wykluczeni z gry na resztę sezonu. Keegan Murray również miał zakończyć sezon wcześniej z powodu kontuzji. Dla Lakers, raport z 14 lipca 2026 r. wskazywał na nieobecność Luki Doncica i Austina Reavesa, oraz wątpliwy status LeBrona Jamesa i Jaxsona Hayesa na mecz. Jednakże, brak jest potwierdzonych informacji o kontuzjach z 28 lipca 2026 r. ze statusami "Out", "Questionable" lub "GTD".
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak potwierdzonych, aktualnych (2026-07-28) kontuzji z oficjalnym statusem "Out", "Questionable" lub "GTD" dla NBA, które mogłyby wpłynąć na ryzyko tego typu.
+*   **Kluczowe braki w składach (stan na 12 stycznia 2026):**
+    *   **Sacramento Kings:**
+        *   Domantas Sabonis (kontuzja kolana) 🩹 OUT (powrót nie wcześniej niż pod koniec stycznia)
+        *   Keegan Murray (skręcenie lewej kostki) 🩹 OUT (brak określonej daty powrotu)
+        *   Dennis Schroder (zawieszenie ligowe) 🩹 OUT
+        *   Isaiah Stevens (kontrakt dwukierunkowy) ⚠️ Day-to-day
+    *   **Los Angeles Lakers:**
+        *   Austin Reaves (naciągnięcie mięśnia łydki Grade 2) 🩹 OUT (min. 4 tygodnie)
+        *   Adou Thiero (skręcenie MCL prawego kolana) 🩹 OUT (powrót pod koniec stycznia)
+        *   Rui Hachimura (problem z łydką) ⚠️ QUESTIONABLE
+        *   Gabe Vincent (ból pleców) ❓ DOUBTFUL
 
----
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Kings byli poważnie osłabieni brakiem kluczowych graczy takich jak Domantas Sabonis i Keegan Murray. Sabonis, trzykrotny All-Star, był wykluczony z gry z powodu kontuzji kolana, a Murray opuścił czwarty mecz z rzędu z powodu skręcenia kostki. Lakers również mieli swoje braki, z Austinem Reavesem i Adou Thiero na liście kontuzjowanych. Przy tak poważnych osłabieniach w Kings, typ na nich jest ryzykowny, mimo że Lakers również borykali się z kontuzjami.
