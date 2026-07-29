@@ -1,14 +1,18 @@
---- AUDYT PLK LIVE (2026-07-29 12:36 CET) ---
-Poniżej analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, który odbył się 2026-06-21:
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+--- AUDYT PLK LIVE (2026-07-29 12:49 CET) ---
+Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   Brak istotnych, potwierdzonych braków w składach koszykarskich obu drużyn na dzień meczu (2026-06-21) ani bezpośrednio przed nim, które byłyby szeroko komentowane.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Race Thompson, który zmagał się z problemami zdrowotnymi, zagrał w decydującym meczu finałowym, notując 11 punktów. Michał Kolenda, mimo późniejszego planowego zabiegu stawu skokowego (informacja z lipca 2026), również wystąpił w meczu finałowym, zdobywając 8 punktów.
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate był poza składem do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła nadgarstka, którego doznał w lutym 2026 roku.
 
-2.  **Aktualna forma top scorerów:**
-    *   **Legia Warszawa:** Liderzy punktowi w sezonie 2025/2026 to Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). Andrzej Pluta Jr. został wybrany MVP Sezonu oraz MVP Finałów PLK 2025/2026, co świadczy o jego wyśmienitej formie w kluczowym momencie sezonu.
-    *   **ORLEN Zastal Zielona Góra:** Wiodący strzelcy w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+2.  **Aktualna forma top scorerów (dla meczu 2026-06-21):**
+    *   **Legia Warszawa:**
+        *   Andrzej Pluta: 15 punktów (w tym 1/6 za trzy), 5 asyst w 29:23 minutach.
+        *   Dominic Brewton III: 11 punktów (w tym 1/3 za trzy), 8 asyst w 26:02 minutach.
+        *   Race Thompson: 11 punktów (4/7 za dwa), 5 zbiórek w 23:47 minutach.
+        *   Jayvon Graves: 9 punktów (2/3 za dwa), 10 zbiórek w 29:00 minutach.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Brak danych z API dla tego zespołu dla meczu finałowego z dnia 2026-06-21. Jednak w poprzednim meczu serii (2026-06-19), kluczowymi strzelcami byli Chavaughn Lewis (18 punktów), Conley Garrison (17 punktów), Andrzej Mazurczak (15 punktów) i Jakub Szumert (12 punktów). Sezonowymi liderami punktowymi Zastalu byli Chavaughn Lewis (średnio 15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem Finałów PLK, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra wynikiem 78-70, zdobywając Mistrzostwo Polski. Legia Warszawa była gospodarzem meczu. Biorąc pod uwagę fakt, że typ na Legię Warszawa okazał się trafny, a drużyna świętowała zdobycie tytułu Mistrza Polski na własnym parkiecie, typ jest zatwierdzony.
+    Legia Warszawa wygrała ten decydujący, siódmy mecz finałowy Orlen Basket Ligi 78:70, broniąc tym samym tytułu Mistrza Polski. Mecz odbył się na własnym parkiecie Legii w Hali Bemowo, co dało jej przewagę własnego boiska w kluczowym spotkaniu serii. Zastal grał bez kontuzjowanego Sagaby Konate, co osłabiło ich strefę podkoszową przez całe play-offy.
