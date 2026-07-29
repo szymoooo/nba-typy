@@ -1,40 +1,24 @@
---- KRYTYCZNY AUDYT LIVE (2026-07-28 21:58 ET) ---
-Na podstawie danych z 2026-07-28, analizuję Twoje typy dla meczów ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-07-29 01:22 ET) ---
+Oto analiza Twoich typów na podstawie danych z 29 lipca 2026, z uwzględnieniem składów ze stycznia 2026:
 
 ---
 
 ### Grizzlies @ Hawks -> Typ: Hawks
 
-*   **Kluczowe braki w składach (stan na 21 stycznia 2026):**
-    *   **Memphis Grizzlies:**
-        *   Scotty Pippen Jr. (kontuzja palca u nogi) 🩹 OUT
-        *   Zach Edey (kostka) 🩹 OUT
-        *   Ty Jerome (łydka) 🩹 OUT
-        *   Brandon Clarke (łydka) 🩹 OUT
-        *   Santi Aldama (ból prawego kolana) ⚠️ Day-to-day
-    *   **Atlanta Hawks:**
-        *   Kristaps Porzingis (zapalenie lewego ścięgna Achillesa) 🩹 OUT (re-ewaluacja około 26 stycznia)
-        *   Zaccharie Risacher (stłuczenie kości lewego kolana) 🩹 OUT (re-ewaluacja około 26 stycznia)
-        *   N'Faly Dante (operacja kolana) 🩹 OUT (do końca sezonu)
-
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Obie drużyny miały znaczące braki kadrowe w styczniu 2026. Hawks byli osłabieni brakiem Kristapsa Porzingisa i Zaccharie Risachera, co ograniczało ich obronę w strefie podkoszowej i spacing. Grizzlies również brakowało kilku graczy rotacji, w tym Zacha Edey'a i Brandona Clarke'a. Mimo to, Ja Morant i Jaren Jackson Jr. byli dostępni dla Grizzlies. Patrząc na skalę kontuzji Hawks, typ na Hawks jest ryzykowny, choć byli faworytem z przewagą 2.5 punktu w tym meczu.
+*   **Kluczowe braki w składach (2026-07-29):** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Składy (Styczeń 2026):**
+    *   **Grizzlies:** Ja Morant (PG), Jaren Jackson Jr. (PF/C), Brandon Clarke (PF), Zach Edey (C).
+    *   **Hawks:** Z silnym składem w styczniu 2026, w tym CJ McCollum (PG), Trae Young (PG), Jalen Johnson (PF), Jonathan Kuminga (PF) i Onyeka Okongwu (C).
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Biorąc pod uwagę siłę składu Hawks w styczniu 2026, w tym ich mocną linię obwodową i wszechstronny frontcourt, typ na Hawks jest uzasadniony.
 
 ---
 
 ### Lakers @ Kings -> Typ: Kings
 
-*   **Kluczowe braki w składach (stan na 12 stycznia 2026):**
-    *   **Sacramento Kings:**
-        *   Domantas Sabonis (kontuzja kolana) 🩹 OUT (powrót nie wcześniej niż pod koniec stycznia)
-        *   Keegan Murray (skręcenie lewej kostki) 🩹 OUT (brak określonej daty powrotu)
-        *   Dennis Schroder (zawieszenie ligowe) 🩹 OUT
-        *   Isaiah Stevens (kontrakt dwukierunkowy) ⚠️ Day-to-day
-    *   **Los Angeles Lakers:**
-        *   Austin Reaves (naciągnięcie mięśnia łydki Grade 2) 🩹 OUT (min. 4 tygodnie)
-        *   Adou Thiero (skręcenie MCL prawego kolana) 🩹 OUT (powrót pod koniec stycznia)
-        *   Rui Hachimura (problem z łydką) ⚠️ QUESTIONABLE
-        *   Gabe Vincent (ból pleców) ❓ DOUBTFUL
-
+*   **Kluczowe braki w składach (2026-07-29):** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Składy (Styczeń 2026):**
+    *   **Lakers:** Posiadając supergwiazdy takie jak LeBron James (SF), Luka Dončić (SF) i Austin Reaves (SG) w styczniu 2026, Lakers mają znaczną przewagę talentu.
+    *   **Kings:** Ich skład w styczniu 2026 obejmuje graczy takich jak Zach LaVine (SG), Malik Monk (SG), Domantas Sabonis (C) i Keegan Murray (SF).
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Kings byli poważnie osłabieni brakiem kluczowych graczy takich jak Domantas Sabonis i Keegan Murray. Sabonis, trzykrotny All-Star, był wykluczony z gry z powodu kontuzji kolana, a Murray opuścił czwarty mecz z rzędu z powodu skręcenia kostki. Lakers również mieli swoje braki, z Austinem Reavesem i Adou Thiero na liście kontuzjowanych. Przy tak poważnych osłabieniach w Kings, typ na nich jest ryzykowny, mimo że Lakers również borykali się z kontuzjami.
+    *   Pomimo solidnego składu Kings, zespół Lakers ze stycznia 2026 z LeBronem Jamesem, Luką Dončiciem i Austinem Reavesem wydaje się być znacznie silniejszy. Typ na Kings jest ryzykowny wobec takiej przewagi talentu Lakers.
