@@ -1,18 +1,11 @@
---- AUDYT PLK LIVE (2026-07-29 12:49 CET) ---
+--- AUDYT PLK LIVE (2026-07-29 17:52 CET) ---
 Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Race Thompson, który zmagał się z problemami zdrowotnymi, zagrał w decydującym meczu finałowym, notując 11 punktów. Michał Kolenda, mimo późniejszego planowego zabiegu stawu skokowego (informacja z lipca 2026), również wystąpił w meczu finałowym, zdobywając 8 punktów.
-    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate był poza składem do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła nadgarstka, którego doznał w lutym 2026 roku.
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate (silny skrzydłowy/środkowy) był wyłączony z gry do końca sezonu 2025/2026 z powodu kontuzji dłoni, której doznał podczas Pekao S.A. Pucharu Polski.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o transferach (np. Gyorgy Goloman, Zach Freemantle) dotyczą sezonu 2026/2027, a doniesienia o kontuzjach (np. Antonio Colak, Paweł Wszołek) dotyczą sekcji piłkarskiej Legii Warszawa.
 
-2.  **Aktualna forma top scorerów (dla meczu 2026-06-21):**
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta: 15 punktów (w tym 1/6 za trzy), 5 asyst w 29:23 minutach.
-        *   Dominic Brewton III: 11 punktów (w tym 1/3 za trzy), 8 asyst w 26:02 minutach.
-        *   Race Thompson: 11 punktów (4/7 za dwa), 5 zbiórek w 23:47 minutach.
-        *   Jayvon Graves: 9 punktów (2/3 za dwa), 10 zbiórek w 29:00 minutach.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Brak danych z API dla tego zespołu dla meczu finałowego z dnia 2026-06-21. Jednak w poprzednim meczu serii (2026-06-19), kluczowymi strzelcami byli Chavaughn Lewis (18 punktów), Conley Garrison (17 punktów), Andrzej Mazurczak (15 punktów) i Jakub Szumert (12 punktów). Sezonowymi liderami punktowymi Zastalu byli Chavaughn Lewis (średnio 15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa wygrała ten decydujący, siódmy mecz finałowy Orlen Basket Ligi 78:70, broniąc tym samym tytułu Mistrza Polski. Mecz odbył się na własnym parkiecie Legii w Hali Bemowo, co dało jej przewagę własnego boiska w kluczowym spotkaniu serii. Zastal grał bez kontuzjowanego Sagaby Konate, co osłabiło ich strefę podkoszową przez całe play-offy.
+    Legia Warszawa zwyciężyła w tym meczu (78:70), zdobywając mistrzostwo Polski w sezonie 2025/2026. Typ był trafny.
