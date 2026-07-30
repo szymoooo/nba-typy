@@ -1,40 +1,19 @@
---- AUDYT PLK LIVE (2026-07-30 12:22 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
-
-Mecz z 21.06.2026 był siódmym i decydującym spotkaniem finałów Orlen Basket Ligi sezonu 2025/2026. Legia Warszawa wygrała to spotkanie 78:70 i obroniła tytuł Mistrza Polski. Mecz odbył się w hali OSiR Warszawa Bemowo.
+--- AUDYT PLK LIVE (2026-07-30 19:41 CET) ---
+Analiza meczu PLK (data meczu z kontekstu: 2026-06-21; dzisiejsza data analizy: 2026-07-30). Należy zaznaczyć, że mecz odbył się w przeszłości. Poniższa analiza opiera się na aktualnych informacjach o składach drużyn na dzień 2026-07-30, w kontekście nadchodzącego sezonu 2026/2027 PLK.
 
 ---
 
-**ORLEN Zastal Zielona Góra**
-1.  **Kluczowe braki w składzie:**
-    *   Przed serią finałową (na 06.06.2026) Phil Fayne wracał ze Stanów Zjednoczonych, a jego dostępność na pierwsze mecze była niepewna. Andrzej Mazurczak grał w masce ochronnej z powodu urazu nosa, a Filip Matczak był oszczędzany z powodu nawrotu starego urazu.
-    *   W meczu numer 6 (19.06.2026), jak i w decydującym meczu numer 7 (21.06.2026), wszyscy wymienieni zawodnicy byli aktywni w składzie.
-    *   Brak istotnych braków w składzie koszykarskim, które wpłynęłyby na mecz 21.06.2026.
-2.  **Aktualna forma top scorerów:**
-    *   W meczu 21.06.2026 (Game 7), Andrzej Mazurczak był najlepszym strzelcem Zastalu z 10 punktami.
-    *   W sezonie 2025/2026 czołowymi strzelcami Zastalu byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
-3.  **Werdykt:** Brak danych z API dla tego zespołu.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
+Typ z PulsBasketu: Legia Warszawa
 
----
+1.  **Kluczowe braki w składach (stan na 2026-07-30):**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Kadra na sezon 2026/2027 jest w trakcie budowy. Do zespołu dołączyli m.in. Jakub Galewski (na trzy lata), Trazarien White (na pozycje 2/3) oraz Toyaz "Tay" Solomon (silny skrzydłowy/środkowy), który będzie debiutował w Europie. Kluczowi gracze obwodowi, Andrzej Mazurczak i Conley Garrison, pozostali w drużynie.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Legia aktywnie buduje skład na sezon 2026/2027. Zespół wzmocnili m.in. Kristers Zoriks, Jakub Andrzejewski, Markus Ilver, Szymon Tomczak, a także Gyorgy Goloman (środkowy z ligi hiszpańskiej) i Zach Freemantle (silny skrzydłowy z G-League). W kadrze pozostali Błażej Czapla, kapitan Michał Kolenda, Wojciech Tomaszewski i Dawid Niedziałkowski. Andrzej Pluta i Maksymilian Wilczek opuścili klub.
 
-**Legia Warszawa**
-1.  **Kluczowe braki w składzie:**
-    *   W grudniu 2025 roku Michał Kolenda i Matthias Tass byli kontuzjowani na dłużej, a Ojars Silins był niedostępny w jednym z meczów. Andrzej Pluta i Jayvon Graves wrócili wówczas do gry.
-    *   W decydującym meczu finałowym (21.06.2026) Legia wystąpiła w mocnym składzie i zdobyła mistrzostwo. Andrzej Pluta został wybrany MVP finałów.
-    *   Brak istotnych braków w składzie koszykarskim, które wpłynęłyby na mecz 21.06.2026.
-2.  **Aktualna forma top scorerów:**
-    *   W meczu 21.06.2026 (Game 7), Andrzej Pluta zdobył 15 punktów, Race Thompson 11 punktów, a Dominic Brewton III 11 punktów. Andrzej Pluta został także MVP finałów.
-    *   W sezonie 2025/2026 czołowymi strzelcami Legii byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+2.  **Aktualna forma top scorerów (stan na 2026-07-30):**
+    *   🏀 **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 wiodącymi strzelcami byli Jakub Szumert (średnio 15.8 pkt/mecz) i Andrzej Mazurczak (13.2 pkt/mecz). W kontekście nadchodzącego sezonu, Zastal liczy na kontynuację dobrej gry Mazurczaka i Garrisona, a także na nowe wzmocnienia, takie jak Trazarien White i Toyaz Solomon.
+    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu dotyczących konkretnych top scorerów z minionego sezonu 2025/2026 w udostępnionych źródłach. W kontekście budowy składu na sezon 2026/2027, kluczowymi zawodnikami są powracający kapitan Michał Kolenda oraz nowe zagraniczne wzmocnienia, takie jak Gyorgy Goloman i Zach Freemantle, którzy mają wnieść znaczącą jakość. Dominic Brewton był również kluczowym zawodnikiem w poprzedniej, mistrzowskiej kampanii.
 
----
-
-**Werdykt końcowy dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa:**
-
-*   **1. Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na mecz 21.06.2026.
-    *   **ORLEN Zastal Zielona Góra:** Pomimo wcześniejszych drobnych urazów (Fayne, Mazurczak, Matczak), wszyscy kluczowi zawodnicy byli dostępni i grali w meczach finałowych.
-*   **2. Aktualna forma top scorerów:**
-    *   **Legia Warszawa:** Andrzej Pluta był czołowym strzelcem w decydującym meczu (15 pkt) i został MVP finałów, co świadczy o jego doskonałej formie. Inni gracze jak Race Thompson i Dominic Brewton III również punktowali dwucyfrowo.
-    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak był najlepszym strzelcem Zastalu w Game 7 z 10 punktami.
-*   **3. Werdykt:** [✅ ZATWIERDZONY] – Legia Warszawa wygrała ten mecz 78:70 i zdobyła Mistrzostwo Polski.
+3.  **Werdykt:**
+    *   [✅ ZATWIERDZONY]
+    *   **Uzasadnienie (na podstawie składów z 2026-07-30 dla sezonu 2026/2027):** Legia Warszawa, jako aktualny mistrz Polski (sezon 2025/2026), aktywnie buduje bardzo silny skład na nadchodzący sezon 2026/2027, mając na celu zdobycie trzeciego z rzędu tytułu oraz rywalizację w Lidze Mistrzów FIBA. Pozyskanie doświadczonych graczy z silnych lig, takich jak Gyorgy Goloman (liga hiszpańska) i Zach Freemantle (G-League), w połączeniu z utrzymaniem kluczowych polskich zawodników, sugeruje utrzymanie, a nawet wzrost siły zespołu. ORLEN Zastal Zielona Góra, wicemistrz Polski, również dokonuje ciekawych wzmocnień, ale Legia wydaje się dysponować większą głębią i doświadczeniem na papierze. Biorąc pod uwagę ambicje Legii i jakość dokonanych transferów, typ na Legię Warszawa wydaje się uzasadniony.
