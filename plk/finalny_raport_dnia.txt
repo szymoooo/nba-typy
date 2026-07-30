@@ -1,22 +1,40 @@
---- AUDYT PLK LIVE (2026-07-30 20:09 CET) ---
-**PLK typy na 2026-06-21**
+--- AUDYT PLK LIVE (2026-07-30 22:56 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
+OK, as a rigorous analyst, I need to focus on the information relevant to 2026-07-30 and the 2025-26/2026-27 season for basketball. The match date is 2026-06-21, which is in the past. My analysis should reflect the teams' status *as of today, 2026-07-30*, and not retroactively try to find injuries for a past specific date, unless it's a known long-term absence or a player no longer with the team.
+
+Let's process the match:
+
+---
 **ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (środkowy) – kontuzja dłoni, wykluczony z gry do końca sezonu 2025/2026 od 28 lutego 2026 roku.
-        *   Odnotowano również "walkę z urazami w szeregach Zastalu" na początku czerwca 2026 roku, jednak bez konkretnych nazwisk wykluczonych graczy, poza powracającym Philem Fayne'em.
-    *   🏀 **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21.06.2026. Wcześniejsze doniesienia o kontuzjach Michała Kolendy i Matthiasa Tassa z grudnia 2025 roku, wskazujące na kilkutygodniową/kilkumiesięczną przerwę, nie potwierdzają ich absencji w czerwcu 2026 roku. Michał Kolenda przeszedł planowy zabieg stawu skokowego dopiero w lipcu 2026 roku, co sugeruje, że grał w finale.
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)**
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz
-        *   Jakub Szumert: 13.2 Pkt/mecz
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz
-    *   🏀 **Legia Warszawa:**
-        *   Andrzej Pluta Jr. został MVP Sezonu i MVP Finałów PLK 2025/2026.
-        *   Brak danych z API dla tego zespołu dla pozostałych indywidualnych top scorerów ze średnią punktową na mecz.
+    *   **ORLEN Zastal Zielona Góra (koszykówka):**
+        *   Wiadomo, że 29.07.2026 Gauthier Denis (Francuz z doświadczeniem europejskim) został nowym zawodnikiem Zastalu na sezon 2026/27.
+        *   22.07.2026 Toyaz "Tay" Solomon został nowym zawodnikiem Zastalu Zielona Góra.
+        *   18.07.2026 Jakub Galewski podpisał umowę z Zastalem do 2029 roku.
+        *   Jan Wójcik wrócił do Zielonej Góry.
+        *   Zastal zakończył sezon 2025/26 jako wicemistrz Polski, przegrywając finał z Legią Warszawa.
+        *   Starsze doniesienia z 06.06.2026 (przed finałami sezonu 2025/26) wskazywały na problemy zdrowotne: Filip Matczak odczuwał dolegliwości związane ze starą kontuzją, a Dwight Wilson odczuwał skutki urazu kostki, ale trenował. Phil Fayne wrócił do zespołu na serię finałową. Brak aktualizacji o długoterminowych kontuzjach tych zawodników na dzień 2026-07-30.
+        *   Na dzień 2026-07-30, brak aktualnych doniesień o istotnych brakach w składzie koszykarskim, kontuzjach, czy zawieszeniach, które obowiązywałyby *teraz* i miały wpływ na sezon 2026/27, poza normalnym okresem transferowym.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku i był decydującym, siódmym spotkaniem finałowym ORLEN Basket Ligi. Legia Warszawa wygrała ten mecz 78:70 i obroniła tytuł Mistrza Polski. Mimo braku Sagaby Konate po stronie Zastalu, Legia grała u siebie i potwierdziła swoją dominację w serii.
+    *   **Legia Warszawa (koszykówka):**
+        *   28.07.2026 Michael Christmas (25 lat, 198 cm) został nowym zawodnikiem Legii Warszawa.
+        *   26.07.2026 Gyorgy Goloman, reprezentant Węgier, został nowym centrem Legii Warszawa na sezon 2026/27.
+        *   Legia Warszawa jest aktualnym mistrzem Polski.
+        *   W lipcu 2026 Legia finalizowała budowę składu na sezon 2026/27, z Kristers Zoriks, Gyorgy Goloman, Zach Freemantle wymienionymi jako wzmocnienia.
+        *   Starsze doniesienia z 09.12.2025 (w trakcie sezonu 2025/26) wskazywały na kontuzje Michała Kolendy i Matthiasa Tassa, którzy mieli pauzować przez kilka tygodni/miesięcy. Brak aktualizacji o ich obecnym statusie zdrowotnym na dzień 2026-07-30, sugerującej ich obecną niedostępność.
+        *   Na dzień 2026-07-30, brak aktualnych doniesień o istotnych brakach w składzie koszykarskim, kontuzjach, czy zawieszeniach, które obowiązywałyby *teraz* i miały wpływ na sezon 2026/27, poza normalnym okresem transferowym.
+
+    *   **Podsumowanie braków:** Brak istotnych braków w składzie koszykarskim dla obu drużyn, które byłyby aktualne na dzień 2026-07-30 i miałyby wpływ na ich ogólną siłę. Transfery są częścią budowy składów na nowy sezon.
+
+2.  **Aktualna forma top scorerów (jeżeli mam dane W SERII powyżej, uwzglednij je).**
+    *   Brak danych z API dla tego zespołu w kontekście historycznej formy w serii.
+    *   Michał Michalak, najskuteczniejszy Polak PLK w sezonie 2025/2026 (13,5 punktu na mecz), przeszedł z Anwilu Włocławek do Energi Trefla Sopot. Nie dotyczy Legii ani Zastalu.
+
+3.  **Werdykt:**
+    *   Mecz odbył się 2026-06-21. Legia Warszawa wygrała mistrzostwo Polski w sezonie 2025/2026, pokonując w finale ORLEN Zastal Zielona Góra. Typ użytkownika na Legię Warszawa był zgodny z historycznym wynikiem mistrzostw.
+    *   Analizując stan drużyn na dzień 2026-07-30, obie drużyny aktywnie budują składy na sezon 2026/27 poprzez transfery. Brak informacji o bieżących, długoterminowych kontuzjach kluczowych graczy, które mogłyby osłabić którąkolwiek z drużyn w perspektywie przyszłego sezonu.
+
+    [✅ ZATWIERDZONY]
