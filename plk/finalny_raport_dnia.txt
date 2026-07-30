@@ -1,16 +1,40 @@
---- AUDYT PLK LIVE (2026-07-30 12:01 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-07-30 12:22 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim w dniu meczu (2026-06-21). Kluczowi zawodnicy tacy jak Andrzej Mazurczak, Filip Matczak, Jakub Szumert i Krzysztof Sulima byli dostępni i wypowiadali się po szóstym meczu finałowym w tym dniu.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim w dniu meczu (2026-06-21). Wcześniejsze kontuzje Andrzeja Pluty, Jayvona Gravesa i Matthiasa Tassa (listopad 2025, styczeń 2026) zostały zażegnane przed finałami. Michał Kolenda przeszedł zabieg stawu skokowego w lipcu 2026, co wskazuje, że był dostępny na finały w czerwcu. Kluczowi zawodnicy jak Carl Ponsar, Dominic Brewton, Jayvon Graves i Andrzej Pluta byli aktywni w serii finałowej.
+Mecz z 21.06.2026 był siódmym i decydującym spotkaniem finałów Orlen Basket Ligi sezonu 2025/2026. Legia Warszawa wygrała to spotkanie 78:70 i obroniła tytuł Mistrza Polski. Mecz odbył się w hali OSiR Warszawa Bemowo.
 
+---
+
+**ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składzie:**
+    *   Przed serią finałową (na 06.06.2026) Phil Fayne wracał ze Stanów Zjednoczonych, a jego dostępność na pierwsze mecze była niepewna. Andrzej Mazurczak grał w masce ochronnej z powodu urazu nosa, a Filip Matczak był oszczędzany z powodu nawrotu starego urazu.
+    *   W meczu numer 6 (19.06.2026), jak i w decydującym meczu numer 7 (21.06.2026), wszyscy wymienieni zawodnicy byli aktywni w składzie.
+    *   Brak istotnych braków w składzie koszykarskim, które wpłynęłyby na mecz 21.06.2026.
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+    *   W meczu 21.06.2026 (Game 7), Andrzej Mazurczak był najlepszym strzelcem Zastalu z 10 punktami.
+    *   W sezonie 2025/2026 czołowymi strzelcami Zastalu byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+3.  **Werdykt:** Brak danych z API dla tego zespołu.
 
+---
+
+**Legia Warszawa**
+1.  **Kluczowe braki w składzie:**
+    *   W grudniu 2025 roku Michał Kolenda i Matthias Tass byli kontuzjowani na dłużej, a Ojars Silins był niedostępny w jednym z meczów. Andrzej Pluta i Jayvon Graves wrócili wówczas do gry.
+    *   W decydującym meczu finałowym (21.06.2026) Legia wystąpiła w mocnym składzie i zdobyła mistrzostwo. Andrzej Pluta został wybrany MVP finałów.
+    *   Brak istotnych braków w składzie koszykarskim, które wpłynęłyby na mecz 21.06.2026.
+2.  **Aktualna forma top scorerów:**
+    *   W meczu 21.06.2026 (Game 7), Andrzej Pluta zdobył 15 punktów, Race Thompson 11 punktów, a Dominic Brewton III 11 punktów. Andrzej Pluta został także MVP finałów.
+    *   W sezonie 2025/2026 czołowymi strzelcami Legii byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 i był siódmym, decydującym spotkaniem finałów ORLEN Basket Ligi sezonu 2025/2026.
-    *   Legia Warszawa zdobyła mistrzostwo Polski, pokonując Zastal Zielona Góra 4-3 w serii, wygrywając ostatni mecz u siebie 78:70.
-    *   Legia Warszawa była obrońcą tytułu i najlepszą drużyną sezonu zasadniczego.
-    *   Przewaga własnego parkietu Legii w decydującym meczu była istotnym atutem.
-    *   Brak potwierdzonych, kluczowych braków kadrowych w drużynie Legii Warszawa w dniu meczu finałowego.
+
+---
+
+**Werdykt końcowy dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa:**
+
+*   **1. Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na mecz 21.06.2026.
+    *   **ORLEN Zastal Zielona Góra:** Pomimo wcześniejszych drobnych urazów (Fayne, Mazurczak, Matczak), wszyscy kluczowi zawodnicy byli dostępni i grali w meczach finałowych.
+*   **2. Aktualna forma top scorerów:**
+    *   **Legia Warszawa:** Andrzej Pluta był czołowym strzelcem w decydującym meczu (15 pkt) i został MVP finałów, co świadczy o jego doskonałej formie. Inni gracze jak Race Thompson i Dominic Brewton III również punktowali dwucyfrowo.
+    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak był najlepszym strzelcem Zastalu w Game 7 z 10 punktami.
+*   **3. Werdykt:** [✅ ZATWIERDZONY] – Legia Warszawa wygrała ten mecz 78:70 i zdobyła Mistrzostwo Polski.
