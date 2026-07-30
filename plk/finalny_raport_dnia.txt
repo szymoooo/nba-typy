@@ -1,26 +1,35 @@
---- AUDYT PLK LIVE (2026-07-30 00:15 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21) na podstawie danych z 2026-07-30:
+--- AUDYT PLK LIVE (2026-07-30 09:31 CET) ---
+Analizuję mecz Orlen Zastal Zielona Góra @ Legia Warszawa, który w kontekście jest datowany na 2026-06-21. Biorę pod uwagę, że "DZISIEJSZA DATA TO: 2026-07-30" i ignoruję dane sprzed sezonu 2025-26, skupiając się na aktualnym statusie składów i kontuzji koszykarskich na dzień 2026-07-30.
 
-**ORLEN Zastal Zielona Góra**
-1.  **Kluczowe braki w składzie (na 2026-06-21):**
-    *   ❌ Sagaba Konate (silny skrzydłowy / środkowy): Kontuzja dłoni (uszkodzenie więzadła nadgarstka) zakończyła jego sezon 2025/26 w lutym 2026.
-    *   ❌ Chavaughn Lewis (rzucający): Doznał kontuzji w maju 2026, która wykluczyła go z meczów. Był najlepszym strzelcem drużyny (15.8 Pkt/mecz).
-    *   ❓ Miłosz Majewski (niski skrzydłowy / silny skrzydłowy): Ucierpiał w tym samym zdarzeniu co Lewis w maju 2026 i trafił do szpitala. Status na 21 czerwca był niepewny.
-    *   ❓ Filip Matczak (rozgrywający): Zgłosił nawrót starej kontuzji na początku czerwca 2026 i był oszczędzany przed finałową serią.
-    *   ❓ Dwight Wilson (środkowy): Nadal odczuwał skutki urazu kostki na początku czerwca 2026, choć uczestniczył w treningach.
-2.  **Aktualna forma top scorerów (dane z sezonu 2025/26):**
-    *   Chavaughn Lewis: 15.8 Pkt/mecz (niedostępny z powodu kontuzji)
-    *   Jakub Szumert: 13.2 Pkt/mecz
-    *   Andrzej Mazurczak: 11.8 Pkt/mecz
+---
 
-**Legia Warszawa**
-1.  **Kluczowe braki w składzie (na 2026-06-21):**
-    *   ✅ Brak istotnych, potwierdzonych braków w składzie koszykarskim na ten mecz. Andrzej Mazurczak, mimo wcześniejszej poważnej kontuzji, wrócił do formy na finały 2025/26.
-2.  **Aktualna forma top scorerów (dane z sezonu 2025/26):**
-    *   Dominic Brewton: 14.5 Pkt/mecz
-    *   Andrzej Pluta: 13.4 Pkt/mecz
-    *   Jayvon Graves: 12.8 Pkt/mecz
+### **ORLEN Zastal Zielona Góra**
 
-**Werdykt:** [✅ ZATWIERDZONY]
+1.  **Kluczowe braki w składzie koszykarskim (stan na 2026-07-30):**
+    *   Brak potwierdzonych istotnych kontuzji na dzień 2026-07-30.
+    *   Warto zauważyć, że drużyna aktywnie buduje skład na sezon 2026/2027. W lipcu 2026 pozyskali Gauthiera Denisa, francuskiego skrzydłowego. Wcześniej, w lipcu 2026, do Zastalu dołączył również Toyaz "Tay" Solomon oraz wrócili Veljko Brkić i Jan Wójcik. Kacper Traczyk został nowym asystentem trenera. Według stanu na 25 czerwca 2026, kadra na sezon 2026/27 obejmowała m.in. Andy'ego Mazurczaka, Conleya Garrisona, Filipa Matczaka, Trazariena White'a, Miłosza Majewskiego, Toyaza Solomona, Jana Wójcika, Veljko Brkicia, Krzysztofa Sulimę.
+    *   Zastal miał problemy z kontuzjami wysokich zawodników w lutym 2026, kiedy to Filip Matczak, Jakub Szumert i Sagaba Konate byli niedostępni lub odnieśli urazy podczas turnieju o Puchar Polski. Sagaba Konate doznał wtedy kontuzji nadgarstka. Jednakże, brak jest aktualnych informacji o tych kontuzjach na dzień 2026-07-30.
 
-**Uzasadnienie:** Pomimo, że data analizy (2026-07-30) jest po dacie meczu (2026-06-21), dostępne informacje o kontuzjach z sezonu 2025/26 potwierdzają poważne osłabienie ORLEN Zastalu Zielona Góra w decydującym meczu finałowym PLK. Brak kluczowych zawodników takich jak Sagaba Konate i Chavaughn Lewis, a także niepewny status innych graczy (Majewski, Matczak), znacząco obniżył siłę rażenia Zastalu. Legia Warszawa nie miała zgłoszonych podobnych problemów kadrowych, co dawało jej wyraźną przewagę. Historyczny wynik meczu (Legia 78, Zastal 70) potwierdza trafność typu.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+
+### **Legia Warszawa**
+
+1.  **Kluczowe braki w składzie koszykarskim (stan na 2026-07-30):**
+    *   **Michał Kolenda:** Przeszedł planowy zabieg stawu skokowego w ostatnich dniach lipca 2026. Przewidywany czas przerwy od treningów wynosi od 8 do 10 tygodni.
+    *   **Julian Dąbrowski:** Kontrakt z Legią do 2028 roku, ale przenosi się na uczelnię UC Davis w USA, aby kontynuować rozwój koszykarski. Oznacza to brak dostępności dla Legii.
+    *   Legia aktywnie wzmacnia skład na sezon 2026/2027. Nowymi zawodnikami zostali Zach Freemantle (29 lipca 2026), György Golomán (23 lipca 2026). DJ Brewton odszedł z Legii, przenosząc się do izraelskiego Bnei Herzliya. Ojārs Siliņš również odszedł do VEF Ryga. Race Thompson, zdobywca mistrzostwa Polski w ostatnim sezonie, przechodzi do niemieckiego Skyliners Frankfurt.
+    *   W 2025 roku Jerrick Harding (gracz Rytasu Wilno) doznał poważnej kontuzji w meczu przeciwko Legii, ale to nie dotyczy składu Legii.
+    *   W 2022 roku Grzegorz Kulka doznał kontuzji wykluczającej go z gry do końca sezonu. Ta informacja jest przestarzała i nieistotna dla 2026-07-30.
+    *   Informacja o Rafale Adamskim dotyczy sekcji piłkarskiej i jest nieistotna.
+
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+
+---
+
+### **Werdykt:**
+
+Biorąc pod uwagę aktualne informacje transferowe i kontuzje na dzień 2026-07-30, oraz fakt, że Legia Warszawa ma jednego kluczowego zawodnika (Michał Kolenda) wykluczonego na dłuższy czas (8-10 tygodni) z powodu zabiegu stawu skokowego, a także utratę Juliana Dąbrowskiego (przeniesienie do NCAA) i kilku innych zawodników (Brewton, Silins, Thompson), podczas gdy Zastal aktywnie buduje i wzmacnia swój skład. Ocena werdyktu, bez znajomości pełnych, zamkniętych składów na nadchodzący sezon 2026/2027 (które są w fazie budowy w lipcu), oraz bez danych o formie w serii (ponieważ mecz na 21.06.2026 już się odbył, a analiza jest na 30.07.2026), jest obarczona ryzykiem. Jednak z perspektywy *bieżącej dostępności zawodników na 2026-07-30*, Legia ma potwierdzony, długoterminowy brak Michała Kolendy. Zastal nie zgłasza obecnie istotnych braków.
+
+**Werdykt:** ⚠️ RYZYKOWNY (z uwagi na potwierdzoną kontuzję Michała Kolendy w Legii i brak pełnych, ugruntowanych składów na nadchodzący sezon dla obu drużyn, co utrudnia ocenę "aktualnej" siły).
