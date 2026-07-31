@@ -1,19 +1,28 @@
---- AUDYT PLK LIVE (2026-07-30 23:49 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-31 02:17 CET) ---
+**Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
 
-### Analiza:
+Hala/Miasto meczu: OSiR Warszawa Bemowo, Warszawa.
+Mecz był siódmym, decydującym spotkaniem finałowej serii.
 
+---
+
+**Legia Warszawa**
 1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa (koszykówka):** Brak potwierdzonych, istotnych braków w składzie koszykarskim na dzień 2026-07-30. W okresie przygotowawczym do nowego sezonu 2026/2027 klub skupia się na budowaniu składu i ogłaszaniu nowych kontraktów.
-    *   **ORLEN Zastal Zielona Góra (koszykówka):** Brak potwierdzonych, istotnych braków w składzie koszykarskim na dzień 2026-07-30. Podobnie jak inne kluby, Zastal prawdopodobnie finalizuje skład na nadchodzący sezon.
+    *   Brak istotnych braków w składzie koszykarskim na dzień meczu. Race Thompson, który wcześniej zmagał się z urazem stawu skokowego, zagrał w tym meczu. Michał Kolenda również wrócił do składu wcześniej w serii.
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
+    *   Andrzej Pluta: 15 Pkt
+    *   Race Thompson: 11 Pkt
+    *   Dominic Brewton III: 11 Pkt
+    *   Shane Hunter: 10 Pkt
+3.  **Werdykt:** [✅ ZATWIERDZONY] (Mocna Legia na własnym parkiecie, pełny skład i liderzy w formie w decydującym meczu).
 
-2.  **Aktualna forma top scorerów:**
-    *   Ze względu na to, że jest okres międzysezonowy (lipiec 2026), bezpośrednia "aktualna forma" top scorerów z minionego sezonu (2025/2026) jest trudna do oceny. Brak danych z API dla tego zespołu odnośnie aktualnej formy strzeleckiej w kontekście meczowym.
-    *   **Legia Warszawa:** W sezonie 2025/2026 czołowymi strzelcami Legii Warszawa byli m.in. Christian Vital oraz Aric Holman, którzy w znaczący sposób przyczynili się do wyników drużyny.
-    *   **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 wiodącym strzelcem Zastalu był m.in. Dusan Miletić.
-    *   Transfery i przedłużenia kontraktów w offseasonie 2026 będą kluczowe dla siły ofensywnej obu drużyn w nadchodzącym sezonie.
+---
 
-3.  **Werdykt:**
-    *   [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie:** Mecz jest datowany na 21.06.2026, a analiza odbywa się 30.07.2026. Okres międzysezonowy wiąże się z intensywnymi zmianami kadrowymi, transferami i brakiem oficjalnych informacji o formie zawodników. Brak dostępu do danych o składach i ewentualnych kontuzjach z faktycznej daty meczu (21.06.2026), a jedynie do aktualnych informacji z 30.07.2026. Analiza oparta na aktualnym stanie klubów w okresie transferowym jest obarczona wysokim ryzykiem, ponieważ składy i forma drużyn mogą się drastycznie różnić od tych z końcówki poprzedniego sezonu, a co za tym idzie, od sytuacji na dzień 21.06.2026.
-    *   Brak konkretnych danych o kontuzjach czy absencjach z daty meczu. Brak możliwości oceny aktualnej formy top scorerów w środku off-season.
+**ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składach:**
+    *   Sagaba Konate – poza sezonem z powodu kontuzji dłoni, doznanej w lutym 2026 r.
+    *   Filip Matczak – prawdopodobnie niedostępny z powodu przewlekłego urazu pachwiny (od lutego 2026 r.) oraz urazu nosa doznanego w pierwszym meczu finałowej serii (czerwiec 2026 r.).
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
+    *   Andrzej Mazurczak: 10 Pkt
+    *   Brak danych z API dla pozostałych wiodących strzelców Zastalu w tym konkretnym meczu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] (Osłabiony skład Zastalu, zwłaszcza pod koszem i na pozycji rzucającego obrońcy, co jest istotne w decydującym meczu finałowym).
