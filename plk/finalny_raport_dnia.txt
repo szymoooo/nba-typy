@@ -1,32 +1,16 @@
---- AUDYT PLK LIVE (2026-07-31 18:03 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
-
-Mecz ten był siódmym, decydującym spotkaniem finałów Orlen Basket Ligi, w którym Legia Warszawa podejmowała ORLEN Zastal Zielona Góra. Legia wygrała ten mecz wynikiem 78-70.
+--- AUDYT PLK LIVE (2026-07-31 19:54 CET) ---
+**PLK typy na 2026-06-21 (analiza na dzień 2026-07-31)**
 
 ---
-### ORLEN Zastal Zielona Góra
 
-1.  **Kluczowe braki w składzie:**
-    *   🏀 **Phil Fayne:** Wracający ze Stanów Zjednoczonych z powodów rodzinnych, jego gotowość na pierwszy mecz finałów (data wiadomości: 2026-06-06) była niepewna. Mimo powrotu, mógł nie być w pełni formy na decydujące spotkanie.
-    *   🩹 **Filip Matczak:** Odczuwał nawrót starego urazu, a sztab szkoleniowy starał się go oszczędzać przed finałami. Jego pełna dyspozycja w meczu nr 7 była prawdopodobnie ograniczona.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   Chavaughn Lewis: 15.8 Pkt/mecz
-    *   Jakub Szumert: 13.2 Pkt/mecz
-    *   Andrzej Mazurczak: 11.8 Pkt/mecz
-
----
-### Legia Warszawa
-
-1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim bezpośrednio potwierdzonych na dzień meczu 2026-06-21. W grudniu 2025 roku Legia borykała się z kontuzjami Michała Kolendy i Matthiasa Tassa, jednak brak informacji o ich statusie w czerwcu 2026 roku. Andrzej Pluta i Jayvon Graves powrócili do gry już w grudniu 2025.
+1.  **Kluczowe braki w składach (stan na 2026-07-31):**
+    *   **ORLEN Zastal Zielona Góra:** 🤕 Sagaba Konate doznał poważnego urazu więzadła nadgarstka w lutym 2026 roku, co zakończyło jego sezon 2025/2026. Brak aktualnych informacji o jego powrocie do pełnej sprawności na dzień 2026-07-31. 🤕 Chavaughn Lewis zgłosił kontuzję górnej części ciała w maju 2026 roku. Brak aktualnych informacji o jego statusie na dzień 2026-07-31. Zastal wzmocnił skład na sezon 2026/27 m.in. o Gauthiera Denisa, Toyaza "Taya" Solomona, Veljko Brkicia, Jana Wójcika i Jakuba Galewskiego.
+    *   **Legia Warszawa:** ✅ Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-07-31. Legia dokonała znaczących wzmocnień na sezon 2026/27, pozyskując m.in. Kristersa Zoriksa, Gyorgy'ego Golomana, Zacha Freemantle'a i Michaela Christmasa. Z zespołu odeszli m.in. Jayvon Graves, Shane Hunter i Julian Dąbrowski.
 
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
 
----
-### Werdykt:
-
-[✅ ZATWIERDZONY]
-
-**Uzasadnienie:** Pomimo niepewnej sytuacji zdrowotnej kluczowych graczy ORLEN Zastalu Zielona Góra (Phil Fayne i Filip Matczak) przed serią finałową, typ na Legię Warszawa jako zwycięzcę meczu jest zatwierdzony. Legia grała u siebie w siódmym, decydującym meczu finałów, co daje istotną przewagę parkietu. Wynik 78-70 na korzyść Legii potwierdza ich zwycięstwo w tej rywalizacji.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mimo że mecz był datowany na 2026-06-21, analiza opiera się na danych z 2026-07-31. Legia Warszawa, jako podwójny mistrz Polski, aktywnie wzmacnia skład na nadchodzący sezon 2026/27, co sugeruje silną drużynę. Brak potwierdzonych istotnych kontuzji w Legii. Z drugiej strony, ORLEN Zastal Zielona Góra ma niewyjaśniony status dwóch kluczowych graczy (Sagaba Konate, Chavaughn Lewis), którzy doznali poważnych kontuzji w poprzednim sezonie. Potencjalne braki lub ograniczona sprawność tych zawodników osłabiłyby Zastal.
