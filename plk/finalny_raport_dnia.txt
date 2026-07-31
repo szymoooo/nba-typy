@@ -1,15 +1,16 @@
---- AUDYT PLK LIVE (2026-07-31 07:46 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
-
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-07-31 10:39 CET) ---
+**PLK typy na 2026-06-21**
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+    *   **ORLEN Zastal Zielona Góra:** Rozgrywający Andrzej Mazurczak doznał złamania nosa przed serią finałową i grał w masce ochronnej. Mimo urazu wystąpił w meczu finałowym. Brak innych istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzji kapitana lub odejściu niektórych graczy pojawiły się po dacie meczu i nie dotyczyły tego spotkania.
 
-2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 wiodącymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) oraz Andrzej Mazurczak (11.8 Pkt/mecz).
-    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (seria finałowa / mecz finałowy):**
+    *   **Legia Warszawa:** W decydującym 7. meczu finału Andrzej Pluta zdobył 15 punktów, Race Thompson i Dominic Brewton III po 11 punktów, a Shane Hunter 10 punktów. W całym sezonie 2025/2026 Dominic Brewton III notował średnio 14.5 punktu na mecz, a Benjamin Shungu 14.31 punktu na mecz.
+    *   **ORLEN Zastal Zielona Góra:** W decydującym 7. meczu finału Andrzej Mazurczak zdobył 10 punktów. W sezonie 2025/2026 Chavaughn Lewis był najlepszym strzelcem Zastalu ze średnią 15.84 punktu na mecz, Jakub Szumert miał 13.2 punktu na mecz, a Andrzej Mazurczak 11.8 punktu na mecz.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowym, w którym Legia Warszawa zdobyła mistrzostwo Polski, pokonując Zastal. Grając u siebie w meczu o tytuł, Legia miała przewagę własnego parkietu, co jest kluczowe w finałach.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Mecz był decydującym, siódmym spotkaniem finałowym, rozgrywanym w Warszawie, na domowym parkiecie Legii. Legia była obrońcą tytułu i najlepszą drużyną sezonu zasadniczego.
+    *   Mimo ambitnej postawy Zastalu i kontuzji nosa kluczowego rozgrywającego Mazurczaka (który jednak zagrał), przewaga własnego parkietu i ogólna dyspozycja Legii w sezonie, zwłaszcza w fazie play-off, czyniły ich faworytami.
+    *   Legia Warszawa ostatecznie wygrała mecz 78:70 i zdobyła mistrzostwo Polski. Tip na Legię Warszawa był trafny.
