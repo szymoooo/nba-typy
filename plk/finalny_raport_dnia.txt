@@ -1,18 +1,32 @@
---- AUDYT PLK LIVE (2026-07-31 13:11 CET) ---
-Pamiętaj, że dzisiejsza data to 2026-07-31, a mecz odbył się 2026-06-21.
+--- AUDYT PLK LIVE (2026-07-31 18:03 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+
+Mecz ten był siódmym, decydującym spotkaniem finałów Orlen Basket Ligi, w którym Legia Warszawa podejmowała ORLEN Zastal Zielona Góra. Legia wygrała ten mecz wynikiem 78-70.
 
 ---
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+### ORLEN Zastal Zielona Góra
 
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Brak potwierdzonych istotnych braków w składzie koszykarskim na mecz 2026-06-21. W listopadzie 2025 roku kontuzjowani byli Andrzej Pluta, Jayvon Graves i Matthias Tass, ale artykuł wskazywał na ich powrót po przerwie reprezentacyjnej. Race Thompson doznał urazu we wrześniu 2025, który miał wykluczyć go na kilka tygodni, ale klub nie planował długoterminowych zastępstw, licząc na jego szybki powrót.
-    *   **ORLEN Zastal Zielona Góra:** W meczu o 7. miejsce w maju 2026 roku (przed play-off) z Anwilem Włocławek, Zastal grał bez swojego najlepszego strzelca Chavaughna Lewisa, który odczuwał skutki zderzenia i Miłosza Majewskiego, którzy trafili do szpitala po meczu z Dzikami Warszawa. W Pucharze Polski w lutym 2026 roku Zastal nie mógł korzystać z Filipa Matczaka, Jakuba Szumerta, a także Sagaby Konate. Nie ma jednak aktualnych doniesień o ich kontuzjach na czerwiec 2026 roku. Artykuł z 6 czerwca 2026 roku informuje o powrocie Fayne'a i walce z urazami, co sugeruje, że Zastal borykał się z problemami kadrowymi, jednak nie precyzuje kto dokładnie był niedostępny na finałową serię z Legią.
+1.  **Kluczowe braki w składzie:**
+    *   🏀 **Phil Fayne:** Wracający ze Stanów Zjednoczonych z powodów rodzinnych, jego gotowość na pierwszy mecz finałów (data wiadomości: 2026-06-06) była niepewna. Mimo powrotu, mógł nie być w pełni formy na decydujące spotkanie.
+    *   🩹 **Filip Matczak:** Odczuwał nawrót starego urazu, a sztab szkoleniowy starał się go oszczędzać przed finałami. Jego pełna dyspozycja w meczu nr 7 była prawdopodobnie ograniczona.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Chavaughn Lewis: 15.8 Pkt/mecz
+    *   Jakub Szumert: 13.2 Pkt/mecz
+    *   Andrzej Mazurczak: 11.8 Pkt/mecz
+
+---
+### Legia Warszawa
+
+1.  **Kluczowe braki w składzie:**
+    *   Brak istotnych braków w składzie koszykarskim bezpośrednio potwierdzonych na dzień meczu 2026-06-21. W grudniu 2025 roku Legia borykała się z kontuzjami Michała Kolendy i Matthiasa Tassa, jednak brak informacji o ich statusie w czerwcu 2026 roku. Andrzej Pluta i Jayvon Graves powrócili do gry już w grudniu 2025.
 
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
-    *   **ORLEN Zastal Zielona Góra:** Chavaughn Lewis był najlepszym strzelcem zespołu w sezonie 2025/2026 ze średnią 18.5 pkt, będąc trzecim strzelcem PLK. Jego status na dzień meczu (2026-06-21) jest niejasny, biorąc pod uwagę wcześniejszą kontuzję z maja 2026 roku.
-    *   **Legia Warszawa:** Brak konkretnych danych o najlepszych strzelcach w serii finałowej. W ogólnych statystykach drużynowych Legia Warszawa notowała średnio 86.7 punktów na mecz w sezonie 2025/2026.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+---
+### Werdykt:
 
-    Legia Warszawa wygrała ten mecz 78:70 i obroniła tytuł Mistrza Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra w finale 4-3. Mecz ten był decydującym, siódmym spotkaniem serii finałowej, rozgrywanym w hali Bemowo. Legia zdobyła mistrzostwo.
+[✅ ZATWIERDZONY]
+
+**Uzasadnienie:** Pomimo niepewnej sytuacji zdrowotnej kluczowych graczy ORLEN Zastalu Zielona Góra (Phil Fayne i Filip Matczak) przed serią finałową, typ na Legię Warszawa jako zwycięzcę meczu jest zatwierdzony. Legia grała u siebie w siódmym, decydującym meczu finałów, co daje istotną przewagę parkietu. Wynik 78-70 na korzyść Legii potwierdza ich zwycięstwo w tej rywalizacji.
