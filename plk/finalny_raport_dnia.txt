@@ -1,16 +1,11 @@
---- AUDYT PLK LIVE (2026-07-31 19:54 CET) ---
-**PLK typy na 2026-06-21 (analiza na dzień 2026-07-31)**
+--- AUDYT PLK LIVE (2026-07-31 21:42 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa (Mecz z 2026-06-21)
 
----
+1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Race Thompson był kontuzjowany (uraz stawu skokowego) i był poza składem w półfinałach na początku czerwca 2026 roku. Brak informacji o jego powrocie przed 21 czerwca 2026, co sugeruje jego niedostępność.
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate doznał kontuzji dłoni, która wykluczyła go z gry do końca sezonu 2025/2026, co potwierdzono 28 lutego 2026 roku. Chavaughn Lewis był zgłoszony jako niedostępny na mecz 8 maja 2026 roku. Informacje z początku czerwca 2026 dotyczące przygotowań do finałów i "walki z urazami" nie wymieniają go wśród aktywnych opcji, co może sugerować jego dalszą niedostępność lub ograniczenia w grze.
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
-
-1.  **Kluczowe braki w składach (stan na 2026-07-31):**
-    *   **ORLEN Zastal Zielona Góra:** 🤕 Sagaba Konate doznał poważnego urazu więzadła nadgarstka w lutym 2026 roku, co zakończyło jego sezon 2025/2026. Brak aktualnych informacji o jego powrocie do pełnej sprawności na dzień 2026-07-31. 🤕 Chavaughn Lewis zgłosił kontuzję górnej części ciała w maju 2026 roku. Brak aktualnych informacji o jego statusie na dzień 2026-07-31. Zastal wzmocnił skład na sezon 2026/27 m.in. o Gauthiera Denisa, Toyaza "Taya" Solomona, Veljko Brkicia, Jana Wójcika i Jakuba Galewskiego.
-    *   **Legia Warszawa:** ✅ Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-07-31. Legia dokonała znaczących wzmocnień na sezon 2026/27, pozyskując m.in. Kristersa Zoriksa, Gyorgy'ego Golomana, Zacha Freemantle'a i Michaela Christmasa. Z zespołu odeszli m.in. Jayvon Graves, Shane Hunter i Julian Dąbrowski.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mimo że mecz był datowany na 2026-06-21, analiza opiera się na danych z 2026-07-31. Legia Warszawa, jako podwójny mistrz Polski, aktywnie wzmacnia skład na nadchodzący sezon 2026/27, co sugeruje silną drużynę. Brak potwierdzonych istotnych kontuzji w Legii. Z drugiej strony, ORLEN Zastal Zielona Góra ma niewyjaśniony status dwóch kluczowych graczy (Sagaba Konate, Chavaughn Lewis), którzy doznali poważnych kontuzji w poprzednim sezonie. Potencjalne braki lub ograniczona sprawność tych zawodników osłabiłyby Zastal.
+    *   Przewidywanie Legii Warszawa jako zwycięzcy okazało się trafne, ponieważ Legia Warszawa zdobyła mistrzostwo Polski 21 czerwca 2026 roku, wygrywając finałową serię z ORLEN Zastalem Zielona Góra. Mimo braków w składach obu drużyn, Legia zdołała przypieczętować zwycięstwo.
