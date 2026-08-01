@@ -1,27 +1,20 @@
---- AUDYT PLK LIVE (2026-08-01 18:14 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, 2026-06-21:
+--- AUDYT PLK LIVE (2026-08-01 19:26 CET) ---
+Analiza meczu na dzień 2026-08-01:
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (środkowy) - wykluczony z gry do końca sezonu od lutego 2026 z powodu poważnej kontuzji nadgarstka.
-        *   Chavaughn Lewis (rzucający/niski skrzydłowy) - czołowy strzelec zespołu, doznał urazu w maju 2026 i odczuwał jego skutki, co czyniło jego występ w finale ryzykownym lub niemożliwym.
-        *   Miłosz Majewski - również doznał urazu w tym samym zdarzeniu co Lewis w maju 2026.
-        *   Phil Fayne (silny skrzydłowy) - powrócił do składu na serię finałową od 6 czerwca 2026.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+
+1.  **Kluczowe braki w składach koszykarskich (na dzień 2026-08-01):**
+
     *   🏀 **Legia Warszawa:**
-        *   Michał Kolenda (niski skrzydłowy) i Matthias Tass (środkowy) - na koniec 2025 roku mieli długoterminowe kontuzje, które wykluczały ich na "kilka tygodni, a nawet miesięcy". Brak potwierdzenia ich powrotu przed finałem, ale skład na sezon 2025/2026 w PLK ich uwzględniał. Kapitan Legii przeszedł operację stawu skokowego w lipcu 2026, co jest po dacie meczu.
-        *   Brak innych istotnych braków w składzie koszykarskim potwierdzonych na dzień meczu.
+        *   Kapitan Legii przeszedł zabieg stawu skokowego 22.07.2026 i jest obecnie niedostępny.
+        *   Dominic Brewton III i Jayvon Graves, dwaj z czołowych strzelców Legii w sezonie 2025/2026, opuścili klub.
+        *   Trwa poszukiwanie następcy Andrzeja Pluty, co sugeruje jego brak w kadrze na nadchodzący sezon. Pluta był również czołowym strzelcem w sezonie 2025/2026.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Brak istotnych braków w składzie koszykarskim potwierdzonych na 2026-08-01. (Informacje o kontuzji Sagaby Konate z lutego 2026 r. dotyczyły końca sezonu 2025/2026; brak aktualizacji statusu na 2026-08-01).
 
 2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis był trzecim najlepszym strzelcem ligi PLK w sezonie 2025/2026 ze średnią 18.5 punktów na mecz, ale jego forma była prawdopodobnie zaburzona przez kontuzję z maja 2026.
-        *   Brak danych z API dla tego zespołu.
-    *   🏀 **Legia Warszawa:**
-        *   Dominic Brewton III - średnio 14.5 Pkt/mecz w sezonie 2025/2026.
-        *   Andrzej Pluta - średnio 13.4 Pkt/mecz w sezonie 2025/2026.
-        *   Jayvon Graves - średnio 12.8 Pkt/mecz w sezonie 2025/2026.
+    *   Brak danych z API dla tego zespołu. Dodatkowo, z uwagi na odejście kluczowych strzelców Legii z poprzedniego sezonu (Dominic Brewton III, Jayvon Graves) oraz poszukiwanie następcy Andrzeja Pluty, ich forma z zakończonej serii jest nieistotna dla oceny aktualnego składu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa grała u siebie (Hala OSiR Bemowo, Warszawa) w decydującym, siódmym meczu finałowym PLK, co stanowiło znaczącą przewagę własnego parkietu.
-    *   Legia Warszawa ostatecznie zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra 4-3 w serii finałowej, a ostatni mecz wygrała 78:70.
-    *   ORLEN Zastal Zielona Góra przystąpił do finału osłabiony długoterminową kontuzją Sagaby Konate, a także prawdopodobnie urazem kluczowego strzelca, Chavaughna Lewisa.
-    *   Pomimo wcześniejszych problemów kadrowych Legii, drużyna w kluczowym momencie sezonu wydawała się być w dobrej dyspozycji.
+3.  **Werdykt:**
+    *   [⚠️ RYZYKOWNY]
+    *   **Uzasadnienie:** Chociaż Legia Warszawa triumfowała nad Zastalem Zielona Góra w finale sezonu 2025/2026, zdobywając mistrzostwo 21 czerwca 2026 roku, analiza aktualnej sytuacji na dzień 1 sierpnia 2026 roku wskazuje na znaczące osłabienia w składzie Legii. Klub stracił kluczowych zawodników ofensywnych, takich jak Dominic Brewton III i Jayvon Graves, a także poszukiwany jest następca Andrzeja Pluty. Dodatkowo, operacja stawu skokowego kapitana zespołu 22 lipca 2026 roku oznacza jego niedostępność. Te liczne zmiany kadrowe i absencje sprawiają, że typ na Legię Warszawa, oparty na poprzednim sezonie, jest obarczony wysokim ryzykiem w kontekście aktualnej siły drużyny.
