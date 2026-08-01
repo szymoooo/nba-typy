@@ -1,22 +1,22 @@
---- AUDYT PLK LIVE (2026-08-01 21:57 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-01 22:06 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
----
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (silny skrzydłowy/środkowy): Koniec sezonu od lutego 2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka.
+    *   🏀 **Legia Warszawa:**
+        *   Race Thompson (zawodnik): Zmagał się z problemami zdrowotnymi i był nieobecny w serii finałowej.
 
-**1. Kluczowe braki w składach:**
+2.  **Aktualna forma top scorerów:**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: Wiodący strzelec z 15.8 Pkt/mecz w sezonie 2025/2026. Był bohaterem meczu finałowego 8 czerwca 2026, zdobywając zwycięską trójkę.
+        *   Jakub Szumert: Drugi najlepszy strzelec z 13.2 Pkt/mecz. Był wymieniany jako kluczowy zawodnik w maju 2026.
+        *   Andrzej Mazurczak: Trzeci najlepszy strzelec z 11.8 Pkt/mecz. Kluczowy zawodnik w maju 2026.
+    *   🏀 **Legia Warszawa:**
+        *   Brak danych z API dla tego zespołu.
 
-*   🏀 **ORLEN Zastal Zielona Góra:**
-    *   **Sagaba Konate:** W lutym 2026 roku doznał awulsyjnego uszkodzenia więzadła SL nadgarstka, co zakończyło dla niego sezon 2025/2026. Byłby niedostępny na mecz 21 czerwca 2026.
-    *   **Filip Matczak:** Na początku czerwca 2026 zgłaszał dolegliwości związane ze starą kontuzją, co skutkowało odpuszczeniem treningów w celu uniknięcia zaostrzenia bólu przed serią finałową. Jego status na dzień meczu mógł być ograniczony.
-    *   **Dwight Wilson:** Na początku czerwca 2026 nadal odczuwał skutki urazu kostki, choć normalnie uczestniczył w treningach. Jego pełna dyspozycja mogła być obniżona.
-*   🏀 **Legia Warszawa:**
-    *   Brak istotnych braków w składzie koszykarskim. Najnowsze doniesienia z lipca/sierpnia 2026 dotyczą transferów na nadchodzący sezon 2026/2027 (np. Michael Christmas, Zach Freemantle), a doniesienia o kontuzjach innych sekcji (np. piłkarskiego Zagłębia Lubin) są nieistotne. Nie znaleziono informacji o bieżących kontuzjach lub zawieszeniach dla koszykarskiej Legii Warszawa, które wpływałyby na mecz 21 czerwca 2026.
-
-**2. Aktualna forma top scorerów:**
-
-*   Brak danych z API dla tego zespołu.
-
-**3. Werdykt:**
-
-*   ⚠️ **RYZYKOWNY**
-    *   Typ na Legię Warszawa jest **ryzykowny** ze względu na znaczące osłabienia w składzie ORLEN Zastalu Zielona Góra, zwłaszcza długotrwałą absencję Sagaby Konate oraz problemy zdrowotne Filipa Matczaka i Dwighta Wilsona w okresie poprzedzającym mecz. Chociaż Legia Warszawa (określana jako "aktualny mistrz Polski" w lipcu 2026 r.) wydaje się mieć pełny skład i dobrą formę, braki kluczowych zawodników w drużynie przeciwnej zwiększają nieprzewidywalność wyniku meczu finałowego, co może sprawić, że zakład staje się bardziej ryzykowny, mimo że Legia jest faworytem.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz 2026-06-21 był 7. meczem serii finałowej, co oznacza, że był to decydujący pojedynek.
+    *   Obie drużyny miały istotne braki kadrowe – Zastal bez Sagaby Konate (koniec sezonu), a Legia bez Race'a Thompsona (problemy zdrowotne w finałach).
+    *   Zgromadzone dane wskazują, że kluczowi strzelcy Zastalu byli w dobrej formie w okresie finałów.
+    *   Typ na Legię Warszawa, jako gospodarza decydującego meczu finałowego, jest uzasadniony, biorąc pod uwagę przewagę własnego parkietu w tak kluczowym spotkaniu.
