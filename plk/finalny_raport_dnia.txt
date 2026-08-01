@@ -1,16 +1,22 @@
---- AUDYT PLK LIVE (2026-08-01 20:55 CET) ---
-Analiza meczu PLK na dzień 2026-06-21 (Audyt na podstawie danych z 2026-08-01):
+--- AUDYT PLK LIVE (2026-08-01 21:57 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa
+---
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Brak istotnych, aktualnych (stan na 2026-08-01) braków w składzie koszykarskim. Klub jest w trakcie intensywnych transferów przed sezonem 2026/2027, pozyskując m.in. Michaela Christmasa, Kristersa Zoriksa, Gyorgya Golomana i Zacha Freemantle'a, co świadczy o aktywnym budowaniu silnej kadry.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych, aktualnych (stan na 2026-08-01) braków w składzie koszykarskim. Zastal również aktywnie działa na rynku transferowym, wzmacniając skład na nadchodzący sezon 2026/2027, m.in. o Gauthiera Denisa i Jana Wójcika. W lutym 2026 roku odnotowano kontuzje Filipa Matczaka, Jakuba Szumerta i Sagaby Konate, ale nie ma aktualnych informacji potwierdzających ich niedyspozycję na dzień 2026-08-01, ani też czy były istotne dla meczu w czerwcu.
-    *   *Informacje o kontuzjach piłkarzy Legii Warszawa (Zlatan Alomerovic, Dominik Hładun, Jasmin Burić, Arkadiusz Reca, Rafał Augustyniak, Artur Jędrzejczyk, Noah Weisshaupt) oraz Jerricka Hardinga (Rytas Wilno, październik 2025) zostały zignorowane, ponieważ dotyczą innej sekcji sportowej lub nie są aktualne dla tej analizy koszykarskiej.*
+**1. Kluczowe braki w składach:**
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+*   🏀 **ORLEN Zastal Zielona Góra:**
+    *   **Sagaba Konate:** W lutym 2026 roku doznał awulsyjnego uszkodzenia więzadła SL nadgarstka, co zakończyło dla niego sezon 2025/2026. Byłby niedostępny na mecz 21 czerwca 2026.
+    *   **Filip Matczak:** Na początku czerwca 2026 zgłaszał dolegliwości związane ze starą kontuzją, co skutkowało odpuszczeniem treningów w celu uniknięcia zaostrzenia bólu przed serią finałową. Jego status na dzień meczu mógł być ograniczony.
+    *   **Dwight Wilson:** Na początku czerwca 2026 nadal odczuwał skutki urazu kostki, choć normalnie uczestniczył w treningach. Jego pełna dyspozycja mogła być obniżona.
+*   🏀 **Legia Warszawa:**
+    *   Brak istotnych braków w składzie koszykarskim. Najnowsze doniesienia z lipca/sierpnia 2026 dotyczą transferów na nadchodzący sezon 2026/2027 (np. Michael Christmas, Zach Freemantle), a doniesienia o kontuzjach innych sekcji (np. piłkarskiego Zagłębia Lubin) są nieistotne. Nie znaleziono informacji o bieżących kontuzjach lub zawieszeniach dla koszykarskiej Legii Warszawa, które wpływałyby na mecz 21 czerwca 2026.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa zdobyła Mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra w finale rozegranym 21 czerwca 2026 roku. Typ "Legia Warszawa" był zatem prawidłowy w odniesieniu do faktycznego wyniku meczu. Na dzień 2026-08-01 Legia, jako mistrz Polski, kontynuuje wzmacnianie składu, co potwierdza jej ambicje na nadchodzący sezon.
+**2. Aktualna forma top scorerów:**
+
+*   Brak danych z API dla tego zespołu.
+
+**3. Werdykt:**
+
+*   ⚠️ **RYZYKOWNY**
+    *   Typ na Legię Warszawa jest **ryzykowny** ze względu na znaczące osłabienia w składzie ORLEN Zastalu Zielona Góra, zwłaszcza długotrwałą absencję Sagaby Konate oraz problemy zdrowotne Filipa Matczaka i Dwighta Wilsona w okresie poprzedzającym mecz. Chociaż Legia Warszawa (określana jako "aktualny mistrz Polski" w lipcu 2026 r.) wydaje się mieć pełny skład i dobrą formę, braki kluczowych zawodników w drużynie przeciwnej zwiększają nieprzewidywalność wyniku meczu finałowego, co może sprawić, że zakład staje się bardziej ryzykowny, mimo że Legia jest faworytem.
