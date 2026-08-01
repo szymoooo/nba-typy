@@ -1,14 +1,20 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-01 17:03 ET) ---
-Oto analiza Twojego typu na podstawie danych z 2026-08-01, z uwzględnieniem raportów kontuzji ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-08-01 17:10 ET) ---
+Heat @ Raptors -> Typ: Raptors
 
-### Heat @ Raptors -> Typ: Raptors
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Miami Heat:**
+        *   Tyler Herro: OUT (kontuzja żeber/palca u nogi) 🤕
+        *   Jaime Jaquez Jr.: Questionable (skręcenie lewego kolana) 🤔
+        *   Davion Mitchell: Questionable/Day-To-Day (stłuczenie lewego ramienia) 🤔
+        *   Kel'el Ware: OUT (ścięgno podkolanowe) 🤕
+    *   **Toronto Raptors:**
+        *   Jakob Poeltl: OUT (problemy z plecami) 🤕
+        *   RJ Barrett: OUT (skręcenie lewej kostki) 🤕
+        *   Scottie Barnes: Questionable/Unavailable (skręcenie prawego kolana/kontuzja kolana) 🤔
+        *   Brandon Ingram: Questionable/Sidelined (problem z kciukiem/palcem) 🤔
+        *   Ja'Kobe Walter: OUT (kontuzja kostki/biodra) 🤕
+        *   Immanuel Quickley: Questionable (skurcze pleców) 🤔
+        *   Sandro Mamukelashvili: Questionable (choroba) 🤔
+        *   Collin Murray-Boyles: Questionable (kciuk) 🤔
 
-*   **Kluczowe braki w składach:**
-    *   **Heat**: Brak aktualnych raportów (Injury Report) na tę chwilę (raporty z 25 i 31 stycznia 2026 wskazywały "NOT YET SUBMITTED" dla Miami Heat).
-    *   **Raptors**:
-        *   Jakob Poeltl: Out (Lower Back; Strain) 🩹
-        *   Immanuel Quickley: Questionable (Right Ankle; Soreness) ❓
-        *   Collin Murray-Boyles: Questionable (Left Thumb; Contusion) ❓
-
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typowanie Raptors jest ryzykowne ze względu na potwierdzone braki w składzie, w tym kluczowego środkowego Jakoba Poeltla (Out) oraz Immanuela Quickleya i Collina Murray-Boylesa, których status był wątpliwy (Questionable) w styczniu 2026. Brak informacji o brakach w składzie Heat dodatkowo zwiększa niepewność.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Toronto Raptors borykają się z licznymi i znaczącymi brakami kadrowymi, w tym kluczowymi graczami jak Poeltl, Barrett, Barnes i Ingram, którzy byli albo wykluczeni, albo mieli status "Questionable" w styczniu 2026. Skutkuje to poważnym osłabieniem zespołu. Mimo że Heat również mają kontuzje, Raptors wydają się być bardziej dotknięci, co czyni ich typ ryzykownym.
