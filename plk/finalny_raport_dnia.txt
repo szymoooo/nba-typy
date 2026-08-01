@@ -1,22 +1,26 @@
---- AUDYT PLK LIVE (2026-08-01 22:06 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-02 01:13 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
     *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (silny skrzydłowy/środkowy): Koniec sezonu od lutego 2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka.
+        *   Sagaba Konate (silny skrzydłowy/środkowy) – kontuzja dłoni, wykluczony z gry do końca sezonu 2025/2026 od lutego 2026.
     *   🏀 **Legia Warszawa:**
-        *   Race Thompson (zawodnik): Zmagał się z problemami zdrowotnymi i był nieobecny w serii finałowej.
+        *   Brak istotnych braków w składzie koszykarskim potwierdzonych kontuzjami, zawieszeniami lub foul-outami na dzień meczu. Race Thompson, który zmagał się z urazem stawu skokowego wcześniej w play-offach, zagrał w tym meczu.
 
-2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: Wiodący strzelec z 15.8 Pkt/mecz w sezonie 2025/2026. Był bohaterem meczu finałowego 8 czerwca 2026, zdobywając zwycięską trójkę.
-        *   Jakub Szumert: Drugi najlepszy strzelec z 13.2 Pkt/mecz. Był wymieniany jako kluczowy zawodnik w maju 2026.
-        *   Andrzej Mazurczak: Trzeci najlepszy strzelec z 11.8 Pkt/mecz. Kluczowy zawodnik w maju 2026.
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
     *   🏀 **Legia Warszawa:**
-        *   Brak danych z API dla tego zespołu.
+        *   Andrzej Pluta: 15 punktów
+        *   Race Thompson: 11 punktów
+        *   Dominic Brewton III: 11 punktów
+        *   Shane Hunter: 10 punktów
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak: 10 punktów
+        *   Jayvon Maughmer: 10 punktów
+        *   Chavaughn Lewis: 10 punktów
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz 2026-06-21 był 7. meczem serii finałowej, co oznacza, że był to decydujący pojedynek.
-    *   Obie drużyny miały istotne braki kadrowe – Zastal bez Sagaby Konate (koniec sezonu), a Legia bez Race'a Thompsona (problemy zdrowotne w finałach).
-    *   Zgromadzone dane wskazują, że kluczowi strzelcy Zastalu byli w dobrej formie w okresie finałów.
-    *   Typ na Legię Warszawa, jako gospodarza decydującego meczu finałowego, jest uzasadniony, biorąc pod uwagę przewagę własnego parkietu w tak kluczowym spotkaniu.
+    *   Mecz był siódmym, decydującym spotkaniem finału ORLEN Basket Ligi (sezon 2025/2026).
+    *   Legia Warszawa grała na własnym parkiecie w hali OSiR Warszawa Bemowo.
+    *   Zastal miał osłabienie w postaci kontuzjowanego Sagaby Konate.
+    *   Legia Warszawa zwyciężyła ten mecz wynikiem 78:70 i obroniła tytuł Mistrza Polski.
+    *   Dobre występy kluczowych zawodników Legii w decydującym spotkaniu, w połączeniu z przewagą własnego parkietu w finale, uzasadniają pierwotny typ.
