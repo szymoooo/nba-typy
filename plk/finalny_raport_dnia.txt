@@ -1,29 +1,16 @@
---- AUDYT PLK LIVE (2026-08-01 20:31 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-01 20:55 CET) ---
+Analiza meczu PLK na dzień 2026-06-21 (Audyt na podstawie danych z 2026-08-01):
 
-Dzisiejsza data: 2026-08-01. Poniższa analiza opiera się na informacjach aktualnych na dzień 2026-08-01, z uwzględnieniem statusu zespołów w okolicy daty meczu (2026-06-21), który był 7. meczem finałów PLK.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ: Legia Warszawa
 
----
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:** Brak istotnych, aktualnych (stan na 2026-08-01) braków w składzie koszykarskim. Klub jest w trakcie intensywnych transferów przed sezonem 2026/2027, pozyskując m.in. Michaela Christmasa, Kristersa Zoriksa, Gyorgya Golomana i Zacha Freemantle'a, co świadczy o aktywnym budowaniu silnej kadry.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych, aktualnych (stan na 2026-08-01) braków w składzie koszykarskim. Zastal również aktywnie działa na rynku transferowym, wzmacniając skład na nadchodzący sezon 2026/2027, m.in. o Gauthiera Denisa i Jana Wójcika. W lutym 2026 roku odnotowano kontuzje Filipa Matczaka, Jakuba Szumerta i Sagaby Konate, ale nie ma aktualnych informacji potwierdzających ich niedyspozycję na dzień 2026-08-01, ani też czy były istotne dla meczu w czerwcu.
+    *   *Informacje o kontuzjach piłkarzy Legii Warszawa (Zlatan Alomerovic, Dominik Hładun, Jasmin Burić, Arkadiusz Reca, Rafał Augustyniak, Artur Jędrzejczyk, Noah Weisshaupt) oraz Jerricka Hardinga (Rytas Wilno, październik 2025) zostały zignorowane, ponieważ dotyczą innej sekcji sportowej lub nie są aktualne dla tej analizy koszykarskiej.*
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
-
-**Typ z PulsBasketu (2026-06-21):** Legia Warszawa
-
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   **Sagaba Konate** (silny skrzydłowy/środkowy): Doznał poważnego urazu więzadła nadgarstka podczas Pucharu Polski w lutym 2026 roku, co wykluczyło go z gry na resztę sezonu 2025/2026. Był to kluczowy brak w składzie na finały.
-        *   **Filip Matczak i Jakub Szumert:** W lutym 2026 roku obaj borykali się z kontuzjami, jednak dla Szumerta nie wykluczano powrotu do gry w późniejszych meczach pucharowych. Brak potwierdzonych informacji o ich statusie na dzień meczu finałowego (21.06.2026), ale Phil Fayne, inny gracz, wrócił do składu na finały.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21.06.2026. Informacje o kontuzjach piłkarzy (np. Petar Stojanović, Zlatan Alomerovic) są nieistotne dla meczu koszykówki. Kapitan Legii przeszedł operację stawu skokowego 22.07.2026, czyli już po omawianym meczu.
-
-2.  **Aktualna forma top scorerów (z danych za sezon 2025/2026, bo brak danych API dla serii):**
-    *   🏀 **ORLEN Zastal Zielona Góra (sezon 2025/2026):**
-        *   Chavaughn Lewis (15.8 Pkt/mecz)
-        *   Jakub Szumert (13.2 Pkt/mecz)
-        *   Andrzej Mazurczak (11.8 Pkt/mecz)
-    *   🏀 **Legia Warszawa:**
-        *   Brak danych z API dla tego zespołu w zakresie top scorerów w serii lub za sezon 2025/2026 w dostępnych źródłach.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-
-    Mecz z 21 czerwca 2026 roku był 7. i decydującym spotkaniem finałowym Polskiej Ligi Koszykówki, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, zdobywając tytuł Mistrza Polski. Spotkanie odbyło się w Warszawie, na hali OSiR Bemowo. Pomimo osłabienia Zastalu brakiem Sagaby Konate, zespół z Zielonej Góry stawiał twardy opór w całej serii, wygrywając m.in. mecz 6. finałów. Jednak Legia, grając u siebie w decydującym meczu i bez znaczących osłabień, była faworytem. Ostateczny wynik potwierdza trafność typu.
+    *   Legia Warszawa zdobyła Mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra w finale rozegranym 21 czerwca 2026 roku. Typ "Legia Warszawa" był zatem prawidłowy w odniesieniu do faktycznego wyniku meczu. Na dzień 2026-08-01 Legia, jako mistrz Polski, kontynuuje wzmacnianie składu, co potwierdza jej ambicje na nadchodzący sezon.
