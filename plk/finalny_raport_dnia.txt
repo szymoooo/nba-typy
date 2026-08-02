@@ -1,34 +1,23 @@
---- AUDYT PLK LIVE (2026-08-02 21:56 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-02 23:03 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
 
-Dzisiejsza data: 2026-08-02. Mecz odbył się 21 czerwca 2026 roku i był 7. meczem finałów Orlen Basket Ligi, decydującym o mistrzostwie.
+---
 
-### ORLEN Zastal Zielona Góra
+**ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składzie:** Brak istotnych braków w składzie koszykarskim. Informacja o kontuzji Sagaby Konate z lutego 2026 dotyczyła zakończenia sezonu 2025/2026 i nie ma aktualnego potwierdzenia jego niedostępności na dzień 2026-08-02 ani na sezon 2026/2027.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
 
-1.  **Kluczowe braki w składzie:**
-    *   ❌ **Sagaba Konate** (środkowy) – Sezon-endingowa kontuzja dłoni, której doznał w lutym 2026 roku.
-    *   ⚠️ **Filip Matczak** (rozgrywający/rzucający) – Doznał urazu nosa w pierwszym meczu finałowym (8 czerwca 2026). Przed finałami odczuwał również dolegliwości związane ze starą kontuzją. Jego dostępność i pełna sprawność w decydującym meczu mogły być ograniczone.
-    *   ✅ **Phil Fayne** (silny skrzydłowy) – Powrócił do zespołu na serię finałową po przebywaniu w USA z powodów rodzinnych.
-    *   ✅ **Dwight Wilson** (silny skrzydłowy) – Mimo wcześniejszego urazu kostki, normalnie trenował i był dostępny na finały.
+---
 
-2.  **Aktualna forma top scorerów:**
-    *   **Andrzej Mazurczak** (rozgrywający) – Zdobył 10 punktów w meczu finałowym 21 czerwca 2026 roku.
-    *   Brak danych z API dla tego zespołu.
+**Legia Warszawa**
+1.  **Kluczowe braki w składzie:** Brak istotnych braków w składzie koszykarskim. Raporty o kontuzji Roberta Deziela Juniora z 2026-08-02 dotyczą zawodnika sekcji piłkarskiej Legii Warszawa, co jest nieistotne dla meczu koszykówki.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
 
-### Legia Warszawa
+---
 
-1.  **Kluczowe braki w składzie:**
-    *   ✅ Brak istotnych braków w składzie koszykarskim. Zawodnicy tacy jak Andrzej Pluta, Jayvon Graves i Matthias Tass, którzy borykali się z kontuzjami w listopadzie 2025 roku, wrócili do gry znacznie wcześniej i byli dostępni na finały.
-
-2.  **Aktualna forma top scorerów:**
-    *   **Andrzej Pluta** (rozgrywający) – Zdobył 15 punktów w meczu finałowym 21 czerwca 2026 roku i został uznany MVP Finałów sezonu 2025/2026.
-    *   **Race Thompson** (silny skrzydłowy) – Zdobył 11 punktów w meczu finałowym 21 czerwca 2026 roku.
-    *   **Dominic Brewton III** (rozgrywający/rzucający) – Zdobył 11 punktów w meczu finałowym 21 czerwca 2026 roku.
-    *   **Shane Hunter** (środkowy) – Zdobył 10 punktów w meczu finałowym 21 czerwca 2026 roku.
-    *   Brak danych z API dla tego zespołu.
-
-### Werdykt
-
-Legia Warszawa przystępowała do 7. meczu finałowego jako mistrz i zajmowała 1. miejsce po sezonie zasadniczym. Zastal Zielona Góra miał kluczową, sezon-endingową kontuzję Sagaby Konate oraz uraz nosa Filipa Matczaka, co osłabiało ich rotację. Legia dysponowała pełnym składem i miała w swoich szeregach MVP Finałów, Andrzeja Plutę. Biorąc pod uwagę wagę meczu (finał OBL, mecz 7/7) oraz kompletny skład Legii w porównaniu do osłabień Zastalu, typ na Legię Warszawa był dobrze uzasadniony.
-
-**[✅ ZATWIERDZONY]**
+**Ogólny Werdykt dla meczu (ORLEN Zastal Zielona Góra @ Legia Warszawa):**
+*   **Typ:** Legia Warszawa
+*   **Analiza:** Brak bieżących (2026-08-02) potwierdzonych kontuzji koszykarskich w obu zespołach. Historycznie, Legia Warszawa obroniła tytuł Mistrza Polski 21.06.2026, co wskazuje na siłę drużyny. Biorąc pod uwagę brak negatywnych czynników wynikających z aktualnych kontuzji koszykarskich, pierwotny typ na Legię Warszawa pozostaje zasadny.
+*   **Werdykt:** [✅ ZATWIERDZONY]
