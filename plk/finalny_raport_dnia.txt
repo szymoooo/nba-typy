@@ -1,17 +1,15 @@
---- AUDYT PLK LIVE (2026-08-02 07:37 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-08-02 09:52 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
 
-1.  🏀 **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   ❌ Sagaba Konate (silny skrzydłowy/środkowy) – kontuzja dłoni (uszkodzenie więzadła SL nadgarstka) wykluczyła go z gry do końca sezonu od lutego 2026 roku.
-    *   **Legia Warszawa:**
-        *   ❌ Michał Kolenda (niski skrzydłowy) – kontuzja od grudnia 2025 roku z prognozą na "kilka tygodni, a nawet miesięcy" wykluczyła go z gry.
-        *   ❌ Matthias Tass (środkowy) – kontuzja od grudnia 2025 roku z prognozą na "kilka tygodni, a nawet miesięcy" wykluczyła go z gry.
-        *   Race Thompson był kontuzjowany przed pierwszym meczem finałowym (8 czerwca 2026), ale powrócił do składu i zagrał w siódmym meczu finałowym (21 czerwca 2026), zdobywając 11 punktów, więc nie był nieobecny w tym meczu.
+1.  **Kluczowe braki w składach:**
+    *   Brak potwierdzonych, istotnych braków w składzie koszykarskim obu drużyn na dzień 21 czerwca 2026 roku. Wcześniejsze doniesienia o kontuzjach Michała Kolendy, Matthiasa Tassa i Ojārs Siliņš (Legia Warszawa w grudniu 2025) oraz ogólne informacje o "walce z urazami" w Zastalu Zielona Góra (luty i czerwiec 2026) nie precyzują, czy ci zawodnicy byli niedostępni na decydujący, 7. mecz finałowy. Składy obu drużyn na sezon 2025/2026, uwzględniające tych graczy, były dostępne na oficjalnych stronach PLK.
 
-2.  📊 **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (mecz 2026-06-21):**
+    *   **Legia Warszawa:** Najlepsi strzelcy w tym meczu to Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt) i Shane Hunter (10 Pkt).
+    *   **ORLEN Zastal Zielona Góra:** Najlepszym strzelcem w tym meczu był Andrzej Mazurczak (10 Pkt).
+    *   **Forma ogólna (sezon 2025/2026):**
+        *   Legia Warszawa: Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
+        *   ORLEN Zastal Zielona Góra: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
 
-3.  ⚖️ **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mecz był siódmym, decydującym spotkaniem finałowej serii, w którym Legia Warszawa obroniła tytuł Mistrza Polski, wygrywając 78:70.
-    *   Obie drużyny przystąpiły do tego meczu z istotnymi osłabieniami w składach w wyniku długoterminowych kontuzji kluczowych zawodników: Zastal bez Sagaby Konate, a Legia bez Michała Kolendy i Matthiasa Tassa. Mimo to typ na Legię okazał się trafny. Jednak obecność tak wielu kluczowych kontuzji po obu stronach zawsze podnosi ryzyko, zwłaszcza w decydującym spotkaniu.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Mecz Legia Warszawa (78) vs ORLEN Zastal Zielona Góra (70) zakończył się zwycięstwem Legii Warszawa 78:70. Legia Warszawa obroniła tytuł Mistrza Polski, wygrywając 7. mecz finałowy. Typ na Legię Warszawa okazał się trafny.
