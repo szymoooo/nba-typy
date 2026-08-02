@@ -1,23 +1,19 @@
---- AUDYT PLK LIVE (2026-08-02 23:03 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-08-03 00:11 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu w kontekście: 2026-06-21, analiza na podstawie danych z 2026-08-03):
 
 ---
 
-**ORLEN Zastal Zielona Góra**
-1.  **Kluczowe braki w składzie:** Brak istotnych braków w składzie koszykarskim. Informacja o kontuzji Sagaby Konate z lutego 2026 dotyczyła zakończenia sezonu 2025/2026 i nie ma aktualnego potwierdzenia jego niedostępności na dzień 2026-08-02 ani na sezon 2026/2027.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
----
+1.  **Kluczowe braki w składach:**
+    *   🟢 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-03. Zespół niedawno zakontraktował Gauthiera Denisa i Toyaza "Taya" Solomona oraz Kubę Galewskiego na sezon 2026/2027.
+    *   🟢 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-03. Skład na sezon 2026/2027 obejmuje m.in. Tytusa Antoniuka, Jaya von Gravesa, Michała Kolendę i Matthiasa Tassa.
 
-**Legia Warszawa**
-1.  **Kluczowe braki w składzie:** Brak istotnych braków w składzie koszykarskim. Raporty o kontuzji Roberta Deziela Juniora z 2026-08-02 dotyczą zawodnika sekcji piłkarskiej Legii Warszawa, co jest nieistotne dla meczu koszykówki.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
----
-
-**Ogólny Werdykt dla meczu (ORLEN Zastal Zielona Góra @ Legia Warszawa):**
-*   **Typ:** Legia Warszawa
-*   **Analiza:** Brak bieżących (2026-08-02) potwierdzonych kontuzji koszykarskich w obu zespołach. Historycznie, Legia Warszawa obroniła tytuł Mistrza Polski 21.06.2026, co wskazuje na siłę drużyny. Biorąc pod uwagę brak negatywnych czynników wynikających z aktualnych kontuzji koszykarskich, pierwotny typ na Legię Warszawa pozostaje zasadny.
-*   **Werdykt:** [✅ ZATWIERDZONY]
+3.  **Werdykt:**
+    *   ✅ **ZATWIERDZONY**
+        *   Legia Warszawa jest wymieniana jako mistrz Polski z poprzedniego sezonu (2025/2026) i uczestnik Superpucharu Polski, co świadczy o jej sile.
+        *   Brak potwierdzonych, aktualnych kontuzji kluczowych zawodników w obu zespołach na dzień 2026-08-03.
+        *   Legia Warszawa, jako gospodarz meczu, ma przewagę własnego parkietu.
