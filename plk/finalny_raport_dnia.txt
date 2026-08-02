@@ -1,15 +1,12 @@
---- AUDYT PLK LIVE (2026-08-02 09:52 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-08-02 11:50 CET) ---
+Analiza meczu koszykówki PLK:
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   Brak potwierdzonych, istotnych braków w składzie koszykarskim obu drużyn na dzień 21 czerwca 2026 roku. Wcześniejsze doniesienia o kontuzjach Michała Kolendy, Matthiasa Tassa i Ojārs Siliņš (Legia Warszawa w grudniu 2025) oraz ogólne informacje o "walce z urazami" w Zastalu Zielona Góra (luty i czerwiec 2026) nie precyzują, czy ci zawodnicy byli niedostępni na decydujący, 7. mecz finałowy. Składy obu drużyn na sezon 2025/2026, uwzględniające tych graczy, były dostępne na oficjalnych stronach PLK.
-
-2.  **Aktualna forma top scorerów (mecz 2026-06-21):**
-    *   **Legia Warszawa:** Najlepsi strzelcy w tym meczu to Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt) i Shane Hunter (10 Pkt).
-    *   **ORLEN Zastal Zielona Góra:** Najlepszym strzelcem w tym meczu był Andrzej Mazurczak (10 Pkt).
-    *   **Forma ogólna (sezon 2025/2026):**
-        *   Legia Warszawa: Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
-        *   ORLEN Zastal Zielona Góra: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
-
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Mecz Legia Warszawa (78) vs ORLEN Zastal Zielona Góra (70) zakończył się zwycięstwem Legii Warszawa 78:70. Legia Warszawa obroniła tytuł Mistrza Polski, wygrywając 7. mecz finałowy. Typ na Legię Warszawa okazał się trafny.
+    *   🏀 ORLEN Zastal Zielona Góra: Jakub Szumert (transfer do USA, od 24.06.2026). Brak istotnych braków w składzie koszykarskim u pozostałych zawodników na dzień 2026-08-02.
+    *   🏀 Legia Warszawa: Brak istotnych braków w składzie koszykarskim na dzień 2026-08-02. Race Thompson miał problemy zdrowotne przed pierwszym meczem finałowym (08.06.2026), ale brak aktualizacji jego statusu na dzień 2026-08-02.
+2.  **Aktualna forma top scorerów:**
+    *   🏀 Brak danych z API dla tego zespołu.
+3.  **Werdykt:**
+    *   ✅ ZATWIERDZONY (Legia Warszawa została Mistrzem Polski 2026, wygrywając finał 21.06.2026).
