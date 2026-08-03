@@ -1,28 +1,21 @@
---- AUDYT PLK LIVE (2026-08-03 04:08 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-03 07:53 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21) -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (silny skrzydłowy/środkowy) – kontuzja dłoni, wykluczony z gry do końca sezonu 2025/2026 od lutego 2026 roku.
-        *   Andrzej Mazurczak (rozgrywający) – wracał do gry po urazie nosa, otrzymał specjalną maskę ochronną i trenował z kontaktem w czerwcu 2026. Zagrał w meczu finałowym.
-        *   Filip Matczak (rozgrywający) – odczuwał skutki dawnego urazu i był oszczędzany na początku czerwca 2026. Zagrał w meczu finałowym.
-        *   Phil Fayne (silny skrzydłowy) – powrócił do zespołu na serię finałową po sprawach rodzinnych w USA w czerwcu 2026. Zagrał w meczu finałowym.
-        *   Jakub Szumert (rzucający/niski skrzydłowy) – kontuzjowany w lutym 2026 (Puchar Polski), ale zagrał w meczu finałowym.
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta (rozgrywający) – wcześniej zmagał się z urazem kolana w sezonie 2025/2026, ale zagrał w finale i został MVP.
-        *   Jayvon Graves (rozgrywający/rzucający) – wcześniej kontuzjowany w listopadzie 2025, ale zagrał w meczu finałowym.
-        *   Race Thompson (silny skrzydłowy) – wcześniej kontuzjowany we wrześniu 2025 na kilka tygodni, ale zagrał w meczu finałowym.
-        *   Brak innych istotnych braków w składzie koszykarskim Legii Warszawa na dzień meczu.
+    *   🟢 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. W styczniu 2026 r. Legia zmagała się z plagą kontuzji, jednak przed finałami kluczowi gracze, tacy jak Andrzej Pluta, wrócili do pełnej dyspozycji.
+    *   🔴 **ORLEN Zastal Zielona Góra:** Sagaba Konate (centr) doznał kontuzji dłoni przed 28 lutego 2026 r. i był wykluczony z gry do końca sezonu 2025/2026, co stanowiło istotne osłabienie strefy podkoszowej.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu dotyczących formy w serii.
-    *   Najlepsi strzelcy w meczu 2026-06-21:
-        *   Legia Warszawa: Andrzej Pluta (15 pkt), DJ Brewton (11 pkt), Race Thompson (11 pkt), Shane Hunter (10 pkt).
-        *   ORLEN Zastal Zielona Góra: Andy Mazurczak (10 pkt), Jayvon Maughmer (10 pkt), Chavaughn Lewis (10 pkt).
+2.  **Aktualna forma top scorerów (około 2026-06-21):**
+    *   🟢 **Legia Warszawa:**
+        *   Andrzej Pluta, uznawany za najlepszego zawodnika fazy zasadniczej, zdobył 14 punktów w meczu nr 4 (15.06.2026), mimo że według doniesień miał "zawodzić" w tym spotkaniu.
+        *   Carl Ponsar zdobył 17 punktów w meczu nr 4 (15.06.2026) oraz 22 punkty w meczu nr 3 (13.06.2026).
+        *   Dominic Brewton III zdobył 12 punktów w meczu nr 4 (15.06.2026).
+    *   🟡 **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak był w świetnej formie, zdobywając 21 punktów w meczu nr 4 (15.06.2026) oraz 15 punktów w meczu nr 6 (19.06.2026).
+        *   Conley Garrison zdobył 16 punktów w meczu nr 4 (15.06.2026) oraz 17 punktów w meczu nr 6 (19.06.2026).
+        *   Chavaughn Lewis był wiodącym strzelcem Zastalu w sezonie 2025/2026 ze średnią 15.8 pkt/mecz.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz był siódmym i decydującym spotkaniem finałowym Orlen Basket Ligi, rozegranym w Warszawie.
-    *   Legia Warszawa wygrała mecz 78:70, zdobywając Mistrzostwo Polski.
-    *   Legia Warszawa grała w pełnym składzie, a jej kluczowi zawodnicy, jak Andrzej Pluta (MVP finałów), byli w dobrej formie.
-    *   ORLEN Zastal Zielona Góra borykał się z długoterminową kontuzją Sagaby Konate, a inni ważni gracze wracali po urazach. Mimo to, większość kluczowych zawodników Zastalu wystąpiła w meczu.
-    *   Przewaga własnego parkietu w decydującym meczu serii play-off oraz stabilny skład Legii przemawiają za zatwierdzeniem typu.
+    *   Mecz odbył się w Warszawie i był 7. decydującym spotkaniem finałowym PLK, co dawało Legii przewagę własnego parkietu.
+    *   Zastal był osłabiony długoterminową kontuzją Sagaby Konate.
+    *   Legia ostatecznie zwyciężyła w tym meczu 78:70 i zdobyła mistrzostwo Polski w sezonie 2025/2026.
