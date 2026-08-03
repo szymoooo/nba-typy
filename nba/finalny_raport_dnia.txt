@@ -1,7 +1,13 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-03 12:30 ET) ---
-Heat @ Raptors -> Typ: Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-08-03 14:21 ET) ---
+Analiza meczu: Heat @ Raptors
 
-- Kluczowe braki w składach:
-  - Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Miami Heat (skład styczeń 2026):**
+    *   Kluczowi gracze w składzie na styczeń 2026 to m.in. Bam Adebayo, Norman Powell, Jaime Jaquez Jr., Andrew Wiggins, Tyler Herro, Davion Mitchell, Simone Fontecchio, Nikola Jovic, Terry Rozier.
+    *   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę, które precyzowałyby kontuzje Miami Heat w styczniu 2026 roku. Raport z 25 stycznia 2026 r. (NBA CMS) nie zawiera informacji o Heat.
 
-- Werdykt: [⚠️ RYZYKOWNY] (Brak aktualnych danych o kontuzjach uniemożliwia rzetelną ocenę).
+*   **Toronto Raptors (skład styczeń 2026):**
+    *   Kluczowi gracze w składzie na styczeń 2026 to m.in. Scottie Barnes, RJ Barrett, Immanuel Quickley, Jakob Poeltl, Brandon Ingram, Chris Paul, Gradey Dick.
+    *   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę, które precyzowałyby kontuzje Toronto Raptors w styczniu 2026 roku. Raport z 25 stycznia 2026 r. (NBA CMS) nie zawiera informacji o Raptors. Informacje o kontuzjach Jakoba Poeltla, Scotta Barnesa czy Chucky'ego Hepburna pochodzą z lutego 2026, co wykracza poza wymagany zakres "STYCZEŃ 2026".
+
+*   **Werdykt dla typy Heat @ Raptors -> Raptors:** ⚠️ RYZYKOWNY
+    Ze względu na brak potwierdzonych i specyficznych raportów kontuzji dla obu drużyn na styczeń 2026 roku, nie jestem w stanie ocenić wpływu kluczowych braków w składach na wynik meczu.
