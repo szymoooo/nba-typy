@@ -1,12 +1,17 @@
---- AUDYT PLK LIVE (2026-08-03 20:21 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-03 20:43 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-08-03 dotyczących sezonu 2025/2026.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-08-03 dotyczących sezonu 2025/2026.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate – koniec sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, kontuzja z lutego 2026 roku.
+        *   Filip Matczak – odczuwał dolegliwości związane ze starą kontuzją w okolicach 6 czerwca 2026 roku, jednak planowano jego występ w serii finałowej.
+        *   Dwight Wilson – odczuwał skutki urazu kostki w okolicach 6 czerwca 2026 roku, ale trenował i był w stanie grać.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21. Kontuzje Andrzeja Pluty, Jayvona Gravesa i Matthiasa Tassa z listopada 2025 roku miały być krótkoterminowe, z powrotem po przerwie reprezentacyjnej. Race Thompson, kontuzjowany we wrześniu 2025, również miał wrócić po kilku tygodniach.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu na dzień 2026-08-03 dotyczących top scorerów z serii lub sezonu 2025/2026.
-    *   **Legia Warszawa:** Brak danych z API dla tego zespołu na dzień 2026-08-03 dotyczących top scorerów z serii lub sezonu 2025/2026.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API PulsBasketu dla obu zespołów.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+3.  **Werdykt:**
+    *   ⚠️ **RYZYKOWNY**
+        *   Zastal zmagał się z poważną kontuzją Sagaby Konate, który zakończył sezon, a także drobnymi urazami Matczaka i Wilsona w okresie poprzedzającym mecz. Legia wydaje się dysponować pełnym składem. Pomimo typu na Legię, osłabienia Zastalu (zwłaszcza brak Konate) mogą wpływać na dynamikę meczu, a brak danych o formie strzelców dodaje ryzyka.
