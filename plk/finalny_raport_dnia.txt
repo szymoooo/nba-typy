@@ -1,12 +1,28 @@
---- AUDYT PLK LIVE (2026-08-03 13:19 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-08-03 18:30 CET) ---
+Analiza meczu z dnia 2026-06-21 (audyt z daty 2026-08-03):
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim odnotowanych na dzień 2026-08-03.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim odnotowanych na dzień 2026-08-03.
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+*   **Status meczu:** Mecz odbył się 21 czerwca 2026 roku i był to siódmy, decydujący mecz finału ORLEN Basket Ligi sezonu 2025/2026. Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, zdobywając tytuł mistrza Polski (seria 4-3).
+    *   Obecnie (2026-08-03) liga PLK znajduje się w okresie międzysezonowym. Rozgrywki sezonu 2026/2027 rozpoczną się 2 października.
 
-3.  **Werdykt:**
-    *   [⚠️ RYZYKOWNY] (Analiza oparta na braku aktualnych kontuzji na 2026-08-03, co nie odzwierciedla sytuacji kadrowej z dnia meczu 2026-06-21. Brak danych o formie strzelców w serii uniemożliwia pełną ocenę typu.)
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)**
+    *   W kontekście daty dzisiejszej (2026-08-03) i zakończonego sezonu, brak jest aktywnych kontuzji meczowych czy zawieszeń. Drużyny są w trakcie budowania składów na nadchodzący sezon 2026/2027.
+    *   🏀 **Legia Warszawa**:
+        *   Odnotowano ważne odejścia: Andrzej Pluta (liga hiszpańska) i Maksymilian Wilczek.
+        *   Klub wzmocnił się na nadchodzący sezon, pozyskując m.in. Kristersa Zoriksa, Gyorgy'ego Golomana, Zacha Freemantle'a, Jakuba Andrzejewskiego i Szymona Tomczaka.
+    *   🏀 **ORLEN Zastal Zielona Góra**:
+        *   Zastal stracił Jakuba Szumerta, który przeszedł do NCAA.
+        *   Kluczowi zawodnicy, Andrzej Mazurczak i Conley Garrison, pozostają w zespole.
+        *   Nowe transfery na sezon 2026/2027 to Trazarien White, Toyaz "Tay" Solomon i Gauthier Denis.
+    *   Brak istotnych braków w składzie koszykarskim, które byłyby aktualne na dzień 2026-08-03 w kontekście meczowym, ze względu na trwający okres międzysezonowy.
+
+2.  **Aktualna forma top scorerów**
+    *   Ze względu na okres międzysezonowy, brak danych o aktualnej formie top scorerów.
+    *   **Top scorerzy z decydującego, siódmego meczu finałowego (2026-06-21)**:
+        *   Legia Warszawa: Andrzej Pluta (15 punktów, 5 asyst), Jayvon Graves (9 punktów, 10 zbiórek).
+        *   ORLEN Zastal Zielona Góra: Andrzej Mazurczak (10 punktów, 5 zbiórek, 5 asyst), Conley Garrison (8 punktów, 7 asyst).
+    *   **Top scorerzy ORLEN Zastalu Zielona Góra w sezonie 2025/2026**: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Typ "Legia Warszawa" na mecz z dnia 2026-06-21 był prawidłowy, gdyż Legia Warszawa wygrała ten mecz 78:70 i zdobyła mistrzostwo Polski.
