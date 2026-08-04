@@ -1,23 +1,23 @@
---- AUDYT PLK LIVE (2026-08-04 20:08 CET) ---
-# Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-04 21:57 CET) ---
+Przeprowadzam audyt typów PLK dla daty 2026-06-21, jednakże analiza jest bazowana na dostępnych informacjach z dnia DZISIEJSZEGO, czyli 2026-08-04, zgodnie z Twoimi zasadami. Dane sprzed sezonu 2025-26 są ignorowane.
 
-### Kluczowe braki w składach
-*   🏀 **ORLEN Zastal Zielona Góra:**
-    *   **Sagaba Konate** był wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji dłoni (uszkodzenie więzadła SL nadgarstka), której doznał w lutym 2026 roku.
-    *   **Phil Fayne** powrócił do zespołu na serię finałową po sprawach rodzinnych w USA; trenował indywidualnie, ale jego pełna gotowość na pierwsze mecze była niepewna. Zagrał w meczu 7, zdobywając 0 punktów.
-    *   **Andy Mazurczak** wrócił do gry z maską ochronną po urazie nosa; zagrał w meczu 7, zdobywając 10 punktów.
-    *   **Filip Matczak** był oszczędzany z powodu dawnego urazu, ale wystąpił w meczu 7, zdobywając 8 punktów.
-    *   W decydującym meczu 7. finału **Krzysztof Sulima** i **Jakub Szumert** popełnili po 5 fauli i musieli opuścić boisko.
-*   🏀 **Legia Warszawa:**
-    *   Brak istotnych potwierdzonych braków w składzie koszykarskim Legii Warszawa na mecz 2026-06-21. Drużyna występowała w pełnym składzie.
+---
 
-### Aktualna forma top scorerów
-*   Brak danych z API PulsBasketu dla tego zespołu dotyczących formy top scorerów w serii.
-*   Jednakże, w 7. meczu finałowym (2026-06-21), który odbył się w Warszawie:
-    *   **Legia Warszawa:** Najskuteczniejsi strzelcy to **Andrzej Pluta** (15 Pkt), **Race Thompson** (11 Pkt), **Dominic Brewton III** (11 Pkt) i **Shane Hunter** (10 Pkt). Andrzej Pluta został MVP finałów oraz MVP sezonu zasadniczego.
-    *   **ORLEN Zastal Zielona Góra:** Najlepsi punktujący to **Andrzej Mazurczak** (10 Pkt), **Jayvon Maughmer** (10 Pkt) i **Chavaughn Lewis** (10 Pkt).
+### Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa
+**Typ:** Legia Warszawa (na 2026-06-21)
 
-### Werdykt
-*   [✅ ZATWIERDZONY]
+1.  **Kluczowe braki w składach (stan na 2026-08-04):**
+    *   **ORLEN Zastal Zielona Góra:**
+        Na dzień 2026-08-04, brak jest aktualnych, potwierdzonych informacji o kontuzjach w koszykarskim składzie ORLEN Zastalu Zielona Góra. Strona PLK.pl prezentuje skład na sezon 2025/2026 i 2026/2027, bez wzmianek o bieżących urazach. Artykuł z 6 czerwca 2026 roku (przed datą meczu z typów) wspominał o powrocie Phila Fayne'a na finały oraz o monitorowaniu sytuacji Andy'ego Mazurczaka (uraz nosa) i Filipa Matczaka (stary uraz). Jednakże, brak jest aktualizacji tych statusów na dzień 2026-08-04.
+*   **Legia Warszawa:**
+    Brak aktualnych, potwierdzonych informacji o kontuzjach w koszykarskim składzie Legii Warszawa na dzień 2026-08-04. Większość doniesień o kontuzjach dotyczy sekcji piłkarskiej Legii. Strony PLK.pl i oficjalna strona Legii Warszawa (sekcja koszykówki) nie wskazują na obecne braki w składzie koszykarskim.
 
-**Uzasadnienie:** Mecz był decydującym, siódmym spotkaniem finałowej serii ORLEN Basket Ligi. Legia Warszawa grała na własnym parkiecie (OSiR Warszawa Bemowo) i wygrała ten mecz 78:70, zdobywając mistrzostwo Polski. Legia przystąpiła do meczu bez znaczących braków kadrowych w sekcji koszykówki, a ich kluczowi zawodnicy, w tym MVP Andrzej Pluta, byli w doskonałej formie. Zastal Zielona Góra miał osłabienia (długoterminowa kontuzja Sagaby Konate) i kilku zawodników grających z urazami (Mazurczak, Matczak), choć wszyscy zdolni do gry wystąpili. Przewaga własnego parkietu i lepsza sytuacja kadrowa Legii sprawiły, że typ na Legię Warszawa był uzasadniony.
+*   **Podsumowanie braków na 2026-08-04:** Brak istotnych braków w składach koszykarskich obu zespołów.
+
+2.  **Aktualna forma top scorerów (stan na 2026-08-04):**
+    *   Brak danych z API dla tego zespołu na dzień 2026-08-04, które wskazywałyby na formę top scorerów w serii dla meczu z 2026-06-21. Informacje o statystykach zawodników na PLK.pl są dla sezonu 2025/2026, np. Chavaughn Lewis (Zastal) ze średnią 15.8 pkt/mecz.
+
+3.  **Werdykt:**
+    Ze względu na fakt, że mecz odbył się 2026-06-21, a wszystkie analizowane informacje pochodzą z daty 2026-08-04 (zgodnie z instrukcjami), nie jest możliwe rzetelne ocenienie "aktualnej" formy i kontuzji na dzień meczu. Opierając się wyłącznie na braku aktualnych kontuzji koszykarskich w obu zespołach na dzień 2026-08-04, nie można potwierdzić ani zanegować typu dla meczu z 2026-06-21.
+
+    [⚠️ RYZYKOWNY] - Werdykt ryzykowny z uwagi na datę meczu (przeszłość) vs. datę dostępności danych (teraźniejszość).
