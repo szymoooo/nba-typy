@@ -1,15 +1,23 @@
---- AUDYT PLK LIVE (2026-08-04 18:14 CET) ---
-Audyt meczu PLK z dnia 2026-06-21:
+--- AUDYT PLK LIVE (2026-08-04 20:08 CET) ---
+# Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+### Kluczowe braki w składach
+*   🏀 **ORLEN Zastal Zielona Góra:**
+    *   **Sagaba Konate** był wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji dłoni (uszkodzenie więzadła SL nadgarstka), której doznał w lutym 2026 roku.
+    *   **Phil Fayne** powrócił do zespołu na serię finałową po sprawach rodzinnych w USA; trenował indywidualnie, ale jego pełna gotowość na pierwsze mecze była niepewna. Zagrał w meczu 7, zdobywając 0 punktów.
+    *   **Andy Mazurczak** wrócił do gry z maską ochronną po urazie nosa; zagrał w meczu 7, zdobywając 10 punktów.
+    *   **Filip Matczak** był oszczędzany z powodu dawnego urazu, ale wystąpił w meczu 7, zdobywając 8 punktów.
+    *   W decydującym meczu 7. finału **Krzysztof Sulima** i **Jakub Szumert** popełnili po 5 fauli i musieli opuścić boisko.
+*   🏀 **Legia Warszawa:**
+    *   Brak istotnych potwierdzonych braków w składzie koszykarskim Legii Warszawa na mecz 2026-06-21. Drużyna występowała w pełnym składzie.
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate (silny skrzydłowy/środkowy) był wyłączony z gry do końca sezonu z powodu kontuzji dłoni, której doznał w lutym 2026 roku. Phil Fayne (silny skrzydłowy) wrócił do zespołu na serię finałową po sprawach rodzinnych, natomiast Dwight Wilson (silny skrzydłowy) odczuwał skutki urazu kostki, ale trenował i był gotowy do gry.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach dotyczące sekcji piłkarskiej Legii Warszawa są nieistotne dla meczu koszykówki.
+### Aktualna forma top scorerów
+*   Brak danych z API PulsBasketu dla tego zespołu dotyczących formy top scorerów w serii.
+*   Jednakże, w 7. meczu finałowym (2026-06-21), który odbył się w Warszawie:
+    *   **Legia Warszawa:** Najskuteczniejsi strzelcy to **Andrzej Pluta** (15 Pkt), **Race Thompson** (11 Pkt), **Dominic Brewton III** (11 Pkt) i **Shane Hunter** (10 Pkt). Andrzej Pluta został MVP finałów oraz MVP sezonu zasadniczego.
+    *   **ORLEN Zastal Zielona Góra:** Najlepsi punktujący to **Andrzej Mazurczak** (10 Pkt), **Jayvon Maughmer** (10 Pkt) i **Chavaughn Lewis** (10 Pkt).
 
-2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
-    *   **Legia Warszawa:** Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
-    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 Pkt).
+### Werdykt
+*   [✅ ZATWIERDZONY]
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa wygrała ten mecz 78:70, zdobywając Mistrzostwo Polski w Game 7 rozegranym w Warszawie. Brak kluczowego środkowego w Zastalu (Sagaba Konate) mógł mieć wpływ na wynik, zwłaszcza w decydującym meczu finałowym, gdzie przewaga własnego parkietu Legii również odgrywała rolę.
+**Uzasadnienie:** Mecz był decydującym, siódmym spotkaniem finałowej serii ORLEN Basket Ligi. Legia Warszawa grała na własnym parkiecie (OSiR Warszawa Bemowo) i wygrała ten mecz 78:70, zdobywając mistrzostwo Polski. Legia przystąpiła do meczu bez znaczących braków kadrowych w sekcji koszykówki, a ich kluczowi zawodnicy, w tym MVP Andrzej Pluta, byli w doskonałej formie. Zastal Zielona Góra miał osłabienia (długoterminowa kontuzja Sagaby Konate) i kilku zawodników grających z urazami (Mazurczak, Matczak), choć wszyscy zdolni do gry wystąpili. Przewaga własnego parkietu i lepsza sytuacja kadrowa Legii sprawiły, że typ na Legię Warszawa był uzasadniony.
