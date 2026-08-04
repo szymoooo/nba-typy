@@ -1,23 +1,21 @@
---- AUDYT PLK LIVE (2026-08-05 00:37 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-05 01:55 CET) ---
+Analiza meczu PLK na dzień 2026-06-21:
 
-Mecz ten był siódmym, decydującym spotkaniem Finałów Orlen Basket Ligi sezonu 2025/2026, rozgrywanym w hali OSiR Bemowo w Warszawie. Legia Warszawa wygrała ten mecz 78:70 i zdobyła Mistrzostwo Polski.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026 roku.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim. Zawodnicy tacy jak Andrzej Pluta, Dominic Brewton III, Jayvon Graves, Ojārs Siliņš, Maksymilian Wilczek, Julian Dąbrowski, Shane Hunter i Race Thompson, którzy opuścili klub po sezonie, byli dostępni i grali w tym finałowym meczu.
+    *   **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-21. Najlepsi strzelcy Legii z tego meczu finałowego – Andrzej Pluta, Dominic Brewton III i Race Thompson – byli dostępni i zdobyli odpowiednio 15, 11 i 11 punktów. Informacje o transferach zawodników (np. Dominic Brewton III, Andrzej Pluta) do innych klubów dotyczą sezonu 2026/27 i nie miały wpływu na ten mecz finałowy sezonu 2025/26.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-21. Najlepszy strzelec Zastalu z tego meczu finałowego, Andrzej Mazurczak, był dostępny i zdobył 10 punktów. Wcześniejsze doniesienia z lutego 2026 o tym, że Zastal "co chwilę traci graczy", nie precyzują absencji kluczowych zawodników w tym konkretnym, decydującym meczu.
 
-2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
-    *   🏀 **Legia Warszawa:**
-        *   Andrzej Pluta: 15 punktów w tym meczu. Był również MVP rundy zasadniczej i finałów sezonu 2025/2026.
-        *   Race Thompson: 11 punktów w tym meczu.
-        *   Dominic Brewton III: 11 punktów w tym meczu.
-        *   Shane Hunter: 10 punktów w tym meczu.
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak: 10 punktów w tym meczu.
-        *   Brak danych z API dla tego zespołu na konkretne nazwiska, ale ogólne statystyki sezonu 2025/2026 wskazywały Chavaughna Lewisa, Jakuba Szumerta i Andrzeja Mazurczaka jako czołowych strzelców. Jakub Szumert również trafiał za trzy punkty w meczach finałowych.
+2.  **Aktualna forma top scorerów:**
+    *   **Legia Warszawa** (punkty z meczu 2026-06-21):
+        *   Andrzej Pluta: 15 punktów
+        *   Race Thompson: 11 punktów
+        *   Dominic Brewton III: 11 punktów
+    *   **ORLEN Zastal Zielona Góra** (punkty z meczu 2026-06-21):
+        *   Andrzej Mazurczak: 10 punktów
+    *   Brak danych z API dla tego zespołu dotyczących formy w całej serii, jedynie z pojedynczego meczu finałowego.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Typ na Legię Warszawa był trafny. Legia, grając u siebie w decydującym meczu numer 7 finału, zwyciężyła i obroniła tytuł Mistrza Polski. Mimo braku Sagaby Konate w składzie Zastalu przez drugą część sezonu, Zastal dotarł do finału, co świadczyło o dużej waleczności. Przewaga własnego parkietu w decydującym meczu, połączona z dobrą formą liderów Legii, odegrała kluczową rolę.
+3.  **Werdykt:**
+    *   Mecz 2026-06-21 był 7. i decydującym spotkaniem finałowym Polskiej Ligi Koszykówki w sezonie 2025/26. Legia Warszawa, będąca najlepszą drużyną sezonu zasadniczego i obrońcą tytułu, zwyciężyła u siebie 78:70, zdobywając Mistrzostwo Polski. ORLEN Zastal Zielona Góra, mimo że przystąpił do play-offów z 8. miejsca, dotarł do finału, pokazując świetną formę w końcówce sezonu, a cała seria była "niesamowicie emocjonująca i wyczerpująca". W decydującym meczu finałowym przewaga własnego parkietu i brak potwierdzonych kluczowych absencji po obu stronach czynią typ na Legię Warszawa uzasadnionym.
+    *   Werdykt: [✅ ZATWIERDZONY]
