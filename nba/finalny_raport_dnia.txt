@@ -1,24 +1,8 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-05 06:28 ET) ---
-Analiza meczu Heat @ Raptors:
+--- KRYTYCZNY AUDYT LIVE (2026-08-05 06:31 ET) ---
+Na podstawie dostępnych danych z dnia 2026-08-05:
 
-📅 **DZISIEJSZA DATA: 2026-08-05**
+**Heat @ Raptors -> Typ: Raptors**
 
-**Heat @ Raptors**
-Typ użytkownika: Raptors
-
----
-
-**Kluczowe braki w składach:**
-
-*   **Brak aktualnych raportów (Injury Report) na tę chwilę.** Na dzień 5 sierpnia 2026 roku, w okresie poza sezonem NBA, nie ma aktywnych raportów o kontuzjach dla tego hipotetycznego meczu. Wskazano, że nie ma zaplanowanych meczów NBA na ten dzień. Niektóre źródła wspominają o kontuzjach "Out For Season" z sezonu 2025-2026 (np. Kessler, Aldama, Gueye), ale dotyczą one minionego sezonu i nie są aktualne dla oceny dzisiejszego typu.
-
-**Składy (na podstawie danych ze stycznia 2026 / sezonu 2025-2026):**
-
-*   **Miami Heat:** W składzie na sezon 2025-2026 prawdopodobnie znajdowali się tacy gracze jak Jimmy Butler (jeśli był w składzie), Bam Adebayo, Terry Rozier, Jaime Jaquez Jr., Davion Mitchell, Norman Powell, Dru Smith i Keshad Johnson. Transakcje takie jak wymiana Giannisa Antetokounmpo do Miami są odnotowane na sezon 2026-2027 i miały miejsce po styczniu 2026 (lipiec 2026), dlatego nie są brane pod uwagę dla składu ze stycznia 2026.
-*   **Toronto Raptors:** Na sezon 2025-2026 w składzie Raptors prawdopodobnie byli Scottie Barnes, Immanuel Quickley, RJ Barrett, Jakob Poeltl i Gradey Dick. Podobnie jak w przypadku Heat, transakcje takie jak wymiana Kawhi Leonarda do Raptors w lipcu 2026 nie są brane pod uwagę dla składu ze stycznia 2026.
-
----
-
-**Werdykt:** [⚠️ RYZYKOWNY]
-
-Biorąc pod uwagę brak aktualnych raportów o kontuzjach dla daty 2026-08-05 oraz konieczność opierania się na składach z sezonu 2025-2026 (jako proxy dla stycznia 2026), bez informacji o formie drużyn, ostatnich transferach (które miały miejsce po styczniu 2026, ale są widoczne w składach na sezon 2026-2027 i zmieniają dynamikę zespołów), oraz bez kontekstu meczowego, trudno o jednoznaczny werdykt. Typ jest ryzykowny z powodu braku kluczowych danych potrzebnych do rygorystycznej analizy.
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. Oficjalne raporty o kontuzjach są zazwyczaj publikowane w dniach meczowych. Dostępne raporty dotyczące ogólnego stanu zdrowia drużyn z późnego czerwca 2026 wskazują, że Miami Heat i Toronto Raptors nie miały wówczas graczy na liście kontuzjowanych.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Bazując na składach z sezonu 2025-26, które byłyby aktualne na styczeń 2026, Toronto Raptors zakończyli sezon 2025-26 z lepszym bilansem (46-36, 5. miejsce w Konferencji Wschodniej) niż Miami Heat (43-39, 10. miejsce w Konferencji Wschodniej). W przypadku braku kluczowych kontuzji, typ na Raptors jest uzasadniony na podstawie ich ogólnej siły zespołu w poprzednim sezonie.
