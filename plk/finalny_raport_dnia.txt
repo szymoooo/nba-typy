@@ -1,17 +1,23 @@
---- AUDYT PLK LIVE (2026-08-05 18:03 CET) ---
-Analiza meczu PLK (2026-06-21): ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-05 19:54 CET) ---
+Mecze do audytu: 2026-06-21
+
+---
 
 ### ORLEN Zastal Zielona Góra @ Legia Warszawa
+Typ: Legia Warszawa
 
-*   **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21. Wcześniejsze doniesienia o urazach Filipa Matczaka, Jakuba Szumerta i Sagaby Konate (luty 2026) oraz "walce z urazami" (czerwiec 2026) nie potwierdziły ich absencji w 7. meczu finału, a wszyscy wymienieni zawodnicy, poza Konate, wystąpili w spotkaniu. Krzysztof Sulima i Jakub Szumert popełnili po 5 fauli w tym konkretnym meczu, co skutkowało ich wykluczeniem z dalszej gry w trakcie spotkania, ale nie było to absencją przedmeczową.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21. Wszyscy kluczowi zawodnicy wymienieni w składzie na sezon 2025/2026 i statystykach meczowych wystąpili w spotkaniu. Wcześniejsze kontuzje (np. Pluty, Gravesa, Tassa w listopadzie 2025) nie miały wpływu na ten mecz finałowy.
+1.  **Kluczowe braki w składach:**
+    Na dzień 2026-08-05:
+*   **Legia Warszawa:**
+    *   Brak potwierdzonych informacji o *bieżących* kontuzjach koszykarzy. W styczniu 2026 r. informowano o kontuzjach Matthiasa Tassa i Michała Kolendy, jednak brak jest aktualizacji na dzień 2026-08-05, co pozwala przypuszczać, że mogli już wrócić do zdrowia.
+    *   Legia Warszawa, aktualny mistrz Polski (sezon 2025/2026), aktywnie buduje skład na kolejny sezon 2026/2027. Dołączyli m.in. Kristers Zoriks, Gyorgy Goloman, Zach Freemantle i Michael Christmas. Z zespołem pożegnali się Andrzej Pluta i Maksymilian Wilczek.
+*   **ORLEN Zastal Zielona Góra:**
+    *   Brak potwierdzonych informacji o *bieżących* kontuzjach koszykarzy na dzień 2026-08-05.
+    *   W lutym 2026 r. Sagaba Konate doznał poważnej kontuzji nadgarstka, która wykluczyła go z gry do końca sezonu 2025/2026. Brak aktualnych informacji o jego powrocie.
+    *   Zastal również wzmacnia skład na sezon 2026/2027. Dołączyli m.in. Trazarien White, Toyaz "Tay" Solomon oraz Gauthier Denis, a Conley Garrison przedłużył kontrakt.
 
-*   **Aktualna forma top scorerów:**
+2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
-    *   **Najlepsi strzelcy w meczu (2026-06-21):**
-        *   Legia Warszawa: Andrzej Pluta (15 Pkt), Dominic Brewton III (11 Pkt), Race Thompson (11 Pkt), Shane Hunter (10 Pkt).
-        *   ORLEN Zastal Zielona Góra: Andrzej Mazurczak (10 Pkt), Jayvon Maughmer (10 Pkt), Chavaughn Lewis (10 Pkt).
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz był 7. spotkaniem finałowym, rozegranym w Warszawie. Legia Warszawa wykorzystała atut własnego parkietu, wygrywając to decydujące starcie 78:70. Brak potwierdzonych kluczowych absencji po obu stronach dodatkowo zmniejszał ryzyko niespodzianki spowodowanej brakami kadrowymi.
+3.  **Werdykt:**
+    *   Analiza dotyczy meczu z 2026-06-21, natomiast dostępne informacje o składach i kontuzjach pochodzą z 2026-08-05 (czyli po dacie meczu). Ze względu na tę anachroniczność nie jest możliwe wydanie wiarygodnego werdyktu dla tego typu na podstawie aktualnych danych o kontuzjach i składach.
