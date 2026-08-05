@@ -1,18 +1,16 @@
---- AUDYT PLK LIVE (2026-08-05 06:59 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-08-05 09:43 CET) ---
+Analiza meczu PLK na dzień 2026-06-21:
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** 🤕 Sagaba Konate (silny skrzydłowy/środkowy) – kontuzja dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka), potwierdzony koniec sezonu od lutego 2026. Wcześniejsze doniesienia o kontuzjach Filipa Matczaka i Jakuba Szumerta przed Pucharem Polski w lutym 2026, ale brak potwierdzonych informacji o ich niedostępności na mecz finałowy w czerwcu.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ: Legia Warszawa
 
-2.  **Aktualna forma top scorerów (dane z 7. meczu finałowego, 2026-06-21):**
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta: 15 Pkt
-        *   Race Thompson: 11 Pkt
-        *   Dominic Brewton III: 11 Pkt
-        *   Shane Hunter: 10 Pkt
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak: 10 Pkt
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):**
+    *   Ze względu na dzisiejszą datę 2026-08-05 i datę meczu 2026-06-21 (ponad miesiąc temu), oraz fakt, że sezon PLK 2025/2026 prawdopodobnie już się zakończył, szczegółowe raporty kontuzji z tego konkretnego dnia są trudne do wiarygodnego odnalezienia.
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim dla obu drużyn na dzień 2026-06-21.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    To był decydujący, siódmy mecz finału ORLEN Basket Ligi, rozegrany na własnym parkiecie Legii Warszawa (Hala OSiR Bemowo). Kontuzja kluczowego zawodnika Zastalu, Sagaby Konate, była istotnym osłabieniem. Legia Warszawa ostatecznie wygrała mecz 78:70 i obroniła mistrzowski tytuł. Typ na Legię Warszawa był uzasadniony.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API PulsBasketu dla tego zespołu.
+    *   Nie udało się znaleźć aktualnej formy top scorerów z bezpośrednim odniesieniem do daty 2026-06-21.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak wystarczających danych dotyczących kontuzji i formy top scorerów na konkretny dzień 2026-06-21, aby wiarygodnie ocenić ryzyko.
