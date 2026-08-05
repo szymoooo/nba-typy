@@ -1,27 +1,30 @@
---- AUDYT PLK LIVE (2026-08-05 20:15 CET) ---
-Analiza meczu koszykówki PLK (stan na 2026-08-05)
+--- AUDYT PLK LIVE (2026-08-05 22:47 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+
+Mecz dotyczy Finału PLK sezonu 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo Polski, pokonując Zastal Zielona Góra.
 
 ---
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
-*(Mecz odbył się 2026-06-21)*
+**ORLEN Zastal Zielona Góra**
 
-1.  **Kluczowe braki w składach koszykarskich (stan na 2026-08-05):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Brak istotnych braków w składzie koszykarskim.
-        *   Zastal ogłosił zakontraktowanie Gauthiera Denisa na sezon 2026/27 (29.07.2026).
-        *   Jayvon Maughmer opuścił klub, przenosząc się do francuskiej drużyny Elan Béarnais Pau-Lacq-Orthez.
-    *   **Legia Warszawa:**
-        *   Michał Kolenda przeszedł pod koniec lipca 2026 planowy zabieg stawu skokowego i przewidywana przerwa od treningów wynosi od 8 do 10 tygodni. Obecnie jest w trakcie rehabilitacji.
-        *   Legia rozstała się z kilkoma zawodnikami, m.in. Ojars Silins (przeniósł się do VEF Ryga), Julian Dąbrowski (do UC Davis), Dominic Brewton (do Izraela), Jayvon Graves (do Livorno), Thompson i Hunter (odeszli z Legii).
-        *   Klub pozyskał nowych graczy na sezon 2026/27, w tym Michaela Christmasa (28.07.2026), Zacha Freemantle'a i Gyorgy Golomana (23.07.2026).
+1.  **Kluczowe braki w składach:** 🩹 Brak istotnych braków w składzie koszykarskim.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Chavaughn Lewis: 15.8 Pkt/mecz
+    *   Jakub Szumert: 13.2 Pkt/mecz
+    *   Andrzej Mazurczak: 11.8 Pkt/mecz
 
-2.  **Aktualna forma top scorerów (stan na 2026-08-05):**
-    *   **ORLEN Zastal Zielona Góra:** brak danych z API dla tego zespołu.
-    *   **Legia Warszawa:** brak danych z API dla tego zespołu.
-    *(Informacje o aktualnej formie są trudne do oceny w dniu 2026-08-05, ponieważ sezon 2025/2026 został zakończony, a przygotowania do nowego sezonu 2026/2027 rozpoczęły się lub są w początkowej fazie).*
+**Legia Warszawa**
 
-3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY]
-    *   Analiza dotyczy predykcji na dzień 2026-06-21, podczas gdy dostępne dane o składach i kontuzjach pochodzą z 2026-08-05. Zgodnie z oficjalnymi wynikami, mecz ORLEN Zastal Zielona Góra @ Legia Warszawa, rozegrany 21.06.2026 w OSiR Bemowo, Warszawa, zakończył się zwycięstwem Legii Warszawa 78:70. Pierwotna predykcja była zatem trafna.
-    *   Gdyby mecz miał być rozegrany dzisiaj (2026-08-05), kontuzja Michała Kolendy w Legii Warszawa mogłaby stanowić istotny osłabienie zespołu.
+1.  **Kluczowe braki w składach:** 🩹 Brak istotnych braków w składzie koszykarskim.
+    *   *Uwaga analityka:* W grudniu 2025 roku Legia informowała o dłuższych przerwach z powodu kontuzji u kilku zawodników, w tym Ojārs Siliņš, Matthias Tass i Michał Kolenda. Brak jest jednak potwierdzonych informacji z dnia 2026-08-05, że kontuzje te uniemożliwiły im grę w meczu z 2026-06-21. Zgodnie z wytycznymi, uwzględniam jedynie informacje potwierdzone na dzień dzisiejszy (2026-08-05).
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Dominic Brewton III: 14.5 Pkt/mecz
+    *   Andrzej Pluta: 13.4 Pkt/mecz
+    *   Jayvon Graves: 12.8 Pkt/mecz
+
+---
+
+**Werdykt dla typu: Legia Warszawa**
+
+*   **[✅ ZATWIERDZONY]**
+    *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra w finale, który zakończył się 21 czerwca 2026 roku. Typ na Legię Warszawa był zgodny z końcowym wynikiem rozgrywek.
