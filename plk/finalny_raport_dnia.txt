@@ -1,15 +1,32 @@
---- AUDYT PLK LIVE (2026-08-06 03:56 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-06 07:12 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-1.  **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim.
+Mecz rozegrano 21 czerwca 2026 roku i był to siódmy, decydujący mecz finałów Orlen Basket Ligi sezonu 2025/2026. Spotkanie odbyło się w Warszawie, na hali OSiR Bemowo. Legia Warszawa pokonała ORLEN Zastal Zielona Góra wynikiem 78:70, zdobywając tytuł mistrza Polski.
 
-2.  **Aktualna forma top scorerów:**
-    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu.
-    *   Legia Warszawa: Brak danych z API dla tego zespołu.
+---
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa jest aktualnym Mistrzem Polski (sezon 2025/2026), pokonując ORLEN Zastal Zielona Góra w finale.
-    *   Brak potwierdzonych, istotnych kontuzji koszykarskich w obu zespołach na dzień 2026-08-06, co sprzyja utrzymaniu pierwotnego typu.
+### ORLEN Zastal Zielona Góra
+1.  **Kluczowe braki w składzie**:
+    *   Phil Fayne wrócił do składu na serię finałową po sprawach rodzinnych.
+    *   Filip Matczak zgłaszał dolegliwości związane ze starą kontuzją i opuścił jeden trening przed finałami, ale sztab szkoleniowy liczył na jego obecność w serii. Brak potwierdzenia, że był nieobecny w meczu.
+    *   Dwight Wilson czuł się dobrze i trenował normalnie pomimo drobnego urazu kostki.
+    *   Brak innych istotnych braków w składzie koszykarskim.
+
+2.  **Aktualna forma top scorerów**:
+    *   W meczu numer 7 (21.06.2026) wyróżnili się: Andrzej Mazurczak (10 Pkt, 5 zb, 5 asyst) oraz Conley Garrison (8 Pkt, 7 asyst).
+    *   W poprzednich meczach serii, np. 10.06.2026, wyróżniał się Chavaughn Lewis (25 Pkt) oraz Jakub Szumert (17 Pkt).
+    *   Średni sezonowi top scorerzy (2025/2026): Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
+
+### Legia Warszawa
+1.  **Kluczowe braki w składzie**:
+    *   Brak istotnych braków w składzie koszykarskim.
+
+2.  **Aktualna forma top scorerów**:
+    *   W meczu numer 7 (21.06.2026) świetne zawody rozegrali: Andrzej Pluta (15 Pkt, 5 asyst) oraz Jayvon Graves (9 Pkt, 10 zbiórek). Andrzej Pluta został MVP Finałów.
+    *   W poprzednich meczach serii, np. 10.06.2026, wyróżniał się Andrzej Pluta (27 Pkt) oraz Shane Hunter (18 Pkt).
+    *   Średni sezonowi top scorerzy (2025/2026): Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
+
+---
+
+**Werdykt**: ✅ ZATWIERDZONY
+Legia Warszawa była faworytem (pierwsze miejsce po sezonie zasadniczym, obrońca tytułu) i grała u siebie w decydującym, siódmym meczu finału. Zastal Zielona Góra, będąc rewelacją play-offów (8. miejsce po sezonie zasadniczym), stawiał opór, ale ostatecznie uległ. Typ na Legię Warszawa okazał się trafny.
