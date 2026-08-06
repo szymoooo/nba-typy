@@ -1,25 +1,15 @@
---- AUDYT PLK LIVE (2026-08-06 00:14 CET) ---
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-06 03:56 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ: Legia Warszawa
 
-### Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (21.06.2026)
+1.  **Kluczowe braki w składach:**
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim.
 
-Mecz ten był siódmym i decydującym spotkaniem finałowym Orlen Basket Ligi sezonu 2025/2026, rozegranym w Warszawie na OSiR Bemowo. Legia Warszawa zwyciężyła 78:70, zdobywając Mistrzostwo Polski.
+2.  **Aktualna forma top scorerów:**
+    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu.
+    *   Legia Warszawa: Brak danych z API dla tego zespołu.
 
-1.  **Kluczowe braki w składach** 🤕
-    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate (środkowy/silny skrzydłowy) był wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka), której doznał w lutym 2026 roku. Brak innych istotnych braków w składzie koszykarskim na dzień meczu.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień meczu. Informacje o kontuzji kapitana Legii (zabieg stawu skokowego) oraz transferach kluczowych zawodników pojawiły się po dacie 21.06.2026 i nie mają wpływu na to spotkanie.
-
-2.  **Aktualna forma top scorerów** 📊
-    *   Brak danych z API dla tego zespołu.
-    *   **Legia Warszawa** (top scorerzy w meczu 21.06.2026):
-        *   Andrzej Pluta (15 punktów)
-        *   Race Thompson (11 punktów)
-        *   Dominic Brewton III (11 punktów)
-        *   Shane Hunter (10 punktów)
-    *   **ORLEN Zastal Zielona Góra** (top scorer w meczu 21.06.2026):
-        *   Andrzej Mazurczak (10 punktów)
-
-3.  **Werdykt** ✅
-    *   [✅ ZATWIERDZONY]
-    *   Legia Warszawa grała na własnym parkiecie w decydującym meczu finałowym (Game 7) i była obrońcą tytułu mistrzowskiego. ORLEN Zastal Zielona Góra musiał radzić sobie bez Sagaby Konate, który był wykluczony do końca sezonu. Legia wygrała ten mecz 78:70, zdobywając mistrzostwo, co potwierdza trafność typu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa jest aktualnym Mistrzem Polski (sezon 2025/2026), pokonując ORLEN Zastal Zielona Góra w finale.
+    *   Brak potwierdzonych, istotnych kontuzji koszykarskich w obu zespołach na dzień 2026-08-06, co sprzyja utrzymaniu pierwotnego typu.
