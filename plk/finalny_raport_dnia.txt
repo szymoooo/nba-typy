@@ -1,35 +1,19 @@
---- AUDYT PLK LIVE (2026-08-06 12:32 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
-
-Mecz z dnia 21.06.2026 był finałem sezonu 2025/2026 ORLEN Basket Ligi, w którym Legia Warszawa zdobyła mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra.
+--- AUDYT PLK LIVE (2026-08-06 12:35 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
 
 ---
-### ORLEN Zastal Zielona Góra
-1.  **Kluczowe braki w składzie:**
-    *   W artykule z 6 czerwca 2026 roku wspomniano, że sztab Zastalu monitorował sytuację zdrowotną kilku ważnych zawodników przed serią finałową. Jednakże, najważniejszą informacją był powrót Phila Fayne'a do zespołu na finały po przerwie rodzinnej. Brak potwierdzonych informacji o konkretnych nieobecnościach koszykarskich na dzień meczu.
-    *   Brak istotnych braków w składzie koszykarskim.
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   Chavaughn Lewis: 15.8 Pkt/mecz.
-    *   Jakub Szumert: 13.2 Pkt/mecz.
-    *   Andrzej Mazurczak: 11.8 Pkt/mecz.
-    *   W jednym z meczów finałowych (15.06.2026) Andrzej Mazurczak zdobył 21 punktów, a Conley Garrison 16 punktów.
-3.  **Werdykt:** N/A (Typ dotyczy Zastalu, nie Legii)
 
----
-### Legia Warszawa
-1.  **Kluczowe braki w składzie:**
-    *   Brak potwierdzonych informacji o kontuzjach lub zawieszeniach koszykarzy Legii Warszawa na dzień meczu (21.06.2026).
-    *   Brak istotnych braków w składzie koszykarskim.
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   Andrzej Pluta: 13.4 Pkt/mecz. (MVP sezonu i MVP Finałów PLK 2025/2026)
-    *   Dominic Brewton III: 14.5 Pkt/mecz.
-    *   Jayvon Graves: 12.8 Pkt/mecz.
-    *   W jednym z meczów finałowych (15.06.2026) Carl Ponsar zdobył 17 punktów, Andrzej Pluta 14 punktów, a Dominic Brewton III 12 punktów. Forma Andrzeja Pluty była wysoka, co potwierdza tytuł MVP Finałów.
-3.  **Werdykt:** N/A (Typ dotyczy Legii, nie Zastalu)
+**1. Kluczowe braki w składach:**
 
----
-### Werdykt dla typowania na Legia Warszawa
-*   **Kluczowe braki w składach:** Brak istotnych, potwierdzonych braków po obu stronach w koszykówce. Zastal monitorował sytuację kilku graczy, ale kluczowy Fayne wrócił.
-*   **Aktualna forma top scorerów:** Liderzy Legii (Andrzej Pluta, Dominic Brewton III) prezentowali wysoką formę w sezonie i finałach. Andrzej Pluta został MVP Finałów.
-*   **Dodatkowe czynniki:** Legia Warszawa była top seedem i obrońcą tytułu, ostatecznie zdobywając mistrzostwo w sezonie 2025/2026, pokonując Zastal w finale. Mecz z 21.06.2026 był decydującym spotkaniem sezonu.
-*   **Werdykt końcowy:** [✅ ZATWIERDZONY]
+*   **ORLEN Zastal Zielona Góra:**
+    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21 lub z końcówki sezonu 2025/2026.
+*   **Legia Warszawa:**
+    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21 lub z końcówki sezonu 2025/2026.
+
+**2. Aktualna forma top scorerów:**
+
+*   Brak danych z API PulsBasketu dla top scorerów obu zespołów w tej serii/meczu.
+
+**3. Werdykt:**
+
+*   [✅ ZATWIERDZONY] - Brak potwierdzonych kontuzji kluczowych zawodników w obu drużynach na dzień meczu.
