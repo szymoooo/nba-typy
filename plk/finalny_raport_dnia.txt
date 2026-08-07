@@ -1,19 +1,14 @@
---- AUDYT PLK LIVE (2026-08-06 12:35 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-08-07 02:16 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa
+Data typowania: 2026-06-21
+Typ: Legia Warszawa
 
----
+1.  **Kluczowe braki w składach koszykarskich (na dzień 2026-08-07):**
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Drużyna rozpoczęła przygotowania do sezonu 2026/2027, z testami medycznymi zaplanowanymi na 14-15 sierpnia. Odnotowano transfery nowych zawodników, m.in. Michaela Christmasa (28 lipca 2026). Wcześniejsze kontuzje Michała Kolendy i Matthiasa Tassa z grudnia 2025 roku, wymagające kilkutygodniowej lub operacyjnej przerwy, najprawdopodobniej są już zaleczone, a Kolenda jest wymieniony w obecnej kadrze.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Klub również jest w trakcie budowania składu na sezon 2026/2027, potwierdzając pozostanie Conley Garrisona (23 czerwca 2026) oraz pozyskanie Toyaza "Tay" Solomona (29 lipca 2026) i Gauthiera Denisa. Brak doniesień o aktualnych, długoterminowych urazach koszykarzy.
 
-**1. Kluczowe braki w składach:**
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu. Z perspektywy 2026-08-07 (okres przygotowawczy/przedsezonowy), nie ma aktywnych meczów ani serii, aby ocenić bieżącą formę strzelców.
 
-*   **ORLEN Zastal Zielona Góra:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21 lub z końcówki sezonu 2025/2026.
-*   **Legia Warszawa:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21 lub z końcówki sezonu 2025/2026.
-
-**2. Aktualna forma top scorerów:**
-
-*   Brak danych z API PulsBasketu dla top scorerów obu zespołów w tej serii/meczu.
-
-**3. Werdykt:**
-
-*   [✅ ZATWIERDZONY] - Brak potwierdzonych kontuzji kluczowych zawodników w obu drużynach na dzień meczu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Typ "Legia Warszawa" na mecz z 21.06.2026 jest zatwierdzony. Legia Warszawa obroniła tytuł Mistrza Polski w sezonie 2025/2026, pokonując w finale ORLEN Zastal Zielona Góra. Analizując sytuację z perspektywy 7 sierpnia 2026 roku, potwierdzamy, że Legia była drużyną dominującą w poprzednim sezonie. Brak aktualnych, znaczących kontuzji w obu zespołach na dzień dzisiejszy (7 sierpnia 2026) nie zmienia oceny siły drużyn w kontekście historycznego wyniku serii finałowej.
