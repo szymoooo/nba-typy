@@ -1,11 +1,17 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-07 17:18 ET) ---
-Heat @ Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-08-07 18:33 ET) ---
+Heat @ Raptors -> Typ: Raptors
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. 🏀 Sezon NBA jest poza okresem rozgrywkowym (off-season) w dniu 2026-08-07, co oznacza brak meczów i bieżących raportów o kontuzjach (Out, Questionable, GTD).
-    *   Na podstawie dostępnych danych o składach ze stycznia 2026 (sezon 2025-26):
-        *   **Miami Heat:** W kluczowym składzie prawdopodobnie znaleźliby się Bam Adebayo, Tyler Herro, Jaime Jaquez Jr., Terry Rozier, Norman Powell.
-        *   **Toronto Raptors:** W kluczowym składzie prawdopodobnie znaleźliby się Scottie Barnes, Immanuel Quickley, RJ Barrett, Jakob Poeltl, Gradey Dick.
+*   **Kluczowe braki w składach (na podstawie raportów ze stycznia 2026):**
+    *   **Miami Heat:**
+        *   Tyler Herro: Out (kontuzja żeber/palca u nogi w różnych terminach w styczniu)
+        *   Kel'el Ware: Out (ścięgno podkolanowe, 24 stycznia)
+        *   Davion Mitchell: Day-To-Day/Questionable (kontuzja barku w różnych terminach w styczniu)
+    *   **Toronto Raptors:**
+        *   Jakob Poeltl: Out (kontuzja pleców, był wykluczony przez znaczną część stycznia)
+        *   Brandon Ingram: Sidelined/Questionable (kontuzja palca/kciuka w różnych terminach w styczniu)
+        *   Scottie Barnes: Unavailable/Questionable (kontuzja kolana w różnych terminach w styczniu)
+        *   RJ Barrett: Out (kontuzja kostki, 12 stycznia)
+        *   Ja'Kobe Walter: Out (kontuzja kostki, 12 stycznia)
 
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak aktualnych informacji o kontuzjach na dzień 2026-08-07 uniemożliwia rzetelną analizę meczową. W off-season nie ma aktywnych gier NBA.
+    *   Toronto Raptors, w styczniu 2026, mierzyło się ze znacznie poważniejszymi i liczniejszymi brakami kluczowych zawodników niż Miami Heat, co sprawia, że pierwotny typ na ich zwycięstwo jest obarczony wysokim ryzykiem.
