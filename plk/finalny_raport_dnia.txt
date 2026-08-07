@@ -1,26 +1,14 @@
---- AUDYT PLK LIVE (2026-08-07 07:59 CET) ---
-Analiza meczu PLK na dzień 2026-08-07:
+--- AUDYT PLK LIVE (2026-08-07 09:18 CET) ---
+Analiza meczu PLK na dzień 2026-06-21:
 
----
-
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
-Typ: Legia Warszawa
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-07. W poprzednim sezonie (2025/2026) kontuzje dotykały Filipa Matczaka, Jakuba Szumerta i Sagabę Konate, a Dwight Wilson wracał do zdrowia, jednak brak jest aktualizacji tych urazów na obecny okres przygotowawczy do sezonu 2026/2027. Jakub Szumert mógł opuścić zespół na rzecz NCAA.
-    *   **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-07. Informacje o kontuzjach z poprzedniego sezonu (np. Jerricka Hardinga z Rytasu Wilno w meczu z Legią czy Grzegorza Kulki) są nieaktualne lub dotyczą zawodników spoza obecnego składu Legii.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz
-        *   Jakub Szumert: 13.2 Pkt/mecz
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta Jr. był MVP sezonu i finałów PLK 2025/2026. W jednym z meczów w maju 2026 zdobył 20 punktów. Ogólny top scorer PLK w sezonie 2025/2026 to Landrius Horton (19.7 Pkt/mecz), ale brak precyzyjnych danych o indywidualnych top scorerach Legii z tego sezonu w formie punktów na mecz, poza wyróżnieniem Pluty.
-    *   Brak danych z API PulsBasketu dla tej konkretnej "serii" (mecz na 2026-08-07). Powyższe dane odzwierciedlają statystyki z ostatniego pełnego sezonu (2025/2026).
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+    *   Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak znaczących, potwierdzonych kontuzji w obu drużynach na obecny moment pre-sezonu 2026/2027.
-    *   Legia Warszawa była Mistrzem Polski w sezonie 2025/2026, a Zastal Zielona Góra był finalistą, co wskazuje na mocną pozycję obu zespołów w minionym sezonie.
-    *   Typ bazuje na sukcesie Legii w poprzednim sezonie, w którym była top seed i obroniła tytuł Mistrza Polski, pokonując w finałach Zastal Zielona Góra.
-    *   Obecna data to wczesny okres przygotowawczy do sezonu 2026/2027 (rozpoczynającego się w październiku), co minimalizuje wpływ formy "w serii", a bardziej polega na ogólnej sile składów i wynikach z poprzedniego sezonu.
