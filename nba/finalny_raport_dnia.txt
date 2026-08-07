@@ -1,11 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-07 04:55 ET) ---
-Analiza meczu: Heat @ Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-08-07 05:36 ET) ---
+Heat @ Raptors -> Typ: Raptors
 
-**Dzisiejsza data to: 2026-08-07**
+Na podstawie danych z raportów o kontuzjach ze stycznia 2026:
 
-*   **Kluczowe braki w składach:**
-    *   Miami Heat: Jimmy Butler (PF) – Poza sezonem od 19 stycznia 2026 z powodu zerwanego ACL w prawym kolanie.
-    *   Toronto Raptors: Brak kluczowych, potwierdzonych braków na styczeń 2026.
-*   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-08-07) dla statusów 'Out', 'Questionable', 'GTD' dla konkretnego meczu w styczniu 2026, poza potwierdzonymi kontuzjami kończącymi sezon.
-*   **Werdykt dla typu Raptors:** ✅ ZATWIERDZONY
-    *   Absencja kluczowego gracza Miami Heat, Jimmy'ego Butlera, od 19 stycznia 2026 roku znacząco osłabia zespół, jeśli mecz przypada po tej dacie w styczniu. Toronto Raptors, z podstawowym składem obejmującym Scottie Barnesa, Immanuela Quickleya, RJ Barretta i Jakoba Poeltla, wydają się być faworytem w takim scenariuszu.
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **Toronto Raptors:**
+        *   Jakob Poeltl (C): Out (kontuzja pleców) 🩹
+        *   Scottie Barnes (F): Questionable / Unavailable (skręcenie kolana/kontuzja kolana) ❓
+        *   Brandon Ingram (SF): Questionable / Sidelined (kontuzja kciuka/palca) ❓
+        *   RJ Barrett (SG/SF): Out (kontuzja kostki) 🩹 (zgłoszone na 12 stycznia)
+        *   Ja'Kobe Walter (G): Out (kontuzja kostki) 🩹 (zgłoszone na 12 stycznia)
+    *   **Miami Heat:**
+        *   Tyler Herro (G): Out (kontuzja żeber/palca u nogi) 🩹
+        *   Davion Mitchell (PG): Questionable / Out (stłuczenie barku/bark) ❓ (status zmieniał się w styczniu)
+        *   Jaime Jaquez Jr. (SF): Questionable (skręcenie lewego kolana) ❓ (zgłoszone na 19 stycznia)
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Raporty ze stycznia 2026 wskazują na znaczące braki w składzie Toronto Raptors, w tym kluczowego środkowego Jakoba Poeltla (Out) oraz wpływowych graczy ofensywnych, takich jak Scottie Barnes i Brandon Ingram, którzy byli często wymieniani jako questionable lub unavailable. Chociaż Miami Heat również miało kontuzje, takie jak Tyler Herro (Out), potencjalne osłabienie Raptors przez brak kilku starterów sprawia, że Twój typ jest ryzykowny.
