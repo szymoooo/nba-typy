@@ -1,18 +1,16 @@
---- AUDYT PLK LIVE (2026-08-07 02:19 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)** -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-07 04:19 CET) ---
+Analiza meczu PLK (2026-06-21) z perspektywy 2026-08-07:
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Przed finałową serią istniały obawy dotyczące Phila Fayne'a, który wracał po sprawach rodzinnych, a jego dostępność na początek finałów była niepewna. Andy Mazurczak zmagał się z urazem nosa i grał w specjalnej masce. Filip Matczak również odczuwał skutki dawnego urazu. Wszyscy trzej zawodnicy zagrali w 7. meczu finałów. Krzysztof Sulima i Jakub Szumert popełnili po 5 fauli w tym meczu, ale jako że był to ostatni mecz serii, nie miało to wpływu na przyszłe występy.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ z PulsBasketu: Legia Warszawa
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API PulsBasketu dla tego zespołu.
-    *   **ORLEN Zastal Zielona Góra:** Liderami strzelców w sezonie 2025/2026 byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). W 7. meczu finałów najskuteczniejszymi zawodnikami Zastalu byli Andrzej Mazurczak (10 Pkt), Jayvon Maughmer (10 Pkt) i Chavaughn Lewis (10 Pkt).
-    *   **Legia Warszawa:** Liderami strzelców w sezonie 2025/2026 byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). W 7. meczu finałów dla Legii najwięcej punktów zdobyli Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt) i Dominic Brewton III (11 Pkt). Andrzej Pluta został także MVP finałów.
+1.  **Kluczowe braki w składach (stan na 2026-08-07):**
+    *   **Legia Warszawa (koszykówka):** Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 2026-08-07. Trwa okres przygotowawczy do sezonu 2026/2027, a składy są w fazie budowania.
+    *   **ORLEN Zastal Zielona Góra (koszykówka):** Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 2026-08-07. Klub aktywnie buduje kadrę na nadchodzący sezon 2026/2027.
 
-3.  **Werdykt:**
-    *   Mecz odbył się w Hali OSiR Warszawa Bemowo w Warszawie, co oznaczało przewagę własnego parkietu dla Legii.
-    *   Był to decydujący, siódmy mecz finałów ORLEN Basket Ligi sezonu 2025/2026.
-    *   Legia Warszawa zwyciężyła 78:70, broniąc tym samym tytułu Mistrza Polski i wygrywając serię finałową 4:3.
+2.  **Aktualna forma top scorerów (stan na 2026-08-07):**
+    *   Brak danych z API dla tego zespołu. Okres międzysezonowy, brak meczów do oceny bieżącej formy.
 
-[✅ ZATWIERDZONY]
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mecz został rozegrany 21 czerwca 2026 roku, a analiza dotyczy stanu na 7 sierpnia 2026 roku. W okresie letnim, po zakończeniu sezonu 2025/2026, kluby są w fazie budowania składów na kolejny sezon. Informacje o kontuzjach, formie zawodników czy pełnych składach na dzień 2026-08-07 odnoszą się do zupełnie innego kontekstu niż mecz rozegrany w czerwcu. Brak możliwości wiarygodnej oceny braków kadrowych i formy zawodników na dzień meczu z perspektywy obecnego stanu.
