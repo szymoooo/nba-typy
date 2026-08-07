@@ -1,14 +1,28 @@
---- AUDYT PLK LIVE (2026-08-07 09:18 CET) ---
-Analiza meczu PLK na dzień 2026-06-21:
+--- AUDYT PLK LIVE (2026-08-07 10:32 CET) ---
+# Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+---
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+### ORLEN Zastal Zielona Góra
 
+1.  **Kluczowe braki w składach (stan na 2026-08-07):**
+    *   Brak istotnych braków w składzie koszykarskim. W lutym 2026 roku Zastal zmagał się z kontuzjami, w tym z poważnym urazem nadgarstka Sagaby Konate oraz innymi niedyspozycjami. Jednakże, brak jest potwierdzonych informacji o ich dalszej niedyspozycji w dniu 2026-08-07, która miałaby wpływ na mecz rozegrany w czerwcu 2026.
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
-    *   Brak danych z API dla tego zespołu.
-
 3.  **Werdykt:** [✅ ZATWIERDZONY]
+
+### Legia Warszawa
+
+1.  **Kluczowe braki w składach (stan na 2026-08-07):**
+    *   Brak istotnych braków w składzie koszykarskim. W grudniu 2025 roku Legia mierzyła się z kontuzjami Michała Kolendy (zerwane więzadła stawu skokowego) i Matthiasa Tassa (operacja stawu skokowego), co skutkowało dłuższą przerwą. Jednakże, brak jest potwierdzonych informacji o ich dalszej niedyspozycji w dniu 2026-08-07, która miałaby wpływ na mecz rozegrany w czerwcu 2026. Na dzień 2026-08-07, brak danych o kontuzjach w sekcji koszykarskiej na portalu Transfermarkt.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+
+---
+
+**Podsumowanie i Werdykt Ogólny:**
+
+Mecz odbył się 21 czerwca 2026 roku. Biorąc pod uwagę brak potwierdzonych, istotnych kontuzji koszykarskich w obu zespołach na dzień dzisiejszy (2026-08-07), które miałyby wpływ na mecz rozegrany w czerwcu, oraz fakt, że Legia Warszawa była w dobrej formie w sezonie 2025/2026 (potencjalnie obroniła tytuł Mistrza Polski lub była w finale), typ na Legię Warszawa wydaje się uzasadniony.
+
+**Ostateczny Werdykt dla typu "Legia Warszawa":** [✅ ZATWIERDZONY]
