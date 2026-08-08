@@ -1,13 +1,22 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-08 11:47 ET) ---
-Analiza meczu: Heat @ Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-08-08 12:39 ET) ---
+Na podstawie danych ze stycznia 2026 roku:
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. Nie znaleziono żadnych potwierdzonych informacji o kontuzjach ze statusami 'Out', 'Questionable', 'GTD' dla obu drużyn na dzień 2026-08-08.
-*   **Werdykt dla typu Raptors:** [⚠️ RYZYKOWNY]
+**Heat @ Raptors**
+Typ: Raptors
 
-**Uzasadnienie (na podstawie składów ze stycznia 2026):**
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Miami Heat:**
+        *   Tyler Herro: Out (kontuzja żeber / palca u nogi) 🤕
+        *   Davion Mitchell: Out (kontuzja barku) 🩹
+        *   Jaime Jaquez Jr.: Questionable (skręcenie lewego kolana) ❓
+    *   **Toronto Raptors:**
+        *   RJ Barrett: Out (kontuzja kostki) 🤕
+        *   Jakob Poeltl: Out (problemy z plecami) 🤕
+        *   Brandon Ingram: Questionable (kontuzja kciuka) ❓
+        *   Scottie Barnes: Questionable (skręcenie prawego kolana) ❓
+        *   Ja'Kobe Walter: Out (kontuzja kostki), Questionable (ból prawego biodra) 🤕❓
 
-Składy drużyn na styczeń 2026 roku były następujące:
-*   **Miami Heat:** W składzie Heat na sezon 2025-2026 znajdowali się kluczowi zawodnicy tacy jak Bam Adebayo, Tyler Herro, Jaime Jaquez Jr. oraz Terry Rozier. Przyjmuje się, że Jimmy Butler, będąc częścią składu 2025-26, był również dostępny w styczniu 2026, tworząc doświadczony i utalentowany trzon drużyny.
-*   **Toronto Raptors:** Raptors w sezonie 2025-2026 dysponowali graczami takimi jak Scottie Barnes, Immanuel Quickley, RJ Barrett, Jakob Poeltl oraz Gradey Dick.
+*   **Brak aktualnych raportów (Injury Report) na tę chwilę** (2026-08-08).
 
-Bez aktualnych informacji o kontuzjach z dzisiejszej daty (2026-08-08) i opierając się wyłącznie na porównaniu potencjalnej siły składów z okresu stycznia 2026, Miami Heat, z uwagi na bardziej ugruntowany i doświadczony trzon (szczególnie z udziałem Jimmy'ego Butlera, jeśli był aktywny), wydaje się mieć przewagę. Typ na Raptors jest zatem oceniany jako ryzykowny.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo typu na Raptors, zespół borykał się z licznymi kluczowymi kontuzjami w styczniu 2026 roku, w tym z absencjami RJ Barretta i Jakoba Poeltla, oraz statusem "Questionable" dla Brandona Ingrama i Scottiego Barnesa, co osłabiało drużynę.
