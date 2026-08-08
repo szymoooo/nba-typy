@@ -1,15 +1,11 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-08 10:36 ET) ---
-Analiza typu: Heat @ Raptors -> Typ: Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-08-08 11:08 ET) ---
+Zgodnie z dzisiejszymi danymi (2026-08-08):
 
-📅 **DZISIEJSZA DATA: 2026-08-08**
+*   **Heat @ Raptors** -> Typ: Raptors
 
-**Kluczowe braki w składach (na dzień 2026-08-08):**
-Brak aktualnych raportów (Injury Report) na tę chwilę. Sezon NBA nie trwa w sierpniu, dlatego nie ma aktywnych meczowych raportów kontuzji (statusów 'Out', 'Questionable', 'GTD') dla Miami Heat ani Toronto Raptors na dzień 8 sierpnia 2026.
+NBA nie rozgrywa meczów w sierpniu, ponieważ jest to poza sezonem. Sezon regularny i przedsezonowy rozpoczynają się jesienią. Przykładowo, mecz przedsezonowy Toronto Raptors vs. Miami Heat jest zaplanowany na 3 października 2026 roku.
 
-*   **Skład Miami Heat (Styczeń 2026):**
-    *   W składzie Heat w sezonie 2025-26 znajdowali się m.in.: Bam Adebayo, Simone Fontecchio, Tyler Herro, Jaime Jaquez Jr., Nikola Jovic, Davion Mitchell, Norman Powell, Terry Rozier, Andrew Wiggins.
-*   **Skład Toronto Raptors (Styczeń 2026):**
-    *   W składzie Raptors w sezonie 2025-26 znajdowali się m.in.: Scottie Barnes, RJ Barrett, Gradey Dick, Brandon Ingram, Immanuel Quickley, Jakob Poeltl.
+W związku z tym:
 
-**Werdykt:** [⚠️ RYZYKOWNY]
-Brak możliwości zatwierdzenia lub odrzucenia typu w oparciu o "Kluczowe braki w składach" z uwagi na brak aktywnych meczowych raportów kontuzji na dzień 2026-08-08. Sezon NBA jest poza okresem rozgrywek, więc nie ma danych o kontuzjach mających wpływ na wynik meczu w dniu dzisiejszym.
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę, ponieważ dzisiaj nie są rozgrywane żadne mecze NBA.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – typ jest ryzykowny, ponieważ mecz nie odbywa się w dniu dzisiejszym.
