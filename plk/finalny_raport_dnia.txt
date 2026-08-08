@@ -1,11 +1,19 @@
---- AUDYT PLK LIVE (2026-08-08 16:36 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-08 19:13 CET) ---
+Analiza meczu PLK (2026-06-21): ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-1.  **Kluczowe braki w składach (na dzień 2026-06-21):**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim odnotowanych na dzień 21 czerwca 2026 roku.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim odnotowanych na dzień 21 czerwca 2026 roku.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o formie top scorerów i kontekstu serii meczów uniemożliwia pełną analizę. Na podstawie dostępnych danych o kontuzjach, mecz nie wykazywałby szczególnego ryzyka pod tym kątem, jednak brak innych kluczowych informacji czyni typ ryzykownym.)
+1.  **Kluczowe braki w składach**:
+    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim na kluczowe mecze finałów. Andrzej Pluta Jr. był MVP sezonu i finałów 2025/2026, co potwierdza jego pełną dostępność i wysoką formę. Wcześniejsze kontuzje (m.in. Michała Kolendy, Matthiasa Tassa) zostały zgłoszone w grudniu 2025 roku, ale brak danych wskazujących na ich niedostępność w czerwcu 2026.
+    *   **ORLEN Zastal Zielona Góra**: Zespół miał znaczące problemy zdrowotne przed finałami. Phil Fayne wracał ze Stanów Zjednoczonych i jego dostępność na pierwszy mecz finałów była niepewna. Andrzej Mazurczak grał w masce ochronnej z powodu urazu nosa. Filip Matczak odczuwał skutki dawnego urazu.
+2.  **Aktualna forma top scorerów (sezon 2025/2026)**:
+    *   **Legia Warszawa**:
+        *   Dominic Brewton III: 14.5 Pkt/mecz
+        *   Andrzej Pluta: 13.4 Pkt/mecz (MVP sezonu i finałów)
+        *   Jayvon Graves: 12.8 Pkt/mecz
+    *   **ORLEN Zastal Zielona Góra**:
+        *   Chavaughn Lewis: 15.8 Pkt/mecz
+        *   Jakub Szumert: 13.2 Pkt/mecz
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz (grał z urazem nosa przed finałami)
+3.  **Werdykt**: ✅ ZATWIERDZONY
+    *   Legia Warszawa zdobyła mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra 4:3 w finale. Mecz z 2026-06-21 był częścią tej zwycięskiej serii. Legia grała u siebie w decydującym meczu. Zastal borykał się z kluczowymi kontuzjami swoich liderów przed serią finałową, co osłabiało ich szanse.
