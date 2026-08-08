@@ -1,19 +1,14 @@
---- AUDYT PLK LIVE (2026-08-08 05:01 CET) ---
-Analiza meczu PLK (2026-06-21): ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-08 07:22 CET) ---
+Mecz do audytu: ORLEN Zastal Zielona Góra @ Legia Warszawa
+Typ: Legia Warszawa
 
-### ORLEN Zastal Zielona Góra
-1.  **Kluczowe braki w składzie:**
-    *   ❌ Sagaba Konate (silny skrzydłowy / środkowy) – Doznał awulsyjnego uszkodzenia więzadła SL nadgarstka podczas Pucharu Polski w lutym 2026 roku, co wykluczyło go z reszty sezonu 2025/2026.
-2.  **Aktualna forma top scorerów (mecz finałowy 21.06.2026):**
-    *   Andrzej Mazurczak: 10 punktów w meczu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] – Mimo powrotu Phila Fayne'a, brak Sagaby Konate, kluczowego gracza podkoszowego, znacząco osłabił rotację Zastalu w tak ważnym, decydującym meczu finałowym. Legia grała u siebie i obroniła tytuł.
+1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Brak istotnych potwierdzonych braków w składzie koszykarskim na dzień meczu (2026-06-21). Informacja o zabiegu stawu skokowego kapitana Legii pojawiła się 22.07.2026, czyli po analizowanym meczu finałowym.
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate (środkowy) był wykluczony z gry do końca sezonu od 28 lutego 2026 roku z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka. W lutym 2026 roku z urazami borykali się również Filip Matczak i Jakub Szumert, jednak brak jest konkretnych potwierdzeń ich niedostępności na mecz finałowy 21 czerwca 2026. Doniesienia z czerwca 2026 wspominają o "walce z urazami" w szeregach Zastalu, lecz bez wskazania konkretnych zawodników wyłączonych z gry w finale.
 
-### Legia Warszawa
-1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim w dniu meczu. Informacje o kontuzjach z tego okresu dotyczyły sekcji piłkarskiej.
-2.  **Aktualna forma top scorerów (mecz finałowy 21.06.2026):**
-    *   Andrzej Pluta: 15 punktów w meczu.
-    *   Race Thompson: 11 punktów w meczu.
-    *   Dominic Brewton III: 11 punktów w meczu.
-    *   Shane Hunter: 10 punktów w meczu.
-3.  **Werdykt:** [✅ ZATWIERDZONY] – Legia grała w pełnym składzie, na własnym parkiecie, co w 7. meczu finału (decydującym o mistrzostwie) stanowiło dużą przewagę. Mecz został wygrany przez Legię 78:70, co zapewniło jej tytuł mistrza Polski.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu. Na podstawie dostępnych źródeł można odnotować, że Andrzej Mazurczak i Conley Garrison z Zastalu mieli wzrost formy w jednym z meczów finałowych (łącznie 37 punktów), podobnie jak Chavaughn Lewis, który rzucił zwycięski rzut w pierwszym meczu serii. Andrzej Pluta Jr. z Legii Warszawa został MVP sezonu i finałów 2025/2026, co świadczy o jego wybitnej formie. Carl Ponsar z Legii również wyróżniał się skutecznością w finałach. Zgodnie z wytycznymi, z powodu braku danych z API dla konkretnych nazwisk top scorerów, podaję ogólną informację.
+
+3.  **Werdykt:**
+    *   Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 w meczu 21.06.2026 na Hali OSiR Bemowo w Warszawie, zdobywając Mistrzostwo Polski w sezonie 2025/2026. Typ na Legię Warszawa był zgodny z ostatecznym wynikiem i rozstrzygnięciem sezonu.
+    *   [✅ ZATWIERDZONY]
