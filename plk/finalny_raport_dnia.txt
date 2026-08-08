@@ -1,27 +1,11 @@
---- AUDYT PLK LIVE (2026-08-08 11:04 CET) ---
-Analiza meczu PLK na 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-08 16:36 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+1.  **Kluczowe braki w składach (na dzień 2026-06-21):**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim odnotowanych na dzień 21 czerwca 2026 roku.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim odnotowanych na dzień 21 czerwca 2026 roku.
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate doznał poważnego urazu dłoni w lutym 2026 roku i opuścił resztę sezonu 2025/2026. Filip Matczak i Dwight Wilson III zmagali się z dolegliwościami zdrowotnymi, ale byli dostępni do gry w serii finałowej.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Gracze, którzy odczuwali urazy wcześniej w sezonie (Andrzej Pluta, Jayvon Graves, Matthias Tass, Michał Kolenda, Ojārs Siliņš), wrócili do pełnej dyspozycji na serię finałową.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **Legia Warszawa:**
-        *   Dominic Brewton III: 14.5 Pkt/mecz.
-        *   Andrzej Pluta: 13.4 Pkt/mecz (MVP sezonu i finałów).
-        *   Jayvon Graves: 12.8 Pkt/mecz.
-        *   W finałowym meczu 21.06.2026, Andrzej Pluta zdobył 15 punktów, Race Thompson 11 punktów, a Dominic Brewton III również 11 punktów.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz.
-        *   Jakub Szumert: 13.2 Pkt/mecz.
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz.
-        *   W finałowym meczu 21.06.2026, Andrzej Mazurczak zdobył 10 punktów.
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz był decydującym, siódmym spotkaniem finałowym PLK sezonu 2025/2026, rozgrywanym w Warszawie.
-    *   Legia Warszawa, będąca gospodarzem, obroniła tytuł mistrzowski, pokonując Zastal Zielona Góra 78:70.
-    *   Legia była najlepszą drużyną sezonu zasadniczego, a Andrzej Pluta został MVP sezonu i finałów.
-    *   Zastal borykał się z kluczową, długoterminową kontuzją Sagaby Konate, a inni zawodnicy grali z urazami.
-    *   Przewaga własnego parkietu w decydującym meczu playoff oraz pełna dyspozycja liderów Legii, w połączeniu z osłabieniami Zastalu, sprawiły, że typ na Legię Warszawa był uzasadniony.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o formie top scorerów i kontekstu serii meczów uniemożliwia pełną analizę. Na podstawie dostępnych danych o kontuzjach, mecz nie wykazywałby szczególnego ryzyka pod tym kątem, jednak brak innych kluczowych informacji czyni typ ryzykownym.)
