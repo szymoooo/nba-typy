@@ -1,15 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-08 14:45 ET) ---
-Analiza meczu: Heat @ Raptors (Typ: Raptors)
+--- KRYTYCZNY AUDYT LIVE (2026-08-08 15:18 ET) ---
+### Heat @ Raptors -> Typ: Raptors
 
-Na podstawie danych z 2026-08-08:
+Brak aktualnych raportów (Injury Report) na tę chwilę (2026-08-08).
 
-**Heat @ Raptors**
-*   **Typ:** Raptors
+**Historyczne braki w składach (styczeń 2026):**
 
-*   **Kluczowe braki w składach (Heat):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. (Roster Heat na styczeń 2026 obejmował m.in. Davion Mitchell, Norman Powell, Terry Rozier, Dru Smith, Jaime Jaquez Jr.)
+*   **Toronto Raptors:**
+    *   RJ Barrett: Poza grą (kontuzja kostki) 🤕
+    *   Ja'Kobe Walter: Poza grą (kontuzja kostki) 🤕
+    *   Jakob Poeltl: Poza grą (problemy z plecami, naciągnięcie dolnej części pleców) 🤕
+    *   Brandon Ingram: Pytanie (kontuzja kciuka) ❓
+    *   Scottie Barnes: Pytanie (skręcenie prawego kolana) ❓
+*   **Miami Heat:**
+    *   Tyler Herro: Poza grą (kontuzja żeber, palca u nogi) 🤕
+    *   Jaime Jaquez Jr.: Pytanie (skręcenie lewego kolana) ❓
+    *   Davion Mitchell: Pytanie/Dzień po dniu (stłuczenie lewego ramienia) ❓
+    *   Kel'el Ware: Poza grą (kontuzja ścięgna podkolanowego) 🤕
 
-*   **Kluczowe braki w składach (Raptors):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. (Roster Raptors na styczeń 2026 obejmował m.in. Scottie Barnes, RJ Barrett, Jakob Poeltl, Ja'Kobe Walter, Jamal Shead, Gradey Dick.)
-
-*   **Werdykt:** [✅ ZATWIERDZONY] (Brak aktualnych raportów o kontuzjach na dzień 2026-08-08 oznacza, że nie ma informacji wskazujących na kluczowe braki w składach, które czyniłyby ten typ ryzykownym).
+**Werdykt:** [⚠️ RYZYKOWNY]
+Biorąc pod uwagę historyczne braki kluczowych graczy w składzie Toronto Raptors w styczniu 2026 (m.in. RJ Barrett, Jakob Poeltl poza grą, a Brandon Ingram i Scottie Barnes jako pytajniki), typ na Raptors jest Ryzykowny. Heat również mieli swoich kontuzjowanych graczy (Tyler Herro, Jaime Jaquez Jr.), ale ogólna sytuacja Raptors wydawała się bardziej skomplikowana.
