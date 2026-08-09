@@ -1,6 +1,28 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-09 16:21 ET) ---
-Analiza meczu NBA (2026-08-09)
+--- KRYTYCZNY AUDYT LIVE (2026-08-09 16:38 ET) ---
+Analiza meczu Heat @ Raptors (styczeń 2026) na podstawie danych z 2026-08-09:
 
-**Heat @ Raptors**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę (2026-08-09). 🚫 W dniu 9 sierpnia 2026 roku nie ma aktywnych meczów NBA, a dostępne informacje o kontuzjach dla Toronto Raptors, choć z 8 sierpnia 2026, dotyczą głównie Summer League (Nate Bittle, Alijah Martin, Chucky Hepburn, Collin Murray-Boyles) lub długoterminowych statusów z poprzednich sezonów (Brandon Ingram, Immanuel Quickley) i nie są statusami "Out", "Questionable" ani "GTD" dla hipotetycznego meczu rozgrywanego dzisiaj. Dla Miami Heat nie znaleziono aktualnych raportów o kontuzjach na dzień 2026-08-09.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Ze względu na brak potwierdzonych, aktualnych raportów o kontuzjach ze statusem 'Out', 'Questionable' lub 'GTD' na dzień 2026-08-09, nie jest możliwe rzetelne ocenienie wpływu braków w składach na hipotetyczny mecz ze stycznia 2026 i tym samym zweryfikowanie typu. Składy na styczeń 2026 obejmowały m.in. Daviona Mitchella, Normana Powella, Terry'ego Roziera dla Heat oraz Scottiego Barnesa, RJ Barretta, Jakoba Poeltla, Immanuela Quickleya i Gradeya Dicka dla Raptors.
+**Miami Heat**
+
+*   **Aktualny skład (sierpień 2026):** Miami Heat w sierpniu 2026 roku dysponuje mocnym składem, w którym znaleźli się Giannis Antetokounmpo (pozyskany 6 lipca 2026), Bam Adebayo i Andrew Wiggins.
+*   **Kluczowe braki w składzie (styczeń 2026):**
+    *   Tyler Herro: Out (kontuzja żeber/palca u nogi w styczniu)
+    *   Davion Mitchell: Out (stłuczenie barku w styczniu)
+    *   Jaime Jaquez Jr.: Questionable (skręcenie lewego kolana 19 stycznia)
+    *   Norman Powell: Probable (problemy z plecami 29 stycznia)
+    *   Kel'el Ware: Probable (uraz ścięgna podkolanowego 29 stycznia)
+
+**Toronto Raptors**
+
+*   **Aktualny skład (sierpień 2026):** W składzie Toronto Raptors w sierpniu 2026 roku znajdują się Kawhi Leonard (pozyskany 30 czerwca 2026), Scottie Barnes, Immanuel Quickley, RJ Barrett, Brandon Ingram i Jakob Poeltl.
+*   **Kluczowe braki w składzie (styczeń 2026):**
+    *   RJ Barrett: Out (kontuzja kostki 12 stycznia)
+    *   Ja'Kobe Walter: Out (kontuzja kostki 12 stycznia)
+    *   Jakob Poeltl: Out (problemy z plecami 12 stycznia)
+    *   Brandon Ingram: Questionable (kontuzja kciuka 12 stycznia)
+    *   Scottie Barnes: Questionable (skręcenie prawego kolana 12 stycznia)
+
+---
+
+**Werdykt dla typu: Raptors**
+
+Biorąc pod uwagę znaczące osłabienia Raptors z powodu kontuzji w styczniu 2026 roku, gdzie kilku kluczowych graczy było poza składem (RJ Barrett, Ja'Kobe Walter, Jakob Poeltl) lub ich występ był niepewny (Brandon Ingram, Scottie Barnes), typ na zwycięstwo Raptors jest **[⚠️ RYZYKOWNY]**. Mimo że dzisiejsze składy (sierpień 2026) pokazują pozyskanie Kawhi Leonarda przez Raptors i Giannisa Antetokounmpo przez Heat, ocena dotyczy hipotetycznego meczu w styczniu 2026 z uwzględnieniem historycznych raportów o kontuzjach z tego okresu.
