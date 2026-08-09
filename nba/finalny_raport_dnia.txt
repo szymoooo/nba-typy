@@ -1,14 +1,14 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-09 04:37 ET) ---
-Na podstawie dostępnych danych z sieci na dzień 2026-08-09:
+--- KRYTYCZNY AUDYT LIVE (2026-08-09 05:06 ET) ---
+Dzień dobry! Analizuję Twoje typy na dzień 2026-08-09.
 
-**Heat @ Raptors -> Typ: Raptors**
+Należy pamiętać, że 9 sierpnia jest poza sezonem regularnym NBA, a obecnie nie są zaplanowane żadne mecze.
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. Mecze NBA nie są rozgrywane w sierpniu, dlatego brak jest oficjalnych statusów kontuzji ("Out", "Questionable", "GTD") dla dzisiejszej daty. Informacje o kontuzjach na dzień 9 sierpnia 2026 dotyczą jedynie wykluczeń z zakończonego sezonu 2025-2026.
-*   **Werdykt:** [✅ ZATWIERDZONY]
+**Heat @ Raptors** -> Typ: Raptors
 
-Analiza dla hipotetycznego meczu na podstawie składów ze Stycznia 2026 (sezon 2025-2026):
+*   **Kluczowe braki w składach:**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. W sierpniu NBA jest w offseason, więc nie ma zaplanowanych meczów ani bieżących raportów kontuzji na konkretne spotkania.
+    *   Warto jednak odnotować znaczące zmiany w składach:
+        *   **Miami Heat:** Pozyskali Giannisa Antetokounmpo w transakcji z Milwaukee Bucks. Inni kluczowi gracze to Bam Adebayo i Andrew Wiggins.
+        *   **Toronto Raptors:** Pozyskali Kawhi Leonarda w transakcji z LA Clippers. W składzie są również Scottie Barnes, Brandon Ingram i Immanuel Quickley.
 
-*   **Miami Heat:** W sezonie 2025-2026 Heat zakończyli rozgrywki z bilansem 43-39, zajmując 10. miejsce w Konferencji Wschodniej. Skład na styczeń 2026 prawdopodobnie obejmował kluczowych graczy takich jak Terry Rozier, Jaime Jaquez Jr., Bam Adebayo, Norman Powell i Davion Mitchell.
-*   **Toronto Raptors:** Raptors w sezonie 2025-2026 mieli lepszy bilans 46-36, plasując się na 5. miejscu w Konferencji Wschodniej. Skład na styczeń 2026 prawdopodobnie zawierałby takie nazwiska jak Scottie Barnes, R.J. Barrett, Immanuel Quickley, Jakob Poeltl i Gradey Dick. Co więcej, jest prawdopodobne, że Brandon Ingram był częścią składu Raptors w styczniu 2026, zanim został użyty w wymianie (która miała miejsce przed lipcem 2026). Dodanie Ingrama znacznie wzmocniłoby skład Raptors.
-
-Biorąc pod uwagę lepszy bilans Raptors w sezonie 2025-2026 oraz potencjalnie silniejszy skład w styczniu 2026, typ na Raptors jest uzasadniony.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak zaplanowanych meczów NBA w dniu 2026-08-09 uniemożliwia ocenę typu. Sezon NBA 2026-27 jeszcze się nie rozpoczął.
