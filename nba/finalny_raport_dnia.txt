@@ -1,6 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-09 01:32 ET) ---
-Analiza meczu: Heat @ Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-08-09 02:25 ET) ---
+Analiza meczu: Heat @ Raptors (Typ: Raptors)
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. W NBA trwa offseason, brak meczów i oficjalnych raportów o kontuzjach na dzień 2026-08-09.
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Bazując na danych z sezonu 2025-2026, który obejmuje styczeń 2026, Toronto Raptors zakończyli sezon na 5. miejscu w Konferencji Wschodniej z bilansem 46-36. Miami Heat zakończyli ten sam sezon na 10. miejscu z bilansem 43-39. Biorąc pod uwagę lepszy bilans i wyższą pozycję w konferencji Raptors w sezonie zawierającym styczeń 2026, typ na Raptors jest uzasadniony przy braku innych czynników, takich jak konkretne kontuzje czy forma w danym miesiącu.
+---
+
+**Kluczowe braki w składach:**
+
+*   Brak aktualnych raportów (Injury Report) na tę chwilę. NBA nie rozgrywa meczów w sierpniu, a raporty dotyczące kontuzji są publikowane w dniach meczowych w trakcie sezonu.
+    
+    *   **Miami Heat (skład styczeń 2026):** W styczniu 2026 roku, skład Heat obejmował m.in. Terry'ego Roziera, Jaime Jaqueza Jr. oraz Daviona Mitchella i Normana Powella.
+    *   **Toronto Raptors (skład styczeń 2026):** W styczniu 2026 roku, skład Raptors obejmował m.in. Scottiego Barnesa, Brandona Ingrama, Immanuela Quickleya, RJ Barretta i Jakoba Poeltla.
+
+**Werdykt:** [⚠️ RYZYKOWNY]
+
+Brak aktualnych danych o kontuzjach na dzień 2026-08-09 uniemożliwia rzetelną ocenę składów i wpływu na wynik meczu.
