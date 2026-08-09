@@ -1,18 +1,12 @@
---- AUDYT PLK LIVE (2026-08-09 23:52 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21) na podstawie danych z 2026-08-09:
+--- AUDYT PLK LIVE (2026-08-10 00:20 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
-
-1.  **Kluczowe braki w składach (stan na 2026-08-09):**
-    *   🏀 **Legia Warszawa:**
-        *   Brak Dominica Brewtona, który przeniósł się do Izraela (informacja z 25.07.2026).
-        *   Brak Juliana Dąbrowskiego, który przeniósł się na uczelnię UC Davis (informacja z 29.07.2026).
-        *   Brak istotnych kontuzji koszykarskich zgłoszonych na dzień 2026-08-09.
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Brak istotnych braków w składzie koszykarskim (kontuzje/odejścia) zgłoszonych na dzień 2026-08-09. Wcześniejsze doniesienia o kontuzjach (Sagaba Konate, Filip Matczak, Jakub Szumert w lutym-czerwcu 2026) dotyczyły poprzedniego sezonu/turniejów i nie ma aktualnych informacji o ich statusie na 2026-08-09.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda i Matthias Tass, którzy mieli kontuzje w grudniu 2025, wrócili do gry w finałach Orlen Basket Ligi w czerwcu 2026. Ojars Silins również był dostępny i punktował.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Filip Matczak, Jakub Szumert i Sagaba Konate, którzy byli kontuzjowani w lutym 2026, wrócili do gry w finałach Orlen Basket Ligi w czerwcu 2026.
 
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Analiza oparta jest na składach i stanie kadrowym zespołów na dzień 2026-08-09, co jest istotnie po dacie rozegrania meczu (2026-06-21). Zmiany w składzie Legii Warszawa (odejścia Brewtona i Dąbrowskiego oraz nowe transfery takie jak Michael Christmas, Zach Freemantle, Gyorgy Goloman, Devon Daniels) oznaczają, że obecny skład nie odzwierciedla dokładnie drużyny z dnia meczu. Utrudnia to precyzyjną ocenę pierwotnego typu w oparciu o aktualne dane.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się 21.06.2026 jako siódmy i decydujący mecz finału Orlen Basket Ligi. Legia Warszawa wygrała 78:70 u siebie w Hali OSiR Bemowo i zdobyła Mistrzostwo Polski. Tip na Legię Warszawa był trafny.
