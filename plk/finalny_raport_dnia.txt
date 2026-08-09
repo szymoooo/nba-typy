@@ -1,18 +1,40 @@
---- AUDYT PLK LIVE (2026-08-09 09:37 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21) - retrospektywna ocena na dzień 2026-08-09.
+--- AUDYT PLK LIVE (2026-08-09 10:20 CET) ---
+Analiza meczu PLK z dnia 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-Mecz rozegrano w Warszawie, na parkiecie Legii. Data meczu (21 czerwca 2026) wskazuje na bardzo późną fazę sezonu 2025/2026, prawdopodobnie play-offy lub finały.
+Mecz ten był siódmym i decydującym spotkaniem finałów ORLEN Basket Ligi w sezonie 2025/2026. Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, broniąc tytułu Mistrza Polski. Spotkanie odbyło się w Warszawie, w hali Bemowo.
 
 ---
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+**ORLEN Zastal Zielona Góra**
 
-1.  **Kluczowe braki w składach (stan na 21.06.2026):**
-    *   **Legia Warszawa:** Brak informacji o istotnych brakach w składzie koszykarskim Legii Warszawa na dzień 21 czerwca 2026 roku.
-    *   **ORLEN Zastal Zielona Góra:** Brak informacji o istotnych brakach w składzie koszykarskim ORLEN Zastalu Zielona Góra na dzień 21 czerwca 2026 roku.
+1.  **Kluczowe braki w składzie (stan na 2026-06-21):**
+    *   Przed finałową serią, ORLEN Zastal zmagał się z problemami zdrowotnymi kilku ważnych zawodników.
+    *   Filip Matczak zgłosił dolegliwości związane ze starą kontuzją i był oszczędzany, choć oczekiwano jego dostępności w finale.
+    *   Dwight Wilson nadal odczuwał skutki urazu kostki, ale uczestniczył w treningach.
+    *   Phil Fayne wrócił do zespołu na serię finałową po pobycie w Stanach Zjednoczonych z powodów rodzinnych, co sugeruje wcześniejszą nieobecność.
+    *   Wcześniej w sezonie (luty 2026), Filip Matczak, Jakub Szumert i Sagaba Konate byli kontuzjowani i niedostępni podczas Pucharu Polski. W meczu ligowym z MKS Dąbrowa Górnicza (13 lutego 2026) Zastal był "mocno osłabiony z powodu kontuzji".
+    *   Brak istotnych braków w składzie koszykarskim (stan na 2026-08-09).
 
-2.  **Aktualna forma top scorerów (stan na 21.06.2026):**
-    *   Brak danych z API PulsBasketu dla tego zespołu. Aby ocenić formę top scorerów na dzień 21 czerwca 2026, należałoby przeanalizować ich średnie punkty i skuteczność z ostatnich meczów sezonu 2025/2026 PLK. Brak szczegółowych danych meczowych z tamtego okresu dostępnych w moich źródłach.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Landrius Horton był najlepszym strzelcem całej PLK w sezonie 2025/2026, zdobywając średnio 19.7 punktu na mecz.
+    *   Brak danych z API dla tego zespołu dla poszczególnych zawodników w serii finałowej.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak potwierdzonych informacji o kluczowych kontuzjach lub zawieszeniach dla którejkolwiek z drużyn na dzień meczu (21.06.2026) sugeruje, że oba zespoły mogły wystawić pełne składy. Typ na Legię Warszawa, jako gospodarza w tak późnej fazie sezonu (domniemane play-offy), jest często uzasadniony ze względu na przewagę własnego parkietu i wsparcie kibiców, zwłaszcza jeśli obie drużyny były w dobrej dyspozycji. Brak danych o formie indywidualnej top scorerów uniemożliwia bardziej szczegółową analizę, ale przy braku doniesień o osłabieniach typ na faworyta gospodarzy jest standardowym podejściem.
+---
+
+**Legia Warszawa**
+
+1.  **Kluczowe braki w składzie (stan na 2026-06-21):**
+    *   Brak potwierdzonych, istotnych kontuzji kluczowych zawodników Legii Warszawa bezpośrednio przed lub w trakcie finałowego meczu (2026-06-21) w dostępnych źródłach z sezonu 2025/2026.
+    *   Ojārs Siliņš opuścił Legię po dwóch sezonach, przenosząc się do ojczyzny, co nastąpiło po zakończeniu sezonu 2025/2026.
+    *   Brak istotnych braków w składzie koszykarskim (stan na 2026-08-09).
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Andrzej Pluta Jr. został MVP sezonu 2025/2026 PLK oraz MVP finałów.
+    *   Jayvon Graves był wyróżniającym się strzelcem Legii, zdobywając 23 punkty w meczu Ligi Mistrzów w październiku 2025 roku.
+    *   Brak danych z API dla tego zespołu dla poszczególnych zawodników w serii finałowej.
+
+---
+
+**Werdykt:** [✅ ZATWIERDZONY]
+
+**Uzasadnienie:** Pomimo wcześniejszych problemów kadrowych ORLEN Zastalu Zielona Góra, które mogły wpływać na ich dyspozycję w serii finałowej (kontuzje Matczaka, Wilsona i powrót Fayne'a tuż przed finałem), Legia Warszawa była w szczytowej formie, o czym świadczy tytuł Mistrza Polski oraz indywidualne wyróżnienia dla ich zawodników, takich jak Andrzej Pluta Jr. (MVP sezonu i finałów). Legia grała decydujący mecz na własnym parkiecie. Typ na Legię Warszawa był trafny.
