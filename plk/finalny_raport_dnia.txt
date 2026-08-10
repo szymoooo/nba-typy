@@ -1,19 +1,25 @@
---- AUDYT PLK LIVE (2026-08-10 02:01 CET) ---
-# Analiza meczu PLK (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-10 08:10 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu w kontekście: 2026-06-21, audyt na dzień 2026-08-10):
 
----
+### ORLEN Zastal Zielona Góra
 
-## ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+1.  **Kluczowe braki w składach:**
+    *   Sagaba Konate: Doznał awulsyjnego uszkodzenia więzadła nadgarstka w lutym 2026 roku, co zakończyło jego sezon 2025/2026. Jego powrót do pełnej dyspozycji na dzień 2026-08-10 jest bardzo wątpliwy.
+    *   Jakub Szumert: Opuścił zespół, przenosząc się do NCAA w lipcu 2026 roku.
+    *   Brak potwierdzonych, świeżych kontuzji dla pozostałych zawodników na 2026-08-10.
 
-### 1. Kluczowe braki w składach:
-*   **Legia Warszawa (koszykówka):** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-10.
-*   **ORLEN Zastal Zielona Góra (koszykówka):** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-10.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu na sezon 2026/2027, gdyż składy są w fazie budowy. Jakub Szumert, jeden z wiodących strzelców poprzedniego sezonu (13.2 Pkt/mecz), opuścił klub.
 
-### 2. Aktualna forma top scorerów:
-*   **Legia Warszawa:** Brak danych z API dla tego zespołu.
-*   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
+### Legia Warszawa
 
-### 3. Werdykt:
-*   [✅ ZATWIERDZONY]
-    *   Brak potwierdzonych istotnych absencji po stronie obu drużyn na dzień 2026-08-10, co wskazuje na pełną siłę składów.
-    *   W związku z brakiem informacji o formie strzelców, typ pozostaje zgodny z pierwotnym wskazaniem, bazując na braku negatywnych sygnałów ze składów.
+1.  **Kluczowe braki w składach:**
+    *   Michał Kolenda: Przechodzi rehabilitację, co doprowadziło do krótkoterminowego zakontraktowania Mathieu Wojciechowskiego na trzy miesiące w sierpniu 2026 roku.
+    *   Brak istotnych braków w składzie koszykarskim poza Michałem Kolendą, jeśli chodzi o kontuzje z dnia 2026-08-10. Informacje o kontuzjach piłkarzy (np. Reca, Stojanović, Wszołek, Kapustka, Čolak) nie są istotne dla meczu koszykówki.
+
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu na sezon 2026/2027, ponieważ drużyna jest w trakcie kompletowania składu i przygotowania do sezonu rozpoczynają się 14 sierpnia 2026 roku. Do zespołu dołączyło wielu nowych graczy, m.in. Shane Hunter, DJ Brewton, Jayvon Graves, Race Thompson, Kristers Zoriks, Markus Ilver, Gyorgy Goloman, Michael Christmas i Devon Daniels IV.
+
+### Werdykt: [⚠️ RYZYKOWNY]
+
+Analiza na dzień 2026-08-10, w okresie budowania składów na nadchodzący sezon 2026/2027, wskazuje na dużą niepewność. Obie drużyny mają istotne zmiany kadrowe i braki. Legia Warszawa przystąpi do przygotowań dopiero 14 sierpnia, a Zastal stracił kluczowego strzelca (Szumert) i środkowego (Konate) jest kontuzjowany od dłuższego czasu. Brak danych o aktualnej formie nowych zawodników i zgraniu zespołów czyni typ bardzo ryzykownym.
