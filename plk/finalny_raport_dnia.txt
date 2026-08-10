@@ -1,15 +1,19 @@
---- AUDYT PLK LIVE (2026-08-10 20:05 CET) ---
-Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
-Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-10 21:48 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Race Thompson był wykluczony z powodu urazu stawu skokowego, którego doznał w serii półfinałowej, i prawdopodobnie nadal był niedostępny na mecze finałowe w czerwcu 2026. Michał Kolenda powrócił do składu na trzeci mecz półfinałów po problemach zdrowotnych.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak, Jakub Szumert i Sagaba Konate (uraz nadgarstka) byli kontuzjowani w lutym 2026 roku i brak jest potwierdzenia ich powrotu do pełnej sprawności na czerwiec 2026. Phil Fayne odczuwał ból, ale oczekiwano jego występu w finałach. Dwight Wilson III odczuwał skutki urazu kostki, ale trenował normalnie.
+Dzisiejsza data: 2026-08-10
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+
+1.  **Kluczowe braki w składach (stan na 2026-08-10):**
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate był wykluczony z gry z powodu poważnej kontuzji nadgarstka, której doznał w lutym 2026 roku, co zakończyło jego sezon 2025/26. Informacje z czerwca 2026 wskazywały również na "walkę z urazami" w szeregach Zastalu przed finałową rywalizacją.
+    *   **Legia Warszawa:** Michał Kolenda przeszedł planowaną operację stawu skokowego po zakończeniu sezonu 2025/26. Czas rekonwalescencji wynosi 8-10 tygodni, co wpłynie na jego dostępność na początku sezonu 2026/27. Sugeruje to, że był dostępny na finały w czerwcu 2026.
 
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
-    *   🏀 **Legia Warszawa:** W sezonie 2025/2026 czołowymi strzelcami byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). W meczu półfinałowym (1 czerwca 2026) Dominic Brewton III zdobył 22 punkty, Andrzej Pluta 21 punktów. W meczu finałowym (15 czerwca 2026) Carl Ponsar (17 pkt), Andrzej Pluta (14 pkt) i Dominic Brewton III (12 pkt) byli najskuteczniejsi dla Legii.
-    *   🏀 **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 liderami punktowymi byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). W meczu finałowym (15 czerwca 2026) Andrzej Mazurczak zdobył 21 punktów, a Conley Garrison 16 punktów. Dwight Wilson III zanotował 10 punktów i 5 zbiórek.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Zastal Zielona Góra borykał się z bardziej rozległymi problemami zdrowotnymi w ciągu sezonu, a niektórzy kluczowi gracze (Matczak, Szumert, Konate) byli niepewni występu w finałach. Phil Fayne i Dwight Wilson III grali z urazami. Mimo to, Zastal pokonał Legię 85:73 w meczu finałowym 15 czerwca 2026 roku, co wskazuje na ich zdolność do walki pomimo braków. Legia, choć bez Race'a Thompsona, gra u siebie i dysponuje solidną formą swoich liderów. Ze względu na wahania formy i kontuzje po stronie Zastalu, ale także ich udany występ w niedawnym meczu finałowym, typ na Legię jest obarczony ryzykiem.
+3.  **Werdykt:**
+    *   Mecz 21 czerwca 2026 roku był finałowym starciem, w którym Legia Warszawa zdobyła tytuł Mistrza Polski. Zastal przystąpił do tej rywalizacji osłabiony kontuzją kluczowego zawodnika Sagaby Konate oraz innymi urazami w składzie. Pomimo tych braków, typ na Legię Warszawa okazał się trafny, gdyż stołeczna drużyna zwyciężyła w serii finałowej.
+    *   ✅ **ZATWIERDZONY**
