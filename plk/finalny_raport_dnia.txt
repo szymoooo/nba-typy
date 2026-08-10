@@ -1,25 +1,27 @@
---- AUDYT PLK LIVE (2026-08-10 17:04 CET) ---
-Poniżej przedstawiam analizę meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, z uwzględnieniem danych aktualnych na dzień 2026-08-10:
-
----
+--- AUDYT PLK LIVE (2026-08-10 18:10 CET) ---
+Analiza meczu PLK (2026-06-21)
 
 ### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Sagaba Konate doznał poważnej kontuzji nadgarstka w lutym 2026, wykluczającej go z reszty sezonu 2025/2026, jednak brak jest aktualnych informacji o jego obecności w składzie na sezon 2026/2027 czy o statusie zdrowotnym na dzień 2026-08-10. Filip Matczak i Dwight Wilson mieli drobne dolegliwości w czerwcu 2026, ale brak aktualnych raportów o ich kontuzjach.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach z Legia.com dotyczyły sekcji piłkarskiej (np. Paweł Wszołek, Rafał Augustyniak, Zoran Arsenić) i nie są relewantne dla drużyny koszykarskiej. Doniesienia z października 2025 o poważnej kontuzji Jerricka Hardinga dotyczyły zawodnika Rytas Wilno, a nie koszykarza Legii.
-
-2.  **Aktualna forma top scorerów:**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Conley Garrison: Kluczowy zawodnik wicemistrzowskiego sezonu 2025/2026, który pozostaje w składzie na sezon 2026/2027 i wraz z Andrzejem Mazurczakiem tworzy trzon obwodowy.
-        *   Trazarien White: Nowy transfer na pozycję 2/3, określany jako "slasher" z dużym potencjałem strzeleckim, który w poprzedniej lidze (Australia) notował średnio 24.3 punktu na mecz.
-        *   Dwight Wilson III: Dołączył do zespołu w styczniu 2026, a wcześniej w innych ligach był określany jako "maszyna do double-double".
+1.  **Kluczowe braki w składach (stan na 2026-08-10):**
     *   **Legia Warszawa:**
-        *   Andrzej Pluta: Został MVP finałów oraz sezonu zasadniczego PLK 2025/2026. Pozostaje w składzie na sezon 2026/2027, choć Legia pozyskała Kristersa Zoriksa jako jego potencjalnego następcę.
-        *   Dominic Brewton: Był jednym z kluczowych zawodników podczas mistrzowskiej kampanii 2025/2026.
-        *   Jayvon Graves: W meczu z października 2025 zdobył 23 punkty. Brak aktualnych danych z API dla tego zespołu.
+        *   Michał Kolenda: Kontuzja stawu skokowego, przewidywany czas przerwy od treningów wynosi od 8 do 10 tygodni (od początku sierpnia 2026).
+        *   Dominic Brewton: Opuścił klub i przeniósł się do Izraela (informacja z lipca 2026).
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Brak istotnych braków w składzie koszykarskim. (Sagaba Konate doznał kontuzji nadgarstka kończącej sezon 2025/2026 w lutym 2026, ale brak aktualnych informacji o jego statusie na dzień 2026-08-10).
+
+2.  **Aktualna forma top scorerów (w analizowanym meczu 2026-06-21):**
+    *   **Legia Warszawa:**
+        *   Carl Ponsar (15 pkt)
+        *   Dominic Brewton (14 pkt)
+        *   Ojars Silins (12 pkt)
+        *   Andrzej Pluta (11 pkt)
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis (18 pkt)
+        *   Conley Garrison (17 pkt)
+        *   Andrzej Mazurczak (15 pkt)
+        *   Jakub Szumert (12 pkt)
 
 3.  **Werdykt:**
-    Legia Warszawa jest aktualnym Mistrzem Polski z sezonu 2025/2026 i aktywnie wzmacnia skład na nadchodzące rozgrywki 2026/2027, pozyskując m.in. Kristersa Zoriksa, Markusa Ilvera i Gyorgy'ego Golomana. Dodatkowo, w kadrze pozostaje Andrzej Pluta, MVP poprzedniego sezonu i finałów. ORLEN Zastal Zielona Góra, jako wicemistrz, również dokonuje znaczących wzmocnień (m.in. Trazarien White, Toyaz Solomon) i zatrzymał kluczowych graczy. Brak zgłoszonych istotnych kontuzji koszykarskich w obu zespołach na dzień dzisiejszy (2026-08-10). Biorąc pod uwagę status obrońcy tytułu Legii, jakość dokonanych transferów oraz brak kluczowych absencji, typ na Legię Warszawa wydaje się być uzasadniony.
-
-    **[✅ ZATWIERDZONY]**
+    *   Mecz odbył się 21 czerwca 2026 roku. Legia Warszawa pokonała ORLEN Zastal Zielona Góra wynikiem 78-70 w decydującym, siódmym meczu finałowym i zdobyła mistrzostwo Polski.
+    *   [✅ ZATWIERDZONY]
