@@ -1,32 +1,33 @@
---- AUDYT PLK LIVE (2026-08-11 18:11 CET) ---
-Okay, I have gathered information from the provided search results. The key is to analyze the match from 2026-06-21 using information available as of today, 2026-08-11.
+--- AUDYT PLK LIVE (2026-08-11 19:14 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, rozegranego 2026-06-21, w oparciu o dostępne dane z sezonu 2025/2026.
 
-Here's the breakdown for the match:
+### ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21) -> Typ: Legia Warszawa
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
-
-*   **1. Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
+1.  **Kluczowe braki w składach:**
 
     *   **Legia Warszawa:**
-        *   Michał Kolenda przeszedł planowy zabieg stawu skokowego i przewidywany czas przerwy od treningów wynosi od 8 do 10 tygodni (informacja z 2026-08-11). Zatem na dzień 2026-06-21, Michał Kolenda byłby niedostępny lub dopiero rozpoczynałby rehabilitację.
-        *   Julian Dąbrowski (miał kontrakt do 2028) przenosi się na uczelnię UC Davis w USA. Oznacza to, że opuścił drużynę przed 2026-08-11, więc na dzień meczu 2026-06-21, jego dostępność byłaby niepewna lub byłby to jego ostatni okres w klubie.
-        *   Ojars Silins nie przedłużył umowy po dwóch sezonach i przeniósł się do VEF Ryga. Zakładając, że transfery odbywają się po zakończeniu sezonu, mógł być dostępny na mecz 21.06.2026, ale nie byłby w planach na kolejny sezon. Jednakże, źródło mówi o braku przedłużenia umowy i jego transferze do ojczyzny, co sugeruje, że jego odejście mogło nastąpić po zakończeniu sezonu 2025/2026. Biorąc pod uwagę datę meczu 2026-06-21, możliwe, że to był już ostatni dzwonek na jego występy, jeśli sezon 2025/2026 jeszcze trwał lub właśnie się kończył.
-        *   Shane Hunter, który występował w sezonie 2025/26 na zasadzie rocznego wypożyczenia, w nadchodzącym sezonie grać będzie w Eurolidze. Podobnie jak z Silinsem, jego status na 2026-06-21 jest zależny od dokładnego terminu zakończenia jego wypożyczenia.
-        *   Dominic Brewton przeniósł się do Izraela (informacja z 2026-07-25). Biorąc pod uwagę datę meczu (21.06.2026), prawdopodobnie był dostępny.
-        *   Legia Warszawa rozpocznie przygotowania do sezonu 2026/27 dopiero 14 sierpnia 2026, co oznacza, że 21 czerwca 2026 drużyna mogła być jeszcze w trakcie poprzedniego sezonu lub w krótkiej przerwie.
-        *   Mathieu Wojciechowski został zakontraktowany na trzy miesiące w Legii (informacja z 2026-08-07). Devon Daniels IV został nowym zawodnikiem Legii (informacja z 2026-08-06). Michael Christmas został nowym zawodnikiem Legii (informacja z 2026-07-28). Zach Freemantle nowym zawodnikiem Legii (informacja z 2026-07-27). Gyorgy Goloman nowym zawodnikiem Legii (informacja z 2026-07-23). Ci zawodnicy dołączyli do Legii po 21.06.2026, więc nie byliby dostępni na ten mecz.
-        *   Brak innych istotnych braków w składzie koszykarskim, o których mowa na dzień 2026-08-11, odnoszących się do meczu z 21.06.2026.
+        *   Z początkiem grudnia 2025 Legia zmagała się z problemami kadrowymi. Michał Kolenda i Matthias Tass doznali kontuzji, które miały wykluczyć ich na dłuższy czas, nawet na kilka miesięcy. Andrzej Pluta i Jayvon Graves wrócili do składu przed meczem z Treflem Sopot w grudniu 2025. Nie ma jednak informacji o ich statusie na czerwiec 2026.
+        *   Brak potwierdzonych informacji o innych kontuzjach lub zawieszeniach na dzień 2026-06-21.
     *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate doznał awulsyjnego uszkodzenia więzadła SL nadgarstka podczas Pekao S.A. Pucharu Polski w sezonie 2025/2026 i nie zagrał już do końca tego sezonu (informacja z 2026-02-28). Zatem na dzień 2026-06-21 był kontuzjowany.
-        *   Conley Garrison przedłużył kontrakt ze Zastalem na sezon 2026/2027 (informacja z 2026-06-23). Był dostępny na mecz 2026-06-21.
-        *   Brak innych istotnych braków w składzie koszykarskim.
+        *   W lutym 2026 Zastal miał problemy z kontuzjami Filipa Matczaka, Jakuba Szumerta i Sagaby Konate, ale reszta zespołu radziła sobie dobrze w Pucharze Polski.
+        *   W pierwszym meczu finałowym (8 czerwca 2026) Filip Matczak doznał urazu nosa.
+        *   W maju 2026 Chavaughn Lewis był kontuzjowany i nie miał wystąpić w meczu o 7. miejsce. Jednak w meczu finałowym 21 czerwca 2026 był w składzie Zastalu i zdobył 10 punktów.
+        *   Phil Fayne wrócił do składu Zastalu na początku czerwca 2026, po ciężkim sezonie.
+        *   Brak potwierdzonych informacji o innych istotnych brakach w składzie na dzień 2026-06-21.
 
-*   **2. Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w kontekście "W SERII powyżej". Na podstawie danych historycznych z sezonu 2025/2026 dla Zastalu, czołowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+2.  **Aktualna forma top scorerów (sezon 2025/2026 i mecz 2026-06-21):**
 
-*   **3. Werdykt:**
-    *   [⚠️ RYZYKOWNY]
-    *   Legia Warszawa miała potwierdzoną kontuzję Michała Kolendy, która uniemożliwiała mu grę. Straciła też Juliana Dąbrowskiego, a status Shane'a Huntera i Ojarsa Silinsa był niepewny lub byli na wylocie z klubu po sezonie. Dodatkowo, Legia dokonała wielu transferów *po* dacie meczu, co oznacza, że typowana drużyna na dzień 21.06.2026 nie była tą samą, która była wzmocniona na sierpień 2026.
-    *   ORLEN Zastal Zielona Góra miał ważny brak w postaci kontuzji Sagaby Konate, która wykluczyła go z gry na resztę sezonu 2025/2026. Zastal był w finale PLK w sezonie 2025/2026 i został wicemistrzem Polski (mecz 7 finału odbył się 21.06.2026, w którym Zastal przegrał). To oznacza, że mecz 21.06.2026 mógł być meczem finałowym, co dodaje wagi kontuzjom.
+    *   **Legia Warszawa:**
+        *   W meczu 2026-06-21, Legia wygrała z Zastalem 78:70. Najlepsi strzelcy Legii w tym meczu to: Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt) i Dominic Brewton III (11 Pkt).
+        *   W sezonie 2025/2026, średnio najwięcej punktów dla Legii zdobywali: Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+    *   **ORLEN Zastal Zielona Góra:**
+        *   W meczu 2026-06-21, najlepsi strzelcy Zastalu to: Andrzej Mazurczak (10 Pkt), Jayvon Maughmer (10 Pkt) i Chavaughn Lewis (10 Pkt).
+        *   W sezonie 2025/2026, średnio najwięcej punktów dla Zastalu zdobywali: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+        *   Warto zauważyć, że Chavaughn Lewis, mimo wcześniejszej kontuzji, zagrał w finale i był jednym z topowych strzelców Zastalu.
 
-    Biorąc pod uwagę kontuzję lidera Zastalu (Konate) i niepewności w składzie Legii, typ na Legię Warszawa, bez dokładnych informacji o formie obu drużyn w bezpośrednio poprzedzających meczu finałowym (zakładając, że to był mecz finałowy sezonu 2025/2026), jest ryzykowny.
+3.  **Werdykt:**
+
+    [✅ ZATWIERDZONY]
+
+    **Uzasadnienie:**
+    Mecz z 21 czerwca 2026 był siódmym i decydującym spotkaniem finałowym Polskiej Ligi Koszykówki, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, zdobywając tytuł Mistrza Polski. Legia grała na własnym parkiecie (OSiR Warszawa Bemowo), co w decydującym meczu serii play-off jest znaczącą przewagą. Mimo wcześniejszych problemów z kontuzjami, kluczowi gracze Legii, tacy jak Andrzej Pluta, Race Thompson i Dominic Brewton III, byli w dobrej formie strzeleckiej w tym meczu. Zastal również borykał się z urazami w trakcie sezonu, jednak liderzy tacy jak Chavaughn Lewis i Andrzej Mazurczak zagrali w finale. Biorąc pod uwagę atut własnego parkietu w decydującym spotkaniu finałowym i skuteczną grę Legii, typ na Legię Warszawa był uzasadniony.
