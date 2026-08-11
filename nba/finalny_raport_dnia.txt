@@ -1,17 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-11 15:26 ET) ---
-Oto analiza Twojego typu na podstawie dostępnych danych:
+--- KRYTYCZNY AUDYT LIVE (2026-08-11 15:54 ET) ---
+Dla meczu Heat @ Raptors (Typ: Raptors):
 
----
+-   **Kluczowe braki w składach:**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Dzisiejsza data (2026-08-11) to okres poza sezonem NBA, a raporty kontuzji są zazwyczaj publikowane w dniach meczowych.
+    *   Na podstawie składów ze stycznia 2026 roku, kluczowymi graczami Miami Heat byli m.in.: Giannis Antetokounmpo, Bam Adebayo, Andrew Wiggins, Terry Rozier i Jaime Jaquez Jr.
+    *   Kluczowymi graczami Toronto Raptors w styczniu 2026 roku byli m.in.: Scottie Barnes, Brandon Ingram, Immanuel Quickley, RJ Barrett i Jakob Poeltl.
 
-### Heat @ Raptors -> Typ: Raptors
-
-*   **Kluczowe braki w składach (dane na STYCZEŃ 2026):**
-    *   **Miami Heat:**
-        *   W styczniu 2026, kluczowymi graczami w składzie Heat byli Jimmy Butler, Bam Adebayo, Terry Rozier i Jaime Jaquez Jr.. Roster na sezon 2025-2026 wskazuje również na obecność Daviona Mitchella, Normana Powella i Dru Smitha.
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-08-11), ponieważ jest to poza sezonem NBA.
-    *   **Toronto Raptors:**
-        *   W styczniu 2026, skład Raptors najprawdopodobniej obejmował Scotta Barnesa, Immanuela Quickleya, R.J. Barretta, Jakoba Poeltla i Gradey'ego Dicka.
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-08-11), ponieważ jest to poza sezonem NBA.
-
-*   **Werdykt: [⚠️ RYZYKOWNY]**
-    *   Typ jest ryzykowny. Skład Miami Heat w styczniu 2026, z doświadczonymi gwiazdami takimi jak Jimmy Butler i Bam Adebayo, stanowił silną i zgraną drużynę. Raptors, choć posiadający utalentowany młody trzon z Scottie Barnesem, Quickleyem i Barrettem, mógł charakteryzować się większą niekonsekwencją. Bez konkretnych statystyk meczowych z początku 2026 roku ani aktualnych raportów dotyczących formy czy kontuzji (ze względu na przerwę między sezonami), postawienie na Raptors przeciwko ugruntowanemu zespołowi Heat jest obarczone ryzykiem.
+-   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak jakichkolwiek aktualnych informacji o kontuzjach lub statusie graczy ("Out", "Questionable", "GTD") na dzień 2026-08-11 uniemożliwia rzetelną analizę i zatwierdzenie typu. Sezon NBA nie jest w toku.
