@@ -1,26 +1,13 @@
---- AUDYT PLK LIVE (2026-08-11 11:16 CET) ---
-Audyt meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-11 17:03 CET) ---
+Analiza meczu PLK (2026-06-21): ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-Mecz ten był siódmym, decydującym spotkaniem finałów Orlen Basket Ligi sezonu 2025/2026, rozegranym w Warszawie na OSiR Bemowo. Legia Warszawa zwyciężyła 78:70, zdobywając Mistrzostwo Polski.
+1.  **ORLEN Zastal Zielona Góra**
+    *   **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):** Na dzień 2026-08-11 brak jest istotnych, potwierdzonych braków w składzie koszykarskim zgłoszonych jako kontuzje czy zawieszenia. Należy jednak zaznaczyć, że w przerwie międzysezonowej klub opuścili m.in. Dwight Wilson III i Jayvon Maughmer (przenieśli się do innych lig), a Jakub Szumert odszedł do NCAA. Kapitan Andrzej Mazurczak spędza offseason w USA. Informacje o kontuzjach Filipa Matczaka, Jakuba Szumerta i Sagaby Konate pochodzą z lutego 2026 r. i dotyczyły Pucharu Polski, nie są aktualne jako bieżące braki na 2026-08-11.
+    *   **Aktualna forma top scorerów:** brak danych z API dla tego zespołu.
+2.  **Legia Warszawa**
+    *   **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):** Na dzień 2026-08-11 brak jest istotnych, potwierdzonych braków w składzie koszykarskim zgłoszonych jako kontuzje czy zawieszenia. Legia Warszawa rozpoczyna przygotowania do sezonu 2026/27 testami medycznymi 14 sierpnia. W letnim okienku transferowym do Legii dołączyli nowi zawodnicy, tacy jak Kristers Zoriks, Markus Ilver, Gyorgy Goloman, Mathieu Wojciechowski, Devon Daniels, Shane Hunter, DJ Brewton, Jayvon Graves i Race Thompson. Z klubem pożegnali się m.in. Andrzej Pluta i Dominic Brewton III.
+    *   **Aktualna forma top scorerów:** brak danych z API dla tego zespołu.
 
----
+### Werdykt: [⚠️ RYZYKOWNY]
 
-**ORLEN Zastal Zielona Góra**
-
-1.  **Kluczowe braki w składzie:**
-    *   🚫 **Sagaba Konate** (silny skrzydłowy/środkowy) – kontuzja awulsyjnego uszkodzenia więzadła SL nadgarstka, wykluczony z gry do końca sezonu 2025/2026 (informacja z lutego 2026).
-2.  **Aktualna forma top scorerów (w serii):**
-    *   Główni strzelcy Zastalu w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
-    *   W decydującej fazie finałów (mecz 4, 15 czerwca 2026), Andrzej Mazurczak i Conley Garrison zaprezentowali bardzo dobrą formę, zdobywając łącznie 37 punktów (w porównaniu do 24 w poprzednich trzech meczach) i notując tylko jedną stratę. Dwight Wilson (10 pkt, 5 zbórek) oraz Patrick Cartier i Phil Fayne również pokazali się z dobrej strony.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] (Typ na Legię był ryzykowny z uwagi na zryw Zastalu w serii i kontuzję kluczowego gracza, ale ostatecznie trafny ze względu na atut własnego parkietu Legii i jej mistrzostwo).
-
----
-
-**Legia Warszawa**
-
-1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim Legii Warszawa zgłoszonych na mecz 2026-06-21.
-2.  **Aktualna forma top scorerów (w serii):**
-    *   Najlepsi strzelcy Legii w sezonie 2025/2026 to Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
-    *   W meczu 4 finałów (15 czerwca 2026) Legia rzucała ze skutecznością zaledwie 40%, a najskuteczniejszym graczem był Carl Ponsar (17 pkt), co wskazuje na pewne wahania formy w trakcie serii. Ostatecznie jednak drużyna Legii zdołała zmobilizować się na decydujące spotkanie i zdobyć mistrzostwo.
-3.  **Werdykt:** [✅ ZATWIERDZONY] (Typ na Legię Warszawa był trafny, biorąc pod uwagę zdobycie przez nich mistrzostwa Polski w tym meczu).
+**Uzasadnienie:** Mecz, którego dotyczy typ, odbył się 21 czerwca 2026 roku i był finałem (Mecz 7). Ocena aktualna (na 2026-08-11) jest dokonywana w trakcie intensywnych zmian kadrowych w obu zespołach, gdzie wielu kluczowych graczy z sezonu 2025/2026 opuściło kluby, a nowi zawodnicy są w trakcie dołączania do składów i rozpoczynania przygotowań do sezonu 2026/2027. Brak aktualnych danych o formie strzeleckiej (zgodnie z formatem API) oraz znaczące przebudowy składów uniemożliwiają rzetelną ocenę "aktualnej formy" top scorerów i wpływają na ryzyko typowania w oparciu o skład z poprzedniego sezonu. Pomimo faktu, że Legia Warszawa faktycznie wygrała ten mecz 78:70, z perspektywy aktualnej (2026-08-11) wiedzy o rotacjach w składach, typowanie na podstawie hipotetycznej stabilności zespołu z czerwca jest ryzykowne.
