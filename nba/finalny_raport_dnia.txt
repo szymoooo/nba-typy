@@ -1,11 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-10 20:03 ET) ---
-Oto analiza Twojego typu na mecz Heat @ Raptors, na podstawie danych z 2026-08-10:
+--- KRYTYCZNY AUDYT LIVE (2026-08-10 23:11 ET) ---
+Analiza meczu na podstawie danych z 2026-08-10:
 
-**Heat @ Raptors**
+### Heat @ Raptors
+Typ użytkownika: Raptors
 
 *   **Kluczowe braki w składach:**
-    *   **Miami Heat:** Giannis Antetokounmpo (kontuzja kolana; Miami Heat odmówiło zgody na grę w eliminacjach do Mistrzostw Świata w sierpniu 2026 z powodu ryzyka kontuzji, nie grał od 15 marca 2026) 🤕.
-    *   **Toronto Raptors:** Chucky Hepburn (Injured - status "TW" na składzie 2026-27) 🤕. Brak innych aktualnych raportów (Injury Report) na tę chwilę wskazujących na status 'Out', 'Questionable' lub 'GTD' dla konkretnego meczu na 10 sierpnia 2026.
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę, dotyczących statusów "Out", "Questionable", "GTD" dla graczy Miami Heat i Toronto Raptors na dzień 2026-08-10, które byłyby istotne dla hipotetycznego meczu w styczniu 2026. Znalezione raporty z 2026-08-10 dotyczą głównie WNBA lub ogólnych podsumowań NBA bez konkretnych statusów meczowych.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak tak kluczowego zawodnika jak Giannis Antetokounmpo znacząco osłabia Miami Heat. Pomimo obecności innych utalentowanych graczy na składzie Heat, jego absencja jest znaczącym czynnikiem. Raptors, z większością kluczowych zawodników dostępnych (z wyłączeniem długoterminowej kontuzji Hepburna), mają przewagę.
+*   **Składy (Styczeń 2026 - sezon 2025-2026):**
+    *   **Miami Heat:** W składzie na sezon 2025-2026 widoczni są m.in. Davion Mitchell, Norman Powell, Terry Rozier, Dru Smith, Jaime Jaquez Jr., Keshad Johnson.
+    *   **Toronto Raptors:** W składzie na sezon 2025-2026/2026-2027 (z uwzględnieniem danych z 2026) wymieniani są m.in. Immanuel Quickley, RJ Barrett, Brandon Ingram, Scottie Barnes, Jakob Poeltl, Gradey Dick, Ja'Kobe Walter, Sandro Mamukelashvili.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Ze względu na brak aktualnych, potwierdzonych raportów o kontuzjach (statusy 'Out', 'Questionable', 'GTD') na dzień 2026-08-10, które mogłyby wpłynąć na ocenę składów w styczniu 2026, nie mogę rzetelnie ocenić kluczowych braków i tym samym zatwierdzić tego typu.
