@@ -1,34 +1,14 @@
---- AUDYT PLK LIVE (2026-08-12 11:33 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-08-12 17:02 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data z PulsBasketu: 2026-06-21, audyt na dzień 2026-08-12):
 
-Mecz ten był siódmym i decydującym spotkaniem finałowym sezonu 2025/26 Orlen Basket Ligi, w którym Legia Warszawa zdobyła mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra 78:70.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-12. Zespół aktywnie buduje skład na sezon 2026/2027, z nowymi nabytkami takimi jak Trazarien White, Toyaz "Tay" Solomon oraz Gauthier Denis.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-12. Zespół Legii Warszawa rozpocznie testy medyczne i motoryczne 14 sierpnia 2026 roku, co sugeruje gotowość składu do przygotowań. Należy jednak zauważyć, że MVP poprzedniego sezonu (2025/2026), Andrzej Pluta, opuścił klub. Legia wzmocniła skład na sezon 2026/2027, m.in. o Jakuba Andrzejewskiego, Szymona Tomczaka, Kristersa Zoriksa, Gyorgy'ego Golomana i Zacha Freemantle'a.
 
-### ORLEN Zastal Zielona Góra
+2.  **Aktualna forma top scorerów (z sezonu 2025/2026, brak danych z API dla tej serii):**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Conley Garrison (10.9 Pkt/mecz i ponad 5 asyst w sezonie 2025/2026) pozostaje w zespole na sezon 2026/2027. Do zespołu dołączyli nowi, ofensywnie usposobieni zawodnicy, tacy jak Trazarien White, który w lidze australijskiej notował średnio 24.3 punktu na mecz.
+    *   🏀 **Legia Warszawa:** Dominic Brewton III (14.5 Pkt/mecz w sezonie 2025/2026) i Jayvon Graves (12.8 Pkt/mecz w sezonie 2025/2026) byli czołowymi strzelcami i są częścią obecnego lub przyszłego składu. Mimo odejścia Andrzeja Pluty (13.4 Pkt/mecz, MVP sezonu 2025/2026), Legia dokonała wzmocnień, aby utrzymać swoją siłę ofensywną.
 
-1.  **Kluczowe braki w składach (na dzień meczu 2026-06-21):**
-    *   Filip Matczak zmagał się z dolegliwościami starej kontuzji przed serią finałową (informacja z 06.06.2026).
-    *   Dwight Wilson odczuwał skutki urazu kostki, choć brał udział w treningach przed finałami (informacja z 06.06.2026).
-    *   Sagaba Konate i Jakub Szumert doznali poważnych kontuzji już w lutym 2026 roku podczas Pucharu Polski, co mogło wpłynąć na ich dyspozycję lub dostępność w finałach.
-    *   *Brak istotnych braków w składzie koszykarskim na dzień 2026-08-12, z wyjątkiem trwających rekonwalescencji po sezonie.*
-
-2.  **Aktualna forma top scorerów (sezon 2025-26):**
-    *   Chavaughn Lewis (15.8 Pkt/mecz).
-    *   Jakub Szumert (13.2 Pkt/mecz).
-    *   Andrzej Mazurczak (11.8 Pkt/mecz).
-
-### Legia Warszawa
-
-1.  **Kluczowe braki w składach (na dzień meczu 2026-06-21):**
-    *   Brak potwierdzonych istotnych kontuzji kluczowych koszykarzy Legii Warszawa bezpośrednio przed siódmym meczem finałowym 21.06.2026.
-    *   *Na dzień 2026-08-12: Michał Kolenda przechodzi rehabilitację z powodu urazu.*
-
-2.  **Aktualna forma top scorerów (sezon 2025-26):**
-    *   Dominic Brewton III (14.5 Pkt/mecz).
-    *   Andrzej Pluta (13.4 Pkt/mecz). (MVP Finałów i Sezonu Zasadniczego 2025-26).
-    *   Jayvon Graves (12.8 Pkt/mecz).
-
-### Werdykt
-
-Legia Warszawa rozegrała decydujący mecz finałowy na własnym parkiecie, co, zgodnie z zasadami, ma większą wagę. Zastal Zielona Góra zmagał się z kilkoma problemami zdrowotnymi kluczowych zawodników przed serią finałową. Historyczny wynik meczu (Legia zwyciężyła) potwierdza trafność typu.
-
-**Werdykt:** ✅ ZATWIERDZONY
+3.  **Werdykt:**
+    *   [✅ ZATWIERDZONY]
+    *   Analizując skład na dzień 2026-08-12, Legia Warszawa, jako aktualny mistrz Polski (sezon 2025/2026), kontynuuje ambitną budowę zespołu na nadchodzący sezon 2026/2027, dokonując znaczących wzmocnień. Mimo odejścia MVP Andrzeja Pluty, inne kluczowe postacie, takie jak Dominic Brewton III, pozostają w zespole lub zostały uzupełnione nowymi, wartościowymi graczami. ORLEN Zastal Zielona Góra również wzmocnił swój skład, ale Legia, jako obrońca tytułu z silnymi ambicjami na arenie krajowej i międzynarodowej, wydaje się być solidnym typem. Brak potwierdzonych, bieżących kontuzji u obu zespołów dodatkowo stabilizuje sytuację.
