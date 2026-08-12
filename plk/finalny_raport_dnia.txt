@@ -1,14 +1,16 @@
---- AUDYT PLK LIVE (2026-08-12 17:02 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data z PulsBasketu: 2026-06-21, audyt na dzień 2026-08-12):
+--- AUDYT PLK LIVE (2026-08-12 18:10 CET) ---
+# PLK typy na 2026-06-21
+
+---
+
+🏀 **ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-12. Zespół aktywnie buduje skład na sezon 2026/2027, z nowymi nabytkami takimi jak Trazarien White, Toyaz "Tay" Solomon oraz Gauthier Denis.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-12. Zespół Legii Warszawa rozpocznie testy medyczne i motoryczne 14 sierpnia 2026 roku, co sugeruje gotowość składu do przygotowań. Należy jednak zauważyć, że MVP poprzedniego sezonu (2025/2026), Andrzej Pluta, opuścił klub. Legia wzmocniła skład na sezon 2026/2027, m.in. o Jakuba Andrzejewskiego, Szymona Tomczaka, Kristersa Zoriksa, Gyorgy'ego Golomana i Zacha Freemantle'a.
+    *   Brak istotnych braków w składzie koszykarskim obu drużyn na dzień 21.06.2026. Phil Fayne ze Zastalu wracał do składu przed finałami po wcześniejszych urazach, co było postrzegane jako wzmocnienie.
 
-2.  **Aktualna forma top scorerów (z sezonu 2025/2026, brak danych z API dla tej serii):**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Conley Garrison (10.9 Pkt/mecz i ponad 5 asyst w sezonie 2025/2026) pozostaje w zespole na sezon 2026/2027. Do zespołu dołączyli nowi, ofensywnie usposobieni zawodnicy, tacy jak Trazarien White, który w lidze australijskiej notował średnio 24.3 punktu na mecz.
-    *   🏀 **Legia Warszawa:** Dominic Brewton III (14.5 Pkt/mecz w sezonie 2025/2026) i Jayvon Graves (12.8 Pkt/mecz w sezonie 2025/2026) byli czołowymi strzelcami i są częścią obecnego lub przyszłego składu. Mimo odejścia Andrzeja Pluty (13.4 Pkt/mecz, MVP sezonu 2025/2026), Legia dokonała wzmocnień, aby utrzymać swoją siłę ofensywną.
+2.  **Aktualna forma top scorerów (mecz 2026-06-21):**
+    *   **Legia Warszawa:** Andrzej Pluta (15 Pkt), Dominic Brewton III (11 Pkt), Race Thompson (11 Pkt), Shane Hunter (10 Pkt).
+    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 Pkt), Jayvon Maughmer (10 Pkt), Chavaughn Lewis (10 Pkt).
 
-3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY]
-    *   Analizując skład na dzień 2026-08-12, Legia Warszawa, jako aktualny mistrz Polski (sezon 2025/2026), kontynuuje ambitną budowę zespołu na nadchodzący sezon 2026/2027, dokonując znaczących wzmocnień. Mimo odejścia MVP Andrzeja Pluty, inne kluczowe postacie, takie jak Dominic Brewton III, pozostają w zespole lub zostały uzupełnione nowymi, wartościowymi graczami. ORLEN Zastal Zielona Góra również wzmocnił swój skład, ale Legia, jako obrońca tytułu z silnymi ambicjami na arenie krajowej i międzynarodowej, wydaje się być solidnym typem. Brak potwierdzonych, bieżących kontuzji u obu zespołów dodatkowo stabilizuje sytuację.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się w Hali OSiR Warszawa Bemowo w Warszawie i był decydującym, siódmym spotkaniem finałowym sezonu 2025/2026 Polskiej Ligi Koszykówki, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, zdobywając Mistrzostwo Polski. Typ na Legię Warszawa był trafny.
