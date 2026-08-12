@@ -1,21 +1,17 @@
---- AUDYT PLK LIVE (2026-08-12 20:10 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-12 21:28 CET) ---
+MECZ: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa (data meczu: 2026-06-21)
 
-1.  **Kluczowe braki w składach koszykarskich:**
-    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate, silny skrzydłowy/środkowy, doznał awulsyjnego uszkodzenia więzadła SL nadgarstka podczas Pekao S.A. Pucharu Polski w lutym 2026 roku i został wykluczony z gry do końca sezonu 2025/2026.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-06-21.
+1.  **Kluczowe braki w składach koszykarskich (na dzień 2026-06-21, w oparciu o dostępne informacje na 2026-08-12):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   **Sagaba Konate:** Poważna kontuzja nadgarstka (uszkodzenie więzadła SL), która wykluczyła go z gry na cały sezon 2025/26 od lutego 2026 roku.
+        *   **Dwight Wilson:** Odczuwał skutki urazu kostki na początku czerwca 2026 roku, ale uczestniczył w treningach.
+        *   W lutym 2026 roku zespół był "mocno osłabiony z powodu kontuzji".
+    *   🏀 **Legia Warszawa:**
+        *   **Michał Kolenda i Matthias Tass:** W grudniu 2025 roku klub poinformował o ich dłuższej przerwie z powodu kontuzji. W przypadku Michała Kolendy uraz nastąpił w meczu z Treflem Sopot. Ojars Silins również był w tym czasie niedostępny.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz
-        *   Jakub Szumert: 13.2 Pkt/mecz
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz
-        *   Brak danych z API dla tego zespołu dotyczących formy top scorerów w samej serii play-off.
-    *   **Legia Warszawa:**
-        *   Dominic Brewton III: 14.5 Pkt/mecz
-        *   Andrzej Pluta: 13.4 Pkt/mecz
-        *   Jayvon Graves: 12.8 Pkt/mecz
-        *   Brak danych z API dla tego zespołu dotyczących formy top scorerów w samej serii play-off.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu w kontekście konkretnej serii meczowej.
+    *   Jednakże, **Andrzej Pluta Jr.** z Legii Warszawa został wybrany najlepszym polskim zawodnikiem sezonu zasadniczego 2025/26 przez trenerów PLK, co świadczy o jego bardzo dobrej formie w sezonie, w którym odbył się ten mecz.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa była zwycięzcą Polskiej Ligi Koszykówki w sezonie 2025/2026, pokonując w finale ORLEN Zastal Zielona Góra. Dodatkowo, ORLEN Zastal Zielona Góra musiała radzić sobie bez kluczowego zawodnika, Sagaby Konate, który był kontuzjowany do końca sezonu. Biorąc pod uwagę historyczny wynik sezonu i osłabienie Zastalu, typ na Legię Warszawa jest zgodny z faktami.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo że Legia Warszawa faktycznie wygrała ten mecz (78:70) i zdobyła Mistrzostwo Polski w sezonie 2025/26, audyt przewiduje poziom ryzyka na podstawie dostępnych informacji o składach w dniu meczu. Zarówno Zastal (brak Sagaby Konate na cały sezon), jak i Legia (dłuższe przerwy Michała Kolendy i Matthiasa Tassa) zmagały się z poważnymi brakami kadrowymi, które mogły wpłynąć na przebieg finałowego spotkania. Decydujący charakter meczu zwiększał wagę tych absencji.
