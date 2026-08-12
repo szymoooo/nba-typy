@@ -1,22 +1,34 @@
---- AUDYT PLK LIVE (2026-08-12 07:17 CET) ---
-**Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa (data: 2026-06-21)**
+--- AUDYT PLK LIVE (2026-08-12 08:45 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, data meczu 2026-06-21.
 
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim Legii Warszawa. Race Thompson, który zmagał się wcześniej z problemami zdrowotnymi, wystąpił w meczu finałowym nr 7.
-    *   Brak istotnych braków w składzie koszykarskim ORLEN Zastal Zielona Góra. Filip Matczak i Dwight Wilson III, którzy wcześniej odczuwali dolegliwości, zagrali w meczu finałowym nr 7.
+Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 w siódmym meczu finałowym Orlen Basket Ligi, zdobywając Mistrzostwo Polski w sezonie 2025/2026. Mecz odbył się w Hali OSiR Bemowo w Warszawie.
 
-2.  **Aktualna forma top scorerów (mecz 2026-06-21):**
-    *   Legia Warszawa:
-        *   Andrzej Pluta: 15 punktów
-        *   Dominic Brewton III: 11 punktów
-        *   Race Thompson: 11 punktów
-    *   ORLEN Zastal Zielona Góra:
-        *   Andrzej Mazurczak: 10 punktów
-        *   Jayvon Maughmer: 10 punktów
-        *   Chavaughn Lewis: 10 punktów
-    *   Brak danych z API dla tego zespołu dla ogólnych top scorerów w serii.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz był decydującym (Game 7) finału Orlen Basket Ligi, rozegranym na własnym parkiecie Legii Warszawa (OSiR Warszawa Bemowo).
-    *   Legia Warszawa wygrała mecz 78:70 i zdobyła mistrzostwo Polski.
-    *   Kluczowi zawodnicy obu drużyn byli dostępni i wystąpili w tym spotkaniu.
+1.  **Kluczowe braki w składach**:
+    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim na mecz finałowy 2026-06-21. Wcześniej, w lutym 2026, Carl Ponsar przedłużył kontrakt z Legią, a w grudniu 2025 klub informował o kontuzjach, jednak brak jest informacji, aby miały one wpływ na skład na finały w czerwcu 2026.
+    *   **ORLEN Zastal Zielona Góra**:
+        *   Phil Fayne powrócił do zespołu na serię finałową po przebywaniu w USA z powodów rodzinnych.
+        *   Filip Matczak odczuwał dolegliwości związane ze starą kontuzją w okolicach 6 czerwca 2026, był oszczędzany na treningach, ale miał być potrzebny w serii finałowej. Brak jednoznacznej informacji o jego nieobecności w meczu 2026-06-21.
+        *   Dwight Wilson III normalnie uczestniczył w treningach mimo urazu kostki w okolicach 6 czerwca 2026.
+        *   Sagaba Konate doznał poważnej kontuzji dłoni w lutym 2026 podczas Pucharu Polski, co zakończyło jego sezon. Zatem był niedostępny na finały.
+        *   Chavaughn Lewis (najlepszy strzelec sezonu zasadniczego dla Zastalu ze średnią 15.8 pkt/mecz) mógł być niedostępny ze względu na kontuzję w meczu o 7. miejsce w maju 2026, jednak w finale 21.06.2026 zagrał i zdobył 10 punktów.
+
+2.  **Aktualna forma top scorerów**:
+    *   **Legia Warszawa**:
+        *   Andrzej Pluta był najlepszym strzelcem Legii w tym meczu z 15 punktami. Został MVP finałów, podobnie jak sezonu zasadniczego 2025/26. W sezonie zasadniczym 2025/26 był drugim najlepszym strzelcem Legii ze średnią 13.4 Pkt/mecz.
+        *   Dominic Brewton III zdobył 11 punktów w tym meczu. Był najlepszym strzelcem Legii w sezonie zasadniczym 2025/26 ze średnią 14.5 Pkt/mecz.
+        *   Race Thompson zdobył 11 punktów.
+        *   Shane Hunter zdobył 10 punktów.
+        *   Jayvon Graves zdobył 9 punktów. Był trzecim najlepszym strzelcem Legii w sezonie zasadniczym 2025/26 ze średnią 12.8 Pkt/mecz.
+    *   **ORLEN Zastal Zielona Góra**:
+        *   Andrzej Mazurczak był jednym z najlepszych strzelców Zastalu w tym meczu z 10 punktami. Był również wymieniany jako kluczowy zawodnik w trakcie serii finałowej. W sezonie zasadniczym 2025/26 był trzecim najlepszym strzelcem Zastalu ze średnią 11.8 Pkt/mecz.
+        *   Jayvon Maughmer zdobył 10 punktów.
+        *   Chavaughn Lewis zdobył 10 punktów. Był najlepszym strzelcem Zastalu w sezonie zasadniczym 2025/26 ze średnią 15.8 Pkt/mecz.
+        *   Conley Garrison zdobył 8 punktów, a jego rzut na sekundę przed końcem szóstego meczu przedłużył serię do siedmiu meczów.
+        *   Filip Matczak zdobył 8 punktów.
+        *   Jakub Szumert zdobył 8 punktów. Był drugim najlepszym strzelcem Zastalu w sezonie zasadniczym 2025/26 ze średnią 13.2 Pkt/mecz.
+
+3.  **Werdykt**: ✅ ZATWIERDZONY
+
+    Analiza potwierdza, że Legia Warszawa była w dobrej formie, z Andrzejem Plutą jako MVP sezonu i finałów. Zastal Zielona Góra mierzył się z kontuzją Sagaby Konate, który był poza grą na finały, oraz drobnymi problemami Filipa Matczaka, ale kluczowi gracze jak Mazurczak, Maughmer i Lewis wystąpili w finale i zdobywali punkty. Mimo to, Legia Warszawa, grając u siebie w decydującym, siódmym meczu, obroniła tytuł mistrza Polski. Typ na Legię Warszawa jest zatwierdzony, biorąc pod uwagę ich zwycięstwo i status mistrzów.
