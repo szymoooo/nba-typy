@@ -1,26 +1,64 @@
---- AUDYT PLK LIVE (2026-08-13 11:08 CET) ---
-Analiza meczu PLK (stan na 2026-08-13):
+--- AUDYT PLK LIVE (2026-08-13 17:06 CET) ---
+Analiza meczu PLK (data analizy: 2026-08-13)
+ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
-
-Dzień dzisiejszy to 2026-08-13. Analiza dotyczy meczu, który odbył się w przeszłości (2026-06-21). Zgodnie z wytycznymi, wszelkie informacje o składach i kontuzjach dotyczą aktualnego stanu na 2026-08-13, a nie na dzień rozgrywania meczu. Sierpień 2026 to okres letniego okienka transferowego i przygotowań do sezonu 2026/2027 PLK.
+📍 Mecz odbędzie się w Warszawie (dom Legii).
 
 ---
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+### ORLEN Zastal Zielona Góra
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Obecnie (stan na 2026-08-13) składy na sezon 2026/2027 są w trakcie budowy. Brak aktualnych, potwierdzonych informacji o kontuzjach kluczowych koszykarzy Zastalu Zielona Góra, które byłyby aktualne na 2026-08-13 i miałyby wpływ na obecny lub nadchodzący sezon. Niektóre źródła podają skład na sezon 2025/2026, ale to są dane przestarzałe w kontekście 2026-08-13. Eurobasket.com wskazuje, że roster na sezon 2026/2027 jest jeszcze niekompletny ("missing"). Wiadomo, że Jayvon Maughmer opuścił Zastal i dołączył do Elan Béarnais Pau-Lacq-Orthez.
-        *   **Brak istotnych braków w składzie koszykarskim, które byłyby aktualne na 2026-08-13.**
-    *   **Legia Warszawa:**
-        *   Legia Warszawa aktywnie buduje skład na sezon 2026/2027. Do drużyny dołączyli między innymi Michael Christmas (28.07.2026), Mathieu Wojciechowski (7.08.2026) i Devon Daniels (6.08.2026).
-        *   Brak aktualnych, potwierdzonych informacji o kontuzjach kluczowych koszykarzy Legii Warszawa, które byłyby aktualne na 2026-08-13 i miałyby wpływ na obecny lub nadchodzący sezon.
-        *   **Brak istotnych braków w składzie koszykarskim, które byłyby aktualne na 2026-08-13.**
-
-2.  **Aktualna forma top scorerów (jezeli mam dane W SERII powyzej, uwzglednij je):**
-    *   Brak danych z API dla tego zespołu w kontekście "W SERII" dla meczu z 2026-06-21. W związku z tym, nie można ocenić aktualnej formy top scorerów z perspektywy tamtej serii. Na dzień 2026-08-13 zespoły są w fazie przygotowań do nowego sezonu, a indywidualna forma zawodników nie jest jeszcze publicznie monitorowana w kontekście meczowym.
-
+1.  **Kluczowe braki w składzie koszykarskim:**
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-13.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu. Ze względu na wczesną fazę przygotowań do sezonu 2026/2027 (sierpień 2026), szczegółowe dane o aktualnej formie strzeleckiej nie są dostępne.
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Werdykt jest ryzykowny, ponieważ analiza bazuje na danych z 2026-08-13, a nie z daty rozegrania meczu (2026-06-21). W sierpniu 2026 roku oba zespoły są w okresie budowy składów na nadchodzący sezon 2026/2027. Brak jest potwierdzonych informacji o pełnych składach i formie zawodników, co uniemożliwia rzetelną ocenę szans w hipotetycznym meczu rozgrywanym "dziś" (2026-08-13) z perspektywy przeszłego typu. Informacje o kontuzjach z poprzedniego sezonu (np. Sagaba Konate w lutym 2026 dla Zastalu) są przestarzałe i nie mają zastosowania do daty 2026-08-13.
+
+---
+
+### Legia Warszawa
+
+1.  **Kluczowe braki w składzie koszykarskim:**
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-13.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu. Ze względu na wczesną fazę przygotowań do sezonu 2026/2027 (sierpień 2026), szczegółowe dane o aktualnej formie strzeleckiej nie są dostępne.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+
+---
+
+**Podsumowanie Werdyktu dla typu: Legia Warszawa**
+
+Analiza, bazująca na dostępnych danych z dnia 2026-08-13, wskazuje na brak potwierdzonych kontuzji czy zawieszeń w obu zespołach koszykarskich. Jednakże, ze względu na wczesną fazę przygotowań do nowego sezonu PLK 2026/2027 (sierpień), brak jest aktualnych danych o formie strzeleckiej kluczowych graczy oraz pełnych i stabilnych składów, co uniemożliwia rzetelną ocenę "aktualnej formy top scorerów" i w konsekwencji sprawia, że typowanie jest ryzykowne.
+
+**Werdykt końcowy dla typu "Legia Warszawa":** [⚠️ RYZYKOWNY]Analiza meczu PLK (data analizy: 2026-08-13)
+ORLEN Zastal Zielona Góra @ Legia Warszawa
+
+📍 Mecz odbędzie się w Warszawie (dom Legii).
+
+---
+
+### ORLEN Zastal Zielona Góra
+
+1.  **Kluczowe braki w składzie koszykarskim:**
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-13. W składzie na sezon 2026/2027 znaleźli się m.in. Conley Garrison, Veljko Brkić, Trazarien White, Toyaz "Tay" Solomon oraz Jan Wójcik i Krzysztof Sulima.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu. Ze względu na wczesną fazę przygotowań do sezonu 2026/2027 (sierpień 2026), rozgrywki PLK jeszcze się nie rozpoczęły (start 2 października 2026 r.), a szczegółowe dane o aktualnej formie strzeleckiej nie są dostępne z meczów ligowych.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+
+---
+
+### Legia Warszawa
+
+1.  **Kluczowe braki w składzie koszykarskim:**
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-13. Legia Warszawa, obrońca tytułu, wzmocniła skład na sezon 2026/2027 m.in. Jakubem Andrzejewskim, Szymonem Tomczakiem, Mathieu Wojciechowskim, Kristersm Zoriksem, Markusem Ilverem, Devonem Danielsem i Gyorgy Golomanem. Przygotowania do sezonu rozpoczną się 14 sierpnia.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu. Ze względu na wczesną fazę przygotowań do sezonu 2026/2027 (sierpień 2026), rozgrywki PLK jeszcze się nie rozpoczęły (start 2 października 2026 r.), a szczegółowe dane o aktualnej formie strzeleckiej nie są dostępne z meczów ligowych.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+
+---
+
+**Podsumowanie Werdyktu dla typu: Legia Warszawa**
+
+Analiza, bazująca na dostępnych danych z dnia 2026-08-13, wskazuje na brak potwierdzonych kontuzji czy zawieszeń w obu zespołach koszykarskich. Oba kluby aktywnie budują składy na nadchodzący sezon 2026/2027. Ze względu jednak na wczesną fazę przygotowań do nowego sezonu PLK (sierpień), brak jest aktualnych danych o formie strzeleckiej kluczowych graczy z meczów ligowych, co uniemożliwia rzetelną ocenę "aktualnej formy top scorerów". W konsekwencji, typowanie na tym etapie jest ryzykowne.
+
+**Werdykt końcowy dla typu "Legia Warszawa":** [⚠️ RYZYKOWNY]
