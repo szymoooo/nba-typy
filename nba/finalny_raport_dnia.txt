@@ -1,9 +1,12 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-13 15:51 ET) ---
-Analiza meczu: Heat @ Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-08-13 16:06 ET) ---
+Na podstawie dostępnych danych z sieci na dzień 2026-08-13:
 
-*   **Kluczowe braki w składach (na podstawie składów ze stycznia 2026):**
-    *   **Miami Heat:** W styczniu 2026 r. skład Heat, choć obejmuje graczy takich jak Terry Rozier i Jaime Jaquez Jr., nie wydaje się zawierać gracza o statusie supergwiazdy pokroju Giannisa Antetokounmpo, który jest wymieniany w kontekście składu Heat na sezon 2026-27 po "nabyciu" go, co sugeruje późniejszą transakcję. Brak dominującego gracza pierwszej ligi mógłby być kluczowym brakiem w porównaniu do potencjalnie silniejszego składu Raptors.
-    *   **Toronto Raptors:** Skład Raptors na styczeń 2026 r. wydaje się być solidny, z takimi graczami jak Immanuel Quickley, RJ Barrett, Scottie Barnes i Jakob Poeltl. Brandon Ingram jest również wymieniony w niektórych składach na 2026 r.. Nie ma wyraźnych, udokumentowanych braków w ich podstawowym składzie na ten okres.
-*   **Brak aktualnych raportów (Injury Report) na tę chwilę.** (Brak potwierdzonych informacji o kontuzjach na dzień 2026-08-13 dotyczących hipotetycznego meczu w styczniu 2026).
+**Heat @ Raptors -> Typ: Raptors**
+
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Miami Heat:** Brak kluczowych braków w składzie na styczeń 2026 na podstawie dostępnych danych o składach z sezonu 2025/2026. Roster Heat w sezonie 2025/2026 obejmował m.in. Bama Adebayo, Normana Powella, Jaime Jaqueza Jr., Tylera Herro, Andrew Wigginsa i Nikole Jovicia.
+    *   **Toronto Raptors:** Brak kluczowych braków w składzie na styczeń 2026 na podstawie dostępnych danych o składach z sezonu 2025/2026. Roster Raptors w 2026 roku zawierał m.in. Scottie Barnes'a, RJ Barretta, Immanuela Quickleya, Jakoba Poeltla i Brandona Ingrama (który był w składzie przed transferem w lipcu 2026).
+*   **Aktualne raporty o kontuzjach (2026-08-13):**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę, ponieważ dzisiejsza data (13 sierpnia 2026) przypada na okres poza sezonem NBA, w którym nie są publikowane raporty meczowe.
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Biorąc pod uwagę brak aktualnych raportów o kontuzjach z dzisiejszej daty (2026-08-13) dla meczu rozgrywanego w styczniu 2026 roku, a także potencjalne różnice w sile składów bez jednoznacznego gwiazdora w Miami Heat w tamtym okresie (w porównaniu do Toronto Raptors), typ jest **RYZYKOWNY**. Nie można w pełni ocenić wpływu nieznanych kontuzji ani dokładnego statusu składów.
+    *   Brak wystarczających danych do rzetelnej oceny i zatwierdzenia typu, ze względu na brak szczegółowych informacji o formie drużyn, bezpośrednich meczach lub jakichkolwiek specyficznych okolicznościach meczowych ze stycznia 2026.
