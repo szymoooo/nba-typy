@@ -1,15 +1,26 @@
---- AUDYT PLK LIVE (2026-08-13 09:02 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-08-13 11:08 CET) ---
+Analiza meczu PLK (stan na 2026-08-13):
 
-Mecz ten był siódmym i decydującym spotkaniem finałowym ORLEN Basket Ligi sezonu 2025/2026. Odbył się w Warszawie, na OSiR Warszawa Bemowo.
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda, który wcześniej zmagał się z długotrwałą kontuzją (stan na grudzień 2025), wystąpił w meczu finałowym i zdobył punkty. Matthias Tass, również wcześniej kontuzjowany, był aktywny w serii finałowej. Andrzej Pluta i Jayvon Graves również byli dostępni i punktowali.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Mimo wcześniejszych problemów zdrowotnych w zespole (np. Filip Matczak i Jakub Szumert w lutym 2026), obaj zawodnicy zagrali w Game 7 i zdobyli punkty. Filip Matczak doznał urazu nosa w jednym z wcześniejszych meczów serii, ale wystąpił w decydującym spotkaniu.
+Dzień dzisiejszy to 2026-08-13. Analiza dotyczy meczu, który odbył się w przeszłości (2026-06-21). Zgodnie z wytycznymi, wszelkie informacje o składach i kontuzjach dotyczą aktualnego stanu na 2026-08-13, a nie na dzień rozgrywania meczu. Sierpień 2026 to okres letniego okienka transferowego i przygotowań do sezonu 2026/2027 PLK.
 
-2.  **Aktualna forma top scorerów (dane z PulsBasketu, jeśli dostępne w serii):**
-    *   **Legia Warszawa (Game 7):** Najskuteczniejsi w tym meczu byli Andrzej Pluta (15 Pkt), Dominic Brewton III (11 Pkt) i Race Thompson (11 Pkt). Andrzej Pluta został również uznany za najlepszego zawodnika fazy zasadniczej.
-    *   **ORLEN Zastal Zielona Góra (Game 7):** Najwięcej punktów zdobyli Andy Mazurczak (10 Pkt), Jayvon Maughmer (10 Pkt) i Chavaughn Lewis (10 Pkt). Liderzy punktowi zespołu w sezonie 2025/2026 to Chavaughn Lewis (średnio 15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+---
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Typ na Legię Warszawa był trafny. Legia Warszawa wygrała ten mecz 78:70 i zdobyła Mistrzostwo Polski w koszykówce w sezonie 2025/2026. Mecz odbył się na własnym parkiecie Legii, co w decydującym spotkaniu finałowym stanowiło istotną przewagę. Brak kluczowych absencji po obu stronach dodatkowo podkreślał znaczenie formy dnia i przewagi parkietu.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Obecnie (stan na 2026-08-13) składy na sezon 2026/2027 są w trakcie budowy. Brak aktualnych, potwierdzonych informacji o kontuzjach kluczowych koszykarzy Zastalu Zielona Góra, które byłyby aktualne na 2026-08-13 i miałyby wpływ na obecny lub nadchodzący sezon. Niektóre źródła podają skład na sezon 2025/2026, ale to są dane przestarzałe w kontekście 2026-08-13. Eurobasket.com wskazuje, że roster na sezon 2026/2027 jest jeszcze niekompletny ("missing"). Wiadomo, że Jayvon Maughmer opuścił Zastal i dołączył do Elan Béarnais Pau-Lacq-Orthez.
+        *   **Brak istotnych braków w składzie koszykarskim, które byłyby aktualne na 2026-08-13.**
+    *   **Legia Warszawa:**
+        *   Legia Warszawa aktywnie buduje skład na sezon 2026/2027. Do drużyny dołączyli między innymi Michael Christmas (28.07.2026), Mathieu Wojciechowski (7.08.2026) i Devon Daniels (6.08.2026).
+        *   Brak aktualnych, potwierdzonych informacji o kontuzjach kluczowych koszykarzy Legii Warszawa, które byłyby aktualne na 2026-08-13 i miałyby wpływ na obecny lub nadchodzący sezon.
+        *   **Brak istotnych braków w składzie koszykarskim, które byłyby aktualne na 2026-08-13.**
+
+2.  **Aktualna forma top scorerów (jezeli mam dane W SERII powyzej, uwzglednij je):**
+    *   Brak danych z API dla tego zespołu w kontekście "W SERII" dla meczu z 2026-06-21. W związku z tym, nie można ocenić aktualnej formy top scorerów z perspektywy tamtej serii. Na dzień 2026-08-13 zespoły są w fazie przygotowań do nowego sezonu, a indywidualna forma zawodników nie jest jeszcze publicznie monitorowana w kontekście meczowym.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Werdykt jest ryzykowny, ponieważ analiza bazuje na danych z 2026-08-13, a nie z daty rozegrania meczu (2026-06-21). W sierpniu 2026 roku oba zespoły są w okresie budowy składów na nadchodzący sezon 2026/2027. Brak jest potwierdzonych informacji o pełnych składach i formie zawodników, co uniemożliwia rzetelną ocenę szans w hipotetycznym meczu rozgrywanym "dziś" (2026-08-13) z perspektywy przeszłego typu. Informacje o kontuzjach z poprzedniego sezonu (np. Sagaba Konate w lutym 2026 dla Zastalu) są przestarzałe i nie mają zastosowania do daty 2026-08-13.
