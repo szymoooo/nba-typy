@@ -1,12 +1,15 @@
---- AUDYT PLK LIVE (2026-08-12 23:24 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-13 03:20 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach (2026-08-12):**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach z poprzedniego sezonu (Sagaba Konate, Filip Matczak, Jakub Szumert, Dwight Wilson) nie mają aktualnego potwierdzenia na dzień 2026-08-12. Zespół wzmocnił się m.in. Gauthierem Denisem i Toyazem "Tay" Solomonem na sezon 2026/27.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach z poprzedniego sezonu (Michał Kolenda, Ojars Silins, Matthias Tass) nie mają aktualnego potwierdzenia na dzień 2026-08-12. Klub aktywnie buduje skład na sezon 2026/27, ogłaszając nowych zawodników takich jak Michael Christmas, Shane Hunter, DJ Brewton, Jayvon Graves i Race Thompson.
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):**
+    *   **Legia Warszawa (koszykówka):**
+        *   Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-08-13. Klub prawdopodobnie finalizuje skład na sezon 2026/2027.
+    *   **ORLEN Zastal Zielona Góra (koszykówka):**
+        *   Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-08-13. Skład na sezon 2026/2027 jest w trakcie formowania.
 
 2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
-    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu.
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak konkretnych informacji o składach i formie zawodników na sierpień 2026 utrudnia precyzyjną analizę dla meczu z czerwca 2026. Chociaż Legia Warszawa była faworytem, obecny brak danych o faktycznych rosterach i potencjalnych kontuzjach (lub ich braku) czyni typ ryzykownym.
+
