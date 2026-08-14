@@ -1,18 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-14 15:59 ET) ---
-Na podstawie danych ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-08-14 17:53 ET) ---
+Na podstawie danych z 2026-08-14, analizuję typ dla meczu Heat @ Raptors, biorąc pod uwagę raporty kontuzji ze STYCZNIA 2026.
 
-**Heat @ Raptors**
-*   **Kluczowe braki w składach:**
+**Heat @ Raptors -> Typ: Raptors**
+
+*   **Kluczowe braki w składach (Styczeń 2026):**
     *   **Miami Heat:**
-        *   Tyler Herro: Out (kontuzja żeber/palca) 🤕
-        *   Davion Mitchell: Doubtful/Out (stłuczenie barku) 🤕
+        *   Tyler Herro: Out (uraz żeber/palca u nogi) 🤕
+        *   Davion Mitchell: Out (stłuczenie barku) 🤕
         *   Jaime Jaquez Jr.: Questionable (skręcenie lewego kolana) ❓
-        *   Kel'el Ware: Questionable (ścięgno podkolanowe) ❓
+        *   Norman Powell: Probable (plecy) ✅
+        *   Kel'el Ware: Probable (ścięgno podkolanowe) ✅
     *   **Toronto Raptors:**
         *   Jakob Poeltl: Out (kontuzja pleców/naciągnięcie dolnej części pleców) 🤕
-        *   Brandon Ingram: Out (uraz palca i kciuka) 🤕
-        *   Scottie Barnes: Out (kontuzja kolana) 🤕
-        *   R.J. Barrett: Ankle injury (uraz kostki, opuścił mecz 9 stycznia) 🤕
-        *   Immanuel Quickley: Questionable (ból prawej kostki) ❓
-        *   Ja'Kobe Walter: Questionable (biodro) ❓
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Toronto Raptors mieli w styczniu 2026 roku znaczące braki w składzie, w tym kluczowych graczy takich jak Poeltl, Ingram i Barnes, co czyniło ich typ ryzykownym. Brak aktualnych raportów (Injury Report) na tę chwilę (2026-08-14).
+        *   Brandon Ingram: Sidelined (problem z palcem i kciukiem) 🤕
+        *   Scottie Barnes: Unavailable (kontuzja kolana) 🤕
+        *   Raptors mieli również "pięciu graczy na liście kontuzjowanych" 18 stycznia 2026 i "czterech graczy na liście kontuzjowanych" 21 stycznia 2026, co wskazuje na ogólnie osłabiony skład.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+
+**Uzasadnienie:** Toronto Raptors mieli w styczniu 2026 roku znacznie poważniejsze i liczne absencje kluczowych graczy, w tym Jakoba Poeltla, Brandona Ingrama i Scottiego Barnesa. Brak tych zawodników osłabiłby znacząco ich siłę rażenia i defensywę. Miami Heat, mimo braku Herro i Mitchella, wydawali się mieć bardziej stabilny skład w tym okresie. Typ na Raptors jest ryzykowny z uwagi na osłabienia kadrowe.
