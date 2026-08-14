@@ -1,16 +1,28 @@
---- AUDYT PLK LIVE (2026-08-14 19:01 CET) ---
-Poniżej przedstawiam analizę meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, biorąc pod uwagę aktualne informacje z dnia 2026-08-14, dotyczące składów koszykarskich na nadchodzący sezon 2026/2027.
+--- AUDYT PLK LIVE (2026-08-14 21:15 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+
+Mecz ten był częścią finałów Orlen Basket Ligi sezonu 2025/2026. Legia Warszawa przystępowała do niego, prowadząc w serii 3-2 po zwycięstwie u siebie 84:80 w meczu nr 5 (17 czerwca 2026 r.). Sezon 2025/2026 PLK zakończył się 21 czerwca 2026 roku, co oznacza, że to spotkanie było prawdopodobnie decydującym meczem serii (Game 6 lub Game 7), w którym Legia Warszawa zdobyła mistrzostwo Polski.
 
 ---
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Zespół mistrza Polski przeszedł znaczące zmiany kadrowe. Odeszli kluczowi zawodnicy z sezonu mistrzowskiego 2025/2026, tacy jak Dominic Brewton (przeniósł się do Izraela), Andrzej Pluta (zagra w Hiszpanii), Jayvon Graves (wybrał Włochy) oraz Maksymilian Wilczek (przeszedł do Torunia). W ich miejsce Legia pozyskała nowych graczy, w tym Michaela Christmasa, Mathieu Wojciechowskiego, środkowego Gyorgy'ego Golomana z ligi hiszpańskiej, Kristersa Zoriksa oraz Zacha Freemantle'a. Brak istotnych braków w składzie koszykarskim (kontuzji) na dzień 2026-08-14, jednak drużyna przechodzi przebudowę.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Zespół również dokonał wzmocnień przed sezonem 2026/2027. Do klubu dołączyli Gauthier Denis, Veljko Brkić (powraca do Zastalu), Trazarien White oraz Toyaz "Tay" Solomon. Klub zatrzymał również część polskiego trzonu, w tym trenera Arkadiusza Miłoszewskiego, Andy'ego Mazurczaka, Filipa Matczaka i Krzysztofa Sulimę. Brak istotnych braków w składzie koszykarskim (kontuzji) na dzień 2026-08-14.
+1.  **Kluczowe braki w składach**:
+    *   Brak istotnych braków w składzie koszykarskim. Wcześniej w serii finałowej, w meczu 8 czerwca, Filip Matczak (Zastal) doznał urazu nosa, ale wrócił do gry w kolejnych spotkaniach, co sugeruje jego dostępność. Brak potwierdzonych informacji o innych kluczowych kontuzjach lub zawieszeniach, które wpłynęłyby na ten decydujący mecz.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów**:
+    *   **Legia Warszawa**:
+        *   Dominic Brewton III: W piątym meczu finału (17 czerwca) zdobył 21 punktów i był kluczowym graczem, zdobywając 12 punktów w czwartej kwarcie. Jego średnia w sezonie 2025/2026 wynosiła 14.5 Pkt/mecz.
+        *   Jayvon Graves: W piątym meczu zdobył 13 punktów. Jego średnia w sezonie to 12.8 Pkt/mecz.
+        *   Andrzej Pluta: W piątym meczu zdobył 7 punktów, poniżej swojej średniej sezonowej 13.4 Pkt/mecz, ale pozostaje kluczowym strzelcem.
+    *   **ORLEN Zastal Zielona Góra**:
+        *   Jakub Szumert: W piątym meczu zdobył 21 punktów, będąc najskuteczniejszym zawodnikiem Zastalu. Jego średnia w sezonie wynosiła 13.2 Pkt/mecz.
+        *   Jayvon Maughmer: W piątym meczu zdobył 14 punktów, w tym 10 w pierwszej kwarcie.
+        *   Chavaughn Lewis: W piątym meczu zdobył 6 punktów, poniżej swojej średniej sezonowej 15.8 Pkt/mecz.
+        *   Andrzej Mazurczak: W piątym meczu zdobył 4 punkty, znacznie poniżej swojej średniej sezonowej 11.8 Pkt/mecz.
 
-3.  **Werdykt:**
-    *   **[⚠️ RYZYKOWNY]** Legia Warszawa, mimo statusu mistrza Polski i ambitnych celów na nadchodzący sezon (walka o "three-peat" i lepszy występ w BCL), musiała zmierzyć się z odejściem kilku kluczowych postaci, które decydowały o jej sile w poprzednich rozgrywkach. Chociaż Legia dokonała mocnych transferów, z nowymi zawodnikami w składzie zawsze istnieje ryzyko, że drużyna potrzebuje czasu na zbudowanie odpowiedniej chemii i zgrania. Zastal Zielona Góra również przeszedł zmiany, ale wydaje się, że utrzymał ważny polski trzon zespołu. Bez konkretnych danych o aktualnej formie (co jest niemożliwe w sierpniu dla meczu z czerwca) oraz z uwagi na znaczącą rotację w składzie Legii, typ na zwycięstwo Legii Warszawa jest ryzykowny, ponieważ nowo zbudowany zespół może potrzebować czasu na zgranie, nawet jeśli indywidualnie gracze są mocni.
+3.  **Werdykt**: ✅ **ZATWIERDZONY**
+    *   Legia Warszawa grała u siebie (potwierdzone w kontekście jako gospodarz) w decydującym meczu finału, prowadząc w serii 3-2.
+    *   Legia Warszawa była obrońcą tytułu mistrza Polski z poprzedniego sezonu i ostatecznie wygrała sezon 2025/2026, zdobywając mistrzostwo.
+    *   Kluczowy zawodnik Legii, Dominic Brewton III, był w świetnej formie w ostatnich meczach serii.
+    *   Zastal, mimo dobrych występów niektórych graczy, odnotował słabszą skuteczność swoich liderów (Chavaughn Lewis, Andrzej Mazurczak) w kluczowym piątym meczu.
