@@ -1,14 +1,13 @@
---- AUDYT PLK LIVE (2026-08-15 10:19 CET) ---
-# PLK typy na 2026-06-21
+--- AUDYT PLK LIVE (2026-08-15 16:27 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-## ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** Brak informacji o istotnych brakach w składzie koszykarskim na dzień 21.06.2026.
+    *   **Legia Warszawa:** Brak informacji o istotnych brakach w składzie koszykarskim na dzień 21.06.2026.
+    *   *Uwaga:* Brak danych o ewentualnych foul-outach z poprzedniego meczu serii.
 
-### Legia Warszawa
-1.  **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim. Przygotowania do sezonu 2026/27 rozpoczęły się 14 sierpnia 2026, a zawodnicy przechodzą testy medyczne i motoryczne. Brak aktualnych informacji o kontuzjach na dzień 2026-08-15.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** ✅ ZATWIERDZONY
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
-### ORLEN Zastal Zielona Góra
-1.  **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim. Sagaba Konate doznał poważnej kontuzji nadgarstka w lutym 2026, która wykluczyła go z reszty sezonu 2025/26. Na dzień 2026-08-15 brak jest potwierdzonych informacji o jego aktualnym statusie zdrowotnym na rozpoczynający się sezon 2026/27. Nowi zawodnicy, tacy jak Gauthier Denis i Toyaz "Tay" Solomon, dołączyli do składu na sezon 2026/27. Conley Garrison pozostaje w zespole na nadchodzący sezon.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** ✅ ZATWIERDZONY
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak konkretnych informacji o składach i kontuzjach z daty meczu (2026-06-21) sprawia, że ocena jest ryzykowna. Nie ma również danych o formie top scorerów, co utrudnia weryfikację typu.
