@@ -1,14 +1,14 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-15 10:27 ET) ---
-Analiza meczu: Heat @ Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-08-15 10:51 ET) ---
+Heat @ Raptors -> Typ: Raptors
 
----
+*   **Kluczowe braki w składach (2026-08-15):**
+    *   **Miami Heat:** Brak aktualnych raportów (Injury Report) na tę chwilę. Ostatnie dostępne raporty z końca czerwca i początku sierpnia 2026 wskazują na brak zgłoszonych kontuzji.
+    *   **Toronto Raptors:** 🤕 Znaczące braki z raportu z 13 sierpnia 2026, wszyscy gracze z datą powrotu na 2026-10-01 (Day-To-Day):
+        *   Nate Bittle (C) - kontuzja pleców.
+        *   Alijah Martin (G) - kontuzja pleców.
+        *   Chucky Hepburn (G) - kontuzja pleców.
+        *   Collin Murray-Boyles (F) - kontuzja palca.
+        *   Brandon Ingram (F) - kontuzja pleców.
+        *   Immanuel Quickley (G) - kontuzja ścięgna podkolanowego.
 
-**Heat @ Raptors** -> Typ: Raptors
-
-*   **Kluczowe braki w składach:**
-    *   Miami Heat: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Toronto Raptors: Brak aktualnych raportów (Injury Report) na tę chwilę.
-
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-
-*W tym okresie (15 sierpnia 2026) NBA jest w fazie poza sezonem (off-season), dlatego nie ma bieżących raportów kontuzji z kategoriami 'Out', 'Questionable' czy 'GTD' dla hipotetycznego meczu. Bez tych kluczowych informacji, ocena Twojego typu jest ryzykowna.*
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Z uwagi na liczne i kluczowe braki w składzie Toronto Raptors (m.in. Immanuel Quickley, Brandon Ingram) wynikające z raportu kontuzji z 13 sierpnia 2026, typ na Raptors jest obarczony bardzo wysokim ryzykiem. Miami Heat, według dostępnych raportów, przystąpiłoby do meczu w pełnym składzie.
