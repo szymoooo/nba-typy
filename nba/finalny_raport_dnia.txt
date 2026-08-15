@@ -1,12 +1,16 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-15 00:24 ET) ---
-Na podstawie danych z 2026-08-15:
+--- KRYTYCZNY AUDYT LIVE (2026-08-15 01:28 ET) ---
+Analiza meczu Heat @ Raptors (Styczeń 2026)
 
-**Heat @ Raptors** -> Typ: Raptors
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Toronto Raptors:**
+        *   Jakob Poeltl (C): Kontuzja pleców (OUT) – był poza składem co najmniej od połowy grudnia 2025 i przez cały styczeń 2026.
+        *   Brandon Ingram (SF): Kontuzja palca/kciuka (Sidelined) – zgłoszony 9 stycznia 2026.
+        *   Scottie Barnes (PF): Kontuzja kolana (Unavailable) – zgłoszony 9 stycznia 2026.
+    *   **Miami Heat:**
+        *   Tyler Herro (SG): Stłuczenie palucha prawej stopy (OUT) – zgłoszony 1 stycznia 2026.
+        *   Terry Rozier (G): Poza zespołem (OUT) – zgłoszony 1 stycznia 2026.
+        *   Pelle Larsson (SG): Skręcenie prawej kostki (OUT) – zgłoszony 1 stycznia 2026.
+        *   Simone Fontecchio (SF): Zapalenie lewej kostki (Questionable) – zgłoszony 1 stycznia 2026.
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. W sierpniu, poza sezonem NBA, nie są publikowane codzienne raporty o kontuzjach dla konkretnych meczów.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak aktualnych danych meczowych na dzień 15 sierpnia 2026 r. uniemożliwia rzetelną ocenę typu. Sezon NBA 2026-2027 jeszcze się nie rozpoczął, więc nie ma dostępnych informacji o formie drużyn, ich wzajemnych spotkaniach ani bieżących kontuzjach wpływających na wynik meczu.
-    *   Składy na sezon 2026-2027:
-        *   **Miami Heat** ma w składzie m.in. Giannisa Antetokounmpo (pozyskanego w drodze wymiany), Bama Adebayo i Andrew Wigginsa.
-        *   **Toronto Raptors** dysponują takimi zawodnikami jak Kawhi Leonard (pozyskany w drodze wymiany), Scottie Barnes i Immanuel Quickley.
-    *   Brak aktywnych meczów w poza sezonem sprawia, że każda prognoza jest czysto spekulacyjna.
+*   **Werdykt dla typu: Raptors** [⚠️ RYZYKOWNY]
+    *   Typ jest ryzykowny ze względu na znaczące osłabienia w składzie Toronto Raptors w styczniu 2026. Brak kluczowych graczy takich jak Jakob Poeltl, Brandon Ingram i Scottie Barnes poważnie wpłynąłby na zdolności drużyny w defensywie i ofensywie. Mimo że Miami Heat również miało swoje braki na początku miesiąca, absencje Raptors wydają się bardziej kluczowe i potencjalnie długoterminowe w tym okresie.
