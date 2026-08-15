@@ -1,23 +1,14 @@
---- AUDYT PLK LIVE (2026-08-15 09:45 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-15 10:19 CET) ---
+# PLK typy na 2026-06-21
 
-Dzisiejsza data analizy to 2026-08-15. Analiza dotyczy typu na mecz, który odbył się 21 czerwca 2026 roku.
+## ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
----
+### Legia Warszawa
+1.  **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim. Przygotowania do sezonu 2026/27 rozpoczęły się 14 sierpnia 2026, a zawodnicy przechodzą testy medyczne i motoryczne. Brak aktualnych informacji o kontuzjach na dzień 2026-08-15.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+3.  **Werdykt:** ✅ ZATWIERDZONY
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-08-15. Informacje o powołaniach do reprezentacji (Kristrs Zoriks, György Golomán, Markus Ilver) dotyczą połowy sierpnia 2026 i nie miały wpływu na mecz z 21 czerwca 2026.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026 roku.
-        *   Filip Matczak odczuwał dolegliwości związane ze starą kontuzją, ale decyzją sztabu miał być oszczędzany, aby być gotowym na serię finałową. Dwight Wilson III zmagał się z urazem kostki, ale trenował i zaciskał zęby, aby grać w finale.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. (PulsBasketu nie dostarczył danych o formie w serii).
-    *   Na potrzeby historycznej weryfikacji meczu z 2026-06-21, Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78-70. Najlepsi strzelcy Legii w tym meczu to Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt) i Dominic Brewton III (11 Pkt). Dla Zastalu najlepsi byli Andrzej Mazurczak (10 Pkt), Jayvon Maughmer (10 Pkt) i Chavaughn Lewis (10 Pkt). Wcześniej w tej serii (mecz 4, 15.06.2026), dla Zastalu wyróżnili się Andy Mazurczak (21 Pkt) i Conley Garrison (16 Pkt), a dla Legii Carl Ponsar (17 Pkt), Andrzej Pluta (14 Pkt) i DJ Brewton (12 Pkt).
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz rozegrano 21 czerwca 2026 roku jako siódme, decydujące spotkanie finałów ORLEN Basket Ligi. Legia Warszawa wygrała ten mecz 78-70 na własnym parkiecie (OSiR Warszawa Bemowo). Typ na Legię Warszawa okazał się trafny.
-    *   Istotne braki w składzie ORLEN Zastalu Zielona Góra (sezonowa kontuzja Sagaby Konate oraz mniejsze urazy Matczaka i Wilsona przed serią finałową) mogły osłabić zespół gości w decydującym meczu.
+### ORLEN Zastal Zielona Góra
+1.  **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim. Sagaba Konate doznał poważnej kontuzji nadgarstka w lutym 2026, która wykluczyła go z reszty sezonu 2025/26. Na dzień 2026-08-15 brak jest potwierdzonych informacji o jego aktualnym statusie zdrowotnym na rozpoczynający się sezon 2026/27. Nowi zawodnicy, tacy jak Gauthier Denis i Toyaz "Tay" Solomon, dołączyli do składu na sezon 2026/27. Conley Garrison pozostaje w zespole na nadchodzący sezon.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+3.  **Werdykt:** ✅ ZATWIERDZONY
