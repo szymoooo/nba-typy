@@ -1,18 +1,37 @@
---- AUDYT PLK LIVE (2026-08-15 17:48 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-08-15 19:12 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+
+Mecz z 21 czerwca 2026 roku był siódmym i decydującym spotkaniem finałów Polskiej Ligi Koszykówki w sezonie 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo Polski.
 
 ---
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ z PulsBasketu: Legia Warszawa
+**ORLEN Zastal Zielona Góra**
 
-1.  **Kluczowe braki w składach (stan na 2026-08-15):**
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Klub rozpoczął przygotowania do sezonu 2026/27 testami medycznymi i motorycznymi w dniach 14-15 sierpnia 2026 roku.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach z poprzedniego sezonu (Sagaba Konate, Filip Matczak, Jakub Szumert, Dwight Wilson, Andrzej Mazurczak) pochodzą sprzed 2026-08-15 i nie są potwierdzonymi brakami na dzień dzisiejszy.
+1.  **Kluczowe braki w składzie:**
+    *   ❌ **Sagaba Konate** (silny skrzydłowy/środkowy): Wykluczony do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026 roku.
+    *   ⚠️ **Filip Matczak** (rozgrywający): Odczuwał dolegliwości związane ze starą kontuzją przed serią finałową, ale był w kadrze i liczono na jego udział.
+    *   ✅ **Phil Fayne** (silny skrzydłowy): Powrócił do zespołu na serię finałową po nieobecności z powodów rodzinnych.
+    *   ✅ **Dwight Wilson III** (środkowy): Czuł się dobrze i trenował normalnie, mimo odczuwania skutków urazu kostki.
 
-2.  **Aktualna forma top scorerów (stan na 2026-08-15):**
-    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (w serii finałowej):**
+    *   🏀 **Andy Mazurczak** (rozgrywający): Był w bardzo dobrej formie, zdobywając 21 punktów w 4. meczu finału.
+    *   🏀 **Chavaughn Lewis** (rzucający): Był kluczowym strzelcem w finałach, zdobywając punkty w ważnych momentach.
+    *   🏀 **Conley Garrison** (rozgrywający/rzucający): Ważny zawodnik obwodowy, zabezpieczający tę pozycję w składzie.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Biorąc pod uwagę brak potwierdzonych, istotnych braków kadrowych w sekcjach koszykarskich obu klubów na dzień 2026-08-15, oraz brak dodatkowych danych z serii meczowej, nie ma przesłanek, aby zakwestionować pierwotny typ z PulsBasketu.
+---
+
+**Legia Warszawa**
+
+1.  **Kluczowe braki w składzie:**
+    *   ✅ **Brak istotnych braków w składzie koszykarskim**.
+    *   Michał Kolenda (niski skrzydłowy), mimo że przeszedł operację stawu skokowego po zakończeniu sezonu 2025/2026, był dostępny na finały. Andrzej Pluta, Jayvon Graves i Matthias Tass, którzy mieli kontuzje w listopadzie 2025, wrócili do gry po przerwie reprezentacyjnej i byli dostępni w finałach.
+
+2.  **Aktualna forma top scorerów (w serii finałowej):**
+    *   🔥 **Andrzej Pluta** (rozgrywający): Uznawany za najlepszego zawodnika fazy zasadniczej sezonu 2025/2026 i był kluczowym graczem Legii, mimo że w 4. meczu finału zdobył 14 punktów i "zawodził". Jego ogólna forma w sezonie była wysoka.
+
+---
+
+**Werdykt:**
+Legia Warszawa wygrała ten mecz, zostając mistrzem Polski w sezonie 2025/2026. Pomimo osłabienia Zastalu brakiem Sagaby Konate i mniejszymi dolegliwościami u Filipa Matczaka, Legia dysponowała pełnym składem i kluczowi gracze byli dostępni. Typ wskazujący na Legię Warszawa był prawidłowy.
+
+[✅ ZATWIERDZONY]
