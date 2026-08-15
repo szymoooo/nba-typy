@@ -1,37 +1,31 @@
---- AUDYT PLK LIVE (2026-08-15 19:12 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
-
-Mecz z 21 czerwca 2026 roku był siódmym i decydującym spotkaniem finałów Polskiej Ligi Koszykówki w sezonie 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo Polski.
+--- AUDYT PLK LIVE (2026-08-15 23:51 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21) z perspektywy dnia 2026-08-15:
 
 ---
 
-**ORLEN Zastal Zielona Góra**
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ z PulsBasketu: Legia Warszawa
 
-1.  **Kluczowe braki w składzie:**
-    *   ❌ **Sagaba Konate** (silny skrzydłowy/środkowy): Wykluczony do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026 roku.
-    *   ⚠️ **Filip Matczak** (rozgrywający): Odczuwał dolegliwości związane ze starą kontuzją przed serią finałową, ale był w kadrze i liczono na jego udział.
-    *   ✅ **Phil Fayne** (silny skrzydłowy): Powrócił do zespołu na serię finałową po nieobecności z powodów rodzinnych.
-    *   ✅ **Dwight Wilson III** (środkowy): Czuł się dobrze i trenował normalnie, mimo odczuwania skutków urazu kostki.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (silny skrzydłowy/środkowy) był wyłączony z gry do końca sezonu 2025/2026 z powodu urazu awulsyjnego więzadła nadgarstka, którego doznał 28 lutego 2026 roku. Jego brak był istotnym osłabieniem.
+        *   Filip Matczak (rozgrywający) odczuwał dolegliwości związane ze starą kontuzją na początku czerwca 2026, jednak sztab szkoleniowy liczył na jego udział w serii finałowej.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21. Wcześniejsze urazy podstawowych zawodników (m.in. Pluta, Graves, Tass, Kolenda, Siliņš) zgłoszone w końcówce 2025 roku najprawdopodobniej zostały wyleczone przed decydującymi meczami finałowymi. Na dzień 2026-08-15 brak jest aktualnych informacji o kontuzjach w sekcji koszykówki Legii Warszawa.
 
-2.  **Aktualna forma top scorerów (w serii finałowej):**
-    *   🏀 **Andy Mazurczak** (rozgrywający): Był w bardzo dobrej formie, zdobywając 21 punktów w 4. meczu finału.
-    *   🏀 **Chavaughn Lewis** (rzucający): Był kluczowym strzelcem w finałach, zdobywając punkty w ważnych momentach.
-    *   🏀 **Conley Garrison** (rozgrywający/rzucający): Ważny zawodnik obwodowy, zabezpieczający tę pozycję w składzie.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis (15.8 Pkt/mecz)
+        *   Jakub Szumert (13.2 Pkt/mecz)
+        *   Andrzej Mazurczak (11.8 Pkt/mecz)
+    *   🏀 **Legia Warszawa:**
+        *   Dominic Brewton III (14.5 Pkt/mecz)
+        *   Andrzej Pluta (13.4 Pkt/mecz)
+        *   Jayvon Graves (12.8 Pkt/mecz)
+    *   Brak danych z API dla tego zespołu dotyczących formy w konkretnej serii meczowej.
 
----
-
-**Legia Warszawa**
-
-1.  **Kluczowe braki w składzie:**
-    *   ✅ **Brak istotnych braków w składzie koszykarskim**.
-    *   Michał Kolenda (niski skrzydłowy), mimo że przeszedł operację stawu skokowego po zakończeniu sezonu 2025/2026, był dostępny na finały. Andrzej Pluta, Jayvon Graves i Matthias Tass, którzy mieli kontuzje w listopadzie 2025, wrócili do gry po przerwie reprezentacyjnej i byli dostępni w finałach.
-
-2.  **Aktualna forma top scorerów (w serii finałowej):**
-    *   🔥 **Andrzej Pluta** (rozgrywający): Uznawany za najlepszego zawodnika fazy zasadniczej sezonu 2025/2026 i był kluczowym graczem Legii, mimo że w 4. meczu finału zdobył 14 punktów i "zawodził". Jego ogólna forma w sezonie była wysoka.
-
----
-
-**Werdykt:**
-Legia Warszawa wygrała ten mecz, zostając mistrzem Polski w sezonie 2025/2026. Pomimo osłabienia Zastalu brakiem Sagaby Konate i mniejszymi dolegliwościami u Filipa Matczaka, Legia dysponowała pełnym składem i kluczowi gracze byli dostępni. Typ wskazujący na Legię Warszawa był prawidłowy.
-
-[✅ ZATWIERDZONY]
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się jako Game 7 serii finałowej Orlen Basket Ligi 2025/2026.
+    *   Legia Warszawa zdobyła mistrzostwo Polski w sezonie 2025/2026.
+    *   Zastal Zielona Góra grał osłabiony brakiem Sagaby Konate, co dodatkowo wzmacniało pozycję Legii.
+    *   Przewaga własnego parkietu i urazy liderów mają większą wagę w decydujących meczach play-off. Biorąc pod uwagę osłabienie Zastalu i ostateczny wynik serii finałowej, typ na Legię Warszawa był słuszny.
