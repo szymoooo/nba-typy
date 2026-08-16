@@ -1,33 +1,19 @@
---- AUDYT PLK LIVE (2026-08-16 17:49 CET) ---
-**Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
-
-Dnia 21 czerwca 2026 roku odbył się siódmy, decydujący mecz finałowej serii Orlen Basket Ligi, w którym Legia Warszawa zmierzyła się z ORLEN Zastalem Zielona Góra. Mecz zakończył się zwycięstwem Legii Warszawa 78:70, co dało jej tytuł Mistrza Polski.
+--- AUDYT PLK LIVE (2026-08-16 19:02 CET) ---
+Poniżej audyt dla meczu koszykarskiego:
 
 ---
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (silny skrzydłowy/środkowy) był kontuzjowany od lutego 2026 roku (uraz dłoni) i wykluczony z gry do końca sezonu 2025/2026.
-        *   Filip Matczak (rozgrywający) zmagał się z nawracającym urazem pachwiny w czerwcu 2026, ale pomimo dolegliwości, był w składzie i występował w meczach finałowych.
-        *   Dwight Wilson III (środkowy) odczuwał skutki urazu kostki, jednak brał udział w treningach i był dostępny w serii finałowej.
-    *   🏀 **Legia Warszawa:**
-        *   Andrzej Pluta (rozgrywający), Jayvon Graves (rozgrywający/rzucający) i Matthias Tass (środkowy) mieli kontuzje w listopadzie 2025 roku, ale wrócili do gry po przerwie reprezentacyjnej i byli dostępni na finały.
-        *   Race Thompson (silny skrzydłowy) doznał urazu stawu skokowego w pierwszym meczu półfinału, ale powrócił na finały i wystąpił w decydującym spotkaniu.
-        *   Michał Kolenda (niski skrzydłowy) opuścił początek półfinałów, ale wrócił do składu na kolejne mecze i grał w finałach.
-    *   **Podsumowując:** Najważniejszym i długoterminowym brakiem dla Zastalu był Sagaba Konate. Pozostali kluczowi zawodnicy obu drużyn, mimo wcześniejszych problemów zdrowotnych, byli gotowi do gry w decydującym meczu finałowym.
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-16.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-16. Michael Christmas został nowym zawodnikiem Legii 28.07.2026. Mathieu Wojciechowski wrócił do Legii 7.08.2026. Michał Kolenda przeszedł "planowy zabieg" 23.07.2026, jednak brak aktualnych informacji o jego niedostępności na dzień 2026-08-16.
 
-2.  **Aktualna forma top scorerów (na podstawie danych z meczów finałowych wokół 2026-06-21):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Andy Mazurczak: W Game 7 zdobył 10 punktów. Był czołowym strzelcem sezonu (11.8 Pkt/mecz) i regularnie dostarczał punkty w finałach.
-        *   Chavaughn Lewis: W Game 7 zdobył 10 punktów. Był liderem punktowym Zastalu w sezonie (15.8 Pkt/mecz) i zanotował 25 punktów w Game 2.
-        *   Jayvon Maughmer: W Game 7 zdobył 10 punktów.
-    *   🏀 **Legia Warszawa:**
-        *   Andrzej Pluta: W Game 7 zdobył 15 punktów. Był kluczową postacią w całej serii, zdobywając m.in. 27 punktów i 9 asyst w Game 2. Jego średnia sezonowa wynosiła 13.4 Pkt/mecz.
-        *   Dominic Brewton III: W Game 7 zdobył 11 punktów. Był liderem punktowym Legii w sezonie (14.5 Pkt/mecz) i zanotował 21 punktów w Game 5.
-        *   Race Thompson: W Game 7 zdobył 11 punktów.
+2.  **Aktualna forma top scorerów:**
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
+    *   **Legia Warszawa:** Z PulsBasketu brak danych o formie w serii. Jednak, Legia Warszawa w sezonie 2025/2026 miała wiodących strzelców, takich jak Dominic Brewton III (średnio 14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) oraz Jayvon Graves (12.8 Pkt/mecz).
 
-3.  **Werdykt:**
-    Legia Warszawa wygrała decydujący mecz finałowej serii 78:70, zdobywając Mistrzostwo Polski. Mecz odbył się w Warszawie, co dawało Legii przewagę własnego parkietu w Game 7.
-    *   **Werdykt:** [✅ ZATWIERDZONY]
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się 21.06.2026, a Legia Warszawa zwyciężyła z Orlen Zastal Zielona Góra wynikiem 78:70. Prognoza "Legia Warszawa" była poprawna.
+    *   Na dzień audytu (2026-08-16) oba zespoły aktywnie budują składy na sezon 2026/2027, co obejmuje transfery i przygotowania. Brak potwierdzonych kluczowych kontuzji, które by wpłynęły na ocenę tego typu.
