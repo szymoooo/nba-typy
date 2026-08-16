@@ -1,17 +1,16 @@
---- AUDYT PLK LIVE (2026-08-16 05:15 CET) ---
-**Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa**
-**Typ z PulsBasketu: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-08-16 09:17 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał podczas Pekao S.A. Pucharu Polski. Kontuzja została potwierdzona 28 lutego 2026 roku.
-        *   Phil Fayne zmagał się z urazem i opuścił treningi przed serią finałową, ale był bardzo potrzebny i zagrał w meczu. Dwight Wilson III odczuwał skutki urazu kostki, ale trenował normalnie i zagrał w meczu.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim na mecz 2026-06-21.
+### ORLEN Zastal Zielona Góra
+1.  **Kluczowe braki w składzie:**
+    *   🤕 **Sagaba Konate:** Koniec sezonu od 28 lutego 2026 z powodu urazu więzadła SL nadgarstka.
+    *   ⚠️ **Filip Matczak:** Odczuwał dolegliwości związane ze starą kontuzją 6 czerwca 2026, opuszczając treningi przed serią finałową.
+    *   ⚠️ **Dwight Wilson:** Nadal odczuwał skutki urazu kostki 6 czerwca 2026, ale uczestniczył w treningach.
+    *   ✅ **Phil Fayne:** Powrócił do zespołu na serię finałową po przerwie z powodów rodzinnych.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
 
-2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** brak danych z API dla tego zespołu.
-    *   🏀 **Legia Warszawa:** brak danych z API dla tego zespołu.
-
+### Legia Warszawa
+1.  **Kluczowe braki w składzie:** Brak istotnych braków w składzie koszykarskim.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa wygrała ten mecz 78:70, zdobywając Mistrzostwo Polski w siódmym meczu finałowym rozgrywanym u siebie w OSiR Warszawa Bemowo. Zastal Zielona Góra musiał radzić sobie bez kontuzjowanego Sagaby Konate, który był wykluczony do końca sezonu, a także z innymi graczami, którzy zmagali się z urazami. Przewaga własnego parkietu i osłabienia kadrowe rywala sprzyjały Legii.
