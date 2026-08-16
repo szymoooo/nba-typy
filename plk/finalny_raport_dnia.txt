@@ -1,31 +1,37 @@
---- AUDYT PLK LIVE (2026-08-16 01:11 CET) ---
-Analiza meczu PLK z 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-16 04:18 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-### ORLEN Zastal Zielona Góra
-
-1.  **Kluczowe braki w składzie:**
-    *   🏀 **Sagaba Konate:** Sezon zakończony w lutym 2026 z powodu awulsyjnego uszkodzenia więzadła nadgarstka.
-    *   Filip Matczak i Dwight Wilson III mieli drobne dolegliwości na początku czerwca 2026, ale wystąpili w meczach finałowych (np. w meczu nr 4). Andrzej Mazurczak również trenował indywidualnie na początku czerwca, ale był gotowy na serię finałową.
-2.  **Aktualna forma top scorerów (z 7. meczu finału, 21.06.2026):**
-    *   Andrzej Mazurczak: 10 punktów.
-    *   Warto zauważyć, że w całym sezonie 2025/2026 czołowymi strzelcami byli: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
-3.  **Werdykt:** [⚠️ RYZYKOWNY] (ze względu na kontuzję Sagaby Konate i mecz na wyjeździe w decydującym finale).
-
-### Legia Warszawa
-
-1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim Legii Warszawa przed 7. meczem finałowym.
-2.  **Aktualna forma top scorerów (z 7. meczu finału, 21.06.2026):**
-    *   Andrzej Pluta: 15 punktów.
-    *   Race Thompson: 11 punktów.
-    *   Dominic Brewton III: 11 punktów.
-    *   Shane Hunter: 10 punktów.
-    *   Warto zauważyć, że w całym sezonie 2025/2026 czołowymi strzelcami byli: Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
-3.  **Werdykt:** [✅ ZATWIERDZONY] (ze względu na pełny skład i przewagę własnego parkietu w decydującym meczu).
+📅 Data analizy: 2026-08-16 (Mecz rozegrany hipotetycznie 2026-06-21)
 
 ---
 
-**Całkowity Werdykt dla typu ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa:**
+### ORLEN Zastal Zielona Góra
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-*   **Uzasadnienie:** Legia Warszawa grała u siebie w 7. meczu finału, miała pełny skład, podczas gdy ORLEN Zastal Zielona Góra borykał się z kluczową kontuzją Sagaby Konate, która wyeliminowała go z całego sezonu od lutego 2026. Przewaga własnego parkietu w decydującym meczu play-off jest znaczącym czynnikiem. Legia ostatecznie wygrała mecz 78:70 i obroniła tytuł Mistrza Polski.
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):**
+    *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-08-16. Trwa okres przygotowawczy do sezonu 2026/2027, a składy ulegają zmianom.
+
+2.  **Aktualna forma top scorerów (z sezonu 2025/2026):**
+    *   Brak danych z API PulsBasket dla tego zespołu.
+    *   Informacje o top scorerach z zakończonego sezonu 2025/2026 będą kluczowe dla oceny formy, jednak w obecnej fazie (pre-sezon 2026/2027) konkretne nazwiska i ich forma mogą być trudne do jednoznacznego określenia bez bieżących meczów.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak konkretnych informacji o bieżącej sytuacji kadrowej i formie zawodników na dzień 2026-08-16 utrudnia precyzyjną ocenę. Typowanie meczu z czerwca bazując na aktualnych (sierpniowych) informacjach o składach, które prawdopodobnie ulegają transformacji, jest ryzykowne.
+
+---
+
+### Legia Warszawa
+
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):**
+    *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-08-16. Zespół przygotowuje się do kolejnego sezonu 2026/2027, a roster może ulegać zmianom.
+
+2.  **Aktualna forma top scorerów (z sezonu 2025/2026):**
+    *   Brak danych z API PulsBasket dla tego zespołu.
+    *   Podobnie jak w przypadku Zastalu, bez dostępu do danych z zakończonego sezonu 2025/2026 i braku bieżących meczów, trudno jest ocenić aktualną formę czołowych strzelców.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak szczegółowych informacji o składzie i formie na dzień 2026-08-16. W okresie przygotowań do nowego sezonu, gdy nie ma potwierdzonych informacji o kontuzjach czy absencjach z 2025/2026, każda decyzja jest obarczona niepewnością.
+
+---
+
+**Ogólny werdykt dla meczu:** [⚠️ RYZYKOWNY]
+Brak wystarczających, bieżących danych o składach i formie na dzień 2026-08-16, w kontekście meczu z czerwca, sprawia, że ocena jest bardzo spekulatywna. Okres wakacyjny i budowanie składów na nowy sezon zawsze wiąże się z dynamiką, która uniemożliwia precyzyjną analizę na taką datę.
