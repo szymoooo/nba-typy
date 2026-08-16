@@ -1,16 +1,13 @@
---- AUDYT PLK LIVE (2026-08-16 09:17 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-08-16 09:48 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-### ORLEN Zastal Zielona Góra
-1.  **Kluczowe braki w składzie:**
-    *   🤕 **Sagaba Konate:** Koniec sezonu od 28 lutego 2026 z powodu urazu więzadła SL nadgarstka.
-    *   ⚠️ **Filip Matczak:** Odczuwał dolegliwości związane ze starą kontuzją 6 czerwca 2026, opuszczając treningi przed serią finałową.
-    *   ⚠️ **Dwight Wilson:** Nadal odczuwał skutki urazu kostki 6 czerwca 2026, ale uczestniczył w treningach.
-    *   ✅ **Phil Fayne:** Powrócił do zespołu na serię finałową po przerwie z powodów rodzinnych.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate (środkowy) był wyłączony z gry do końca sezonu 2025/2026 z powodu kontuzji nadgarstka, której doznał w lutym 2026 roku.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda i Ojars Silins, którzy wcześniej zmagali się z kontuzjami, wystąpili w tym meczu.
 
-### Legia Warszawa
-1.  **Kluczowe braki w składzie:** Brak istotnych braków w składzie koszykarskim.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+2.  **Aktualna forma top scorerów (mecz 2026-06-21):**
+    *   ⛹️‍♂️ **Legia Warszawa:** Andrzej Pluta (15 punktów), Race Thompson (11 punktów), Dominic Brewton III (11 punktów), Shane Hunter (10 punktów).
+    *   ⛹️‍♂️ **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 punktów), Jayvon Maughmer (10 punktów), Chavaughn Lewis (10 punktów).
+
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Legia Warszawa, grając u siebie w siódmym, decydującym meczu finałów PLK 2025/2026, pokonała ORLEN Zastal Zielona Góra wynikiem 78:70 i zdobyła mistrzostwo Polski. Brak Sagaby Konate w zespole Zastalu był istotnym osłabieniem. Typ na Legię Warszawa okazał się trafny.
