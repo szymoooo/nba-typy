@@ -1,21 +1,29 @@
---- AUDYT PLK LIVE (2026-08-16 10:20 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-08-16 10:25 CET) ---
+**Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-08-16)**
 
-1.  **Kluczowe braki w składach (2026-06-21):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Przed serią finałową, Phil Fayne powrócił do składu po przerwie rodzinnej.
-        *   Filip Matczak odczuwał dolegliwości związane ze starą kontuzją, ale sztab szkoleniowy planował dać mu odpocząć, aby był gotowy na finały.
-        *   Dwight Wilson III wracał do pełnej sprawności po urazie kostki i trenował z zespołem.
-        *   Brak potwierdzonych, kluczowych absencji, które wykluczałyby tych zawodników z meczu numer 7.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-06-21. Wcześniej w sezonie 2025/2026 (grudzień 2025) Legia borykała się z kontuzjami Ojarsa Silinsa, Matthiasa Tassa i Michała Kolendy, jednak nie ma informacji, by były to absencje na finał.
+**1. Kluczowe braki w składach:**
 
-2.  **Aktualna forma top scorerów (z meczu nr 7 finałów 2025/26):**
-    *   🏀 **ORLEN Zastal Zielona Góra:** W decydującym meczu finałowym najlepszym strzelcem Zastalu był Andrzej Mazurczak z 10 punktami. W całym sezonie 2025/2026 czołowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
-    *   🏀 **Legia Warszawa:** W 7. meczu finałowym najwięcej punktów dla Legii zdobyli Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt) i Shane Hunter (10 Pkt). Andrzej Pluta Jr. został MVP Finałów sezonu 2025/26. W całym sezonie 2025/2026 najlepszymi strzelcami Legii byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+*   **Legia Warszawa:**
+    *   Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach Michała Kolendy (zerwane więzadła stawu skokowego, 6-8 tygodni) i Matthiasa Tassa (operacja stawu skokowego) pochodzą z grudnia 2025 roku. Biorąc pod uwagę dzisiejszą datę (16 sierpnia 2026), obaj zawodnicy powinni być już po rekonwalescencji i przygotowywać się do sezonu 2026/2027.
+    *   Legia Warszawa rozpoczęła przygotowania do sezonu 2026/2027 testami medycznymi i motorycznymi 14 sierpnia 2026 r.
+*   **ORLEN Zastal Zielona Góra:**
+    *   Brak istotnych braków w składzie koszykarskim, jeśli chodzi o kontuzje potwierdzone na sierpień 2026.
+    *   Sagaba Konate, podkoszowy Zastalu, doznał poważnej kontuzji dłoni w lutym 2026 roku, która zakończyła jego sezon 2025/2026. Nie jest wymieniony w składzie Zastalu na sezon 2026/2027 jako zawodnik zatrzymany ani nowy nabytek, co sugeruje, że nie będzie dostępny dla zespołu w nadchodzącym sezonie, więc jego absencja jest brakiem w kadrze.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku i był 7. decydującym spotkaniem finałowym PLK sezonu 2025/2026.
-    *   Legia Warszawa grała u siebie (OSiR Warszawa Bemowo) i obroniła tytuł Mistrza Polski, wygrywając z ORLEN Zastalem Zielona Góra 78:70.
-    *   Legia była najlepszą drużyną sezonu zasadniczego i obrońcą tytułu.
-    *   Kluczowi zawodnicy Legii (w tym MVP Finałów Andrzej Pluta) byli w dobrej formie i poprowadzili zespół do zwycięstwa.
+**2. Aktualna forma top scorerów:**
+
+*   **Legia Warszawa:**
+    *   Legia Warszawa była obrońcą tytułu mistrza Polski w sezonie 2025/2026.
+    *   Top scorerzy z sezonu 2025/2026 to Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). Brak danych z API dla bieżącej formy w okresie przygotowawczym do sezonu 2026/2027.
+*   **ORLEN Zastal Zielona Góra:**
+    *   Zastal Zielona Góra był wicemistrzem Polski w sezonie 2025/2026, przegrywając z Legią Warszawa 3:4 w finale.
+    *   Drużyna przeszła znaczną przebudowę składu na sezon 2026/2027. Z poprzedniego składu pozostali m.in. Conley Garrison (jedyny obcokrajowiec) oraz Andrzej Mazurczak (opisywany jako "mózg drużyny"), Filip Matczak, Krzysztof Sulima i Miłosz Majewski.
+    *   Dołączyli nowi zawodnicy, tacy jak Jan Wójcik, Toyaz Solomon, Trazarien White, Gauthier Denis i Veljko Brkić.
+    *   Brak danych z API dla bieżącej formy top scorerów w okresie przygotowawczym do sezonu 2026/2027.
+
+**3. Werdykt:**
+
+[✅ ZATWIERDZONY]
+
+**Uzasadnienie:**
+Mecz jest hipotetyczny, rozgrywany w okresie przygotowawczym do sezonu 2026/2027. Legia Warszawa, jako obrońca tytułu mistrza Polski, wchodzi w nowy sezon z pewną stabilizacją i znanymi liderami strzeleckimi z poprzedniego sezonu. Zastal Zielona Góra, choć wicemistrz, przeszedł znaczną przebudowę składu. W okresie pre-season, gdzie nowe składy potrzebują czasu na zgranie, przewaga stabilności i statusu obrońcy tytułu przemawia na korzyść Legii. Brak potwierdzonych, bieżących kluczowych kontuzji koszykarskich w obu zespołach na dzień 16 sierpnia 2026 r. zmniejsza ryzyko związane z niedostępnością zawodników.
