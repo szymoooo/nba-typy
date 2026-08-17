@@ -1,35 +1,27 @@
---- AUDYT PLK LIVE (2026-08-17 10:03 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21, typ: Legia Warszawa):
+--- AUDYT PLK LIVE (2026-08-17 10:38 CET) ---
+Analiza meczu PLK (data meczu w kontekście: 2026-06-21, analiza dzisiaj: 2026-08-17):
 
-### ORLEN Zastal Zielona Góra
-*   **Kluczowe braki w składach:**
-    *   ❌ Sagaba Konate (silny skrzydłowy/środkowy) - Zakończył sezon w lutym 2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka.
-    *   ❌ Filip Matczak (rozgrywający) - Kontuzjowany w lutym 2026, opuścił mecze Pucharu Polski. Brak informacji o powrocie na czerwiec.
-    *   ❌ Jakub Szumert (silny skrzydłowy) - Kontuzjowany w lutym 2026, opuścił mecze Pucharu Polski. Jego powrót na kolejny mecz pucharowy nie był wykluczony, ale brak konkretnych danych o jego statusie na finały w czerwcu. Był drugim najlepszym strzelcem drużyny w sezonie 2025/2026.
-    *   ℹ️ Zastal przed finałami zmagał się z licznymi urazami.
-*   **Aktualna forma top scorerów:**
-    *   Chavaughn Lewis: 15.8 Pkt/mecz w sezonie 2025/2026.
-    *   Andrzej Mazurczak: 11.8 Pkt/mecz w sezonie 2025/2026.
-    *   Conley Garrison: Odpowiedzialny za zwycięską akcję w 6. meczu finału.
-    *   Phil Fayne: Mimo wcześniejszej niewidoczności, dobrze zaprezentował się w Pucharze Polski w lutym 2026 i wrócił do składu przed finałami.
-    *   Brak danych z API dla tego zespołu odnośnie aktualnej formy top scorerów bezpośrednio przed meczem 2026-06-21.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
-### Legia Warszawa
-*   **Kluczowe braki w składach:**
-    *   ❌ Race Thompson (silny skrzydłowy/środkowy) - Doznał urazu stawu skokowego w pierwszym meczu półfinału (vs Dziki Warszawa) i był poza składem w 3. meczu półfinału (01.06.2026). Prawdopodobnie nie grał również w finałach.
-    *   ✅ Michał Kolenda (niski skrzydłowy/silny skrzydłowy) - Wrócił do wyjściowej piątki na 3. mecz półfinału (01.06.2026) po problemach zdrowotnych, które wykluczyły go z dwóch wcześniejszych meczów.
-    *   Brak istotnych braków w składzie koszykarskim oprócz Race'a Thompsona w okresie finałów.
-*   **Aktualna forma top scorerów:**
-    *   Dominic Brewton III: 14.5 Pkt/mecz w sezonie 2025/2026. Był liderem drużyny w półfinale.
-    *   Andrzej Pluta: 13.4 Pkt/mecz w sezonie 2025/2026. Był liderem drużyny w półfinale.
-    *   Jayvon Graves: 12.8 Pkt/mecz w sezonie 2025/2026.
-    *   Brak danych z API dla tego zespołu odnośnie aktualnej formy top scorerów bezpośrednio przed meczem 2026-06-21.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (silny skrzydłowy/środkowy) – doznał poważnej kontuzji nadgarstka (zerwanie więzadeł) w lutym 2026 roku, co zakończyło jego udział w sezonie 2025/2026.
+        *   Filip Matczak (rozgrywający) i Jakub Szumert (silny skrzydłowy) zmagali się z urazami w lutym 2026 roku; ich pełna dyspozycyjność na dzień 21.06.2026 nie jest jednoznacznie potwierdzona, a klub ogólnie informował o "walce z urazami" w czerwcu 2026.
+    *   🏀 **Legia Warszawa:**
+        *   Michał Kolenda (rozgrywający) doznał zerwania więzadeł stawu skokowego w grudniu 2025 roku, z prognozowaną przerwą 6-8 tygodni. Biorąc pod uwagę fakt, że Legia wygrała mistrzostwo w sezonie 2025/2026 i Kolenda jest wymieniany w składzie na sezon 2026/2027, prawdopodobnie powrócił do gry przed końcem poprzedniego sezonu.
+        *   Matthias Tass (środkowy) również wymagał operacji stawu skokowego w grudniu 2025 roku, co wskazywało na dłuższą absencję i mógł być niedostępny na koniec sezonu 2025/2026.
+        *   Brak innych istotnych braków w składzie koszykarskim Legii Warszawa, potwierdzonych na sierpień 2026, które byłyby aktualne w czerwcu 2026.
 
-### Kontekst meczu
-*   Mecz 2026-06-21 był 7. i decydującym spotkaniem finałowym Orlen Basket Ligi pomiędzy Legią Warszawa a ORLEN Zastalem Zielona Góra.
-*   Mecz odbył się w Warszawie, na własnym parkiecie Legii.
-*   Legia Warszawa obroniła tytuł Mistrza Polski, wygrywając ten mecz.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz
+        *   Jakub Szumert: 13.2 Pkt/mecz
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz
+    *   🏀 **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz
+        *   Andrzej Pluta: 13.4 Pkt/mecz
+        *   Jayvon Graves: 12.8 Pkt/mecz
 
-### Werdykt
-[✅ ZATWIERDZONY]
-Legia Warszawa wygrała ten mecz na własnym parkiecie, zdobywając Mistrzostwo Polski w decydującym 7. meczu finałowym. Mimo kontuzji Race'a Thompsona, Legia miała silny skład i liderów w dobrej formie. ORLEN Zastal Zielona Góra mierzył się z bardziej znaczącymi problemami kadrowymi, w tym z brakiem Sagaby Konate na cały sezon i niepewnym statusem innych kluczowych graczy. Przewaga własnego parkietu w Game 7 i gorsza sytuacja kadrowa Zastalu dodatkowo uzasadniają typ na Legię.
+3.  **Werdykt:**
+    *   Legia Warszawa zdobyła Mistrzostwo Polski w koszykówce w sezonie 2025/2026, co świadczy o jej dominacji i wysokiej formie w końcówce sezonu. ORLEN Zastal Zielona Góra borykał się z poważnymi problemami kadrowymi i kontuzjami kluczowych graczy, w tym Sagaby Konate, który był wyłączony z gry od lutego 2026. Mając na uwadze osłabienia Zastalu i mistrzowską dyspozycję Legii, typ na Legię Warszawa jest uzasadniony.
+    *   [✅ ZATWIERDZONY]
