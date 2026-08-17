@@ -1,27 +1,17 @@
---- AUDYT PLK LIVE (2026-08-17 10:38 CET) ---
-Analiza meczu PLK (data meczu w kontekście: 2026-06-21, analiza dzisiaj: 2026-08-17):
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-17 11:02 CET) ---
+**PLK typy na 2026-06-21**
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (silny skrzydłowy/środkowy) – doznał poważnej kontuzji nadgarstka (zerwanie więzadeł) w lutym 2026 roku, co zakończyło jego udział w sezonie 2025/2026.
-        *   Filip Matczak (rozgrywający) i Jakub Szumert (silny skrzydłowy) zmagali się z urazami w lutym 2026 roku; ich pełna dyspozycyjność na dzień 21.06.2026 nie jest jednoznacznie potwierdzona, a klub ogólnie informował o "walce z urazami" w czerwcu 2026.
-    *   🏀 **Legia Warszawa:**
-        *   Michał Kolenda (rozgrywający) doznał zerwania więzadeł stawu skokowego w grudniu 2025 roku, z prognozowaną przerwą 6-8 tygodni. Biorąc pod uwagę fakt, że Legia wygrała mistrzostwo w sezonie 2025/2026 i Kolenda jest wymieniany w składzie na sezon 2026/2027, prawdopodobnie powrócił do gry przed końcem poprzedniego sezonu.
-        *   Matthias Tass (środkowy) również wymagał operacji stawu skokowego w grudniu 2025 roku, co wskazywało na dłuższą absencję i mógł być niedostępny na koniec sezonu 2025/2026.
-        *   Brak innych istotnych braków w składzie koszykarskim Legii Warszawa, potwierdzonych na sierpień 2026, które byłyby aktualne w czerwcu 2026.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate (silny skrzydłowy/środkowy) doznał awulsyjnego uszkodzenia więzadła nadgarstka podczas Pucharu Polski w lutym 2026 roku i został wykluczony z gry do końca sezonu 2025/2026. Phil Fayne (silny skrzydłowy) był oszczędzany na początku czerwca 2026, ale spodziewano się jego powrotu na serię finałową. Dwight Wilson III (środkowy) odczuwał skutki urazu kostki, ale trenował normalnie na początku czerwca 2026.
+    *   🏀 **Legia Warszawa:** Wcześniej w sezonie 2025/2026 kontuzje dotknęły Andrzeja Plutę (rozgrywający), Jayvona Gravesa (rozgrywający/rzucający), Matthiasa Tassa (środkowy) i Michała Kolendy (rzucający/niski skrzydłowy). Brak jest jednak potwierdzonych informacji o ich niedostępności na mecz 2026-06-21. Michał Kolenda był wymieniany w składzie Legii na cały sezon 2025/2026. Heiko Rannula, trener Legii, opuścił początek przygotowań do sezonu 2026/2027, co jednak nie ma wpływu na mecz z czerwca 2026.
 
 2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz
-        *   Jakub Szumert: 13.2 Pkt/mecz
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz
-    *   🏀 **Legia Warszawa:**
-        *   Dominic Brewton III: 14.5 Pkt/mecz
-        *   Andrzej Pluta: 13.4 Pkt/mecz
-        *   Jayvon Graves: 12.8 Pkt/mecz
+    *   🏀 **ORLEN Zastal Zielona Góra:** Najlepsi strzelcy w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   🏀 **Legia Warszawa:** Najlepsi strzelcy w sezonie 2025/2026 to Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+    *   Brak danych z API dla tego zespołu w kontekście "w serii powyżej".
 
-3.  **Werdykt:**
-    *   Legia Warszawa zdobyła Mistrzostwo Polski w koszykówce w sezonie 2025/2026, co świadczy o jej dominacji i wysokiej formie w końcówce sezonu. ORLEN Zastal Zielona Góra borykał się z poważnymi problemami kadrowymi i kontuzjami kluczowych graczy, w tym Sagaby Konate, który był wyłączony z gry od lutego 2026. Mając na uwadze osłabienia Zastalu i mistrzowską dyspozycję Legii, typ na Legię Warszawa jest uzasadniony.
-    *   [✅ ZATWIERDZONY]
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa zakończyła sezon 2025/2026 na pierwszym miejscu w tabeli PLK i wykazywała lepsze statystyki drużynowe (średnio 86.7 punktów na mecz i EVAL 103.2 w porównaniu do 83.5 punktów i EVAL 98.4 dla Zastalu).
+    *   Zastal Zielona Góra był osłabiony przez poważną kontuzję Sagaby Konate, wykluczającą go z gry w kluczowej fazie sezonu. Mimo to Zastal dotarł do finału, gdzie zmierzył się z Legią, o czym świadczą informacje o "GAME 7 finał".
+    *   Biorąc pod uwagę lepszą ogólną formę Legii w sezonie 2025/2026 oraz znaczący brak w składzie Zastalu, typ na Legię Warszawa jest uzasadniony.
