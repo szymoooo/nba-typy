@@ -1,19 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-16 22:16 ET) ---
-**Analiza Meczu: Heat @ Raptors**
+--- KRYTYCZNY AUDYT LIVE (2026-08-16 23:14 ET) ---
+Na podstawie danych ze stycznia 2026 roku:
 
-📅 Data meczu: Styczeń 2026 (hipotetycznie)
-📅 Dane z sieci: 2026-08-16
+**Heat @ Raptors**
 
----
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Toronto Raptors:**
+        *   Scottie Barnes: Kontuzja kolana (Out) 🦵
+        *   Brandon Ingram: Kontuzja kciuka/palca (Out/Questionable) 👍
+        *   RJ Barrett: Kontuzja kostki (Out) 🦶
+        *   Jakob Poeltl: Problemy z plecami (Out) 🩹
+        *   Ja'Kobe Walter: Kontuzja kostki (Out) 🦶
+    *   **Miami Heat:**
+        *   Tyler Herro: Kontuzja żeber/palca u nogi (Out) 🤕
+        *   Davion Mitchell: Stłuczenie barku (Out) 숄더
+        *   Jaime Jaquez Jr.: Skręcenie lewego kolana (Questionable) 🦵
 
-**Heat @ Raptors -> Typ: Raptors**
-
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla meczu w styczniu 2026 roku. Raporty kontuzji z 16 sierpnia 2026 dotyczą poza sezonu/przedsezonu 2026-27 i nie dostarczają statusów meczowych z poprzedniego sezonu.
-
-*   **Składy (na podstawie sezonu 2025-26):**
-    *   **Miami Heat:** W styczniu 2026 roku (sezon 2025-26) do kluczowych graczy Heat należeli: Bam Adebayo, Tyler Herro, Jaime Jaquez Jr., Norman Powell, Andrew Wiggins, Davion Mitchell, Simone Fontecchio i Nikola Jovic. Norman Powell został wyróżniony jako All-Star Wschodu w 2026 roku, a Bam Adebayo zdobył wyróżnienia All-NBA Defensive Second Team i Social Justice Champion Award w 2026 roku.
-    *   **Toronto Raptors:** Drużyna Raptors w sezonie 2025-26 zakończyła go z bilansem 46-36, zajmując 5. miejsce w Konferencji Wschodniej. (Brak szczegółowych informacji o kluczowych graczach w dostępnych danych z tego okresu).
-
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Zakładając, że obie drużyny grają w pełnych składach ze stycznia 2026 roku (ze względu na brak aktualnych raportów o kontuzjach na dzień meczu z 16 sierpnia 2026 roku), Toronto Raptors mieli lepszy bilans w sezonie 2025-26 (46-36) w porównaniu do Miami Heat (43-39). Raptors zakończyli sezon 2025-26 na 5. miejscu, podczas gdy Heat na 10. miejscu w Konferencji Wschodniej.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    Typ na Raptors jest ryzykowny, biorąc pod uwagę liczne i znaczące kontuzje kluczowych graczy Raptors (Barnes, Ingram, Barrett, Poeltl) w styczniu 2026 roku. Miami Heat, choć również z brakami, miało w tym okresie mniejsze osłabienia w składzie, a gracze tacy jak Bam Adebayo i Norman Powell utrzymywali wysoką formę.
