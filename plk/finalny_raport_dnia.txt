@@ -1,13 +1,19 @@
---- AUDYT PLK LIVE (2026-08-17 20:24 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-08-18 00:14 CET) ---
+Analiza meczu PLK na dzień 2026-06-21:
 
-1.  **Kluczowe braki w składach (na dzień 2026-06-21):**
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda, który doznał kontuzji w grudniu 2025 roku (zerwane więzadła stawu skokowego z prognozowanym powrotem 6-8 tygodni), prawdopodobnie był już dostępny.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji nadgarstka, której nabawił się w lutym 2026 roku. Filip Matczak i Jakub Szumert byli kontuzjowani w lutym 2026 roku, jednak ich stan na czerwiec 2026 nie wskazywał na długoterminową absencję.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ: Legia Warszawa
 
-2.  **Aktualna forma top scorerów (sezon 2025-2026):**
-    *   🏀 **Legia Warszawa:** Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
-    *   🏀 **ORLEN Zastal Zielona Góra:** Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
+1.  **Kluczowe braki w składach:**
+    *   Brak potwierdzonych informacji o kontuzjach lub zawieszeniach koszykarzy ORLEN Zastal Zielona Góra na dzień 2026-06-21.
+    *   Brak potwierdzonych informacji o kontuzjach lub zawieszeniach koszykarzy Legii Warszawa na dzień 2026-06-21.
+    *   Brak danych z API o foul-outach z poprzedniego meczu serii dla obu zespołów.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku i był 7. decydującym meczem finałów PLK sezonu 2025/2026. Legia Warszawa wygrała ten mecz 77:74 i zdobyła mistrzostwo Polski. Typ na Legię Warszawa był trafny. Istotnym czynnikiem osłabiającym Zastal była absencja Sagaby Konate, lidera podkoszowego. Przewaga własnego parkietu również była po stronie Legii w tym decydującym spotkaniu.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu.
+
+3.  **Werdykt:**
+    *   ⚠️ **RYZYKOWNY**
+        *   Brak danych o kontuzjach lub zawieszeniach, a także brak konkretnych danych o formie strzeleckiej poszczególnych zawodników na dzień meczu (2026-06-21) uniemożliwia rzetelną ocenę ryzyka. Typowanie bez tych informacji jest obarczone wysokim ryzykiem.
+        *   Brak informacji o hali i mieście meczu w kontekście.
