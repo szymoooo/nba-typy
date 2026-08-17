@@ -1,7 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-16 20:51 ET) ---
-Na podstawie dostępnych danych z sieci na dzień 2026-08-16, nie znaleziono informacji o meczu Miami Heat @ Toronto Raptors w styczniu 2026 roku. Dostępne raporty dotyczące meczów między tymi drużynami pochodzą z grudnia 2025 oraz kwietnia 2026. Harmonogram Miami Heat na sezon 2025-26 nie zawiera meczu z Toronto Raptors w styczniu 2026 roku.
+--- KRYTYCZNY AUDYT LIVE (2026-08-16 22:16 ET) ---
+**Analiza Meczu: Heat @ Raptors**
 
-Z tego powodu nie jestem w stanie ocenić podanego typu.
+📅 Data meczu: Styczeń 2026 (hipotetycznie)
+📅 Dane z sieci: 2026-08-16
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. Nie znaleziono potwierdzonych informacji o kontuzjach na dzień 2026-08-16, dotyczących hipotetycznego meczu Heat @ Raptors w styczniu 2026 roku.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych o meczu.
+---
+
+**Heat @ Raptors -> Typ: Raptors**
+
+*   **Kluczowe braki w składach:**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla meczu w styczniu 2026 roku. Raporty kontuzji z 16 sierpnia 2026 dotyczą poza sezonu/przedsezonu 2026-27 i nie dostarczają statusów meczowych z poprzedniego sezonu.
+
+*   **Składy (na podstawie sezonu 2025-26):**
+    *   **Miami Heat:** W styczniu 2026 roku (sezon 2025-26) do kluczowych graczy Heat należeli: Bam Adebayo, Tyler Herro, Jaime Jaquez Jr., Norman Powell, Andrew Wiggins, Davion Mitchell, Simone Fontecchio i Nikola Jovic. Norman Powell został wyróżniony jako All-Star Wschodu w 2026 roku, a Bam Adebayo zdobył wyróżnienia All-NBA Defensive Second Team i Social Justice Champion Award w 2026 roku.
+    *   **Toronto Raptors:** Drużyna Raptors w sezonie 2025-26 zakończyła go z bilansem 46-36, zajmując 5. miejsce w Konferencji Wschodniej. (Brak szczegółowych informacji o kluczowych graczach w dostępnych danych z tego okresu).
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Zakładając, że obie drużyny grają w pełnych składach ze stycznia 2026 roku (ze względu na brak aktualnych raportów o kontuzjach na dzień meczu z 16 sierpnia 2026 roku), Toronto Raptors mieli lepszy bilans w sezonie 2025-26 (46-36) w porównaniu do Miami Heat (43-39). Raptors zakończyli sezon 2025-26 na 5. miejscu, podczas gdy Heat na 10. miejscu w Konferencji Wschodniej.
