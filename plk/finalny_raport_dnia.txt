@@ -1,30 +1,17 @@
---- AUDYT PLK LIVE (2026-08-18 10:55 CET) ---
-Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-18 16:38 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach koszykarskich:**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate: Doznał poważnej kontuzji dłoni w lutym 2026 roku, która wykluczyła go z gry do końca sezonu 2025/2026.
-        *   Filip Matczak: Wrócił do gry po kontuzji nosa, występował w masce, a 6 czerwca 2026 zgłaszał dolegliwości związane ze starą kontuzją.
-        *   Andrzej Mazurczak: Występował w masce w meczach finałowych. Raporty z 6 czerwca 2026 wskazywały, że maska pasuje, a zawodnik czuje się dobrze i będzie gotowy do gry.
-        *   Dwight Allen Wilson III: Zmagał się z problemami z kostką, choć trenował z zespołem.
-    *   **Legia Warszawa:**
-        *   Race Thompson: Odniósł uraz stawu skokowego w pierwszym meczu półfinałowym i był poza składem na kolejne spotkania, w tym finałowe.
-        *   Michał Kolenda: Wrócił do wyjściowej piątki w półfinale (1 czerwca 2026) po problemach zdrowotnych. Wcześniejsze doniesienia z grudnia 2025 mówiły o dłuższej przerwie.
-        *   Brak istotnych braków w składzie koszykarskim poza wymienionym Race'em Thompsonem.
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Informacje z 2026-08-18 wskazują na początek przygotowań do sezonu i szczegółowe badania medyczne, co nie sygnalizuje aktywnych, poważnych kontuzji na dzień dzisiejszy.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Brak potwierdzonych informacji o kontuzjach koszykarzy z dnia 2026-08-18.
 
 2.  **Aktualna forma top scorerów:**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis (15.8 Pkt/mecz w sezonie 2025/2026).
-        *   Jakub Szumert (13.2 Pkt/mecz w sezonie 2025/2026).
-        *   Andrzej Mazurczak (11.8 Pkt/mecz w sezonie 2025/2026). W czwartym meczu finałowym (15.06.2026) zdobył 21 punktów.
-        *   Conley Garrison: W czwartym meczu finałowym (15.06.2026) zdobył 16 punktów.
-    *   **Legia Warszawa:**
-        *   Dominic Brewton III (14.5 Pkt/mecz w sezonie 2025/2026). W czwartym meczu finałowym (15.06.2026) zdobył 12 punktów.
-        *   Andrzej Pluta (13.4 Pkt/mecz w sezonie 2025/2026). W czwartym meczu finałowym (15.06.2026) zdobył 14 punktów.
-        *   Jayvon Graves (12.8 Pkt/mecz w sezonie 2025/2026).
-        *   Carl Ponsar: W czwartym meczu finałowym (15.06.2026) zdobył 17 punktów.
-    *   Brak innych danych z API dla tych zespołów.
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz 21 czerwca 2026 był decydującym finałem sezonu 2025/2026 Orlen Basket Ligi, w którym Legia Warszawa obroniła tytuł Mistrza Polski, grając na własnym parkiecie w Warszawie (Hala OSiR Bemowo). Mimo urazów w obu zespołach, Legia grała u siebie w finałowym starciu, a Zastal miał poważniejsze braki kadrowe (Konate out na sezon). Forma strzelecka liderów Legii była solidna w trakcie serii finałowej. Home advantage w decydującym meczu playoff jest kluczowy.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Informacje z 2026-06-21 na oficjalnej stronie Legii Warszawa wskazują, że Legia Warszawa obroniła tytuł Mistrza Polski. Sugeruje to, że Legia była w bardzo dobrej formie i z powodzeniem zakończyła sezon, wygrywając finałową rywalizację, w której brał udział również ORLEN Zastal Zielona Góra.
