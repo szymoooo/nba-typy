@@ -1,25 +1,40 @@
---- AUDYT PLK LIVE (2026-08-18 07:06 CET) ---
-Poniżej przedstawiam analizę meczu PLK z dnia 2026-06-21:
+--- AUDYT PLK LIVE (2026-08-18 07:46 CET) ---
+Na podstawie zebranych informacji, przeprowadzę analizę meczu ORLEN Zastal Zielona Góra vs. Legia Warszawa z datą 2026-06-21, stosując się do zasady aktualności informacji na dzień 2026-08-18 oraz ignorowania danych sprzed sezonu 2025-26.
 
 ---
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-*   **1. Kluczowe braki w składach (stan na 2026-06-21):**
-    *   **ORLEN Zastal Zielona Góra:** Prawdopodobnie brak Sagaby Konate (środkowy/silny skrzydłowy), który doznał kontuzji w marcu 2026 roku, a jego powrót nie był odnotowany w raportach meczowych z finałów. Wcześniejsze kontuzje Filipa Matczaka i Jakuba Szumerta zostały zaleczone, obaj byli zdolni do gry w serii finałowej.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda przeszedł planowaną operację stawu skokowego dopiero po zakończeniu sezonu 2025/2026, co oznacza, że był dostępny na finały.
+1.  **Kluczowe braki w składach (stan na 2026-08-18, z uwzględnieniem sezonu 2025/2026):**
 
-*   **2. Aktualna forma top scorerów (z meczu finałowego 2026-06-15):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak: 21 punktów
-        *   Conley Garrison: 16 punktów
-        *   Dwight Allen Wilson III: 10 punktów
     *   **Legia Warszawa:**
-        *   Carl Ponsar: 17 punktów
-        *   Andrzej Pluta: 14 punktów
-        *   Dominic Brewton III: 12 punktów
+        *   Michał Kolenda: Przeszedł planowaną operację stawu skokowego po zakończeniu rozgrywek (stan na 2026-08-07). Przewidywana pauza to 8-10 tygodni, co oznacza, że prawdopodobnie nie byłby dostępny na mecz 2026-06-21 ani na początek sezonu 2026/27.
+        *   Ojārs Siliņš i Matthias Tass: Pod koniec sezonu 2025/2026 (grudzień 2025) mieli problemy z kontuzjami, ale źródła z czerwca 2026 roku nie wskazują na ich dalszą niedostępność.
+        *   Andrzej Pluta i Jayvon Graves: Wrócili do składu po kontuzjach przed meczem z Treflem Sopot (grudzień 2025).
 
-*   **3. Werdykt:** ✅ ZATWIERDZONY
-    *   Tip na Legię Warszawa był uzasadniony. Legia grała u siebie w Warszawie (OSiR Bemowo), a w tej serii finałowej posiadała przewagę własnego parkietu. Zastal prawdopodobnie musiał radzić sobie bez Sagaby Konate, co osłabiało ich strefę podkoszową. Biorąc pod uwagę faktyczny wynik meczu (Legia Warszawa 78:70 ORLEN Zastal Zielona Góra), tip okazał się trafny.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate: Doznał awulsyjnego uszkodzenia więzadła SL nadgarstka podczas Pekao S.A. Pucharu Polski w lutym 2026 roku. Diagnoza potwierdziła koniec sezonu 2025/2026 dla tego zawodnika. Byłby niedostępny na mecz 2026-06-21.
+        *   Filip Matczak: Zgłaszał dolegliwości związane ze starą kontuzją w czerwcu 2026 roku (informacja z 2026-06-06), jednak sztab szkoleniowy dążył do jego gotowości na serię finałową.
+        *   Dwight Allen Wilson III: Czuł skutki urazu kostki w czerwcu 2026 roku (informacja z 2026-06-06), ale normalnie uczestniczył w treningach.
+        *   Phil Fayne: Wrócił do zespołu na serię finałową w czerwcu 2026 roku po problemach rodzinnych.
 
----
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+
+    *   **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz
+        *   Andrzej Pluta: 13.4 Pkt/mecz
+        *   Jayvon Graves: 12.8 Pkt/mecz
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz
+        *   Jakub Szumert: 13.2 Pkt/mecz
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz
+    
+    *   Brak danych z API dla tego zespołu w kontekście meczu 2026-06-21.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Analiza opiera się na informacjach o składach i kontuzjach z sezonu 2025/2026, aktualnych na dzień 2026-08-18.
+    *   Legia Warszawa, choć została Mistrzem Polski w sezonie 2025/2026, miała problemy zdrowotne w swoim składzie. Kontuzja Michała Kolendy (operacja stawu skokowego) jest znaczącym osłabieniem, chociaż wystąpiła już po dacie meczu, na którą wskazuje audyt (2026-06-21 vs 2026-08-07). Należy jednak zauważyć, że Legia odniosła zwycięstwo w finale ligi, co świadczy o jej sile mimo wcześniejszych drobniejszych urazów innych graczy.
+    *   ORLEN Zastal Zielona Góra również borykał się z poważnymi brakami, zwłaszcza Sagaba Konate, który zakończył sezon już w lutym 2026 z powodu kontuzji nadgarstka. Dodatkowo, Filip Matczak i Dwight Wilson mieli problemy, ale byli w trakcie powrotu do pełnej dyspozycji na finały, które prawdopodobnie miały miejsce w okolicach 21 czerwca 2026. Zastal był wicemistrzem Polski w sezonie 2025/2026.
+    *   Biorąc pod uwagę datę meczu (2026-06-21), która była datą finałów PLK sezonu 2025/2026, Legia Warszawa ostatecznie zdobyła mistrzostwo Polski, pokonując Zastal Zielona Góra. Ten fakt historyczny (zgodny z datą audytu) sprawia, że typ na Legię był słuszny. Jednakże, z punktu widzenia *braku kontuzji* w dniu meczu i "aktualnej formy top scorerów" dla *serii*, brak tych danych dla konkretnego meczu oraz obecność kontuzji u obu zespołów w kluczowych momentach sezonu 2025/2026 sprawiają, że ryzyko było wysokie.
+    *   Mimo że Legia była drużyną mistrzowską, obecność kontuzji u kluczowych zawodników w obu zespołach w końcówce sezonu (Kolenda w Legii po sezonie, Konate w Zastalu przez większość drugiej części sezonu, drobniejsze urazy Matczaka i Wilsona w Zastalu przed finałem) sprawia, że typowanie byłoby ryzykowne bez pełnej wiedzy o stanie zdrowia na dokładnie 21.06.2026.
+    *   Brak danych dotyczących formy top scorerów *w serii* lub dla konkretnego meczu, jak również obecność potwierdzonych osłabień w obu drużynach w okresie końcówki sezonu 2025/2026, czyni ten typ ryzykownym z perspektywy dokładnej analizy kontuzji w dniu meczu.
