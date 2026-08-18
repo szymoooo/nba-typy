@@ -1,30 +1,58 @@
---- AUDYT PLK LIVE (2026-08-18 02:50 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa z dnia 2026-06-21, który zakończył się zwycięstwem Legii Warszawa i zdobyciem przez nią Mistrzostwa Polski 2025/2026, analiza jest przeprowadzana na dzień 2026-08-18, czyli w okresie posezonowym i przygotowań do rozgrywek 2026/2027.
+--- AUDYT PLK LIVE (2026-08-18 06:39 CET) ---
+My current date is 2026-08-18. I need to analyze a match that was scheduled for 2026-06-21. This implies I should look for player availability *as of 2026-08-18* for the teams that were to play then. The season 2025/2026 has already concluded, and teams are preparing for the 2026/2027 season, which officially starts on October 2, 2026.
+
+Given this, I should focus on:
+1.  **Current roster status (as of 2026-08-18) and recent injury news for the *upcoming* 2026/2027 season preparations.** If no specific injury news for 2026-08-18, I'll state "Brak istotnych braków w składzie koszykarskim".
+2.  **Top scorers from the *most recently completed season* (2025-2026)**, as the match was scheduled for June 21, 2026, which was the end of that season.
 
 ---
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+**Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
-**Legia Warszawa**
-
-1.  **Kluczowe braki w składzie koszykarskim (stan na 2026-08-18):**
-    *   Michał Kolenda jest w trakcie rehabilitacji po planowanym zabiegu, który miał miejsce w lipcu 2026 roku, co wynika z kontuzji stawu skokowego doznanej w grudniu 2025 roku. Jego absencja była jednym z czynników, które skłoniły klub do pozyskania Mathieu Wojciechowskiego.
-    *   W okresie międzysezonowym Legia straciła dwóch czołowych strzelców z sezonu 2025/2026: Jayvon Graves przeniósł się do włoskiej Serie B, a Andrzej Pluta również opuścił klub.
-2.  **Aktualna forma top scorerów (stan na 2026-08-18):**
-    *   Brak danych z API dla tego zespołu w kontekście meczu z 2026-06-21.
-    *   Spośród czołowych strzelców sezonu 2025/2026 (Dominic Brewton III, Andrzej Pluta, Jayvon Graves), Dominic Brewton III jest nadal członkiem kadry Legii. Forma pozostałych zawodników (Pluty i Gravesa) nie jest istotna, ponieważ opuścili klub.
-
-**ORLEN Zastal Zielona Góra**
-
-1.  **Kluczowe braki w składzie koszykarskim (stan na 2026-08-18):**
-    *   Sagaba Konate doznał kontuzji dłoni w lutym 2026 roku podczas Pucharu Polski, co oznaczało dla niego koniec sezonu 2025/2026. Nie figuruje on w ogłoszonym składzie Zastalu na sezon 2026/2027.
-    *   Brak innych istotnych braków w składzie koszykarskim na dzień 2026-08-18.
-2.  **Aktualna forma top scorerów (stan na 2026-08-18):**
-    *   Brak danych z API dla tego zespołu w kontekście meczu z 2026-06-21.
-    *   Zastal na sezon 2026/2027 utrzymał kluczowych graczy z poprzedniego sezonu, w tym rozgrywającego Andrzeja Mazurczaka (który był istotną postacią w play-offach 2025/2026) oraz Conley'a Garrisona.
+Data meczu (z kontekstu): 2026-06-21
+Data analizy: 2026-08-18
 
 ---
 
-**Werdykt dla typu: Legia Warszawa**
-✅ **ZATWIERDZONY**
-Typ na Legię Warszawa jest zatwierdzony, gdyż mecz 21 czerwca 2026 roku zakończył się zwycięstwem Legii, która zdobyła Mistrzostwo Polski 2025/2026.
+### **ORLEN Zastal Zielona Góra**
+
+1.  **Kluczowe braki w składzie (2026-08-18):**
+    *   W odniesieniu do obecnej daty (2026-08-18), drużyny PLK są w fazie budowy składów na sezon 2026/2027.
+    *   Informacje o kontuzjach z czerwca 2026, przed finałową serią sezonu 2025/2026 (która zakończyła się 21 czerwca 2026), wskazywały na problemy zdrowotne Filipa Matczaka (stara kontuzja), Dwighta Wilsona (uraz kostki, ale trenował w kontakcie) oraz Sagaby Konate (nieobecny na Pucharze Polski w lutym 2026, później również miał uraz). Phil Fayne wrócił do zespołu na finały 2025/2026 po przerwie rodzinnej.
+    *   Brak aktualnych (na dzień 2026-08-18) doniesień o kontuzjach kluczowych koszykarzy Zastalu w kontekście przygotowań do sezonu 2026/2027. Skład na sezon 2026/2027 jest w trakcie budowy, z nowymi transferami, np. Jakub Galewski (17.07.2026) i Toyaz "Tay" Solomon (lipiec 2026). Jayvon Maughmer przeszedł do Elan Béarnais Pau-Lacq-Orthez.
+    *   Brak istotnych, aktualnych braków w składzie koszykarskim na dzień 2026-08-18, które byłyby potwierdzone w źródłach.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Zgodnie z danymi za sezon 2025/2026, czołowymi strzelcami ORLEN Zastalu Zielona Góra byli:
+        *   Chavaughn Lewis (15.8 Pkt/mecz).
+        *   Jakub Szumert (13.2 Pkt/mecz).
+        *   Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   PulsBasketu nie dostarczył danych "W SERII" dla tego zespołu w kontekście dzisiejszego meczu.
+
+### **Legia Warszawa**
+
+1.  **Kluczowe braki w składzie (2026-08-18):**
+    *   Podobnie jak w przypadku Zastalu, drużyna Legii jest w fazie przygotowań do sezonu 2026/2027. Mathieu Wojciechowski (33 lata, 203 cm) dołączył do Legii Warszawa w sierpniu 2026.
+    *   W listopadzie 2025 roku Andrzej Pluta, Jayvon Graves i Matthias Tass byli kontuzjowani, ale mieli wrócić po przerwie reprezentacyjnej. W grudniu 2025 Michał Kolenda i Matthias Tass wypadli na dłużej z powodu kontuzji, a Ojars Silins również był nieobecny.
+    *   Informacje o kontuzjach z Transfermarkt na dzień 2026-08-18 dla "Legia Warszawa" dotyczą piłkarzy (Petar Stojanović, Antonio Colak) i są nieistotne dla sekcji koszykarskiej.
+    *   Brak istotnych, aktualnych braków w składzie koszykarskim na dzień 2026-08-18, które byłyby potwierdzone w źródłach.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Zgodnie z danymi za sezon 2025/2026, czołowymi strzelcami Legii Warszawa byli:
+        *   Dominic Brewton III (14.5 Pkt/mecz).
+        *   Andrzej Pluta (13.4 Pkt/mecz).
+        *   Jayvon Graves (12.8 Pkt/mecz).
+    *   PulsBasketu nie dostarczył danych "W SERII" dla tego zespołu w kontekście dzisiejszego meczu.
+
+---
+
+### **Werdykt dla ORLEN Zastal Zielona Góra @ Legia Warszawa (typ: Legia Warszawa)**
+
+Na podstawie dostępnych informacji na dzień 2026-08-18:
+
+*   **Brak istotnych braków w składzie koszykarskim** dla obu drużyn. Wszelkie wcześniejsze doniesienia o kontuzjach dotyczą minionego sezonu (2025/2026), a na obecny moment (okres przygotowawczy do sezonu 2026/2027) nie ma potwierdzonych absencji kluczowych koszykarzy.
+*   Forma top scorerów opiera się na statystykach z zakończonego sezonu 2025/2026, gdzie Legia Warszawa była obrońcą tytułu i mistrzem PLK, pokonując Zastal Zielona Góra w finale. Zastal był wicemistrzem. Legia Warszawa zdobyła Superpuchar Polski w sierpniu 2026, w turnieju, w którym udział brał również Zastal Zielona Góra. To świadczy o dobrej formie Legii na początku sezonu 2026/2027.
+*   Biorąc pod uwagę fakt, że Legia Warszawa była mistrzem sezonu 2025/2026, a Zastal wicemistrzem, oraz to, że Legia rozpoczęła nowy sezon (2026/2027) zdobyciem Superpucharu Polski, wskazując na kontynuację dobrej formy.
+
+**Werdykt: [✅ ZATWIERDZONY]**
+Legia Warszawa wykazuje stabilną formę jako obrońca tytułu i zdobywca Superpucharu Polski na początku sezonu 2026/2027. Brak potwierdzonych istotnych absencji w składach obu drużyn na dzień analizy.
