@@ -1,23 +1,37 @@
---- AUDYT PLK LIVE (2026-08-18 10:05 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu w kontekście: 2026-06-21, analiza na dzień 2026-08-18):
+--- AUDYT PLK LIVE (2026-08-18 10:32 CET) ---
+**Analiza Meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
 
-ℹ️ **Ważna uwaga:** Pomimo daty meczu podanej w kontekście jako 2026-06-21, analiza została przeprowadzona na dzień dzisiejszy (2026-08-18), zgodnie z Twoimi instrukcjami, z uwzględnieniem aktualnych składów i informacji dotyczących nadchodzącego sezonu 2026/2027 PLK. Faktyczne rozgrywki ligowe rozpoczynają się w październiku 2026, a Superpuchar Polski we wrześniu 2026. Mecz w dniu 2026-08-18 nie jest zaplanowany jako spotkanie ligowe ani pucharowe.
+Mecz odbył się 21 czerwca 2026 roku i był finałowym, decydującym spotkaniem (mecz 7/7) sezonu 2025/2026 ORLEN Basket Ligi, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, zdobywając mistrzostwo Polski.
+
+Ponieważ dzisiejsza data to 2026-08-18, przedstawione poniżej informacje o składach i kontuzjach dotyczą aktualnego okresu przygotowawczego (off-season/pre-season) do sezonu 2026/2027, a nie bezpośrednio stanu drużyn w dniu meczu (2026-06-21). Brak jest danych z API dotyczących formy strzeleckiej zawodników w okresie poza sezonem.
 
 ---
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+### **ORLEN Zastal Zielona Góra**
 
 1.  **Kluczowe braki w składach (stan na 2026-08-18):**
-    *   **Legia Warszawa:**
-        *   Michał Kolenda: Wracający do "stuprocentowej formy" po kontuzji, co oznacza, że nie jest jeszcze w pełni przygotowany do gry.
-        *   Trener Heiko Rannula: Nieobecny na początku przygotowań do sezonu z powodu obowiązków reprezentacyjnych. Zespół prowadzą asystenci. (Dotyczy sztabu, nie zawodników).
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate: Doznał poważnej kontuzji dłoni w lutym 2026 roku (zerwanie więzadeł, operacja), kończącej jego poprzedni sezon. Nie figuruje w ogłoszonym składzie na sezon 2026/2027, co sugeruje jego brak w kadrze lub dalszą niedostępność.
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim wśród pozostałych zawodników na dzień 2026-08-18. Filip Matczak i Andrzej Mazurczak zgłaszali drobne dolegliwości w czerwcu 2026, ale są w kadrze na nowy sezon.
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-18. Informacje o kontuzji Sagaby Konate z lutego 2026, która zakończyła jego sezon 2025/2026, nie są aktualizowane pod kątem jego obecnego statusu zdrowotnego w okresie przygotowawczym do sezonu 2026/2027.
+    *   Klub jest w fazie budowy składu na sezon 2026/2027, pozyskując m.in. Trazariena White'a, Toyaza Solomona, Jakuba Galewskiego, Veljko Brkicia i Jana Wójcika. W składzie pozostali kluczowi zawodnicy jak Andrzej Mazurczak i Conley Garrison.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. Ze względu na okres przygotowawczy do sezonu 2026/2027, nie ma dostępnych danych o formie strzeleckiej w rozgrywkach ligowych ani pucharowych. Zespoły są w fazie budowania składów i przygotowań fizycznych.
+2.  **Aktualna forma top scorerów (stan na 2026-08-18):**
+    *   Brak danych z API dla tego zespołu w okresie przygotowawczym/off-season.
 
-3.  **Werdykt:**
-    *   [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie:** Mecz nie odbywa się w podanym terminie 2026-06-21 ani dzisiaj (2026-08-18). Oba zespoły są w fazie przygotowań do nowego sezonu PLK (2026/2027), który rozpocznie się w październiku, a wcześniej wezmą udział w Superpucharze Polski we wrześniu. Brak jest bieżących danych o formie zawodników, a składy uległy zmianom. Legia musi radzić sobie bez głównego trenera w pre-sezonie i z nie w pełni sprawnym Michałem Kolendą. Zastal wchodzi w nowy sezon z nowymi obcokrajowcami i najprawdopodobniej bez Sagaby Konate. Te czynniki sprawiają, że ocena aktualnej siły i szans obu drużyn jest wysoce spekulatywna, co czyni typ ryzykownym.
+---
+
+### **Legia Warszawa**
+
+1.  **Kluczowe braki w składach (stan na 2026-08-18):**
+    *   Michał Kolenda (kapitan) – przeszedł planowaną operację stawu skokowego po zakończeniu sezonu 2025/2026 i będzie pauzował od 8 do 10 tygodni, co oznacza, że prawdopodobnie opuści początek sezonu 2026/2027.
+    *   Klub aktywnie buduje skład na sezon 2026/2027. Odeszli m.in. Andrzej Pluta (MVP poprzedniego sezonu), Carl Ponsar, Matthias Tass i Maksymilian Wilczek.
+    *   Wzmocnienia to m.in. Kristers Zoriks, Gyorgy Goloman, Jakub Andrzejewski, Szymon Tomczak, Mathieu Wojciechowski (krótkoterminowy kontrakt z uwagi na kontuzję Kolendy) oraz Michael Christmas.
+
+2.  **Aktualna forma top scorerów (stan na 2026-08-18):**
+    *   Brak danych z API dla tego zespołu w okresie przygotowawczym/off-season.
+
+---
+
+### **Werdykt dla typu na 2026-06-21:**
+Typ: Legia Warszawa
+
+✅ **ZATWIERDZONY**
+Mecz z 21 czerwca 2026 roku był finałowym spotkaniem o Mistrzostwo Polski sezonu 2025/2026. Legia Warszawa wygrała ten mecz 78:70 i zdobyła tytuł mistrzowski.
