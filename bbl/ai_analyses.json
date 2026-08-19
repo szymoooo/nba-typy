@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-16T02:19:38.260401",
-  "date": "2026-08-16",
+  "generated_at": "2026-08-19T08:57:22.086399",
+  "date": "2026-08-19",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "ROSTOCK SEAWOLVES @ Basketball Löwen Braunschweig",
-      "ai_pick": null,
-      "formula_pick": "Basketball Löwen Braunschweig",
-      "note": "AI fallback"
+      "matchup": "Rostock @ Frankfurt",
+      "phase": "Pre-season/Cup",
+      "ai_pick": "Rostock",
+      "formula_pick": "Frankfurt",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Rostock Seawolves zakończyli sezon 2025/26 BBL na 9. miejscu z bilansem 18-18, co jest znacznie lepszym wynikiem niż 16. miejsce Fraport Skyliners z bilansem 12-22 w tym samym sezonie. Dodatkowo, Rostock pokonał Basketball Löwen Braunschweig 93:60 w swoim pierwszym meczu testowym przygotowującym do sezonu 2026/27, co świadczy o dobrej wczesnej formie drużyny. Brak istotnych kontuzji u obu drużyn na dzień meczu.",
+      "key_factors": [
+        "Lepszy bilans Rostocka w sezonie 2025/26 BBL (18-18 vs 12-22)",
+        "Zwycięstwo Rostocka w pierwszym meczu sparingowym pre-season 2026/27",
+        "Brak istotnych kontuzji liderów"
+      ],
+      "injury_notes": "Brak istotnych kontuzji zgłoszonych dla Frankfurtu ani Rostocka na dzień 2026-08-19 w dostępnych źródłach."
     }
   ]
 }
