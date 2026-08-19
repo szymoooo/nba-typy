@@ -1,14 +1,26 @@
---- AUDYT PLK LIVE (2026-08-19 02:50 CET) ---
-**# PLK typy na 2026-06-21**
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-19 04:14 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
-    *   🏀 **Legia Warszawa:** Michał Kolenda przeszedł planowaną operację stawu skokowego po zakończeniu rozgrywek, co oznacza, że był dostępny na ten mecz finałowy 21 czerwca 2026 roku. Rzeczywiście, Michał Kolenda zdobył 8 punktów w tym spotkaniu. Brak innych istotnych braków w składzie koszykarskim Legii na ten mecz.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Phil Fayne wracał do gry i był potrzebny w serii finałowej. Dwight Wilson, pomimo odczuwania skutków urazu kostki, normalnie uczestniczył w treningach i czuł się dobrze. Dwight Wilson III zdobył 6 punktów w tym meczu. Brak innych istotnych braków w składzie koszykarskim Zastalu na ten mecz.
+---
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+**1. Kluczowe braki w składach (stan na 2026-08-19):**
 
-3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem serii finałowej PLK, w którym Legia Warszawa zdobyła mistrzostwo Polski pokonując ORLEN Zastal Zielona Góra 78:70. Andrzej Pluta został MVP finałów i sezonu zasadniczego. Legia grała na własnym parkiecie. Brak kluczowych kontuzji liderów, które wykluczyłyby ich z gry w tym decydującym meczu, co osłabiłoby typ na Legię.
+*   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. W lutym 2026 roku Sagaba Konate doznał poważnej kontuzji nadgarstka, która zakończyła jego sezon 2025/2026. Filip Matczak i Jakub Szumert również zmagali się z urazami w lutym 2026. Dwight Wilson odczuwał skutki urazu kostki w czerwcu 2026, ale uczestniczył w treningach. Jednakże, brak jest potwierdzonych informacji o ich statusie kontuzji na dzień 2026-08-19, co uniemożliwia wskazanie ich jako "istotnych braków" zgodnie z zasadami.
+*   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. W grudniu 2025 roku Michał Kolenda doznał kontuzji stawu skokowego, a Matthias Tass wymagał operacji stawu skokowego. Dominic Brewton, kluczowy gracz w sezonie 2025/2026, opuścił klub w lipcu 2026 roku, przenosząc się do Izraela. Podobnie jak w przypadku Zastalu, brak jest aktualnych, potwierdzonych informacji o kontuzjach koszykarzy Legii Warszawa na dzień 2026-08-19.
+
+**2. Aktualna forma top scorerów (sezon 2025/2026):**
+
+*   **ORLEN Zastal Zielona Góra:**
+    *   Chavaughn Lewis: 15.8 punktów na mecz.
+    *   Jakub Szumert: 13.2 punktów na mecz.
+    *   Andrzej Mazurczak: 11.8 punktów na mecz.
+*   **Legia Warszawa:**
+    *   Andrzej Pluta był MVP finałów oraz sezonu zasadniczego 2025/2026.
+    *   Dominic Brewton notował średnio 14.5 punktu na mecz w sezonie 2025/2026, jednak w lipcu 2026 roku przeniósł się do innego klubu.
+    *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra w finale.
+
+**3. Werdykt:**
+
+Mecz 2026-06-21 był siódmym, decydującym spotkaniem finałowym sezonu 2025/2026 Orlen Basket Ligi. Legia Warszawa wygrała ten mecz 78:70 na własnym parkiecie i tym samym zdobyła Mistrzostwo Polski.
+
+*   [✅ ZATWIERDZONY] Typ: Legia Warszawa.
