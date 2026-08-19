@@ -1,15 +1,23 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-19 19:06 ET) ---
-Oto analiza Twojego typu na podstawie dostępnych danych:
+--- KRYTYCZNY AUDYT LIVE (2026-08-19 19:39 ET) ---
+Analiza meczu: Heat @ Raptors (Styczeń 2026)
 
-**Heat @ Raptors**
-Typ: Raptors
+**Kluczowe braki w składach (Styczeń 2026):**
 
-*   **Kluczowe braki w składach:**
-    *   **Toronto Raptors (stan na styczeń 2026):** Brak aktualnych raportów (Injury Report) na tę chwilę.
-        *   Kluczowi gracze w sezonie 2025-26 obejmowali: Scottie Barnes, RJ Barrett, Jakob Poeltl, Immanuel Quickley, Gradey Dick.
-    *   **Miami Heat (stan na styczeń 2026):** Brak aktualnych raportów (Injury Report) na tę chwilę.
-        *   Kluczowi gracze w sezonie 2025-26 obejmowali: Bam Adebayo, Tyler Herro, Jaime Jaquez Jr., Norman Powell, Andrew Wiggins.
+*   **Toronto Raptors:**
+    *   RJ Barrett: Out (kontuzja kostki) 🩹
+    *   Ja'Kobe Walter: Out (kontuzja kostki) 🩹
+    *   Jakob Poeltl: Out (problemy z plecami) 🩹
+    *   Brandon Ingram: Questionable (kontuzja kciuka) ❓
+    *   Scottie Barnes: Questionable (skręcenie prawego kolana) ❓
 
-*   **Werdykt: [⚠️ RYZYKOWNY]**
-    *   Na podstawie danych z sezonu 2025-26, Toronto Raptors (bilans 46-36, 5. miejsce w Konferencji Wschodniej) mieli lepszy bilans niż Miami Heat (bilans 43-39, 10. miejsce w Konferencji Wschodniej).
-    *   Jednakże, ze względu na brak aktualnych, potwierdzonych raportów o kontuzjach (status 'Out', 'Questionable', 'GTD') na dzień 2026-08-19, które są kluczowe dla oceny pojedynczego meczu NBA, precyzyjna analiza jest niemożliwa. Twój typ jest ryzykowny z powodu braku pełnych, bieżących informacji. 🏀
+*   **Miami Heat:**
+    *   Tyler Herro: Out (kontuzja palca u nogi) 🩹
+    *   Davion Mitchell: Out (kontuzja barku) 🩹
+    *   Norman Powell: Probable (problemy z plecami) ✅
+    *   Kel'el Ware: Probable (kontuzja ścięgna podkolanowego) ✅
+
+Brak aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby na kontuzje z dzisiejszej daty (2026-08-19) mające wpływ na styczeń 2026, poza historycznymi raportami z samego stycznia 2026.
+
+**Werdykt dla typu "Raptors":** [⚠️ RYZYKOWNY]
+
+*   Raptors mieli wielu kluczowych graczy wyłączonych z gry lub z niepewnym statusem w styczniu 2026 roku, w tym RJ Barrett, Jakob Poeltl, a także Brandon Ingram i Scottie Barnes jako questionable. Te liczne osłabienia zwiększają ryzyko dla postawionego typu.
