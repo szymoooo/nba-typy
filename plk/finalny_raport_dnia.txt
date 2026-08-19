@@ -1,23 +1,34 @@
---- AUDYT PLK LIVE (2026-08-19 16:39 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-08-19 18:36 CET) ---
+Analiza meczu PLK z 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (środkowy/silny skrzydłowy) był wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji dłoni, której doznał w lutym 2026 roku.
-        *   Filip Matczak (rozgrywający) odczuwał dolegliwości związane ze starą kontuzją w dniu 6 czerwca 2026, ale klub liczył na jego dostępność w serii finałowej.
-        *   Dwight Wilson III (środkowy) trenował i grał z bólem kostki w czerwcu 2026 roku.
-        *   Andrzej Mazurczak (rozgrywający) trenował indywidualnie w masce przed finałami.
-    *   🏀 **Legia Warszawa:**
-        *   Race Thompson (silny skrzydłowy/środkowy) doznał kontuzji stawu skokowego w pierwszym meczu półfinałowym (na początku czerwca 2026) i był wykluczony ze składu na tę serię. Prawdopodobnie był niedostępny również na finał.
-        *   Michał Kolenda (niski skrzydłowy) wrócił do pierwszej piątki w półfinałach po problemach zdrowotnych, więc był dostępny na finały.
+Mecz ten był siódmym, decydującym spotkaniem finałowym sezonu 2025/2026 Orlen Basket Ligi, w którym Legia Warszawa obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra 78:70 w hali Bemowo.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w kontekście konkretnej serii. Jednakże, na podstawie danych z sezonu 2025/2026:
-    *   🏀 **ORLEN Zastal Zielona Góra:** Wyróżniający się gracze to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). W czwartym meczu finału (15.06.2026), Mazurczak i Conley Garrison zdobyli łącznie 37 punktów, a Dwight Wilson 10 punktów i 5 zbiórek, pokazując wzrost formy.
-    *   🏀 **Legia Warszawa:** Wyróżniający się gracze to Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). Andrzej Pluta Jr. został wybrany MVP Sezonu i MVP Finałów 2025/2026. Carl Ponsar zdobył 17 punktów w czwartym meczu finału.
+### ORLEN Zastal Zielona Góra
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz 2026-06-21 był siódmym i decydującym spotkaniem finałowym sezonu PLK 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra.
-    *   Legia grała u siebie w kluczowym meczu, co dawało jej przewagę własnego parkietu.
-    *   Zastal miał osłabiony skład, zwłaszcza brakiem Sagaby Konate na cały sezon oraz problemami zdrowotnymi Filipa Matczaka i Dwighta Wilsona. Legia również miała jednego ważnego gracza, Race'a Thompsona, prawdopodobnie poza składem.
-    *   Biorąc pod uwagę rolę meczu jako finałowego, atut własnego parkietu dla Legii oraz potwierdzone osłabienia Zastalu, typ na Legię Warszawa jest uzasadniony.
+1.  **Kluczowe braki w składzie:**
+    *   ❌ **Sagaba Konate** (silny skrzydłowy / środkowy) był poza grą od lutego 2026 roku z powodu poważnej kontuzji dłoni, która zakończyła dla niego sezon 2025/2026.
+    *   Brak potwierdzonych innych istotnych braków w składzie koszykarskim na dzień meczu. Phil Fayne, choć wcześniej zmagał się z urazami, był w trakcie powrotu do gry na początku czerwca 2026, co sugeruje jego dostępność w finale.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **Chavaughn Lewis** – 15.8 Pkt/mecz.
+    *   **Jakub Szumert** – 13.2 Pkt/mecz.
+    *   **Andrzej Mazurczak** – 11.8 Pkt/mecz.
+    *   Conley Garrison (26 pkt, 6 zbiórek, 6 asyst) oraz Jakub Szumert i Andrzej Mazurczak byli kluczowymi postaciami, prowadzącymi zespół do finału, co wskazuje na ich dobrą formę przed decydującymi meczami.
+
+### Legia Warszawa
+
+1.  **Kluczowe braki w składzie:**
+    *   ❌ **Race Thompson** (skrzydłowy/środkowy) prawdopodobnie był niedostępny z powodu urazu stawu skokowego doznanego w pierwszym meczu półfinałowym na początku czerwca 2026.
+    *   ✅ Kapitan **Michał Kolenda** wrócił do pierwszej piątki w trzecim meczu półfinałowym po wcześniejszych problemach zdrowotnych, co oznacza, że był dostępny na finał.
+    *   Brak potwierdzonych innych istotnych braków w składzie koszykarskim na dzień meczu. Wcześniejsze doniesienia o kontuzji Matthiasa Tassa z grudnia 2025 nie zostały aktualizowane w kontekście finałów.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **Dominic Brewton III** – 14.5 Pkt/mecz.
+    *   **Andrzej Pluta** – 13.4 Pkt/mecz.
+    *   **Jayvon Graves** – 12.8 Pkt/mecz.
+    *   Dominic Brewton i Andrzej Pluta byli liderami w zwycięskim meczu półfinałowym Legii, co świadczy o ich dobrej dyspozycji.
+
+### Werdykt:
+
+[✅ ZATWIERDZONY]
+Typ na Legię Warszawa był trafny. Mimo braku Race'a Thompsona i kontuzji Sagaby Konate po stronie Zastalu, Legia grała u siebie w decydującym, siódmym meczu finałowym i wykorzystała przewagę własnego parkietu, zdobywając Mistrzostwo Polski.
