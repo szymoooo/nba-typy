@@ -1,19 +1,12 @@
---- AUDYT PLK LIVE (2026-08-19 07:23 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa na dzień 2026-08-19:
+--- AUDYT PLK LIVE (2026-08-19 09:32 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-*   **ORLEN Zastal Zielona Góra**
-    1.  Kluczowe braki w składach:
-        *   Sagaba Konate: Doznał poważnego urazu więzadła nadgarstka w lutym 2026 roku, co wykluczyło go z reszty sezonu 2025/2026. Brak aktualnych informacji z sierpnia 2026 potwierdzających jego powrót do pełnej sprawności lub obecność w kadrze na sezon 2026/2027. Artykuły o budowie składu na nowy sezon nie wymieniają go wśród pozostających w zespole graczy.
-        *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-19. Informacje o dolegliwościach Filipa Matczaka i Dwighta Wilsona pochodzą z czerwca 2026 roku i nie są aktualizowane na sierpień 2026.
-    2.  Aktualna forma top scorerów:
-        *   Brak danych z API dla tego zespołu.
-    3.  Werdykt: [⚠️ RYZYKOWNY] – Potencjalny brak Sagaby Konate, który był kluczowym graczem w poprzednim sezonie, stanowi niewiadomą.
+1.  **Kluczowe braki w składach (stan na 2026-08-19):**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Zastal aktywnie buduje skład na sezon 2026/2027, w którym pojawili się nowi zawodnicy tacy jak Gauthier Denis i Toyaz "Tay" Solomon. Zespół przygotowuje się do Superpucharu Polski, który odbędzie się pod koniec września.
+    *   🏀 **Legia Warszawa:** Michał Kolenda jest w trakcie rehabilitacji. Klub ogłosił ten fakt 9 sierpnia 2026 roku, informując o pozyskaniu Mathieu Wojciechowskiego jako zabezpieczenia. Michał Kolenda jest częścią aktualnego składu Legii. Legia również przygotowuje się do Superpucharu Polski.
 
-*   **Legia Warszawa**
-    1.  Kluczowe braki w składach:
-        *   Dominic Brewton: Opuścił klub w lipcu 2026 roku i przeniósł się do Izraela.
-        *   Michał Kolenda: Przeszedł "planowy zabieg" w lipcu 2026 roku. Możliwy okres rekonwalescencji i niedostępność na dzień meczu.
-        *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-19.
-    2.  Aktualna forma top scorerów:
-        *   Brak danych z API dla tego zespołu.
-    3.  Werdykt: [⚠️ RYZYKOWNY] – Odejście Dominica Brewtona, kluczowego gracza, oraz niepewny status Michała Kolendy po zabiegu, mogą wpłynąć na siłę zespołu w meczu sparingowym.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo że typ dotyczył meczu, który już się odbył, a analiza bazuje na aktualnym (2026-08-19) stanie drużyn, stwierdzamy ryzyko. Kontuzja Michała Kolendy, kluczowego zawodnika Legii Warszawa, który obecnie przechodzi rehabilitację, może wpływać na ogólną siłę zespołu.
