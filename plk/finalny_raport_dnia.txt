@@ -1,33 +1,29 @@
---- AUDYT PLK LIVE (2026-08-20 10:57 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-20 16:41 CET) ---
+Zgodnie z Twoimi instrukcjami, jako analityk PLK, skupiam się wyłącznie na informacjach aktualnych na dzień 2026-08-20 i dotyczących wyłącznie sekcji koszykarskich.
 
-Mecz ten był siódmym, decydującym spotkaniem finałowym ORLEN Basket Ligi sezonu 2025/2026. Legia Warszawa ostatecznie zdobyła Mistrzostwo Polski w tym sezonie.
+Należy zauważyć, że podany mecz ORLEN Zastal Zielona Góra @ Legia Warszawa z datą 2026-06-21 jest wydarzeniem przeszłym w stosunku do dzisiejszej daty analizy (2026-08-20). W związku z tym, analiza "kluczowych braków w składach" czy "aktualnej formy top scorerów" dla meczu, który się już odbył, bazując na danych z przyszłości (czyli dzisiaj, 2026-08-20) jest niemożliwa w kontekście przewidywania wyniku.
 
-1.  **Kluczowe braki w składach:**
+Dla celów niniejszego audytu, przeprowadzę analizę statusu składów i kontuzji obu zespołów na dzień dzisiejszy (2026-08-20), co odnosi się do ich przygotowań do nadchodzącego sezonu 2026/2027.
 
-    *   **ORLEN Zastal Zielona Góra:**
-        *   ⚠️ Filip Matczak: Odczuwał dolegliwości związane ze starą kontuzją na początku czerwca 2026 roku i opuścił trening, a jego stan był monitorowany przed serią finałową.
-        *   ⚠️ Dwight Wilson: Odczuwał skutki urazu kostki, ale uczestniczył w treningach w czerwcu 2026 roku.
-        *   ✅ Phil Fayne: Powrócił do zespołu na serię finałową po sprawach rodzinnych w USA.
-    *   **Legia Warszawa:**
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim bezpośrednio przed meczem finałowym 2026-06-21. W grudniu 2025 roku Legia borykała się z kontuzjami Michała Kolendy (dłuższa przerwa po niefortunnym lądowaniu), Ojarsa Siliņsa i Matthiasa Tassa, jednak brak jest aktualizacji wskazujących na ich niedostępność w czerwcu 2026 roku. Andrzej Pluta i Jayvon Graves wrócili do składu już w grudniu 2025.
+---
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz.
-        *   Jakub Szumert: 13.2 Pkt/mecz.
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz.
-        *   W meczu numer 3 finałów (13.06.2026), Jakub Szumert i Jayvon Maughmer trafiali kluczowe trójki.
-    *   **Legia Warszawa:**
-        *   Dominic Brewton III: 14.5 Pkt/mecz.
-        *   Andrzej Pluta: 13.4 Pkt/mecz.
-        *   Jayvon Graves: 12.8 Pkt/mecz.
-        *   W meczu numer 3 finałów (13.06.2026), DJ Brewton (Dominic Brewton III) zdobywał punkty z rzutów wolnych, a Ojārs Siliņš i Race Thompson również wnieśli wkład punktowy.
+#### **ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składach**:
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-20. Klub koncentruje się na budowaniu składu na sezon 2026/2027.
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API dla tego zespołu. W okresie pre-sezonowym forma zawodników jest często zmienna i oceniana na podstawie treningów i sparingów.
+3.  **Werdykt**: ⚠️ RYZYKOWNY (ze względu na brak aktualnych, meczowych danych o formie i statusie składów, jako że mecz odbył się w przeszłości. Analiza na dzień 2026-08-20 dotyczy fazy pre-sezonowej).
 
-3.  **Werdykt:**
-    *   Mecz 7 serii finałowej. Legia Warszawa grała u siebie.
-    *   Zastal miał pewne drobne problemy zdrowotne z Filipem Matczakiem i Dwightem Wilsonem przed finałami.
-    *   Legia Warszawa zdobyła mistrzostwo w sezonie 2025/2026.
+#### **Legia Warszawa**
+1.  **Kluczowe braki w składach**:
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-20. Zespół jest w trakcie przygotowań do sezonu 2026/2027.
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API dla tego zespołu. W okresie pre-sezonowym forma zawodników jest często zmienna i oceniana na podstawie treningów i sparingów.
+3.  **Werdykt**: ⚠️ RYZYKOWNY (ze względu na brak aktualnych, meczowych danych o formie i statusie składów, jako że mecz odbył się w przeszłości. Analiza na dzień 2026-08-20 dotyczy fazy pre-sezonowej).
 
-    [✅ ZATWIERDZONY]
+---
+**Podsumowanie Ogólne Werdyktu dla TYPU: Legia Warszawa**
+
+Ze względu na to, że podany mecz miał miejsce w przeszłości (2026-06-21), a analiza opiera się na danych z 2026-08-20 (czyli fazy przygotowawczej do nowego sezonu), nie jestem w stanie zatwierdzić ani odrzucić typu dotyczącego konkretnego meczu, który już się odbył. Werdykt dla *każdego* zespołu indywidualnie jest *Ryzykowny*, ponieważ brakuje aktualnych danych meczowych na dzień 2026-08-20.
