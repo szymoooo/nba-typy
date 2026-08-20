@@ -1,13 +1,30 @@
---- AUDYT PLK LIVE (2026-08-20 17:17 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-08-20 19:34 CET) ---
+📊 Audyt typów PLK na dzień 2026-06-21
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych, potwierdzonych braków w składzie na dzień meczu. Chavaughn Lewis, pomimo urazu z początku maja 2026, brał udział w meczach finałowych i punktował. Filip Matczak i Dwight Wilson III mieli drobne dolegliwości na początku czerwca 2026, ale oczekiwano, że będą dostępni w serii finałowej.
-    *   **Legia Warszawa:** Race Thompson był kontuzjowany (uraz stawu skokowego) od 1 czerwca 2026 i był niedostępny w meczach finałowych. Matthias Tass był poza składem na dłużej z powodu kontuzji od grudnia 2025. Kapitan Michał Kolenda wrócił do składu na finały i był aktywny.
+---
 
-2.  **Aktualna forma top scorerów:**
-    *   **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 liderami punktowymi byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). W meczach finałowych poprzedzających 21 czerwca 2026, Mazurczak (21 Pkt), Lewis (14 Pkt) i Conley Garrison (16 Pkt) prezentowali dobrą formę.
-    *   **Legia Warszawa:** W sezonie 2025/2026 czołowymi strzelcami byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz). W meczach finałowych przed 21 czerwca 2026, Carl Ponsar (22 Pkt, 17 Pkt), Dominic Brewton III (13 Pkt, 12 Pkt) i Andrzej Pluta (14 Pkt) byli kluczowymi zawodnikami w ofensywie.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
+**Typ:** Legia Warszawa
 
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Mecz odbył się w Warszawie i był siódmym, decydującym spotkaniem finałowym PLK. Legia Warszawa zdobyła Mistrzostwo Polski w tym meczu. Pomimo braku Race'a Thompsona i Matthiasa Tassa, Legia wykorzystała przewagę własnego parkietu w kluczowym meczu serii. Zastal, choć dotarł do finału z pozycji underdoga i stawiał twarde warunki, miał pewne drobne problemy zdrowotne w zespole. Typ na Legię Warszawa był uzasadniony biorąc pod uwagę te czynniki.
+1.  **Kluczowe braki w składach (na dzień 2026-06-21):**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   ❌ **Sagaba Konate:** Wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji dłoni, której doznał w lutym 2026 r.
+        *   ⚠️ **Filip Matczak:** Zgłaszał dolegliwości związane ze starą kontuzją w okolicach 6 czerwca 2026 r. Był oszczędzany na treningach, ale trenerzy liczyli na jego występ w serii finałowej.
+        *   ⚠️ **Dwight Wilson:** Odczuwał skutki urazu kostki, ale trenował z zespołem, "zaciskając zęby" w okolicach 6 czerwca 2026 r.
+        *   ⚠️ **Andrzej Mazurczak:** W okolicach 6 czerwca 2026 r. trenował indywidualnie w masce i choć spodziewano się jego gotowości, stopień jego dyspozycji był niepewny.
+    *   **Legia Warszawa:**
+        *   ❌ **Race Thompson:** Wykluczony z gry z powodu urazu stawu skokowego, którego doznał w pierwszym meczu serii półfinałowej przeciwko Dzikom Warszawa (stan na 1 czerwca 2026 r.).
+        *   ✅ **Michał Kolenda:** Kapitan Legii powrócił do wyjściowej piątki 1 czerwca 2026 r. po opuszczeniu dwóch pierwszych meczów półfinału z powodu problemów zdrowotnych.
+
+2.  **Aktualna forma top scorerów (na podstawie danych z sezonu 2025/2026 i serii play-off):**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis (15.8 Pkt/mecz)
+        *   Jakub Szumert (13.2 Pkt/mecz)
+        *   Andrzej Mazurczak (11.8 Pkt/mecz)
+    *   **Legia Warszawa:**
+        *   Andrzej Pluta
+        *   Dominic Brewton
+        (W meczu z Dzikami Warszawa 1 czerwca 2026 r. byli liderami zespołu, co wskazuje na dobrą formę przed finałami.)
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mimo kontuzji Race'a Thompsona w Legii, powrót Michała Kolendy stabilizował skład. Zastal Zielona Góra borykał się z bardziej znaczącymi problemami kadrowymi, w tym z definitywną absencją Sagaby Konate na cały sezon oraz niepewną sytuacją kilku innych kluczowych graczy (Matczak, Wilson, Mazurczak) tuż przed serią finałową. W obliczu tych braków, przewaga Legii w głębi składu i mniejszych problemów zdrowotnych (zwłaszcza powrót kapitana) sprawia, że typ na Legię Warszawa był uzasadniony.
