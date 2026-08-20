@@ -1,27 +1,19 @@
---- AUDYT PLK LIVE (2026-08-20 21:16 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-08-20 22:18 CET) ---
+Analiza meczu PLK na dzień 2026-06-21:
 
-1.  **Kluczowe braki w składach (2026-06-21):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate: Poważna kontuzja nadgarstka, której doznał w lutym 2026 roku, prawdopodobnie wykluczyła go na długi czas.
-        *   Filip Matczak: Przed finałami borykał się z nawracającym starym urazem, jednak był zdolny do gry i wystąpił w meczu finałowym.
-        *   Dwight Wilson III: Mimo odczuwania skutków urazu kostki, normalnie trenował i grał w serii finałowej.
-    *   **Legia Warszawa:**
-        *   Race Thompson: Niedostępny w serii finałowej z powodu problemów zdrowotnych.
-        *   Michał Kolenda: Kapitan Legii, grał w finale, jednak po sezonie przeszedł planowy zabieg stawu skokowego.
+=========================================================================
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+=========================================================================
 
-2.  **Aktualna forma top scorerów (2026-06-21):**
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta: Został MVP finałów i całego sezonu 2025/2026, co świadczy o jego znakomitej formie.
-        *   Jayvon Graves: Wcześniej w sezonie (październik 2025) wyróżniał się jako skuteczny strzelec.
-        *   Dominic Brewton III i Shane Hunter: Obaj wnosili wkład punktowy w decydującym meczu.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: Wiodący strzelec Zastalu w sezonie 2025/2026 (15.8 Pkt/mecz) i kluczowy zawodnik w finałach, zdobywający ważne punkty.
-        *   Jakub Szumert: Drugi strzelec drużyny (13.2 Pkt/mecz), kluczowy w zespole.
-        *   Andrzej Mazurczak: Trzeci strzelec (11.8 Pkt/mecz), również kluczowy dla Zastalu.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji dłoni, której doznał w lutym 2026 roku. Andrzej Mazurczak, Filip Matczak i Dwight Wilson mieli drobne dolegliwości na początku czerwca 2026, ale wystąpili w serii finałowej, co sugeruje, że byli zdolni do gry w kluczowym meczu.
+    *   🏀 **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień meczu. Michał Kolenda, który wcześniej opuścił mecze półfinałowe, wrócił do wyjściowej piątki na początku czerwca 2026. Race Thompson, po urazie stawu skokowego, również wrócił do gry najpóźniej na mecz 4 finałów (15 czerwca 2026).
 
-3.  **Werdykt:** ✅ **ZATWIERDZONY**
-    *   Mecz był decydującym, siódmym spotkaniem finałowym PLK sezonu 2025/2026.
-    *   Legia Warszawa, będąca obrońcą tytułu i najlepszą drużyną sezonu zasadniczego, wygrała mecz na własnym parkiecie (OSiR Bemowo w Warszawie) wynikiem 78:70, zdobywając mistrzostwo Polski.
-    *   Dodatkowym atutem Legii była rewelacyjna forma Andrzeja Pluty, uznanego MVP finałów i całego sezonu.
-    *   Mimo pewnych problemów zdrowotnych po stronie Zastalu, zespół był w stanie nawiązać wyrównaną walkę przez całą serię. Ostatecznie jednak Legia, grając u siebie w decydującym starciu i mając w składzie MVP finałów, zasłużenie zwyciężyła.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+    *   Jednakże, w 4. meczu finałowym (15 czerwca 2026) dla Zastalu najwięcej punktów zdobyli Andrzej Mazurczak (21 pkt) i Conley Garrison (16 pkt). Dla Legii Warszawa wyróżnili się Carl Ponsar (17 pkt), Andrzej Pluta (14 pkt) i Dominic Brewton (12 pkt).
+
+3.  **Werdykt:**
+    Legia Warszawa grała decydujący 7. mecz finałowy na własnym parkiecie, co stanowiło znaczącą przewagę. Zastal Zielona Góra borykał się z długoterminową kontuzją Sagaby Konate, ale większość kluczowych graczy była dostępna, mimo wcześniejszych drobnych urazów. Legia przystępowała do meczu praktycznie w pełnym składzie. W kontekście meczu numer 7 finału, przewaga własnego parkietu i brak poważnych osłabień u gospodarzy sprawia, że typ na Legię Warszawa był uzasadniony. Ostatecznie Legia Warszawa wygrała ten mecz 78-70 i zdobyła mistrzostwo Polski.
+
+    Werdykt: [✅ ZATWIERDZONY]
