@@ -1,26 +1,32 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-20 03:34 ET) ---
-Na podstawie danych z sieci z sierpnia 2026 (z uwzględnieniem raportów kontuzji ze stycznia 2026):
+--- KRYTYCZNY AUDYT LIVE (2026-08-20 04:08 ET) ---
+Heat @ Raptors -> Typ: Raptors
 
-Brak aktualnych raportów (Injury Report) na tę chwilę.
+Aby rzetelnie sprawdzić Twój typ, muszę polegać wyłącznie na danych ze stycznia 2026, zgodnie z wytycznymi. Nie mogę brać pod uwagę żadnych danych z lat 2024, 2025 ani późniejszych niż styczeń 2026.
 
-**Heat @ Raptors**
-Typ: Raptors
+Rozumiem, że interesuje Cię stan drużyn Miami Heat i Toronto Raptors na styczeń 2026, a raporty o kontuzjach mają być aktualne na dzień dzisiejszy (2026-08-20) dla tych drużyn. Jednakże, aby zachować spójność, będę szukać raportów o kontuzjach dla tych drużyn *ze stycznia 2026*, ponieważ instrukcja "Interesuje Cię tylko STYCZEŃ 2026" jest nadrzędna dla kontekstu meczu. Jeśli nie znajdę aktualnych raportów ze stycznia 2026, użyję domyślnej frazy.
 
-*   **Kluczowe braki w składach (styczeń 2026):**
-    *   **Miami Heat:**
-        *   Tyler Herro: Out (uraz żeber/palca) 🤕
-        *   Davion Mitchell: Out (stłuczenie barku) 🤕
-        *   Jaime Jaquez Jr.: Questionable (skręcenie lewego kolana) ❓
-        *   Norman Powell: Probable (plecy) ✅
-        *   Kel'el Ware: Probable (ścięgno podkolanowe) ✅
-        *   Vlad Goldin: Unavailable (przypisanie do G-League)
-        *   Jahmir Young: Unavailable (przypisanie do G-League)
-    *   **Toronto Raptors:**
-        *   RJ Barrett: Out (kontuzja kostki) 🤕
-        *   Ja'Kobe Walter: Out (kontuzja kostki) 🤕
-        *   Jakob Poeltl: Out (problem z plecami) 🤕
-        *   Brandon Ingram: Questionable (kontuzja kciuka) ❓
-        *   Scottie Barnes: Questionable (skręcenie prawego kolana) ❓
+---
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Biorąc pod uwagę znaczące absencje Toronto Raptors w styczniu 2026, w tym kluczowych graczy takich jak RJ Barrett, Jakob Poeltl oraz niepewny status Brandona Ingrama i Scottiego Barnesa, zwycięstwo Raptors jest wysoce ryzykowne.
+**Mecz: Heat @ Raptors**
+**Typ: Raptors**
+
+**Kluczowe braki w składach (styczeń 2026):**
+
+*   **Miami Heat:**
+    *   Tyler Herro: Out (uraz palca u nogi, 29 stycznia 2026). Wcześniej w styczniu 2026 był również wykluczony z powodu urazu żeber.
+    *   Davion Mitchell: Out (stłuczenie barku, 29 stycznia 2026). Był również wykluczony 24 stycznia 2026 z tego samego powodu.
+    *   Jaime Jaquez Jr.: Questionable (skręcenie lewego kolana, 19 stycznia 2026).
+    *   Norman Powell: Probable (problemy z plecami, 29 stycznia 2026).
+    *   Kel'el Ware: Probable (kontuzja ścięgna podkolanowego, 29 stycznia 2026).
+
+*   **Toronto Raptors:**
+    *   RJ Barrett: Out (kontuzja kostki, 12 stycznia 2026).
+    *   Ja'Kobe Walter: Out (kontuzja kostki, 12 stycznia 2026).
+    *   Jakob Poeltl: Out (problemy z plecami, 12 stycznia 2026).
+    *   Brandon Ingram: Questionable (uraz kciuka, 12 stycznia 2026).
+    *   Scottie Barnes: Questionable (skręcenie prawego kolana, 12 stycznia 2026).
+
+**Werdykt:** [⚠️ RYZYKOWNY]
+
+**Uzasadnienie:**
+Typ na Raptors jest ryzykowny. Obie drużyny borykały się z licznymi kontuzjami kluczowych zawodników w styczniu 2026. Raptors mieli kilku ważnych graczy wykluczonych (Barrett, Walter, Poeltl) oraz dwóch kluczowych graczy (Ingram, Barnes) z wątpliwym statusem. Heat również mieli osłabiony skład, z Herro i Mitchellem wykluczonymi, a Jaquez Jr. z wątpliwym statusem. Brak tak wielu istotnych zawodników po obu stronach sprawia, że wynik meczu jest bardzo trudny do przewidzenia. Szanse na zwycięstwo Raptors byłyby znacznie większe, gdyby Ingram i Barnes byli dostępni.
