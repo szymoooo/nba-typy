@@ -1,11 +1,18 @@
---- AUDYT PLK LIVE (2026-08-21 10:43 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-21 18:46 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)
 
+**ORLEN Zastal Zielona Góra:**
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach Sagaby Konate (luty 2026), Chavaughna Lewisa (maj 2026), Filipa Matczaka i Dwighta Wilsona (czerwiec 2026) pochodzą z poprzedniego sezonu (2025-26) i brak jest aktualnych potwierdzeń ich niedyspozycji na dzień 2026-08-21. Klub ogłasza transfery na sezon 2026/2027, co sugeruje budowę pełnego składu.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. W grudniu 2025 roku Michał Kolenda i Matthias Tass mieli dłuższą przerwę, jednak brak aktualnych informacji potwierdzających ich niedyspozycję na dzień 2026-08-21. Trener Heiko Rannula w wywiadzie z 21 sierpnia 2026 wspomniał o kontuzjach jako czynniku ogólnym, ale nie wskazał żadnych konkretnych obecnych absencji.
+    *   Sagaba Konate doznał kontuzji dłoni w lutym 2026 roku, która wykluczyła go z reszty sezonu 2025/2026. Jego aktualny status na sezon 2026/2027 (stan na 21.08.2026) nie jest jednoznacznie potwierdzony w dostępnych źródłach, co może stanowić potencjalny brak lub niepewność.
+    *   Z zespołu odeszli Dwight Wilson III, Patrick Cartier i Miłosz Góreńczyk, co stanowi istotne zmiany kadrowe w porównaniu do poprzedniego sezonu.
+    *   Drużyna przeszła szczegółowe badania medyczne w dniach 17-18 sierpnia 2026 w ramach przygotowań do sezonu, mające na celu wykrycie ewentualnych dolegliwości.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu. Kapitan Andrzej Mazurczak odegrał kluczową rolę w play-offach 2025/2026.
+3.  **Werdykt:** ⚠️ RYZYKOWNY (ze względu na niepewność co do stanu zdrowia Sagaby Konate i znaczne zmiany kadrowe).
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+**Legia Warszawa:**
+1.  **Kluczowe braki w składach:**
+    *   Wojciech Tomaszewski borykał się z kontuzjami w poprzednim sezonie, ale trener Heiko Rannula oczekuje, że w nadchodzącym sezonie będzie traktowany jako "normalny, dorosły koszykarz", co sugeruje jego powrót do zdrowia.
+    *   Brak innych istotnych, potwierdzonych kontuzji wpływających na skład koszykarski na 21.08.2026.
+    *   Koszykarze Legii rozpoczęli przygotowania do sezonu 2026/2027 od testów medycznych i motorycznych w dniach 14-15 sierpnia 2026.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu. Trener Heiko Rannula wskazał Devona Danielsa jako lidera drużyny, a Zacha Freemantle'a jako potencjalnego lidera punktowego na sezon 2026/2027.
+3.  **Werdykt:** ✅ ZATWIERDZONY (na podstawie stabilnego składu, braku zgłoszonych kontuzji na rozpoczęcie sezonu 2026/2027 oraz optymistycznych prognoz trenera dotyczących nowych liderów).
