@@ -1,18 +1,16 @@
---- AUDYT PLK LIVE (2026-08-21 18:46 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)
+--- AUDYT PLK LIVE (2026-08-21 21:08 CET) ---
+# Analiza meczu PLK (2026-06-21)
 
-**ORLEN Zastal Zielona Góra:**
-1.  **Kluczowe braki w składach:**
-    *   Sagaba Konate doznał kontuzji dłoni w lutym 2026 roku, która wykluczyła go z reszty sezonu 2025/2026. Jego aktualny status na sezon 2026/2027 (stan na 21.08.2026) nie jest jednoznacznie potwierdzony w dostępnych źródłach, co może stanowić potencjalny brak lub niepewność.
-    *   Z zespołu odeszli Dwight Wilson III, Patrick Cartier i Miłosz Góreńczyk, co stanowi istotne zmiany kadrowe w porównaniu do poprzedniego sezonu.
-    *   Drużyna przeszła szczegółowe badania medyczne w dniach 17-18 sierpnia 2026 w ramach przygotowań do sezonu, mające na celu wykrycie ewentualnych dolegliwości.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu. Kapitan Andrzej Mazurczak odegrał kluczową rolę w play-offach 2025/2026.
-3.  **Werdykt:** ⚠️ RYZYKOWNY (ze względu na niepewność co do stanu zdrowia Sagaby Konate i znaczne zmiany kadrowe).
+---
 
-**Legia Warszawa:**
-1.  **Kluczowe braki w składach:**
-    *   Wojciech Tomaszewski borykał się z kontuzjami w poprzednim sezonie, ale trener Heiko Rannula oczekuje, że w nadchodzącym sezonie będzie traktowany jako "normalny, dorosły koszykarz", co sugeruje jego powrót do zdrowia.
-    *   Brak innych istotnych, potwierdzonych kontuzji wpływających na skład koszykarski na 21.08.2026.
-    *   Koszykarze Legii rozpoczęli przygotowania do sezonu 2026/2027 od testów medycznych i motorycznych w dniach 14-15 sierpnia 2026.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu. Trener Heiko Rannula wskazał Devona Danielsa jako lidera drużyny, a Zacha Freemantle'a jako potencjalnego lidera punktowego na sezon 2026/2027.
-3.  **Werdykt:** ✅ ZATWIERDZONY (na podstawie stabilnego składu, braku zgłoszonych kontuzji na rozpoczęcie sezonu 2026/2027 oraz optymistycznych prognoz trenera dotyczących nowych liderów).
+## ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+
+1.  **Kluczowe braki w składach (2026-08-21):**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-08-21. Na ten moment brak doniesień o kontuzjach czy zawieszeniach dla koszykarzy.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-08-21. Aktualnie brak informacji o kontuzjach czy zawieszeniach dotyczących zawodników sekcji koszykarskiej.
+
+2.  **Aktualna forma top scorerów:**
+    *   Dla obu zespołów brak danych z API dla tej serii meczowej.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak danych o formie top scorerów oraz brak informacji o bieżących kontuzjach (na dzień 2026-08-21) uniemożliwia rzetelną ocenę ryzyka na podstawie tych kryteriów dla meczu z 2026-06-21. Typowanie bez aktualnych danych jest ryzykowne.
