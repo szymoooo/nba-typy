@@ -1,7 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-20 20:54 ET) ---
-Należy pamiętać, że dzisiejsza data to 20 sierpnia 2026, co jest okresem poza sezonem NBA. W związku z tym, nie ma aktywnych meczów ani raportów o kontuzjach.
+--- KRYTYCZNY AUDYT LIVE (2026-08-20 22:20 ET) ---
+Na podstawie danych ze stycznia 2026, oto analiza Twojego typu:
 
 **Heat @ Raptors**
+Typ: Raptors
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę, ponieważ jest to poza sezonem NBA.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Ze względu na brak aktywnych raportów o kontuzjach i składach z daty meczu (poza sezonem), nie jestem w stanie rzetelnie ocenić tego typu.
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **Miami Heat:**
+        *   Tyler Herro (poza grą, uraz żebra/palca) 🤕
+        *   Davion Mitchell (poza grą, stłuczenie barku) 🤕
+        *   Jaime Jaquez Jr. (status niepewny, skręcenie lewego kolana) ❓
+    *   **Toronto Raptors:**
+        *   RJ Barrett (poza grą, uraz kostki) 🤕
+        *   Ja'Kobe Walter (poza grą, uraz kostki) 🤕
+        *   Jakob Poeltl (poza grą, problem z plecami) 🤕
+        *   Chucky Hepburn (poza grą) 🤕
+        *   Brandon Ingram (status niepewny, uraz kciuka) ❓
+        *   Scottie Barnes (status niepewny, skręcenie prawego kolana) ❓
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Toronto Raptors w styczniu 2026 borykali się ze znacznymi brakami w składzie, z kilkoma kluczowymi graczami (Barrett, Walter, Poeltl, Hepburn) wykluczonymi, a także niepewnym statusem Brandona Ingrama i Scottiego Barnesa. Dostępność Barnesa i Ingrama miała kluczowe znaczenie dla równowagi ataku, rozmiaru i elastyczności obrony Raptors. Miami Heat, choć bez Herro i Mitchella, mieli do dyspozycji Bam Adebayo i Normana Powella, którzy stanowili o sile ofensywnej zespołu. Biorąc pod uwagę rozległe problemy zdrowotne Raptors, ich typ jest ryzykowny.

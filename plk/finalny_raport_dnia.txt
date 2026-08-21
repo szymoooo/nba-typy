@@ -1,28 +1,31 @@
---- AUDYT PLK LIVE (2026-08-21 02:54 CET) ---
-# PLK typy na 2026-06-21
+--- AUDYT PLK LIVE (2026-08-21 04:20 CET) ---
+DZISIEJSZA DATA TO: 2026-08-21.
 
-## ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+---
 
-### 1. Kluczowe braki w składach:
-*   **ORLEN Zastal Zielona Góra:**
-    *   Andrzej Mazurczak: trenował indywidualnie, odczuwał dolegliwości, ale był przewidywany do gry w serii finałowej, choć z niepewnym zakresem możliwości.
-    *   Filip Matczak: zgłosił dolegliwości w związku ze starą kontuzją i opuścił jeden trening, aby jej nie zaognić. Był "bardzo potrzebny w serii finałowej".
-    *   Dwight Wilson III: trenował w kontakcie pomimo odczuwania kostki, "zacisnął zęby".
-    *   Pozostali zawodnicy byli gotowi do gry (stan na 2026-06-06).
-*   **Legia Warszawa:**
-    *   Brak istotnych braków w składzie koszykarskim (brak potwierdzonych kontuzji ani zawieszeń dla kluczowych graczy wokół daty meczu).
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
-### 2. Aktualna forma top scorerów (sezon 2025/2026):
-*   **ORLEN Zastal Zielona Góra:**
-    *   Chavaughn Lewis: 15.8 Pkt/mecz.
-    *   Jakub Szumert: 13.2 Pkt/mecz.
-    *   Andrzej Mazurczak: 11.8 Pkt/mecz.
-*   **Legia Warszawa:**
-    *   Dominic Brewton III: 14.5 Pkt/mecz.
-    *   Andrzej Pluta: 13.4 Pkt/mecz. Został wybrany najlepszym polskim zawodnikiem sezonu zasadniczego PLK 2025/26 oraz MVP Finałów.
-    *   Jayvon Graves: 12.8 Pkt/mecz.
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra**:
+        *   Sagaba Konate doznał awulsyjnego uszkodzenia więzadła SL nadgarstka podczas Pucharu Polski w lutym 2026 i zakończył sezon 2025/2026. Biorąc pod uwagę datę meczu (sierpień 2026), nie ma informacji o jego powrocie, więc prawdopodobnie nadal jest niedostępny lub w trakcie rekonwalescencji, która wykluczyła go z reszty poprzedniego sezonu.
+        *   Filip Matczak zgłaszał dolegliwości związane ze starą kontuzją w czerwcu 2026, ale klub liczył na jego dostępność w finałach sezonu 2025/2026. Brak aktualnych informacji z 2026-08-21 o jego statusie.
+        *   Dwight Wilson Iii odczuwał skutki urazu kostki w czerwcu 2026, ale trenował w kontakcie. Brak aktualnych informacji z 2026-08-21 o jego statusie.
+        *   Andrzej Mazurczak trenował indywidualnie z maską na początku czerwca 2026. Brak aktualnych informacji z 2026-08-21 o jego statusie.
+    *   **Legia Warszawa**:
+        *   Michał Kolenda przeszedł planowy zabieg stawu skokowego 23 lipca 2026. Przewidywany czas przerwy od treningów wynosi od 8 do 10 tygodni, co oznacza, że będzie niedostępny na mecz 21 sierpnia 2026 (powinien wrócić do treningów we wrześniu/październiku 2026).
+        *   Brak innych istotnych braków w składzie koszykarskim Legii Warszawa.
 
-### 3. Werdykt:
-[✅ ZATWIERDZONY]
+2.  **Aktualna forma top scorerów:**
+    *   **ORLEN Zastal Zielona Góra (sezon 2025/2026):**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz
+        *   Jakub Szumert: 13.2 Pkt/mecz
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz
+    *   **Legia Warszawa:**
+        *   Brak danych z API dla tego zespołu w wyszukanych źródłach odnośnie top scorerów z sezonu 2025/2026. Skład na sezon 2025/2026 zawiera takich graczy jak D.J. Brewton, Jayvon Graves, Michał Kolenda, Andrzej Pluta, Carl Ponsar, Benjamin Shungu, Ojārs Siliņš, Matthias Tass, Race Thompson. Jayvon Graves zdobył 23 punkty w meczu Ligi Mistrzów FIBA w październiku 2025.
 
-**Uzasadnienie:** Pomimo drobnych problemów zdrowotnych u Zastalu (Mazurczak, Matczak, Wilson), Legia Warszawa wygrała sezon 2025/2026 PLK, zdobywając mistrzostwo, a Zastal był wicemistrzem. Andrzej Pluta z Legii został MVP Finałów, co wskazuje na jego znakomitą formę w decydującej fazie rozgrywek. Brak zgłoszonych kluczowych absencji w składzie Legii oraz ich dominacja w sezonie i finałach wskazują na przewagę.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Zastal ma kilku zawodników, których status zdrowotny jest niepewny lub są po kontuzjach z poprzedniego sezonu (Konate, Matczak, Wilson, Mazurczak), co może wpłynąć na głębię składu. Konate na pewno będzie niedostępny.
+    *   Legia ma potwierdzony brak kapitana Michała Kolendy, który jest istotnym ogniwem drużyny, co jest osłabieniem.
+    *   Brak danych o formie strzeleckiej Legii z sezonu 2025/2026 utrudnia pełną analizę.
+    *   Obie drużyny mogą być w fazie przygotowań do nowego sezonu, a ich faktyczna dyspozycja może być zmienna.
+    *   Mecz jest typowany jako wygrana Legii, ale znaczące braki po obu stronach (Konate w Zastalu, Kolenda w Legii) oraz niepewny status innych graczy Zastalu sprawiają, że wynik jest ryzykowny.
