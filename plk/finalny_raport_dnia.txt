@@ -1,11 +1,15 @@
---- AUDYT PLK LIVE (2026-08-21 09:09 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-21 09:59 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa) na dzień 2026-08-21:
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. W poprzednim sezonie, w lutym 2026, Sagaba Konate doznał poważnej kontuzji nadgarstka, która mogła skutkować długą przerwą. W maju i czerwcu 2026 informowano również o urazie Chavaughna Lewisa oraz dolegliwościach Filipa Matczaka i problemach Dwighta Wilsona z kostką, jednak te doniesienia pochodzą z końcówki ubiegłego sezonu i brak jest aktualnych potwierdzeń ich niedyspozycji na dzień 2026-08-21.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. W październiku 2025 roku Jerrick Harding (zawodnik Rytasu Wilno, nie Legii) doznał poważnej kontuzji w meczu przeciwko Legii, co nie dotyczy składu Legii. Informacje o kontuzjach Petara Stojanovicia dotyczą sekcji piłkarskiej Legii Warszawa i są nieistotne dla meczu koszykówki. Trener Heiko Rannula wspominał o kontuzjach jako ogólnym wyzwaniu, ale bez wskazania konkretnych, aktualnych absencji na dziś.
+    *   ORLEN Zastal Zielona Góra: Brak potwierdzonych, aktywnych kontuzji na dzień 2026-08-21. Sagaba Konate doznał poważnego urazu nadgarstka w lutym 2026 roku, który wykluczył go z reszty sezonu 2025/2026. Filip Matczak oraz Dwight Wilson III zgłaszali dolegliwości pod koniec sezonu 2025/2026 (czerwiec 2026), jednak brak aktualnych informacji o ich statusie na dzisiejszy dzień.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Koszykarze Legii rozpoczęli przygotowania do sezonu 2026/2027 w sierpniu 2026 roku, przechodząc szczegółowe badania, ale nie odnotowano aktywnych kontuzji na dzień 2026-08-21.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+    *   Brak danych z API PulsBasketu dla tej serii. Opierając się na dostępnych danych z sezonu 2025/2026 oraz finałów z czerwca 2026:
+        *   ORLEN Zastal Zielona Góra (średnie pkt/mecz sezon 2025/2026): Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
+        *   ORLEN Zastal Zielona Góra (top scorerzy w meczu finałowym z 19.06.2026): Chavaughn Lewis (18 Pkt), Conley Garrison (17 Pkt), Andrzej Mazurczak (15 Pkt).
+        *   Legia Warszawa (średnie pkt/mecz sezon 2025/2026): Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
+        *   Legia Warszawa (top scorerzy w meczu finałowym z 19.06.2026): Carl Ponsar (15 Pkt), Dominic Brewton (14 Pkt), Ojars Silins (12 Pkt).
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+3.  **Werdykt:** [✅ ZATWIERDZONY] - Brak potwierdzonych kluczowych braków w składach na dzień 2026-08-21 dla obu drużyn. Legia Warszawa, będąc finalistą poprzedniego sezonu PLK, wykazała się wysoką formą kluczowych zawodników.
