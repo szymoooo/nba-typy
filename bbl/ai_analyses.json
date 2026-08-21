@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-08-19T08:57:22.086399",
-  "date": "2026-08-19",
+  "generated_at": "2026-08-21T08:37:24.783031",
+  "date": "2026-08-21",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Rostock @ Frankfurt",
-      "phase": "Pre-season/Cup",
-      "ai_pick": "Rostock",
-      "formula_pick": "Frankfurt",
-      "agreement": false,
+      "matchup": "SKYLINERS Frankfurt @ Telekom Baskets Bonn",
+      "phase": "Pre-Season",
+      "ai_pick": "Telekom Baskets Bonn",
+      "formula_pick": "Telekom Baskets Bonn",
+      "agreement": true,
       "confidence": 7,
-      "reasoning": "Rostock Seawolves zakończyli sezon 2025/26 BBL na 9. miejscu z bilansem 18-18, co jest znacznie lepszym wynikiem niż 16. miejsce Fraport Skyliners z bilansem 12-22 w tym samym sezonie. Dodatkowo, Rostock pokonał Basketball Löwen Braunschweig 93:60 w swoim pierwszym meczu testowym przygotowującym do sezonu 2026/27, co świadczy o dobrej wczesnej formie drużyny. Brak istotnych kontuzji u obu drużyn na dzień meczu.",
+      "reasoning": "Telekom Baskets Bonn wykazali znacznie lepszą formę w poprzednim sezonie BBL (bilans 19-12), dominując nad SKYLINERS Frankfurt w bezpośrednim starciu (104-72). Mimo obiecujących wzmocnień w składzie Frankfurtu (Ryan Arcidiacono, Judah Mintz) i ich zwycięstwa w pierwszym meczu pre-season, przewaga własnego boiska oraz historyczna przewaga przemawiają za Bonn. Wczesna faza pre-season sprawia, że zespoły mogą jeszcze nie być w pełnej formie i zgraniu.",
       "key_factors": [
-        "Lepszy bilans Rostocka w sezonie 2025/26 BBL (18-18 vs 12-22)",
-        "Zwycięstwo Rostocka w pierwszym meczu sparingowym pre-season 2026/27",
-        "Brak istotnych kontuzji liderów"
+        "Dominująca forma Telekom Baskets Bonn w sezonie 2025/26 (19-12).",
+        "Zwycięstwo H2H Telekom Baskets Bonn nad SKYLINERS Frankfurt 104-72 w sezonie 2025/26.",
+        "Przewaga własnego boiska dla Telekom Baskets Bonn.",
+        "Wzmocnienia składu SKYLINERS Frankfurt (Ryan Arcidiacono, Judah Mintz).",
+        "Kontuzja Kur Jongkucha (Telekom Baskets Bonn)."
       ],
-      "injury_notes": "Brak istotnych kontuzji zgłoszonych dla Frankfurtu ani Rostocka na dzień 2026-08-19 w dostępnych źródłach."
+      "injury_notes": "Telekom Baskets Bonn: Kur Jongkuch jest kontuzjowany i czeka go operacja kolana, co oznacza jego nieobecność na dzień 2026-08-21. Brak istotnych kontuzji w SKYLINERS Frankfurt na dzień 2026-08-21, mimo wcześniejszych doniesień o sezonowych kontuzjach w 2025/26."
     }
   ]
 }

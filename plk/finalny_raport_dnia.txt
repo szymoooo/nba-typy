@@ -1,15 +1,30 @@
---- AUDYT PLK LIVE (2026-08-21 09:59 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa) na dzień 2026-08-21:
+--- AUDYT PLK LIVE (2026-08-21 10:36 CET) ---
+Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Brak potwierdzonych, aktywnych kontuzji na dzień 2026-08-21. Sagaba Konate doznał poważnego urazu nadgarstka w lutym 2026 roku, który wykluczył go z reszty sezonu 2025/2026. Filip Matczak oraz Dwight Wilson III zgłaszali dolegliwości pod koniec sezonu 2025/2026 (czerwiec 2026), jednak brak aktualnych informacji o ich statusie na dzisiejszy dzień.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Koszykarze Legii rozpoczęli przygotowania do sezonu 2026/2027 w sierpniu 2026 roku, przechodząc szczegółowe badania, ale nie odnotowano aktywnych kontuzji na dzień 2026-08-21.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak: Wcześniej wracał po kontuzji (maska), trenował indywidualnie, ale oczekiwano jego gotowości. Wystąpił w meczu finałowym, zdobywając 10 punktów.
+        *   Filip Matczak: Zgłaszał dolegliwości starej kontuzji przed meczem 6 czerwca, opuścił jeden trening, ale trener podkreślał, że będzie "bardzo potrzebny w serii finałowej". Wystąpił w meczu finałowym.
+        *   Dwight Wilson III: Czuł kostkę, ale trenował w kontakcie. Prawdopodobnie grał z dolegliwościami.
+        *   Brak innych istotnych braków w składzie koszykarskim potwierdzonych na dzień meczu.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API PulsBasketu dla tej serii. Opierając się na dostępnych danych z sezonu 2025/2026 oraz finałów z czerwca 2026:
-        *   ORLEN Zastal Zielona Góra (średnie pkt/mecz sezon 2025/2026): Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
-        *   ORLEN Zastal Zielona Góra (top scorerzy w meczu finałowym z 19.06.2026): Chavaughn Lewis (18 Pkt), Conley Garrison (17 Pkt), Andrzej Mazurczak (15 Pkt).
-        *   Legia Warszawa (średnie pkt/mecz sezon 2025/2026): Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
-        *   Legia Warszawa (top scorerzy w meczu finałowym z 19.06.2026): Carl Ponsar (15 Pkt), Dominic Brewton (14 Pkt), Ojars Silins (12 Pkt).
+2.  **Aktualna forma top scorerów (sezon 2025-2026 oraz finał):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: Średnio 15.8 Pkt/mecz w sezonie 2025/2026.
+        *   Jakub Szumert: Średnio 13.2 Pkt/mecz w sezonie 2025/2026.
+        *   Andrzej Mazurczak: Średnio 11.8 Pkt/mecz w sezonie 2025/2026. W decydującym meczu finałowym zdobył 10 punktów.
+        *   W meczu finałowym wyróżnili się również Jayvon Maughmer i Krzysztof Sulima, zdobywając wczesne punkty.
+    *   🏀 **Legia Warszawa:**
+        *   Andrzej Pluta: MVP sezonu zasadniczego i finałów 2025/2026. W decydującym meczu finałowym zdobył 15 punktów.
+        *   Race Thompson: W meczu finałowym zdobył 11 punktów.
+        *   Dominic Brewton III: W meczu finałowym zdobył 11 punktów.
+        *   Shane Hunter: W meczu finałowym zdobył 10 punktów.
+        *   Inni kluczowi gracze w finale to Jayvon Graves, Ojārs Siliņš, Maksymilian Wilczek.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY] - Brak potwierdzonych kluczowych braków w składach na dzień 2026-08-21 dla obu drużyn. Legia Warszawa, będąc finalistą poprzedniego sezonu PLK, wykazała się wysoką formą kluczowych zawodników.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra 4-3 w serii finałowej, a ten mecz był decydującym siódmym spotkaniem (wynik 78:70).
+    *   Mecz odbył się w OSiR Warszawa Bemowo, w Warszawie, co dawało Legii przewagę własnego parkietu w decydującym starciu.
+    *   Brak potwierdzonych kluczowych braków w składzie Legii Warszawa na ten mecz, natomiast Zastal Zielona Góra miał kilku graczy z drobnymi dolegliwościami, którzy jednak zagrali.
+    *   Legia miała w swoich szeregach MVP finałów, Andrzeja Plutę, który był liderem punktowym w tym meczu.
