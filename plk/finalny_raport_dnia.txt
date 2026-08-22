@@ -1,20 +1,23 @@
---- AUDYT PLK LIVE (2026-08-23 00:56 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-08-23 01:52 CET) ---
+Analiza meczu koszykówki PLK na dzień 2026-08-23:
 
-1.  **Kluczowe braki w składach (2026-06-21):**
-    *   🟢 **Legia Warszawa**:
-        *   Race Thompson: Wcześniej zgłaszano uraz stawu skokowego (01.06.2026), jednak zagrał w meczu finałowym i zdobył 11 punktów.
-        *   Matthias Tass: Był kontuzjowany od grudnia 2025 roku. Brak jednoznacznych informacji o jego powrocie na mecz finałowy, ale nie jest wymieniony jako kluczowy brak w relacjach pomeczowych.
-        *   Michał Kolenda: Wrócił do składu na początku czerwca po problemach zdrowotnych i zagrał w finale, zdobywając 8 punktów.
-    *   🔴 **ORLEN Zastal Zielona Góra**:
-        *   Sagaba Konate: Wykluczony z gry do końca sezonu 2025/2026 z powodu urazu więzadła SL nadgarstka, którego doznał w lutym 2026 roku.
-        *   Filip Matczak: Miał problemy ze starą kontuzją, ale zagrał w finale, zdobywając 8 punktów.
-        *   Dwight Wilson III: Zmagał się z problemami z kostką, ale trenował i zagrał w finale, zdobywając 6 punktów.
-        *   Andy Mazurczak: Trenował indywidualnie z maską, ale był gotowy do gry i zdobył 10 punktów w finale.
+---
 
-2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
-    *   👑 **Legia Warszawa**: Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
-    *   👑 **ORLEN Zastal Zielona Góra**: Andrzej Mazurczak (10 Pkt), Jayvon Maughmer (10 Pkt), Chavaughn Lewis (10 Pkt).
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Mecz był siódmym, decydującym spotkaniem finałowym, w którym Legia Warszawa zdobyła Mistrzostwo Polski, wygrywając 78:70 na własnym parkiecie w Warszawie. Kluczowi gracze Legii, pomimo drobnych wcześniejszych urazów, byli dostępni i punktowali. Zastal grał bez kontuzjowanego Sagaby Konate, ale reszta liderów wystąpiła. Silny atut własnego parkietu w decydującym meczu był istotny dla Legii.
+1.  **Kluczowe braki w składach (koszykarze)** 🩹:
+    *   **Legia Warszawa**:
+        *   Shane Hunter (transfer do Maccabi Tel Aviv na sezon 2026/27).
+        *   Kristrs Zoriks, György Golomán, Markus Ilver (powołania do reprezentacji narodowych na mecze kwalifikacyjne do mistrzostw świata; Ilver grał dla Estonii 21 sierpnia 2026). Ich dostępność dla klubu na mecz 23 sierpnia jest wysoce wątpliwa ze względu na obowiązki reprezentacyjne.
+    *   **ORLEN Zastal Zielona Góra**:
+        *   Dwight Wilson III (transfer do KB Peja).
+        *   Brak istotnych braków w składzie koszykarskim wynikających z kontuzji potwierdzonych na dzień 2026-08-23. Poprzednie urazy (np. Sagaba Konate, Filip Matczak) nie mają aktualnych raportów na ten dzień.
+
+2.  **Aktualna forma top scorerów** 🔥:
+    *   **Legia Warszawa**: Brak danych z API dla tego zespołu na temat aktualnej formy strzeleckiej w serii. Kluczowi zawodnicy z sezonu 2025/2026 to m.in. Jayvon Graves, Andrzej Pluta, Michał Kolenda, Carl Ponsar.
+    *   **ORLEN Zastal Zielona Góra**: Brak danych z API dla tego zespołu na temat aktualnej formy strzeleckiej w serii. W sezonie 2025/2026 wiodącymi strzelcami byli: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
+
+3.  **Werdykt**: ⚠️ RYZYKOWNY
+    *   Oba zespoły są w okresie przygotowawczym do sezonu 2026/27 (Legia rozpoczęła przygotowania 14 sierpnia, a Zastal ma pierwszy sparing 29 sierpnia).
+    *   Legia Warszawa ma kilku kluczowych zawodników (Kristrs Zoriks, György Golomán, Markus Ilver) powołanych do reprezentacji narodowych na mecze kwalifikacyjne do mistrzostw świata, co znacząco osłabia zespół w okresie przygotowawczym i stawia pod znakiem zapytania ich obecność w meczu klubowym na dzień 23 sierpnia.
+    *   Choć Legia Warszawa jest aktualnym mistrzem Polski, a Zastal zdobył srebrny medal w sezonie 2025/2026, liczne braki w składzie Legii związane z obowiązkami reprezentacyjnymi w okresie pre-season czynią typ na Legię ryzykownym, jeśli mecz miałby się odbyć 23 sierpnia.
