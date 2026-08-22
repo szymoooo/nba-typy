@@ -1,12 +1,26 @@
---- AUDYT PLK LIVE (2026-08-21 21:31 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-22 08:32 CET) ---
+Rozpoczynam audyt dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, pamiętając, że bieżąca data to 2026-08-22.
 
-1.  **Kluczowe braki w składach:**
-    *   Legia Warszawa: Race Thompson był kontuzjowany (staw skokowy) i był poza składem w meczach półfinałowych na początku czerwca 2026 roku, co sugeruje jego absencję również w finałach.
-    *   ORLEN Zastal Zielona Góra: Brak potwierdzonych istotnych braków w składzie koszykarskim na mecz finałowy 21.06.2026. Trener Zastalu wspominał o dyskomforcie Filipa Matczaka oraz problemach z kostką Dwighta Wilsona III na początku czerwca, jednak bez potwierdzenia ich absencji w decydującym spotkaniu.
+---
 
-2.  **Aktualna forma top scorerów (sezon 2025-2026 i finały):**
-    *   ORLEN Zastal Zielona Góra: W sezonie 2025/2026 wiodącymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Andrzej Mazurczak i Conley Garrison prezentowali wysoką formę w meczach finałowych.
-    *   Legia Warszawa: Brak danych z API dla tego zespołu dotyczących średniej punktowej z całego sezonu. W półfinałach liderami byli Andrzej Pluta i Dominic Brewton. Carl Ponsar był jednym z najskuteczniejszych zawodników Legii w meczach finałowych, zdobywając 17 punktów w jednym ze spotkań.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-3.  **Werdykt:** [✅ ZATWIERDZONY] (Legia Warszawa ostatecznie zdobyła Mistrzostwo Polski 21.06.2026, wygrywając finałową serię z ORLEN Zastalem Zielona Góra. Mimo kontuzji Race'a Thompsona, Legia była w stanie przechylić szalę zwycięstwa na swoją stronę w decydującym meczu).
+🗓️ Data meczu w kontekście: 2026-06-21 (Audyt dotyczy stanu drużyn na 2026-08-22).
+
+1.  **Kluczowe braki w składach (2026-08-22):**
+    *   **Legia Warszawa:**
+        *   Michał Kolenda: Przeszedł operację stawu skokowego po zakończeniu poprzedniego sezonu (7 sierpnia 2026). Będzie pauzował od 8 do 10 tygodni i prawdopodobnie nie będzie gotowy na początek rozgrywek 2026/2027.
+        *   Wojciech Tomaszewski: W poprzednim sezonie przeszkodziły mu kontuzje, ale w obronie jest znakomity i trener na niego liczy w nowym sezonie (21 sierpnia 2026). Brak potwierdzenia, czy obecne (2026-08-22) kontuzje wykluczają go z gry.
+        *   Legia Warszawa rozpoczęła przygotowania do sezonu 2026/2027, przechodząc szczegółowe badania, w tym rezonans magnetyczny obu stawów skokowych i kolan u każdego zawodnika (19 sierpnia 2026). Aktualnie brak informacji o nowych, świeżych kontuzjach, które wykluczają graczy z treningów lub potencjalnych meczów przygotowawczych na dzień 2026-08-22.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate: Doznał poważnej kontuzji nadgarstka w lutym 2026 roku, co miało skutkować dłuższą przerwą (21 lutego 2026). Brak aktualnych informacji z sierpnia 2026 o jego powrocie lub dalszej niedostępności na dzień 2026-08-22.
+        *   Zastal również rozpoczął budowę składu na sezon 2026/2027, dokonując transferów (lipiec 2026). Brak istotnych braków w składzie koszykarskim, poza wspomnianym urazem Konate, bez aktualizacji statusu.
+
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+
+3.  **Werdykt:** ⚠️ RYZYKOWNY
+    *   Kontuzja Michała Kolendy w Legii Warszawa jest znaczącym osłabieniem, zwłaszcza że prawdopodobnie opuści początek sezonu. Jego rola jako kapitana i ważnego gracza jest istotna.
+    *   Uraz Sagaby Konate w Zastalu, choć z lutego, nie doczekał się aktualizacji, co budzi pewną niepewność co do pełnego składu.
+    *   Oba zespoły są w fazie przygotowań do sezonu 2026/2027, a składy uległy zmianom transferowym (lipiec/sierpień 2026). Legia dokonała kilku transferów w odpowiedzi na problemy zdrowotne, co może wskazywać na próbę zrekompensowania braków kadrowych.
+    *   Brak danych o formie top scorerów w tym konkretnym meczu dodatkowo zwiększa ryzyko.
