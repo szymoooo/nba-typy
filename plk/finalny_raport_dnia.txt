@@ -1,41 +1,29 @@
---- AUDYT PLK LIVE (2026-08-22 10:20 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (typ: Legia Warszawa) na dzień 2026-08-22:
-
----
-
-🏀 **ORLEN Zastal Zielona Góra**
+--- AUDYT PLK LIVE (2026-08-22 10:25 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa z dnia 2026-06-21:
 
 1.  **Kluczowe braki w składach:**
-    *   ❌ **Sagaba Konate** – Doznał awulsyjnego uszkodzenia więzadła SL nadgarstka w lutym 2026 roku, co wykluczyło go z reszty sezonu 2025/2026. Na dzień 2026-08-22 brak informacji o jego pełnym powrocie do gry w sezonie 2026/2027.
-    *   Inni gracze (Filip Matczak, Dwight Wilson, Andrzej Mazurczak) mieli drobne urazy lub problemy pod koniec sezonu 2025/2026 (czerwiec 2026), ale nie ma aktualnych informacji wskazujących na ich niedostępność w sierpniu 2026. Zakładamy, że są w trakcie przygotowań do nowego sezonu.
-    *   Z zespołu odeszli Patrick Cartier i Miłosz Góreńczyk.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (silny skrzydłowy/środkowy): Wykluczony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026 roku.
+        *   Phil Fayne (silny skrzydłowy): Wrócił do zespołu na serię finałową po sprawach rodzinnych w USA. Trenował indywidualnie i przyleciał do Warszawy na finały, co wskazuje na jego obecność w składzie na Game 7, choć jego pełna gotowość po przerwie była monitorowana.
+        *   Andrzej Mazurczak (rozgrywający): Otrzymał specjalną maskę ochronną po urazie nosa i wracał do pełnych treningów z kontaktem przed finałami. Był zdolny do gry, choć z maską.
+        *   Filip Matczak (rozgrywający): Odczuwał dolegliwości starej kontuzji, ale sztab szkoleniowy oszczędzał go, by był gotowy na serię finałową. Prawdopodobnie grał w Game 7, choć mógł nie być w pełni formy.
+        *   Dwight Wilson III (środkowy): Odczuwał kostkę, ale trenował i był gotowy na finały.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-06-21. Wcześniejsze kontuzje (np. Andrzeja Pluty, Jayvona Gravesa, Matthiasa Tassa, Race'a Thompsona) z wcześniejszych etapów sezonu lub pre-sezonu były już zaleczone i zawodnicy byli dostępni.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-    *   Warto odnotować, że kluczowi gracze obwodowi, tacy jak Andrzej Mazurczak i Conley Garrison, pozostają w zespole. Nowy zawodnik, Trazarien White, w lidze australijskiej notował średnio 24,3 punktu na mecz.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz
+        *   Jakub Szumert: 13.2 Pkt/mecz
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz
+    *   🏀 **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz
+        *   Andrzej Pluta: 13.4 Pkt/mecz (MVP sezonu PLK 2025-2026 i MVP Finałów)
+        *   Jayvon Graves: 12.8 Pkt/mecz
+    *   Mecz 2026-06-21 był decydującym, siódmym meczem finałowym, w którym Legia Warszawa pokonała Zastal Zielona Góra 78:70, zdobywając Mistrzostwo Polski.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-
----
-
-🏀 **Legia Warszawa**
-
-1.  **Kluczowe braki w składach:**
-    *   ❌ **Michał Kolenda** – Przeszedł planowaną operację stawu skokowego po zakończeniu poprzedniego sezonu i będzie pauzował od 8 do 10 tygodni, prawdopodobnie opuszczając początek nowego sezonu.
-    *   ❌ **Dominic Brewton** – Kluczowy rozgrywający z poprzedniego sezonu (średnio 14,5 punktu, 4,0 zbiórki, 3,4 asysty) opuścił klub i przeniósł się do Izraela. Jest to znaczące osłabienie kadrowe.
-    *   Brak istotnych braków w składzie koszykarskim poza wymienionymi. Zespół wzmocnił się o kilku nowych zawodników, w tym Mathieu Wojciechowskiego.
-    *   Andrzej Pluta, Jayvon Graves i Matthias Tass byli kontuzjowani w listopadzie 2025, ale mieli wrócić po przerwie reprezentacyjnej. Brak bieżących informacji o ich kontuzjach, więc zakładamy, że są zdrowi.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-    *   Legia Warszawa jest aktualnym Mistrzem Polski z sezonów 2025 i 2026.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-
----
-
-**Podsumowanie i Werdykt Ogólny dla typu "Legia Warszawa":**
-
-Mimo że Legia Warszawa jest aktualnym mistrzem, ich skład na sezon 2026/2027 doświadczył istotnych zmian. Strata kluczowego strzelca Dominica Brewtona oraz kontuzja Michała Kolendy (który opuści początek sezonu) to poważne osłabienia. ORLEN Zastal również ma niewiadomą co do Sagaby Konate, ale zdołał utrzymać kluczowych obwodowych i pozyskał nowych graczy. Obie drużyny są w fazie budowania składów na nowy sezon (jest sierpień), co zawsze wprowadza element nieprzewidywalności.
-
-Typ na Legię Warszawa jest **[⚠️ RYZYKOWNY]** ze względu na znaczące ubytki kadrowe (odejście kluczowego Brewtona i kontuzja Kolendy), co może wpłynąć na ich stabilność na początku sezonu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa była obrońcą tytułu i wygrała ten konkretny, decydujący mecz finałowy na własnym parkiecie, zdobywając mistrzostwo Polski 2025/2026.
+    *   Kluczowi zawodnicy Legii, w tym MVP sezonu Andrzej Pluta, byli w formie.
+    *   Zastal miał pewne problemy zdrowotne, ale kluczowi gracze tacy jak Fayne, Mazurczak i Matczak byli przygotowywani do gry w serii finałowej. Długoterminowa kontuzja Sagaby Konate była jednak znaczącym osłabieniem.
+    *   Przewaga własnego parkietu w decydującym meczu serii finałowej jest bardzo istotna.
