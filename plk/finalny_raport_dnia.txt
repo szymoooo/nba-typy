@@ -1,29 +1,16 @@
---- AUDYT PLK LIVE (2026-08-22 10:25 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa z dnia 2026-06-21:
+--- AUDYT PLK LIVE (2026-08-22 10:52 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa na dzień 2026-08-22 (audyt typu z 2026-06-21):
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (silny skrzydłowy/środkowy): Wykluczony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026 roku.
-        *   Phil Fayne (silny skrzydłowy): Wrócił do zespołu na serię finałową po sprawach rodzinnych w USA. Trenował indywidualnie i przyleciał do Warszawy na finały, co wskazuje na jego obecność w składzie na Game 7, choć jego pełna gotowość po przerwie była monitorowana.
-        *   Andrzej Mazurczak (rozgrywający): Otrzymał specjalną maskę ochronną po urazie nosa i wracał do pełnych treningów z kontaktem przed finałami. Był zdolny do gry, choć z maską.
-        *   Filip Matczak (rozgrywający): Odczuwał dolegliwości starej kontuzji, ale sztab szkoleniowy oszczędzał go, by był gotowy na serię finałową. Prawdopodobnie grał w Game 7, choć mógł nie być w pełni formy.
-        *   Dwight Wilson III (środkowy): Odczuwał kostkę, ale trenował i był gotowy na finały.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-06-21. Wcześniejsze kontuzje (np. Andrzeja Pluty, Jayvona Gravesa, Matthiasa Tassa, Race'a Thompsona) z wcześniejszych etapów sezonu lub pre-sezonu były już zaleczone i zawodnicy byli dostępni.
-
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz
-        *   Jakub Szumert: 13.2 Pkt/mecz
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz
-    *   🏀 **Legia Warszawa:**
-        *   Dominic Brewton III: 14.5 Pkt/mecz
-        *   Andrzej Pluta: 13.4 Pkt/mecz (MVP sezonu PLK 2025-2026 i MVP Finałów)
-        *   Jayvon Graves: 12.8 Pkt/mecz
-    *   Mecz 2026-06-21 był decydującym, siódmym meczem finałowym, w którym Legia Warszawa pokonała Zastal Zielona Góra 78:70, zdobywając Mistrzostwo Polski.
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa była obrońcą tytułu i wygrała ten konkretny, decydujący mecz finałowy na własnym parkiecie, zdobywając mistrzostwo Polski 2025/2026.
-    *   Kluczowi zawodnicy Legii, w tym MVP sezonu Andrzej Pluta, byli w formie.
-    *   Zastal miał pewne problemy zdrowotne, ale kluczowi gracze tacy jak Fayne, Mazurczak i Matczak byli przygotowywani do gry w serii finałowej. Długoterminowa kontuzja Sagaby Konate była jednak znaczącym osłabieniem.
-    *   Przewaga własnego parkietu w decydującym meczu serii finałowej jest bardzo istotna.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach Filipa Matczaka i Dwighta Wilsona pochodzą z czerwca 2026 i dotyczyły końcówki sezonu 2025/2026; na dzień 2026-08-22 brak nowych doniesień o ich aktualnym statusie zdrowotnym uniemożliwiającym grę. Dwight Wilson III opuścił zespół i przeszedł do KB Peja. Sagaba Konate doznał kontuzji dłoni w lutym 2026, która wykluczyła go z reszty sezonu 2025/2026; brak aktualnych informacji o jego statusie w drużynie na sezon 2026/2027.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Brak raportów o aktualnych kontuzjach koszykarzy Legii na sierpień 2026. Mathieu Wojciechowski dołączył do drużyny 7 sierpnia 2026.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:**
+    *   ✅ **ZATWIERDZONY**
+        *   Analizując typ "Legia Warszawa" z 21 czerwca 2026, Legia Warszawa faktycznie wygrała finałową serię ORLEN Basket Ligi sezonu 2025/2026 przeciwko ORLEN Zastal Zielona Góra 4-3. W związku z tym pierwotny typ był trafny.
+        *   Na dzień dzisiejszy (2026-08-22), trwa okres przedsezonowy. Legia Warszawa, jako aktualny mistrz Polski, jest uznawana za mocnego kandydata w nadchodzącym sezonie, wzmocniła skład transferami (np. Mathieu Wojciechowski) i jest w trakcie przygotowań do sezonu 2026/2027 oraz Superpucharu Polski, który odbędzie się we wrześniu. ORLEN Zastal Zielona Góra, jako wicemistrz, również szykuje się do nowego sezonu i weźmie udział w Superpucharze Polski.
