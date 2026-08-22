@@ -1,26 +1,23 @@
---- AUDYT PLK LIVE (2026-08-22 08:32 CET) ---
-Rozpoczynam audyt dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, pamiętając, że bieżąca data to 2026-08-22.
+--- AUDYT PLK LIVE (2026-08-22 09:17 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21), analiza przedstawia się następująco:
 
----
-
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
-
-🗓️ Data meczu w kontekście: 2026-06-21 (Audyt dotyczy stanu drużyn na 2026-08-22).
-
-1.  **Kluczowe braki w składach (2026-08-22):**
-    *   **Legia Warszawa:**
-        *   Michał Kolenda: Przeszedł operację stawu skokowego po zakończeniu poprzedniego sezonu (7 sierpnia 2026). Będzie pauzował od 8 do 10 tygodni i prawdopodobnie nie będzie gotowy na początek rozgrywek 2026/2027.
-        *   Wojciech Tomaszewski: W poprzednim sezonie przeszkodziły mu kontuzje, ale w obronie jest znakomity i trener na niego liczy w nowym sezonie (21 sierpnia 2026). Brak potwierdzenia, czy obecne (2026-08-22) kontuzje wykluczają go z gry.
-        *   Legia Warszawa rozpoczęła przygotowania do sezonu 2026/2027, przechodząc szczegółowe badania, w tym rezonans magnetyczny obu stawów skokowych i kolan u każdego zawodnika (19 sierpnia 2026). Aktualnie brak informacji o nowych, świeżych kontuzjach, które wykluczają graczy z treningów lub potencjalnych meczów przygotowawczych na dzień 2026-08-22.
+1.  **Kluczowe braki w składach:**
     *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate: Doznał poważnej kontuzji nadgarstka w lutym 2026 roku, co miało skutkować dłuższą przerwą (21 lutego 2026). Brak aktualnych informacji z sierpnia 2026 o jego powrocie lub dalszej niedostępności na dzień 2026-08-22.
-        *   Zastal również rozpoczął budowę składu na sezon 2026/2027, dokonując transferów (lipiec 2026). Brak istotnych braków w składzie koszykarskim, poza wspomnianym urazem Konate, bez aktualizacji statusu.
+        *   ❌ **Sagaba Konate** (silny skrzydłowy / środkowy) – poza składem do końca sezonu 2025/2026 z powodu poważnej kontuzji dłoni, której doznał w lutym 2026 roku.
+        *   ❓ **Filip Matczak** (rozgrywający) – na początku czerwca 2026 zgłaszał dolegliwości związane ze starą kontuzją, jego występ w serii finałowej był pod znakiem zapytania, choć trener wyrażał nadzieję na jego gotowość.
+        *   ❓ **Dwight Wilson III** (środkowy) – na początku czerwca 2026 grał z dolegliwościami kostki, "zaciskał zęby" i trenował, ale jego pełna sprawność mogła być ograniczona.
+        *   ❓ **Andrzej Mazurczak** (rozgrywający) – na początku czerwca 2026 trenował indywidualnie, jego powrót do pełnego kontaktu i pełnej sprawności na dzień meczu był niepewny.
+    *   **Legia Warszawa:**
+        *   ❌ **Race Thompson** (skrzydłowy) – poza składem z powodu urazu stawu skokowego, którego doznał na początku czerwca 2026 w pierwszym meczu półfinałowej serii.
+        *   ❌ **Matthias Tass** (silny skrzydłowy) – w grudniu 2025 roku ogłoszono jego dłuższą przerwę (kilka tygodni, a nawet miesięcy) z powodu kontuzji, brak informacji o powrocie przed końcem sezonu 2025/2026, więc prawdopodobnie był niedostępny.
+        *   ✅ **Michał Kolenda** (niski skrzydłowy) – wrócił do wyjściowej piątki na początku czerwca 2026 po wcześniejszych problemach zdrowotnych.
+        *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-21.
 
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** ⚠️ RYZYKOWNY
-    *   Kontuzja Michała Kolendy w Legii Warszawa jest znaczącym osłabieniem, zwłaszcza że prawdopodobnie opuści początek sezonu. Jego rola jako kapitana i ważnego gracza jest istotna.
-    *   Uraz Sagaby Konate w Zastalu, choć z lutego, nie doczekał się aktualizacji, co budzi pewną niepewność co do pełnego składu.
-    *   Oba zespoły są w fazie przygotowań do sezonu 2026/2027, a składy uległy zmianom transferowym (lipiec/sierpień 2026). Legia dokonała kilku transferów w odpowiedzi na problemy zdrowotne, co może wskazywać na próbę zrekompensowania braków kadrowych.
-    *   Brak danych o formie top scorerów w tym konkretnym meczu dodatkowo zwiększa ryzyko.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się w decydującej fazie play-off, w której Legia Warszawa ostatecznie zdobyła tytuł Mistrza Polski 2025/2026 na dzień 2026-06-21.
+    *   ORLEN Zastal Zielona Góra zmagał się z poważniejszymi i bardziej licznymi problemami kadrowymi, w tym z kluczowym zawodnikiem Sagabą Konate wykluczonym na cały sezon, oraz kilkoma innymi graczami (Matczak, Wilson III, Mazurczak) grającymi z urazami lub w niepełnej dyspozycji w serii finałowej.
+    *   Legia Warszawa również miała osłabienia (Race Thompson, Matthias Tass), ale odzyskała Michała Kolendę i pomimo własnych braków zdołała zwyciężyć w kluczowym momencie sezonu, co świadczy o sile i głębi składu.
+    *   W kontekście decydującego meczu finałowego i potwierdzonego zwycięstwa Legii w mistrzostwach, typ na Legię Warszawa był zasadny.
