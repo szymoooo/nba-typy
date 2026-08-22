@@ -1,16 +1,27 @@
---- AUDYT PLK LIVE (2026-08-22 10:52 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa na dzień 2026-08-22 (audyt typu z 2026-06-21):
+--- AUDYT PLK LIVE (2026-08-22 16:26 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
----
+1.  **Kluczowe braki w składach koszykarskich (na dzień meczu 2026-06-21):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (silny skrzydłowy/środkowy) był wyłączony z gry do końca sezonu 2025/2026 z powodu urazu dłoni, którego doznał w lutym 2026 roku.
+        *   Andrzej Mazurczak (rozgrywający) trenował indywidualnie w masce przed serią finałową, a Filip Matczak (rozgrywający) zgłaszał dolegliwości w związku ze starą kontuzją na początku czerwca 2026. Nie ma jednak potwierdzenia, że którykolwiek z nich opuścił decydujący mecz finałowy.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim. Michał Kolenda i Matthias Tass mieli kontuzje w grudniu 2025 roku, ale biorąc pod uwagę datę meczu (czerwiec 2026) i brak dalszych doniesień o ich niedostępności w finale, zakładamy ich powrót.
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **Legia Warszawa:**
+        *   Dominic Brewton III: 14.5 Pkt/mecz
+        *   Andrzej Pluta: 13.4 Pkt/mecz (MVP finałów i sezonu zasadniczego 2025/2026)
+        *   Jayvon Graves: 12.8 Pkt/mecz
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz
+        *   Jakub Szumert: 13.2 Pkt/mecz
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach Filipa Matczaka i Dwighta Wilsona pochodzą z czerwca 2026 i dotyczyły końcówki sezonu 2025/2026; na dzień 2026-08-22 brak nowych doniesień o ich aktualnym statusie zdrowotnym uniemożliwiającym grę. Dwight Wilson III opuścił zespół i przeszedł do KB Peja. Sagaba Konate doznał kontuzji dłoni w lutym 2026, która wykluczyła go z reszty sezonu 2025/2026; brak aktualnych informacji o jego statusie w drużynie na sezon 2026/2027.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Brak raportów o aktualnych kontuzjach koszykarzy Legii na sierpień 2026. Mathieu Wojciechowski dołączył do drużyny 7 sierpnia 2026.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
 3.  **Werdykt:**
-    *   ✅ **ZATWIERDZONY**
-        *   Analizując typ "Legia Warszawa" z 21 czerwca 2026, Legia Warszawa faktycznie wygrała finałową serię ORLEN Basket Ligi sezonu 2025/2026 przeciwko ORLEN Zastal Zielona Góra 4-3. W związku z tym pierwotny typ był trafny.
-        *   Na dzień dzisiejszy (2026-08-22), trwa okres przedsezonowy. Legia Warszawa, jako aktualny mistrz Polski, jest uznawana za mocnego kandydata w nadchodzącym sezonie, wzmocniła skład transferami (np. Mathieu Wojciechowski) i jest w trakcie przygotowań do sezonu 2026/2027 oraz Superpucharu Polski, który odbędzie się we wrześniu. ORLEN Zastal Zielona Góra, jako wicemistrz, również szykuje się do nowego sezonu i weźmie udział w Superpucharze Polski.
+    *   Mecz odbył się 21 czerwca 2026 roku i był decydującym, siódmym spotkaniem finału PLK 2025/2026. Legia Warszawa wygrała u siebie 78:70, zdobywając Mistrzostwo Polski.
+    *   Przewaga własnego parkietu Legii w decydującym meczu była kluczowa.
+    *   Istotnym osłabieniem Zastalu była kontuzja Sagaby Konate, wykluczająca go z udziału w finale.
+    *   Andrzej Pluta z Legii Warszawa został wybrany MVP finałów, co świadczy o jego znakomitej formie.
+
+    [✅ ZATWIERDZONY]
