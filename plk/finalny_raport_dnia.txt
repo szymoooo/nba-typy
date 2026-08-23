@@ -1,12 +1,25 @@
---- AUDYT PLK LIVE (2026-08-23 11:01 CET) ---
-Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-08-23 19:13 CET) ---
+Analiza meczu koszykówki PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa
+Data typowania: 2026-06-21
+Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate (środkowy) doznał poważnej kontuzji dłoni w lutym 2026 roku, która zakończyła jego sezon 2025/2026. Był to istotny brak w składzie Zastalu podczas finałów. W czerwcu 2026 klub ogólnie walczył z urazami w szeregach drużyny.
-    *   🏀 **Legia Warszawa:** Michał Kolenda przeszedł planowaną operację stawu skokowego po zakończeniu sezonu (w sierpniu 2026), co oznacza, że był dostępny na finał 21 czerwca 2026. Brak innych istotnych, potwierdzonych braków w składzie koszykarskim Legii Warszawa na dzień meczu.
+---
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu. Informacje z wyszukiwarki Google na dzień 2026-08-23 dotyczą głównie transferów i przygotowań do sezonu 2026/2027, a nie aktualnej formy strzeleckiej zawodników z minionego sezonu lub serii finałowej.
+### **ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składzie koszykarskim:**
+    *   Dwight Wilson III opuścił klub 5 sierpnia 2026 roku, przenosząc się do kosowskiego zespołu KB Peja i nie jest już częścią składu Zastalu.
+    *   Brak potwierdzonych, aktualnych kontuzji na dzień 2026-08-23. W marcu 2026 roku informowano o niedostępności Filipa Matczaka, jednak brak jest aktualizacji jego statusu na dzień dzisiejszy; jego nazwisko znajduje się w składzie na sezon 2026/2027.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] (Utrata Dwighta Wilsona III, choć nie jest kontuzją, osłabia zespół. Niepewność co do formy i braki danych utrudniają pełną ocenę).
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku, a Legia Warszawa obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra. Biorąc pod uwagę fakt, że Zastal był osłabiony brakiem Sagaby Konate w kluczowym momencie sezonu (finał), a Legia zdobyła mistrzostwo, typ na Legię Warszawa był uzasadniony.
+---
+
+### **Legia Warszawa**
+1.  **Kluczowe braki w składzie koszykarskim:**
+    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-08-23.
+    *   Przygotowania do sezonu 2026/2027 rozpoczęły się od szczegółowych badań medycznych wszystkich zawodników, w tym rezonansu magnetycznego stawów skokowych i kolanowych, co wskazuje na dążenie do pełnej gotowości zespołu.
+    *   W poprzednim sezonie Wojciech Tomaszewski zmagał się z kontuzjami, jednak na dzień 2026-08-23 brak jest informacji o jego aktualnej niedyspozycji.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [✅ ZATWIERDZONY] (Zespół wydaje się być w pełni przygotowany do sezonu, bez zgłoszonych kluczowych braków w składzie koszykarskim na dzień dzisiejszy).
+
+---
