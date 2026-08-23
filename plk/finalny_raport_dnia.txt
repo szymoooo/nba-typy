@@ -1,21 +1,12 @@
---- AUDYT PLK LIVE (2026-08-23 09:27 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-08-23 09:59 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
-Dzisiejsza data: 2026-08-23. Analiza dotyczy finałowego meczu PLK sezonu 2025/2026, który odbył się 2026-06-21. Był to siódmy, decydujący mecz finałowej serii, rozegrany w Warszawie.
+1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Michał Kolenda, kluczowy zawodnik, na początku sierpnia 2026 przechodził rehabilitację po kontuzji. Mathieu Wojciechowski został sprowadzony jako uzupełnienie składu w związku z jego niedostępnością. Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-23.
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate, który w lutym 2026 doznał kontuzji dłoni kończącej sezon 2025/2026, nie znajduje się w składzie drużyny na sezon 2026/2027. Filip Matczak zgłaszał dolegliwości związane ze starą kontuzją na początku czerwca 2026, jednak brak aktualnych informacji o jego niedyspozycji na 2026-08-23; zespół rozpoczął przygotowania do sezonu z naciskiem na zdrowie zawodników.
 
----
+2.  **Aktualna forma top scorerów:**
+    *   brak danych z API dla tego zespołu.
 
-**Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa**
-📍 Hala OSiR Warszawa Bemowo, Warszawa, ul. Obrońców Tobruku 40.
-➡️ Typ z PulsBasketu: Legia Warszawa
-
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)**
-    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim.
-    *   **ORLEN Zastal Zielona Góra**: Phil Fayne powracał po kontuzji, a Dwight Wilson odczuwał skutki urazu kostki, jednak normalnie uczestniczył w treningach przed finałową serią, co sugeruje ich dostępność w meczu. Brak informacji o innych istotnych kontuzjach lub zawieszeniach.
-
-2.  **Aktualna forma top scorerów (na podstawie danych z 7. meczu finału)**
-    *   **Legia Warszawa**: W 7. meczu finału najwięcej punktów dla Legii zdobyli: Andrzej Pluta (15 Pkt), Dominic Brewton (11 Pkt), Race Thompson (11 Pkt) i Shane Hunter (10 Pkt). W sezonie 2025/2026 do czołowych strzelców Legii należeli Dominic Brewton (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
-    *   **ORLEN Zastal Zielona Góra**: W 7. meczu finału najlepsi strzelcy Zastalu to: Andy Mazurczak (10 Pkt), Jayvon Maughmer (10 Pkt) i Chavaughn Lewis (10 Pkt). W sezonie 2025/2026 liderami punktowymi Zastalu byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
-
-3.  **Werdykt: [✅ ZATWIERDZONY]**
-    Legia Warszawa zwyciężyła w 7. meczu finału Orlen Basket Ligi 78:70, zdobywając tytuł Mistrza Polski. Mecz odbył się na własnym parkiecie Legii, co w decydującym spotkaniu play-off stanowiło istotną przewagę. Biorąc pod uwagę wynik meczu, typ na Legię Warszawa był prawidłowy.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Legia Warszawa, choć jest obrońcą tytułu i aktywnie wzmacniała skład na nadchodzący sezon 2026/2027, musi radzić sobie z rehabilitacją Michała Kolendy. Mimo transferów mających na celu jego zastąpienie, brak kluczowego gracza, który nie jest w pełni formy, wprowadza element ryzyka. Zastal Zielona Góra, wicemistrz Polski, również buduje mocny skład, co dodatkowo zwiększa niepewność.
