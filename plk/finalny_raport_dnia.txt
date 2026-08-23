@@ -1,12 +1,12 @@
---- AUDYT PLK LIVE (2026-08-23 09:59 CET) ---
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+--- AUDYT PLK LIVE (2026-08-23 10:25 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Michał Kolenda, kluczowy zawodnik, na początku sierpnia 2026 przechodził rehabilitację po kontuzji. Mathieu Wojciechowski został sprowadzony jako uzupełnienie składu w związku z jego niedostępnością. Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-23.
-    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate, który w lutym 2026 doznał kontuzji dłoni kończącej sezon 2025/2026, nie znajduje się w składzie drużyny na sezon 2026/2027. Filip Matczak zgłaszał dolegliwości związane ze starą kontuzją na początku czerwca 2026, jednak brak aktualnych informacji o jego niedyspozycji na 2026-08-23; zespół rozpoczął przygotowania do sezonu z naciskiem na zdrowie zawodników.
+1.  **Kluczowe braki w składach (2026-08-23):**
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim. W lutym 2026 roku Sagaba Konate doznał kontuzji dłoni, która wykluczyła go z reszty sezonu 2025/2026. Jednakże, jego obecność w aktualnych składach na sezon 2026/2027 nie jest potwierdzona na oficjalnej stronie klubu, a jego odejście (lub brak przedłużenia kontraktu) jest prawdopodobne, biorąc pod uwagę brak w zaktualizowanym składzie i informację o transferach. Brak nowych, potwierdzonych informacji o kontuzjach koszykarzy z dnia 2026-08-23.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Koszykarze Legii Warszawa rozpoczęli przygotowania do sezonu 2026/2027 w sierpniu, przechodząc testy medyczne i motoryczne, jednak nie zgłoszono żadnych nowych kontuzji wpływających na obecną dostępność zawodników. Informacje o kontuzjach piłkarzy (np. Jakuba Żewłakowa) są nieistotne dla sekcji koszykarskiej.
 
 2.  **Aktualna forma top scorerów:**
-    *   brak danych z API dla tego zespołu.
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Legia Warszawa, choć jest obrońcą tytułu i aktywnie wzmacniała skład na nadchodzący sezon 2026/2027, musi radzić sobie z rehabilitacją Michała Kolendy. Mimo transferów mających na celu jego zastąpienie, brak kluczowego gracza, który nie jest w pełni formy, wprowadza element ryzyka. Zastal Zielona Góra, wicemistrz Polski, również buduje mocny skład, co dodatkowo zwiększa niepewność.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Analizowany typ na dzień 2026-06-21 przewidywał zwycięstwo Legii Warszawa. Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 w decydującym, siódmym meczu finału PLK sezonu 2025/2026, zdobywając tytuł Mistrza Polski. Typ był trafny.
