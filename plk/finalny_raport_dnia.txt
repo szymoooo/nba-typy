@@ -1,23 +1,24 @@
---- AUDYT PLK LIVE (2026-08-23 01:52 CET) ---
-Analiza meczu koszykówki PLK na dzień 2026-08-23:
+--- AUDYT PLK LIVE (2026-08-23 04:21 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa) na dzień 2026-08-23:
 
----
+**ORLEN Zastal Zielona Góra**
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na start przygotowań do sezonu 2026/27. Sagaba Konate doznał poważnej kontuzji nadgarstka w lutym 2026, która wykluczyła go z reszty sezonu 2025/26. Nie ma jednak aktualnych informacji o jego statusie na sezon 2026/27. Minorne urazy Filipa Matczaka, Dwighta Wilsona i Andrzeja Mazurczaka z czerwca 2026 nie mają potwierdzenia ich dalszej niedostępności na dzień dzisiejszy (2026-08-23).
+2.  **Aktualna forma top scorerów:**
+    *   Conley Garrison: Kluczowy rozgrywający, który zostaje w zespole. W sezonie 2025/26 notował średnio 10,9 punktu, 3,8 zbiórki i 5,2 asysty.
+    *   Trazarien White: Nowy transfer, zawodnik z pozycji 2/3, określany jako "slasher" z dużym potencjałem punktowym. W australijskiej drugiej lidze notował średnio 24,3 punktu na mecz.
+    *   Chavaughn Lewis (15.8 Pkt/mecz w sezonie 2025/26), Jakub Szumert (13.2 Pkt/mecz w sezonie 2025/26), Andrzej Mazurczak (11.8 Pkt/mecz w sezonie 2025/26) – byli czołowymi strzelcami w poprzednim sezonie, zakładając ich utrzymanie w składzie i dobrą formę w pre-sezonie.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
 
-1.  **Kluczowe braki w składach (koszykarze)** 🩹:
-    *   **Legia Warszawa**:
-        *   Shane Hunter (transfer do Maccabi Tel Aviv na sezon 2026/27).
-        *   Kristrs Zoriks, György Golomán, Markus Ilver (powołania do reprezentacji narodowych na mecze kwalifikacyjne do mistrzostw świata; Ilver grał dla Estonii 21 sierpnia 2026). Ich dostępność dla klubu na mecz 23 sierpnia jest wysoce wątpliwa ze względu na obowiązki reprezentacyjne.
-    *   **ORLEN Zastal Zielona Góra**:
-        *   Dwight Wilson III (transfer do KB Peja).
-        *   Brak istotnych braków w składzie koszykarskim wynikających z kontuzji potwierdzonych na dzień 2026-08-23. Poprzednie urazy (np. Sagaba Konate, Filip Matczak) nie mają aktualnych raportów na ten dzień.
+**Legia Warszawa**
 
-2.  **Aktualna forma top scorerów** 🔥:
-    *   **Legia Warszawa**: Brak danych z API dla tego zespołu na temat aktualnej formy strzeleckiej w serii. Kluczowi zawodnicy z sezonu 2025/2026 to m.in. Jayvon Graves, Andrzej Pluta, Michał Kolenda, Carl Ponsar.
-    *   **ORLEN Zastal Zielona Góra**: Brak danych z API dla tego zespołu na temat aktualnej formy strzeleckiej w serii. W sezonie 2025/2026 wiodącymi strzelcami byli: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
-
-3.  **Werdykt**: ⚠️ RYZYKOWNY
-    *   Oba zespoły są w okresie przygotowawczym do sezonu 2026/27 (Legia rozpoczęła przygotowania 14 sierpnia, a Zastal ma pierwszy sparing 29 sierpnia).
-    *   Legia Warszawa ma kilku kluczowych zawodników (Kristrs Zoriks, György Golomán, Markus Ilver) powołanych do reprezentacji narodowych na mecze kwalifikacyjne do mistrzostw świata, co znacząco osłabia zespół w okresie przygotowawczym i stawia pod znakiem zapytania ich obecność w meczu klubowym na dzień 23 sierpnia.
-    *   Choć Legia Warszawa jest aktualnym mistrzem Polski, a Zastal zdobył srebrny medal w sezonie 2025/2026, liczne braki w składzie Legii związane z obowiązkami reprezentacyjnymi w okresie pre-season czynią typ na Legię ryzykownym, jeśli mecz miałby się odbyć 23 sierpnia.
+1.  **Kluczowe braki w składach:**
+    *   Michał Kolenda 🤕: Kapitan zespołu, przechodzi rehabilitację po kontuzji. Jego niedyspozycja doprowadziła do zakontraktowania Mathieu Wojciechowskiego.
+    *   Markus Ilver, György Goloman, Kristers Zoriks ✈️: Są na zgrupowaniach swoich reprezentacji narodowych i opuszczą pierwsze mecze kontrolne Legii w pre-sezonie. Ich dostępność na ewentualne spotkanie w najbliższym czasie byłaby ograniczona.
+    *   Andrzej Pluta i Maksymilian Wilczek: Odeszli z klubu.
+2.  **Aktualna forma top scorerów:**
+    *   Dominic Brewton: Jeden z kluczowych zawodników w mistrzowskiej kampanii, pozostaje w zespole.
+    *   Jakub Andrzejewski: Nowy transfer z I Ligi, utalentowany zawodnik, który w poprzednim sezonie notował średnio 10,2 punktu i 2,5 zbiórki na mecz.
+    *   Mathieu Wojciechowski: Doświadczony zawodnik, który wraca do PLK, sprowadzony na trzy miesiące jako uzupełnienie składu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
