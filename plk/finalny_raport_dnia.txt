@@ -1,25 +1,24 @@
---- AUDYT PLK LIVE (2026-08-23 19:13 CET) ---
-Analiza meczu koszykówki PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa
-Data typowania: 2026-06-21
-Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-24 01:53 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+
+📆 Data audytu: 2026-08-24
+🗓️ Data przewidywanego meczu (z kontekstu): 2026-06-21
 
 ---
 
-### **ORLEN Zastal Zielona Góra**
-1.  **Kluczowe braki w składzie koszykarskim:**
-    *   Dwight Wilson III opuścił klub 5 sierpnia 2026 roku, przenosząc się do kosowskiego zespołu KB Peja i nie jest już częścią składu Zastalu.
-    *   Brak potwierdzonych, aktualnych kontuzji na dzień 2026-08-23. W marcu 2026 roku informowano o niedostępności Filipa Matczaka, jednak brak jest aktualizacji jego statusu na dzień dzisiejszy; jego nazwisko znajduje się w składzie na sezon 2026/2027.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] (Utrata Dwighta Wilsona III, choć nie jest kontuzją, osłabia zespół. Niepewność co do formy i braki danych utrudniają pełną ocenę).
+**ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-08-24. Brak nowych informacji o kontuzjach Sagaby Konate (uraz z lutego 2026) oraz Filipa Matczaka i Dwighta Wilsona (doniesienia z czerwca 2026) na dzień dzisiejszy.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Zastal, jako wicemistrz Polski z poprzedniego sezonu (2025/2026), zdołał utrzymać kluczowych graczy, takich jak Andrzej Mazurczak i Conley Garrison. Wzmocnił również skład nowymi nabytkami, w tym Toyazem "Tayem" Solomonem i Gauthierem Denisem, którzy dołączyli do zespołu w lipcu i sierpniu 2026 roku.
 
----
-
-### **Legia Warszawa**
-1.  **Kluczowe braki w składzie koszykarskim:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-08-23.
-    *   Przygotowania do sezonu 2026/2027 rozpoczęły się od szczegółowych badań medycznych wszystkich zawodników, w tym rezonansu magnetycznego stawów skokowych i kolanowych, co wskazuje na dążenie do pełnej gotowości zespołu.
-    *   W poprzednim sezonie Wojciech Tomaszewski zmagał się z kontuzjami, jednak na dzień 2026-08-23 brak jest informacji o jego aktualnej niedyspozycji.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY] (Zespół wydaje się być w pełni przygotowany do sezonu, bez zgłoszonych kluczowych braków w składzie koszykarskim na dzień dzisiejszy).
-
----
+**Legia Warszawa**
+1.  **Kluczowe braki w składach:**
+    *   Na dzień 2026-08-24, trzech zawodników Legii Warszawa – Markus Ilver (Estonia), György Goloman (Węgry) i Kristers Zoriks (Łotwa) – jest powołanych do reprezentacji narodowych i nie weźmie udziału w pierwszych meczach kontrolnych Legii w sierpniu 2026. Ich absencja osłabiłaby skład Legii, gdyby mecz miał odbyć się w obecnym terminie.
+    *   Legia, choć jest aktualnym mistrzem Polski (sezon 2025/2026), straciła kilku kluczowych zawodników z mistrzowskiego składu, w tym MVP Andrzeja Plutę, Jayvona Gravesa i Maksymiliana Wilczka, którzy opuścili klub przed sezonem 2026/27. Zespół przeszedł znaczącą rewolucję kadrową, dokonując nowych transferów (np. Mathieu Wojciechowski, Jakub Andrzejewski, Szymon Tomczak).
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Biorąc pod uwagę znaczące zmiany kadrowe w Legii Warszawa (odejścia kluczowych graczy i potrzebę zgrania nowych nabytków) oraz obecne absencje zawodników na zgrupowaniach reprezentacyjnych (stan na 2026-08-24), pierwotny typ na zwycięstwo Legii Warszawa jest ryzykowny. Zastal zachował trzon zespołu i również się wzmocnił.
