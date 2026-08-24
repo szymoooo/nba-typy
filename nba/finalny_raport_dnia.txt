@@ -1,18 +1,22 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-23 19:52 ET) ---
-Analiza meczu na podstawie danych ze STYCZNIA 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-08-23 22:19 ET) ---
+Na podstawie danych z 2026-08-23 i informacji dotyczących stycznia 2026:
 
-**Heat @ Raptors**
-*   **Kluczowe braki w składach (stan na Styczeń 2026):**
+**Heat @ Raptors** -> Typ: Raptors
+
+*   **Kluczowe braki w składach (Styczeń 2026):**
     *   **Miami Heat:**
-        *   Tyler Herro (Out - uraz żebra/palca u nogi)
-        *   Davion Mitchell (Out - stłuczenie barku)
-        *   Kel'el Ware (Out - mięsień dwugłowy uda)
-        *   Jaime Jaquez Jr. (Questionable - skręcenie lewego kolana)
+        *   Tyler Herro (często OUT - uraz żeber/palca) 🤕
+        *   Terry Rozier (często OUT - powody osobiste/nieobecny w drużynie) 🚫
+        *   Davion Mitchell (często Questionable/OUT - uraz barku) ❓
+        *   Jaime Jaquez Jr. (czasem Questionable - skręcenie kolana) ❓
     *   **Toronto Raptors:**
-        *   RJ Barrett (Out - kontuzja kostki)
-        *   Ja'Kobe Walter (Out - kontuzja kostki)
-        *   Jakob Poeltl (Out - problem z plecami)
-        *   Brandon Ingram (Questionable - problem z kciukiem/palcem)
-        *   Scottie Barnes (Questionable - skręcenie prawego kolana/kontuzja kolana)
+        *   RJ Barrett (często OUT - skręcenie kostki) 🤕
+        *   Jakob Poeltl (często OUT - problem z plecami) 🤕
+        *   Brandon Ingram (często Questionable - uraz kciuka) ❓
+        *   Scottie Barnes (często Questionable - skręcenie prawego kolana) ❓
+        *   Raporty ze stycznia 2026 wskazywały na "piętrzące się kontuzje" w Raptors, z "około 80 procentami wyjściowego składu niedostępnymi lub grającymi znacznie poniżej pełnej sprawności".
 
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny miały w styczniu 2026 roku znaczące braki w składach, co czyni wynik tego meczu wysoce niepewnym.
+*   **Brak aktualnych raportów (Injury Report) na tę chwilę.** Na dzień 2026-08-23 nie ma raportów o kontuzjach dla meczów NBA, ponieważ sezon NBA nie jest rozgrywany w sierpniu.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   W styczniu 2026 roku Toronto Raptors zmagali się z licznymi i poważnymi kontuzjami kluczowych graczy, co stawiało ich w bardzo trudnej sytuacji kadrowej. Pomimo braków w składzie Miami Heat, skala problemów Raptors czyni ten typ wysoce ryzykownym.

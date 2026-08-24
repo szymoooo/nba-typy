@@ -1,24 +1,31 @@
---- AUDYT PLK LIVE (2026-08-24 01:53 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-24 04:19 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu z kontekstu: 2026-06-21, analiza na podstawie danych z 2026-08-24):
 
-📆 Data audytu: 2026-08-24
-🗓️ Data przewidywanego meczu (z kontekstu): 2026-06-21
+Hala: OSiR Bemowo, Warszawa.
 
----
+### ORLEN Zastal Zielona Góra
 
-**ORLEN Zastal Zielona Góra**
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-08-24. Brak nowych informacji o kontuzjach Sagaby Konate (uraz z lutego 2026) oraz Filipa Matczaka i Dwighta Wilsona (doniesienia z czerwca 2026) na dzień dzisiejszy.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Zastal, jako wicemistrz Polski z poprzedniego sezonu (2025/2026), zdołał utrzymać kluczowych graczy, takich jak Andrzej Mazurczak i Conley Garrison. Wzmocnił również skład nowymi nabytkami, w tym Toyazem "Tayem" Solomonem i Gauthierem Denisem, którzy dołączyli do zespołu w lipcu i sierpniu 2026 roku.
+1.  **Kluczowe braki w składach**:
+    *   Miłosz Majewski: Lekki zabieg kolana, tygodniowa przerwa od treningów z drużyną (stan na 2026-08-24).
+    *   Brak innych istotnych braków w składzie koszykarskim.
 
-**Legia Warszawa**
-1.  **Kluczowe braki w składach:**
-    *   Na dzień 2026-08-24, trzech zawodników Legii Warszawa – Markus Ilver (Estonia), György Goloman (Węgry) i Kristers Zoriks (Łotwa) – jest powołanych do reprezentacji narodowych i nie weźmie udziału w pierwszych meczach kontrolnych Legii w sierpniu 2026. Ich absencja osłabiłaby skład Legii, gdyby mecz miał odbyć się w obecnym terminie.
-    *   Legia, choć jest aktualnym mistrzem Polski (sezon 2025/2026), straciła kilku kluczowych zawodników z mistrzowskiego składu, w tym MVP Andrzeja Plutę, Jayvona Gravesa i Maksymiliana Wilczka, którzy opuścili klub przed sezonem 2026/27. Zespół przeszedł znaczącą rewolucję kadrową, dokonując nowych transferów (np. Mathieu Wojciechowski, Jakub Andrzejewski, Szymon Tomczak).
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Biorąc pod uwagę znaczące zmiany kadrowe w Legii Warszawa (odejścia kluczowych graczy i potrzebę zgrania nowych nabytków) oraz obecne absencje zawodników na zgrupowaniach reprezentacyjnych (stan na 2026-08-24), pierwotny typ na zwycięstwo Legii Warszawa jest ryzykowny. Zastal zachował trzon zespołu i również się wzmocnił.
+2.  **Aktualna forma top scorerów (sezon 2025/2026)**:
+    *   Chavaughn Lewis (15.8 Pkt/mecz) - Brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
+    *   Jakub Szumert (13.2 Pkt/mecz) - Brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
+    *   Andrzej Mazurczak (11.8 Pkt/mecz) - Kapitan zespołu, brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
+
+### Legia Warszawa
+
+1.  **Kluczowe braki w składach**:
+    *   Brak istotnych braków w składzie koszykarskim. Zawodnicy Legii rozpoczęli przygotowania do sezonu 2026/27, przechodząc szczegółowe badania medyczne i testy motoryczne, bez zgłoszonych poważnych urazów.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026)**:
+    *   Dominic Brewton III (14.5 Pkt/mecz) - Brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
+    *   Andrzej Pluta (13.4 Pkt/mecz) - Brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
+    *   Jayvon Graves (12.8 Pkt/mecz) - Brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
+
+### Werdykt
+
+Z uwagi na niewielką, ale potwierdzoną niedyspozycję Miłosz Majewskiego w zespole Zastalu, wynik meczu może być minimalnie ryzykowny dla typu na Legię, choć nie jest to kontuzja kluczowego lidera. Legia rozpoczyna sezon z pełnym składem i po szczegółowych badaniach.
+
+**Werdykt:** [⚠️ RYZYKOWNY]
