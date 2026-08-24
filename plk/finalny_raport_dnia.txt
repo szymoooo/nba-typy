@@ -1,22 +1,16 @@
---- AUDYT PLK LIVE (2026-08-24 09:30 CET) ---
-Analiza meczu PLK na dzień 2026-06-21 (audyt z perspektywy 2026-08-24):
+--- AUDYT PLK LIVE (2026-08-24 10:23 CET) ---
+Analiza meczu koszykówki PLK na dzień 2026-08-24:
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa (przewidywanie z 2026-06-21)
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach (na dzień 2026-06-21):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate: Zakończył sezon 2025/2026 w lutym 2026 z powodu kontuzji dłoni i był niedostępny na finały.
-        *   Filip Matczak: Odczuwał dolegliwości związane ze starą kontuzją w czerwcu 2026, tuż przed meczami finałowymi.
-        *   Dwight Wilson: Mimo problemów z kostką, trenował w kontakcie i grał w czerwcu 2026.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-21. Informacja o rehabilitacji Michała Kolendy pojawia się w sierpniu 2026 i nie wskazuje, aby był niedostępny na finały w czerwcu 2026.
+1.  **Kluczowe braki w składach (stan na 2026-08-24):**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Podkoszowy Sagaba Konate doznał poważnej kontuzji dłoni w lutym 2026 roku, która zakończyła jego poprzedni sezon, ale nie jest wymieniony w obecnych informacjach o składzie na sezon 2026/2027, co sugeruje jego odejście lub brak powrotu do zespołu.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów (na dzień 2026-06-21):**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów:**
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu. Conley Garrison, który pozostaje w zespole na sezon 2026/2027, w poprzednich rozgrywkach (2025/2026) notował średnio 10.9 punktu, 3.8 zbiórki i 5.2 asysty w 44 meczach. Nowi gracze, tacy jak Toyaz Solomon i Trazarien White, są opisywani jako zawodnicy z potencjałem ofensywnym.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu. Legia pozyskała kilku zawodników z dobrymi statystykami strzeleckimi z poprzednich lig, m.in. Węgier Gyorgy Goloman (średnio 8 punktów w 25 meczach hiszpańskiej ligi ACB) oraz Amerykanin Zach Freemantle (średnio 13.7 punktu w G-League). Kapitan Michał Kolenda pozostaje kluczowym elementem ofensywnym Legii.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz z 21 czerwca 2026 był finałowym spotkaniem sezonu 2025/2026, w którym Legia Warszawa ostatecznie zdobyła tytuł Mistrza Polski.
-    *   Legia przystępowała do decydującego starcia bez zgłoszonych kluczowych kontuzji.
-    *   Zastal borykał się z poważnym osłabieniem w postaci kontuzjowanego Sagaby Konate, a także problemami zdrowotnymi Filipa Matczaka i Dwighta Wilsona, co mogło wpływać na ich dyspozycję w kluczowym momencie sezonu.
-    *   W związku z tym, typ na zwycięstwo Legii Warszawa był uzasadniony.
+3.  **Werdykt:**
+    *   Historycznie, typ "Legia Warszawa" na mecz z 2026-06-21 okazał się ✅ **ZATWIERDZONY**, ponieważ Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując w finale ORLEN Zastal Zielona Góra.
+    *   Analizując składy i transfery na dzień dzisiejszy (2026-08-24), Legia Warszawa, jako aktualny mistrz, dokonała znaczących wzmocnień na sezon 2026/2027, pozyskując kilku czołowych graczy międzynarodowych oraz utrzymując trzon polskiego składu, z ambicjami na trzeci z rzędu tytuł mistrzowski i lepszą grę w Basketball Champions League. ORLEN Zastal Zielona Góra również wzmocnił swój skład, ale Legia wydaje się być zbudowana na utrzymanie dominacji. Wobec braku kluczowych kontuzji w obu drużynach na dzień dzisiejszy, typ na Legię Warszawa pozostaje ✅ **ZATWIERDZONY** jako silny faworyt.
