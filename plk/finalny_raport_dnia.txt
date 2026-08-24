@@ -1,40 +1,29 @@
---- AUDYT PLK LIVE (2026-08-24 10:43 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu w typie: 2026-06-21, data audytu: 2026-08-24).
+--- AUDYT PLK LIVE (2026-08-24 11:27 CET) ---
+Analizuję mecz ORLEN Zastal Zielona Góra vs. Legia Warszawa, bazując na aktualnych informacjach z dnia 2026-08-24, mimo że data meczu w kontekście (2026-06-21) jest przeszła. Przyjmuję, że celem jest ocena siły obu zespołów i trafności pierwotnego typu w oparciu o ich *obecny* stan.
 
 ---
 
-**ORLEN Zastal Zielona Góra**
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
-    *   🤕 Sagaba Konate: Doznał awulsyjnego uszkodzenia więzadła SL nadgarstka w lutym 2026 roku, co zakończyło dla niego sezon 2025/2026. Jego powrót na początek sezonu 2026/2027 jest wysoce nieprawdopodobny z uwagi na powagę urazu.
-    *   ❌ Dwight Wilson III: Przeniósł się do KB Peja.
-    *   ❌ Jayvon Maughmer: Przeniósł się do Elan Béarnais Pau-Lacq-Orthez.
-    *   Roster na sezon 2026/2027 obejmuje m.in. Kubę Galewskiego, Andrzeja Mazurczaka, Conleya Garrisona, Filipa Matczaka, Trazariena White'a (nowy transfer) i Gauthiera Denisa (nowy transfer).
+### **ORLEN Zastal Zielona Góra @ Legia Warszawa**
+*Typ PulsBasketu: Legia Warszawa*
+
+1.  **Kluczowe braki w składach:**
+
+    *   **ORLEN Zastal Zielona Góra:**
+            *   Sagaba Konate, środkowy Zastalu, doznał poważnej kontuzji nadgarstka (awulsyjne uszkodzenie więzadła SL) w lutym 2026 roku, co wykluczyło go z gry na resztę sezonu 2025/2026. Ponieważ mówimy o dacie 2026-08-24, nowy sezon 2026/2027 dopiero się rozpoczyna. Brak jest aktualnych informacji o jego powrocie do pełnej sprawności na ten moment.
+    *   Filip Matczak i Jakub Szumert byli kontuzjowani w lutym 2026, ale brak jest informacji o ich obecnym statusie na 2026-08-24.
+    *   Gauthier Denis dołączył do Zastalu, a Veljko Brkić wrócił do składu na sezon 2026/2027.
+    *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-24.
+
+    *   **Legia Warszawa:**
+            *   Legia Warszawa rozpoczęła przygotowania do sezonu 2026/2027.
+    *   Mathieu Wojciechowski (33 lata, 203 cm) wrócił do Legii Warszawa w sierpniu 2026 roku.
+    *   Markus Ilver (Estonia), György Goloman (Węgry) i Kristers Zoriks (Łotwa) otrzymali powołania do swoich reprezentacji na mecze kwalifikacyjne do mistrzostw świata i są niedostępni na pierwsze mecze kontrolne Legii pod koniec sierpnia. To może oznaczać ich brak w składzie na początku sezonu, ale dla hipotetycznego meczu w dniu dzisiejszym (2026-08-24) są na zgrupowaniach.
+    *   W grudniu 2025 roku Legia borykała się z kontuzjami, w tym dłuższe przerwy mieli Michał Kolenda i Matthias Tass. Ojars Silins i Matthias Tass byli także poza składem na początku grudnia 2025. Brak jest aktualnych informacji o ich statusie na 2026-08-24, co oznacza, że w kontekście bieżącej daty uznaje się ich za dostępnych, chyba że pojawiłyby się świeże doniesienia.
     *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-24.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+    *   Brak danych z API dla tego zespołu w kontekście "w serii". Sezon 2026/2027 dopiero się rozpoczyna, a wymieniony mecz jest datowany na czerwiec 2026.
 
----
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
 
-**Legia Warszawa**
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
-    *   🤕 Michał Kolenda: Jest w trakcie rehabilitacji. Mathieu Wojciechowski został pozyskany jako uzupełnienie składu w związku z jego niedostępnością.
-    *   ❌ Dominic Brewton: Kluczowy zawodnik z poprzedniego sezonu przeniósł się do Izraela.
-    *   🇪🇪🇭🇺🇱🇻 Markus Ilver, György Goloman, Kristers Zoriks: Przebywają na zgrupowaniach reprezentacji narodowych i opuszczą pierwsze gry kontrolne w przygotowaniach do sezonu 2026/2027.
-    *   Koszykarze Legii rozpoczęli przygotowania do sezonu 2026/2027 w sierpniu.
-    *   Roster na sezon 2026/2027 obejmuje m.in. Błażeja Czaplę, Andrzeja Plutę, Dominica Brewtona (choć odszedł, był wymieniany w lipcu w kadrze), Wojciecha Tomaszewskiego, Tytusa Antoniuka, Michała Kolendę (kontuzjowany), Jayvona Gravesa, Krzysztofa Antosika. Nowi zawodnicy to m.in. Zach Freemantle, Michael Christmas, Devon Daniels, Mathieu Wojciechowski.
-    *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-24.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
----
-
-**Werdykt dla ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa):**
-
-*   Legia Warszawa jest aktualnym podwójnym mistrzem Polski.
-*   Mecz, którego dotyczy typ (2026-06-21), był finałem ORLEN Basket Ligi, Game 7, który Legia Warszawa wygrała.
-*   Obie drużyny na dzień 2026-08-24 są w fazie przygotowań do nowego sezonu 2026/2027 i mają zmiany w składach. Legia, mimo odejść i obecnych absencji (kontuzja Kolendy, zawodnicy na kadrach), aktywnie buduje silny zespół. Zastal również ma odejścia i poważną, długoterminową kontuzję kluczowego gracza (Konate).
-*   Biorąc pod uwagę fakt, że Legia Warszawa obroniła tytuł mistrzowski w meczu, którego dotyczył typ, oraz że w okresie letnim, mimo zmian, nadal prezentuje się jako jeden z czołowych zespołów PLK, przewidywanie jej zwycięstwa, nawet z perspektywy off-season, jest uzasadnione.
-
-Werdykt: [✅ ZATWIERDZONY]
+    *   **Uzasadnienie:** Data meczu (2026-06-21) jest sprzeczna z dzisiejszą datą analizy (2026-08-24). Sezon 2025/2026 już się zakończył, a sezon 2026/2027 dopiero się rozpoczyna. Nowe transfery (np. Mathieu Wojciechowski w Legii, Gauthier Denis i powrót Veljko Brkicia w Zastalu) oraz potencjalne braki kadrowiczów w Legii mają znaczenie dla obecnej siły zespołów, ale nie dla meczu, który rzekomo odbył się dwa miesiące temu. Kontuzja Sagaby Konate z lutego 2026 była istotna dla sezonu 2025/2026, ale jego status na 2026-08-24 wciąż nie jest jasno określony, a nawet jeśli byłby w pełni zdrowy, nie miałoby to wpływu na mecz z czerwca. Analiza "typu" dla przeszłego meczu w oparciu o przyszłe składy i braki jest ryzykowna i niezgodna z logiką sportową. Brak danych o formie top scorerów w "serii" dodatkowo osłabia możliwość rzetelnej oceny.
