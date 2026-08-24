@@ -1,31 +1,27 @@
---- AUDYT PLK LIVE (2026-08-24 05:27 CET) ---
-Poniżej znajduje się analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, bazująca na aktualnych informacjach z dnia 2026-08-24.
+--- AUDYT PLK LIVE (2026-08-24 08:06 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21, audyt na 2026-08-24)
 
 ---
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
-
-*   **Typ z PulsBasketu:** Legia Warszawa (Mecz odbył się 21.06.2026)
+**ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składach:**
+    *   ❌ **Sagaba Konate:** Poważna kontuzja nadgarstka (uszkodzenie więzadła SL) od lutego 2026 roku, która wykluczyła go z reszty sezonu 2025/2026. Nie figuruje w obecnym składzie na sezon 2026/2027 na oficjalnej stronie klubu, co wskazuje na jego niedostępność lub opuszczenie zespołu.
+    *   ❌ **Jakub Szumert:** Był kontuzjowany w lutym 2026 roku i nie jest wymieniony w obecnym składzie drużyny na sezon 2026/2027.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] – Zespół boryka się z brakiem dwóch zawodników, a Konate był kluczowym graczem. Brak szczegółowych informacji o top scorerach utrudnia pełną ocenę.
 
 ---
 
-#### 1. Kluczowe braki w składach (stan na 24.08.2026)
+**Legia Warszawa**
+1.  **Kluczowe braki w składach:**
+    *   ❌ **Michał Kolenda (kapitan):** Przeszedł planowy zabieg stawu skokowego. Przewidywany czas przerwy od treningów wynosi od 8 do 10 tygodni. Rozpoczął już proces rehabilitacji. Jest to istotny brak w składzie.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] – Kontuzja kapitana, Michała Kolendy, jest znaczącym osłabieniem, które może wpłynąć na wyniki zespołu w najbliższych tygodniach.
 
-*   🏀 **ORLEN Zastal Zielona Góra:**
-    *   Sagaba Konate doznał kontuzji dłoni w lutym 2026, która zakończyła jego sezon 2025/2026. Brak aktualnych informacji o jego statusie powrotu do pełnej sprawności na dzień 24.08.2026, choć nie ma doniesień o kontynuującej niedyspozycji w nowym sezonie.
-    *   Brak innych istotnych braków w składzie koszykarskim zgłoszonych na 24.08.2026.
-*   🏀 **Legia Warszawa:**
-    *   Michał Kolenda przeszedł zabieg, lecz brak aktualnych informacji o dacie powrotu i szczegółowym statusie na 24.08.2026.
-    *   Istnieje pewna niepewność co do statusu Dominica Brewtona – oficjalna strona klubu wymienia go w kadrze na sezon 2026/2027, jednak niektóre doniesienia z sierpnia 2026 sugerują jego odejście.
-    *   Brak innych istotnych braków w składzie koszykarskim zgłoszonych na 24.08.2026.
+---
 
-#### 2. Aktualna forma top scorerów (stan na 24.08.2026)
+**Ogólny werdykt dla typu "Legia Warszawa":** [⚠️ RYZYKOWNY]
 
-*   🏀 **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu. Wiadomo, że na sezon 2026/2027 kluczowymi zawodnikami obwodu są Andrzej Mazurczak i Conley Garrison.
-*   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu. W październiku 2025 Jayvon Graves zdobył 23 punkty w meczu Ligi Mistrzów, co wskazuje na jego potencjał ofensywny.
-
-#### 3. Werdykt
-
-*   **ORLEN Zastal Zielona Góra @ Legia Warszawa:** [✅ ZATWIERDZONY]
-    *   Mecz, którego dotyczył typ z PulsBasketu, był siódmym meczem finału PLK sezonu 2025/2026, rozegranym 21.06.2026. Legia Warszawa wygrała to spotkanie, zdobywając Mistrzostwo Polski. Tym samym historyczny typ był trafny.
-    *   Analizując hipotetyczne spotkanie w dniu 24.08.2026 (faza przygotowań do sezonu 2026/2027), obie drużyny poczyniły transfery. Legia Warszawa ma pewne niewiadome dotyczące stanu zdrowia Michała Kolendy i statusu Dominica Brewtona. Jednak brak potwierdzonych, długoterminowych kontuzji, które znacząco osłabiłyby którąś z drużyn na tle drugiej. Oczekuje się, że obie ekipy będą w trakcie przygotowań do nadchodzącego sezonu, włączając w to turniej o Superpuchar Polski we wrześniu.
+Zarówno Legia, jak i Zastal mają istotne braki kadrowe lub zawodników, którzy nie figurują w obecnych składach, co wpływa na ocenę ich siły. Kontuzja kapitana Legii, Michała Kolendy, jest szczególnie dotkliwa. Brak danych o bieżącej formie strzelców dodatkowo zwiększa niepewność. Typ na Legię Warszawa, z uwagi na aktualne braki w składzie, niesie ze sobą podwyższone ryzyko.
