@@ -1,16 +1,40 @@
---- AUDYT PLK LIVE (2026-08-24 10:23 CET) ---
-Analiza meczu koszykówki PLK na dzień 2026-08-24:
+--- AUDYT PLK LIVE (2026-08-24 10:43 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu w typie: 2026-06-21, data audytu: 2026-08-24).
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+---
 
-1.  **Kluczowe braki w składach (stan na 2026-08-24):**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Podkoszowy Sagaba Konate doznał poważnej kontuzji dłoni w lutym 2026 roku, która zakończyła jego poprzedni sezon, ale nie jest wymieniony w obecnych informacjach o składzie na sezon 2026/2027, co sugeruje jego odejście lub brak powrotu do zespołu.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+**ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
+    *   🤕 Sagaba Konate: Doznał awulsyjnego uszkodzenia więzadła SL nadgarstka w lutym 2026 roku, co zakończyło dla niego sezon 2025/2026. Jego powrót na początek sezonu 2026/2027 jest wysoce nieprawdopodobny z uwagi na powagę urazu.
+    *   ❌ Dwight Wilson III: Przeniósł się do KB Peja.
+    *   ❌ Jayvon Maughmer: Przeniósł się do Elan Béarnais Pau-Lacq-Orthez.
+    *   Roster na sezon 2026/2027 obejmuje m.in. Kubę Galewskiego, Andrzeja Mazurczaka, Conleya Garrisona, Filipa Matczaka, Trazariena White'a (nowy transfer) i Gauthiera Denisa (nowy transfer).
+    *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-24.
 
 2.  **Aktualna forma top scorerów:**
-    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu. Conley Garrison, który pozostaje w zespole na sezon 2026/2027, w poprzednich rozgrywkach (2025/2026) notował średnio 10.9 punktu, 3.8 zbiórki i 5.2 asysty w 44 meczach. Nowi gracze, tacy jak Toyaz Solomon i Trazarien White, są opisywani jako zawodnicy z potencjałem ofensywnym.
-    *   **Legia Warszawa:** Brak danych z API dla tego zespołu. Legia pozyskała kilku zawodników z dobrymi statystykami strzeleckimi z poprzednich lig, m.in. Węgier Gyorgy Goloman (średnio 8 punktów w 25 meczach hiszpańskiej ligi ACB) oraz Amerykanin Zach Freemantle (średnio 13.7 punktu w G-League). Kapitan Michał Kolenda pozostaje kluczowym elementem ofensywnym Legii.
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:**
-    *   Historycznie, typ "Legia Warszawa" na mecz z 2026-06-21 okazał się ✅ **ZATWIERDZONY**, ponieważ Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując w finale ORLEN Zastal Zielona Góra.
-    *   Analizując składy i transfery na dzień dzisiejszy (2026-08-24), Legia Warszawa, jako aktualny mistrz, dokonała znaczących wzmocnień na sezon 2026/2027, pozyskując kilku czołowych graczy międzynarodowych oraz utrzymując trzon polskiego składu, z ambicjami na trzeci z rzędu tytuł mistrzowski i lepszą grę w Basketball Champions League. ORLEN Zastal Zielona Góra również wzmocnił swój skład, ale Legia wydaje się być zbudowana na utrzymanie dominacji. Wobec braku kluczowych kontuzji w obu drużynach na dzień dzisiejszy, typ na Legię Warszawa pozostaje ✅ **ZATWIERDZONY** jako silny faworyt.
+---
+
+**Legia Warszawa**
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
+    *   🤕 Michał Kolenda: Jest w trakcie rehabilitacji. Mathieu Wojciechowski został pozyskany jako uzupełnienie składu w związku z jego niedostępnością.
+    *   ❌ Dominic Brewton: Kluczowy zawodnik z poprzedniego sezonu przeniósł się do Izraela.
+    *   🇪🇪🇭🇺🇱🇻 Markus Ilver, György Goloman, Kristers Zoriks: Przebywają na zgrupowaniach reprezentacji narodowych i opuszczą pierwsze gry kontrolne w przygotowaniach do sezonu 2026/2027.
+    *   Koszykarze Legii rozpoczęli przygotowania do sezonu 2026/2027 w sierpniu.
+    *   Roster na sezon 2026/2027 obejmuje m.in. Błażeja Czaplę, Andrzeja Plutę, Dominica Brewtona (choć odszedł, był wymieniany w lipcu w kadrze), Wojciecha Tomaszewskiego, Tytusa Antoniuka, Michała Kolendę (kontuzjowany), Jayvona Gravesa, Krzysztofa Antosika. Nowi zawodnicy to m.in. Zach Freemantle, Michael Christmas, Devon Daniels, Mathieu Wojciechowski.
+    *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-08-24.
+
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+
+---
+
+**Werdykt dla ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa):**
+
+*   Legia Warszawa jest aktualnym podwójnym mistrzem Polski.
+*   Mecz, którego dotyczy typ (2026-06-21), był finałem ORLEN Basket Ligi, Game 7, który Legia Warszawa wygrała.
+*   Obie drużyny na dzień 2026-08-24 są w fazie przygotowań do nowego sezonu 2026/2027 i mają zmiany w składach. Legia, mimo odejść i obecnych absencji (kontuzja Kolendy, zawodnicy na kadrach), aktywnie buduje silny zespół. Zastal również ma odejścia i poważną, długoterminową kontuzję kluczowego gracza (Konate).
+*   Biorąc pod uwagę fakt, że Legia Warszawa obroniła tytuł mistrzowski w meczu, którego dotyczył typ, oraz że w okresie letnim, mimo zmian, nadal prezentuje się jako jeden z czołowych zespołów PLK, przewidywanie jej zwycięstwa, nawet z perspektywy off-season, jest uzasadnione.
+
+Werdykt: [✅ ZATWIERDZONY]
