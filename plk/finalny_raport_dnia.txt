@@ -1,27 +1,22 @@
---- AUDYT PLK LIVE (2026-08-24 08:06 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21, audyt na 2026-08-24)
+--- AUDYT PLK LIVE (2026-08-24 09:30 CET) ---
+Analiza meczu PLK na dzień 2026-06-21 (audyt z perspektywy 2026-08-24):
 
----
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ: Legia Warszawa (przewidywanie z 2026-06-21)
 
-**ORLEN Zastal Zielona Góra**
-1.  **Kluczowe braki w składach:**
-    *   ❌ **Sagaba Konate:** Poważna kontuzja nadgarstka (uszkodzenie więzadła SL) od lutego 2026 roku, która wykluczyła go z reszty sezonu 2025/2026. Nie figuruje w obecnym składzie na sezon 2026/2027 na oficjalnej stronie klubu, co wskazuje na jego niedostępność lub opuszczenie zespołu.
-    *   ❌ **Jakub Szumert:** Był kontuzjowany w lutym 2026 roku i nie jest wymieniony w obecnym składzie drużyny na sezon 2026/2027.
-2.  **Aktualna forma top scorerów:**
+1.  **Kluczowe braki w składach (na dzień 2026-06-21):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate: Zakończył sezon 2025/2026 w lutym 2026 z powodu kontuzji dłoni i był niedostępny na finały.
+        *   Filip Matczak: Odczuwał dolegliwości związane ze starą kontuzją w czerwcu 2026, tuż przed meczami finałowymi.
+        *   Dwight Wilson: Mimo problemów z kostką, trenował w kontakcie i grał w czerwcu 2026.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-06-21. Informacja o rehabilitacji Michała Kolendy pojawia się w sierpniu 2026 i nie wskazuje, aby był niedostępny na finały w czerwcu 2026.
+
+2.  **Aktualna forma top scorerów (na dzień 2026-06-21):**
     *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] – Zespół boryka się z brakiem dwóch zawodników, a Konate był kluczowym graczem. Brak szczegółowych informacji o top scorerach utrudnia pełną ocenę.
 
----
-
-**Legia Warszawa**
-1.  **Kluczowe braki w składach:**
-    *   ❌ **Michał Kolenda (kapitan):** Przeszedł planowy zabieg stawu skokowego. Przewidywany czas przerwy od treningów wynosi od 8 do 10 tygodni. Rozpoczął już proces rehabilitacji. Jest to istotny brak w składzie.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] – Kontuzja kapitana, Michała Kolendy, jest znaczącym osłabieniem, które może wpłynąć na wyniki zespołu w najbliższych tygodniach.
-
----
-
-**Ogólny werdykt dla typu "Legia Warszawa":** [⚠️ RYZYKOWNY]
-
-Zarówno Legia, jak i Zastal mają istotne braki kadrowe lub zawodników, którzy nie figurują w obecnych składach, co wpływa na ocenę ich siły. Kontuzja kapitana Legii, Michała Kolendy, jest szczególnie dotkliwa. Brak danych o bieżącej formie strzelców dodatkowo zwiększa niepewność. Typ na Legię Warszawa, z uwagi na aktualne braki w składzie, niesie ze sobą podwyższone ryzyko.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz z 21 czerwca 2026 był finałowym spotkaniem sezonu 2025/2026, w którym Legia Warszawa ostatecznie zdobyła tytuł Mistrza Polski.
+    *   Legia przystępowała do decydującego starcia bez zgłoszonych kluczowych kontuzji.
+    *   Zastal borykał się z poważnym osłabieniem w postaci kontuzjowanego Sagaby Konate, a także problemami zdrowotnymi Filipa Matczaka i Dwighta Wilsona, co mogło wpływać na ich dyspozycję w kluczowym momencie sezonu.
+    *   W związku z tym, typ na zwycięstwo Legii Warszawa był uzasadniony.
