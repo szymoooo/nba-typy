@@ -1,31 +1,31 @@
---- AUDYT PLK LIVE (2026-08-24 04:19 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu z kontekstu: 2026-06-21, analiza na podstawie danych z 2026-08-24):
+--- AUDYT PLK LIVE (2026-08-24 05:27 CET) ---
+Poniżej znajduje się analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, bazująca na aktualnych informacjach z dnia 2026-08-24.
 
-Hala: OSiR Bemowo, Warszawa.
+---
 
-### ORLEN Zastal Zielona Góra
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-1.  **Kluczowe braki w składach**:
-    *   Miłosz Majewski: Lekki zabieg kolana, tygodniowa przerwa od treningów z drużyną (stan na 2026-08-24).
-    *   Brak innych istotnych braków w składzie koszykarskim.
+*   **Typ z PulsBasketu:** Legia Warszawa (Mecz odbył się 21.06.2026)
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026)**:
-    *   Chavaughn Lewis (15.8 Pkt/mecz) - Brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
-    *   Jakub Szumert (13.2 Pkt/mecz) - Brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
-    *   Andrzej Mazurczak (11.8 Pkt/mecz) - Kapitan zespołu, brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
+---
 
-### Legia Warszawa
+#### 1. Kluczowe braki w składach (stan na 24.08.2026)
 
-1.  **Kluczowe braki w składach**:
-    *   Brak istotnych braków w składzie koszykarskim. Zawodnicy Legii rozpoczęli przygotowania do sezonu 2026/27, przechodząc szczegółowe badania medyczne i testy motoryczne, bez zgłoszonych poważnych urazów.
+*   🏀 **ORLEN Zastal Zielona Góra:**
+    *   Sagaba Konate doznał kontuzji dłoni w lutym 2026, która zakończyła jego sezon 2025/2026. Brak aktualnych informacji o jego statusie powrotu do pełnej sprawności na dzień 24.08.2026, choć nie ma doniesień o kontynuującej niedyspozycji w nowym sezonie.
+    *   Brak innych istotnych braków w składzie koszykarskim zgłoszonych na 24.08.2026.
+*   🏀 **Legia Warszawa:**
+    *   Michał Kolenda przeszedł zabieg, lecz brak aktualnych informacji o dacie powrotu i szczegółowym statusie na 24.08.2026.
+    *   Istnieje pewna niepewność co do statusu Dominica Brewtona – oficjalna strona klubu wymienia go w kadrze na sezon 2026/2027, jednak niektóre doniesienia z sierpnia 2026 sugerują jego odejście.
+    *   Brak innych istotnych braków w składzie koszykarskim zgłoszonych na 24.08.2026.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026)**:
-    *   Dominic Brewton III (14.5 Pkt/mecz) - Brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
-    *   Andrzej Pluta (13.4 Pkt/mecz) - Brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
-    *   Jayvon Graves (12.8 Pkt/mecz) - Brak zgłoszonych kontuzji, uczestniczy w przygotowaniach do sezonu.
+#### 2. Aktualna forma top scorerów (stan na 24.08.2026)
 
-### Werdykt
+*   🏀 **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu. Wiadomo, że na sezon 2026/2027 kluczowymi zawodnikami obwodu są Andrzej Mazurczak i Conley Garrison.
+*   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu. W październiku 2025 Jayvon Graves zdobył 23 punkty w meczu Ligi Mistrzów, co wskazuje na jego potencjał ofensywny.
 
-Z uwagi na niewielką, ale potwierdzoną niedyspozycję Miłosz Majewskiego w zespole Zastalu, wynik meczu może być minimalnie ryzykowny dla typu na Legię, choć nie jest to kontuzja kluczowego lidera. Legia rozpoczyna sezon z pełnym składem i po szczegółowych badaniach.
+#### 3. Werdykt
 
-**Werdykt:** [⚠️ RYZYKOWNY]
+*   **ORLEN Zastal Zielona Góra @ Legia Warszawa:** [✅ ZATWIERDZONY]
+    *   Mecz, którego dotyczył typ z PulsBasketu, był siódmym meczem finału PLK sezonu 2025/2026, rozegranym 21.06.2026. Legia Warszawa wygrała to spotkanie, zdobywając Mistrzostwo Polski. Tym samym historyczny typ był trafny.
+    *   Analizując hipotetyczne spotkanie w dniu 24.08.2026 (faza przygotowań do sezonu 2026/2027), obie drużyny poczyniły transfery. Legia Warszawa ma pewne niewiadome dotyczące stanu zdrowia Michała Kolendy i statusu Dominica Brewtona. Jednak brak potwierdzonych, długoterminowych kontuzji, które znacząco osłabiłyby którąś z drużyn na tle drugiej. Oczekuje się, że obie ekipy będą w trakcie przygotowań do nadchodzącego sezonu, włączając w to turniej o Superpuchar Polski we wrześniu.

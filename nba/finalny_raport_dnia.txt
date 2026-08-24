@@ -1,22 +1,13 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-23 22:19 ET) ---
-Na podstawie danych z 2026-08-23 i informacji dotyczących stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-08-23 23:26 ET) ---
+Analiza typów na dzień 2026-08-23:
 
-**Heat @ Raptors** -> Typ: Raptors
+**Mecz: Heat @ Raptors**
+Typ: Raptors
 
-*   **Kluczowe braki w składach (Styczeń 2026):**
-    *   **Miami Heat:**
-        *   Tyler Herro (często OUT - uraz żeber/palca) 🤕
-        *   Terry Rozier (często OUT - powody osobiste/nieobecny w drużynie) 🚫
-        *   Davion Mitchell (często Questionable/OUT - uraz barku) ❓
-        *   Jaime Jaquez Jr. (czasem Questionable - skręcenie kolana) ❓
-    *   **Toronto Raptors:**
-        *   RJ Barrett (często OUT - skręcenie kostki) 🤕
-        *   Jakob Poeltl (często OUT - problem z plecami) 🤕
-        *   Brandon Ingram (często Questionable - uraz kciuka) ❓
-        *   Scottie Barnes (często Questionable - skręcenie prawego kolana) ❓
-        *   Raporty ze stycznia 2026 wskazywały na "piętrzące się kontuzje" w Raptors, z "około 80 procentami wyjściowego składu niedostępnymi lub grającymi znacznie poniżej pełnej sprawności".
-
-*   **Brak aktualnych raportów (Injury Report) na tę chwilę.** Na dzień 2026-08-23 nie ma raportów o kontuzjach dla meczów NBA, ponieważ sezon NBA nie jest rozgrywany w sierpniu.
-
+*   **Kluczowe braki w składach (dotyczące stycznia 2026):**
+    *   **Miami Heat:** Tyler Herro (Prawdopodobnie poza składem w styczniu 2026 po operacji stopy we wrześniu 2025 z prognozowanym 8-tygodniowym okresem rekonwalescencji).
+    *   **Toronto Raptors:** Brandon Ingram (Kontuzja zgłoszona 8 stycznia 2026). Jakob Poeltl (Problemy z kontuzjami utrzymywały się w grudniu 2025).
+*   **Aktualne raporty (Injury Report) na dzień 2026-08-23:**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Dostępne dane dla Miami Heat z 29 czerwca 2026 oraz dla Toronto Raptors z 23 sierpnia 2026 nie wskazują na obecne kontuzje.
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   W styczniu 2026 roku Toronto Raptors zmagali się z licznymi i poważnymi kontuzjami kluczowych graczy, co stawiało ich w bardzo trudnej sytuacji kadrowej. Pomimo braków w składzie Miami Heat, skala problemów Raptors czyni ten typ wysoce ryzykownym.
+    *   Oceniając ten typ na podstawie danych ze stycznia 2026, zarówno Heat, jak i Raptors borykali się z kluczowymi brakami w składach. Kontuzja Tylera Herro dla Heat oraz Brandona Ingrama i utrzymujące się problemy Jakoba Poeltla dla Raptors sprawiają, że wynik meczu byłby trudny do przewidzenia. Obie drużyny miały osłabione składy, co czyni typowanie Raptors ryzykownym.
