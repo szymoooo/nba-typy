@@ -1,26 +1,21 @@
---- AUDYT PLK LIVE (2026-08-25 10:04 CET) ---
-Analiza meczu PLK z dnia 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-25 10:38 CET) ---
+## PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Matthias Tass był kontuzjowany od grudnia 2025 roku z prognozowaną przerwą "na kilka tygodni, a nawet miesięcy". Nie wystąpił w decydującym meczu finałowym. Race Thompson, mimo wcześniejszego urazu stawu skokowego w półfinałach, zagrał w finale, zdobywając 11 punktów. Michał Kolenda, który wrócił do składu po problemach zdrowotnych w półfinałach, również zagrał w finale.
-    *   **ORLEN Zastal Zielona Góra:** Filip Matczak odczuwał dolegliwości starej kontuzji, a Dwight Wilson III doskwierała kostka, jednak obaj zawodnicy zagrali w meczu finałowym. Brak istotnych braków w składzie koszykarskim, poza grą z dyskomfortem.
+### 1. Kluczowe braki w składach
+*   **ORLEN Zastal Zielona Góra:**
+    *   Brak potwierdzonych, *aktualnych na 2026-08-25*, informacji o kontuzjach kluczowych koszykarzy. W czerwcu 2026 r. Phil Fayne wrócił do składu po przerwie rodzinnej, a Filip Matczak odczuwał dolegliwości związane ze starą kontuzją, jednak spodziewano się jego występu w serii finałowej. Dwight Wilson III również odczuwał skutki urazu kostki, ale normalnie trenował. W maju 2026 r. Chavaughn Lewis doznał kontuzji po zderzeniu, ale tomograf nie wykazał poważnych urazów, a jego występ był pod znakiem zapytania przed meczem z Anwilem.
+    *   **Werdykt:** Brak istotnych braków w składzie koszykarskim na dzień 2026-08-25.
 
-2.  **Aktualna forma top scorerów (mecz finałowy 21.06.2026):**
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta: 15 punktów (MVP finałów i sezonu zasadniczego).
-        *   Dominic Brewton: 11 punktów.
-        *   Race Thompson: 11 punktów.
-        *   Shane Hunter: 10 punktów.
-        *   Jayvon Graves: 9 punktów.
-        *   Najlepsi strzelcy sezonu 2025/2026 dla Legii to Jayvon Graves (16.67 Pts/G), Andrzej Pluta (15.17 P/G) i Race Thompson (13.33 P/G).
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak: 10 punktów.
-        *   Jayvon Maughmer: 10 punktów.
-        *   Chavaughn Lewis: 10 punktów.
-        *   Conley Garrison: 8 punktów.
-        *   Jakub Szumert: 8 punktów.
-        *   Filip Matczak: 8 punktów.
-        *   Najlepsi strzelcy sezonu 2025/2026 dla Zastalu to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+*   **Legia Warszawa:**
+    *   Brak potwierdzonych, *aktualnych na 2026-08-25*, informacji o kontuzjach kluczowych koszykarzy z wyjątkiem Michała Kolendy, który doznał zerwania więzadeł stawu skokowego w grudniu 2025 r. i miał pauzować 6-8 tygodni, oraz Matthiasa Tassa, który w tym samym czasie przeszedł operację stawu skokowego i miał wrócić po około 3 miesiącach. Jarosław Jankowski, przewodniczący Rady Nadzorczej Legii Kosz, w wywiadzie z 25 sierpnia 2026 r. wspomniał, że Mathieu Wojciechowski to transfer wymuszony kontuzją i zabiegiem Michała Kolendy. Potwierdził również, że Michał Kolenda ma dwuletni kontrakt, co sugeruje, że jest nadal w kadrze, ale prawdopodobnie wraca po kontuzji.
+    *   **Werdykt:** Michał Kolenda, prawdopodobnie nadal w fazie powrotu do pełnej sprawności po poważnej kontuzji stawu skokowego, oraz Matthias Tass, po operacji stawu skokowego w grudniu 2025 r., mogą być nieobecni lub ograniczeni.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Mecz był siódmym, decydującym starciem finałów PLK. Legia Warszawa grała u siebie i ostatecznie pokonała Zastal Zielona Góra 78:70, zdobywając Mistrzostwo Polski z wynikiem 4-3 w serii. Mimo długoterminowej kontuzji Matthiasa Tassa w Legii, zespół zaprezentował wysoką formę, a jego liderzy byli skuteczni. Kluczowi zawodnicy Zastalu zagrali, mimo odczuwanego dyskomfortu. Przewaga własnego parkietu w decydującym spotkaniu również była znaczącym czynnikiem.
+### 2. Aktualna forma top scorerów
+*   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu w kontekście "w serii powyżej". Według danych z sezonu 2025/2026, czołowymi strzelcami Zastalu byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+*   **Legia Warszawa:** Brak danych z API dla tego zespołu w kontekście "w serii powyżej". Według danych z sezonu 2025/2026, czołowymi strzelcami Legii byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+
+### 3. Werdykt
+[⚠️ RYZYKOWNY]
+*   Legia Warszawa, choć była obrońcą mistrzostwa Polski w sezonie 2025/2026 i zdobyła kolejny tytuł, ma kilku zawodników powracających po kontuzjach (Michał Kolenda, Matthias Tass) lub ich status zdrowotny nie jest w pełni jasny na dzień 25.08.2026, co może wpłynąć na spójność zespołu na początku nowego sezonu. Jarosław Jankowski z Legii w wywiadzie z 25.08.2026 wspomniał o konieczności budowania praktycznie od nowa zespołu poza kilkoma graczami, co sugeruje pewne zmiany w kadrze. Zastal również miał problemy z drobnymi urazami u kluczowych graczy pod koniec poprzedniego sezonu, jednak brak jest aktualnych, poważnych informacji na dzisiejszą datę.
+*   Zostal brak danych o dokładnej fazie sezonu (np. mecz otwarcia, środek sezonu zasadniczego, play-offy), co utrudnia ocenę wagi ewentualnych braków i formy, a także wpływu przewagi własnego parkietu. Mecz datowany jest na 2026-06-21, co jest datą w trakcie finałów PLK 2025/2026, gdzie Legia i Zastal faktycznie się zmierzyły, a Legia była mistrzem. Jednakże dzisiejsza data to 2026-08-25, a mecz jest typowany na 2026-06-21. Taka rozbieżność czasowa (analiza retrospektywna) sprawia, że ocena "aktualnej formy top scorerów" oraz "kluczowych braków w składach" na dzień 2026-08-25 dla meczu z 2026-06-21 jest ryzykowna, gdyż większość znalezionych informacji o kontuzjach z czerwca 2026 r. dotyczy *finałów* sezonu 2025/2026 i niekoniecznie przekłada się na stan zdrowotny drużyn w sierpniu 2026 r., kiedy to trwa okres przygotowawczy do *kolejnego* sezonu 2026/2027. Artykuły z sierpnia 2026 r. wskazują na początek przygotowań do nowego sezonu, a nie na kontynuację finałów.
