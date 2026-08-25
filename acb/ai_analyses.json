@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-24T16:27:36.446236",
-  "date": "2026-06-24",
+  "generated_at": "2026-08-25T04:02:54.741943",
+  "date": "2026-08-25",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Valencia @ Barcelona",
+      "matchup": "Leyma Coruña @ Monbus Obradoiro",
       "ai_pick": null,
-      "formula_pick": "Barcelona",
+      "formula_pick": "Monbus Obradoiro",
       "note": "AI fallback"
     }
   ]
