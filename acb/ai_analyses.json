@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-08-25T04:02:54.741943",
+  "generated_at": "2026-08-25T15:51:20.949310",
   "date": "2026-08-25",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Leyma Coruña @ Monbus Obradoiro",
-      "ai_pick": null,
-      "formula_pick": "Monbus Obradoiro",
-      "note": "AI fallback"
+      "matchup": "Monbus Obradoiro @ Leyma Coruña",
+      "phase": "Preseason Tournament",
+      "ai_pick": "Monbus Obradoiro",
+      "formula_pick": "Leyma Coruña",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Leyma Coruña przystępuje do tego meczu bez kilku kluczowych zawodników, zwłaszcza pod koszem, z powodu obowiązków w reprezentacjach. Monbus Obradoiro, choć również z odświeżonym składem, wydaje się być bardziej kompletny na to spotkanie, a dodatkowo ma przewagę w ostatnich bezpośrednich starciach. Jest to pierwszy mecz sparingowy, więc obie drużyny będą eksperymentować, ale osłabienia gospodarzy są znaczące.",
+      "key_factors": [
+        "Znaczące braki kadrowe Leyma Coruña z powodu okienek FIBA, zwłaszcza na pozycjach centrów.",
+        "Monbus Obradoiro przystępuje do meczu z bardziej kompletnym składem.",
+        "Monbus Obradoiro zwyciężył w ostatnim bezpośrednim meczu Primera FEB oraz w sparingu w 2025 roku.",
+        "Obie drużyny są beniaminkami ACB, co wskazuje na dobrą formę w poprzednim sezonie Primera FEB."
+      ],
+      "injury_notes": "Leyma Coruña wystąpi bez Caio Pacheco (Brazylia), Karlisa Silinsa (Łotwa), George'a Conditta IV (Portoryko) i Dmytro Skapintseva (Ukraina) z powodu okienek FIBA, co znacząco osłabia strefę podkoszową. Do drużyny tymczasowo dołączył Leo Westermann. Brak istotnych, aktualnych informacji o kontuzjach w Monbus Obradoiro na dzień meczu."
     }
   ]
 }
