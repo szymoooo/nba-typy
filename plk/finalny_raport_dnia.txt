@@ -1,47 +1,29 @@
---- AUDYT PLK LIVE (2026-08-25 04:15 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, 2026-06-21.
+--- AUDYT PLK LIVE (2026-08-25 09:10 CET) ---
+Analiza meczu PLK na dzień 2026-06-21:
 
-📅 **Mecz rozegrany: 2026-06-21** (data z przeszłości względem bieżącej daty 2026-08-25).
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+*   Mecz odbył się w Hali OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40, 01-494 Warszawa. Był to siódmy i decydujący mecz finału o Mistrzostwo Polski sezonu 2025/2026, w którym Legia Warszawa zdobyła tytuł.
 
----
-
-### **ORLEN Zastal Zielona Góra**
-
-1.  **Kluczowe braki w składach:**
-    *   **Filip Matczak:** W czerwcu 2026, przed finałami PLK, Matczak wrócił do gry po kontuzji nosa (doznanej w jednym z meczów w Warszawie) i występował w masce, choć deklarował gotowość do gry "z maską, złamanym nosem czy urwaną nogą". Miał również "starą kontuzję", która doskwierała mu 6 czerwca 2026, co spowodowało opuszczenie jednego treningu, ale planowano, że będzie gotowy na finały.
-    *   **Andrzej Mazurczak:** Przed finałami występował w masce.
-    *   **Dwight Wilson III:** Czuł dolegliwości w kostce, ale trenował i zaciskał zęby.
-    *   **Sagaba Konate:** W lutym 2026 doznał poważnej kontuzji nadgarstka, która wymagała nastawienia w szatni i dłuższej przerwy. Jego status na czerwiec 2026, a zwłaszcza na mecz finałowy, nie jest jasno potwierdzony jako powrót do pełnej sprawności, choć źródła wskazują na powrót Phila Fayne'a (inny zawodnik). Biorąc pod uwagę "dłuższą przerwę", jego występ w pełnej formie byłby ryzykowny.
-    *   **Phil Fayne:** Znalazł się w kadrze na sezon 2025/2026 i wrócił do gry przed finałami.
-    *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim w okresie okołomeczowym.
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   **Sagaba Konate:** Sezon-ending injury (awulsyjne uszkodzenie więzadła SL nadgarstka) od lutego 2026.
+        *   **Filip Matczak:** Występował z dolegliwościami starej kontuzji, ale zagrał w finale, zdobywając 8 punktów.
+        *   **Dwight Wilson III:** Grał z bólem kostki, ale był dostępny i zdobył 6 punktów w meczu.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim. Nie odnotowano kontuzji ani zawieszeń kluczowych zawodników Legii Warszawa w okolicach 21.06.2026.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w kontekście meczów finałowych. Skład na sezon 2025/2026 obejmował Chavaughna Lewisa (15.8 Pkt/mecz), Jakuba Szumerta (13.2 Pkt/mecz) i Andrzeja Mazurczaka (11.8 Pkt/mecz) jako wiodących strzelców. Conley Garrison był kluczowym graczem, który "dźwignął presję" w końcówkach meczów, zdobywając 26 punktów w meczu 31 maja 2026.
+    *   🏀 **Legia Warszawa (najlepsi strzelcy meczu 21.06.2026):**
+        *   Andrzej Pluta: 15 punktów.
+        *   Race Thompson: 11 punktów.
+        *   Dominic Brewton III: 11 punktów.
+        *   Shane Hunter: 10 punktów.
+        *   *(Topowi strzelcy sezonu 2025/2026 wg PLK.PL: Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz)).*
+    *   🏀 **ORLEN Zastal Zielona Góra (najlepsi strzelcy meczu 21.06.2026):**
+        *   Andrzej Mazurczak: 10 punktów.
+        *   Jayvon Maughmer: 10 punktów.
+        *   Chavaughn Lewis: 10 punktów.
+        *   *(Topowi strzelcy sezonu 2025/2026 wg PLK.PL: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz)).*
 
----
-
-### **Legia Warszawa**
-
-1.  **Kluczowe braki w składach:**
-    *   **Race Thompson:** Opuścił trzeci mecz półfinału z powodu urazu stawu skokowego, doznanego w pierwszym meczu serii. Jego status na finały (czerwiec 2026) nie jest jednoznacznie potwierdzony jako powrót do pełnej sprawności.
-    *   **Michał Kolenda:** Kapitan Legii, opuścił dwa pierwsze mecze półfinału z powodu problemów zdrowotnych, ale wrócił do wyjściowej piątki na trzeci mecz półfinału (1 czerwca 2026). W grudniu 2025 odnotowano jego kontuzję, która miała oznaczać "dłuższą przerwę". Biorąc pod uwagę jego powrót w czerwcu, prawdopodobnie był dostępny na finał.
-    *   **Matthias Tass:** W grudniu 2025 wypadł na kilka tygodni, a nawet miesięcy z powodu kontuzji. Brak informacji o jego powrocie na czerwiec 2026.
-    *   **Ojars Silins:** W grudniu 2025 był poza składem z powodu kontuzji. Brak informacji o jego powrocie na czerwiec 2026.
-    *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim w okresie okołomeczowym.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w kontekście meczów finałowych. Andrzej Pluta i Dominic Brewton byli liderami Legii w meczu z Dzikami Warszawa (1 czerwca 2026). W meczu z Rytasem Wilno (październik 2025), Jayvon Graves zdobył 23 punkty.
-
----
-
-### **Werdykt dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, 2026-06-21:**
-
-*   **ORLEN Zastal Zielona Góra:** W drużynie Zastalu Filip Matczak i Andrzej Mazurczak grali z maskami po kontuzjach nosa, a Dwight Wilson III zmagał się z problemami z kostką. Poważna kontuzja nadgarstka Sagaby Konate z lutego 2026 mogła nadal wpływać na jego dostępność lub formę.
-*   **Legia Warszawa:** Legia miała zawodników wracających po kontuzjach (Michał Kolenda), ale Race Thompson był kontuzjowany (uraz stawu skokowego) przed finałami. Kontuzje Matthiasa Tassa i Ojarsa Silinsa z grudnia 2025 również budziły wątpliwości co do ich pełnej dostępności w finałach.
-
-Legia Warszawa ostatecznie obroniła tytuł Mistrza Polski 21 czerwca 2026, pokonując Zastal. Mimo to, mecz 21 czerwca był finałem, gdzie oba zespoły walczyły o mistrzostwo. Legia była liderem PLK w sezonie 2025/2026.
-
-Typ: Legia Warszawa.
-
-**Werdykt: [⚠️ RYZYKOWNY]**
-Uzasadnienie: Pomimo że Legia była typowana na zwycięzcę i ostatecznie zdobyła mistrzostwo, wiele kluczowych kontuzji w obu zespołach, szczególnie w Zastalu (Matczak, Mazurczak z maskami, Wilson z problemami z kostką, Konate po poważnej kontuzji), a także problemy zdrowotne w Legii (Thompson kontuzjowany, Kolenda wracający po urazie, Tass i Silins z problemami z wcześniejszej części sezonu), sprawiły, że składy były dalekie od optymalnych. Taki stan rzeczy zwiększał niepewność co do przebiegu poszczególnych meczów, nawet jeśli Legia była faworytem.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz był decydującym, siódmym spotkaniem finałowym, w którym przewaga własnego parkietu Legii Warszawa była znacząca. Pomimo zaangażowania Zastalu, który zmagał się z istotnym osłabieniem w postaci kontuzjowanego Sagaby Konate, Legia zdołała obronić tytuł Mistrza Polski. Typ na Legię Warszawa był uzasadniony.
