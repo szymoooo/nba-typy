@@ -1,36 +1,22 @@
---- AUDYT PLK LIVE (2026-08-26 10:01 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)
-
-**Data audytu:** 2026-08-26
-**Typ na 2026-06-21:** Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-26 10:38 CET) ---
+Poniżej znajduje się analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa z 21 czerwca 2026 roku:
 
 ---
 
-**1. Kluczowe braki w składach (stan na 2026-08-26):**
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
+**Data meczu:** 2026-06-21
+**Typ z PulsBasketu:** Legia Warszawa
+**Hala i miasto:** OSiR Bemowo, Warszawa
 
-*   🏀 **ORLEN Zastal Zielona Góra:**
-    *   **Odeszli:** Patrick Cartier, Miłosz Góreńczyk, Jayvon Maughmer, Dwight Wilson III.
-    *   **Brak istotnych braków w składzie koszykarskim** spośród aktualnych zawodników. Sagaba Konate zakończył sezon 2025/2026 z powodu kontuzji dłoni, ale nie jest wymieniany w składzie na sezon 2026/2027.
-    *   **Nowi zawodnicy na sezon 2026/2027:** Gauthier Denis, Jan Wójcik, Toyaz "Tay" Solomon, Trazarien White.
-    *   **Pozostali kluczowi zawodnicy:** Conley Garrison, Andrzej Mazurczak.
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu poważnej kontuzji dłoni, której doznał w lutym 2026 roku podczas Pekao S.A. Pucharu Polski. Filip Matczak, Jakub Szumert i Andrzej Mazurczak, mimo drobnych dolegliwości przed serią finałową, wystąpili w tym meczu.
+    *   **Legia Warszawa:** Matthias Tass nie wystąpił w meczu (DNP). Michał Kolenda, mimo wcześniejszej kontuzji z grudnia 2025 roku, był w składzie i zdobył 8 punktów w tym spotkaniu.
 
-*   🏀 **Legia Warszawa:**
-    *   **Odeszli:** Andrzej Pluta (przeszedł do ligi hiszpańskiej), Maksymilian Wilczek, Jayvon Graves (przeszedł do Libertas Livorno 1947 we Włoszech).
-    *   **Kontuzje:** Michał Kolenda (kapitan) przeszedł planowy zabieg stawu skokowego po zakończeniu sezonu 2025/2026 (lipiec 2026). Przewidywany czas przerwy to 8 do 10 tygodni, co oznacza, że jest w trakcie rehabilitacji i najprawdopodobniej opuści początek sezonu 2026/2027. Na dzień 26.08.2026, Kolenda jest niedostępny.
-    *   **Nowi zawodnicy na sezon 2026/2027:** Kristers Zoriks, Gyorgy Goloman, Zach Freemantle, Michael Christmas, Mathieu Wojciechowski, Jakub Andrzejewski, Szymon Tomczak, Markus Ilver.
-    *   **Pozostali kluczowi zawodnicy:** Wojciech Tomaszewski, Błażej Czapla, Dawid Niedziałkowski, Dominic Brewton.
+2.  **Aktualna forma top scorerów (z meczu 21.06.2026 oraz uwzględniając kontekst serii):**
+    *   **Legia Warszawa:** Najskuteczniejsi w tym meczu byli Andrzej Pluta (15 pkt), Dominic Brewton III (11 pkt) i Race Thompson (11 pkt). Andrzej Pluta, choć w Game 2 finałów zdobył 27 punktów, to w pozostałej części serii jego skuteczność (12/40 z gry) była oceniana jako "słabo, przeciętnie lub niewystarczająco dobrze", jednak wciąż dobrze radził sobie z asystami (21 asyst przy 7 stratach).
+    *   **ORLEN Zastal Zielona Góra:** Najlepsi strzelcy w tym spotkaniu to Andrzej Mazurczak (10 pkt), Jayvon Maughmer (10 pkt) i Chavaughn Lewis (10 pkt). Piotr Karolak przed meczem nr 7 sugerował, że "wyposzczony" Lewis mógłby zagrać dłużej i lepiej. Conley Garrison był również wyróżniany za kluczowy rzut w Game 6.
 
-**2. Aktualna forma top scorerów:**
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz był decydującym, siódmym spotkaniem finałowej serii Orlen Basket Ligi, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70, zdobywając Mistrzostwo Polski. Pomimo przewagi własnego parkietu, szanse Legii przed meczem były oceniane jako 50/50, co wskazywało na bardzo wyrównaną rywalizację i dużą wagę każdego elementu gry. Legia wykorzystała jednak przewagę fizyczną i skuteczność w kluczowych momentach.
 
-*   Brak danych z API PulsBasketu dla tego zespołu.
-*   Legia Warszawa, pomimo odejścia kluczowych strzelców z poprzedniego sezonu (Andrzej Pluta, Jayvon Graves), dokonała wielu wzmocnień, w tym pozyskując nowych zawodników zagranicznych, którzy mają zapewnić jakość punktową.
-
-**3. Werdykt:**
-
-*   **Legia Warszawa** zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra 4-3 w finale (decydujący mecz 21.06.2026, 78:70).
-*   Na sezon 2026/2027 Legia, choć straciła kilku kluczowych graczy, dokonała znaczących wzmocnień i stawia sobie za cel obronę tytułu. Kontuzja Michała Kolendy jest istotnym osłabieniem na początek sezonu, ale klub sprowadził Mathieu Wojciechowskiego jako krótkoterminowe zastępstwo.
-*   ORLEN Zastal Zielona Góra również aktywnie buduje skład na nadchodzący sezon, planując udział w FIBA Europe Cup.
-
-Mimo kontuzji Kolendy i zmian w składzie, Legia Warszawa, jako aktualny mistrz i zespół agresywnie wzmacniający się, jest nadal silnym kandydatem.
-
-**[✅ ZATWIERDZONY]**
+---
