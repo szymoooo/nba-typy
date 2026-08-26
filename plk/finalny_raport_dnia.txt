@@ -1,13 +1,31 @@
---- AUDYT PLK LIVE (2026-08-26 01:17 CET) ---
-Analiza meczu PLK na dzień 2026-06-21:
+--- AUDYT PLK LIVE (2026-08-26 05:35 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-=========================================================================
-ORLEN Zastal Zielona Góra @ Legia Warszawa
-=========================================================================
+Dzisiejsza data: 2026-08-26
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026 r.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026 r.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API PulsBasketu dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+
+1.  **Kluczowe braki w składach (stan na 2026-06-21):**
+    *   **Legia Warszawa:**
+        *   Michał Kolenda i Matthias Tass: obaj zawodnicy byli kontuzjowani od grudnia 2025 roku, z przewidywaną przerwą na "kilka tygodni, a nawet miesięcy". Jest bardzo prawdopodobne, że 21 czerwca 2026 roku nadal byli niedostępni lub wracali do gry bez pełnej sprawności. Brak innych istotnych kontuzji koszykarskich w okolicach czerwca 2026 roku.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate: Jego sezon 2025/2026 zakończył się w lutym 2026 roku z powodu poważnej kontuzji dłoni, doznanej podczas Pekao S.A. Pucharu Polski. Był niedostępny na mecz 21 czerwca 2026.
+        *   Andrzej Mazurczak: Na 15 dni przed meczem (6 czerwca 2026) wracał do treningów indywidualnych po kontuzji, a jego pełna sprawność była niepewna.
+        *   Filip Matczak: Na 6 czerwca 2026 zgłaszał dolegliwości związane ze starą kontuzją i został wyłączony z jednego treningu, aby uniknąć pogorszenia urazu.
+        *   Dwight Wilson: Na 6 czerwca 2026 odczuwał dolegliwości w kostce, ale trenował, zaciskając zęby.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **Legia Warszawa:**
+        *   Dominic Brewton III (14.5 Pkt/mecz).
+        *   Andrzej Pluta (13.4 Pkt/mecz).
+        *   Jayvon Graves (12.8 Pkt/mecz).
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis (15.8 Pkt/mecz).
+        *   Jakub Szumert (13.2 Pkt/mecz).
+        *   Andrzej Mazurczak (11.8 Pkt/mecz). (Należy pamiętać o jego problemach zdrowotnych przed meczem, które mogły wpłynąć na jego formę).
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ "Legia Warszawa" jest ryzykowny. Choć PulsBasketu podaje dwie różne wyniki dla meczów między tymi drużynami 21 czerwca 2026 (Zastal wygrał 76-74, a Legia wygrała 78-70), co sugeruje trudną do jednoznacznej oceny sytuację, to biorąc pod uwagę osłabienia Zastalu, ich sytuacja zdrowotna przed meczem była bardzo trudna. Zastal miał sezonową kontuzję kluczowego gracza (Sagaba Konate), a także liczne problemy zdrowotne innych ważnych zawodników, takich jak Andrzej Mazurczak, Filip Matczak i Dwight Wilson. Legia również miała długoterminowe kontuzje Michała Kolendy i Matthiasa Tassa, ale skala problemów w Zastalu była bardziej rozległa i dotyczyła kluczowych graczy blisko daty meczu. Mimo to, wynik 76-74 dla Zastalu na własnym parkiecie wskazuje, że zespół potrafił walczyć mimo osłabień.
+    *   Biorąc pod uwagę powyższe, postawienie na Legię Warszawa wiązało się z ryzykiem ze względu na własne braki kadrowe oraz niejednoznaczny wynik dnia, ale osłabienia Zastalu były bardziej znaczące.
