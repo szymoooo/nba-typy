@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-25T15:51:20.949310",
-  "date": "2026-08-25",
+  "generated_at": "2026-08-27T23:42:05.602247",
+  "date": "2026-08-28",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Monbus Obradoiro @ Leyma Coruña",
-      "phase": "Preseason Tournament",
-      "ai_pick": "Monbus Obradoiro",
-      "formula_pick": "Leyma Coruña",
+      "matchup": "Casademont Zaragoza @ iLerna Lleida",
+      "phase": "Preseason",
+      "ai_pick": "Casademont Zaragoza",
+      "formula_pick": "iLerna Lleida",
       "agreement": false,
-      "confidence": 7,
-      "reasoning": "Leyma Coruña przystępuje do tego meczu bez kilku kluczowych zawodników, zwłaszcza pod koszem, z powodu obowiązków w reprezentacjach. Monbus Obradoiro, choć również z odświeżonym składem, wydaje się być bardziej kompletny na to spotkanie, a dodatkowo ma przewagę w ostatnich bezpośrednich starciach. Jest to pierwszy mecz sparingowy, więc obie drużyny będą eksperymentować, ale osłabienia gospodarzy są znaczące.",
+      "confidence": 6,
+      "reasoning": "Casademont Zaragoza, mimo absencji kluczowych graczy na zgrupowaniach reprezentacji, prawdopodobnie dysponuje głębszym składem i większym doświadczeniem w Lidze Endesa. Mecz jest pierwszym sparingiem dla obu drużyn, co sprzyja testowaniu taktyk i integracji nowych zawodników, ale wyższa jakość indywidualna Zaragozy powinna przeważyć.",
       "key_factors": [
-        "Znaczące braki kadrowe Leyma Coruña z powodu okienek FIBA, zwłaszcza na pozycjach centrów.",
-        "Monbus Obradoiro przystępuje do meczu z bardziej kompletnym składem.",
-        "Monbus Obradoiro zwyciężył w ostatnim bezpośrednim meczu Primera FEB oraz w sparingu w 2025 roku.",
-        "Obie drużyny są beniaminkami ACB, co wskazuje na dobrą formę w poprzednim sezonie Primera FEB."
+        "Absencje kluczowych graczy w obu drużynach z powodu obowiązków reprezentacyjnych",
+        "Casademont Zaragoza ma nowych, doświadczonych graczy, takich jak Guillem Vives, którzy wzmocnili skład",
+        "iLerna Lleida to drużyna ACB od niedawna, a Casademont Zaragoza to bardziej ugruntowany klub w lidze",
+        "Mecz odbywa się na neutralnym terenie, co eliminuje przewagę własnego boiska"
       ],
-      "injury_notes": "Leyma Coruña wystąpi bez Caio Pacheco (Brazylia), Karlisa Silinsa (Łotwa), George'a Conditta IV (Portoryko) i Dmytro Skapintseva (Ukraina) z powodu okienek FIBA, co znacząco osłabia strefę podkoszową. Do drużyny tymczasowo dołączył Leo Westermann. Brak istotnych, aktualnych informacji o kontuzjach w Monbus Obradoiro na dzień meczu."
+      "injury_notes": "iLerna Lleida będzie grać bez centrów Kura Kuatha i Atoumane Diagne, którzy są powołani do swoich reprezentacji narodowych i dołączą do zespołu dopiero na początku września. Casademont Zaragoza wystąpi bez Trae Bell-Haynesa, Nico Brussino i Robertsa Blumbergsa, którzy są na zgrupowaniach swoich reprezentacji narodowych w ramach Kwalifikacji do Mistrzostw Świata FIBA."
     }
   ]
 }
