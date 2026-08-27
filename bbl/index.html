@@ -142,7 +142,28 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('bbl_140429654514944')">
+        <div class="card-header">
+            <span>18:00 CET</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="VET-CONCEPT Gladiators Trier"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">VET-CONCEPT Gladiators Trier</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="Telekom Baskets Bonn"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Telekom Baskets Bonn</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">Telekom Baskets Bonn</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: August 27, 2026 at 17:54 &middot; Data: Sofascore / 24score
+        Last updated: August 27, 2026 at 18:49 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"bbl_140429654514944": {"matchup": "VET-CONCEPT Gladiators Trier @ Telekom Baskets Bonn", "pick": "Telekom Baskets Bonn", "reasoning": "", "key_factors": [], "confidence": null, "injury_notes": "", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {
