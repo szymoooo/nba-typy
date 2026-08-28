@@ -1,13 +1,27 @@
---- AUDYT PLK LIVE (2026-08-28 03:13 CET) ---
+--- AUDYT PLK LIVE (2026-08-28 10:25 CET) ---
+=========================================================================
+TYPY DO AUDYTU:
+=========================================================================
 # PLK typy na 2026-06-21
-## ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-### Analiza:
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. W czerwcu 2026 roku zgłaszano drobne dolegliwości u Filipa Matczaka oraz Indywidualne treningi Andy'ego Mazurczaka w związku z przygotowaniami do "serii finałowej". Jednakże, na dzień 2026-08-28, nie ma potwierdzonych informacji o długoterminowych kontuzjach tych zawodników, które wpływałyby na ich dostępność w sezonie 2026/2027. Były zawodnik Zastalu, Sagaba Konate, który w poprzednim sezonie doznał poważnej kontuzji ręki, nie jest już częścią składu na sezon 2026/2027.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 jest w trakcie kompletowania, z nowymi transferami takimi jak Mathieu Wojciechowski, Krister Zoriks i Markus Ilver, a zespół rozpoczął przygotowania przedsezonowe. Brak informacji o aktualnych kontuzjach kluczowych graczy.
+=========================================================================
+ANALIZA:
+=========================================================================
+**ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
 
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+  1.  **Kluczowe braki w składach:**
+      *   **ORLEN Zastal Zielona Góra:**
+          *   ❌ Sagaba Konate (środkowy): Wykluczony z gry na cały sezon 2025/2026 z powodu poważnej kontuzji nadgarstka, której doznał w lutym 2026 roku.
+          *   ⚠️ Filip Matczak (rozgrywający): Zmagał się ze starą kontuzją oraz doznał urazu nosa w pierwszym meczu finałowym. Prawdopodobnie grał z dolegliwościami.
+          *   ⚠️ Dwight Wilson (środkowy): Grał z urazem kostki, ale uczestniczył w treningach kontaktowych.
+      *   **Legia Warszawa:**
+          *   ⚠️ Michał Kolenda (niski skrzydłowy) i Matthias Tass (środkowy): Obydwaj zawodnicy doznali kontuzji w grudniu 2025 roku, z prognozą powrotu na "kilka tygodni, a nawet miesięcy". Ich status na finał 21 czerwca 2026 roku nie jest jasno określony jako "wykluczony", ale ich pełna sprawność była prawdopodobnie wątpliwa z uwagi na długość rekonwalescencji. Inni kluczowi gracze, jak Andrzej Pluta i Jayvon Graves, wrócili do składu już w grudniu 2025 roku po wcześniejszych urazach.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz jest analizowany na podstawie aktualnych (2026-08-28) składów i statusów kontuzji na sezon 2026/2027. Zarówno Zastal, jak i Legia, na ten moment, nie zgłaszają istotnych braków w swoich koszykarskich składach. Legia Warszawa to aktualny mistrz Polski, natomiast ORLEN Zastal Zielona Góra był finalistą poprzednich rozgrywek, co zapowiada wyrównane spotkanie. Wobec braku informacji o kontuzjach liderów i zakładając stabilność składów na nadchodzący sezon, początkowy typ na Legię Warszawa zostaje zatwierdzony.
+  2.  **Aktualna forma top scorerów:**
+      *   brak danych z API dla tego zespołu w serii.
+      *   **Legia Warszawa (najlepsi strzelcy w sezonie 2025/2026):** Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
+      *   **ORLEN Zastal Zielona Góra (najlepsi strzelcy w sezonie 2025/2026):** Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
+
+  3.  **Werdykt:** [✅ ZATWIERDZONY]
+      Mecz 21 czerwca 2026 roku był siódmym i decydującym spotkaniem finałowym PLK sezonu 2025/2026. Legia Warszawa grała u siebie i ostatecznie obroniła tytuł Mistrza Polski. Orlen Zastal Zielona Góra przystąpił do finału bez kluczowego środkowego Sagaby Konate, który był wykluczony na cały sezon. Dodatkowo, inni ważni zawodnicy Zastalu, jak Filip Matczak i Dwight Wilson, grali z urazami w trakcie serii finałowej. Mimo wcześniejszych problemów zdrowotnych w Legii, brak jednoznacznych informacji o wykluczeniach kluczowych graczy na finałowe spotkanie, w połączeniu z przewagą własnego parkietu w meczu o mistrzostwo, sprawia, że typ na Legię Warszawa był dobrze uzasadniony.
