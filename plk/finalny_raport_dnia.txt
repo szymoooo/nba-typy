@@ -1,15 +1,33 @@
---- AUDYT PLK LIVE (2026-08-28 22:21 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-08-29 01:29 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu w kontekście: 2026-06-21, audyt na dzień 2026-08-29)
 
----
-
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
-
+### Legia Warszawa
 1.  **Kluczowe braki w składach:**
-    *   Brak potwierdzonych informacji o kontuzjach lub zawieszeniach w składzie ORLEN Zastal Zielona Góra na dzień 2026-06-21, które byłyby aktualne na 2026-08-28.
-    *   Brak potwierdzonych informacji o kontuzjach lub zawieszeniach w składzie Legii Warszawa koszykówka na dzień 2026-06-21, które byłyby aktualne na 2026-08-28.
-    *   Brak istotnych braków w składzie koszykarskim obu zespołów na podstawie dostępnych danych.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla ORLEN Zastal Zielona Góra.
-    *   Brak danych z API dla Legii Warszawa.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Michał Kolenda (niski skrzydłowy): Przeszedł planowaną operację stawu skokowego po zakończeniu sezonu 2025/2026. Będzie pauzował od 8 do 10 tygodni, co oznacza, że prawdopodobnie nie będzie gotowy na początek rozgrywek 2026/2027.
+    *   W związku z kontuzją Kolendy, Legia pozyskała Mathieu Wojciechowskiego na krótkoterminowy kontrakt do listopada 2026 roku.
+    *   Brak innych istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-08-29.
+2.  **Aktualna forma top scorerów (sezon 2025/2026 i transfery na 2026/2027):**
+    *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra 4-3 w finale.
+    *   Kluczowi polscy zawodnicy pozostający w składzie na sezon 2026/2027 to Wojciech Tomaszewski, Błażej Czapla i Dawid Niedziałkowski (oprócz kontuzjowanego Michała Kolendy).
+    *   Nowe nabytki na sezon 2026/2027 to m.in. Szymon Tomczak, Jakub Andrzejewski (rozgrywający/rzucający), Zach Freemantle (silny skrzydłowy) oraz Gyorgy Goloman (środkowy).
+    *   Brak danych z API dla tego zespołu dotyczących indywidualnych top scorerów z PulsBasketu dla sezonu 2025/2026.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Legia jest obrońcą tytułu Mistrza Polski, co świadczy o jej sile. Mimo kontuzji Michała Kolendy, klub zareagował, sprowadzając doświadczonego Mathieu Wojciechowskiego. Nowe transfery, takie jak Zach Freemantle i Jakub Andrzejewski, wzmacniają skład. Ryzyko wynika z absencji Kolendy na początku sezonu i konieczności zgrania się nowych zawodników.
+
+### ORLEN Zastal Zielona Góra
+1.  **Kluczowe braki w składach:**
+    *   Dwight Wilson III (środkowy): Przeniósł się do kosowskiej drużyny KB Peja po drugiej połowie sezonu 2025/2026.
+    *   Miłosz Góreńczyk: Przeniósł się do Datzzy Kotwica Port Kołobrzeg (1 Liga).
+    *   Jayvon Maughmer: Przeniósł się do Elan Béarnais Pau-Lacq-Orthez.
+    *   Brak innych istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-08-29.
+2.  **Aktualna forma top scorerów (sezon 2025/2026 i transfery na 2026/2027):**
+    *   Wicemistrz Polski w sezonie 2025/2026.
+    *   Kluczowi zawodnicy pozostający na sezon 2026/2027 to rozgrywający Andrzej Mazurczak (kapitan drużyny) i Conley Garrison (rozgrywający/rzucający).
+    *   Nowe nabytki na sezon 2026/2027 to m.in. Trazarien White (pozycja 2/3), opisany jako "slasher" z dużym potencjałem punktowym (średnio 24.3 pkt/mecz w lidze australijskiej), oraz Gauthier Denis (niski skrzydłowy).
+    *   Top scorerzy z sezonu 2025/2026 (pkt/mecz): Chavaughn Lewis (15.8), Jakub Szumert (13.2), Andrzej Mazurczak (11.8).
+    *   Brak danych z API dla tego zespołu dotyczących indywidualnych top scorerów z PulsBasketu dla sezonu 2025/2026.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Zastal stracił kilku ważnych graczy po poprzednim sezonie, ale utrzymał kluczowych rozgrywających i dokonał interesujących wzmocnień, zwłaszcza na pozycjach obwodowych. Ryzyko wynika z konieczności zgrania się nowego składu po utracie niektórych dotychczasowych liderów.
+
+### Werdykt ogólny dla typu "Legia Warszawa": [⚠️ RYZYKOWNY]
+Typ "Legia Warszawa" na ten mecz jest ryzykowny. Chociaż Legia jest obrońcą tytułu i aktywnie wzmacnia skład, to absencja Michała Kolendy (nawet z tymczasowym zastępstwem) wprowadza element niepewności na początku sezonu. Zastal również przeszedł znaczące zmiany kadrowe, co może wpłynąć na ich stabilność. Obie drużyny są w fazie budowania składów na sezon 2026/2027, co sprawia, że wczesna ocena jest obarczona ryzykiem.
