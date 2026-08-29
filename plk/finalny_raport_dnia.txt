@@ -1,22 +1,17 @@
---- AUDYT PLK LIVE (2026-08-29 15:35 CET) ---
-**PLK typy na 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+--- AUDYT PLK LIVE (2026-08-29 19:37 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   ❌ **Sagaba Konate** (silny skrzydłowy/środkowy): Wykluczony z gry do końca sezonu 2025/2026 od lutego 2026 z powodu awulsyjnego uszkodzenia więzadła nadgarstka.
-        *   ⚠️ **Filip Matczak** (rozgrywający): Przed finałami (stan na 6 czerwca 2026) odczuwał dolegliwości starej kontuzji, jego pełna dyspozycyjność była niepewna.
-        *   ⚠️ **Andrzej Mazurczak** (rozgrywający): Przed finałami (stan na 6 czerwca 2026) trenował indywidualnie w masce, czuł się dobrze, ale jego pełna gotowość meczowa była do oceny.
-        *   ⚠️ **Dwight Wilson III** (środkowy): Grał z dolegliwościami kostki, ale trenował przez ból.
-    *   🏀 **Legia Warszawa:**
-        *   ❌ **Michał Kolenda** (rzucający): Od grudnia 2025 wyłączony z gry na "kilka tygodni, a nawet miesięcy" z powodu kontuzji, co najprawdopodobniej oznaczało brak jego udziału w finałach.
-        *   ❌ **Matthias Tass** (środkowy): Podobnie jak Kolenda, z długoterminową kontuzją od grudnia 2025, prawdopodobnie poza składem na finały.
+1.  **Kluczowe braki w składach (stan na 2026-08-29):**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Należy jednak zaznaczyć, że Dwight Wilson gra dla KB Peja, a Jayvon Maughmer dla Elan Béarnais Pau-Lacq-Orthez w innych rozgrywkach. Skład na sezon 2026/2027 obejmuje m.in. Gauthiera Denisa, Andy'ego Mazurczaka i Veljko Brkicia.
+    *   **Legia Warszawa:** ⚠️
+        *   Michał Kolenda jest w trakcie rekonwalescencji po operacji.
+        *   Trzech reprezentantów swoich krajów (Markus Ilver, Mārcis Vītols (Zoriks) i György Goloman) jest nieobecnych z powodu obowiązków w kadrach narodowych.
+        *   Trener Heiko Rannula również jest nieobecny, co dotyczy meczu sparingowego rozgrywanego 29 sierpnia 2026 roku.
+        *   Skład Legii na sezon 2026/2027 obejmuje Mathieu Wojciechowskiego.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w serii.
-    *   Jednakże, **Andrzej Pluta Jr.** (Legia Warszawa) został uznany za MVP Sezonu i MVP Finałów PLK 2025/2026, co świadczy o jego wybitnej formie w całym sezonie, włączając w to decydujące mecze.
-    *   Wśród czołowych strzelców ORLEN Zastal Zielona Góra w sezonie 2025/2026 byli **Chavaughn Lewis** (15.8 Pkt/mecz), **Jakub Szumert** (13.2 Pkt/mecz) i **Andrzej Mazurczak** (11.8 Pkt/mecz).
+    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu.
+    *   Legia Warszawa: Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz 21 czerwca 2026 był siódmym i decydującym spotkaniem finałowym PLK 2025/2026. Legia Warszawa, grając u siebie, ostatecznie zwyciężyła 78-70 i zdobyła mistrzostwo Polski.
-    *   Legia, pomimo własnych braków, wydawała się mieć przewagę pod względem głębokości składu i dyspozycji kluczowych zawodników, zwłaszcza wobec długoterminowej absencji Sagaby Konate i niepewnej sytuacji innych graczy Zastalu.
-    *   Faktor własnego parkietu w Game 7 finałów również był istotny.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   W związku z licznymi osłabieniami w składzie Legii Warszawa (kontuzja Michała Kolendy, brak trzech kluczowych graczy z powodu obowiązków reprezentacyjnych oraz nieobecność głównego trenera Heiko Rannuli) na dzień 2026-08-29, typ na Legię Warszawa jest obarczony znacznym ryzykiem.
