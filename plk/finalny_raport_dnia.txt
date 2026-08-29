@@ -1,13 +1,12 @@
---- AUDYT PLK LIVE (2026-08-29 21:59 CET) ---
-Poniżej przedstawiam analizę meczu PLK z dnia 2026-06-21:
+--- AUDYT PLK LIVE (2026-08-29 23:55 CET) ---
+Analiza meczu PLK (2026-06-21):
 
----
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
-
-*   **Kluczowe braki w składach:**
-    *   W związku z analizą retrospektywną meczu z 21.06.2026 oraz dzisiejszą datą (29.08.2026), przeprowadzone wyszukiwania koncentrowały się na informacjach o kontuzjach i absencjach z końca sezonu 2025/2026, w szczególności z czerwca 2026.
-    *   Brak istotnych braków w składzie koszykarskim odnalezionych na dzień meczu (21.06.2026) dla obu zespołów.
-*   **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu w dostarczonym kontekście.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Ze względu na brak danych dotyczących aktualnej formy top scorerów z PulsBasketu oraz brak możliwości pełnej weryfikacji wszystkich czynników z przeszłości (takich jak np. zmęczenie zespołów w fazie play-off, które nie zawsze jest szeroko raportowane jako "kontuzja"), werdykt jest ryzykowny.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:** Michał Kolenda jest w trakcie rekonwalescencji po operacji (informacja z lipca 2026, potwierdzona brakiem w składzie na sparing 29.08.2026).
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim (biorąc pod uwagę aktualny skład na 2026-08-29 oraz brak potwierdzonych kontuzji dla zawodników znajdujących się w obecnej kadrze). Zawodnik Sagaba Konate doznał poważnej kontuzji nadgarstka w lutym 2026, ale nie znajduje się w kadrze zespołu na sezon 2026/2027.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mecz odbył się w ramach finałowej rywalizacji ORLEN Basket Ligi sezonu 2025/2026. Choć Legia Warszawa zakończyła sezon na 1. miejscu, potwierdzona rekonwalescencja kluczowego gracza Legii, Michała Kolendy, oraz ogólny brak szczegółowych informacji o stanie zdrowia zawodników w dniu meczu (2026-06-21) uniemożliwiają pełną ocenę ryzyka. Typowanie na Legię było zgodne z ostatecznym wynikiem sezonu, jednak brak szczegółowych danych o kontuzjach w dniu meczu czyniło ten typ ryzykownym.
