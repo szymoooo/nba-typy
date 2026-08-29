@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-08-27T23:42:05.602247",
-  "date": "2026-08-28",
+  "generated_at": "2026-08-29T00:49:58.718066",
+  "date": "2026-08-29",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Casademont Zaragoza @ iLerna Lleida",
-      "phase": "Preseason",
-      "ai_pick": "Casademont Zaragoza",
-      "formula_pick": "iLerna Lleida",
+      "matchup": "Asisa Joventut @ Monbus Obradoiro",
+      "phase": "Pre-season",
+      "ai_pick": "Asisa Joventut",
+      "formula_pick": "Monbus Obradoiro",
       "agreement": false,
       "confidence": 6,
-      "reasoning": "Casademont Zaragoza, mimo absencji kluczowych graczy na zgrupowaniach reprezentacji, prawdopodobnie dysponuje głębszym składem i większym doświadczeniem w Lidze Endesa. Mecz jest pierwszym sparingiem dla obu drużyn, co sprzyja testowaniu taktyk i integracji nowych zawodników, ale wyższa jakość indywidualna Zaragozy powinna przeważyć.",
+      "reasoning": "Asisa Joventut, jako półfinalista play-off Ligi Endesa 2025/26, dysponuje bardziej doświadczonym i zgranym składem w najwyższej klasie rozgrywkowej. Monbus Obradoiro, świeżo po awansie z Primera FEB, wciąż buduje chemię w zespole i przystosowuje się do ACB. Mimo że jest to mecz przedsezonowy, większa stabilność i jakość indywidualna przemawiają za Joventut.",
       "key_factors": [
-        "Absencje kluczowych graczy w obu drużynach z powodu obowiązków reprezentacyjnych",
-        "Casademont Zaragoza ma nowych, doświadczonych graczy, takich jak Guillem Vives, którzy wzmocnili skład",
-        "iLerna Lleida to drużyna ACB od niedawna, a Casademont Zaragoza to bardziej ugruntowany klub w lidze",
-        "Mecz odbywa się na neutralnym terenie, co eliminuje przewagę własnego boiska"
+        "Wyższe miejsce Asisa Joventut w poprzednim sezonie (półfinalista ACB).",
+        "Monbus Obradoiro awansował z niższej ligi (Primera FEB) w poprzednim sezonie.",
+        "Doświadczeni liderzy Asisa Joventut (Ricky Rubio, Jabari Parker) w dobrej formie z poprzedniego sezonu.",
+        "Brak potwierdzonych nowych, istotnych kontuzji u kluczowych graczy na dzień meczu.",
+        "Mecz przedsezonowy - charakter sparingowy, co zmniejsza przewidywalność."
       ],
-      "injury_notes": "iLerna Lleida będzie grać bez centrów Kura Kuatha i Atoumane Diagne, którzy są powołani do swoich reprezentacji narodowych i dołączą do zespołu dopiero na początku września. Casademont Zaragoza wystąpi bez Trae Bell-Haynesa, Nico Brussino i Robertsa Blumbergsa, którzy są na zgrupowaniach swoich reprezentacji narodowych w ramach Kwalifikacji do Mistrzostw Świata FIBA."
+      "injury_notes": "Brak istotnych, aktualnych braków dla obu drużyn na dzień 2026-08-29, według dostępnych źródeł. Wcześniejsze doniesienia o kontuzjach (np. Ante Tomić, Simon Birgander dla Joventut) pochodzą z poprzedniego sezonu i nie ma potwierdzenia ich statusu na dziś. Caleb Agada z Monbus Obradoiro jest w pełni zintegrowany z zespołem."
     }
   ]
 }
