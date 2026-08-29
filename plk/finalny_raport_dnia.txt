@@ -1,20 +1,23 @@
---- AUDYT PLK LIVE (2026-08-29 07:06 CET) ---
-Analiza meczu PLK (2026-08-29):
+--- AUDYT PLK LIVE (2026-08-29 13:41 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21):
 
----
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate 🤕: Poważna kontuzja nadgarstka (od lutego 2026, długa przerwa).
+        *   Filip Matczak ⚠️: Dolegliwości starej kontuzji od czerwca 2026, jego dostępność na mecz finałowy była niepewna, mimo nadziei na występ.
+    *   **Legia Warszawa:**
+        *   Michał Kolenda 🤕: Kontuzja (rekonwalescencja po operacji trwająca do sierpnia 2026), co oznacza, że prawdopodobnie był niedostępny lub bardzo ograniczony w czerwcu 2026.
+    *   Brak istotnych braków w składzie koszykarskim poza wymienionymi.
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-*   **Typ z PulsBasketu:** Legia Warszawa
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz.
+        *   Jakub Szumert: 13.2 Pkt/mecz.
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz.
+        *   Conley Garrison: 10.9 Pkt/mecz, 3.8 zbiórki, 5.2 asysty.
+    *   **Legia Warszawa:**
+        *   Andrzej Pluta: Został wybrany najlepszym polskim zawodnikiem sezonu zasadniczego 2025/2026.
+        *   Legia Warszawa jako zespół w sezonie 2025/2026 zdobywała średnio 86.7 punktów na mecz. (Brak danych z API dla indywidualnych top scorerów Legii w formacie Pkt/mecz poza wyróżnieniem Pluty).
 
-1.  **Kluczowe braki w składach (2026-08-29):**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
-    _ (Informacje o kontuzjach i zawieszeniach są aktualizowane na bieżąco przed rozpoczęciem sezonu 2026/2027. Na dzień 29.08.2026 brak jest potwierdzonych poważnych urazów kluczowych zawodników w obu zespołach koszykarskich)._
-
-2.  **Aktualna forma top scorerów (2026-08-29):**
-    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu na dzień 29.08.2026. Składy na sezon 2026/2027 są w trakcie kompletowania lub ogłaszania, a szczegółowe dane o formie strzeleckiej będą dostępne po rozpoczęciu rozgrywek.
-    *   **Legia Warszawa:** Brak danych z API dla tego zespołu na dzień 29.08.2026. Składy na sezon 2026/2027 są w trakcie kompletowania lub ogłaszania, a szczegółowe dane o formie strzeleckiej będą dostępne po rozpoczęciu rozgrywek.
-    _ (Na koniec sierpnia, przed startem sezonu PLK 2026/2027, szczegółowe dane o formie strzeleckiej z rozgrywek ligowych nie są dostępne. W tym okresie zawodnicy przygotowują się w ramach obozów treningowych i meczów sparingowych)._
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak aktualnych danych o formie top scorerów oraz potwierdzonych braków w składach na dzień 29.08.2026 uniemożliwia rzetelną ocenę tego typu. Ocenianie meczu na podstawie historycznych danych z czerwca jest sprzeczne z zasadami. Analiza opiera się na braku dostępnych informacji na dziś (2026-08-29), co czyni typ ryzykownym.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Prognoza, że Legia Warszawa wygra, została potwierdzona. Legia Warszawa wygrała ten mecz (Game 7 finału PLK 2025/2026) i zdobyła Mistrzostwo Polski. Mecz odbył się na własnym parkiecie Legii, co dawało jej dodatkową przewagę w decydującym spotkaniu play-off. Pomimo kontuzji po obu stronach, Legia udowodniła swoją dominację.
