@@ -1,20 +1,34 @@
---- AUDYT PLK LIVE (2026-08-30 02:45 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (typ: Legia Warszawa) na dzień 2026-06-21, analiza na podstawie dostępnych danych z dnia 2026-08-30 przedstawia się następująco:
+--- AUDYT PLK LIVE (2026-08-30 15:31 CET) ---
+Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa
+Data meczu: 2026-06-21
+Typ z PulsBasketu: Legia Warszawa
 
----
+Analiza na dzień 2026-08-30:
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra**: Sagaba Konate doznał poważnej kontuzji nadgarstka (awulsyjne uszkodzenie więzadła SL) w lutym 2026 roku, co wykluczyło go z gry na resztę sezonu 2025/2026. Klub potwierdził, że w okresie przed finałami (czerwiec 2026) zmagał się również z innymi urazami w składzie. Filip Matczak był kontuzjowany w lutym 2026, choć jest w składzie na sezon 2026/2027, jego dostępność na 21 czerwca 2026 mogła być ograniczona.
-    *   🏀 **Legia Warszawa**: Michał Kolenda jest w trakcie rekonwalescencji po operacji, co potwierdzono w sierpniu 2026 roku. Jego status na 21 czerwca 2026 nie jest jednoznaczny, ale możliwa była jego niedostępność. Na sparing w sierpniu 2026, Ilver, Zoriks i Goloman byli nieobecni z powodu obowiązków reprezentacyjnych, co sugeruje, że są to kluczowi gracze.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Zgodnie z informacjami z 2026-02-28 i 2026-02-21, Sagaba Konate doznał poważnej kontuzji dłoni (awulsyjne uszkodzenie nadgarstka) podczas Pucharu Polski i jego sezon 2025/2026 został zakończony. Nie ma danych sugerujących jego powrót do gry przed 2026-06-21.
+        *   Filip Matczak i Jakub Szumert byli kontuzjowani przed meczem Pucharu Polski w lutym 2026, ale ich status na 2026-06-21 nie jest jasno określony jako wykluczający z gry w finale. Mimo to, Filip Matczak jest w składzie na sezon 2026/2027. Jakub Szumert również był w składzie na sezon 2025/2026 i był wśród topowych strzelców.
+        *   Brak innych istotnych braków w składzie koszykarskim na dzień 2026-08-30.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API PulsBasketu dla tego zespołu. Ze względu na fakt, że 21 czerwca 2026 roku Legia Warszawa zdobyła Mistrzostwo Polski, pokonując Zastal Zielona Góra w finale, można wnioskować o bardzo dobrej formie całego zespołu Legii w tamtym okresie. Natomiast liczne kontuzje w Zastalu mogły negatywnie wpłynąć na formę strzelecką ich liderów.
+    *   **Legia Warszawa:**
+        *   Michał Kolenda jest w trakcie powrotu do zdrowia po operacji, co oznacza, że byłby niedostępny na dzień 2026-08-30, oraz prawdopodobnie 2026-06-21 (finały).
+        *   Brak innych istotnych braków w składzie koszykarskim na dzień 2026-08-30.
 
-3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY]
-        *   Legia Warszawa obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra w finale 21 czerwca 2026 roku. Ten mecz był decydującym spotkaniem, co umacnia przewagę własnego parkietu i dobrej formy mistrzowskiej.
-        *   Zastal Zielona Góra borykał się z poważnymi kontuzjami, w tym z długoterminowym wykluczeniem Sagaby Konate, co osłabiało ich skład w kluczowych momentach sezonu.
-        *   Zatem, typ na Legię Warszawa był w pełni uzasadniony.
+2.  **Aktualna forma top scorerów (z sezonu 2025/2026, ponieważ mecz był w tym sezonie):**
+
+    *   **ORLEN Zastal Zielona Góra:**
+        *   W sezonie 2025/2026, najlepszymi strzelcami Zastalu byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Dwight Wilson III również osiągał średnio 14.9 punktu. Andrzej Mazurczak był również jednym z liderów ligi w asystach w październiku 2025 (6.5 asysty).
+        *   Mimo kontuzji, Phil Fayne wrócił do zespołu na serię finałową w czerwcu 2026.
+
+    *   **Legia Warszawa:**
+        *   Legia Warszawa obroniła tytuł Mistrza Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra 4-3 w finale. Zwycięstwo w decydującym meczu (78:70) miało miejsce 21 czerwca 2026.
+        *   Kameron McGusty był najlepszym strzelcem całej ligi w sezonie 2024/2025, a także MVP sezonu zasadniczego i finałów. Chociaż to dane z poprzedniego sezonu, sugerują jego wysoką formę.
+        *   Brak konkretnych danych o indywidualnych top-strzelcach dla Legii z sezonu 2025/2026 w dostępnych wynikach wyszukiwania, poza statystykami drużynowymi (86.7 punktu na mecz). Mathieu Wojciechowski, były reprezentant Polski, dołączył do Legii Warszawa w sierpniu 2026, co byłoby już po tym meczu.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+
+    *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując Zastal Zielona Góra w finale 4-3, a decydujący mecz odbył się 21 czerwca 2026 roku. To potwierdza trafność typowania Legii.
+    *   Fakt, że był to decydujący mecz finału play-off (mecz 7/7), zwiększa wagę przewagi własnego parkietu, co mogło sprzyjać Legii, która wygrała mecz u siebie (w hali Bemowo).
+    *   Zastal miał osłabienia (zakończony sezon Konate, wcześniejsze kontuzje Szumerta i Matczaka, choć ten ostatni wrócił na finały). Legia również miała Michała Kolendę wracającego do zdrowia po operacji. Mimo to Legia zwyciężyła.
