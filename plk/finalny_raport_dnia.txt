@@ -1,70 +1,20 @@
---- AUDYT PLK LIVE (2026-08-30 01:44 CET) ---
-Analiza meczu PLK na 2026-08-30 (dla meczu planowanego na 2026-06-21):
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
-
-1.  **Kluczowe braki w składach (stan na 2026-08-30):**
-
-    *   **Legia Warszawa (koszykówka):**
-        *   Brak potwierdzonych, istotnych braków w składzie koszykarskim Legii Warszawa na dzień 2026-08-30. Skład na sezon 2026/2027 wydaje się być kompletowany, ale brak doniesień o kontuzjach kluczowych zawodników.
-    *   **ORLEN Zastal Zielona Góra (koszykówka):**
-        *   Brak potwierdzonych, istotnych braków w składzie koszykarskim ORLEN Zastalu Zielona Góra na dzień 2026-08-30. Podobnie jak w przypadku Legii, skład na nadchodzący sezon jest w trakcie finalizacji, bez doniesień o poważnych kontuzjach.
-
-2.  **Aktualna forma top scorerów:**
-
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:**
-
-    *   [✅ ZATWIERDZONY] – Biorąc pod uwagę brak zgłoszonych kontuzji kluczowych zawodników w obu zespołach na dzień dzisiejszy (co jest typowe dla okresu przedsezonowego) oraz fakt, że Legia Warszawa jest faworyzowana w typie, brak istotnych przeciwwskazań.
-    
-    *   *Uwaga od Analityka:* Mecz pierwotnie zaplanowany na 2026-06-21 w obecnym kontekście (2026-08-30) jest analizowany na podstawie aktualnych informacji o składach.
-    
+--- AUDYT PLK LIVE (2026-08-30 02:45 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (typ: Legia Warszawa) na dzień 2026-06-21, analiza na podstawie dostępnych danych z dnia 2026-08-30 przedstawia się następująco:
 
 ---
 
-**Wykorzystane źródła:**
-*   plk.pl
-*   sportowefakty.wp.pl/koszykowka
-*   oficjalne profile klubów na X/Twitter
-*   polskikosz.pl
-*   sport.pl/koszykowka
-*   eurosport.pl/koszykowkaKONTEKST DZISIEJSZYCH MECZOW (dane z PulsBasketu - to fakty, nie zgaduj):
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ: Legia Warszawa
 
-=========================================================================
-TYPY DO AUDYTU:
-=========================================================================
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
-
-=========================================================================
-ZADANIE
-=========================================================================
-Dla kazdego meczu okresl:
-1.  Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii) - sprawdz Google Search.
-2.  Aktualna forma top scorerów (jezeli mam dane W SERII powyzej, uwzglednij je).
-3.  Werdykt: [✅ ZATWIERDZONY] albo [⚠️ RYZYKOWNY].
-
-PAMIETAJ:
-- Hala/miasto z KONTEKSTU = fakt, nie zmieniaj.
-- Faza play-off + decydujacy mecz (np. mecz 5/5 lub 7/7) = wieksza waga przewagi wlasnego parkietu i kontuzji liderow.
-
----
-
-**Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa**
-(Data analizy: 2026-08-30; mecz pierwotnie zaplanowany na 2026-06-21)
-
-1.  **Kluczowe braki w składach (stan na 2026-08-30):**
-
-    *   **Legia Warszawa (koszykówka):**
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim Legii Warszawa na dzień 2026-08-30. Z doniesień wynika, że koszykarze Legii rozpoczęli przygotowania do sezonu 2026/27 w połowie sierpnia, przechodząc testy medyczne i motoryczne, co sugeruje, że skład jest w fazie kompletowania i nie ma doniesień o bieżących, poważnych kontuzjach wykluczających zawodników na dłużej. Klub ogłosił też nowe transfery, jak Gyorgy Goloman w lipcu i Mathieu Wojciechowski w sierpniu 2026. Informacje o kontuzjach z początku 2026 roku (np. Matthias Tass, Michał Kolenda) są przestarzałe i dotyczą poprzedniego sezonu.
-    *   **ORLEN Zastal Zielona Góra (koszykówka):**
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim ORLEN Zastalu Zielona Góra na dzień 2026-08-30. Zastal również aktywnie buduje skład na sezon 2026/2027, ogłaszając transfery takie jak Gauthier Denis w lipcu. W sierpniu Conley Garrison rozpoczął przygotowania z zespołem. Podobnie jak w przypadku Legii, wcześniejsze kontuzje (np. Sagaba Konate w lutym 2026) są nieaktualne dla bieżącej daty.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra**: Sagaba Konate doznał poważnej kontuzji nadgarstka (awulsyjne uszkodzenie więzadła SL) w lutym 2026 roku, co wykluczyło go z gry na resztę sezonu 2025/2026. Klub potwierdził, że w okresie przed finałami (czerwiec 2026) zmagał się również z innymi urazami w składzie. Filip Matczak był kontuzjowany w lutym 2026, choć jest w składzie na sezon 2026/2027, jego dostępność na 21 czerwca 2026 mogła być ograniczona.
+    *   🏀 **Legia Warszawa**: Michał Kolenda jest w trakcie rekonwalescencji po operacji, co potwierdzono w sierpniu 2026 roku. Jego status na 21 czerwca 2026 nie jest jednoznaczny, ale możliwa była jego niedostępność. Na sparing w sierpniu 2026, Ilver, Zoriks i Goloman byli nieobecni z powodu obowiązków reprezentacyjnych, co sugeruje, że są to kluczowi gracze.
 
 2.  **Aktualna forma top scorerów:**
-
-    *   Brak danych z API dla tego zespołu.
+    *   Brak danych z API PulsBasketu dla tego zespołu. Ze względu na fakt, że 21 czerwca 2026 roku Legia Warszawa zdobyła Mistrzostwo Polski, pokonując Zastal Zielona Góra w finale, można wnioskować o bardzo dobrej formie całego zespołu Legii w tamtym okresie. Natomiast liczne kontuzje w Zastalu mogły negatywnie wpłynąć na formę strzelecką ich liderów.
 
 3.  **Werdykt:**
-
-    *   [✅ ZATWIERDZONY] – Na podstawie dostępnych informacji z dnia 2026-08-30, brak jest istotnych doniesień o kontuzjach lub innych brakach w składach koszykarskich obu zespołów, które mogłyby wpłynąć na ten typ. Oba kluby są w fazie przygotowań do nowego sezonu, a ich składy na sezon 2026/2027 są aktualizowane. Brak przeciwwskazań.
+    *   [✅ ZATWIERDZONY]
+        *   Legia Warszawa obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra w finale 21 czerwca 2026 roku. Ten mecz był decydującym spotkaniem, co umacnia przewagę własnego parkietu i dobrej formy mistrzowskiej.
+        *   Zastal Zielona Góra borykał się z poważnymi kontuzjami, w tym z długoterminowym wykluczeniem Sagaby Konate, co osłabiało ich skład w kluczowych momentach sezonu.
+        *   Zatem, typ na Legię Warszawa był w pełni uzasadniony.
