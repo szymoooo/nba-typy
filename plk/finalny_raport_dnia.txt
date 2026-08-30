@@ -1,50 +1,10 @@
---- AUDYT PLK LIVE (2026-08-30 21:35 CET) ---
-Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa
-Data meczu (z PulsBasketu): 2026-06-21
-Hala meczu: OSiR Warszawa Bemowo, Warszawa (dom Legii Warszawa)
+--- AUDYT PLK LIVE (2026-08-30 22:58 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
----
-
-**ORLEN Zastal Zielona Góra**
-
-1.  **Kluczowe braki w składzie:**
-    *   ❌ Sagaba Konate (silny skrzydłowy/środkowy): Wykluczony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026.
-    *   ⚠️ Filip Matczak (rozgrywający): Zgłaszał dolegliwości związane ze starą kontuzją w czerwcu 2026, został wyłączony z treningów przed finałami, ale wystąpił w meczu finałowym, zdobywając 8 punktów.
-    *   ⚠️ Dwight Wilson (środkowy): Odczuwał skutki urazu kostki, ale normalnie trenował z kontaktem przed finałami i zagrał w meczu, zdobywając 6 punktów.
-    *   ⚠️ Andrzej Mazurczak (rozgrywający): Trenował indywidualnie w masce przed finałami, ale wystąpił w meczu, zdobywając 10 punktów.
-    *   ✅ Phil Fayne (silny skrzydłowy): Wrócił do zespołu na serię finałową po sprawach rodzinnych w USA. Zagrał w meczu, ale bez punktów (0 Pkt).
-
-2.  **Aktualna forma top scorerów (z uwzględnieniem meczu 2026-06-21):**
-    *   W meczu finałowym 21.06.2026:
-        *   Andrzej Mazurczak: 10 punktów.
-        *   Jayvon Maughmer: 10 punktów.
-        *   Chavaughn Lewis: 10 punktów.
-    *   Średnia w sezonie 2025/2026:
-        *   Chavaughn Lewis: 15.8 Pkt/mecz.
-        *   Jakub Szumert: 13.2 Pkt/mecz.
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz.
-
----
-
-**Legia Warszawa**
-
-1.  **Kluczowe braki w składzie:**
-    *   ✅ Brak istotnych braków w składzie koszykarskim na mecz finałowy. Mimo wcześniejszych urazów w sezonie 2025/2026, kluczowi zawodnicy jak Michał Kolenda, Matthias Tass, Ojars Silins i Race Thompson byli dostępni i grali w finałach.
-
-2.  **Aktualna forma top scorerów (z uwzględnieniem meczu 2026-06-21):**
-    *   W meczu finałowym 21.06.2026:
-        *   Andrzej Pluta: 15 punktów. (MVP finałów i sezonu zasadniczego 2025/2026)
-        *   Race Thompson: 11 punktów.
-        *   Dominic Brewton III: 11 punktów.
-        *   Shane Hunter: 10 punktów.
-    *   Średnia w sezonie 2025/2026:
-        *   Dominic Brewton III: 14.5 Pkt/mecz.
-        *   Andrzej Pluta: 13.4 Pkt/mecz.
-        *   Jayvon Graves: 12.8 Pkt/mecz.
-
----
-
-**Werdykt:** [✅ ZATWIERDZONY]
-
-**Uzasadnienie:**
-Mecz był siódmym, decydującym spotkaniem finałowej serii PLK 2025/2026. Legia Warszawa grała u siebie, co stanowiło znaczącą przewagę w tak ważnym meczu. Legia miała praktycznie pełny skład, z graczami takimi jak Michał Kolenda, Matthias Tass, Ojars Silins i Race Thompson, którzy wrócili do gry po wcześniejszych urazach i byli w stanie wnieść wkład w drużynę. Andrzej Pluta był liderem zespołu i MVP zarówno sezonu zasadniczego, jak i finałów. Zastal Zielona Góra, choć waleczny, musiał radzić sobie bez Sagaby Konate (wykluczonego na cały sezon), a inni kluczowi gracze (Matczak, Wilson, Mazurczak) mieli drobne problemy zdrowotne tuż przed finałami, co mogło wpłynąć na ich optymalną dyspozycję. Biorąc pod uwagę przewagę własnego parkietu Legii w decydującym meczu i jej mocny, niemal kompletny skład, typ na Legię Warszawa był uzasadniony.
+1.  **Kluczowe braki w składach:**
+    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim w okolicach 21 czerwca 2026.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim w okolicach 21 czerwca 2026.
+2.  **Aktualna forma top scorerów:**
+    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu.
+    *   Legia Warszawa: Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
