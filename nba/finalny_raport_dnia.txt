@@ -1,11 +1,13 @@
---- KRYTYCZNY AUDYT LIVE (2026-08-31 15:53 ET) ---
-Analiza meczu: Heat @ Raptors (Styczeń 2026)
+--- KRYTYCZNY AUDYT LIVE (2026-08-31 19:40 ET) ---
+Analiza typów (Styczeń 2026):
 
-*   **Kluczowe braki w składach (stan na 2026-08-31):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. W dniu 2026-08-31, Toronto Raptors nie mają obecnie żadnych graczy na liście kontuzjowanych NBA. Podobnie, Miami Heat nie zgłaszają kontuzji.
-    *   Jednakże, biorąc pod uwagę okres Stycznia 2026:
-        *   **Heat:** Tyler Herro miał opuścić początek sezonu 2026 (co najmniej 8 tygodni) z powodu operacji stopy we wrześniu 2025 roku, co oznacza, że prawdopodobnie był niedostępny przez część stycznia 2026. Skład Heat na 2026-2027 obejmuje Giannisa Antetokounmpo, Bama Adebayo i Andrew Wigginsa.
-        *   **Raptors:** Brandon Ingram, który dołączył do Raptors przed styczniem 2026, zmagał się z kontuzją 8 stycznia 2026 roku. Jakob Poeltl również miał problemy z kontuzjami pod koniec grudnia 2025 roku. Roster Raptors na styczeń 2026 obejmował Scotta Barnesa, Immanuela Quickleya i RJ Barretta.
+---
 
-*   **Werdykt: [⚠️ RYZYKOWNY]**
-    *   Zakład na Raptors w styczniu 2026, biorąc pod uwagę obecność Giannisa Antetokounmpo w składzie Heat (zgodnie z raportami z sierpnia 2026 o składzie na sezon 2026-27) oraz potencjalne kontuzje kluczowych graczy Raptors (Brandon Ingram, Jakob Poeltl) w tym okresie, jest bardzo ryzykowny. Heat z Giannisem byliby faworytem.
+**Heat @ Raptors -> Typ: Raptors**
+
+*   **Kluczowe braki w składach (Styczeń 2026):**
+    *   **Toronto Raptors:** 🤕 RJ Barrett (kontuzja kostki, Out), Jakob Poeltl (problemy z plecami, Out), Ja'Kobe Walter (kontuzja kostki, Out). Brandon Ingram (kontuzja kciuka, Questionable), Scottie Barnes (skręcenie prawego kolana, Questionable).
+    *   **Miami Heat:** 🤕 Tyler Herro (kontuzja żeber/palca u nogi, Out), Davion Mitchell (stłuczenie barku, Out). Jaime Jaquez Jr. (skręcenie lewego kolana, Questionable).
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Biorąc pod uwagę znaczące braki w składzie Raptors w styczniu 2026 roku, w tym kilku kluczowych graczy wykluczonych lub z niepewnym statusem, typ na Raptors jest ryzykowny. Absencje takie jak RJ Barrett, Jakob Poeltl oraz niepewność co do występu Scotta Barnesa i Brandona Ingrama osłabiają zespół Raptors znacznie bardziej niż braki Heat, którzy również mieli kontuzje, ale ich kluczowi gracze (jak Bam Adebayo i Norman Powell) wydawali się być dostępni i grać na wysokim poziomie w tym okresie.
