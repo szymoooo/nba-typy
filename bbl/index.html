@@ -142,7 +142,28 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('bbl_140312556103424')">
+        <div class="card-header">
+            <span>15:00 CET</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="Rostock Seawolves"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Rostock Seawolves</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="Fraport Skyliners"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Fraport Skyliners</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">Fraport Skyliners</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: August 31, 2026 at 09:12 &middot; Data: Sofascore / 24score
+        Last updated: August 31, 2026 at 19:54 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"bbl_140312556103424": {"matchup": "Rostock Seawolves @ Fraport Skyliners", "pick": "Fraport Skyliners", "reasoning": "", "key_factors": [], "confidence": null, "injury_notes": "", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {
