@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-08-29T11:42:27.616668",
-  "date": "2026-08-29",
+  "generated_at": "2026-08-31T21:42:34.604318",
+  "date": "2026-08-31",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Monbus Obradoiro @ ASISA Joventut",
-      "phase": "Pre-season",
-      "ai_pick": "ASISA Joventut",
-      "formula_pick": "ASISA Joventut",
+      "matchup": "brak meczów @ brak meczów",
+      "phase": "brak",
+      "ai_pick": "brak meczów",
+      "formula_pick": "brak meczów",
       "agreement": true,
-      "confidence": 6,
-      "reasoning": "ASISA Joventut, jako drużyna, która w sezonie 2025/26 awansowała do fazy playoff, posiada bardziej ugruntowany i doświadczony skład z widocznymi liderami. Mimo iż jest to mecz przedsezonowy, ich stabilność i przewaga jakościowa powinny dać im przewagę nad Monbus Obradoiro, dla którego brakuje szczegółowych danych o formie z poprzedniego sezonu.",
-      "key_factors": [
-        "Stabilniejszy i bardziej doświadczony skład ASISA Joventut z takimi graczami jak Ricky Rubio, Cameron Hunt, Ante Tomic, Adam Hanga i Jabari Parker, którzy byli kluczowi w poprzednim sezonie.",
-        "ASISA Joventut był uczestnikiem fazy playoff Ligi Endesa 2025/26, co sugeruje wyższą jakość drużyny [cite: 6, 11 from previous search].",
-        "Brak zgłoszonych istotnych kontuzji dla obu drużyn na dzień 29 sierpnia 2026 roku, co oznacza, że obie ekipy powinny dysponować kompletnymi składami."
-      ],
-      "injury_notes": "Brak istotnych braków. Nie znaleziono żadnych aktualnych, specyficznych raportów o kontuzjach dla ASISA Joventut ani Monbus Obradoiro na dzień 29 sierpnia 2026 roku. Wcześniejsze doniesienia o kontuzjach Ante Tomica czy Birgandera z sezonu 2025/26 są nieistotne dla meczu przedsezonowego w obecnym terminie. Informacje o kontuzjach w okresie przedsezonowym są często ograniczone."
+      "confidence": 0,
+      "reasoning": "Brak jest meczów zaplanowanych na dzisiaj w ACB Liga Endesa, co uniemożliwia przeprowadzenie analizy i wytypowanie zwycięzcy.",
+      "key_factors": [],
+      "injury_notes": "brak meczów do analizy"
     }
   ]
 }
