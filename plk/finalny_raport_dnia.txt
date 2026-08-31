@@ -1,10 +1,22 @@
---- AUDYT PLK LIVE (2026-08-30 22:58 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-08-31 11:11 CET) ---
+**Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data analizy: 2026-08-31)**
 
-1.  **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Brak istotnych braków w składzie koszykarskim w okolicach 21 czerwca 2026.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim w okolicach 21 czerwca 2026.
-2.  **Aktualna forma top scorerów:**
-    *   ORLEN Zastal Zielona Góra: Brak danych z API dla tego zespołu.
-    *   Legia Warszawa: Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+*   Data meczu podana w kontekście (2026-06-21) jest datą przeszłą. Analiza opiera się na dostępności zawodników i informacji o kontuzjach aktualnych na dzień dzisiejszy (2026-08-31), zgodnie z instrukcjami. Orlen Basket Liga sezon 2026/2027 rozpoczyna się 2 października 2026 roku, a Superpuchar Polski zaplanowano na 26-27 września 2026, więc zespoły są w fazie przygotowawczej.
+
+**1. Kluczowe braki w składach:**
+
+    *   **Legia Warszawa:**
+        *   Michał Kolenda: Był w trakcie rehabilitacji według informacji z 9 sierpnia 2026 roku. Klub podpisał Mathieu Wojciechowskiego, aby "zamknąć skład drużyny" z uwagi na rehabilitację Kolendy, co sugeruje jego dłuższą niedyspozycję lub niedawny powrót do zdrowia. Brak jednak potwierdzenia jego statusu na dzień 2026-08-31.
+        *   Brak innych istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-08-31. (Informacje o kontuzjach piłkarzy lub incydentalnych urazach z poprzedniego sezonu są ignorowane zgodnie z zasadami).
+
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-08-31. (Wcześniejsze urazy z lutego i czerwca 2026 roku, dotyczące Filipa Matczaka, Jakuba Szumerta, Sagaby Konate, Andy'ego Mazurczaka czy Dwighta Wilsona, pochodzą z poprzedniego sezonu i nie są aktualne na 2026-08-31).
+
+**2. Aktualna forma top scorerów:**
+
+    *   Brak danych z API dla tego zespołu.
+
+**3. Werdykt:**
+
+    *   [⚠️ RYZYKOWNY]
+        *   Brak świeżych, jednoznacznych informacji o aktualnych kontuzjach obu drużyn na dzień 2026-08-31, co jest typowe dla okresu pre-sezonowego. Status Michała Kolendy w Legii pozostaje niejasny, choć klub poczynił kroki, aby poradzić sobie z jego absencją. Z uwagi na fazę przygotowawczą do sezonu, trudno ocenić "aktualną formę top scorerów" bez danych z bieżących sparingów lub oficjalnych rozgrywek, których brak w kontekście. Analiza opiera się na stanie kadr w okresie budowania zespołów na sezon 2026/2027.
