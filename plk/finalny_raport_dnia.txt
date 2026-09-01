@@ -1,23 +1,13 @@
---- AUDYT PLK LIVE (2026-09-01 01:40 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-09-01 02:55 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21, typ: Legia Warszawa):
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21.06.2026. Chociaż w grudniu 2025 r. Michał Kolenda i Matthias Tass mieli dłuższe przerwy, a Ojārs Siliņš był kontuzjowany, Legia ostatecznie obroniła mistrzostwo Polski 21 czerwca 2026 roku, co sugeruje, że kluczowi gracze byli dostępni lub zespół skutecznie zarządzał kadrą.
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak (top scorer) trenował indywidualnie w masce na początku czerwca 2026, ale miał być gotowy na serię finałową.
-        *   Filip Matczak zgłaszał dolegliwości związane ze starą kontuzją i został oszczędzony na treningach przed serią finałową, będąc "bardzo potrzebnym w serii finałowej".
-        *   Dwight Wilson III trenował z bólem kostki.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda, kapitan Legii, przeszedł planowany zabieg i rehabilitację w lipcu/sierpniu 2026 roku, co miało miejsce po finale PLK, zatem nie był niedostępny podczas meczu finałowego 21.06.2026.
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu urazu więzadła nadgarstka, którego doznał w lutym 2026 roku. Phil Fayne wracał do składu na finały, trenując indywidualnie.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   🏀 **Legia Warszawa:**
-        *   Dominic Brewton III: 14.5 Pkt/mecz
-        *   Andrzej Pluta: 13.4 Pkt/mecz
-        *   Jayvon Graves: 12.8 Pkt/mecz
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz
-        *   Jakub Szumert: 13.2 Pkt/mecz
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY]
-    *   **Uzasadnienie:** Mecz odbył się 21 czerwca 2026 roku, kiedy Legia Warszawa obroniła tytuł mistrza Polski. Legia grała u siebie w OSiR Warszawa Bemowo. Zastal Zielona Góra przystępował do decydującej fazy sezonu z kilkoma zawodnikami borykającymi się z urazami (Filip Matczak, Dwight Wilson III) lub powracającymi po kontuzji (Andrzej Mazurczak). Mimo obecności silnych strzelców w Zastalu, przewaga własnego parkietu Legii oraz ich pełniejsza dyspozycja kadrowa w kluczowym momencie sezonu finałowego czyni typ na Legię Warszawa solidnym wyborem.
+    Mecz był decydującym spotkaniem finałowym PLK, tzw. Game 7, rozegranym na własnym parkiecie Legii Warszawa, która ostatecznie obroniła tytuł Mistrza Polski. Zastal Zielona Góra mierzył się z poważną absencją Sagaby Konate. Przewaga własnego parkietu w decydującym meczu serii play-off oraz kontuzja kluczowego zawodnika rywali to znaczące czynniki.
+    ✅ **ZATWIERDZONY**
