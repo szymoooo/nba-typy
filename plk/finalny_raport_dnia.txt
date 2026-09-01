@@ -1,18 +1,24 @@
---- AUDYT PLK LIVE (2026-09-01 04:59 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21), stan na 2026-09-01:
+--- AUDYT PLK LIVE (2026-09-01 10:26 CET) ---
+Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa
+Typ: Legia Warszawa (mecz finałowy, 2025/2026 PLK)
 
-### 🏀 ORLEN Zastal Zielona Góra @ Legia Warszawa
+1.  **Kluczowe braki w składach (na dzień 2026-06-21):**
+    *   **ORLEN Zastal Zielona Góra**:
+        *   ❌ Sagaba Konate: Zakończył sezon w lutym 2026 z powodu poważnej kontuzji nadgarstka.
+        *   ⚠️ Filip Matczak: Na początku czerwca 2026 odczuwał dolegliwości starej kontuzji i opuścił jeden trening.
+        *   ⚠️ Dwight Wilson III: Na początku czerwca 2026 odczuwał kostkę, ale trenował z kontaktem.
+        *   ⚠️ Andrzej Mazurczak: Na początku czerwca 2026 trenował indywidualnie w masce.
+    *   **Legia Warszawa**:
+        *   Brak potwierdzonych istotnych braków w składzie koszykarskim na czerwiec 2026. W grudniu 2025 kontuzjowani byli Michał Kolenda, Matthias Tass i Ojārs Siliņš, jednak brak aktualizacji wskazującej na ich niedyspozycję w czerwcu 2026.
 
-1.  **Kluczowe braki w składach (stan na 2026-09-01):**
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   Brak danych z API dla tego zespołu w kontekście "formy w serii".
+    *   **ORLEN Zastal Zielona Góra**: Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   **Legia Warszawa**: Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
+    *   Andrzej Pluta Jr. został MVP Sezonu i MVP Finałów PLK 2025/2026, co świadczy o jego wybitnej formie.
 
-    *   **Legia Warszawa:**
-        *   Brak istotnych, *aktualnych na 2026-09-01*, potwierdzonych braków w składzie koszykarskim w kontekście urazów. Informacje z maja 2026 o kontuzjach piłkarzy (Arkadiusz Reca, Paweł Wszołek) są nieistotne dla sekcji koszykówki. Doniesienia z grudnia 2025 o kontuzjach Michała Kolendy i Matthiasa Tassa pochodzą sprzed sezonu 2025/2026 i nie są aktualne na 2026-09-01 ani na dzień meczu 2026-06-21. Legia Warszawa kompletuje skład na sezon 2026/2027, pozyskując nowych zawodników jak Jakub Andrzejewski, Szymon Tomczak, Kristers Zoriks, Markus Ilver, Gyorgy Goloman, Zach Freemantle i Michael Christmas. Michał Kolenda, Wojciech Tomaszewski, Błażej Czapla i Dawid Niedziałkowski zostają w zespole. Dominic Brewton opuścił klub.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Brak istotnych, *aktualnych na 2026-09-01*, potwierdzonych braków w składzie koszykarskim w kontekście urazów. Informacje o kontuzjach Filipa Matczaka i Dwighta Wilsona z początku czerwca 2026 dotyczyły ich stanu przed serią finałową (która obejmowała mecz 2026-06-21) i wskazywały na ich powrót lub bycie blisko powrotu/treningów z kontaktem. Phil Fayne wrócił do zespołu na serię finałową. Sagaba Konate doznał kontuzji dłoni w lutym 2026 i miał nie zagrać do końca sezonu 2025/2026, więc był niedostępny na dzień meczu 2026-06-21. Zastal buduje skład na sezon 2026/2027, z Conleyem Garrisonem, Andrzejem Mazurczakiem, Veljko Brkiciem, Trazarienem White'em, Gauthierem Denisem, Toyazem Solomonem, Janem Wójcikiem, Filipem Matczakiem i Krzysztofem Sulimą. Patrick Cartier i Miłosz Góreńczyk odeszli z Zastalu w lipcu 2026.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-
-    *   Legia Warszawa, będąca mistrzem Polski w dwóch ostatnich sezonach, jest w trakcie budowania składu na sezon 2026/2027, z kilkoma nowymi transferami. Zastal Zielona Góra zakończył sezon 2025/2026 ze srebrnym medalem mistrzostw Polski i również dokonuje wzmocnień na kolejny sezon. W kontekście meczu z 2026-06-21, informacja o Sagabie Konate w Zastalu (kontuzja do końca sezonu 2025/2026) jest kluczowym brakiem dla Zastalu. Informacje o kontuzjach Filipa Matczaka i Dwighta Wilsona z początku czerwca 2026 wskazują, że ich dyspozycja na dzień meczu mogła być obniżona, mimo że wracali do treningów. Brak danych o formie top scorerów oraz fakt, że analiza opiera się na informacjach o składach i kontuzjach aktualnych na 2026-09-01, co jest po dacie meczu, czyni ten typ ryzykownym. Mimo przewidywanego wzmocnienia składu Legii w perspektywie przyszłego sezonu, retrospektywna ocena meczu z 21 czerwca 2026 jest obarczona niepewnością ze względu na dynamikę zmian w składach po zakończeniu sezonu oraz ograniczenia w dostępie do szczegółowych danych o formie graczy z przeszłości.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Mecz odbył się 21 czerwca 2026 roku i był szóstym meczem finałowym, w którym Legia Warszawa pokonała Zastal Zielona Góra 78:70, zdobywając mistrzostwo Polski.
+    *   Legia Warszawa grała u siebie w decydującym meczu.
+    *   Zastal borykał się z kluczową, długoterminową kontuzją Sagaby Konate oraz pomniejszymi problemami zdrowotnymi innych ważnych zawodników (Matczak, Wilson, Mazurczak) tuż przed finałami.
+    *   Legia posiadała w składzie MVP Finałów, Andrzeja Plutę Jr., co dodatkowo umacniało typ na Legię.
