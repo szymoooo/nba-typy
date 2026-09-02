@@ -1,19 +1,14 @@
 {
-  "generated_at": "2026-08-31T21:42:34.604318",
-  "date": "2026-08-31",
+  "generated_at": "2026-09-02T12:32:31.189969",
+  "date": "2026-09-02",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "brak meczów @ brak meczów",
-      "phase": "brak",
-      "ai_pick": "brak meczów",
-      "formula_pick": "brak meczów",
-      "agreement": true,
-      "confidence": 0,
-      "reasoning": "Brak jest meczów zaplanowanych na dzisiaj w ACB Liga Endesa, co uniemożliwia przeprowadzenie analizy i wytypowanie zwycięzcy.",
-      "key_factors": [],
-      "injury_notes": "brak meczów do analizy"
+      "matchup": "Inveready Askatuak Gipuzkoa @ Kosner Baskonia",
+      "ai_pick": null,
+      "formula_pick": "Kosner Baskonia",
+      "note": "AI fallback"
     }
   ]
 }
