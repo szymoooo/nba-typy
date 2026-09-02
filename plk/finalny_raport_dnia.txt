@@ -1,20 +1,23 @@
---- AUDYT PLK LIVE (2026-09-02 14:31 CET) ---
-Analiza meczu PLK na dzień 2026-09-02 (dla typu z 2026-06-21)
+--- AUDYT PLK LIVE (2026-09-02 21:34 CET) ---
+=========================================================================
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
----
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii)**
+    *   Brak istotnych braków w składzie koszykarskim. Nie znaleziono potwierdzonych informacji o kontuzjach, zawieszeniach lub absencjach kluczowych zawodników obu drużyn koszykarskich na dzień 21.06.2026.
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
-
-1.  **Kluczowe braki w składach (stan na 2026-09-02):**
-    *   🏀 **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-09-02. Kadra Legii na sezon 2026/2027 została zamknięta, a przygotowania rozpoczęły się 14 sierpnia.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-09-02. Skład Zastalu na sezon 2026/2027 jest w trakcie budowy i obejmuje nowych zawodników.
-    *   _Uwaga: Informacje o kontuzjach piłkarzy Legii Warszawa (np. Petar Stojanović) lub byłych kontuzjach z poprzedniego sezonu (np. Phil Fayne w Zastalu w czerwcu 2026) są nieistotne dla analizy składów koszykarskich na dzień dzisiejszy._
-
-2.  **Aktualna forma top scorerów:**
-    *   Zgodnie z danymi z zakończonego sezonu 2025/2026, Legia Warszawa zdobywała średnio 86.7 punktów na mecz.
-    *   ORLEN Zastal Zielona Góra w sezonie 2025/2026 zdobywał średnio 83.5 punktów na mecz.
-    *   Brak danych z API dla tego zespołu dotyczących aktualnej formy indywidualnych top scorerów na dzień 2026-09-02 (okres pre-sezonowy).
+2.  **Aktualna forma top scorerów**
+    *   Mecz pomiędzy Legią Warszawa a ORLEN Zastal Zielona Góra, rozegrany 21 czerwca 2026 roku, był siódmym i decydującym spotkaniem finałowej serii Orlen Basket Ligi sezonu 2025/2026.
+    *   **Legia Warszawa (najlepsi strzelcy w meczu 21.06.2026):**
+        *   Andrzej Pluta: 15 Pkt
+        *   Race Thompson: 11 Pkt
+        *   Dominic Brewton III (DJ Brewton): 11 Pkt
+        *   Shane Hunter: 10 Pkt
+    *   **ORLEN Zastal Zielona Góra (najlepsi strzelcy w meczu 21.06.2026):**
+        *   Andrzej Mazurczak (Andy Mazurczak): 10 Pkt
+        *   Jayvon Maughmer: 10 Pkt
+        *   Chavaughn Lewis: 10 Pkt
+    *   Dla sezonu 2025/2026, czołowymi strzelcami ORLEN Zastal Zielona Góra byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) oraz Andrzej Mazurczak (11.8 Pkt/mecz).
 
 3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Tip dotyczył meczu z 21 czerwca 2026 roku. Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 w decydującym, siódmym meczu finałów PLK sezonu 2025/2026, zdobywając tytuł Mistrza Polski.
-    *   Biorąc pod uwagę aktualne składy na początek sezonu 2026/2027 (gdzie obie drużyny uczestniczą w Superpucharze Polski we wrześniu), Legia Warszawa jako aktualny Mistrz Polski wciąż jest silnym kandydatem.
+    *   Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 w decydującym, siódmym meczu finału Orlen Basket Ligi i obroniła tytuł Mistrza Polski w sezonie 2025/2026. Mecz odbył się w Hali Bemowo w Warszawie, co dawało Legii przewagę własnego parkietu w tym kluczowym starciu. Typ na Legię Warszawa był trafny.
