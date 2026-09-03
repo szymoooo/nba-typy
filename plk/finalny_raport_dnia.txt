@@ -1,23 +1,29 @@
---- AUDYT PLK LIVE (2026-09-03 22:08 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa, 2026-06-21
+--- AUDYT PLK LIVE (2026-09-03 23:53 CET) ---
+Analiza meczu PLK na dzień 2026-06-21:
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień meczu. Chavaughn Lewis, który doznał kontuzji w maju 2026, powrócił do składu i wystąpił w meczach finałowych, zdobywając punkty w 4. meczu finału (15 czerwca 2026). Doniesienia o "walce z urazami" w szeregach Zastalu z początku czerwca 2026 nie wskazywały na konkretne absencje kluczowych graczy w decydującym meczu.
-    *   **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień meczu. Nie znaleziono informacji o kontuzjach czy zawieszeniach kluczowych koszykarzy Legii w okresie poprzedzającym finał 21 czerwca 2026.
+    *   **ORLEN Zastal Zielona Góra:** Przed serią finałową (na dzień 2026-06-06) zgłaszano powrót Phila Fayne'a oraz dolegliwości Filipa Matczaka związane ze starą kontuzją, co skutkowało opuszczeniem treningu. Dwight Wilson odczuwał skutki urazu kostki, ale trenował w kontakcie. Wcześniej, 2026-05-07, Chavaughn Lewis doznał kontuzji, ale zagrał i zdobył 18 punktów w Game 6 finałów (19.06.2026). Filip Matczak (4 punkty) i Dwight Allen Wilson (6 punktów) również grali w Game 6. Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 2026-06-21.
+    *   **Legia Warszawa:** W grudniu 2025 r. Michał Kolenda i Matthias Tass mieli dłuższe przerwy z powodu kontuzji. Jednakże, Michał Kolenda (5 punktów) i Ojars Silins (12 punktów) wystąpili w Game 6 finałów (19.06.2026). Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 2026-06-21.
 
-2.  **Aktualna forma top scorerów (dane z meczu 2026-06-21):**
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta: 15 punktów. Był liderem strzelców Legii w decydującym meczu. Wcześniej był "świetny przez cały sezon", choć w 4. meczu finałowym (15 czerwca 2026) zdobył 14 punktów, co było nieco poniżej oczekiwań.
-        *   Race Thompson: 11 punktów.
-        *   Dominic Brewton III: 11 punktów. Był jednym z czołowych strzelców Legii w sezonie 2025/2026 ze średnią 14.5 Pkt/mecz.
-        *   Shane Hunter: 10 punktów.
+2.  **Aktualna forma top scorerów (dane z Game 6 finałów - 2026-06-19):**
     *   **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak: 10 punktów. Mazurczak był kluczowym graczem Zastalu, prowadzącym zespół do zwycięstw w fazie play-off, w tym zdobywając 21 punktów w 4. meczu finałowym (15 czerwca 2026). Jego 10 punktów w decydującym meczu było niżej niż jego średnia i wcześniejsze występy w serii.
-        *   Brak danych z API dla pozostałych wiodących strzelców Zastalu bezpośrednio z meczu 21.06.2026 poza czołową piątką ligi.
+        *   Chavaughn Lewis: 18 punktów w Game 6. Był czołowym strzelcem Zastalu w sezonie 2025/2026 ze średnią 15.8 Pkt/mecz.
+        *   Conley Garrison: 17 punktów w Game 6, w tym decydujący rzut za trzy punkty.
+        *   Andrzej Mazurczak: 15 punktów w Game 6.
+        *   Jakub Szumert: 12 punktów w Game 6.
+    *   **Legia Warszawa:**
+        *   Carl Ponsar: 15 punktów w Game 6.
+        *   Dominic Brewton: 14 punktów w Game 6.
+        *   Ojars Silins: 12 punktów w Game 6.
+        *   Andrzej Pluta: 11 punktów w Game 6. Został wybrany MVP Finałów oraz Zawodnikiem Roku sezonu 2025-26, ze średnią ponad 13 punktów i 6 asyst na mecz. Jego 27 punktów przeciwko Zastalowi było jego rekordem sezonu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku i był 7. decydującym spotkaniem finałowym Orlen Basket Ligi.
-    *   Legia Warszawa grała u siebie w Hali OSiR Bemowo, co było znaczącym atutem w meczu o mistrzostwo.
-    *   Legia Warszawa ostatecznie wygrała mecz 78:70 i zdobyła mistrzostwo Polski.
-    *   Brak kluczowych absencji po stronie Legii oraz fakt, że wielu ich zawodników zdobyło dwucyfrową liczbę punktów w tym decydującym starciu, potwierdza ich dobrą formę na najważniejszy mecz sezonu.
-    *   Mimo ambitnej postawy Zastalu, który dotarł do finału z 8. miejsca po sezonie zasadniczym, ich lider strzelecki w tym meczu zdobył mniej punktów niż lider Legii, co mogło mieć wpływ na ostateczny wynik.
+3.  **Werdykt:**
+    *   Mecz 2026-06-21 był decydującym, siódmym spotkaniem finałów PLK sezonu 2025/2026.
+    *   Legia Warszawa grała u siebie (hala Bemowo, Warszawa) i zwyciężyła 78:70, zdobywając tytuł Mistrza Polski.
+    *   Obie drużyny przystąpiły do decydującego meczu z kluczowymi zawodnikami w składzie, co potwierdza ich udział w poprzedzającym Game 6.
+    *   Legia Warszawa była obrońcą tytułu.
+    *   Przewaga własnego parkietu w decydującym meczu serii finałowej była istotnym czynnikiem.
+
+✅ **ZATWIERDZONY**
