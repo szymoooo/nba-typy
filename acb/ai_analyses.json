@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-09-02T12:32:31.189969",
-  "date": "2026-09-02",
+  "generated_at": "2026-09-04T07:26:16.372954",
+  "date": "2026-09-04",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Inveready Askatuak Gipuzkoa @ Kosner Baskonia",
-      "ai_pick": null,
-      "formula_pick": "Kosner Baskonia",
-      "note": "AI fallback"
+      "matchup": "Baskonia @ Real Madrid",
+      "phase": "Preseason",
+      "ai_pick": "Real Madrid",
+      "formula_pick": "Real Madrid",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Real Madrid posiada znacznie bardziej kompletny skład na ten mecz przedsezonowy, z kluczowymi graczami takimi jak Tavares, Okeke, Procida i Maledon, którzy już brali udział w grach kontrolnych. Baskonia boryka się z poważnymi brakami kadrowymi, w tym zawodnikami na zgrupowaniach reprezentacyjnych, potencjalnym transferem do NBA (Khalifa Diop) i graczami, którzy jeszcze nie dołączyli do zespołu (Kenneth Faried).",
+      "key_factors": [
+        "Liczne nieobecności kluczowych zawodników w drużynie Baskonii (kadra narodowa, testy NBA, brak integracji z zespołem)",
+        "Dostępność i indywidualna forma czołowych graczy Realu Madryt w meczu przedsezonowym",
+        "Fakt, że Baskonia odwołała poprzedni mecz przedsezonowy z powodu braku zawodników"
+      ],
+      "injury_notes": "Baskonia jest poważnie osłabiona przez brak Khalifa Diopa (testy NBA), Kobi Simmonsa i Damiona Baugha (obowiązki reprezentacyjne) oraz Kennetha Farieda (nie dołączył jeszcze do zespołu). W Realu Madryt nie odnotowano istotnych braków kontuzji koszykarskich na dzień dzisiejszy, a kluczowi zawodnicy są dostępni i grają w presezonie."
     }
   ]
 }
