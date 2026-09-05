@@ -1,26 +1,7 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-04 20:58 ET) ---
-Analiza meczu: Heat @ Raptors (Styczeń 2026) -> Typ: Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-09-04 22:23 ET) ---
+Analiza meczu: Heat @ Raptors
 
-Na podstawie danych z 2026-09-04:
+*   **Kluczowe braki w składach (2026-09-04):** Brak aktualnych raportów (Injury Report) na tę chwilę. ❌
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. ⚠️
-    *   (Sezon NBA nie jest aktywny 4 września 2026 roku, stąd brak bieżących raportów o kontuzjach dla aktywnego meczu).
-
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak możliwości oceny kluczowych braków w składach na podstawie aktualnych raportów o kontuzjach uniemożliwia rzetelną analizę.
-
-**Skład Miami Heat (Styczeń 2026, przykładowi kluczowi gracze):**
-*   Bam Adebayo
-*   Tyler Herro
-*   Nikola Jovic
-*   Jaime Jaquez Jr.
-*   Davion Mitchell
-*   Andrew Wiggins
-
-**Skład Toronto Raptors (Styczeń 2026, przykładowi kluczowi gracze):**
-*   Scottie Barnes
-*   Immanuel Quickley
-*   RJ Barrett
-*   Jakob Poeltl
-*   Brandon Ingram
-*   Jamal Shead
+*   **Werdykt dla typu "Raptors":** [⚠️ RYZYKOWNY]
+    *   **Uzasadnienie:** Na podstawie danych ze stycznia 2026 r. Toronto Raptors posiadali silny skład z kluczowymi zawodnikami takimi jak Immanuel Quickley, RJ Barrett, Scottie Barnes, Brandon Ingram i Jakob Poeltl. Miami Heat również mieli utalentowany trzon z Bamem Adebayo, Tylerem Herro i Jaime Jaquezem Jr.. Jednakże, z powodu braku potwierdzonych raportów o kontuzjach na dzień 2026-09-04, nie można jednoznacznie ocenić pełnego stanu składów obu drużyn. Ta niepewność sprawia, że typowanie jest ryzykowne.
