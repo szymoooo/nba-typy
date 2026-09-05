@@ -1,16 +1,24 @@
---- AUDYT PLK LIVE (2026-09-05 09:06 CET) ---
-Analiza meczu z dnia 2026-06-21 (audit na dzień 2026-09-05):
-
-# ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-05 13:17 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
 
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim (informacje o kontuzjach z poprzedniego sezonu, np. z czerwca 2026 dotyczące Phila Fayne'a, Filipa Matczaka czy Dwighta Wilsona, są nieaktualne na dzień 2026-09-05 i dotyczą minionego sezonu).
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim (informacje o kontuzjach z 2025 roku, np. Michała Kolendy czy Matthiasa Tassa, są nieaktualne na dzień 2026-09-05 i dotyczą minionego sezonu).
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   ⚠️ Chavaughn Lewis: Doznał kontuzji 7 maja 2026 i miał opuścić nadchodzące mecze. Brak potwierdzenia jego powrotu na finał 21 czerwca 2026, co czyniło jego status ryzykownym. Był jednym z top scorerów zespołu w sezonie 2025/2026.
+        *   Filip Matczak i Andrzej Mazurczak: Grali w meczach finałowych z maskami z powodu wcześniejszych kontuzji (Matczak z kontuzją nosa), co wskazywało na pewien stopień niedyspozycji.
+        *   Phil Fayne: Wrócił do gry przed finałową rywalizacją.
+    *   🏀 **Legia Warszawa:**
+        *   Michał Kolenda i Matthias Tass: Doznali poważnych kontuzji w grudniu 2025, co wiązało się z prognozowaną długą przerwą. Brak jednoznacznych, potwierdzonych informacji o ich dostępności lub dalszej absencji na mecz 21 czerwca 2026.
 
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
+    *   Jednakże, zgodnie z informacjami z sezonu 2025/2026, Andrzej Pluta Jr. z Legii Warszawa został wybrany MVP Finałów, co świadczy o jego doskonałej formie w decydującej fazie sezonu. Był również MVP całego sezonu.
+    *   Dla ORLEN Zastalu Zielona Góra, czołowymi strzelcami w sezonie 2025/2026 byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się w przeszłości (2026-06-21). Ocena typu na podstawie aktualnego stanu drużyn (2026-09-05) jest wyzwaniem ze względu na możliwe zmiany w składach między sezonami.
-    *   Jednakże, Legia Warszawa była obrońcą tytułu mistrza Polski w sezonie 2025/2026. Zarówno Legia, jak i ORLEN Zastal Zielona Góra, jako medaliści poprzedniego sezonu, wezmą udział w Superpucharze Polski we wrześniu 2026, co świadczy o ich utrzymanej pozycji w czołówce PLK przed startem sezonu 2026/2027 (który rozpocznie się 2 października 2026).
-    *   Biorąc pod uwagę dominację Legii w poprzednim sezonie, typ na jej zwycięstwo był historycznie uzasadniony. Z perspektywy aktualnego statusu zespołów jako czołowych drużyn ligi, Legia wciąż jest postrzegana jako silny pretendent.
+3.  **Werdykt:**
+    *   Mecz 21 czerwca 2026 roku był finałowym spotkaniem ORLEN Basket Ligi sezonu 2025/2026. Legia Warszawa zdobyła w nim Mistrzostwo Polski, pokonując ORLEN Zastal Zielona Góra wynikiem 78:70 w Warszawie.
+    *   ORLEN Zastal Zielona Góra borykał się z problemami zdrowotnymi, a potencjalna absencja kluczowego strzelca Chavaughna Lewisa oraz gra Filipa Matczaka i Andrzeja Mazurczaka z niedyspozycjami mogły osłabić zespół.
+    *   Legia Warszawa, mimo wcześniejszych kontuzji w składzie, była w optymalnej formie w kluczowych momentach, co potwierdza tytuł MVP Finałów dla Andrzeja Pluty Jr. i ostateczne zdobycie mistrzostwa.
+
+    Biorąc pod uwagę kontekst meczu finałowego, potwierdzone problemy zdrowotne Zastalu oraz dominującą formę Legii Warszawa, która zaowocowała zdobyciem tytułu, typ na Legię Warszawa był uzasadniony.
+
+    **[✅ ZATWIERDZONY]**
