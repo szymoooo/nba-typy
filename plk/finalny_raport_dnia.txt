@@ -1,27 +1,14 @@
---- AUDYT PLK LIVE (2026-09-06 04:19 CET) ---
-Zgodnie z Twoimi instrukcjami, analizuję podany mecz, bazując na aktualnej dacie 2026-09-06, ignorując dane sprzed sezonu 2025-26. Zwracam uwagę, że podana data meczu (2026-06-21) jest datą przeszłą. Analiza opiera się na składach i kontuzjach aktualnych na dzień 2026-09-06.
+--- AUDYT PLK LIVE (2026-09-06 09:11 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-09-06)
 
----
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-*Typ PulsBasketu: Legia Warszawa*
-
-1.  **Kluczowe braki w składach (2026-09-06):**
-    Na dzień 2026-09-06, obie drużyny prawdopodobnie finalizują składy na nadchodzący sezon 2026/2027.
-
-    🟢 **ORLEN Zastal Zielona Góra:**
-        *   **Skład (2026-09-06):** Andy Mazurczak, Jakub Galewski (PG), Conley Garrison, Filip Matczak (SG), Gauthier Denis, Trazarien White, Miłosz Majewski (SF), Toyaz Salomon, Jan Wójcik (PF), Veljko Brkić, Krzysztof Sulima (C). Trener: Arkadiusz Miłoszewski. Nowym zawodnikiem na obwodzie jest Trazarien White. Toyaz Solomon dołączył do drużyny, domykając podkoszową część składu. Conley Garrison przedłużył kontrakt.
-        *   **Kluczowe braki/kontuzje (2026-09-06):** Brak istotnych, aktualnych informacji o kontuzjach w składzie koszykarskim na dzień 2026-09-06. Wcześniejsze doniesienia z czerwca 2026 wskazywały na problemy Filipa Matczaka ze starą kontuzją oraz Dwighta Wilsona z urazem kostki, ale Matczak miał być potrzebny w serii finałowej, a Wilson normalnie trenował. Phil Fayne wrócił do składu na finałową serię w czerwcu 2026. Sagaba Konate doznał poważnie wyglądającej kontuzji nadgarstka w lutym 2026, ale nie ma aktualnych informacji na 2026-09-06. Skład na sezon 2026/2027 jest już podany i nie uwzględnia Fayne'a czy Konate, co sugeruje ich odejście lub brak w kadrze.
-
-    🟢 **Legia Warszawa:**
-        *   **Skład (2026-09-06):** Kristers Zoriks, Błażej Czapla (PG), Devon Daniels, Wojciech Tomaszewski, Jakub Andrzejewski (SG), Michael Christmas, Michał Kolenda, Mathieu Wojciechowski (SF), Zach Freemantle, Markus Ilver, Julian Dąbrowski (PF), Gyorgy Goloman, Szymon Tomczak, Dawid Niedziałkowski (C). Trener: Heiko Rannula. Jakub Andrzejewski i Szymon Tomczak to nowe twarze w składzie Legii. Mathieu Wojciechowski wrócił do Polski i zagra w Legii. Zach Freemantle jest kolejnym transferem Legii.
-        *   **Kluczowe braki/kontuzje (2026-09-06):** Brak istotnych, aktualnych informacji o kontuzjach w składzie koszykarskim na dzień 2026-09-06. W grudniu 2025 Legia zmagała się z licznymi kontuzjami, w tym Michała Kolendy i Matthiasa Tassa, ale to dane z poprzedniego sezonu. W czerwcu 2026 Andrzej Pluta opuścił Legię. Informacje o kontuzji Wahan Biczachczjana z kwietnia 2026 dotyczą sekcji piłkarskiej.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:** Michał Kolenda (kapitan, skrzydłowy) jest w trakcie rehabilitacji po operacji kolana i nie rozpoczął treningów do sezonu 2026/27. Jest to istotny brak w składzie Legii.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Veljko Brkić (środkowy) i Miłosz Majewski (niski skrzydłowy) byli nieobecni na sparingu 4 września 2026 roku. Brak potwierdzonych informacji o charakterze i długości ich niedyspozycji na dzień 2026-09-06.
+        *   Sagaba Konate (środkowy), który w lutym 2026 roku doznał urazu dłoni kończącego jego udział w sezonie 2025/2026, nie figuruje w aktualnym składzie Zastalu na sezon 2026/2027.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tej konkretnej serii, ponieważ mecz jest datowany na przeszłość (2026-06-21), a analiza odbywa się w kontekście początku nowego sezonu (2026-09-06). Na początek sezonu 2026/2027 nie ma jeszcze statystyk z bieżących rozgrywek ligowych czy serii play-off.
-    *   Jednakże, patrząc na końcówkę poprzedniego sezonu (finały PLK 2025/2026, zakończone w czerwcu 2026), Conley Garrison był bardzo ważnym zawodnikiem Zastalu, notując średnio 10,9 punktu, 3,8 zbiórki i 5,2 asysty w 44 meczach. Andrzej Mazurczak był najlepszym strzelcem Zastalu w meczu nr 4 finałów z 21 punktami i 3 asystami. Dominic Brewton (nie ma go w obecnym składzie Legii na 2026-2027) był kluczowym zawodnikiem Legii w poprzedniej kampanii, notując średnio 14,5 punktu, 4,0 zbiórki i 3,4 asysty.
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:**
-    Analiza opiera się na składach z początku sezonu 2026/2027. Obie drużyny dokonały wzmocnień, a brak kluczowych kontuzji na dzień 2026-09-06 pozwala obu zespołom wystawić mocne składy. Legia Warszawa, będąca mistrzem Polski (w sezonie 2026/2027 co sugeruje źródło, lub wcześniej, co sugerują inne źródła), ma stabilny skład i dokonała przemyślanych transferów. ORLEN Zastal również wzmocnił się, w tym na obwodzie i pod koszem. Ze względu na brak aktualnych statystyk formy w bieżącym sezonie oraz fakt, że Legia była mistrzem, posiadając stabilną kadrę, a także grę na własnym parkiecie w kontekście historycznych finałów między tymi drużynami (choć ten konkretny mecz jest hipotetyczny na dzień dzisiejszy), przewaga może być po stronie Legii.
-
-    *   **[✅ ZATWIERDZONY]** - Typ na Legię Warszawa wydaje się uzasadniony, biorąc pod uwagę stabilność składu i dotychczasowe sukcesy, zakładając, że mecz odbywałby się z aktualnymi na 2026-09-06 składami.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo pierwotnego typu na Legię Warszawa, absencja kapitana Michała Kolendy (rehabilitacja po operacji kolana) stanowi znaczące osłabienie drużyny. Z kolei w Zastalu Zielona Góra, choć brak jest potwierdzonych kontuzji na dzień meczu, dwóch zawodników (Veljko Brkić i Miłosz Majewski) było nieobecnych na niedawnym sparingu (4 września 2026), co może sugerować ich niedyspozycję. Ponadto Sagaba Konate jest poza kadrą na sezon 2026/27 z powodu wcześniejszej kontuzji. Całkowite osłabienie Legii poprzez brak kapitana czyni typ bardziej ryzykownym.
