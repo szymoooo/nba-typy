@@ -1,18 +1,23 @@
---- AUDYT PLK LIVE (2026-09-06 18:48 CET) ---
-Analiza meczu PLK na dzień 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
-
+--- AUDYT PLK LIVE (2026-09-06 20:45 CET) ---
 ### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-*   **Hala/Miasto meczu:** Warszawa. Mecz był siódmym, decydującym spotkaniem serii finałowej.
-*   **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Filip Matczak doznał kontuzji nosa 8 czerwca 2026 roku i wystąpił w kolejnych meczach (w tym 13 czerwca) w masce, co mogło wpływać na jego komfort gry. Dwight Wilson leczył uraz kostki, ale uczestniczył w treningach wokół 6 czerwca 2026 i był gotowy do gry. Phil Fayne wrócił do składu na serię finałową. Chavaughn Lewis, który odniósł kontuzję 7 maja 2026, powrócił do gry w finałach, zdobywając kluczowe punkty w pierwszym meczu serii 8 czerwca 2026.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 21 czerwca 2026. Informacje o kontuzjach Michała Kolendy i Matthiasa Tassa z grudnia 2025 nie zostały zaktualizowane jako wykluczające ich z finału mistrzostw Polski w czerwcu 2026. Ojārs Siliņš, również wcześniej kontuzjowany, grał w meczach finałowych.
-*   **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-    *   **ORLEN Zastal Zielona Góra (sezon 2025/2026 - średnie):**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz
-        *   Jakub Szumert: 13.2 Pkt/mecz
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz
-    *   **Legia Warszawa:** Brak danych o czołowych strzelcach z sezonu 2025/2026 w dostępnych źródłach. Jayvon Graves był wspominany jako aktywny zawodnik w serii finałowej.
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa grała u siebie decydujący mecz finałów, w którym ostatecznie zdobyła tytuł mistrza Polski. Zastal miał kilku zawodników z urazami (Matczak, Wilson), a choć Fayne i Lewis wrócili/grali, to obecność kontuzji u kluczowych graczy jest czynnikiem ryzyka. Przewaga własnego parkietu w decydującym meczu serii finałowej jest bardzo istotna dla gospodarzy.
+*   🗓️ Data meczu: 2026-06-21
+*   🏟️ Hala: OSiR Bemowo, Warszawa
+*   🏆 Faza: Finał Orlen Basket Ligi, Mecz 7/7 (Decydujący)
+
+**1. Kluczowe braki w składach:**
+*   Brak istotnych braków w składzie koszykarskim dla obu drużyn na dzień 2026-06-21. Wszyscy kluczowi zawodnicy zagrali w decydującym meczu finałowym. Michał Kolenda i Race Thompson, którzy wcześniej mieli problemy zdrowotne, wystąpili w tym spotkaniu.
+
+**2. Aktualna forma top scorerów (z meczu 2026-06-21):**
+*   🏀 **Legia Warszawa:**
+    *   Andrzej Pluta: 15 punktów (MVP Finałów)
+    *   Race Thompson: 11 punktów
+    *   Dominic Brewton III: 11 punktów
+    *   Shane Hunter: 10 punktów
+*   🏀 **ORLEN Zastal Zielona Góra:**
+    *   Andrzej Mazurczak: 10 punktów
+    *   Jayvon Maughmer: 10 punktów
+    *   Chavaughn Lewis: 10 punktów
+
+**3. Werdykt:**
+*   ✅ **ZATWIERDZONY** Legia Warszawa wygrała decydujący 7. mecz finałowy na własnym parkiecie, zdobywając mistrzostwo Polski. Typ był prawidłowy.
