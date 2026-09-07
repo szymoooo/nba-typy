@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-09-04T07:26:16.372954",
-  "date": "2026-09-04",
+  "generated_at": "2026-09-07T02:17:20.327662",
+  "date": "2026-09-07",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Baskonia @ Real Madrid",
+      "matchup": "Valencia Basket @ Casademont Zaragoza",
       "phase": "Preseason",
-      "ai_pick": "Real Madrid",
-      "formula_pick": "Real Madrid",
-      "agreement": true,
+      "ai_pick": "Valencia Basket",
+      "formula_pick": "Casademont Zaragoza",
+      "agreement": false,
       "confidence": 8,
-      "reasoning": "Real Madrid posiada znacznie bardziej kompletny skład na ten mecz przedsezonowy, z kluczowymi graczami takimi jak Tavares, Okeke, Procida i Maledon, którzy już brali udział w grach kontrolnych. Baskonia boryka się z poważnymi brakami kadrowymi, w tym zawodnikami na zgrupowaniach reprezentacyjnych, potencjalnym transferem do NBA (Khalifa Diop) i graczami, którzy jeszcze nie dołączyli do zespołu (Kenneth Faried).",
+      "reasoning": "Valencia Basket wchodzi w ten mecz przedsezonowy jako panujący mistrz ACB z sezonu 2025/26, co wskazuje na ich wyższą formę i jakość w porównaniu do Casademont Zaragoza, która zakończyła sezon na 14. miejscu. Pomimo fazy przedsezonowej, w której drużyny często eksperymentują, głębszy skład Valencii i niedawne sukcesy sugerują, że utrzymają wyższy poziom rywalizacji. Dodatkowo, Casademont Zaragoza ma kontuzjowanego kluczowego gracza, Jilsona Bango, co osłabia ich skład.",
       "key_factors": [
-        "Liczne nieobecności kluczowych zawodników w drużynie Baskonii (kadra narodowa, testy NBA, brak integracji z zespołem)",
-        "Dostępność i indywidualna forma czołowych graczy Realu Madryt w meczu przedsezonowym",
-        "Fakt, że Baskonia odwołała poprzedni mecz przedsezonowy z powodu braku zawodników"
+        "Valencia Basket to urzędujący mistrz ACB z sezonu 2025/26.",
+        "Znacząca różnica w pozycji w tabeli ACB w sezonie 2025/26 (Valencia 3. miejsce, Zaragoza 14. miejsce).",
+        "Kontuzja Jilsona Bango z Casademont Zaragoza, wymagająca operacji i brak daty powrotu do treningów.",
+        "Głębszy skład Valencia Basket i aktywne wzmocnienia przed nowym sezonem.",
+        "Historyczna przewaga Valencia Basket w meczach bezpośrednich (H2H) przeciwko Casademont Zaragoza."
       ],
-      "injury_notes": "Baskonia jest poważnie osłabiona przez brak Khalifa Diopa (testy NBA), Kobi Simmonsa i Damiona Baugha (obowiązki reprezentacyjne) oraz Kennetha Farieda (nie dołączył jeszcze do zespołu). W Realu Madryt nie odnotowano istotnych braków kontuzji koszykarskich na dzień dzisiejszy, a kluczowi zawodnicy są dostępni i grają w presezonie."
+      "injury_notes": "Casademont Zaragoza: Jilson Bango jest w ostatniej fazie rekonwalescencji po kontuzji lewego kolana i nadal wymaga jednej operacji; jego powrót do treningów grupowych nie ma ustalonej daty, co oznacza, że jest poza składem. Valencia Basket: Stefan Jovic (zapalenie kaletki łokcia), Amida Brimah (uraz ścięgna podkolanowego) i Matt Costello (dyskomfort w lewym kolanie) mieli problemy zdrowotne w 2025 i na początku 2026 roku. Chociaż ich status na 7 września 2026 roku nie jest jasno określony, w meczach przedsezonowych często zarządza się minutami graczy lub ich oszczędza. Nie ma istotnych, nowych potwierdzonych kontuzji dla liderów na dzień meczu, poza ogólnym kontekstem zarządzania składem w okresie przygotowawczym."
     }
   ]
 }
