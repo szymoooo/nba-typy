@@ -1,20 +1,20 @@
---- AUDYT PLK LIVE (2026-09-06 23:13 CET) ---
-Analiza meczu PLK na dzień 2026-06-21:
+--- AUDYT PLK LIVE (2026-09-07 02:19 CET) ---
+Poniżej znajduje się analiza meczu:
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+---
 
-1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim w tym konkretnym meczu. Race Thompson, który wcześniej zmagał się z kontuzją stawu skokowego, zagrał w tym spotkaniu i zdobył 11 punktów.
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim w tym konkretnym meczu. Wcześniejsze doniesienia o kontuzjach Filipa Matczaka, Jakuba Szumerta i Sagaba Konate (z lutego 2026) nie są potwierdzone jako brak w składzie na ten mecz finałowy.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-2.  **Aktualna forma top scorerów (mecz finałowy 7/7):**
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta: 15 punktów. (Był również MVP Finałów sezonu 2025-26).
-        *   Race Thompson: 11 punktów.
-        *   Dominic Brewton III: 11 punktów.
-        *   Shane Hunter: 10 punktów.
+*   **Hala meczu:** OSiR Warszawa Bemowo, Warszawa.
+*   **Kluczowe braki w składach:**
     *   **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak: 10 punktów. (W sezonie 2025-26 średnio 11.8 Pkt/mecz).
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz był siódmym, decydującym spotkaniem finałowym PLK sezonu 2025/2026, rozegranym w OSiR Warszawa Bemowo. Legia Warszawa wygrała ten mecz wynikiem 78:70 i zdobyła mistrzostwo Polski. Typ na Legię Warszawa był trafny.
+        *   ❌ **Sagaba Konate** (silny skrzydłowy/środkowy) – kontuzja dłoni, wykluczony do końca sezonu 2025/2026 (informacja z 28 lutego 2026).
+        *   ⚠️ **Filip Matczak** (rozgrywający) – odczuwał skutki dawnego urazu i był oszczędzany w treningach przed finałami (stan na 6 czerwca 2026). Prawdopodobnie niedostępny lub z ograniczonymi minutami w meczu finałowym.
+    *   **Legia Warszawa:**
+        *   ❌ **Michał Kolenda** (niski skrzydłowy/kapitan) – długoterminowa kontuzja, miał pauzować "na kilka tygodni, a nawet miesięcy" (informacja z grudnia 2025).
+        *   ❌ **Matthias Tass** (środkowy) – długoterminowa kontuzja, miał pauzować "na kilka tygodni, a nawet miesięcy" (informacja z grudnia 2025).
+        *   ⚠️ **Ojārs Siliņš** (silny skrzydłowy) – był poza składem w grudniu 2025 bez potwierdzonych informacji o powrocie na finały. Prawdopodobnie niedostępny lub z ograniczonymi minutami.
+*   **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+    *   *Dla kontekstu (top scorerzy meczu 21.06.2026):* Andrzej Pluta (Legia) 15 Pkt, Race Thompson (Legia) 11 Pkt, Dominic Brewton III (Legia) 11 Pkt, Shane Hunter (Legia) 10 Pkt, Andrzej Mazurczak (Zastal) 10 Pkt.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Mimo zwycięstwa Legii Warszawa i zdobycia mistrzostwa Polski w tym decydującym, siódmym meczu finałowym, liczne i poważne braki w składzie Legii (Kolenda, Tass, potencjalnie Siliņš) oraz osłabienia Zastalu (Konate, Matczak) znacząco zwiększały ryzyko typowania. Typowanie zwycięstwa Legii, choć ostatecznie trafne, było obarczone dużym ryzykiem z powodu kontuzji kluczowych graczy.
