@@ -1,23 +1,23 @@
---- AUDYT PLK LIVE (2026-09-07 20:40 CET) ---
-=========================================================================
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-07 23:48 CET) ---
+Analiza meczu koszykówki PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data audytu: 2026-09-07)
 
-Analiza (stan na 2026-09-07):
+**Kontekst:** Mecz, którego dotyczy typ, został zaplanowany na 2026-06-21. Jesteśmy w fazie przygotowań do sezonu 2026/2027 PLK, który rozpocznie się 2 października 2026 roku. Superpuchar Polski z udziałem obu drużyn odbędzie się 26-27 września 2026 roku.
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):**
+---
 
-    *   **ORLEN Zastal Zielona Góra:**
-                Brak istotnych braków w składzie koszykarskim ORLEN Zastalu Zielona Góra na dzień 2026-09-07. Kadra na sezon 2026/2027 została zaprezentowana 6 września 2026 roku. W lutym 2026 Sagaba Konate zakończył sezon z powodu kontuzji dłoni, co było informacją z sezonu 2025/2026. Jednakże, biorąc pod uwagę datę dzisiejszą (2026-09-07) i fakt, że sezon 2025/2026 jest już zakończony, a nowy skład został zaprezentowany, nie ma aktualnych informacji o jego niedostępności w kontekście nowego sezonu czy meczów zaplanowanych po 2026-06-21. W czerwcu 2026 zgłaszano drobne dolegliwości Filipa Matczaka oraz uraz kostki Dwighta Wilsona, ale te informacje dotyczą zakończonego już sezonu 2025/2026 i nie ma potwierdzonych braków na dzień 2026-09-07.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-    *   **Legia Warszawa:**
-                Brak istotnych braków w składzie koszykarskim Legii Warszawa na dzień 2026-09-07. Kadra na sezon 2026/2027 jest ogłaszana, a klub informował o powrocie Mathieu Wojciechowskiego 7 sierpnia 2026 roku. Informacje o kontuzji Jana Ziółkowskiego dotyczą sekcji piłkarskiej Legii Warszawa, a nie koszykarskiej.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:**
+        *   Michał Kolenda (niski skrzydłowy): Na dzień 9 sierpnia 2026 roku znajdował się w rehabilitacji, a na dzień 9 grudnia 2025 roku przewidywano jego dłuższą przerwę z powodu kontuzji. Z powodu jego rehabilitacji, Legia pozyskała Mathieu Wojciechowskiego. Brak konkretnych informacji o powrocie na boisko na 2026-09-07.
+        *   Brak innych istotnych braków w składzie koszykarskim potwierdzonych na 2026-09-07.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Veljko Brkić i Miłosz Majewski: Byli nieobecni podczas meczu kontrolnego 4 września 2026 roku. Status ich niedyspozycji (kontuzja, odpoczynek) nie został sprecyzowany.
+        *   Brak innych istotnych braków w składzie koszykarskim potwierdzonych na 2026-09-07.
 
-2.  **Aktualna forma top scorerów (jezeli mam dane W SERII powyzej, uwzglednij je):**
-    Brak danych z API dla tego zespołu w kontekście "top scorerów w serii" z dnia 2026-06-21. W związku z tym, ocena formy jest niemożliwa.
+2.  **Aktualna forma top scorerów (sezon 2025/2026, brak danych z obecnego pre-sezonu):**
+    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu.
+    *   🏀 **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 wiodącymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Dwight Wilson III również osiągnął średnio 14.9 punktów na mecz.
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Mimo braku aktualnych kontuzji na dzień 2026-09-07, analiza typu na mecz z dnia 2026-06-21 jest ryzykowna ze względu na to, że:
-    *   Informacje o składach i kontuzjach dotyczą daty 2026-09-07, a nie 2026-06-21, co może znacząco różnić się od rzeczywistego stanu z dnia meczu.
-    *   Sezon 2025/2026, w którym odbył się mecz, jest już zakończony, a składy drużyn mogły ulec zmianom przed rozpoczęciem sezonu 2026/2027.
-    *   Brak danych dotyczących formy top scorerów z konkretnej serii rozgrywanej w czerwcu 2026 uniemożliwia rzetelną ocenę w kontekście tej historycznej prognozy.
+    *   **Uzasadnienie:** Legia Warszawa jest aktualnym mistrzem Polski z sezonów 2025 i 2026. ORLEN Zastal Zielona Góra był finalistą w sezonie 2025/2026. Obie drużyny są w trakcie przygotowań do nadchodzącego sezonu. Znaczącym czynnikiem ryzyka dla Legii jest trwająca rehabilitacja kluczowego zawodnika Michała Kolendy, potwierdzona jeszcze na początku sierpnia 2026 roku. Chociaż Legia dokonała transferu w celu uzupełnienia składu, brak takiego gracza jak Kolenda na boisku wciąż stanowi osłabienie. Niepewny jest również status nieobecnych w sparingu zawodników Zastalu. Sezon zasadniczy jeszcze się nie rozpoczął, co uniemożliwia ocenę "aktualnej formy" na podstawie oficjalnych meczów ligowych. W oparciu o dostępne informacje na dzień 2026-09-07, tip na Legię Warszawa jest obarczony ryzykiem ze względu na potwierdzony brak kluczowego gracza w procesie rehabilitacji.
