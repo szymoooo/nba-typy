@@ -1,4 +1,23 @@
---- AUDYT PLK LIVE (2026-09-07 15:57 CET) ---
-Analiza meczu z dnia 2026-06-21 nie jest możliwa w oparciu o "aktualne" dane z dnia 2026-09-07. Zgodnie z ustalonymi zasadami, koncentruję się wyłącznie na danych aktualnych na dzień dzisiejszy (2026-09-07). Mecz ORLEN Zastal Zielona Góra @ Legia Warszawa z 21 czerwca 2026 roku odbył się w poprzednim sezonie PLK, a informacje o kontuzjach czy formie zawodników z tamtego okresu nie są "aktualne" w rozumieniu bieżącej analizy.
+--- AUDYT PLK LIVE (2026-09-07 20:40 CET) ---
+=========================================================================
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-W związku z tym, nie mogę przeprowadzić wymaganej analizy dla tego, już rozegranego, spotkania.
+Analiza (stan na 2026-09-07):
+
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):**
+
+    *   **ORLEN Zastal Zielona Góra:**
+                Brak istotnych braków w składzie koszykarskim ORLEN Zastalu Zielona Góra na dzień 2026-09-07. Kadra na sezon 2026/2027 została zaprezentowana 6 września 2026 roku. W lutym 2026 Sagaba Konate zakończył sezon z powodu kontuzji dłoni, co było informacją z sezonu 2025/2026. Jednakże, biorąc pod uwagę datę dzisiejszą (2026-09-07) i fakt, że sezon 2025/2026 jest już zakończony, a nowy skład został zaprezentowany, nie ma aktualnych informacji o jego niedostępności w kontekście nowego sezonu czy meczów zaplanowanych po 2026-06-21. W czerwcu 2026 zgłaszano drobne dolegliwości Filipa Matczaka oraz uraz kostki Dwighta Wilsona, ale te informacje dotyczą zakończonego już sezonu 2025/2026 i nie ma potwierdzonych braków na dzień 2026-09-07.
+
+    *   **Legia Warszawa:**
+                Brak istotnych braków w składzie koszykarskim Legii Warszawa na dzień 2026-09-07. Kadra na sezon 2026/2027 jest ogłaszana, a klub informował o powrocie Mathieu Wojciechowskiego 7 sierpnia 2026 roku. Informacje o kontuzji Jana Ziółkowskiego dotyczą sekcji piłkarskiej Legii Warszawa, a nie koszykarskiej.
+
+2.  **Aktualna forma top scorerów (jezeli mam dane W SERII powyzej, uwzglednij je):**
+    Brak danych z API dla tego zespołu w kontekście "top scorerów w serii" z dnia 2026-06-21. W związku z tym, ocena formy jest niemożliwa.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    Mimo braku aktualnych kontuzji na dzień 2026-09-07, analiza typu na mecz z dnia 2026-06-21 jest ryzykowna ze względu na to, że:
+    *   Informacje o składach i kontuzjach dotyczą daty 2026-09-07, a nie 2026-06-21, co może znacząco różnić się od rzeczywistego stanu z dnia meczu.
+    *   Sezon 2025/2026, w którym odbył się mecz, jest już zakończony, a składy drużyn mogły ulec zmianom przed rozpoczęciem sezonu 2026/2027.
+    *   Brak danych dotyczących formy top scorerów z konkretnej serii rozgrywanej w czerwcu 2026 uniemożliwia rzetelną ocenę w kontekście tej historycznej prognozy.
