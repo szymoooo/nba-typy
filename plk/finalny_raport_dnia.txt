@@ -1,20 +1,13 @@
---- AUDYT PLK LIVE (2026-09-08 14:17 CET) ---
-Analiza meczu z 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-08 14:36 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-*   **Kluczowe braki w składach:**
-    *   **Legia Warszawa:**
-        *   🤕 Race Thompson: Kontuzja stawu skokowego od pierwszego meczu serii półfinałowej, prawdopodobnie wykluczyła go z finałów.
-        *   ⚠️ Michał Kolenda: Wrócił do składu na półfinały po problemach zdrowotnych, ale po sezonie przeszedł planowaną operację stawu skokowego, co sugeruje, że mógł grać z pewnym dyskomfortem.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   ❌ Sagaba Konate: Doznał awulsyjnego uszkodzenia więzadła nadgarstka w lutym 2026 roku i opuścił resztę sezonu.
-        *   ⚠️ Filip Matczak: Przed serią finałową odczuwał dolegliwości związane ze starą kontuzją.
-        *   ⚠️ Dwight Wilson: Odczuwał skutki urazu kostki, ale trenował normalnie.
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** 🤕 Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu urazu więzadła SL nadgarstka, którego doznał w lutym 2026 roku. Phil Fayne wracał do gry po urazie na początku serii finałowej, ale wystąpił w meczu nr 4 i prawdopodobnie był dostępny w decydującym spotkaniu.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
 
-*   **Aktualna forma top strzelców (dla meczu 2026-06-21):**
-    *   **Legia Warszawa:** Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
-    *   **ORLEN Zastal Zielona Góra:** Andrzej Mazurczak (10 Pkt).
+2.  **Aktualna forma top scorerów (sezon 2025/2026 i seria finałowa):**
+    *   **ORLEN Zastal Zielona Góra:** Liderami punktowymi w sezonie byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). W meczu numer 4 serii finałowej, Andrzej Mazurczak i Conley Garrison zdobyli łącznie 37 punktów, prezentując znacznie lepszą formę niż we wcześniejszych spotkaniach. Dwight Wilson i Patrick Cartier również pokazali dobrą dyspozycję.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu dotyczących konkretnych top scorerów sezonu. W meczu nr 4 finału, Carl Ponsar był najskuteczniejszym zawodnikiem Legii z 17 punktami.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz był decydującym, siódmym spotkaniem finałowym PLK 2025/2026, w którym Legia Warszawa grała u siebie i ostatecznie zdobyła mistrzostwo Polski (wynik 78:70).
-    *   Przewaga własnego parkietu w decydującym meczu play-off jest bardzo istotna.
-    *   Mimo pewnych braków i niedyspozycji w obu zespołach, Legia była silniejsza w tym konkretnym spotkaniu.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Legia Warszawa, pomimo zaciętej walki w serii finałowej, ostatecznie obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra 4-3 w decydującym meczu (78:70) rozegranym w Warszawie 21 czerwca 2026 roku. Przewaga własnego parkietu Legii oraz kontuzja kluczowego zawodnika Zastalu (Sagaba Konate) stanowiły istotne czynniki wspierające typ na Legię.
