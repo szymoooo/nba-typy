@@ -1,15 +1,31 @@
---- AUDYT PLK LIVE (2026-09-08 19:50 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-08 21:40 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 ORLEN Zastal Zielona Góra: Sagaba Konate (środkowy) był poza grą do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026 roku. Wokół daty meczu finałowego (6 czerwca 2026) wspominano ogólnie o "walce z urazami w szeregach Zastalu", ale bez wskazania innych konkretnych zawodników jako kontuzjowanych na ten mecz.
-    *   🏀 Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Michał Kolenda, mimo wcześniejszych doniesień o kontuzji w grudniu 2025, zakończył sezon 2025/2026 grając, co sugeruje jego dostępność. Status Matthiasa Tassa również nie wskazuje na niedostępność w czerwcu 2026.
+---
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   🏀 ORLEN Zastal Zielona Góra: Najlepsi strzelcy w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) oraz Andrzej Mazurczak (11.8 Pkt/mecz). W meczu finałowym z 15 czerwca 2026 roku Andrzej Mazurczak i Conley Garrison zdobyli łącznie 37 punktów, a Dwight Wilson oraz Phil Fayne i Patrick Cartier również pokazali dobrą formę, co wskazuje na wysoką dyspozycję kluczowych graczy w serii finałowej.
-    *   🏀 Legia Warszawa: Brak danych z API dla tego zespołu w zakresie indywidualnych top scorerów. Jednak w meczu finałowym z 15 czerwca 2026 roku Carl Ponsar był najskuteczniejszym zawodnikiem Legii z 17 punktami, a Michał Kolenda zakończył sezon ze średnią 8.4 punktu na mecz. Legia Warszawa jako mistrz Polski i drużyna z najlepszym bilansem w sezonie 2025/2026 (top seed) posiadała silny i zgrany zespół.
+### ORLEN Zastal Zielona Góra
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa grała u siebie w decydującym meczu o mistrzostwo Polski (finał PLK sezonu 2025/2026, Mecz 6). Legia obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra. Przewaga własnego parkietu w decydującym spotkaniu finałowym była kluczowa.
-    *   Zastal miał osłabienie w postaci kontuzjowanego Sagaby Konate, co mogło wpłynąć na ich grę pod koszem.
-    *   Typ na Legię Warszawa jest zatwierdzony, biorąc pod uwagę fakt, że Legia była gospodarzem meczu o mistrzostwo i faktycznie wygrała tytuł na własnym parkiecie w tym dniu.
+1.  **Kluczowe braki w składzie koszykarskim (stan na 2026-06-21):**
+    *   Filip Matczak: Odczuwał dolegliwości związane ze starą kontuzją około 5 czerwca 2026 roku. Trener zdecydował o odpoczynku od treningów, co stawiało pod znakiem zapytania jego pełną dyspozycję lub liczbę minut w meczach finałowych.
+    *   Dwight Wilson: Odczuwał skutki urazu kostki, ale normalnie uczestniczył w treningach około 6 czerwca 2026 roku. Prawdopodobnie grał z dyskomfortem.
+    *   Chavaughn Lewis: Doznał poważnego urazu (trafił do szpitala) 7 maja 2026 roku. Brak jednoznacznych informacji o jego powrocie i pełnej sprawności na mecze finałowe, co czyniło jego dostępność niepewną.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026, stan na 2026-06-21):**
+    *   Chavaughn Lewis: 15.8 Pkt/mecz. Jego forma była niepewna ze względu na wspomnianą kontuzję.
+    *   Jakub Szumert: 13.2 Pkt/mecz.
+    *   Andrzej Mazurczak: 11.8 Pkt/mecz.
+    *   Brak danych z API dla tego zespołu w kontekście PulsBasketu.
+
+### Legia Warszawa
+
+1.  **Kluczowe braki w składzie koszykarskim (stan na 2026-06-21):**
+    *   Brak istotnych braków w składzie koszykarskim potwierdzonych na ten dzień.
+
+2.  **Aktualna forma top scorerów (sezon 2025/2026, stan na 2026-06-21):**
+    *   Brak danych z API dla tego zespołu w kontekście PulsBasketu.
+
+### Werdykt
+
+*   **Typ: Legia Warszawa**
+*   **Werdykt: [✅ ZATWIERDZONY]**
+    Legia Warszawa wydaje się faworytem. ORLEN Zastal Zielona Góra przystępowała do meczu finałowego z osłabieniami, w tym niepewną sytuacją zdrowotną kluczowych graczy takich jak Filip Matczak i Chavaughn Lewis, a także dyskomfortem Dwighta Wilsona. Takie braki w składzie liderów znacząco zmniejszały szanse Zastalu na wygraną w starciu z Legią, która nie zgłaszała istotnych problemów kadrowych.
