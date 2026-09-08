@@ -1,21 +1,13 @@
---- AUDYT PLK LIVE (2026-09-08 02:06 CET) ---
-Mecze do audytu zostały zaplanowane na 2026-06-21. Proszę pamiętać, że dzisiejsza data to 2026-09-08, a wszelkie informacje dotyczące składów, kontuzji i formy zawodników odnoszą się do stanu na dzień dzisiejszy (2026-09-08), a nie do daty rozegrania meczów. W związku z tym, analiza tipów z przeszłości na podstawie bieżących danych jest obarczona fundamentalnym błędem temporalnym i nie może precyzyjnie ocenić warunków, w jakich pierwotnie postawiono typ. Niemniej jednak, zgodnie z instrukcjami, przedstawiam aktualny (2026-09-08) status drużyn.
+--- AUDYT PLK LIVE (2026-09-08 09:24 CET) ---
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
----
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak grał w finale z kontuzją nosa i w masce, podobnie jak Andrzej Mazurczak, co odnotowano w artykule z 13 czerwca 2026 roku. Phil Fayne wrócił do składu przed finałami, co sugeruje, że był dostępny. Mimo urazów, kluczowi gracze Zastalu byli zdolni do gry, choć być może nie w pełni komfortowo.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim Legii Warszawa na dzień meczu 21 czerwca 2026 roku. Informacja o planowym zabiegu Michała Kolendy pochodzi z 23 lipca 2026, czyli po zakończeniu sezonu.
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+2.  **Aktualna forma top scorerów (sezon 2025/2026, dane z finałów):**
+    *   🏀 **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 czołowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Conley Garrison wyróżnił się w półfinałach, zdobywając 26 punktów oraz 6 zbiórek i asyst w jednym z meczów.
+    *   🏀 **Legia Warszawa:** Andrzej Pluta Jr. został uznany MVP sezonu 2025-26 PLK oraz MVP finałów, co świadczy o jego znakomitej formie w decydującej fazie rozgrywek. Legia Warszawa miała wyższą średnią punktów na mecz (86.7) oraz wyższy wskaźnik efektywności EVAL (103.2) w całym sezonie 2025/2026 w porównaniu do Zastalu.
 
-*   **Typ z 2026-06-21:** Legia Warszawa
-
-1.  **Kluczowe braki w składach (stan na 2026-09-08):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-09-08. Skład na sezon 2026/2027 jest w fazie kompletowania lub został już ogłoszony, ale brak doniesień o kontuzjach kluczowych zawodników.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-09-08. Podobnie jak w przypadku Zastalu, zespół przygotowuje się do nowego sezonu, a oficjalne komunikaty nie wskazują na poważne urazy.
-
-2.  **Aktualna forma top scorerów (stan na 2026-09-08):**
-    *   W związku z tym, że sezon PLK 2026/2027 dopiero się rozpoczyna lub jest w fazie przygotowań, brak jest danych statystycznych z bieżących rozgrywek ligowych na dzień 2026-09-08, aby ocenić aktualną formę top scorerów dla obu zespołów. Dostępne są jedynie informacje o ruchach kadrowych i potencjalnych liderach.
-    *   Brak danych z API/bieżących meczów dla obu zespołów w kontekście "formy w serii" na dzień 2026-09-08.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Werdykt jest ryzykowny, ponieważ analiza bazuje na danych z 2026-09-08, a nie z 2026-06-21. Nie jest możliwe dokonanie rzetelnego audytu historycznego tipu bez dostępu do informacji o składach, kontuzjach i formie zawodników z daty meczu (2026-06-21). Obecny brak potwierdzonych kontuzji w obu zespołach na 2026-09-08 oraz niemożność oceny formy strzelców z przeszłości, sprawiają, że ocena pierwotnego tipu jest niemożliwa. Przy założeniu hipotetycznego meczu rozgrywanego dziś, bez wyraźnych braków kadrowych, Legia jako gospodarz zawsze ma przewagę, ale brak danych o formie uniemożliwia zatwierdzenie.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa wygrała mecz 78:70, zdobywając Mistrzostwo Polski w sezonie 2025/2026, a Andrzej Pluta Jr. został MVP Finałów. Pomimo drobnych urazów w Zastalu, Legia była faworytem i potwierdziła swoją dominację.
