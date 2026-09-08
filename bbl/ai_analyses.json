@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-08-23T07:28:39.921087",
-  "date": "2026-08-23",
+  "generated_at": "2026-09-08T00:07:33.990436",
+  "date": "2026-09-08",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Phoenix Hagen @ Basketball Löwen Braunschweig",
-      "phase": "Preseason",
-      "ai_pick": "Phoenix Hagen",
-      "formula_pick": "Basketball Löwen Braunschweig",
-      "agreement": false,
-      "confidence": 6,
-      "reasoning": "Phoenix Hagen zremisowało swój ostatni mecz towarzyski 19 sierpnia 2026 roku, pokazując dobrą energię, a ich nowy nabytek, Patricio Garino, oraz lider Marcus Graves, są w dobrej formie. Basketball Löwen Braunschweig natomiast przegrało swój ostatni mecz towarzyski 19 sierpnia 2026 roku, a ich status dotyczący kontuzji niektórych kluczowych graczy z poprzedniego sezonu jest niejasny.",
-      "key_factors": [
-        "Aktualna forma preseason Phoenix Hagen (remis 83-83 z EWE Baskets Oldenburg 19 sierpnia 2026)",
-        "Wzmocnienie składu Phoenix Hagen poprzez podpisanie Patricio Garino (20 sierpnia 2026)",
-        "Dobra forma strzelecka Marcusa Gravesa (22 punkty w meczu 19 sierpnia 2026)",
-        "Porażka Basketball Löwen Braunschweig w ostatnim meczu towarzyskim (19 sierpnia 2026)"
-      ],
-      "injury_notes": "Brak istotnych, świeżych urazów zgłoszonych na dzień 23 sierpnia 2026 roku dla obu drużyn. W poprzednim sezonie (2025/26) Basketball Löwen Braunschweig miało kilku graczy z kontuzjami, takich jak Barra Njie (uraz mięśnia pośladkowego, luty 2026), Luka Scuka (kontuzja kostki, marzec 2026), Esli Edigin (wstrząśnienie mózgu, maj 2026) i Luca Joe Ewelt (uraz kolana, maj 2026). Status tych graczy na obecny mecz przedsezonowy nie został zaktualizowany. Phoenix Hagen nie zgłosiło żadnych nowych urazów w związku z ich ostatnim meczem przedsezonowym 19 sierpnia 2026 roku."
+      "matchup": "NINERS Chemnitz @ ALBA BERLIN",
+      "ai_pick": null,
+      "formula_pick": "ALBA BERLIN",
+      "note": "AI fallback"
     }
   ]
 }
