@@ -1,8 +1,12 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-08 19:18 ET) ---
-Analiza meczu Heat @ Raptors (typ: Raptors) na podstawie danych z 2026-09-08:
+--- KRYTYCZNY AUDYT LIVE (2026-09-08 22:30 ET) ---
+Zrozumiałem. Przystępuję do analizy na podstawie dzisiejszych danych (2026-09-08) i składów ze stycznia 2026.
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. ❌ (Brak potwierdzonych informacji o kontuzjach na dzień 2026-09-08 dla Miami Heat i Toronto Raptors z uwzględnieniem statusów 'Out', 'Questionable', 'GTD'). W raporcie z 27 sierpnia 2026, Toronto Raptors nie mieli żadnych graczy na liście kontuzjowanych.
+---
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak aktualnych danych o kontuzjach na dziś (2026-09-08) sprawia, że ocena typu na podstawie kluczowych braków w składach jest niemożliwa. Niestety, rygorystyczna analiza wymaga dostępu do aktualnych informacji o statusie zawodników. Typ jest ryzykowny z powodu braku potwierdzonych danych wspierających lub obalających wybór.
+**Heat @ Raptors**
+Typ użytkownika: Raptors
+
+*   **Kluczowe braki w składach (stan na 2026-09-08):**
+    *   Miami Heat: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Toronto Raptors: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Ze względu na brak aktualnych raportów o kontuzjach z dzisiejszego dnia (2026-09-08) oraz fakt, że składy ze stycznia 2026 mogą nie odzwierciedlać obecnej formy czy rotacji, nie można obiektywnie ocenić typu. Brak jest kluczowych danych pozwalających na rygorystyczną analizę. Nie można również zakładać, że mecz odbyłby się 8 września 2026 roku, gdyż jest to okres przedsezonowy NBA.
