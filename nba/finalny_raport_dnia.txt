@@ -1,17 +1,11 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-09 16:02 ET) ---
-Na podstawie danych z sieci (2026-09-09) i informacji dotyczących stycznia 2026, oto analiza Twojego typu:
+--- KRYTYCZNY AUDYT LIVE (2026-09-09 17:55 ET) ---
+Na podstawie dzisiejszych danych (2026-09-09):
 
 **Heat @ Raptors -> Typ: Raptors**
 
-*   **Miami Heat (Styczeń 2026):**
-    *   Kluczowe braki w składach: Brak kluczowych graczy rotacyjnych zgłoszonych jako kontuzjowani 10 stycznia 2026 roku.
-*   **Toronto Raptors (Styczeń 2026):**
-    *   Kluczowe braki w składach: Brak potwierdzonych statusów (Out, Questionable, GTD) dla kluczowych graczy na styczeń 2026. Doniesienia wskazywały na "frustrującą blokadę" dla Brandona Ingrama 8 stycznia 2026 roku, a także "problemy z kontuzjami" Jakoba Poeltla w styczniu 2026 roku. Brak szczegółowych raportów o kontuzjach dla Raptors 18 stycznia 2026 roku i 21 stycznia 2026 roku.
+*   **Kluczowe braki w składach:**
+    *   **Miami Heat:** Brak aktualnych raportów (Injury Report) na tę chwilę. Giannis Antetokounmpo (kolano) koncentrował się na przygotowaniach do sezonu 2026-27, co odnotowano 2 września 2026 r., ale nie ma potwierdzenia, że jest wykluczony z gry na dziś.
+    *   **Toronto Raptors:** Brak aktualnych raportów (Injury Report) na tę chwilę. Immanuel Quickley miał naciągnięcie ścięgna podkolanowego pod koniec zeszłego sezonu, jednak raport z 9 września 2026 r. nie wskazuje na jego obecną niedostępność, a raczej na presję przed nadchodzącym sezonem.
 
----
-**Werdykt:** [⚠️ RYZYKOWNY]
-Brak jednoznacznych informacji o pełnym składzie Raptors oraz doniesienia o problemach zdrowotnych kluczowych graczy (Ingram, Poeltl) w styczniu 2026 roku czynią ten typ ryzykownym, zwłaszcza w kontekście względnie zdrowego składu Miami Heat w tym okresie.
-
----
-**Raport kontuzji na dzień 2026-09-09:**
-Brak aktualnych raportów (Injury Report) na tę chwilę dla drużyn Miami Heat i Toronto Raptors. Jimmy Butler, zawodnik Golden State Warriors, pozostaje poza grą po zerwaniu ACL 19 stycznia 2026 roku.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Brak potwierdzonych, kluczowych braków w składach obu drużyn na dzień 2026-09-09 oznacza, że typ nie jest ryzykowny z powodu kontuzji. Składy obu drużyn, z Giannisem Antetokounmpo w Heat i Kawhim Leonardem w Raptors, wydają się być silne, co sprawia, że typ Raptors nie jest obarczony dodatkowym ryzykiem związanym z absencjami.
