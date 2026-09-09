@@ -1,28 +1,16 @@
---- AUDYT PLK LIVE (2026-09-09 19:44 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-09-09 21:34 CET) ---
+**PLK typy na 2026-06-21**
 
-**ORLEN Zastal Zielona Góra**
-1.  🏀 **Kluczowe braki w składzie:**
-    *   Sagaba Konate (środkowy) - kontuzja dłoni, wykluczony z gry do końca sezonu 2025/2026 od 28 lutego 2026 roku.
-2.  📊 **Aktualna forma top scorerów (mecz 2026-06-21):**
-    *   Andrzej Mazurczak: 10 punktów w meczu.
-    *   W sezonie 2025/2026 liderami punktowymi Zastalu byli również Chavaughn Lewis (śr. 15.8 Pkt/mecz) i Jakub Szumert (śr. 13.2 Pkt/mecz).
-3.  ✅ **Werdykt:** [⚠️ RYZYKOWNY]
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-**Legia Warszawa**
-1.  🏀 **Kluczowe braki w składzie:**
-    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień meczu 2026-06-21. Wcześniej w sezonie 2025/2026 (grudzień 2025) Legia borykała się z kontuzjami Michała Kolendy i Matthiasa Tassa, wykluczającymi ich na kilka tygodni/miesięcy. Jednakże, brak potwierdzenia ich absencji w czerwcu 2026.
-2.  📊 **Aktualna forma top scorerów (mecz 2026-06-21):**
-    *   Andrzej Pluta: 15 punktów w meczu.
-    *   Race Thompson: 11 punktów w meczu.
-    *   Dominic Brewton III: 11 punktów w meczu.
-    *   Shane Hunter: 10 punktów w meczu.
-3.  ✅ **Werdykt:** [✅ ZATWIERDZONY]
+1.  🏀 **Kluczowe braki w składach (status na 2026-06-21 oraz ogólny status na 2026-09-09):**
+    *   🟢 **Legia Warszawa:** Michał Kolenda był w trakcie rehabilitacji po kontuzji odniesionej w grudniu 2025 roku, więc jego pełna dyspozycja na dzień meczu (2026-06-21) jest wątpliwa. Na dzień 2026-09-09 nadal przechodził rehabilitację, co skutkowało tymczasowym wzmocnieniem składu Mathieu Wojciechowskim.
+    *   🔴 **ORLEN Zastal Zielona Góra:** Sagaba Konate doznał poważnego urazu nadgarstka w lutym 2026 roku i był wykluczony z gry do końca sezonu 2025/2026, co oznaczało jego niedostępność na dzień meczu (2026-06-21). Na dzień 2026-09-09 brak potwierdzonych istotnych braków w składzie koszykarskim, poza wspomnianą kontuzją Konate.
 
----
-**Ogólny Werdykt dla typy "Legia Warszawa" na mecz 2026-06-21:**
+2.  🔥 **Aktualna forma top scorerów (z sezonu 2025/2026 oraz ich status na 2026-09-09):**
+    *   🟢 **Legia Warszawa:** Andrzej Pluta Jr. został wybrany MVP sezonu PLK 2025/2026 oraz Finałów. Jednakże, na sezon 2026/2027 opuścił Legię i przeniósł się do ligi hiszpańskiej, co stanowi znaczącą stratę ofensywną dla przyszłych rozgrywek. Dominic Brewton był również kluczowym zawodnikiem mistrzowskiej kampanii 2025/2026. Na sezon 2026/2027 Legia pozyskała nowych, ofensywnych graczy, takich jak Zach Freemantle i Michael Christmas, który w Szwecji potrafił zdobyć 43 punkty w meczu.
+    *   🔴 **ORLEN Zastal Zielona Góra:** Chavaughn Lewis był najlepszym strzelcem Zastalu w sezonie 2025/2026 ze średnią 15.8 punktu na mecz. Status jego pozostania w klubie na sezon 2026/2027 nie jest jednoznacznie potwierdzony w dostępnych źródłach. Jakub Szumert (13.2 Pkt/mecz) został wybrany najlepszym młodzieżowcem sezonu 2025/2026. Andrzej Mazurczak (11.8 Pkt/mecz) był ważnym graczem obwodowym i pozostaje w klubie na sezon 2026/2027. Zastal wzmocnił swój skład na sezon 2026/2027 nowymi graczami ofensywnymi, takimi jak Beau Beech (znany z skuteczności z dystansu), Trazarien White (rzucający obrońca/niski skrzydłowy z potencjałem punktowym) oraz Toyaz "Tay" Solomon.
 
-Mecz był 7. i decydującym spotkaniem Finałów Orlen Basket Ligi 2025/2026, rozgrywanym na własnym parkiecie Legii Warszawa (OSiR Warszawa Bemowo). Legia Warszawa ostatecznie wygrała mecz 78:70.
-
-**Werdykt audytu dla typu "Legia Warszawa": [✅ ZATWIERDZONY]**
-Legia Warszawa wygrała decydujący mecz finałowy na własnym parkiecie, co potwierdziło trafność postawionego typu. Zastal osłabiony był brakiem Sagaby Konate.
+3.  ⚖️ **Werdykt:**
+    Dzień 21 czerwca 2026 roku był datą zakończenia sezonu PLK 2025/2026, w którym Legia Warszawa zdobyła tytuł Mistrza Polski, pokonując w finale ORLEN Zastal Zielona Góra. Zatem, biorąc pod uwagę historyczny wynik tego wydarzenia, typ na Legię Warszawa na ten konkretny mecz jest prawidłowy.
+    [✅ ZATWIERDZONY]
