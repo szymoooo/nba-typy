@@ -1,19 +1,28 @@
---- AUDYT PLK LIVE (2026-09-09 14:42 CET) ---
-Zauważam, że podany mecz "ORLEN Zastal Zielona Góra @ Legia Warszawa" datowany jest na 2026-06-21, podczas gdy dzisiejsza data to 2026-09-09. Biorąc pod uwagę kontekst "TYPY DO AUDYTU", przeprowadzam analizę wsteczną, opierając się na informacjach dostępnych w okolicach daty meczu (2026-06-21).
+--- AUDYT PLK LIVE (2026-09-09 19:44 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+**ORLEN Zastal Zielona Góra**
+1.  🏀 **Kluczowe braki w składzie:**
+    *   Sagaba Konate (środkowy) - kontuzja dłoni, wykluczony z gry do końca sezonu 2025/2026 od 28 lutego 2026 roku.
+2.  📊 **Aktualna forma top scorerów (mecz 2026-06-21):**
+    *   Andrzej Mazurczak: 10 punktów w meczu.
+    *   W sezonie 2025/2026 liderami punktowymi Zastalu byli również Chavaughn Lewis (śr. 15.8 Pkt/mecz) i Jakub Szumert (śr. 13.2 Pkt/mecz).
+3.  ✅ **Werdykt:** [⚠️ RYZYKOWNY]
 
-#### 1. Kluczowe braki w składach:
+**Legia Warszawa**
+1.  🏀 **Kluczowe braki w składzie:**
+    *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień meczu 2026-06-21. Wcześniej w sezonie 2025/2026 (grudzień 2025) Legia borykała się z kontuzjami Michała Kolendy i Matthiasa Tassa, wykluczającymi ich na kilka tygodni/miesięcy. Jednakże, brak potwierdzenia ich absencji w czerwcu 2026.
+2.  📊 **Aktualna forma top scorerów (mecz 2026-06-21):**
+    *   Andrzej Pluta: 15 punktów w meczu.
+    *   Race Thompson: 11 punktów w meczu.
+    *   Dominic Brewton III: 11 punktów w meczu.
+    *   Shane Hunter: 10 punktów w meczu.
+3.  ✅ **Werdykt:** [✅ ZATWIERDZONY]
 
-*   **ORLEN Zastal Zielona Góra:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21.
-*   **Legia Warszawa:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21.
+---
+**Ogólny Werdykt dla typy "Legia Warszawa" na mecz 2026-06-21:**
 
-#### 2. Aktualna forma top scorerów:
+Mecz był 7. i decydującym spotkaniem Finałów Orlen Basket Ligi 2025/2026, rozgrywanym na własnym parkiecie Legii Warszawa (OSiR Warszawa Bemowo). Legia Warszawa ostatecznie wygrała mecz 78:70.
 
-*   Brak danych z API dla tego zespołu.
-
-#### 3. Werdykt:
-
-*   ✅ ZATWIERDZONY. Brak potwierdzonych osłabień w żadnej z drużyn, co sprzyjałoby przewadze jednej ze stron pod względem kadrowym na dzień meczu.
+**Werdykt audytu dla typu "Legia Warszawa": [✅ ZATWIERDZONY]**
+Legia Warszawa wygrała decydujący mecz finałowy na własnym parkiecie, co potwierdziło trafność postawionego typu. Zastal osłabiony był brakiem Sagaby Konate.
