@@ -1,6 +1,17 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-09 15:33 ET) ---
-Heat @ Raptors -> Typ: Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-09-09 16:02 ET) ---
+Na podstawie danych z sieci (2026-09-09) i informacji dotyczących stycznia 2026, oto analiza Twojego typu:
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   W styczniu 2026 roku Toronto Raptors mieli lepszy bilans niż Miami Heat. Na dzień 1 stycznia 2026 roku Raptors mieli bilans 20-15, natomiast Heat 19-15. Do 19 stycznia 2026 roku Raptors utrzymywali przewagę z bilansem 25-19, podczas gdy Heat mieli 22-21. Biorąc pod uwagę ich pozycję w tabeli Konferencji Wschodniej w tamtym okresie, typ na Raptors jest uzasadniony.
+**Heat @ Raptors -> Typ: Raptors**
+
+*   **Miami Heat (Styczeń 2026):**
+    *   Kluczowe braki w składach: Brak kluczowych graczy rotacyjnych zgłoszonych jako kontuzjowani 10 stycznia 2026 roku.
+*   **Toronto Raptors (Styczeń 2026):**
+    *   Kluczowe braki w składach: Brak potwierdzonych statusów (Out, Questionable, GTD) dla kluczowych graczy na styczeń 2026. Doniesienia wskazywały na "frustrującą blokadę" dla Brandona Ingrama 8 stycznia 2026 roku, a także "problemy z kontuzjami" Jakoba Poeltla w styczniu 2026 roku. Brak szczegółowych raportów o kontuzjach dla Raptors 18 stycznia 2026 roku i 21 stycznia 2026 roku.
+
+---
+**Werdykt:** [⚠️ RYZYKOWNY]
+Brak jednoznacznych informacji o pełnym składzie Raptors oraz doniesienia o problemach zdrowotnych kluczowych graczy (Ingram, Poeltl) w styczniu 2026 roku czynią ten typ ryzykownym, zwłaszcza w kontekście względnie zdrowego składu Miami Heat w tym okresie.
+
+---
+**Raport kontuzji na dzień 2026-09-09:**
+Brak aktualnych raportów (Injury Report) na tę chwilę dla drużyn Miami Heat i Toronto Raptors. Jimmy Butler, zawodnik Golden State Warriors, pozostaje poza grą po zerwaniu ACL 19 stycznia 2026 roku.
