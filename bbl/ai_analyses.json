@@ -1,29 +1,24 @@
 {
-  "generated_at": "2026-09-10T02:33:17.518109",
+  "generated_at": "2026-09-10T07:32:03.743399",
   "date": "2026-09-10",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Phoenix Hagen @ HAKRO Merlins Crailsheim",
-      "ai_pick": null,
+      "phase": "1. Runda Netto BBL Pokal",
+      "ai_pick": "Phoenix Hagen",
       "formula_pick": "HAKRO Merlins Crailsheim",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "Basketball Löwen Braunschweig @ Eisbären Bremerhaven",
-      "phase": "BBL Pokal 1. Runda",
-      "ai_pick": "Eisbären Bremerhaven",
-      "formula_pick": "Eisbären Bremerhaven",
-      "agreement": true,
+      "agreement": false,
       "confidence": 7,
-      "reasoning": "Eisbären Bremerhaven, jako silny zespół z ProA w poprzednim sezonie, zyskuje przewagę własnego boiska w pierwszej rundzie Pucharu BBL. Basketball Löwen Braunschweig miało trudny okres przygotowawczy, nie wygrywając żadnego z pięciu meczów testowych i boryka się z przebudową składu po sportowym spadku z BBL w ubiegłym sezonie.",
+      "reasoning": "Phoenix Hagen przystępuje do tego meczu Pucharu Niemiec jako świeżo upieczony mistrz ProA, co świadczy o ich mocnej formie i pewności siebie po awansie do BBL. HAKRO Merlins Crailsheim, choć gra u siebie, boryka się z niepewnością dotyczącą występu kluczowych graczy Brocka Gardnera i TJ Madlocka z powodu kontuzji przedsezonowych.",
       "key_factors": [
-        "Przewaga własnego boiska dla Eisbären Bremerhaven (zespół ProA w 1. rundzie Pucharu).",
-        "Słaba forma przedsezonowa i znaczne zmiany w składzie Basketball Löwen Braunschweig.",
-        "Mocna postawa Eisbären Bremerhaven w ProA w ubiegłym sezonie, niewiele zabrakło im do awansu do BBL."
+        "Phoenix Hagen - aktualny mistrz ProA i awans do BBL.",
+        "Kontuzje kluczowych graczy HAKRO Merlins Crailsheim (Gardner, Madlock).",
+        "Przewaga własnego parkietu HAKRO Merlins Crailsheim.",
+        "Styl gry Phoenix Hagen, oparty na agresywnej obronie i szybkim ataku, potwierdzony w poprzednim sezonie."
       ],
-      "injury_notes": "Brak istotnych braków dla Eisbären Bremerhaven. Basketball Löwen Braunschweig borykało się z długoterminową kontuzją Barra Njie w lutym 2026 roku, jednak brak aktualnych informacji na dzień meczu. Zespół przeszedł też dużą przebudowę składu."
+      "injury_notes": "HAKRO Merlins Crailsheim: Brock Gardner doznał kontuzji stawu skokowego, a TJ Madlock złamania kciuka. Obaj gracze są obecnie poddawani badaniom medycznym, a ich występ w meczu jest wątpliwy. Phoenix Hagen: Brak zgłoszonych nowych, istotnych kontuzji na dzień meczu. Wzmianki o Patricio Garino z historią kontuzji kolana i Polite'cie po dwuletniej przerwie to raczej uwagi przedsezonowe, a nie świeże urazy."
     }
   ]
 }
