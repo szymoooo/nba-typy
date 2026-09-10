@@ -1,22 +1,29 @@
---- AUDYT PLK LIVE (2026-09-10 14:22 CET) ---
-Analiza meczu PLK (stan na 2026-09-10):
+--- AUDYT PLK LIVE (2026-09-10 14:41 CET) ---
+# Analiza meczu PLK (2026-06-21)
 
 ---
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-**1. Kluczowe braki w składach:**
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+Typ: Legia Warszawa
 
-*   **Legia Warszawa (koszykówka):**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-10. Kadra na sezon 2026/2027 wydaje się kompletna.
-*   **ORLEN Zastal Zielona Góra (koszykówka):**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-10. Skład na nadchodzący sezon 2026/2027 jest w fazie finalizacji, z kilkoma potwierdzonymi nazwiskami.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Michał Kolenda, który wcześniej miał kontuzję (grudzień 2025), grał w meczu finałowym.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate był wykluczony z gry do końca sezonu od lutego 2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka.
 
-**2. Aktualna forma top scorerów:**
+2.  **Aktualna forma top scorerów (w kontekście meczu 2026-06-21):**
+    *   🏀 **Legia Warszawa:**
+        *   Andrzej Pluta: 15 punktów w tym meczu, wybrany MVP finałów.
+        *   Race Thompson: 11 punktów.
+        *   Dominic Brewton III: 11 punktów.
+        *   Shane Hunter: 10 punktów.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak: 10 punktów w tym meczu. W sezonie 2025/2026 był jednym z czołowych strzelców (11.8 Pkt/mecz).
+        *   Chavaughn Lewis: Był wiodącym strzelcem Zastalu w sezonie (15.8 Pkt/mecz).
+        *   Jakub Szumert: Również czołowy strzelec Zastalu w sezonie (13.2 Pkt/mecz).
 
-*   **Legia Warszawa (koszykówka):** Brak danych z API dla tego zespołu. Obecny skład na sezon 2026/2027 jest w trakcie formowania, brakuje aktualnych danych o formie strzeleckiej.
-*   **ORLEN Zastal Zielona Góra (koszykówka):** Brak danych z API dla tego zespołu. Zespół buduje skład na sezon 2026/2027, więc dane o formie strzeleckiej są niedostępne.
-
-**3. Werdykt:**
-
-*   **[⚠️ RYZYKOWNY]**
-    *   Analiza jest ryzykowna ze względu na fakt, że typ pochodzi z daty 2026-06-21, co jest poza okresem, na który mogę zbierać dane (interesuje mnie wyłącznie 2026-09-10 i dane z sezonu 2026-27). Na dzień 2026-09-10 jesteśmy w okresie budowania składów na nowy sezon 2026/2027, co oznacza, że informacje o aktualnej formie zawodników i pełnych składach mogą być jeszcze niekompletne lub wstępne. Brak potwierdzonych kontuzji jest wynikiem wczesnej fazy sezonu. Wskazany typ opierał się na kontekście meczu z poprzedniego sezonu (2025/2026). Ocena na dzień dzisiejszy (2026-09-10) opiera się na wstępnych informacjach o kadrach na sezon 2026/2027, co uniemożliwia rzetelne zatwierdzenie przewidywania sprzed kilku miesięcy.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz był decydującym, siódmym spotkaniem finałowym, rozgrywanym na własnym parkiecie Legii Warszawa (OSiR Warszawa Bemowo).
+    *   Legia zdobyła mistrzostwo Polski, wygrywając ten mecz 78:70.
+    *   Kluczowy zawodnik Zastalu, Sagaba Konate, był kontuzjowany i nie mógł wziąć udziału w finale.
+    *   Andrzej Pluta z Legii był w doskonałej formie, co potwierdza jego tytuł MVP finałów.
+    *   Te czynniki, zwłaszcza przewaga własnego parkietu w decydującym meczu serii finałowej oraz brak kluczowego gracza Zastalu, wspierają typ na Legię Warszawa.
