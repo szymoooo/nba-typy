@@ -1,18 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-10 18:36 ET) ---
-Zgodnie z danymi na dzień 2026-09-10:
+--- KRYTYCZNY AUDYT LIVE (2026-09-10 19:34 ET) ---
+Oto analiza Twojego typu na podstawie dostępnych danych ze stycznia 2026 i aktualnych raportów z 10 września 2026:
 
-### Heat @ Raptors -> Typ: Raptors
+---
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Sezon NBA nie rozpoczął się, a raporty o kontuzjach na dzień meczowy (statusy 'Out', 'Questionable', 'GTD') nie są dostępne w tym okresie.
+**Heat @ Raptors**
+*   **Typ:** Raptors
 
-*   **Skład Miami Heat (na podstawie dostępnych informacji na sezon 2026-2027):**
-    *   Kluczowi gracze: Giannis Antetokounmpo (pozyskany w wymianie z Bucks wraz z Bobbym Portisem), Bam Adebayo, Andrew Wiggins (skorzystał z opcji zawodnika), Tim Hardaway Jr. (podpisany jako wolny agent), Simone Fontecchio.
-    *   Nowi zawodnicy z draftu: Nate Ament (13. wybór w drafcie 2026), Ryan Conwell (prawa do draftu pozyskane, podpisany wieloletni kontrakt).
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **Miami Heat:**
+        *   Pelle Larsson: Skręcona kostka. Uraz zgłoszony w grudniu 2025, z prognozowanym powrotem w ciągu 1-2 tygodni, co oznacza, że mógł być nieobecny lub ograniczony we wczesnym styczniu 2026.
+    *   **Toronto Raptors:**
+        *   Brak zgłoszonych kontuzji dla sezonu 2025-2026, w tym na styczeń 2026.
 
-*   **Skład Toronto Raptors (na podstawie dostępnych informacji na sezon 2026-2027):**
-    *   Kluczowi gracze: Kawhi Leonard (pozyskany w wymianie z Clippers), Scottie Barnes, Brandon Ingram, Immanuel Quickley, RJ Barrett, Jakob Poeltl, Gradey Dick.
-    *   Nowi zawodnicy z draftu/wolni agenci: Allen Graves (19. wybór w drafcie 2026), Kyle Anderson (podpisany jako wolny agent).
+*   **Brak aktualnych raportów (Injury Report) na tę chwilę (2026-09-10):**
+    *   Brak konkretnych, bieżących (na dzień 2026-09-10) raportów o statusie "Out", "Questionable", "GTD" dla tych drużyn dotyczących meczu ze stycznia 2026. Dostępne aktualne raporty dotyczą głównie długoterminowych urazów z poprzedniego sezonu lub ogólnych aktualizacji zdrowotnych, a nie statusu meczowego.
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Zarówno Heat, jak i Raptors dokonały znaczących wzmocnień, pozyskując gwiazdy takie jak Giannis Antetokounmpo i Kawhi Leonard. Oba zespoły posiadają na papierze bardzo silne składy, co czyni ten hipotetyczny mecz niezwykle wyrównanym. Bez aktualnych raportów o kontuzjach i biorąc pod uwagę kaliber obu drużyn, typowanie zwycięzcy jest bardzo ryzykowne.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Biorąc pod uwagę potencjalną nieobecność Pelle Larssona po stronie Heat oraz brak zgłoszonych kontuzji w składzie Raptors w styczniu 2026, typ na Raptors wydaje się rozsądny z perspektywy dostępności kluczowych graczy.
