@@ -1,14 +1,29 @@
 {
-  "generated_at": "2026-09-08T00:07:33.990436",
-  "date": "2026-09-08",
+  "generated_at": "2026-09-10T02:33:17.518109",
+  "date": "2026-09-10",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "NINERS Chemnitz @ ALBA BERLIN",
+      "matchup": "Phoenix Hagen @ HAKRO Merlins Crailsheim",
       "ai_pick": null,
-      "formula_pick": "ALBA BERLIN",
+      "formula_pick": "HAKRO Merlins Crailsheim",
       "note": "AI fallback"
+    },
+    {
+      "matchup": "Basketball Löwen Braunschweig @ Eisbären Bremerhaven",
+      "phase": "BBL Pokal 1. Runda",
+      "ai_pick": "Eisbären Bremerhaven",
+      "formula_pick": "Eisbären Bremerhaven",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Eisbären Bremerhaven, jako silny zespół z ProA w poprzednim sezonie, zyskuje przewagę własnego boiska w pierwszej rundzie Pucharu BBL. Basketball Löwen Braunschweig miało trudny okres przygotowawczy, nie wygrywając żadnego z pięciu meczów testowych i boryka się z przebudową składu po sportowym spadku z BBL w ubiegłym sezonie.",
+      "key_factors": [
+        "Przewaga własnego boiska dla Eisbären Bremerhaven (zespół ProA w 1. rundzie Pucharu).",
+        "Słaba forma przedsezonowa i znaczne zmiany w składzie Basketball Löwen Braunschweig.",
+        "Mocna postawa Eisbären Bremerhaven w ProA w ubiegłym sezonie, niewiele zabrakło im do awansu do BBL."
+      ],
+      "injury_notes": "Brak istotnych braków dla Eisbären Bremerhaven. Basketball Löwen Braunschweig borykało się z długoterminową kontuzją Barra Njie w lutym 2026 roku, jednak brak aktualnych informacji na dzień meczu. Zespół przeszedł też dużą przebudowę składu."
     }
   ]
 }
