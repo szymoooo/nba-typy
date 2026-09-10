@@ -1,34 +1,20 @@
---- AUDYT PLK LIVE (2026-09-09 22:03 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa) na podstawie danych z 2026-09-09:
+--- AUDYT PLK LIVE (2026-09-10 02:38 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
----
-
-### ORLEN Zastal Zielona Góra
-
-1.  **Kluczowe braki w składzie koszykarskim:**
-    *   Brak istotnych braków w składzie koszykarskim.
-    *   Sagaba Konate doznał poważnej kontuzji dłoni w lutym 2026 roku (sezon 2025/2026), kończąc poprzedni sezon, ale brak aktualnych informacji o jego statusie na sezon 2026/2027. Klub uzupełnił pozycję podkoszową nowymi zawodnikami, co sugeruje, że jego długoterminowa absencja została uwzględniona w budowie składu.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu (sezon 2026/2027 jeszcze się nie rozpoczął).
-    *   Kluczowi zawodnicy, którzy mogą pełnić rolę top scorerów w nadchodzącym sezonie, to m.in. rozgrywający Conley Garrison (pozostał w klubie) oraz nowo pozyskani Beau Beech (silny skrzydłowy, skuteczny na dystansie) i Toyaz "Tay" Solomon (silny skrzydłowy/środkowy z USA).
-3.  **Werdykt:** [✅ ZATWIERDZONY] (dla Legii, ocena ogólna siły zespołu Zastalu)
+Mecz ten był decydującym (Game 7) finałów ORLEN Basket Ligi sezonu 2025/2026, rozgrywanym w Warszawie, na własnym parkiecie Legii Warszawa.
 
 ### Legia Warszawa
 
-1.  **Kluczowe braki w składzie koszykarskim:**
-    *   Brak istotnych braków w składzie koszykarskim.
-    *   Michał Kolenda (kapitan) był kontuzjowany w grudniu 2025 roku, ale został wymieniony jako zawodnik pozostający w składzie na sezon 2026/2027, co sugeruje jego powrót do pełnej sprawności.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu (sezon 2026/2027 jeszcze się nie rozpoczął, jego start planowany jest na 2 października 2026 roku).
-    *   Potencjalnymi wiodącymi strzelcami mogą być nowo pozyskani Gyorgy Goloman (podkoszowy z doświadczeniem europejskim), Zach Freemantle (podkoszowy z G-League) oraz Michael Christmas (strzelec z dystansu).
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+1.  **Kluczowe braki w składzie:**
+    *   Brak istotnych braków w składzie koszykarskim. Michał Kolenda, który doznał kontuzji w grudniu 2025, wrócił do gry i był "walecznym kapitanem" w meczach finałowych w czerwcu 2026.
+2.  **Aktualna forma top scorerów (z serii finałowej):**
+    *   W meczach finałowych dla Legii wyróżniali się Carl Ponsar (17 pkt w Game 4) i Andrzej Pluta jr (14 pkt w Game 4). Michał Kolenda i Shane Hunter również przyczyniali się do ofensywy.
+3.  **Werdykt:** ✅ ZATWIERDZONY
 
----
+### ORLEN Zastal Zielona Góra
 
-### Werdykt końcowy dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
-
-Na podstawie aktualnych informacji o składach i transferach na sezon 2026/2027 (stan na 2026-09-09), Legia Warszawa, jako aktualny Mistrz Polski z sezonu 2025/2026, aktywnie wzmocniła swój skład, pozyskując doświadczonych graczy europejskich (Gyorgy Goloman), obiecujących zawodników z USA (Zach Freemantle, Michael Christmas) oraz młode polskie talenty (Jakub Andrzejewski, Szymon Tomczak). Klub wyraźnie dąży do obrony tytułu mistrzowskiego i będzie reprezentować Polskę w Basketball Champions League. Zastal Zielona Góra, wicemistrz Polski z poprzedniego sezonu, również wzmocnił się, pozyskując m.in. Beau Beecha i Toyaza Solomona oraz utrzymując kluczowych graczy takich jak Conley Garrison i Andrzej Mazurczak.
-
-Mimo wzmocnień Zastalu, Legia wydaje się utrzymywać status silniejszego zespołu, stawiając sobie za cel obronę mistrzostwa. Zbliżający się Superpuchar Polski (26-27 września 2026) z udziałem obu drużyn jest pierwszym sygnałem ich siły. Przy braku zgłoszonych kontuzji kluczowych koszykarzy w obu zespołach na początku sezonu 2026/2027, Legia Warszawa prezentuje się jako faworyt.
-
-**Werdykt dla typu:** [✅ ZATWIERDZONY]
+1.  **Kluczowe braki w składzie:**
+    *   Brak istotnych braków w składzie koszykarskim. Choć Zastal borykał się z urazami w ciągu sezonu (m.in. Filip Matczak, Jakub Szumert, Sagaba Konate w lutym 2026), kluczowi zawodnicy jak Matczak i Szumert wrócili do składu przed finałami i grali w poprzednich meczach serii. Wzmianka o "walce z urazami" z początku czerwca była ogólna i nie wskazywała na konkretne braki na dzień meczu.
+2.  **Aktualna forma top scorerów (z serii finałowej):**
+    *   W Game 4, Andrzej Mazurczak i Conley Garrison zdobyli łącznie 37 punktów, znacząco poprawiając swoją skuteczność. Dwight Wilson, Phil Fayne oraz Patrick Cartier i Jakub Szumert również wnosili istotny wkład ofensywny.
+3.  **Werdykt:** ✅ ZATWIERDZONY
