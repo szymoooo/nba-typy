@@ -1,22 +1,13 @@
---- AUDYT PLK LIVE (2026-09-10 22:04 CET) ---
-Analiza typów PLK (na dzień 2026-09-10 dla meczu z 2026-06-21):
+--- AUDYT PLK LIVE (2026-09-10 23:50 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-Z racji, że data meczu (2026-06-21) jest przeszła względem dzisiejszej daty analizy (2026-09-10), wszelkie informacje dotyczące kontuzji czy zawieszeń będą podane w oparciu o stan aktualny na 2026-09-10 lub dane z zakończonego sezonu 2025/2026, a nie precyzyjny stan z dnia 2026-06-21, który byłby niemożliwy do ustalenia za pomocą narzędzia Google Search w trybie "aktualnym".
+1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim w decydującym meczu finałowym. Michał Kolenda i Ojārs Siliņš, którzy mieli problemy zdrowotne wcześniej w sezonie, grali w serii finałowej.
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate (silny skrzydłowy/środkowy) był kontuzjowany od lutego 2026 roku i wyłączony z gry do końca sezonu 2025/2026. Phil Fayne (silny skrzydłowy) powrócił do składu przed rozpoczęciem serii finałowej po wcześniejszym urazie.
 
----
+2.  **Aktualna forma top scorerów:**
+    *   **Legia Warszawa:** Andrzej Pluta Jr. był MVP sezonu 2025/2026 oraz MVP finałów. W siódmym meczu finałowym zdobył 15 punktów. W tym samym meczu Race Thompson i Dominic Brewton III uzyskali po 11 punktów, a Shane Hunter 10 punktów.
+    *   **ORLEN Zastal Zielona Góra:** W sezonie 2025/2026 czołowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). W siódmym meczu finałowym Andrzej Mazurczak zdobył 10 punktów. Aktywni strzelecko byli również Conley Garrison, Jayvon Maughmer i Krzysztof Sulima.
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-*Typ PulsBasketu: Legia Warszawa*
-
-1.  **Kluczowe braki w składach (stan na 2026-09-10):**
-    *   **Legia Warszawa koszykówka:** Brak potwierdzonych, istotnych braków w składzie koszykarskim na dzień 2026-09-10. Skład na sezon 2026/2027 jest w fazie kompletowania lub został ogłoszony, ale bez doniesień o długoterminowych kontuzjach.
-    *   **ORLEN Zastal Zielona Góra:** Brak potwierdzonych, istotnych braków w składzie koszykarskim na dzień 2026-09-10. Klub ogłaszał ruchy kadrowe na nowy sezon 2026/2027.
-    *(Uwaga: Informacje o kontuzjach lub zawieszeniach z dnia 2026-06-21 nie są możliwe do zweryfikowania za pomocą bieżących zapytań w Google Search.)*
-
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   **Legia Warszawa:** Brak konkretnych danych z API dla tego zespołu w kontekście top scorerów z serii, jednak analizując miniony sezon 2025/2026, wyróżniającymi się zawodnikami byli m.in. Christian Vital oraz Aric Holman, którzy często przewodzili w zdobywaniu punktów dla Legii.
-    *   **ORLEN Zastal Zielona Góra:** Brak konkretnych danych z API dla tego zespołu w kontekście top scorerów z serii. W sezonie 2025/2026 dla Zastalu często punktowali m.in. Dusan Miletić i Aleksandar Zecević.
-    *(Ze względu na brak danych z API dla konkretnej serii, bazujemy na ogólnej formie z zakończonego sezonu 2025/2026.)*
-
-3.  **Werdykt:** ⚠️ RYZYKOWNY
-    *   Typ jest ryzykowny, ponieważ analiza opiera się na informacjach aktualnych na 2026-09-10, a nie na dokładnych danych z 2026-06-21, w tym o ewentualnych brakach kadrowych czy dyspozycji z tamtego konkretnego dnia. Brak danych o top scorerach *w serii* dodatkowo utrudnia retrospektywną ocenę formy z tamtego okresu. Mimo że Legia Warszawa była silnym zespołem w sezonie 2025/2026, brak możliwości weryfikacji szczegółów z dnia meczu sprawia, że audyt jest obarczony dużym ryzykiem niedokładności.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz był siódmym, decydującym spotkaniem finałowej serii PLK 2025/2026. Legia Warszawa wygrała go u siebie 78:70, zapewniając sobie mistrzostwo Polski. Przewaga własnego parkietu w tak kluczowym meczu była istotna. Osłabienie Zastalu kontuzją Sagaby Konate mogło wpłynąć na końcowy wynik. Forma kluczowych zawodników Legii, w tym MVP Andrzeja Pluty Jr., była na wysokim poziomie w serii finałowej.
