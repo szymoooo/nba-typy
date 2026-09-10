@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-09-10T07:32:03.743399",
+  "generated_at": "2026-09-10T12:23:22.798237",
   "date": "2026-09-10",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Phoenix Hagen @ HAKRO Merlins Crailsheim",
-      "phase": "1. Runda Netto BBL Pokal",
-      "ai_pick": "Phoenix Hagen",
-      "formula_pick": "HAKRO Merlins Crailsheim",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Phoenix Hagen przystępuje do tego meczu Pucharu Niemiec jako świeżo upieczony mistrz ProA, co świadczy o ich mocnej formie i pewności siebie po awansie do BBL. HAKRO Merlins Crailsheim, choć gra u siebie, boryka się z niepewnością dotyczącą występu kluczowych graczy Brocka Gardnera i TJ Madlocka z powodu kontuzji przedsezonowych.",
+      "matchup": "Basketball Löwen Braunschweig @ Eisbären Bremerhaven",
+      "phase": "BBL-Pokal 1. Runda",
+      "ai_pick": "Eisbären Bremerhaven",
+      "formula_pick": "Eisbären Bremerhaven",
+      "agreement": true,
+      "confidence": 6,
+      "reasoning": "Eisbären Bremerhaven, jako silny zespół z ProA (3. miejsce w sezonie 2025/26), gra u siebie, co jest znaczącym atutem w meczu pucharowym przeciwko drużynie z wyższej ligi. Basketball Löwen Braunschweig zakończyli poprzedni sezon BBL na 17. miejscu, a ich przygotowania do sezonu 2026/27 były słabe (0-5 w sparingach) i naznaczone kontuzją kluczowego zawodnika, Eddiego Edigina. Dodatkowo, trener Eisbären, Ferried Naciri, był asystentem obecnego trenera Braunschweig, Ramóna Díaza, co daje mu cenną wiedzę o przeciwniku.",
       "key_factors": [
-        "Phoenix Hagen - aktualny mistrz ProA i awans do BBL.",
-        "Kontuzje kluczowych graczy HAKRO Merlins Crailsheim (Gardner, Madlock).",
-        "Przewaga własnego parkietu HAKRO Merlins Crailsheim.",
-        "Styl gry Phoenix Hagen, oparty na agresywnej obronie i szybkim ataku, potwierdzony w poprzednim sezonie."
+        "Przewaga własnego boiska dla Eisbären Bremerhaven",
+        "Słaba forma Basketball Löwen Braunschweig w presezonie (0-5)",
+        "Kontuzja kluczowego zawodnika Braunschweig, Eddiego Edigina",
+        "Znajomość trenera Eisbären z systemem gry rywala",
+        "Eisbären Bremerhaven byli czołową drużyną ProA w sezonie 2025/26"
       ],
-      "injury_notes": "HAKRO Merlins Crailsheim: Brock Gardner doznał kontuzji stawu skokowego, a TJ Madlock złamania kciuka. Obaj gracze są obecnie poddawani badaniom medycznym, a ich występ w meczu jest wątpliwy. Phoenix Hagen: Brak zgłoszonych nowych, istotnych kontuzji na dzień meczu. Wzmianki o Patricio Garino z historią kontuzji kolana i Polite'cie po dwuletniej przerwie to raczej uwagi przedsezonowe, a nie świeże urazy."
+      "injury_notes": "W Basketball Löwen Braunschweig Eddy Edigin (środkowy) zmaga się z kontuzją (naciągnięcie włókna mięśniowego) i opuścił presezon, co stawia pod znakiem zapytania jego dostępność i formę na ten mecz. W Eisbären Bremerhaven Adrian Breitlauch, jeden z kluczowych graczy, jest nieobecny, ponieważ przebywa w Afryce."
     }
   ]
 }
