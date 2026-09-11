@@ -1,39 +1,23 @@
 {
-  "generated_at": "2026-09-10T12:43:41.260369",
-  "date": "2026-09-10",
+  "generated_at": "2026-09-11T07:29:20.962931",
+  "date": "2026-09-11",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Phoenix Hagen @ Crailsheim Merlins",
-      "phase": "BBL-Pokal First Round",
-      "ai_pick": "Phoenix Hagen",
-      "formula_pick": "Crailsheim Merlins",
+      "matchup": "ROSTOCK SEAWOLVES @ Veolia Towers Hamburg",
+      "phase": "Netto BBL Pokal 1. Runda",
+      "ai_pick": "ROSTOCK SEAWOLVES",
+      "formula_pick": "Veolia Towers Hamburg",
       "agreement": false,
       "confidence": 7,
-      "reasoning": "Phoenix Hagen wchodzi w ten mecz jako świeżo upieczony mistrz ProA z sezonu 2025/26 i beniaminek BBL, co daje im silny impuls zwycięstwa i sprawdzoną zdolność do wygrywania w kluczowych momentach. Mimo że Crailsheim Merlins grają u siebie i wygrali ostatnie bezpośrednie starcie w kwietniu 2026, ich forma pod koniec poprzedniego sezonu (porażka w ćwierćfinałach ProA) była słabsza niż dynamiczna seria zwycięstw Phoenix Hagen prowadząca do mistrzostwa.",
+      "reasoning": "ROSTOCK SEAWOLVES wykazali się lepszą formą pod koniec sezonu 2025/26, w tym dominującym zwycięstwem nad Veolia Towers Hamburg w maju 2026 roku. Mimo przewagi własnego boiska dla Hamburg, ostatnie bezpośrednie wyniki oraz ogólny bilans ligowy przemawiają na korzyść gości.",
       "key_factors": [
-        "Aktualna forma i dynamika Phoenix Hagen (mistrzowie ProA 2026)",
-        "Brak istotnych kontuzji u kluczowych zawodników obu drużyn",
-        "Przewaga własnego parkietu dla Crailsheim Merlins",
-        "Liderzy Phoenix Hagen (np. Marcus Graves) byli w bardzo dobrej formie w końcówce poprzedniego sezonu"
+        "Lepsza forma ROSTOCK SEAWOLVES w końcówce sezonu 2025/26",
+        "Ostatnie bezpośrednie zwycięstwo ROSTOCK SEAWOLVES (103-71 w maju 2026)",
+        "Lepszy bilans ROSTOCK SEAWOLVES w sezonie 2025/26 (18-18 vs 13-21)"
       ],
-      "injury_notes": "Brak istotnych braków. Wcześniejsze kontuzje zawodników Phoenix Hagen (Cameron Krutwig, Anzac Rissetto, Marvin Omuvwie, Jeffrey Carol) wydają się być wyleczone lub są zbyt odległe w czasie, by wpływać na dzisiejszy mecz. To samo dotyczy Kelvina Wardella Wischera z Crailsheim Merlins. [cite: 2, 6, 10 z poprzedniej odpowiedzi]"
-    },
-    {
-      "matchup": "Löwen Braunschweig @ Eisbären Bremerhaven",
-      "phase": "BBL-Pokal First Round",
-      "ai_pick": "Eisbären Bremerhaven",
-      "formula_pick": "Eisbären Bremerhaven",
-      "agreement": true,
-      "confidence": 6,
-      "reasoning": "Eisbären Bremerhaven, będący silnym zespołem ProA, ma przewagę własnego parkietu w tym pucharowym spotkaniu i nowego trenera, Ferrieda Naciriego, który doskonale zna drużynę Löwen Braunschweig. Löwen Braunschweig, mimo utrzymania się w BBL dzięki dzikiej karcie po spadku, przeszło znaczną przebudowę składu, straciło czołowych strzelców i miało trudny okres przygotowawczy bez zwycięstw i w niepełnym składzie.",
-      "key_factors": [
-        "Trudna faza przygotowawcza i osłabiony skład Löwen Braunschweig.",
-        "Przewaga własnego parkietu Eisbären Bremerhaven i znajomość przeciwnika przez trenera.",
-        "Eisbären Bremerhaven jako silny przedstawiciel ProA, który w poprzednim sezonie dotarł do półfinału play-offów."
-      ],
-      "injury_notes": "Brak istotnych, konkretnych kontuzji kluczowych zawodników dla obu drużyn na dzień meczu. Löwen Braunschweig miało trudności z wystawieniem pełnego składu we wszystkich pięciu meczach przedsezonowych, co może wskazywać na problemy z głębią składu lub kondycją."
+      "injury_notes": "brak danych o bieżących kontuzjach kluczowych graczy obu drużyn na dzień 2026-09-11."
     }
   ]
 }
