@@ -1,19 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-10 19:34 ET) ---
-Oto analiza Twojego typu na podstawie dostępnych danych ze stycznia 2026 i aktualnych raportów z 10 września 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-09-10 21:25 ET) ---
+Analiza meczu: Heat @ Raptors (Styczeń 2026)
 
----
-
-**Heat @ Raptors**
-*   **Typ:** Raptors
-
-*   **Kluczowe braki w składach (styczeń 2026):**
+*   **Kluczowe braki w składach (Styczeń 2026):**
     *   **Miami Heat:**
-        *   Pelle Larsson: Skręcona kostka. Uraz zgłoszony w grudniu 2025, z prognozowanym powrotem w ciągu 1-2 tygodni, co oznacza, że mógł być nieobecny lub ograniczony we wczesnym styczniu 2026.
+        *   Tyler Herro: Wykluczony z powodu kontuzji palca u stopy (początek stycznia), później kontuzja żeber (połowa stycznia). Był również wymieniany jako "questionable" (wątpliwy).
+        *   Jaime Jaquez Jr.: Mało prawdopodobny do gry z powodu skręcenia prawej kostki (początek stycznia), "questionable" (wątpliwy) z powodu skręcenia lewego kolana (połowa stycznia).
+        *   Nikola Jovic: "Questionable" (wątpliwy) z powodu kontuzji pachwiny (początek stycznia).
+        *   Davion Mitchell: "Questionable" (wątpliwy) z powodu stłuczenia lewego ramienia (połowa stycznia).
+        *   Terry Rozier: Wykluczony (nie z drużyną) (początek stycznia).
     *   **Toronto Raptors:**
-        *   Brak zgłoszonych kontuzji dla sezonu 2025-2026, w tym na styczeń 2026.
+        *   Jakob Poeltl: Wykluczony z powodu problemów z plecami (początek i połowa stycznia).
+        *   RJ Barrett: Wykluczony z powodu kontuzji kostki (połowa stycznia).
+        *   Ja'Kobe Walter: Wykluczony z powodu kontuzji kostki (połowa stycznia).
+        *   Brandon Ingram: Kontuzjowany ("frustrating roadblock") około 8 stycznia, następnie "questionable" (wątpliwy) z powodu kontuzji kciuka (połowa stycznia).
+        *   Scottie Barnes: "Questionable" (wątpliwy) z powodu skręcenia prawego kolana (połowa stycznia).
 
-*   **Brak aktualnych raportów (Injury Report) na tę chwilę (2026-09-10):**
-    *   Brak konkretnych, bieżących (na dzień 2026-09-10) raportów o statusie "Out", "Questionable", "GTD" dla tych drużyn dotyczących meczu ze stycznia 2026. Dostępne aktualne raporty dotyczą głównie długoterminowych urazów z poprzedniego sezonu lub ogólnych aktualizacji zdrowotnych, a nie statusu meczowego.
-
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Biorąc pod uwagę potencjalną nieobecność Pelle Larssona po stronie Heat oraz brak zgłoszonych kontuzji w składzie Raptors w styczniu 2026, typ na Raptors wydaje się rozsądny z perspektywy dostępności kluczowych graczy.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    Toronto Raptors borykali się z licznymi kontuzjami kluczowych graczy (Poeltl, Barrett, Ingram, Barnes) przez cały styczeń 2026, co czyni ich typowanie bardzo ryzykownym. Miami Heat również miało ważne braki (Herro, Jaquez Jr.).
