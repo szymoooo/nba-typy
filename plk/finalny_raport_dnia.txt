@@ -1,20 +1,41 @@
---- AUDYT PLK LIVE (2026-09-11 19:40 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (typ z 2026-06-21)
-
-**Ważna uwaga:**
-Przeprowadzanie audytu typu bukmacherskiego z dnia 21 czerwca 2026 roku na podstawie danych aktualnych na dzień 11 września 2026 roku jest problematyczne. Informacje o kontuzjach, zawieszeniach oraz bieżącej formie zawodników są zmienne i miałyby inne znaczenie w czerwcu niż we wrześniu, kiedy drużyny prawdopodobnie są w innej fazie przygotowań lub już po rozpoczęciu nowego sezonu. Niemniej jednak, poniżej przedstawiam analizę opartą o dane dostępne na dzisiaj (2026-09-11), zgodnie z wytycznymi.
+--- AUDYT PLK LIVE (2026-09-11 23:52 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra vs Legia Warszawa z 2026-06-21.
 
 ---
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+**1. Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie)**
 
-1.  **Kluczowe braki w składach (stan na 2026-09-11):**
-    *   **Legia Warszawa koszykówka:** Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 11 września 2026 roku.
-    *   **ORLEN Zastal Zielona Góra koszykówka:** Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 11 września 2026 roku.
+*   **Legia Warszawa:**
+    *   Brak potwierdzonych istotnych braków w składzie koszykarskim Legii Warszawa na dzień 2026-09-11. Skład na sezon 2026/2027 jest w dużej mierze skompletowany.
+    *   Warto zauważyć, że Andrzej Pluta Jr., MVP finałów i sezonu zasadniczego 2025/2026, wybrał ofertę z ligi hiszpańskiej i nie ma go już w składzie Legii. Maksymilian Wilczek również opuścił zespół.
+    *   Legia pozyskała nowych zawodników na sezon 2026/2027, m.in. Jakuba Andrzejewskiego, Szymona Tomczaka, Kristersa Zoriksa, Markusa Ilvera, Gyorgy Golomana i Zacha Freemantle'a.
+    *   Warto pamiętać, że informacje o kontuzjach piłkarzy (np. z Transfermarkt czy Legionisci.com) są ignorowane, zgodnie z zasadami.
 
-2.  **Aktualna forma top scorerów (stan na 2026-09-11):**
-    *   Sezon 2026/2027 Orlen Basket Ligi prawdopodobnie rozpoczyna się w końcówce września lub na początku października 2026 roku. W związku z tym, na dzień 11 września 2026 roku, brak jest danych dotyczących aktualnej formy top scorerów z rozgrywek ligowych sezonu 2026/2027. Drużyny są w okresie przygotowawczym lub rozgrywają mecze sparingowe/przedsezonowe.
-    *   Brak danych z API PulsBasketu dla tego zespołu na dzień 11 września 2026.
+*   **ORLEN Zastal Zielona Góra:**
+    *   Brak potwierdzonych istotnych braków w składzie koszykarskim ORLEN Zastal Zielona Góra na dzień 2026-09-11. Skład na sezon 2026/2027 jest budowany i aktualizowany.
+    *   Zastal zakończył sezon 2025/2026 ze srebrnym medalem mistrzostw Polski.
+    *   Przed finałową serią (w czerwcu 2026) Phil Fayne wrócił do zespołu po powodach rodzinnych, a Filip Matczak zgłaszał dolegliwości związane ze starą kontuzją, choć sztab trenerski liczył na jego dostępność. Dwight Wilson również odczuwał skutki urazu kostki, ale trenował. Jednak te informacje dotyczą stanu zdrowia z czerwca 2026, a nie z 2026-09-11.
+    *   Na dzień 2026-09-11 Zastal ogłosił nowe transfery na sezon 2026/2027, m.in. Beau Beecha, Trazariena White'a, Veljko Brkicia i Toyaza Solomona. Conley Garrison zostaje w Zastalu na kolejny sezon. Patrick Cartier i Miłosz Góreńczyk odeszli z klubu.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Ocena typu z 21 czerwca 2026 roku, bazując na aktualnych (11 września 2026) informacjach o składach i braku danych o formie z trwających rozgrywek, jest wysoce ryzykowna. Nie można rzetelnie zweryfikować trafności pierwotnego typu, ponieważ kontekst meczowy (kontuzje, forma) byłby zupełnie inny w czerwcu. Brak danych o aktualnej formie top scorerów w kontekście sezonu ligowego również uniemożliwia ocenę.
+**2. Aktualna forma top scorerów**
+
+Dane dotyczące top scorerów z PulsBasketu nie zostały podane w kontekście, więc bazuję na dostępnych informacjach z sezonu 2025/2026 oraz aktualnym statusie zawodników.
+
+*   **Legia Warszawa:**
+    *   W sezonie 2025/2026 Legia Warszawa zdobyła mistrzostwo Polski, pokonując Zastal Zielona Góra 4-3 w finale.
+    *   Andrzej Pluta Jr. był MVP finałów i sezonu zasadniczego 2025/2026. Opuścił jednak Legię.
+    *   Dominic Brewton III był również kluczowym zawodnikiem Legii w mistrzowskiej kampanii 2025/2026, notując średnio 14,5 punktu, 4,0 zbiórki i 3,4 asysty w 28 występach, ale również opuścił klub.
+    *   W finale (21.06.2026), top scorerami dla Legii byli Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt) i Dominic Brewton III (11 Pkt).
+    *   Obecny skład Legii na sezon 2026/2027 zawiera wielu nowych graczy, którzy mają zapewnić jakość i walkę o trzeci z rzędu tytuł mistrza Polski oraz dobrą grę w Basketball Champions League.
+
+*   **ORLEN Zastal Zielona Góra:**
+    *   W sezonie 2025/2026 Zastal Zielona Góra był wicemistrzem Polski.
+    *   Chavaughn Lewis był jednym z czołowych strzelców Zastalu w sezonie 2025/2026, notując średnio 15.8 pkt/mecz. Jakub Szumert (13.2 pkt/mecz) i Andrzej Mazurczak (11.8 pkt/mecz) również byli ważnymi punktami zespołu.
+    *   Andrzej Mazurczak i Conley Garrison zostają w Zastalu na sezon 2026/2027. Conley Garrison był kluczową postacią, a jego trafienie w finałowej serii przedłużyło walkę o tytuł do siódmego meczu.
+    *   W finałowym meczu (21.06.2026), Andrzej Mazurczak zdobył 10 punktów dla Zastalu.
+
+**3. Werdykt**
+
+Mecz ORLEN Zastal Zielona Góra @ Legia Warszawa z 2026-06-21 był finałowym spotkaniem, które Legia Warszawa wygrała 78:70, zdobywając mistrzostwo Polski (wynik 4-3 w serii). Analizując to wydarzenie z perspektywy 2026-09-11, istotne jest, że Legia była obrońcą tytułu i ostatecznie go obroniła, wykazując się lepszą formą w decydującym momencie sezonu 2025/2026. Biorąc pod uwagę fakt, że typ na Legię Warszawa okazał się poprawny w kontekście rozstrzygnięcia serii finałowej, a także to, że Legia wzmocniła swój skład na nadchodzący sezon 2026/2027, możemy stwierdzić, że był to zasadny typ.
+
+Werdykt: [✅ ZATWIERDZONY]
