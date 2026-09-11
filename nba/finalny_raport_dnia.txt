@@ -1,13 +1,19 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-11 03:27 ET) ---
-Analiza meczu Heat @ Raptors (typ: Raptors) na podstawie danych ze STYCZNIA 2026 dla składów oraz 2026-09-11 dla raportów kontuzji:
+--- KRYTYCZNY AUDYT LIVE (2026-09-11 13:40 ET) ---
+Brak aktualnych raportów (Injury Report) na tę chwilę.
 
-*   **Kluczowe braki w składach (2026-09-11):**
-    *   **Miami Heat:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🩺
-    *   **Toronto Raptors:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🩺
+**Heat @ Raptors** -> Typ: Raptors
 
-*   **Składy (Styczeń 2026):**
-    *   **Miami Heat:** W składzie na sezon 2025-26 kluczowymi zawodnikami byli Bam Adebayo, Tyler Herro i Jaime Jaquez Jr.. Drużyna zakończyła sezon 2025-26 na 10. miejscu w Konferencji Wschodniej z bilansem 43-39.
-    *   **Toronto Raptors:** Roster Raptors na 2026 rok, a także prognozy na sezon 2026-27, wskazują na obecność kluczowych graczy takich jak Scottie Barnes, Immanuel Quickley, RJ Barrett, Jakob Poeltl oraz co istotne, Kawhi Leonard. Włączenie Kawhi Leonarda znacząco wzmacnia drużynę Raptors.
+*   **Kluczowe braki w składach (dane ze stycznia 2026):**
+    *   **Miami Heat:**
+        *   Tyler Herro: Out (kontuzja żeber/stłuczenie palca u nogi)
+        *   Davion Mitchell: Questionable/Out (stłuczenie barku)
+        *   Jaime Jaquez Jr.: Questionable/Unlikely to play (skręcenie kolana/kostki)
+        *   Terry Rozier: Out (nie z zespołem) na dzień 3 stycznia
+    *   **Toronto Raptors:**
+        *   RJ Barrett: Out (kontuzja kostki)
+        *   Ja'Kobe Walter: Out (kontuzja kostki)
+        *   Jakob Poeltl: Out (problemy z plecami/nadwyrężenie dolnej części pleców)
+        *   Brandon Ingram: Questionable (kontuzja kciuka)
+        *   Scottie Barnes: Questionable (skręcenie prawego kolana)
 
-*   **Werdykt:**
-    *   **[✅ ZATWIERDZONY]** Biorąc pod uwagę potencjalnie mocniejszy skład Toronto Raptors w styczniu 2026 roku, zwłaszcza z Kawhi Leonardem, oraz brak aktualnych raportów o kontuzjach dla obu drużyn na dzień 2026-09-11, typ na Raptors jest uzasadniony. 🏀
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Typ na Raptors jest ryzykowny, biorąc pod uwagę liczne kluczowe braki i statusy "questionable" wśród ich podstawowych graczy w styczniu 2026 roku.
