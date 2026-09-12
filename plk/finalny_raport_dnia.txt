@@ -1,30 +1,15 @@
---- AUDYT PLK LIVE (2026-09-12 13:39 CET) ---
-# Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa
-
-## Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
-
-📅 Data meczu: 2026-06-21 (finał, mecz 7/7)
-🏟️ Hala: OSiR Warszawa Bemowo, Warszawa
+--- AUDYT PLK LIVE (2026-09-12 13:57 CET) ---
+Analiza meczu PLK z dnia 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 ### 1. Kluczowe braki w składach:
-*   **ORLEN Zastal Zielona Góra:**
-    *   ❌ **Sagaba Konate** (silny skrzydłowy/środkowy) – kontuzja dłoni (awulsyjne uszkodzenie więzadła SL nadgarstka) wykluczająca z reszty sezonu 2025/2026, uraz od lutego 2026 r.
-    *   ⚠️ **Filip Matczak** (rozgrywający) – grał w masce z powodu kontuzji nosa, a także odczuwał dolegliwości związane ze starą kontuzją.
-    *   ⚠️ **Dwight Wilson III** (silny skrzydłowy) – odczuwał skutki urazu kostki, ale uczestniczył w treningach i grał z bólem.
-    *   ✅ **Phil Fayne** (silny skrzydłowy) – powrócił do zespołu na serię finałową po sprawach rodzinnych.
-*   **Legia Warszawa:**
-    *   Brak istotnych braków w składzie koszykarskim.
 
-### 2. Aktualna forma top scorerów (z meczu 2026-06-21):
-*   **Legia Warszawa:**
-    *   Andrzej Pluta (15 punktów)
-    *   Race Thompson (11 punktów)
-    *   Dominic Brewton III (11 punktów)
-    *   Shane Hunter (10 punktów)
-*   **ORLEN Zastal Zielona Góra:**
-    *   Andrzej Mazurczak (10 punktów)
-*   Brak danych z API dla tego zespołu dla formy top scorerów w serii.
+*   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim (informacje aktualne na 2026-09-12). Wzmianki o Filipie Matczaku i Andrzeju Mazurczaku grających z maskami lub po kontuzjach w czerwcu 2026 roku były stanem przejściowym, a ich obecny status na 2026-09-12 nie wskazuje na trwające niedyspozycje.
+*   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim (informacje aktualne na 2026-09-12). Wywiad z fizjoterapeutą Legii z 11.09.2026 nie wskazuje na żadne aktualne kontuzje kluczowych graczy. Wcześniejsze kontuzje Michała Kolendy (z grudnia 2025) nie są uznawane za aktualne niedyspozycje na dzień 2026-09-12.
+
+### 2. Aktualna forma top scorerów:
+
+*   Brak danych z API dla tego zespołu.
 
 ### 3. Werdykt:
-[✅ ZATWIERDZONY]
-*   Legia Warszawa, grając u siebie w decydującym, siódmym meczu finałowym, miała przewagę braku kluczowych kontuzji, podczas gdy Zastal zmagał się z poważnymi osłabieniami (sezonowa kontuzja Konate, Matczak grający z urazami, Wilson zmagający się z kostką). Legia ostatecznie wygrała ten mecz 78:70 i obroniła tytuł Mistrza Polski.
+
+*   [✅ ZATWIERDZONY]
