@@ -1,23 +1,38 @@
 {
-  "generated_at": "2026-09-11T12:28:19.065984",
-  "date": "2026-09-11",
+  "generated_at": "2026-09-12T11:41:25.735634",
+  "date": "2026-09-12",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "ROSTOCK SEAWOLVES @ Hamburg Towers",
-      "phase": "BBL-Pokal 1. Runda",
-      "ai_pick": "ROSTOCK SEAWOLVES",
-      "formula_pick": "Hamburg Towers",
+      "matchup": "NINERS Chemnitz @ GIESSEN 46ers",
+      "phase": "BBL-Pokal 1. Runde",
+      "ai_pick": "NINERS Chemnitz",
+      "formula_pick": "GIESSEN 46ers",
       "agreement": false,
       "confidence": 7,
-      "reasoning": "ROSTOCK SEAWOLVES wykazują lepszą formę na początku nowego sezonu, pokonując ALBA Berlin w meczu testowym 6 września 2026. Dodatkowo, zakończyli sezon 2025/26 zwycięstwem w meczu Play-In, co pozwoliło im marzyć o awansie do fazy playoff. Chociaż Hamburg Towers grają u siebie, brak jest aktualnych sygnałów o ich wysokiej formie, a ich bilans z poprzedniego sezonu (13-21) był gorszy niż ROSTOCK SEAWOLVES (18-18).",
+      "reasoning": "NINERS Chemnitz to zespół z wyższej ligi (easyCredit BBL) w porównaniu do GIESSEN 46ers, którzy grają w BARMER 2. Basketball Bundesliga ProA. Pomimo przewagi własnego parkietu dla GIESSEN 46ers, różnica klas ligowych jest zazwyczaj decydującym czynnikiem w Pucharze BBL.",
       "key_factors": [
-        "Aktualna forma ROSTOCK SEAWOLVES (zwycięstwo z ALBA Berlin w pre-sezonie)",
-        "Brak istotnych kontuzji u kluczowych graczy obu drużyn",
-        "Przewaga własnego parkietu dla Hamburg Towers"
+        "Różnica klas ligowych (BBL vs ProA)",
+        "Brak bieżących danych o kontuzjach dla obu drużyn",
+        "Przewaga własnego parkietu GIESSEN 46ers"
       ],
-      "injury_notes": "Brak istotnych, aktualnych kontuzji zgłoszonych dla Hamburg Towers i ROSTOCK SEAWOLVES na dzień 2026-09-11."
+      "injury_notes": "Brak istotnych braków lub potwierdzonych kontuzji na dzień 2026-09-12 dla obu drużyn. Niektóre źródła wskazują na status 'inactive' dla kilku graczy NINERS Chemnitz na koniec sezonu 2025/26, co może oznaczać ich brak w obecnym składzie lub kontuzje, ale brakuje aktualnych informacji potwierdzających ich niedostępność na ten mecz."
+    },
+    {
+      "matchup": "SYNTAINICS MBC @ BG Göttingen",
+      "phase": "BBL-Pokal 1. Runde",
+      "ai_pick": "SYNTAINICS MBC",
+      "formula_pick": "BG Göttingen",
+      "agreement": false,
+      "confidence": 6,
+      "reasoning": "Pomimo kontuzji kluczowego gracza, SYNTAINICS MBC, jako zespół z wyższej ligi BBL, wykazuje lepszą formę przedsezonową (3-0 w sparingach) w porównaniu do BG Göttingen, które zakończyło poprzedni sezon w ProA ze słabym bilansem (1-4 w ostatnich 5 meczach ligowych). Przewaga własnego parkietu BG Göttingen może zniwelować część tej różnicy, ale ogólna jakość składu MBC powinna przeważyć.",
+      "key_factors": [
+        "Kontuzja kapitana SYNTAINICS MBC, Spencera Reavesa.",
+        "Wyższa klasa rozgrywkowa SYNTAINICS MBC (BBL) w porównaniu do BG Göttingen (ProA).",
+        "Lepsza forma przedsezonowa SYNTAINICS MBC (3-0 w sparingach)."
+      ],
+      "injury_notes": "Spencer Reaves, kapitan SYNTAINICS MBC, jest kontuzjowany (podwójne zerwanie więzadeł w stawie skokowym) i wykluczony z gry na co najmniej sześć tygodni, co oznacza, że opuści ten mecz. Brak istotnych braków kadrowych zgłoszonych dla BG Göttingen."
     }
   ]
 }
