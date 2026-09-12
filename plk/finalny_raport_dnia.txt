@@ -1,15 +1,15 @@
---- AUDYT PLK LIVE (2026-09-12 13:57 CET) ---
-Analiza meczu PLK z dnia 2026-06-21: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-12 18:52 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-### 1. Kluczowe braki w składach:
+1.  **Kluczowe braki w składach:**
+    *   Na dzień 2026-06-21, dla obu drużyn (Legia Warszawa i ORLEN Zastal Zielona Góra), nie ma publicznie dostępnych informacji o istotnych brakach w składzie koszykarskim, kontuzjach, zawieszeniach czy foul-outach, które wpłynęłyby na ten decydujący mecz.
 
-*   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim (informacje aktualne na 2026-09-12). Wzmianki o Filipie Matczaku i Andrzeju Mazurczaku grających z maskami lub po kontuzjach w czerwcu 2026 roku były stanem przejściowym, a ich obecny status na 2026-09-12 nie wskazuje na trwające niedyspozycje.
-*   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim (informacje aktualne na 2026-09-12). Wywiad z fizjoterapeutą Legii z 11.09.2026 nie wskazuje na żadne aktualne kontuzje kluczowych graczy. Wcześniejsze kontuzje Michała Kolendy (z grudnia 2025) nie są uznawane za aktualne niedyspozycje na dzień 2026-09-12.
+2.  **Aktualna forma top scorerów (z tego konkretnego meczu, Finału PLK Mecz 7):**
+    *   **Legia Warszawa:** Najlepsi strzelcy w tym meczu to Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt) i Shane Hunter (10 Pkt).
+    *   **ORLEN Zastal Zielona Góra:** Najlepszym strzelcem w tym meczu był Andrzej Mazurczak (10 Pkt).
+    *   Brak danych z API dla tego zespołu w szerszej serii.
 
-### 2. Aktualna forma top scorerów:
-
-*   Brak danych z API dla tego zespołu.
-
-### 3. Werdykt:
-
-*   [✅ ZATWIERDZONY]
+3.  **Werdykt:**
+    *   Mecz odbył się 21 czerwca 2026 roku i był to **7. mecz finałowy Orlen Basket Ligi** sezonu 2025/2026, rozegrany w Warszawie, w hali OSiR Warszawa Bemowo. Legia Warszawa zwyciężyła 78:70, zdobywając Mistrzostwo Polski.
+    *   Biorąc pod uwagę wagę meczu (decydujący finał) oraz przewagę własnego parkietu dla Legii Warszawa, przy braku istotnych kontuzji, typ na Legię Warszawa jest uzasadniony.
+    *   [✅ ZATWIERDZONY]

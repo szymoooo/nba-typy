@@ -1,21 +1,16 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-12 07:57 ET) ---
-**Heat @ Raptors** -> Typ: Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-09-12 12:52 ET) ---
+Na podstawie danych z dnia 2026-09-12, przedstawiam analizę Twojego typu:
 
 ---
 
-**Miami Heat:**
+**Heat @ Raptors**
+Typ: Raptors
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Ważni zawodnicy w styczniu 2026:** Jaime Jaquez Jr., Davion Mitchell, Terry Rozier.
+*   **Kluczowe braki w składach:**
+    *   **Miami Heat:** Brak aktualnych raportów (Injury Report) na tę chwilę. ❌
+    *   **Toronto Raptors:** Brak aktualnych raportów (Injury Report) na tę chwilę. ❌
 
-**Toronto Raptors:**
-
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Ważni zawodnicy w styczniu 2026:** Immanuel Quickley, Scottie Barnes, Jakob Poeltl, RJ Barrett. (Kawhi Leonard dołączył do Raptors w lipcu 2026 roku, więc nie był w składzie w styczniu 2026).
-
----
-
-**Werdykt dla typu "Raptors":** [⚠️ RYZYKOWNY]
-
-*   Brak aktualnych raportów o kontuzjach na dzień 2026-09-12 sprawia, że ocena jest ryzykowna, ponieważ nie dysponujemy pełną informacją o stanie zdrowia kluczowych graczy obu drużyn.
-*   Nie ma danych wskazujących na znaczącą przewagę Raptors na podstawie dostępnych informacji o składach z początku 2026 roku.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Brak potwierdzonych kluczowych braków w składach na dzień 2026-09-12 oznacza, że nie ma danych, które sugerowałyby, że typ jest ryzykowny z powodu kontuzji. Składy na styczeń 2026, które były aktywne w sezonie 2025-2026, prezentowały się następująco:
+        *   **Miami Heat (styczeń 2026):** M.in. Bam Adebayo, Tyler Herro, Nikola Jovic, Jaime Jaquez Jr., Davion Mitchell, Norman Powell, Terry Rozier, Dru Smith.
+        *   **Toronto Raptors (styczeń 2026):** M.in. Scottie Barnes, RJ Barrett, Immanuel Quickley, Jakob Poeltl, Gradey Dick.
