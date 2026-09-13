@@ -1,11 +1,24 @@
---- AUDYT PLK LIVE (2026-09-13 09:38 CET) ---
-Analiza meczu PLK z dnia 2026-06-21 (z perspektywy 2026-09-13):
+--- AUDYT PLK LIVE (2026-09-13 14:50 CET) ---
+Analiza predykcji na dzień 2026-06-21, oceniana z perspektywy aktualnej daty 2026-09-13:
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+Należy zauważyć, że mecz ORLEN Zastal Zielona Góra @ Legia Warszawa, do którego odnosi się predykcja, odbył się 21 czerwca 2026 roku. Był to decydujący mecz finałowy Orlen Basket Ligi sezonu 2025/2026, w którym Legia Warszawa zdobyła Mistrzostwo Polski, pokonując Zastal Zielona Góra wynikiem 78:70, zwyciężając w serii 4-3. Tym samym, pierwotna predykcja na Legię Warszawa okazała się historycznie prawidłowa.
 
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-06-21.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-06-21.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+Poniższa analiza dotyczy stanu drużyn na dzień dzisiejszy (2026-09-13), tak jakby mecz miał się odbyć obecnie, bazując na dostępnych informacjach o składach i kontuzjach na sezon 2026/2027.
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+
+1.  **Kluczowe braki w składach (stan na 2026-09-13):**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Prawdopodobnie brak Sagaby Konate, który w lutym 2026 doznał poważnej kontuzji dłoni kończącej sezon 2025/2026 i nie figuruje w aktualnych składach na sezon 2026/2027. Brak innych istotnych, potwierdzonych braków w składzie koszykarskim.
+    *   🏀 **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-09-13.
+
+2.  **Aktualna forma top scorerów (stan na 2026-09-13):**
+    *   Sezon 2026/2027 Orlen Basket Ligi jest w fazie przedsezonowej/początkowej, w związku z czym brak jest danych o aktualnych top scorerach z rozgrywek ligowych.
+    *   🏀 **ORLEN Zastal Zielona Góra:** W składzie na sezon 2026/2027 znajdują się m.in. Andrzej Mazurczak oraz nowy nabytek Beau Beech, który w przeszłości dał się poznać jako wartościowy i skuteczny strzelec z dystansu.
+    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu dotyczących top scorerów na sezon 2026/2027. Skład na nadchodzący sezon jest kompletowany, a drużyna rozgrywała mecze towarzyskie.
+
+3.  **Werdykt:**
+    *   Mecz na dzień 2026-06-21 zakończył się zwycięstwem Legii Warszawa, która zdobyła Mistrzostwo Polski.
+    *   Oceniając hipotetyczny mecz na dzień 2026-09-13: Biorąc pod uwagę, że Legia Warszawa jest aktualnym Mistrzem Polski (sezon 2025/2026) i nie odnotowano u niej poważnych osłabień w kadrze na początek sezonu 2026/2027, jej pozycja jako faworyta pozostaje silna. Zastal ma w składzie nowego wartościowego gracza, ale brak kluczowego środkowego z poprzedniego sezonu może być odczuwalny.
+    *   Werdykt: ✅ ZATWIERDZONY (Legia Warszawa, jako aktualny Mistrz Polski, jest nadal silną drużyną, a oryginalna predykcja była poprawna).

@@ -1,38 +1,55 @@
 {
-  "generated_at": "2026-09-12T11:41:25.735634",
-  "date": "2026-09-12",
+  "generated_at": "2026-09-13T12:52:50.902022",
+  "date": "2026-09-13",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "NINERS Chemnitz @ GIESSEN 46ers",
-      "phase": "BBL-Pokal 1. Runde",
-      "ai_pick": "NINERS Chemnitz",
-      "formula_pick": "GIESSEN 46ers",
+      "matchup": "MHP RIESEN Ludwigsburg @ Kreisbau Kirchheim Knights",
+      "phase": "BBL-Pokal 1. runda",
+      "ai_pick": "MHP RIESEN Ludwigsburg",
+      "formula_pick": "Kreisbau Kirchheim Knights",
       "agreement": false,
-      "confidence": 7,
-      "reasoning": "NINERS Chemnitz to zespół z wyższej ligi (easyCredit BBL) w porównaniu do GIESSEN 46ers, którzy grają w BARMER 2. Basketball Bundesliga ProA. Pomimo przewagi własnego parkietu dla GIESSEN 46ers, różnica klas ligowych jest zazwyczaj decydującym czynnikiem w Pucharze BBL.",
+      "confidence": 8,
+      "reasoning": "MHP RIESEN Ludwigsburg to drużyna z najwyższej klasy rozgrywkowej BBL, podczas gdy Kreisbau Kirchheim Knights występuje w niższej lidze ProA, co zazwyczaj przekłada się na znaczącą różnicę w jakości składu i doświadczeniu. Mimo, że Kirchheim gra u siebie w BBL-Pokalu i miał udany poprzedni sezon w ProA, brak kontuzjowanego Adriana Worthy'ego osłabia ich skład, a Ludwigsburg jest faworytem ze względu na wyższy poziom rozgrywkowy.",
       "key_factors": [
-        "Różnica klas ligowych (BBL vs ProA)",
-        "Brak bieżących danych o kontuzjach dla obu drużyn",
-        "Przewaga własnego parkietu GIESSEN 46ers"
+        "Różnica poziomów ligowych (BBL vs. ProA)",
+        "Brak kontuzjowanego Adriana Worthy'ego (Kirchheim)",
+        "Większa głębia i jakość składu MHP RIESEN Ludwigsburg",
+        "Mecz pucharowy z czynnikiem 'do-or-die'"
       ],
-      "injury_notes": "Brak istotnych braków lub potwierdzonych kontuzji na dzień 2026-09-12 dla obu drużyn. Niektóre źródła wskazują na status 'inactive' dla kilku graczy NINERS Chemnitz na koniec sezonu 2025/26, co może oznaczać ich brak w obecnym składzie lub kontuzje, ale brakuje aktualnych informacji potwierdzających ich niedostępność na ten mecz."
+      "injury_notes": "Kreisbau Kirchheim Knights: Adrian Worthy jest kontuzjowany i jego miejsce w składzie zajął Christoph Philipps. MHP RIESEN Ludwigsburg: Brak aktualnych informacji o istotnych kontuzjach na dzień 13.09.2026. Starsze doniesienia z marca 2026 wspominały o powrotach Keeshawna Kellmana, Johannesa Patricka i Lukasa Modica."
     },
     {
-      "matchup": "SYNTAINICS MBC @ BG Göttingen",
-      "phase": "BBL-Pokal 1. Runde",
-      "ai_pick": "SYNTAINICS MBC",
-      "formula_pick": "BG Göttingen",
+      "matchup": "Science City Jena @ SKYLINERS",
+      "phase": "BBL-Pokal 1. runda",
+      "ai_pick": "SKYLINERS",
+      "formula_pick": "SKYLINERS",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "SKYLINERS, grający u siebie, mają historycznie lepszy bilans bezpośrednich spotkań ze Science City Jena, pokonując ich dwukrotnie w poprzednim sezonie BBL, w tym wysoko na wyjeździe. Mimo słabego bilansu w poprzednich rozgrywkach (12-22 dla obu), SKYLINERS przystępują do tego meczu BBL-Pokalu z udaną fazą przygotowawczą (5:1 w sparingach) oraz wzmocnionym składem, co daje im przewagę nad Jeną, która również miała udany pre-sezon, ale będzie grać na wyjeździe.",
+      "key_factors": [
+        "Dominujący bilans H2H SKYLINERS nad Jeną w poprzednim sezonie",
+        "Przewaga własnego boiska dla SKYLINERS",
+        "Wzmocniony i głęboki skład SKYLINERS",
+        "Dobra forma obu drużyn w pre-sezonie"
+      ],
+      "injury_notes": "brak istotnych braków"
+    },
+    {
+      "matchup": "EWE Baskets Oldenburg @ MLP Academics Heidelberg",
+      "phase": "BBL-Pokal 1. runda",
+      "ai_pick": "EWE Baskets Oldenburg",
+      "formula_pick": "MLP Academics Heidelberg",
       "agreement": false,
       "confidence": 6,
-      "reasoning": "Pomimo kontuzji kluczowego gracza, SYNTAINICS MBC, jako zespół z wyższej ligi BBL, wykazuje lepszą formę przedsezonową (3-0 w sparingach) w porównaniu do BG Göttingen, które zakończyło poprzedni sezon w ProA ze słabym bilansem (1-4 w ostatnich 5 meczach ligowych). Przewaga własnego parkietu BG Göttingen może zniwelować część tej różnicy, ale ogólna jakość składu MBC powinna przeważyć.",
+      "reasoning": "EWE Baskets Oldenburg, pomimo zgłoszonej kontuzji Le'Tre Dartharda, wykazuje nieco lepsze wyniki w ostatnich sparingach i korzystniejszy bilans z końcówki poprzedniego sezonu BBL w porównaniu do MLP Academics Heidelberg. Chociaż Heidelberg ma przewagę własnego boiska w tym meczu BBL-Pokal, Oldenburg jest postrzegany jako silniejsza drużyna.",
       "key_factors": [
-        "Kontuzja kapitana SYNTAINICS MBC, Spencera Reavesa.",
-        "Wyższa klasa rozgrywkowa SYNTAINICS MBC (BBL) w porównaniu do BG Göttingen (ProA).",
-        "Lepsza forma przedsezonowa SYNTAINICS MBC (3-0 w sparingach)."
+        "Lepsza forma EWE Baskets Oldenburg (ostatnie mecze, sparingi)",
+        "Kontuzja Le'Tre Dartharda w EWE Baskets Oldenburg",
+        "Przewaga własnego boiska MLP Academics Heidelberg"
       ],
-      "injury_notes": "Spencer Reaves, kapitan SYNTAINICS MBC, jest kontuzjowany (podwójne zerwanie więzadeł w stawie skokowym) i wykluczony z gry na co najmniej sześć tygodni, co oznacza, że opuści ten mecz. Brak istotnych braków kadrowych zgłoszonych dla BG Göttingen."
+      "injury_notes": "Le'tre Darthard z EWE Baskets Oldenburg jest wykluczony z gry z powodu kontuzji odniesionej w kolizji w Hamburgu. Brak istotnych braków w drużynie MLP Academics Heidelberg."
     }
   ]
 }
