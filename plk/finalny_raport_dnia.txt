@@ -1,30 +1,26 @@
---- AUDYT PLK LIVE (2026-09-12 23:27 CET) ---
-Analiza meczu PLK (data analizy: 2026-09-12)
+--- AUDYT PLK LIVE (2026-09-13 03:02 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+
+Mecz ten był siódmym, decydującym spotkaniem finałowym Orlen Basket Ligi sezonu 2025/2026. Odbył się w Warszawie, w Hali OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40. Legia Warszawa zwyciężyła 78:70 i zdobyła Mistrzostwo Polski.
 
 ---
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa (Mecz z dnia: 2026-06-21)**
-*Typ z PulsBasketu: Legia Warszawa*
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** W grudniu 2025 roku Legia borykała się z problemami kontuzjami Michała Kolendy i Matthiasa Tassa, którzy mieli pauzować przez tygodnie lub miesiące. Jednakże, w finałowym meczu 21 czerwca 2026 Michał Kolenda zdobył punkty, co sugeruje jego powrót do składu. Brak potwierdzonych, istotnych braków w składzie koszykarskim Legii na dzień meczu finałowego.
+    *   **ORLEN Zastal Zielona Góra:** Na początku czerwca 2026 roku Zastal zmagał się z urazami, a Phil Fayne wracał do gry. Brak potwierdzonych, istotnych braków w składzie koszykarskim Zastalu na dzień meczu finałowego.
 
-    *   **ORLEN Zastal Zielona Góra:**
-                *   Brak istotnych, aktualnych (2026-09-12) braków w składzie koszykarskim, które byłyby zgłoszone przez klub. Zastal niedawno (9 września 2026) ogłosił ostatni transfer na sezon 2026/27, którym jest Beau Beech.
-        *   Zastal brał udział w sparingach we wrześniu 2026.
-        *   W lutym 2026 Sagaba Konate zakończył sezon z powodu kontuzji nadgarstka. Jednak to informacja sprzed meczu i nie jest aktualna na 2026-09-12 w kontekście nowych kontuzji. Został wymieniony w składzie na sezon 2025/2026. Nie ma potwierdzenia, czy kontuzja wpływa na jego status w sezonie 2026/2027.
-        *   Filip Matczak i Dwight Wilson Jr. zmagali się z drobnymi urazami przed finałami PLK w czerwcu 2026, ale wracali do treningów. Obecnie brak informacji o ich niedostępności na 2026-09-12.
-        *   Andy Mazurczak wrócił do gry po kontuzji pleców w lutym 2026. Brak informacji o jego niedostępności na 2026-09-12.
-
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
     *   **Legia Warszawa:**
-                *   Brak istotnych, aktualnych (2026-09-12) braków w składzie koszykarskim, które byłyby zgłoszone przez klub. Legia Warszawa planuje prezentację drużyny przed sezonem 2026/27 na 16 września 2026.
-        *   Legia Warszawa brała udział w sparingach we wrześniu 2026.
-        *   W grudniu 2025 roku Legia informowała o dłuższych przerwach dla Michała Kolendy i Matthiasa Tassa z powodu kontuzji. Michał Kolenda jest wymieniony w obecnym składzie na sezon 2025/2026. Matthias Tass również był w składzie na sezon 2025/2026. Brak aktualnych informacji, czy te kontuzje wpływają na ich status w sezonie 2026/2027.
-        *   W październiku 2025 roku Jerrick Harding z Rytasu Wilno (przeciwnik Legii w Lidze Mistrzów) doznał poważnej kontuzji, ale nie był to zawodnik Legii Warszawa.
+        *   Andrzej Pluta: 15 punktów w meczu finałowym i tytuł MVP finałów.
+        *   Race Thompson: 11 punktów.
+        *   Dominic Brewton III: 11 punktów.
+        *   Shane Hunter: 10 punktów.
+        *   W sezonie 2025/2026, Andrzej Pluta Jr. (Legia) wyróżniał się w statystykach +/-.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak: 10 punktów w meczu finałowym.
+        *   W sezonie 2025/2026, Andrzej Mazurczak był jednym z liderów Zastalu ze średnią 11.8 pkt/mecz i wysokim wskaźnikiem EVAL. Inni czołowi strzelcy sezonu to Chavaughn Lewis (15.8 pkt/mecz) i Jakub Szumert (13.2 pkt/mecz).
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:**
-    Ze względu na brak aktualnych informacji o kontuzjach lub zawieszeniach (na dzień 2026-09-12) dla obu drużyn, a także brak danych o formie strzeleckiej, nie można wydać pełnowartościowego werdyktu w kontekście meczu, który odbył się 2026-06-21. Analiza opiera się na informacjach *z dzisiaj* (2026-09-12) dotyczących ogólnego stanu drużyn przed nadchodzącym sezonem, a nie na historycznych danych z dnia meczu.
-
-    [⚠️ RYZYKOWNY] - Werdykt jest ryzykowny z uwagi na niemożność pozyskania informacji o brakach w składach i formie zawodników dokładnie na dzień 2026-06-21, zgodnie z obowiązującymi mnie zasadami ignorowania danych sprzed 2025-26 i skupianiem się na 2026-09-12. Aktualne informacje wskazują, że obie drużyny są w fazie przygotowań do nowego sezonu PLK (2026/2027), a ich składy są kompletowane lub niedawno zostały skompletowane. Brak jest doniesień o bieżących, istotnych kontuzjach kluczowych koszykarzy.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa, grając u siebie w decydującym meczu finału, obroniła tytuł Mistrza Polski, pokonując ORLEN Zastal Zielona Góra. Typ był zgodny z ostatecznym wynikiem.
