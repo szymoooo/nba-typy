@@ -1,28 +1,14 @@
---- AUDYT PLK LIVE (2026-09-13 15:05 CET) ---
-# Analiza Meczu PLK - 2026-06-21
+--- AUDYT PLK LIVE (2026-09-13 19:22 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)** -> Typ: Legia Warszawa
 
-## ORLEN Zastal Zielona Góra @ Legia Warszawa
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak grał z uszkodzonym nosem w masce, a Andrzej Mazurczak również występował w masce w finałach. W szeregach Zastalu ogólnie panowała "walka z urazami" przed serią finałową, ale nie ma potwierdzonych informacji o nieobecnościach kluczowych zawodników w 7. meczu finałowym.
+    *   🏀 **Legia Warszawa:** Michał Kolenda, który wcześniej (grudzień 2025) miał dłuższą przerwę z powodu kontuzji, był aktywny w serii finałowej, zdobywając punkty w meczu numer 2 (10 czerwca 2026). Brak potwierdzonych informacji o nieobecnościach kluczowych zawodników w 7. meczu finałowym.
+    *   **Podsumowanie:** Brak istotnych braków w składzie koszykarskim, choć niektórzy zawodnicy grali z drobnymi urazami.
 
-### 1. Kluczowe braki w składach:
-*   **Legia Warszawa:**
-    *   Andrzej Pluta, najlepszy strzelec Legii w finale, występował w meczu finałowym 2026-06-21, pomimo że był "poturbowany we wcześniejszych akcjach" i w ostatnich fragmentach meczu siedział na ławce.
-    *   Michał Kolenda i Matthias Tass byli kontuzjowani w grudniu 2025 roku z przewidywanym powrotem za kilka tygodni lub miesięcy. Brak potwierdzenia ich dostępności na czerwiec 2026 roku, choć są wymienieni w składzie na sezon 2025/2026.
-    *   Adam Linowski doznał kontuzji dłoni, która miała wykluczyć go do końca roku 2026. Nie jest jednak wymieniony w składzie Legii na sezon 2025/2026 w dostępnych źródłach PLK.
-*   **ORLEN Zastal Zielona Góra:**
-    *   Filip Matczak wrócił do gry po kontuzji nosa i wystąpił w masce w meczach finałowych w czerwcu 2026 roku.
-    *   Andrzej Mazurczak również występował w masce w finałach.
-    *   Phil Fayne wrócił do składu po kontuzji na początku czerwca 2026 roku.
-    *   Brak innych istotnych braków w składzie koszykarskim, wszyscy kluczowi zawodnicy byli dostępni i grali w serii finałowej.
+2.  **Aktualna forma top scorerów:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu w serii. Liderzy strzelców w sezonie 2025/2026 to Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz). Conley Garrison był w dobrej formie w półfinałach i zdobywał ważne punkty w meczu nr 2 finału. Jakub Szumert również punktował w meczu nr 2 finału.
+    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu w serii. Finałowym MVP sezonu 2025/2026 był Andrzej Pluta Jr. Pluta zdobywał kluczowe punkty, w tym rzuty za trzy, w meczu nr 2 finału. Michał Kolenda i Carl Ponsar również punktowali w meczu nr 2 finału.
 
-### 2. Aktualna forma top scorerów (sezon 2025/2026):
-*   **Legia Warszawa:**
-    *   W decydującym meczu finałowym (2026-06-21), najlepszym strzelcem Legii był Andrzej Pluta z 15 punktami. Punkty zdobywali również Dominic Brewton i Jayvon Graves.
-    *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026.
-*   **ORLEN Zastal Zielona Góra:**
-    *   Kluczowi strzelcy w sezonie 2025/2026 to Chavaughn Lewis (średnio 15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) oraz Andrzej Mazurczak (11.8 Pkt/mecz).
-    *   Andrzej Mazurczak i Conley Garrison zaprezentowali wysoką formę w jednym z poprzednich meczów finałowych (15.06.2026), zdobywając łącznie 37 punktów.
-
-### 3. Werdykt:
-Mecz 2026-06-21 był decydującym spotkaniem (Game 7) finałów Orlen Basket Ligi, w którym Legia Warszawa obroniła tytuł mistrza Polski, wygrywając z Zastalem Zielona Góra 72:70. Pomimo drobnych problemów zdrowotnych wśród kluczowych graczy obu drużyn (Andrzej Pluta, Filip Matczak, Andrzej Mazurczak), wszyscy wystąpili w finale, co wskazuje na ich determinację i gotowość do gry. Legia Warszawa miała atut własnego parkietu w tym decydującym meczu.
-
-Werdykt: [✅ ZATWIERDZONY]
+3.  **Werdykt:** ✅ **ZATWIERDZONY**
+    *   Mecz odbył się w Hali OSiR Bemowo w Warszawie i był 7. decydującym spotkaniem finałowym PLK 2025/2026. Legia Warszawa wygrała ten mecz 77:71, zdobywając mistrzostwo Polski (seria 4-3). Typ na Legię Warszawa był prawidłowy.
