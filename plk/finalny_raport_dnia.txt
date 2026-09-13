@@ -1,25 +1,27 @@
---- AUDYT PLK LIVE (2026-09-13 23:44 CET) ---
-**Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)**
+--- AUDYT PLK LIVE (2026-09-14 01:27 CET) ---
+Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa
+Data meczu (dla której dokonano audytu): 2026-06-21
+Hala meczu: Hala OSiR Bemowo, Warszawa (Legia Warszawa jako gospodarz finałów).
+
+---
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Sagaba Konate (centr) był kontuzjowany od lutego 2026 roku (uraz więzadła nadgarstka) i nie zagrał do końca sezonu 2025/2026. Brak innych potwierdzonych, istotnych kontuzji na dzień 2026-06-21.
-    *   🏀 **Legia Warszawa:** Michał Kolenda i Matthias Tass mieli kontuzje w grudniu 2025 roku, ale Michał Kolenda powrócił do składu i punktował w drugim meczu finałowym w czerwcu 2026. Andrzej Pluta również był aktywny i skuteczny w serii finałowej. Brak istotnych braków w składzie koszykarskim na decydujący mecz finałowy.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach Kamila Piątkowskiego dotyczą sekcji piłkarskiej. Michał Kolenda przeszedł "planowy zabieg" po dacie meczu (23.07.2026), więc prawdopodobnie był dostępny.
+    *   **ORLEN Zastal Zielona Góra:** Filip Matczak i Andrzej Mazurczak grali w finałach z maskami ochronnymi z powodu urazów nosa, ale byli zdolni do gry. Phil Fayne również wrócił do składu, choć drużyna "walczyła z urazami". Brak doniesień o wykluczeniach z powodu kontuzji lub zawieszeń.
 
-2.  **Aktualna forma top scorerów (dane z serii finałowej):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 14 punktów w 3. meczu finałowym (13.06). Był najlepszym strzelcem Zastalu w sezonie 2025/2026 ze średnią 15.8 Pkt/mecz.
-        *   Andrzej Mazurczak: 21 punktów w 4. meczu finałowym (15.06).
-        *   Jakub Szumert: 13 punktów w 3. meczu finałowym (13.06).
-        *   Conley Garrison: 16 punktów w 4. meczu finałowym (15.06).
-    *   🏀 **Legia Warszawa:**
-        *   Andrzej Pluta: Skuteczny w serii finałowej, zdobył m.in. kluczową trójkę w 2. meczu. Był MVP Sezonu i MVP Finałów PLK 2025/2026.
-        *   Carl Ponsar: 22 punkty w 3. meczu finałowym (13.06) i 17 punktów w 4. meczu finałowym (15.06).
-        *   Dominic Brewton III: 13 punktów w 3. meczu finałowym (13.06) i 12 punktów w 4. meczu finałowym (15.06).
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   **Legia Warszawa:**
+        *   Andrzej Pluta Jr. został MVP sezonu 2025/2026 PLK, co świadczy o jego kluczowej roli ofensywnej.
+        *   Carl Ponsar zdobył 17 punktów w meczu z Zastalem 15 czerwca 2026 roku.
+        *   Brak danych z API dla pozostałych wiodących strzelców z sezonu 2025/2026 bezpośrednio w wynikach wyszukiwania.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz
+        *   Jakub Szumert: 13.2 Pkt/mecz
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz, lider w asystach (6.5/mecz po 4 kolejkach sezonu 2025/2026).
+        *   Andrzej Mazurczak i Conley Garrison zdobyli łącznie 37 punktów w meczu z Legią 15 czerwca 2026 roku; Dwight Wilson III (10 punktów, 5 zbiórek), Phil Fayne i Patrick Cartier również byli skuteczni.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz 2026-06-21 był decydującym, siódmym spotkaniem finałowym Orlen Basket Ligi sezonu 2025/2026.
-    *   Legia Warszawa grała u siebie (OSiR Bemowo, Warszawa) i ostatecznie zwyciężyła w tym meczu 78:70, zdobywając tytuł Mistrza Polski (4-3 w serii).
-    *   Legia była najlepszą drużyną w sezonie zasadniczym.
-    *   Zastal miał poważną, długoterminową kontuzję kluczowego gracza (Sagaba Konate).
-    *   Andrzej Pluta Jr. z Legii Warszawa został wybrany MVP Sezonu i MVP Finałów, co świadczy o jego znakomitej formie.
-    *   Przewaga własnego parkietu w decydującym meczu serii finałowej jest istotnym czynnikiem.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Mecz odbył się 21 czerwca 2026 roku i był finałem Orlen Basket Ligi 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo Polski, pokonując Zastal Zielona Góra.
+    *   Legia Warszawa, będąc gospodarzem finału, posiadała przewagę własnego parkietu.
+    *   Chociaż Zastal miał kilku zawodników grających z drobnymi urazami (Matczak i Mazurczak w maskach), nie odnotowano kluczowych absencji, które całkowicie wykluczyłyby liderów z gry.
+    *   Biorąc pod uwagę fakt, że Legia ostatecznie wygrała ten mecz (78:70) i całe mistrzostwo, typ na Legię Warszawa był słuszny.
