@@ -1,30 +1,12 @@
---- AUDYT PLK LIVE (2026-09-14 03:34 CET) ---
-## Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-14 04:48 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-Mecz odbył się 21 czerwca 2026 roku. Poniższa analiza opiera się na **aktualnych informacjach dotyczących składów i kontuzji drużyn z dnia 14 września 2026 roku**, zgodnie z zasadami zadania.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak grał z kontuzją nosa i w masce około 13 czerwca 2026 roku. Andrzej Mazurczak również występował w masce. Klub zmagał się z urazami, a Phil Fayne powrócił do gry.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim w okolicy 21 czerwca 2026 roku. Informacje o kontuzjach Kamila Piątkowskiego dotyczą sekcji piłkarskiej.
 
-### ORLEN Zastal Zielona Góra
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
-    *   W odniesieniu do obecnego sezonu (2026/2027) i daty 14.09.2026, Zastal Zielona Góra niedawno pochwalił się nowym transferem – do zespołu dołączył Beau Beech, który ma wzmocnić pozycję silnego skrzydłowego i jest szóstym obcokrajowcem w składzie. Skład na sezon 2026/2027 obejmuje m.in. Andy Mazurczaka, Jakuba Galewskiego, Conleya Garrisona, Filipa Matczaka, Gauthiera Denisa, Trazariena White'a, Miłosza Majewskiego, Toyaza Salomona, Jana Wójcika, Veljko Brkića i Krzysztofa Sulimę.
-    *   Informacje o kontuzjach z daty meczu (2026-06-21) są trudne do pozyskania w kontekście "aktualnych" braków. Natomiast, odnosząc się do wcześniejszych kontuzji w sezonie 2025/2026, Phil Fayne wrócił do składu na serię finałową w czerwcu 2026 po przerwie rodzinnej. Filip Matczak odczuwał dolegliwości związane ze starą kontuzją w czerwcu 2026, ale trener zdecydował się dać mu odpocząć, by był gotowy na finały. Dwight Wilson w czerwcu 2026 odczuwał skutki urazu kostki, ale trenował normalnie. Sagaba Konate doznał poważnej kontuzji dłoni w lutym 2026, która wykluczyła go z reszty sezonu 2025/2026.
-    *   Biorąc pod uwagę datę dzisiejszą (2026-09-14) i odniesienie do "aktualnych składów i kontuzji", a także fakt, że sezon 2026/2027 jeszcze się nie rozpoczął (start 2 października 2026), brak jest potwierdzonych informacji o istotnych brakach w składzie koszykarskim ORLEN Zastalu Zielona Góra na dzień 2026-09-14. Drużyna przygotowuje się do Superpucharu Polski, który odbędzie się 26 i 27 września.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mimo braku aktualnych kontuzji na 2026-09-14, analiza dotyczy meczu z przeszłości (2026-06-21). Brak szczegółowych, aktualnych danych z dnia meczu, a także brak danych o formie strzeleckiej, sprawia, że typ jest ryzykowny z perspektywy rygorystycznej analizy.
-
-### Legia Warszawa
-
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie, foul-out z poprzedniego meczu serii):**
-    *   Legia Warszawa jest mistrzem Polski z poprzedniego sezonu (2025/2026). Na sezon 2026/2027 do składu dołączyli Kristers Zoriks i Devon Daniels. Inni zawodnicy w kadrze to m.in. Błażej Czapla, Arguster Daniels IV, Wojciech Tomaszewski, Jakub Andrzejewski, Mathieu Wojciechowski, Wojciech Jasiewicz i Michał Kolenda. Andrzej Pluta, MVP poprzedniego sezonu, przeszedł do hiszpańskiej Girony.
-    *   Brak jest potwierdzonych informacji o istotnych brakach w składzie koszykarskim Legii Warszawa na dzień 2026-09-14. Klub przygotowuje się do Superpucharu Polski. Informacje o kontuzji Łukasza Zjawińskiego dotyczą sekcji piłkarskiej Legii Warszawa i są nieistotne dla meczu koszykówki.
-    *   W listopadzie 2025 roku Andrzej Pluta, Jayvon Graves i Matthias Tass byli kontuzjowani, ale te informacje są sprzed daty meczu i nie są aktualne na 2026-09-14.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Podobnie jak w przypadku Zastalu, brak aktualnych informacji o kontuzjach z dnia meczu (2026-06-21) i brak danych o formie strzeleckiej sprawia, że typ jest ryzykowny z perspektywy rygorystycznej analizy, mimo że Legia jest aktualnym mistrzem Polski i ma mocny skład na rozpoczynający się sezon.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa była obrońcą tytułu mistrza Polski i ostatecznie zdobyła mistrzostwo w sezonie 2025/2026. Zespół Legii Warszawa zakończył sezon 2025/2026 na pierwszym miejscu w Polskiej Lidze Koszykówki (OBL) z bilansem 32-11.
+    *   Mimo kontuzji u kluczowych zawodników Zastalu (Matczak, Mazurczak), którzy grali z maskami w meczach finałowych, Legia Warszawa wykazała dominację w serii. Legia wygrała mecz z Zastalem 13 czerwca 2026 roku (63:79), co było trzecim meczem finałów.
