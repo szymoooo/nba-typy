@@ -1,25 +1,15 @@
---- AUDYT PLK LIVE (2026-09-14 17:13 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-14 21:09 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (typ: Legia Warszawa), analizujemy sytuację na dzień 2026-09-14:
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate – Wykluczony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła nadgarstka, kontuzji doznał podczas Pekao S.A. Pucharu Polski (diagnoza z 28 lutego 2026).
-        *   Filip Matczak – Grał z kontuzją nosa (w masce) w połowie czerwca 2026 roku, deklarując gotowość do gry pomimo urazu.
-        *   Andrzej Mazurczak – Grał w masce w połowie czerwca 2026 roku.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21 czerwca 2026. Wcześniejsze kontuzje (m.in. Andrzeja Pluty, Jayvona Gravesa, Matthiasa Tassa) odnotowane w listopadzie i grudniu 2025 nie mają aktualizacji potwierdzających ich niedostępność na finały w czerwcu 2026 roku.
+**ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim na dzień 14.09.2026. Sagaba Konate, który w lutym 2026 roku doznał poważnej kontuzji nadgarstka, nie figuruje w składzie zespołu na sezon 2026/2027, co sugeruje jego brak w kadrze.
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu dotyczących indywidualnej formy strzeleckiej z bieżącego okresu przygotowawczego (wrzesień 2026). Zespół przygotowuje się do nowego sezonu, który rozpoczyna się 2 października, a wcześniej weźmie udział w Superpucharze Polski 26-27 września.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] - Brak aktualnych danych o formie strzeleckiej z okresu przygotowawczego utrudnia ocenę ich potencjału na dzień dzisiejszy.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: 15.8 Pkt/mecz.
-        *   Jakub Szumert: 13.2 Pkt/mecz.
-        *   Andrzej Mazurczak: 11.8 Pkt/mecz.
-    *   🏀 **Legia Warszawa:**
-        *   Brak danych z API PulsBasketu dla tego zespołu. Jednakże Legia Warszawa była Mistrzem Polski w sezonie 2025/2026, co wskazuje na stabilną formę kluczowych graczy w decydującym okresie.
+**Legia Warszawa**
+1.  **Kluczowe braki w składach:** Michał Kolenda pracuje indywidualnie nad powrotem do pełnej formy po operacji. Szymon Tomczak doznał urazu w meczu towarzyskim z MKS Dąbrowa Górnicza, rozegranym 12 września 2026 roku. Informacje o kontuzjach piłkarzy (Kamil Piątkowski, Łukasz Zjawiński) są nieistotne dla meczu koszykówki.
+2.  **Aktualna forma top scorerów:** W meczu towarzyskim przeciwko MKS Dąbrowa Górnicza (12.09.2026), Markus Ilver zdobył 22 punkty (w tym 3 trójki), a Zach Freemantle 17 punktów (1 trójka). Legia wygrała również mecz towarzyski z GTK Gliwice 93:78.
+3.  **Werdykt:** [⚠️ RYZYKOWNY] - Legia zmaga się z urazami kluczowych zawodników (Kolenda, Tomczak) w okresie przygotowawczym, co może wpłynąć na ich dyspozycję.
 
-3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY]
-        *   Mecz odbył się 21 czerwca 2026 roku i był decydującym (game 7) finałem PLK, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78-70 i zdobyła mistrzostwo Polski.
-        *   Legia Warszawa grała u siebie (OSiR Bemowo, Warszawa), co w decydującym meczu serii play-off jest istotnym atutem.
-        *   ORLEN Zastal Zielona Góra zmagał się z absencją kluczowego zawodnika Sagaby Konate i kontuzjami innych ważnych graczy (Matczak, Mazurczak).
-        *   Typ na Legię Warszawa okazał się trafny.
+**Ogólny werdykt dla typu:** Legia Warszawa
+**Werdykt:** [⚠️ RYZYKOWNY] - Mimo iż Legia pokazała pewne indywidualne występy strzeleckie w sparingach, obecność kontuzji u ważnych graczy (Kolenda, Tomczak) oraz brak aktualnych danych o formie strzeleckiej Zastalu powodują, że typ na Legię jest ryzykowny na dzień dzisiejszy.
