@@ -1,15 +1,13 @@
---- AUDYT PLK LIVE (2026-09-14 21:09 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (typ: Legia Warszawa), analizujemy sytuację na dzień 2026-09-14:
+--- AUDYT PLK LIVE (2026-09-14 22:41 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ z 2026-06-21: Legia Warszawa)
 
-**ORLEN Zastal Zielona Góra**
-1.  **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim na dzień 14.09.2026. Sagaba Konate, który w lutym 2026 roku doznał poważnej kontuzji nadgarstka, nie figuruje w składzie zespołu na sezon 2026/2027, co sugeruje jego brak w kadrze.
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu dotyczących indywidualnej formy strzeleckiej z bieżącego okresu przygotowawczego (wrzesień 2026). Zespół przygotowuje się do nowego sezonu, który rozpoczyna się 2 października, a wcześniej weźmie udział w Superpucharze Polski 26-27 września.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] - Brak aktualnych danych o formie strzeleckiej z okresu przygotowawczego utrudnia ocenę ich potencjału na dzień dzisiejszy.
-
-**Legia Warszawa**
-1.  **Kluczowe braki w składach:** Michał Kolenda pracuje indywidualnie nad powrotem do pełnej formy po operacji. Szymon Tomczak doznał urazu w meczu towarzyskim z MKS Dąbrowa Górnicza, rozegranym 12 września 2026 roku. Informacje o kontuzjach piłkarzy (Kamil Piątkowski, Łukasz Zjawiński) są nieistotne dla meczu koszykówki.
-2.  **Aktualna forma top scorerów:** W meczu towarzyskim przeciwko MKS Dąbrowa Górnicza (12.09.2026), Markus Ilver zdobył 22 punkty (w tym 3 trójki), a Zach Freemantle 17 punktów (1 trójka). Legia wygrała również mecz towarzyski z GTK Gliwice 93:78.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] - Legia zmaga się z urazami kluczowych zawodników (Kolenda, Tomczak) w okresie przygotowawczym, co może wpłynąć na ich dyspozycję.
-
-**Ogólny werdykt dla typu:** Legia Warszawa
-**Werdykt:** [⚠️ RYZYKOWNY] - Mimo iż Legia pokazała pewne indywidualne występy strzeleckie w sparingach, obecność kontuzji u ważnych graczy (Kolenda, Tomczak) oraz brak aktualnych danych o formie strzeleckiej Zastalu powodują, że typ na Legię jest ryzykowny na dzień dzisiejszy.
+*   **Kluczowe braki w składach (stan na 2026-09-14):**
+    *   **Legia Warszawa:**
+        *   Michał Kolenda: pracuje indywidualnie nad powrotem do pełnej formy po operacji.
+        *   Szymon Tomczak: doznał urazu w meczu 2026-09-12.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 prezentuje się w pełni. Sagaba Konate, który doznał kontuzji dłoni kończącej sezon w lutym 2026 roku, nie figuruje już w kadrze na sezon 2026/2027.
+*   **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Typ na Legię Warszawa jest ryzykowny, ponieważ zespół mierzy się z dwoma istotnymi osłabieniami w składzie (Michał Kolenda i Szymon Tomczak), podczas gdy ORLEN Zastal Zielona Góra wydaje się być w pełni sił.
