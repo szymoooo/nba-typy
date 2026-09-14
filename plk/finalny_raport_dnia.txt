@@ -1,12 +1,18 @@
---- AUDYT PLK LIVE (2026-09-14 04:48 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-14 16:44 CET) ---
+Analiza meczu na dzień 2026-06-21 (dane wyszukane 2026-09-14):
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak grał z kontuzją nosa i w masce około 13 czerwca 2026 roku. Andrzej Mazurczak również występował w masce. Klub zmagał się z urazami, a Phil Fayne powrócił do gry.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim w okolicy 21 czerwca 2026 roku. Informacje o kontuzjach Kamila Piątkowskiego dotyczą sekcji piłkarskiej.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (środkowy/silny skrzydłowy) – kontuzja nadgarstka, koniec sezonu od lutego 2026.
+        *   Filip Matczak (rozgrywający) – grał w masce z powodu kontuzji nosa w meczach finałowych w czerwcu 2026.
+        *   Andrzej Mazurczak (rozgrywający) – również grał w masce z powodu kontuzji w meczach finałowych w czerwcu 2026.
+    *   🏀 **Legia Warszawa:**
+        *   Brak potwierdzonych, istotnych braków w składzie koszykarskim na czerwiec 2026. Wcześniejsze kontuzje (m.in. Andrzeja Pluty, Jayvona Gravesa, Matthiasa Tassa, Michała Kolendy, Ojārsa Siliņša) były zgłaszane w listopadzie/grudniu 2025, ale brak informacji o ich niedostępności w finałach w czerwcu 2026. Legia zdobyła mistrzostwo Polski 19 czerwca 2026, co sugeruje optymalny skład na decydujące mecze.
 
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa była obrońcą tytułu mistrza Polski i ostatecznie zdobyła mistrzostwo w sezonie 2025/2026. Zespół Legii Warszawa zakończył sezon 2025/2026 na pierwszym miejscu w Polskiej Lidze Koszykówki (OBL) z bilansem 32-11.
-    *   Mimo kontuzji u kluczowych zawodników Zastalu (Matczak, Mazurczak), którzy grali z maskami w meczach finałowych, Legia Warszawa wykazała dominację w serii. Legia wygrała mecz z Zastalem 13 czerwca 2026 roku (63:79), co było trzecim meczem finałów.
+    *   **Uzasadnienie:** Legia Warszawa, grająca prawdopodobnie u siebie w Warszawie, wydaje się mieć pełniejszy skład niż ORLEN Zastal Zielona Góra, który zmagał się z poważnymi kontuzjami kluczowych zawodników w fazie finałowej (Konate wykluczony na sezon, Matczak i Mazurczak grający z urazami). Przewaga własnego parkietu Legii oraz ich ogólna siła składu, która doprowadziła do zdobycia mistrzostwa Polski w tym okresie, przemawiają za typem na Legię.
