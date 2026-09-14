@@ -1,13 +1,15 @@
---- AUDYT PLK LIVE (2026-09-14 22:41 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ z 2026-06-21: Legia Warszawa)
+--- AUDYT PLK LIVE (2026-09-15 00:32 CET) ---
+Analiza meczu koszykówki PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data audytu: 2026-09-15)
 
-*   **Kluczowe braki w składach (stan na 2026-09-14):**
-    *   **Legia Warszawa:**
-        *   Michał Kolenda: pracuje indywidualnie nad powrotem do pełnej formy po operacji.
-        *   Szymon Tomczak: doznał urazu w meczu 2026-09-12.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 prezentuje się w pełni. Sagaba Konate, który doznał kontuzji dłoni kończącej sezon w lutym 2026 roku, nie figuruje już w kadrze na sezon 2026/2027.
-*   **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-*   **Werdykt:** ⚠️ RYZYKOWNY
-    *   Typ na Legię Warszawa jest ryzykowny, ponieważ zespół mierzy się z dwoma istotnymi osłabieniami w składzie (Michał Kolenda i Szymon Tomczak), podczas gdy ORLEN Zastal Zielona Góra wydaje się być w pełni sił.
+---
+
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Sagaba Konate, który doznał kontuzji nadgarstka w lutym 2026 roku i zakończył udział w sezonie 2025/2026, nie jest wymieniony w składzie na sezon 2026/2027. Filip Matczak i Dwight Wilson, którzy w czerwcu 2026 roku odczuwali dolegliwości, są obecni w aktualnym składzie na nadchodzący sezon. Do zespołu dołączył Beau Beech.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach Kamila Piątkowskiego czy Jana Kuchty dotyczą sekcji piłkarskiej i są nieistotne dla meczu koszykówki.
+
+2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu. (Sezon PLK 2026/2027 rozpoczyna się 2 października 2026 roku, a dane o formie strzeleckiej z poprzedniego sezonu nie są dostępne dla tej konkretnej serii meczów).
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa, jako aktualny mistrz Polski w koszykówce i uczestnik fazy grupowej Ligi Mistrzów, wydaje się być dobrze przygotowana do nowego sezonu. Zespół nie zgłasza kluczowych kontuzji w sekcji koszykarskiej. ORLEN Zastal Zielona Góra, wicemistrz poprzedniego sezonu, również wchodzi w pre-sezon bez większych osłabień i z nowymi wzmocnieniami, jednak Legia, jako obrońca tytułu, ma udokumentowaną siłę i stabilność.
