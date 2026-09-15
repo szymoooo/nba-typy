@@ -1,29 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-14 20:55 ET) ---
-Oto analiza Twojego typu na podstawie danych ze stycznia 2026 (składy) oraz aktualnych raportów o kontuzjach z 2026-09-14:
+--- KRYTYCZNY AUDYT LIVE (2026-09-15 09:06 ET) ---
+Oto analiza Twojego typu na podstawie dzisiejszych danych (2026-09-15):
 
----
+**Heat @ Raptors**
+Typ użytkownika: Raptors
 
-### Heat @ Raptors -> Typ: Raptors
+*   **Kluczowe braki w składach (na dzień 2026-09-15):**
+    *   **Miami Heat:**
+        *   Bam Adebayo (plecy) - Prawdopodobny (Probable)
+        *   Ryan Conwell (biodro) - Niejasny (Questionable)
+        *   Myron Gardner (kostka) - Niejasny (Questionable)
+        *   Giannis Antetokounmpo (kolano) - Dzień-na-dzień (Day-To-Day), skupiony na przygotowaniach do sezonu 2026-27. Należy jednak pamiętać, że Giannis został pozyskany przez Heat po styczniu 2026 r., więc nie byłby w składzie na ten mecz.
+    *   **Toronto Raptors:**
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę.
 
-**Kluczowe braki w składach (na dzień 2026-09-14, z uwzględnieniem składów ze STYCZNIA 2026):**
-
-*   **Miami Heat:**
-    *   Bam Adebayo (Plecy) - Probable (Oczekuje się, że zagra)
-    *   Ryan Conwell (Biodro) - Questionable (Status niepewny)
-    *   Myron Gardner (Kostka) - Questionable (Status niepewny)
-    *   Trevor Keels (Kolano) - Nie grał w Lidze Letniej; status na styczeń 2026 niejasny
-    *   *Uwaga: Giannis Antetokounmpo (Kolano) jest wymieniony w raportach kontuzji na 2026-09-14, ale dołączył do Heat w lipcu 2026 roku, więc nie był w składzie Heat w styczniu 2026 roku.*
-
-*   **Toronto Raptors:**
-    *   Immanuel Quickley (Ścięgno podkolanowe) - Probable (Oczekuje się, że zagra)
-    *   Nate Bittle (Podudzie) - Questionable (Status niepewny)
-    *   Chucky Hepburn (Kolano) - Questionable (Status niepewny)
-    *   Collin Murray-Boyles (Palec) - Questionable (Status niepewny)
-    *   *Uwaga: Alijah Martin (Kolano) jest wymieniony w raportach kontuzji na 2026-09-14, ale podpisał kontrakt z Raptors w lipcu 2026 roku, więc nie był w składzie Raptors w styczniu 2026 roku.*
-
-**Werdykt:** [⚠️ RYZYKOWNY]
-
-*   Brak kluczowych absencji statusu "Out" wśród podstawowych zawodników obu drużyn, którzy byli w składach w styczniu 2026 roku.
-*   Zarówno Bam Adebayo (Heat), jak i Immanuel Quickley (Raptors), kluczowi gracze w styczniu 2026, mają status "Probable" i powinni zagrać.
-*   Kilku graczy rezerwowych lub młodych zawodników z obu drużyn ma status "Questionable", co może wpłynąć na głębię składu, ale nie jest decydujące dla wyniku meczu.
-*   Brak jest jednoznacznych informacji o kontuzjach z 2026-09-14, które miałyby znaczący wpływ na hipotetyczny mecz rozgrywany w styczniu 2026, biorąc pod uwagę ówczesne składy.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Raptors, według dzisiejszych raportów, nie mają żadnych kontuzjowanych graczy. Heat mają kilku graczy z niepewnym statusem, choć Bam Adebayo jest Prawdopodobny. Biorąc pod uwagę czystszy bilans zdrowotny Raptors, typ jest zasadny.
+    *   Skład Raptors w styczniu 2026 roku obejmowałby takie nazwiska jak Immanuel Quickley, RJ Barrett, Scottie Barnes, Brandon Ingram i Jakob Poeltl.
