@@ -1,15 +1,22 @@
---- AUDYT PLK LIVE (2026-09-15 00:32 CET) ---
-Analiza meczu koszykówki PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data audytu: 2026-09-15)
+--- AUDYT PLK LIVE (2026-09-15 02:56 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
----
+1.  **Kluczowe braki w składach koszykarskich:**
+    *   🏀 **Legia Warszawa:** Matthias Tass był poza kadrą meczową decyzją sztabu szkoleniowego na siódmy mecz finału. Nie odnotowano innych istotnych kontuzji ani zawieszeń.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Filip Matczak i Andrzej Mazurczak wystąpili w masce w poprzednich meczach finałowych (przed 13 czerwca 2026) z powodu urazów (Matczak kontuzja nosa), ale byli zdolni do gry w meczu finałowym 21 czerwca 2026. Phil Fayne zmagał się z urazami, ale jego powrót do formy był odnotowany przed finałem. Brak istotnych braków w składzie koszykarskim, które wykluczałyby kluczowych graczy Zastalu z tego meczu.
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Sagaba Konate, który doznał kontuzji nadgarstka w lutym 2026 roku i zakończył udział w sezonie 2025/2026, nie jest wymieniony w składzie na sezon 2026/2027. Filip Matczak i Dwight Wilson, którzy w czerwcu 2026 roku odczuwali dolegliwości, są obecni w aktualnym składzie na nadchodzący sezon. Do zespołu dołączył Beau Beech.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach Kamila Piątkowskiego czy Jana Kuchty dotyczą sekcji piłkarskiej i są nieistotne dla meczu koszykówki.
-
-2.  **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu. (Sezon PLK 2026/2027 rozpoczyna się 2 października 2026 roku, a dane o formie strzeleckiej z poprzedniego sezonu nie są dostępne dla tej konkretnej serii meczów).
+2.  **Aktualna forma top scorerów (z 7. meczu finałowego 2026-06-21):**
+    *   🏀 **Legia Warszawa:**
+        *   Andrzej Pluta: 15 punktów w meczu 7. Był również wybrany MVP całej serii finałowej.
+        *   Race Thompson: 11 punktów w meczu 7.
+        *   Dominic Brewton III: 11 punktów w meczu 7.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak: 10 punktów w meczu 7. Wcześniej (mecz 4, 15 czerwca) wraz z Conleyem Garrisonem zaliczyli świetny występ, zdobywając łącznie 37 punktów, co wskazywało na dobrą formę.
+        *   Jayvon Maughmer: 10 punktów w meczu 7.
+        *   Chavaughn Lewis: 10 punktów w meczu 7. Był wiodącym strzelcem Zastalu w sezonie 2025/2026 ze średnią 15.8 Pkt/mecz.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa, jako aktualny mistrz Polski w koszykówce i uczestnik fazy grupowej Ligi Mistrzów, wydaje się być dobrze przygotowana do nowego sezonu. Zespół nie zgłasza kluczowych kontuzji w sekcji koszykarskiej. ORLEN Zastal Zielona Góra, wicemistrz poprzedniego sezonu, również wchodzi w pre-sezon bez większych osłabień i z nowymi wzmocnieniami, jednak Legia, jako obrońca tytułu, ma udokumentowaną siłę i stabilność.
+    *   Legia Warszawa, będąc liderem sezonu zasadniczego i gospodarzem decydującego, siódmego meczu finału, posiadała przewagę własnego parkietu.
+    *   Mimo braku Matthiasa Tassa z decyzji sztabu, Legia zwyciężyła w tym meczu 78:70 i obroniła tytuł mistrza Polski.
+    *   Kluczowi gracze Zastalu grali pomimo drobnych urazów (Matczak, Mazurczak w maskach), a ich forma była na wysokim poziomie w kluczowych momentach serii.
+    *   Prognoza na Legię Warszawa była trafna.
