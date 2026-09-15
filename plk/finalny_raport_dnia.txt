@@ -1,35 +1,19 @@
---- AUDYT PLK LIVE (2026-09-15 23:24 CET) ---
-Analiza meczu koszykówki PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-16 00:35 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21) na dzień 2026-09-16:
 
-📅 Data analizy: 2026-09-15
-🏟️ Hala/Miasto: (Nie podano w kontekście, analiza na podstawie składów)
-📊 Typ z PulsBasketu: Legia Warszawa
+*   **Kluczowe braki w składach (stan na 2026-09-16, dla sezonu 2026/2027):**
+    *   **ORLEN Zastal Zielona Góra**: Sagaba Konate (silny skrzydłowy/środkowy) zakończył sezon 2025/2026 z powodu kontuzji dłoni w lutym 2026 i nie jest wymieniony w składzie na sezon 2026/2027.
+    *   **Legia Warszawa**: Andrzej Pluta (rozgrywający), MVP sezonu zasadniczego i finałów 2025/2026, po sezonie przeszedł do hiszpańskiej Girony i nie ma go w obecnym składzie Legii. Do drużyny dołączyli Kristers Zoriks i Devon Daniels.
+    *   Brak innych istotnych kontuzji koszykarskich potwierdzonych na dzień 2026-09-16. Informacje o kontuzjach piłkarzy Legii (Kamil Piątkowski, Łukasz Zjawiński) są nieistotne dla meczu koszykówki.
 
----
+*   **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu (dla konkretnej serii/meczu).
+    *   W sezonie 2025/2026 czołowymi strzelcami Legii Warszawa byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+    *   Czołowymi strzelcami ORLEN Zastalu Zielona Góra w sezonie 2025/2026 byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
 
-### ORLEN Zastal Zielona Góra
+*   **Werdykt:**
+    *   Mecz 2026-06-21 był częścią serii finałowej ORLEN Basket Ligi 2025/2026, którą Legia Warszawa ostatecznie wygrała z ORLEN Zastalem Zielona Góra 4-3, zdobywając Mistrzostwo Polski.
+    *   Zastal borykał się z kontuzjami kluczowych graczy w trakcie finałów (Sagaba Konate, Filip Matczak i Andrzej Mazurczak grali w maskach).
+    *   Biorąc pod uwagę fakt, że Legia Warszawa zwyciężyła w całej serii finałowej, typ na zwycięstwo Legii w meczu z tej serii jest zgodny z historycznym wynikiem mistrzostw.
 
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-15.
-    *   Sagaba Konate doznał poważnej kontuzji nadgarstka w lutym 2026 roku, która wykluczyła go z reszty sezonu 2025/26. Brak jest jednak potwierdzonych informacji o jego niedyspozycji na dzień 2026-09-15, a jego nazwisko figuruje w składzie z sierpnia 2026, co sugeruje powrót.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
----
-
-### Legia Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-15. Zespół przygotowuje się do sezonu 2026/27 i prezentacji składu w dniach 14-16 września 2026. Informacje o kontuzjach piłkarzy są nieistotne dla analizy meczu koszykówki.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
----
-
-### Werdykt
-
-Legia Warszawa jest aktualnym Mistrzem Polski (2026) i rozpocznie sezon 2026/27 od turnieju o Superpuchar Polski, w którym weźmie udział również Zastal. Obie drużyny aktywnie przygotowują się do nowego sezonu, a na dzień 2026-09-15 brak jest potwierdzonych kluczowych absencji w obu składach koszykarskich. Wobec braku informacji o kontuzjach i silnej pozycji Legii jako obrońcy tytułu, proponowany typ jest uzasadniony.
-
-**Werdykt:** [✅ ZATWIERDZONY]
+    ✅ **ZATWIERDZONY**
