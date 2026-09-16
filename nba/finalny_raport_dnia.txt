@@ -1,10 +1,28 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-15 22:46 ET) ---
-Oto Twoja analiza na podstawie danych z dnia 2026-09-15:
+--- KRYTYCZNY AUDYT LIVE (2026-09-16 04:10 ET) ---
+Analiza meczu: Heat @ Raptors (Styczeń 2026)
 
-**Heat @ Raptors**
-*   **Twój typ:** Raptors
+### Kluczowe braki w składach (Styczeń 2026):
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla Miami Heat.
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla Toronto Raptors.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak aktualnych raportów dotyczących kontuzji z dnia 2026-09-15 uniemożliwia rzetelną ocenę składów na mecz w styczniu 2026).
+**Toronto Raptors:**
+*   Jakob Poeltl (Out) 🩹 - Kontuzja pleców (Lower Back Strain).
+*   Immanuel Quickley (Out) 🩹 - Problemy z plecami (Back Injuries).
+*   RJ Barrett (Out) 🩹 - Skręcenie lewej kostki (Left Ankle Sprain), choć przewidywano powrót w ciągu kilku dni po 14 stycznia.
+*   Ja'Kobe Walter (Out) 🩹 - Kontuzja biodra (Hip / Right Hip Pointer).
+*   Sandro Mamukelashvili (Out) 🤧 - Choroba (Illness).
+*   Garrett Temple (Out) 🩹 - Kontuzja pleców (Back).
+*   Collin Murray-Boyles (Out) 🩹 - Stłuczenie lewego kciuka (Left Thumb Contusion).
+*   Chucky Hepburn (Out) 🧑‍💻 - Przydział do G League (Two-Way).
+
+**Miami Heat:**
+*   Tyler Herro (Out) 🩹 - Stłuczenie dużego palca prawej stopy (Right Big Toe Contusion) (status na 1 stycznia).
+*   Pelle Larsson (Out) 🩹 - Skręcenie prawej kostki (Right Ankle Sprain) (status na 1 stycznia).
+*   Terry Rozier (Out) 🚫 - Brak z zespołem (Not With Team) (status na 1 stycznia).
+*   Giannis Antetokounmpo **NIE** był w składzie Heat w styczniu 2026 roku.
+
+### Aktualne raporty kontuzji (2026-09-16):
+*   Brak aktualnych raportów (Injury Report) na tę chwilę.
+
+### Werdykt:
+Na podstawie danych ze stycznia 2026, Toronto Raptors mieli znacznie więcej kluczowych graczy wyłączonych z gry, w tym podstawowych zawodników takich jak Jakob Poeltl, Immanuel Quickley i RJ Barrett. Miami Heat również miało braki, ale skala kontuzji Raptors była znacznie większa.
+
+Heat @ Raptors -> Typ: Raptors: [⚠️ RYZYKOWNY]
