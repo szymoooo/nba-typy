@@ -1,31 +1,30 @@
---- AUDYT PLK LIVE (2026-09-16 20:05 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-09-16 21:48 CET) ---
+Analiza meczu koszykówki PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
 
-1.  **Kluczowe braki w składach:**
+---
 
-    *   **ORLEN Zastal Zielona Góra:**
-        *   ❌ Sagaba Konate (silny skrzydłowy/środkowy) - kontuzja awulsyjna więzadła SL nadgarstka, wykluczony z gry do końca sezonu 2025/2026 od lutego 2026.
-        *   Brak istotnych braków w składzie koszykarskim poza wskazanym urazem.
-    *   **Legia Warszawa:**
-        *   ❌ Michał Kolenda (niski skrzydłowy/kapitan) - kontuzja stopy, dłuższa przerwa od grudnia 2025.
-        *   ❌ Matthias Tass (środkowy) - dłuższa przerwa od grudnia 2025 z powodu kontuzji.
-        *   ❌ Ojārs Siliņš (silny skrzydłowy) - był poza składem w grudniu 2025, brak informacji o powrocie do czerwca 2026.
-        *   Brak innych potwierdzonych braków w składzie koszykarskim.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
+**Typ PulsBasketu:** Legia Warszawa
 
-2.  **Aktualna forma top scorerów (na podstawie dostępnych danych z serii finałowej):**
+#### 1. Kluczowe braki w składach:
 
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak - 21 Pkt w meczu z Legią (15.06.2026). Był również jednym z czołowych strzelców sezonu 2025/2026 ze średnią 11.8 Pkt/mecz.
-        *   Chavaughn Lewis - 15.8 Pkt/mecz w sezonie 2025/2026.
-        *   Conley Garrison - 16 Pkt w meczu z Legią (15.06.2026).
-        *   Jakub Szumert - 13.2 Pkt/mecz w sezonie 2025/2026, został wybrany najlepszym zawodnikiem młodzieżowym ORLEN Basket Ligi w sezonie 2025/2026.
-    *   **Legia Warszawa:**
-        *   Andrzej Pluta - 14 Pkt w meczu z Zastalem (15.06.2026). Został uznany MVP sezonu PLK 2025/2026 oraz MVP finałów, co świadczy o wybitnej formie.
-        *   Carl Ponsar - 17 Pkt w meczu z Zastalem (15.06.2026).
-        *   Dominic Brewton III - 12 Pkt w meczu z Zastalem (15.06.2026).
-        *   Brak danych z API PulsBasketu dla tego zespołu, jednak informacje o MVP sezonu i finałów potwierdzają świetną formę kluczowego gracza.
+*   **ORLEN Zastal Zielona Góra:**
+    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-16.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
+*   **Legia Warszawa:**
+    *   ⚠️ **Szymon Tomczak** (FC) – Doznał skręcenia śródstopia z uszkodzeniem więzadeł. Czeka go około 3 miesięcy przerwy w treningach, co potwierdzono 2026-09-16.
 
-    *   Mimo że Legia Warszawa historycznie zdobyła mistrzostwo PLK w sezonie 2025/2026, pokonując Zastal Zielona Góra w finale, typowanie zwycięstwa Legii było ryzykowne z perspektywy analizy przedmeczowej.
-    *   Legia borykała się z licznymi, długoterminowymi kontuzjami kluczowych zawodników, w tym kapitana Michała Kolendy, Matthiasa Tassa i Ojārs Siliņš. W fazie play-off, a zwłaszcza w decydującym meczu finałowym, braki liderów mają znacznie większe znaczenie. Silna dyspozycja Andrzeja Pluty (MVP sezonu i finałów) oraz innych graczy pozwoliła Legii na zwycięstwo, ale obiektywnie rzecz biorąc, ryzyko było podwyższone.
+#### 2. Aktualna forma top scorerów (sezon 2025/2026):
+
+*   **ORLEN Zastal Zielona Góra:**
+    *   **Chavaughn Lewis** – 15.8 Pkt/mecz.
+    *   **Jakub Szumert** – 13.2 Pkt/mecz (wybrany najlepszym zawodnikiem młodzieżowym PLK w sezonie 2025/2026).
+    *   **Andrzej Mazurczak** – 11.8 Pkt/mecz.
+
+*   **Legia Warszawa:**
+    *   Brak danych z API dla tego zespołu dotyczących konkretnych punktów na mecz dla top scorerów z sezonu 2025/2026. We wcześniejszej fazie sezonu 2025/2026, wysokie oceny w rankingu EVAL zdobywali m.in. Andrzej Pluta JR, Michał Kolenda, Ojars Silinš i Jayvon Graves.
+
+#### 3. Werdykt:
+[⚠️ RYZYKOWNY]
+
+**Uzasadnienie:** Mimo że Legia Warszawa jest typowana jako faworyt, kontuzja Szymona Tomczaka, choć zgłoszona 2026-09-16, osłabia zespół z perspektywy dzisiejszej oceny kadry. Brak precyzyjnych danych o top scorerach Legii z zakończonego sezonu 2025/2026 w porównaniu do Zastalu, który ma jasno określonych liderów strzelców, wprowadza dodatkową niepewność.
