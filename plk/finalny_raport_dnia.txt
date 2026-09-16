@@ -1,30 +1,27 @@
---- AUDYT PLK LIVE (2026-09-16 21:48 CET) ---
-Analiza meczu koszykówki PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-09-16 23:20 CET) ---
+# PLK typy na 2026-06-21
 
----
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
-**Typ PulsBasketu:** Legia Warszawa
+1.  **Kluczowe braki w składach (koszykówka):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu kontuzji dłoni, której doznał w lutym 2026 roku.
+        *   Filip Matczak grał z kontuzją nosa (w masce) w czerwcu 2026 roku.
+        *   Andrzej Mazurczak również grał w masce w czerwcu 2026, jednak wcześniej, w lutym 2026, wrócił do pełnej sprawności po kontuzji pleców.
+        *   Phil Fayne wrócił do składu przed rozpoczęciem finałów z Legią w czerwcu 2026 roku.
+    *   🏀 **Legia Warszawa:**
+        *   Michał Kolenda (kapitan) i Matthias Tass doznali kontuzji w grudniu 2025 roku, które mogły wykluczyć ich na kilka tygodni lub miesięcy. Brak konkretnych informacji o ich powrocie lub dostępności na dzień 2026-06-21, co sugeruje, że mogli być niedostępni lub grać z ograniczeniami.
+        *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim Legii na czerwiec 2026.
 
-#### 1. Kluczowe braki w składach:
+2.  **Aktualna forma top scorerów (dane z sezonu 2025/2026 i meczów w czerwcu 2026):**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   W sezonie 2025/2026 kluczowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+        *   W meczu przeciwko Legii 15.06.2026, Andrzej Mazurczak zdobył 21 punktów, a Conley Garrison 16 punktów.
+    *   🏀 **Legia Warszawa:**
+        *   Brak danych z API dla tego zespołu dla średnich punktowych dla całego sezonu 2025/2026 w dostarczonych wynikach wyszukiwania. Mate Vucic był wymieniany jako lider Legii, który opuścił klub w lipcu 2026 roku.
+        *   W meczu przeciwko Zastalowi 15.06.2026, czołowymi strzelcami byli Carl Ponsar (17 Pkt), Andrzej Pluta (14 Pkt) i Dominic Brewton III (12 Pkt).
 
-*   **ORLEN Zastal Zielona Góra:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-16.
-
-*   **Legia Warszawa:**
-    *   ⚠️ **Szymon Tomczak** (FC) – Doznał skręcenia śródstopia z uszkodzeniem więzadeł. Czeka go około 3 miesięcy przerwy w treningach, co potwierdzono 2026-09-16.
-
-#### 2. Aktualna forma top scorerów (sezon 2025/2026):
-
-*   **ORLEN Zastal Zielona Góra:**
-    *   **Chavaughn Lewis** – 15.8 Pkt/mecz.
-    *   **Jakub Szumert** – 13.2 Pkt/mecz (wybrany najlepszym zawodnikiem młodzieżowym PLK w sezonie 2025/2026).
-    *   **Andrzej Mazurczak** – 11.8 Pkt/mecz.
-
-*   **Legia Warszawa:**
-    *   Brak danych z API dla tego zespołu dotyczących konkretnych punktów na mecz dla top scorerów z sezonu 2025/2026. We wcześniejszej fazie sezonu 2025/2026, wysokie oceny w rankingu EVAL zdobywali m.in. Andrzej Pluta JR, Michał Kolenda, Ojars Silinš i Jayvon Graves.
-
-#### 3. Werdykt:
-[⚠️ RYZYKOWNY]
-
-**Uzasadnienie:** Mimo że Legia Warszawa jest typowana jako faworyt, kontuzja Szymona Tomczaka, choć zgłoszona 2026-09-16, osłabia zespół z perspektywy dzisiejszej oceny kadry. Brak precyzyjnych danych o top scorerach Legii z zakończonego sezonu 2025/2026 w porównaniu do Zastalu, który ma jasno określonych liderów strzelców, wprowadza dodatkową niepewność.
+3.  **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Legia Warszawa zdobyła tytuł Mistrza Polski Orlen Basket Ligi 2025/2026 już 19 czerwca 2026 roku. Oznacza to, że mecz 21 czerwca 2026 roku, jeśli był częścią tej samej serii finałowej, odbyłby się po rozstrzygnięciu mistrzostwa. W takim przypadku, motywacja Legii mogła być niższa, a skład mógł nie być w pełni zaangażowany, co czyni typ na ich zwycięstwo ryzykownym.
+    *   Zastal miał istotne braki w składzie, zwłaszcza Sagaba Konate, a także mniejsze urazy Matczaka i Mazurczaka.
+    *   Legia również borykała się z kontuzjami kluczowych zawodników jak Kolenda i Tass w trakcie sezonu, bez jasnych informacji o ich pełnej dyspozycji na dzień 21.06.2026.

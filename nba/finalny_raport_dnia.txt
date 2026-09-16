@@ -1,7 +1,10 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-16 15:48 ET) ---
-Heat @ Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-09-16 17:20 ET) ---
+Heat @ Raptors -> Typ: Raptors
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+*   **Kluczowe braki w składach:**
+    *   **Miami Heat:** W składzie na sezon 2025-2026 odnotowano obecność kluczowych graczy takich jak Bam Adebayo, Tyler Herro i Jaime Jaquez Jr.
+    *   **Toronto Raptors:** Na sezon 2025-2026 w składzie Raptors znajdują się Scottie Barnes, Immanuel Quickley, RJ Barrett, a także Brandon Ingram.
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-09-16) dotyczących kontuzji dla hipotetycznego meczu w styczniu 2026.
 
-*Uzasadnienie:* Chociaż dostępne są prognozowane składy na sezon 2026-27 dla Miami Heat (z udziałem m.in. Giannisa Antetokounmpo, Bama Adebayo, Andrew Wigginsa) oraz Toronto Raptors (z udziałem m.in. Scottiego Barnesa, RJ Barretta, Immanuela Quickleya), brak jest oficjalnych raportów o kontuzjach (statusy 'Out', 'Questionable', 'GTD') dla obu drużyn na dzień 2026-09-16. Sezon NBA zazwyczaj nie rozpoczął się jeszcze w połowie września, stąd brak danych o kontuzjach meczowych. Bez tych kluczowych informacji, typowanie jest ryzykowne.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Na podstawie sezonu 2025-2026, Toronto Raptors (bilans 46-36, 5. miejsce w Konferencji Wschodniej) zakończyli rozgrywki z lepszym rekordem niż Miami Heat (bilans 43-39, 10. miejsce w Konferencji Wschodniej). Skład Raptors, wzmocniony m.in. Brandonem Ingramem, wydaje się mieć przewagę.
