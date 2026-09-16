@@ -1,13 +1,17 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-16 09:05 ET) ---
-Analiza meczu: Heat @ Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-09-16 09:31 ET) ---
+Analiza meczu: Heat @ Raptors (2026-09-16)
 
-*   **Kluczowe braki w składach (2026-09-16):**
-    *   **Miami Heat:** Brak aktualnych raportów (Injury Report) na tę chwilę. Znaleziono wzmianki o Giannisie Antetokounmpo (kolano) przygotowującym się do sezonu 2026-27 oraz Trevora Keelsa (kolano) z ligi letniej, ale nie są to aktywne statusy meczowe na dzień 2026-09-16.
-    *   **Toronto Raptors:** Toronto Raptors nie mają obecnie żadnych zawodników na raporcie kontuzji NBA.
+*   **Miami Heat** 🌴
+    *   **Aktualny skład (sezon 2026-27):** Giannis Antetokounmpo, Bam Adebayo, Davion Mitchell, Tim Hardaway Jr., Andrew Wiggins. W składzie również Klay Thompson, Bobby Portis.
+    *   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na 2026-09-16. Giannis Antetokounmpo (kolano) i Bam Adebayo (plecy) byli wymieniani w kontekście przygotowań do sezonu 2026-27, ale brak oficjalnego statusu (OUT/Questionable/GTD) na dzisiaj. Jeden z raportów z sezonu 2026-2027 stwierdza "Brak zgłoszonych kontuzji".
 
-*   **Składy (Styczeń 2026):**
-    *   **Miami Heat:** Na podstawie dostępnych informacji dla sezonu 2025-26 / 2026-27, Miami Heat posiadało w swoim składzie takie gwiazdy jak Giannis Antetokounmpo, Bam Adebayo i Andrew Wiggins.
-    *   **Toronto Raptors:** Na podstawie dostępnych informacji dla sezonu 2025-26 / 2026-27, kluczowi gracze Raptors to Scottie Barnes, Brandon Ingram, Immanuel Quickley, RJ Barrett i Jakob Poeltl. Kawhi Leonard został przehandlowany do Raptors 5 lipca 2026 roku, więc nie byłby w składzie w styczniu 2026.
+*   **Toronto Raptors** 🦖
+    *   **Aktualny skład (sezon 2026-27):** Scottie Barnes, Brandon Ingram, Immanuel Quickley, RJ Barrett, Jakob Poeltl. Kawhi Leonard został pozyskany przez Raptors.
+    *   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na 2026-09-16. Ostatni oficjalny raport z 27.08.2026 wskazywał, że Raptors nie mają żadnych graczy na liście kontuzjowanych NBA. Poprzednie kontuzje Brandona Ingrama (zapalenie pięty) i Immanuela Quickleya (naciągnięcie ścięgna podkolanowego) miały miejsce podczas playoffów 2026, ale brak aktualnego statusu na dzisiaj.
 
-*   **Werdykt dla typu: Raptors:** [⚠️ RYZYKOWNY]
-    *   Biorąc pod uwagę potencjalny skład Miami Heat ze stycznia 2026, wzmocniony o Giannisa Antetokounmpo, Bama Adebayo i Andrew Wigginsa, typ na Raptors jest wysoce ryzykowny, mimo braku zgłoszonych kontuzji u Raptors na dzień 2026-09-16. Skład Heat wydaje się znacznie silniejszy.
+---
+
+**Werdykt dla typu: Raptors**
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   **Uzasadnienie:** Na podstawie dostępnych danych z dnia 2026-09-16, brak potwierdzonych kluczowych braków w składach obu drużyn z powodu kontuzji (statusy "Out", "Questionable", "GTD"). W związku z brakiem czynników ryzyka wynikających z absencji zawodników, typ nie jest uznawany za ryzykowny na podstawie tych kryteriów.
