@@ -1,44 +1,27 @@
---- AUDYT PLK LIVE (2026-09-17 10:17 CET) ---
-Analiza meczu PLK (2026-06-21) na dzień 2026-09-17:
+--- AUDYT PLK LIVE (2026-09-17 15:33 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
 
-Ze względu na to, że "DZISIEJSZA DATA TO: 2026-09-17", a typ do audytu dotyczy meczu z 2026-06-21, analiza zostanie przeprowadzona w oparciu o bieżące, dostępne informacje dotyczące składów i kontuzji z dnia 2026-09-17, zgodnie z wytycznymi. Informacje o kontuzjach i składach z daty meczu (2026-06-21) są ignorowane, ponieważ instrukcja nakazuje skupić się na dniu 2026-09-17 i danych nie starszych niż sezon 2025-26.
-
----
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
-
-1.  **Kluczowe braki w składach (2026-09-17):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17.
-    *   **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17.
-
-2.  **Aktualna forma top scorerów (2026-09-17):**
-    *   Brak danych z API dla tego zespołu na dzień 2026-09-17 w kontekście analizy przeszłego meczu.
-
-3.  **Werdykt:**
-    *   ⚠️ **RYZYKOWNY**
-        *   Brak danych o kontuzjach i formie na dzień meczu (2026-06-21) oraz brak bieżących danych o top scorerach uniemożliwia rzetelną ocenę typu z przeszłości w świetle dzisiejszych informacji. Obie drużyny, na dzień 2026-09-17, nie zgłaszają kluczowych braków w składzie. Typ na Legię Warszawa dla meczu rozegranego w przeszłości jest trudny do zatwierdzenia lub odrzucenia bez historycznych danych z dnia meczu.
+Analiza oparta na aktualnej wiedzy na dzień 2026-09-17, ignorując dane sprzed sezonu 2025-26.
 
 ---
 
-**Citations:**
- Brak konkretnych informacji o kontuzjach dla ORLEN Zastal Zielona Góra koszykówka na dzień 2026-09-17.
- Brak konkretnych informacji o kontuzjach dla Legii Warszawa koszykówka na dzień 2026-09-17.Analiza meczu PLK (2026-06-21) na dzień 2026-09-17:
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
----
+#### 1. Kluczowe braki w składach:
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+*   **ORLEN Zastal Zielona Góra:**
+    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17. Trwa okres przygotowawczy do sezonu 2026/2027 PLK, składy są w trakcie formowania lub finalizacji, brak doniesień o poważnych kontuzjach przedsezonowych.
+*   **Legia Warszawa:**
+    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17. Podobnie jak w przypadku Zastalu, drużyna jest w okresie przygotowań do nowego sezonu PLK, brak zgłoszonych kontuzji kluczowych zawodników.
 
-1.  **Kluczowe braki w składach (2026-09-17):**
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17.
-    *   **Legia Warszawa:**
-        *   ❌ Szymon Tomczak (środkowy) – skręcenie śródstopia z uszkodzeniem więzadeł. Przewidywana przerwa około 3 miesięcy, do końca roku nie pojawi się na parkiecie. Klub będzie szukał zastępstwa.
+#### 2. Aktualna forma top scorerów:
 
-2.  **Aktualna forma top scorerów (2026-09-17):**
-    *   Brak danych z API dla tego zespołu w kontekście analizy przeszłego meczu.
+*   **ORLEN Zastal Zielona Góra:**
+    *   Brak danych z API dla tego zespołu na temat aktualnej formy top scorerów w serii, ze względu na to, że mecz odbywał się w czerwcu, a obecna data to 2026-09-17 (początek sezonu 2026/2027). Skład zespołu mógł ulec zmianom.
+*   **Legia Warszawa:**
+    *   Brak danych z API dla tego zespołu na temat aktualnej formy top scorerów w serii, z tych samych powodów co Zastal. Skład zespołu mógł ulec zmianom, a sezon 2026/2027 dopiero się rozpoczyna.
 
-3.  **Werdykt:**
-    *   ⚠️ **RYZYKOWNY**
-        *   Na dzień 2026-09-17 Legia Warszawa mierzy się z istotną kontuzją Szymona Tomczaka, co osłabia pozycję środkowego w składzie. ORLEN Zastal Zielona Góra nie zgłasza kluczowych braków w składzie koszykarskim. Biorąc pod uwagę aktualne informacje, typ na Legię Warszawa dla meczu rozegranego w przeszłości jest ryzykowny z uwagi na osłabienie kadrowe na dzień dzisiejszy. Brak danych o formie top scorerów z API również wpływa na niepewność.
+#### 3. Werdykt:
+
+*   **Legia Warszawa:** ⚠️ RYZYKOWNY
+    *   Brak możliwości rzetelnej oceny ze względu na rozbieżność daty meczu (2026-06-21) z datą aktualnej analizy (2026-09-17). Kadry zespołów są często znacząco zmieniane między sezonami, a wszelkie informacje o kontuzjach czy formie zawodników z czerwca 2026 nie są dostępne w aktualnych źródłach. Analiza na podstawie "dzisiejszych" (2026-09-17) składów i braku kontuzji nie odzwierciedlałaby faktycznego stanu na dzień meczu. Brak danych o top scorerach w serii dodatkowo utrudnia weryfikację.
