@@ -1,27 +1,12 @@
---- AUDYT PLK LIVE (2026-09-17 01:46 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-09-17 04:50 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate był wykluczony z gry do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał w lutym 2026 roku.
-        *   Filip Matczak grał w serii finałowej z maską po kontuzji nosa i zgłaszał dolegliwości związane ze starą kontuzją przed finałami (stan na czerwiec 2026).
-        *   Dwight Wilson III odczuwał skutki urazu kostki, ale brał udział w treningach przed finałami (stan na czerwiec 2026).
-    *   🏀 **Legia Warszawa:**
-        *   W grudniu 2025 roku Michał Kolenda i Matthias Tass mieli pauzować z powodu kontuzji przez "kilka tygodni, a nawet miesięcy". Brak jednoznacznych informacji potwierdzających ich obecność lub dalszą absencję w siódmym meczu finałowym 21 czerwca 2026 roku. Skład na sezon 2025/2026 wymienia ich w kadrze.
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):**
+    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł i czeka go około 3 miesięcy przerwy w treningach, co oznacza, że debiut w nowym zespole zaliczy dopiero na przełomie roku. Jest to istotny brak w składzie.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17. Sagaba Konate, który doznał kontuzji dłoni w lutym 2026 kończącej sezon 2025/2026, nie jest wymieniany w składzie na sezon 2026/2027.
 
-2.  **Aktualna forma top scorerów (z uwzględnieniem danych z serii finałowej):**
-    *   🏀 **Legia Warszawa:**
-        *   Andrzej Pluta był kluczowym graczem, zdobywając 15 punktów w 7. meczu finałowym i 27 punktów w 3. meczu finałowym. Został także wybrany MVP sezonu i MVP finałów 2025/2026.
-        *   Carl Ponsar (17 pkt w meczu 4, 18 pkt w meczu 3, 15 pkt w meczu 6), Dominic Brewton III (11 pkt w meczu 7, 12 pkt w meczu 4, 14 pkt w meczu 6) oraz Shane Hunter (10 pkt w meczu 7, 18 pkt w meczu 3) i Race Thompson (11 pkt w meczu 7) również regularnie byli wśród najlepszych strzelców w serii finałowej.
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Andrzej Mazurczak był wyróżniającym się zawodnikiem, notując 21 punktów w meczu 4, 15 punktów w meczu 6 i 10 punktów w meczu 7.
-        *   Chavaughn Lewis (18 pkt w meczu 6, 25 pkt w meczu 3) oraz Conley Garrison (17 pkt w meczu 6, 16 pkt w meczu 4) i Jakub Szumert (17 pkt w meczu 3) również byli widoczni w statystykach punktowych w finałach.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:**
-    *   Mecz 2026-06-21 był 7. i decydującym spotkaniem finałowym PLK, rozegranym w Warszawie (dom Legii).
-    *   Legia Warszawa zdobyła Mistrzostwo Polski w sezonie 2025/2026, pokonując ORLEN Zastal Zielona Góra wynikiem 78:70 w tym właśnie meczu.
-    *   Legia Warszawa była najlepszą drużyną sezonu zasadniczego.
-    *   Zastal miał osłabiony skład z powodu kontuzji Sagaby Konate na cały sezon oraz drobniejszych urazów Filipa Matczaka i Dwighta Wilsona III w trakcie finałów.
-    *   Indywidualna forma Andrzeja Pluty (MVP sezonu i finałów) oraz przewaga własnego parkietu w decydującym meczu znacząco przyczyniły się do sukcesu Legii.
-
-**[✅ ZATWIERDZONY]**
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    Typ jest ryzykowny ze względu na potwierdzoną, długotrwałą kontuzję Szymona Tomczaka, który był przewidziany jako mocny punkt Legii Warszawa w sezonie 2026/2027. Brak tego zawodnika osłabia zespół Legii.
