@@ -1,12 +1,44 @@
---- AUDYT PLK LIVE (2026-09-17 04:50 CET) ---
+--- AUDYT PLK LIVE (2026-09-17 10:17 CET) ---
+Analiza meczu PLK (2026-06-21) na dzień 2026-09-17:
+
+Ze względu na to, że "DZISIEJSZA DATA TO: 2026-09-17", a typ do audytu dotyczy meczu z 2026-06-21, analiza zostanie przeprowadzona w oparciu o bieżące, dostępne informacje dotyczące składów i kontuzji z dnia 2026-09-17, zgodnie z wytycznymi. Informacje o kontuzjach i składach z daty meczu (2026-06-21) są ignorowane, ponieważ instrukcja nakazuje skupić się na dniu 2026-09-17 i danych nie starszych niż sezon 2025-26.
+
+---
+
 **ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie):**
-    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł i czeka go około 3 miesięcy przerwy w treningach, co oznacza, że debiut w nowym zespole zaliczy dopiero na przełomie roku. Jest to istotny brak w składzie.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17. Sagaba Konate, który doznał kontuzji dłoni w lutym 2026 kończącej sezon 2025/2026, nie jest wymieniany w składzie na sezon 2026/2027.
+1.  **Kluczowe braki w składach (2026-09-17):**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17.
+    *   **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (2026-09-17):**
+    *   Brak danych z API dla tego zespołu na dzień 2026-09-17 w kontekście analizy przeszłego meczu.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Typ jest ryzykowny ze względu na potwierdzoną, długotrwałą kontuzję Szymona Tomczaka, który był przewidziany jako mocny punkt Legii Warszawa w sezonie 2026/2027. Brak tego zawodnika osłabia zespół Legii.
+3.  **Werdykt:**
+    *   ⚠️ **RYZYKOWNY**
+        *   Brak danych o kontuzjach i formie na dzień meczu (2026-06-21) oraz brak bieżących danych o top scorerach uniemożliwia rzetelną ocenę typu z przeszłości w świetle dzisiejszych informacji. Obie drużyny, na dzień 2026-09-17, nie zgłaszają kluczowych braków w składzie. Typ na Legię Warszawa dla meczu rozegranego w przeszłości jest trudny do zatwierdzenia lub odrzucenia bez historycznych danych z dnia meczu.
+
+---
+
+**Citations:**
+ Brak konkretnych informacji o kontuzjach dla ORLEN Zastal Zielona Góra koszykówka na dzień 2026-09-17.
+ Brak konkretnych informacji o kontuzjach dla Legii Warszawa koszykówka na dzień 2026-09-17.Analiza meczu PLK (2026-06-21) na dzień 2026-09-17:
+
+---
+
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+
+1.  **Kluczowe braki w składach (2026-09-17):**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17.
+    *   **Legia Warszawa:**
+        *   ❌ Szymon Tomczak (środkowy) – skręcenie śródstopia z uszkodzeniem więzadeł. Przewidywana przerwa około 3 miesięcy, do końca roku nie pojawi się na parkiecie. Klub będzie szukał zastępstwa.
+
+2.  **Aktualna forma top scorerów (2026-09-17):**
+    *   Brak danych z API dla tego zespołu w kontekście analizy przeszłego meczu.
+
+3.  **Werdykt:**
+    *   ⚠️ **RYZYKOWNY**
+        *   Na dzień 2026-09-17 Legia Warszawa mierzy się z istotną kontuzją Szymona Tomczaka, co osłabia pozycję środkowego w składzie. ORLEN Zastal Zielona Góra nie zgłasza kluczowych braków w składzie koszykarskim. Biorąc pod uwagę aktualne informacje, typ na Legię Warszawa dla meczu rozegranego w przeszłości jest ryzykowny z uwagi na osłabienie kadrowe na dzień dzisiejszy. Brak danych o formie top scorerów z API również wpływa na niepewność.
