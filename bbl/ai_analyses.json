@@ -1,55 +1,24 @@
 {
-  "generated_at": "2026-09-13T12:52:50.902022",
-  "date": "2026-09-13",
+  "generated_at": "2026-09-17T23:38:41.568309",
+  "date": "2026-09-18",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "MHP RIESEN Ludwigsburg @ Kreisbau Kirchheim Knights",
-      "phase": "BBL-Pokal 1. runda",
-      "ai_pick": "MHP RIESEN Ludwigsburg",
-      "formula_pick": "Kreisbau Kirchheim Knights",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "MHP RIESEN Ludwigsburg to drużyna z najwyższej klasy rozgrywkowej BBL, podczas gdy Kreisbau Kirchheim Knights występuje w niższej lidze ProA, co zazwyczaj przekłada się na znaczącą różnicę w jakości składu i doświadczeniu. Mimo, że Kirchheim gra u siebie w BBL-Pokalu i miał udany poprzedni sezon w ProA, brak kontuzjowanego Adriana Worthy'ego osłabia ich skład, a Ludwigsburg jest faworytem ze względu na wyższy poziom rozgrywkowy.",
-      "key_factors": [
-        "Różnica poziomów ligowych (BBL vs. ProA)",
-        "Brak kontuzjowanego Adriana Worthy'ego (Kirchheim)",
-        "Większa głębia i jakość składu MHP RIESEN Ludwigsburg",
-        "Mecz pucharowy z czynnikiem 'do-or-die'"
-      ],
-      "injury_notes": "Kreisbau Kirchheim Knights: Adrian Worthy jest kontuzjowany i jego miejsce w składzie zajął Christoph Philipps. MHP RIESEN Ludwigsburg: Brak aktualnych informacji o istotnych kontuzjach na dzień 13.09.2026. Starsze doniesienia z marca 2026 wspominały o powrotach Keeshawna Kellmana, Johannesa Patricka i Lukasa Modica."
-    },
-    {
-      "matchup": "Science City Jena @ SKYLINERS",
-      "phase": "BBL-Pokal 1. runda",
-      "ai_pick": "SKYLINERS",
-      "formula_pick": "SKYLINERS",
+      "matchup": "NINERS Chemnitz @ ALBA BERLIN",
+      "phase": "Hauptrunde",
+      "ai_pick": "ALBA BERLIN",
+      "formula_pick": "ALBA BERLIN",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "SKYLINERS, grający u siebie, mają historycznie lepszy bilans bezpośrednich spotkań ze Science City Jena, pokonując ich dwukrotnie w poprzednim sezonie BBL, w tym wysoko na wyjeździe. Mimo słabego bilansu w poprzednich rozgrywkach (12-22 dla obu), SKYLINERS przystępują do tego meczu BBL-Pokalu z udaną fazą przygotowawczą (5:1 w sparingach) oraz wzmocnionym składem, co daje im przewagę nad Jeną, która również miała udany pre-sezon, ale będzie grać na wyjeździe.",
+      "confidence": 8,
+      "reasoning": "ALBA BERLIN rozpoczyna nowy sezon jako aktualny mistrz BBL, z silnym trzonem zespołu i nowym wzmocnieniem w postaci Joe Wieskampa. Dodatkowo gospodarze będą mieli przewagę własnego boiska, natomiast NINERS Chemnitz osłabione jest kontuzją kluczowego gracza, Assana Ouédraogo.",
       "key_factors": [
-        "Dominujący bilans H2H SKYLINERS nad Jeną w poprzednim sezonie",
-        "Przewaga własnego boiska dla SKYLINERS",
-        "Wzmocniony i głęboki skład SKYLINERS",
-        "Dobra forma obu drużyn w pre-sezonie"
+        "Kontuzja kluczowego gracza NINERS Chemnitz (Assan Ouédraogo)",
+        "Status mistrza BBL ALBA BERLIN",
+        "Przewaga własnego boiska ALBA BERLIN",
+        "Transfery ALBA BERLIN (Joe Wieskamp)"
       ],
-      "injury_notes": "brak istotnych braków"
-    },
-    {
-      "matchup": "EWE Baskets Oldenburg @ MLP Academics Heidelberg",
-      "phase": "BBL-Pokal 1. runda",
-      "ai_pick": "EWE Baskets Oldenburg",
-      "formula_pick": "MLP Academics Heidelberg",
-      "agreement": false,
-      "confidence": 6,
-      "reasoning": "EWE Baskets Oldenburg, pomimo zgłoszonej kontuzji Le'Tre Dartharda, wykazuje nieco lepsze wyniki w ostatnich sparingach i korzystniejszy bilans z końcówki poprzedniego sezonu BBL w porównaniu do MLP Academics Heidelberg. Chociaż Heidelberg ma przewagę własnego boiska w tym meczu BBL-Pokal, Oldenburg jest postrzegany jako silniejsza drużyna.",
-      "key_factors": [
-        "Lepsza forma EWE Baskets Oldenburg (ostatnie mecze, sparingi)",
-        "Kontuzja Le'Tre Dartharda w EWE Baskets Oldenburg",
-        "Przewaga własnego boiska MLP Academics Heidelberg"
-      ],
-      "injury_notes": "Le'tre Darthard z EWE Baskets Oldenburg jest wykluczony z gry z powodu kontuzji odniesionej w kolizji w Hamburgu. Brak istotnych braków w drużynie MLP Academics Heidelberg."
+      "injury_notes": "Dla NINERS Chemnitz: Assan Ouédraogo (skrzydłowy, topowy prospekt) z kontuzją barku, wykluczony na kilka tygodni od 2026-09-12. Dla ALBA BERLIN: brak istotnych nowych kontuzji kluczowych graczy przed rozpoczęciem sezonu, choć J'Wan Roberts (skrzydłowy) zmienił klub."
     }
   ]
 }
