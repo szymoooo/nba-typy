@@ -1,27 +1,16 @@
---- AUDYT PLK LIVE (2026-09-17 15:33 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21)
+--- AUDYT PLK LIVE (2026-09-17 21:56 CET) ---
+Analiza meczu PLK z dnia 2026-06-21:
 
-Analiza oparta na aktualnej wiedzy na dzień 2026-09-17, ignorując dane sprzed sezonu 2025-26.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
----
+1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim w dniu meczu. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/27 i zostały zgłoszone we wrześniu 2026, więc nie mają wpływu na mecz z czerwca 2026. Kontuzje piłkarzy Legii Warszawa zostały zignorowane.
+    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate (silny skrzydłowy/środkowy) był wyłączony z gry do końca sezonu 2025/2026 z powodu uszkodzenia więzadła SL nadgarstka, kontuzji doznanej podczas Pekao S.A. Pucharu Polski i potwierdzonej 28 lutego 2026. Filip Matczak i Andrzej Mazurczak wystąpili w masce po wcześniejszych urazach (Matczak z kontuzją nosa), ale byli zdolni do gry w meczach finałowych poprzedzających 21 czerwca 2026.
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tej serii, jednak dostępne są statystyki z meczu z dnia 2026-06-21.
+    *   **Legia Warszawa (forma w meczu 2026-06-21):** Andrzej Pluta (15 Pkt), Race Thompson (11 Pkt), Dominic Brewton III (11 Pkt), Shane Hunter (10 Pkt).
+    *   **ORLEN Zastal Zielona Góra (forma w meczu 2026-06-21):** Andrzej Mazurczak (10 Pkt). W sezonie 2025/2026, czołowymi strzelcami Zastalu byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
 
-#### 1. Kluczowe braki w składach:
-
-*   **ORLEN Zastal Zielona Góra:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17. Trwa okres przygotowawczy do sezonu 2026/2027 PLK, składy są w trakcie formowania lub finalizacji, brak doniesień o poważnych kontuzjach przedsezonowych.
-*   **Legia Warszawa:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-17. Podobnie jak w przypadku Zastalu, drużyna jest w okresie przygotowań do nowego sezonu PLK, brak zgłoszonych kontuzji kluczowych zawodników.
-
-#### 2. Aktualna forma top scorerów:
-
-*   **ORLEN Zastal Zielona Góra:**
-    *   Brak danych z API dla tego zespołu na temat aktualnej formy top scorerów w serii, ze względu na to, że mecz odbywał się w czerwcu, a obecna data to 2026-09-17 (początek sezonu 2026/2027). Skład zespołu mógł ulec zmianom.
-*   **Legia Warszawa:**
-    *   Brak danych z API dla tego zespołu na temat aktualnej formy top scorerów w serii, z tych samych powodów co Zastal. Skład zespołu mógł ulec zmianom, a sezon 2026/2027 dopiero się rozpoczyna.
-
-#### 3. Werdykt:
-
-*   **Legia Warszawa:** ⚠️ RYZYKOWNY
-    *   Brak możliwości rzetelnej oceny ze względu na rozbieżność daty meczu (2026-06-21) z datą aktualnej analizy (2026-09-17). Kadry zespołów są często znacząco zmieniane między sezonami, a wszelkie informacje o kontuzjach czy formie zawodników z czerwca 2026 nie są dostępne w aktualnych źródłach. Analiza na podstawie "dzisiejszych" (2026-09-17) składów i braku kontuzji nie odzwierciedlałaby faktycznego stanu na dzień meczu. Brak danych o top scorerach w serii dodatkowo utrudnia weryfikację.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa wygrała ten decydujący, 7. mecz finałowy wynikiem 78:70 i zdobyła mistrzostwo Polski. Przewaga własnego parkietu Legii (OSiR Warszawa Bemowo) miała znaczenie w decydującym starciu. Zastal Zielona Góra musiał radzić sobie bez kluczowego gracza podkoszowego, Sagaby Konate, który był wyłączony z gry do końca sezonu. Mimo pewnych urazów wśród innych zawodników Zastalu, którzy grali w maskach, brak Konate był istotnym osłabieniem. W obliczu tych czynników, typ na Legię Warszawa był uzasadniony.
