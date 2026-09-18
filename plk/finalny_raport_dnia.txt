@@ -1,22 +1,24 @@
---- AUDYT PLK LIVE (2026-09-18 00:35 CET) ---
-=========================================================================
-TYPY DO AUDYTU:
-=========================================================================
+--- AUDYT PLK LIVE (2026-09-18 02:45 CET) ---
 # PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-=========================================================================
-ANALIZA
-=========================================================================
-
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy) jest kontuzjowany (skręcenie śródstopia z uszkodzeniem więzadeł) i przewiduje się, że jego przerwa w grze potrwa około 3 miesięcy, co oznacza, że nie wystąpi na parkiecie do końca 2026 roku. Jest to istotny brak na pozycji centra.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-09-18. Sagaba Konate, który zakończył sezon 2025/2026 z powodu kontuzji nadgarstka, nie znajduje się w składzie na sezon 2026/2027.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (środkowy) był wyłączony z gry od lutego 2026 z powodu poważnej kontuzji dłoni, co oznaczało dla niego koniec sezonu 2025/2026.
+        *   Filip Matczak (rozgrywający/rzucający) grał w meczach finałowych w masce po kontuzji nosa.
+        *   Andrzej Mazurczak (rozgrywający) również występował w masce.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim w trakcie finałów PLK 2025/2026. Informacje o kontuzji Szymona Tomczaka dotyczą września 2026 i sezonu 2026/2027.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   W sezonie 2025/2026 czołowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) oraz Andrzej Mazurczak (11.8 Pkt/mecz).
+        *   W meczu numer 4 finałów (15.06.2026) Andrzej Mazurczak zdobył 21 punktów, a Conley Garrison 16 punktów, co wskazywało na ich dobrą dyspozycję w tym konkretnym spotkaniu.
+    *   🏀 **Legia Warszawa:**
+        *   Brak danych z API o ogólnych top scorerach w całym sezonie 2025/2026.
+        *   W meczu numer 4 finałów (15.06.2026) wyróżnili się Carl Ponsar (17 Pkt), Andrzej Pluta (14 Pkt) i Dominic Brewton III (12 Pkt).
+        *   Legia Warszawa zakończyła sezon zasadniczy 2025/2026 jako lider tabeli PLK z 52 punktami.
 
-3.  **Werdykt:**
-    *   [⚠️ RYZYKOWNY] Legia Warszawa, mimo statusu obrońcy tytułu mistrzowskiego, mierzy się z poważnym osłabieniem w postaci kontuzji kluczowego środkowego Szymona Tomczaka, który będzie pauzował przez około 3 miesiące od 16 września 2026 roku. Brak tak ważnego gracza na pozycji podkoszowej znacząco obniża aktualną siłę zespołu Legii. Biorąc pod uwagę ten istotny brak kadrowy, zakład na zwycięstwo Legii Warszawa jest ryzykowny, gdy analizujemy go z perspektywy aktualnego stanu drużyn.
+3.  **Werdykt: [✅ ZATWIERDZONY]**
+    *   Typ jest zatwierdzony, ponieważ Legia Warszawa ostatecznie wygrała ten mecz 21 czerwca 2026 roku, zdobywając tytuł Mistrza Polski. Mimo problemów kadrowych Zastalu (długoterminowa kontuzja Sagaby Konate i gra Matczaka oraz Mazurczaka w maskach), Legia utrzymała przewagę własnego parkietu i wykorzystała ją w decydującym meczu.
