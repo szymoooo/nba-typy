@@ -1,24 +1,26 @@
---- AUDYT PLK LIVE (2026-09-18 02:45 CET) ---
-# PLK typy na 2026-06-21
+--- AUDYT PLK LIVE (2026-09-18 09:37 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+Mecz odbył się w Warszawie na OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40. Był to siódmy, decydujący mecz finałów Orlen Basket Ligi, w którym Legia Warszawa zdobyła Mistrzostwo Polski, pokonując Zastal Zielona Góra 78:70.
+
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (środkowy) był wyłączony z gry od lutego 2026 z powodu poważnej kontuzji dłoni, co oznaczało dla niego koniec sezonu 2025/2026.
-        *   Filip Matczak (rozgrywający/rzucający) grał w meczach finałowych w masce po kontuzji nosa.
-        *   Andrzej Mazurczak (rozgrywający) również występował w masce.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim w trakcie finałów PLK 2025/2026. Informacje o kontuzji Szymona Tomczaka dotyczą września 2026 i sezonu 2026/2027.
+    *   🟢 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/2027 i nie miały wpływu na ten mecz.
+    *   🔴 **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (silny skrzydłowy/środkowy) był niedostępny do końca sezonu 2025/2026 z powodu awulsyjnego uszkodzenia więzadła SL nadgarstka, którego doznał pod koniec lutego 2026.
+        *   Filip Matczak (rozgrywający) grał z kontuzją nosa (w masce), ale był zdeterminowany do gry.
+        *   Dwight Wilson (środkowy) odczuwał skutki urazu kostki, ale normalnie uczestniczył w treningach i był gotowy do gry.
+        *   Andrzej Mazurczak (rozgrywający) wrócił do gry po kontuzji pleców wcześniej w sezonie i grał w masce.
 
-2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   W sezonie 2025/2026 czołowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) oraz Andrzej Mazurczak (11.8 Pkt/mecz).
-        *   W meczu numer 4 finałów (15.06.2026) Andrzej Mazurczak zdobył 21 punktów, a Conley Garrison 16 punktów, co wskazywało na ich dobrą dyspozycję w tym konkretnym spotkaniu.
-    *   🏀 **Legia Warszawa:**
-        *   Brak danych z API o ogólnych top scorerach w całym sezonie 2025/2026.
-        *   W meczu numer 4 finałów (15.06.2026) wyróżnili się Carl Ponsar (17 Pkt), Andrzej Pluta (14 Pkt) i Dominic Brewton III (12 Pkt).
-        *   Legia Warszawa zakończyła sezon zasadniczy 2025/2026 jako lider tabeli PLK z 52 punktami.
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
+    *   🟢 **Legia Warszawa:**
+        *   Andrzej Pluta: 15 punktów w tym meczu. Był również w dobrej formie w trakcie serii finałowej, zdobywając 14 punktów w meczu 15.06.2026.
+        *   Race Thompson: 11 punktów.
+        *   Dominic Brewton III: 11 punktów.
+        *   Shane Hunter: 10 punktów.
+    *   🔴 **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak: 10 punktów w tym meczu. Był wiodącym strzelcem Zastalu w tym decydującym spotkaniu, mimo wcześniejszych problemów zdrowotnych. W meczu 15.06.2026 zdobył aż 21 punktów.
 
-3.  **Werdykt: [✅ ZATWIERDZONY]**
-    *   Typ jest zatwierdzony, ponieważ Legia Warszawa ostatecznie wygrała ten mecz 21 czerwca 2026 roku, zdobywając tytuł Mistrza Polski. Mimo problemów kadrowych Zastalu (długoterminowa kontuzja Sagaby Konate i gra Matczaka oraz Mazurczaka w maskach), Legia utrzymała przewagę własnego parkietu i wykorzystała ją w decydującym meczu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa grała u siebie w decydującym, siódmym meczu finałowym, co jest znaczącą przewagą. Zespół miał pełny skład, podczas gdy ORLEN Zastal Zielona Góra borykał się z kluczową absencją Sagaby Konate na cały sezon oraz urazami kilku innych ważnych zawodników (Matczak, Wilson), którzy grali mimo dolegliwości. Legia ostatecznie wygrała mecz i zdobyła mistrzostwo, potwierdzając swoją dominację w serii.
