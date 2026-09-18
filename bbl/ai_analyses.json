@@ -1,24 +1,26 @@
 {
-  "generated_at": "2026-09-17T23:38:41.568309",
-  "date": "2026-09-18",
+  "generated_at": "2026-09-18T22:31:59.009374",
+  "date": "2026-09-19",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "NINERS Chemnitz @ ALBA BERLIN",
-      "phase": "Hauptrunde",
-      "ai_pick": "ALBA BERLIN",
-      "formula_pick": "ALBA BERLIN",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "ALBA BERLIN rozpoczyna nowy sezon jako aktualny mistrz BBL, z silnym trzonem zespołu i nowym wzmocnieniem w postaci Joe Wieskampa. Dodatkowo gospodarze będą mieli przewagę własnego boiska, natomiast NINERS Chemnitz osłabione jest kontuzją kluczowego gracza, Assana Ouédraogo.",
-      "key_factors": [
-        "Kontuzja kluczowego gracza NINERS Chemnitz (Assan Ouédraogo)",
-        "Status mistrza BBL ALBA BERLIN",
-        "Przewaga własnego boiska ALBA BERLIN",
-        "Transfery ALBA BERLIN (Joe Wieskamp)"
-      ],
-      "injury_notes": "Dla NINERS Chemnitz: Assan Ouédraogo (skrzydłowy, topowy prospekt) z kontuzją barku, wykluczony na kilka tygodni od 2026-09-12. Dla ALBA BERLIN: brak istotnych nowych kontuzji kluczowych graczy przed rozpoczęciem sezonu, choć J'Wan Roberts (skrzydłowy) zmienił klub."
+      "matchup": "VET-CONCEPT Gladiators Trier @ Basketball Löwen Braunschweig",
+      "ai_pick": null,
+      "formula_pick": "Basketball Löwen Braunschweig",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Phoenix Hagen @ ROSTOCK SEAWOLVES",
+      "ai_pick": null,
+      "formula_pick": "ROSTOCK SEAWOLVES",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Veolia Towers Hamburg @ Telekom Baskets Bonn",
+      "ai_pick": null,
+      "formula_pick": "Telekom Baskets Bonn",
+      "note": "AI fallback"
     }
   ]
 }
