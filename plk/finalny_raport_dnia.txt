@@ -1,16 +1,16 @@
---- AUDYT PLK LIVE (2026-09-18 14:40 CET) ---
-Analiza meczu na 2026-09-18 (pre-sezon PLK 2026/2027):
-
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-18 23:44 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Zespół skompletował skład na sezon 2026/2027, m.in. z Beau Beechem.
-    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy) kontuzjowany – skręcenie śródstopia z uszkodzeniem więzadeł. Przewidywana przerwa około 3 miesięcy, powrót na parkiet nie wcześniej niż pod koniec 2026 roku. Klub szuka zastępstwa.
+    *   ORLEN Zastal Zielona Góra: Filip Matczak i Andrzej Mazurczak wystąpili w meczu, grając w maskach po kontuzjach nosa. Phil Fayne również powrócił do składu. Brak informacji o innych istotnych absencjach.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/2027 i nie są istotne dla tego spotkania.
 
-2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu na sezon 2026/2027, ponieważ rozgrywki ligowe jeszcze się nie rozpoczęły (start 2 października 2026 r.).
-    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu na sezon 2026/2027, ponieważ rozgrywki ligowe jeszcze się nie rozpoczęły (start 2 października 2026 r.).
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21 - Finał Game 7):**
+    *   Legia Warszawa: Andrzej Pluta (15 pkt), DJ Brewton (11 pkt), Race Thompson (11 pkt).
+    *   ORLEN Zastal Zielona Góra: Andy Mazurczak (10 pkt), Jayvon Maughmer (10 pkt), Chavaughn Lewis (10 pkt).
+    *   Brak danych z API (PulsBasketu) dla tego zespołu.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Legia Warszawa, jako aktualny mistrz Polski, wchodzi w sezon z poważnym osłabieniem na pozycji środkowego (Szymon Tomczak wykluczony na około 3 miesiące). Zastal Zielona Góra, wicemistrz kraju, wydaje się mieć pełny i świeżo skompletowany skład. Mimo że Legia była typowana jako zwycięzca, kontuzja kluczowego gracza w okresie przygotowawczym (tuż przed Superpucharem Polski) stawia prognozę pod znakiem zapytania w hipotetycznym meczu w pre-sezonie.
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowym Polskiej Ligi Koszykówki (PLK) sezonu 2025/2026.
+    *   Legia Warszawa grała na własnym parkiecie i ostatecznie zwyciężyła 78:70, zdobywając Mistrzostwo Polski.
+    *   Przewaga własnego parkietu w decydującym meczu serii play-off oraz brak kluczowych absencji po stronie Legii wspierają trafność typu.
