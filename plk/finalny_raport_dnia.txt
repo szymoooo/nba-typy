@@ -1,16 +1,31 @@
---- AUDYT PLK LIVE (2026-09-18 23:44 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-09-19 01:46 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu z typu: 2026-06-21)
+
+Mimo, że mecz był datowany na 2026-06-21, poniższa analiza opiera się na aktualnych informacjach o składach i kontuzjach z dnia 2026-09-19, zgodnie z wytycznymi.
+
+---
+
+### ORLEN Zastal Zielona Góra
 
 1.  **Kluczowe braki w składach:**
-    *   ORLEN Zastal Zielona Góra: Filip Matczak i Andrzej Mazurczak wystąpili w meczu, grając w maskach po kontuzjach nosa. Phil Fayne również powrócił do składu. Brak informacji o innych istotnych absencjach.
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/2027 i nie są istotne dla tego spotkania.
+    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-19. Zastal ogłosił pełny skład na sezon 2026/2027.
 
-2.  **Aktualna forma top scorerów (z meczu 2026-06-21 - Finał Game 7):**
-    *   Legia Warszawa: Andrzej Pluta (15 pkt), DJ Brewton (11 pkt), Race Thompson (11 pkt).
-    *   ORLEN Zastal Zielona Góra: Andy Mazurczak (10 pkt), Jayvon Maughmer (10 pkt), Chavaughn Lewis (10 pkt).
-    *   Brak danych z API (PulsBasketu) dla tego zespołu.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** ✅ ZATWIERDZONY
-    *   Mecz odbył się 21 czerwca 2026 roku i był siódmym, decydującym spotkaniem finałowym Polskiej Ligi Koszykówki (PLK) sezonu 2025/2026.
-    *   Legia Warszawa grała na własnym parkiecie i ostatecznie zwyciężyła 78:70, zdobywając Mistrzostwo Polski.
-    *   Przewaga własnego parkietu w decydującym meczu serii play-off oraz brak kluczowych absencji po stronie Legii wspierają trafność typu.
+### Legia Warszawa
+
+1.  **Kluczowe braki w składach:**
+    *   Szymon Tomczak (środkowy) – kontuzja skręcenia śródstopia z uszkodzeniem więzadeł. Przewidywana przerwa to około 3 miesiące, co oznacza, że nie zagra do końca roku.
+    *   W związku z kontuzją Tomczaka, Legia 18 września 2026 pozyskała Kubę Piślę, rzucającego obrońcę, na krótkoterminową umowę. Gra jednak na innej pozycji niż kontuzjowany Tomczak.
+
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+
+---
+
+### Werdykt
+
+Legia Warszawa, aktualny mistrz Polski, mierzy się z istotnym osłabieniem na pozycji środkowego z powodu długotrwałej kontuzji Szymona Tomczaka. Chociaż pozyskano nowego zawodnika, Kuba Piśla gra na innej pozycji, co nie rekompensuje bezpośrednio straty Tomczaka pod koszem. ORLEN Zastal Zielona Góra, wicemistrz z poprzedniego sezonu, na dzień dzisiejszy (2026-09-19) dysponuje pełnym, mocnym składem. Biorąc pod uwagę znaczącą kontuzję w szeregach Legii, typ na ich zwycięstwo jest obarczony ryzykiem.
+
+**Werdykt: [⚠️ RYZYKOWNY]**
