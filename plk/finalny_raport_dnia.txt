@@ -1,13 +1,26 @@
---- AUDYT PLK LIVE (2026-09-19 14:02 CET) ---
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-19 14:16 CET) ---
+Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-*   **Kluczowe braki w składach:**
-    *   🟢 **ORLEN Zastal Zielona Góra:** Phil Fayne wrócił do składu na serię finałową po powrocie ze Stanów Zjednoczonych. Andy Mazurczak i Filip Matczak grali w maskach ochronnych po urazach, ale byli zdolni do gry i wystąpili w meczu finałowym. Brak istotnych braków w składzie koszykarskim.
-    *   🟢 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach Szymona Tomczaka i transferze Kuby Piśli dotyczą sezonu 2026/2027 i nie były istotne dla meczu 21.06.2026.
+Hala/Miasto: OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40, 01-494 Warszawa. Był to siódmy, decydujący mecz finałów Polskiej Ligi Koszykówki w sezonie 2025/2026.
 
-*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+1.  Kluczowe braki w składach:
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/2027 i nie miały wpływu na ten mecz.
+    *   **ORLEN Zastal Zielona Góra:** Filip Matczak i Andrzej Mazurczak wystąpili w meczu w maskach ochronnych z powodu wcześniejszych urazów (Matczak kontuzja nosa). Mimo to, obaj byli zdolni do gry i wystąpili w finale. Phil Fayne wrócił do gry przed finałami.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa grała decydujący, 7. mecz finałowy na własnym parkiecie w Warszawie (OSiR Warszawa Bemowo).
-    *   Mimo pewnych urazów w zespole Zastalu, wszyscy kluczowi zawodnicy byli dostępni i wystąpili w spotkaniu.
-    *   Legia Warszawa zwyciężyła w tym meczu 78:70, zdobywając Mistrzostwo Polski.
+2.  Aktualna forma top scorerów (z meczu 2026-06-21):
+    *   **Legia Warszawa:**
+        *   Andrzej Pluta: 15 punktów w tym meczu. Został uznany MVP finałów i MVP sezonu zasadniczego.
+        *   Race Thompson: 11 punktów.
+        *   Dominic Brewton III: 11 punktów.
+        *   Shane Hunter: 10 punktów.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak: 10 punktów w tym meczu. (Wcześniej 21 punktów w meczu 4 serii finałowej)
+        *   Chavaughn Lewis był wiodącym strzelcem Zastalu w sezonie 2025/2026 ze średnią 15.8 pkt/mecz.
+        *   Jakub Szumert był drugim strzelcem Zastalu ze średnią 13.2 pkt/mecz w sezonie 2025/2026.
+        *   Conley Garrison: 16 punktów w meczu 4 serii finałowej.
+
+3.  Werdykt: [✅ ZATWIERDZONY]
+    *   Legia Warszawa grała u siebie w decydującym, siódmym meczu finałów PLK.
+    *   Legia Warszawa była obrońcą tytułu i najlepszą drużyną sezonu zasadniczego 2025/2026.
+    *   Andrzej Pluta, MVP sezonu i finałów, był kluczowym zawodnikiem Legii.
+    *   Mimo walki Zastalu i występów niektórych graczy z drobnymi urazami, Legia Warszawa zwyciężyła 78:70 i obroniła mistrzostwo Polski. Typ na Legię Warszawa był prawidłowy.

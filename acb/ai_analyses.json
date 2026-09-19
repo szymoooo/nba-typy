@@ -1,23 +1,39 @@
 {
-  "generated_at": "2026-09-19T12:03:52.743972",
+  "generated_at": "2026-09-19T12:17:40.212764",
   "date": "2026-09-19",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "FC Barcelona @ Valencia Basket",
-      "phase": "Supercopa Endesa Semifinals",
-      "ai_pick": "Valencia Basket",
-      "formula_pick": "Valencia Basket",
+      "matchup": "Kosner Baskonia @ Asisa Joventut",
+      "phase": "Supercopa Endesa - Półfinał",
+      "ai_pick": "Asisa Joventut",
+      "formula_pick": "Asisa Joventut",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Valencia Basket, jako obrońca tytułu mistrza Ligi Endesa i Supercopa, wchodzi w sezon z impetem, pokonując Barcelonę w ostatnich Finałach Ligi. Pomimo wątpliwości dotyczących Mirotica i Rivero, FC Barcelona jest znacznie bardziej osłabiona przez kontuzje kluczowych graczy podkoszowych oraz rozgrywającego, co wpłynie na ich rotację na początku sezonu.",
+      "reasoning": "Asisa Joventut jest gospodarzem półfinału Supercopa Endesa, co zapewnia im znaczącą przewagę własnego boiska. Kosner Baskonia zmaga się z poważnymi kontuzjami, w tym kluczowych graczy takich jak Alex Len i Kenneth Faried, co negatywnie wpłynęło na ich przygotowania i wyniki w pre-sezonie.",
       "key_factors": [
-        "Poważne kontuzje kluczowych graczy w FC Barcelona",
-        "Valencia Basket jako obrońca tytułu mistrza Ligi Endesa 2025/26",
-        "Zwycięstwo Valencia Basket nad FC Barcelona w Finałach Ligi Endesa 2025/26"
+        "Przewaga własnego boiska dla Asisa Joventut jako gospodarza Supercopa Endesa.",
+        "Liczne kontuzje i problemy kadrowe w Kosner Baskonia przed rozpoczęciem sezonu.",
+        "Mimo mieszanej formy przedsezonowej obu drużyn, problemy Baskonii wydają się bardziej destabilizujące."
       ],
-      "injury_notes": "Valencia Basket: Neal Sako (wykluczony z powodu operacji przepukliny pachwinowej). Udział Jasiela Rivero (mały uraz mięśniowy) oraz Nikoli Mirotica (stan fizyczny po niedawnym dołączeniu do drużyny) jest wątpliwy. FC Barcelona: Tosan Evboumwan (wykluczony z powodu kontuzji barku) i Yoan Makoundou (wykluczony z powodu tendinopatii rzepki) nie zagrają w Supercopa. Udział Darío Brizueli jest wątpliwy po doznaniu silnego stłuczenia w finale Lliga Catalana, chociaż badania wykluczyły poważniejsze urazy kostne i stawowe."
+      "injury_notes": "Kosner Baskonia: Alex Len (center) jest niepewny na pierwszą rundę (Supercopa) z powodu dyskomfortu fizycznego. Kenneth Faried, nowy nabytek, był nieobecny w meczu przedsezonowym 5 września z powodu kontuzji. Zespół odwołał mecz przedsezonowy 2 września z powodu braku zawodników, w tym Kobi Simmonsa i Damiona Baugha, którzy byli na zgrupowaniach reprezentacji. Baskonia grała osłabiona kontuzjami 5 września przeciwko Realowi Madryt, przegrywając 121-80. Asisa Joventut: brak istotnych braków zgłoszonych bezpośrednio przed meczem."
+    },
+    {
+      "matchup": "Barça @ Valencia Basket",
+      "phase": "Supercopa Endesa - Półfinał",
+      "ai_pick": "Barça",
+      "formula_pick": "Valencia Basket",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Barça, mimo kontuzji i statusu gospodarza Valencii na neutralnym terenie, jest uznawana za jednego z głównych faworytów do tytułu Supercopa Endesa. Valencia Basket, choć zwyciężyła w Lidze Endesa i Supercopie w poprzednim sezonie, przeszła znaczną przebudowę składu, tracąc wielu kluczowych graczy, co może wpłynąć na zgranie zespołu na początku sezonu.",
+      "key_factors": [
+        "Barça to uznany faworyt turnieju Supercopa Endesa",
+        "Znacząca przebudowa składu Valencia Basket i odejście kluczowych zawodników z mistrzowskiej drużyny",
+        "Neutralny teren rozgrywania półfinału (Badalona), eliminujący przewagę własnej hali dla Valencia Basket",
+        "Kontuzje w obu drużynach na początku sezonu"
+      ],
+      "injury_notes": "Valencia Basket zmaga się z kontuzjami Stefana Jovicia (zapalenie kaletki w prawym łokciu) oraz Amidy Brimah (uraz ścięgna podkolanowego w prawej nodze), co uniemożliwia im treningi z drużyną. Barça ma osłabienia w składzie na Supercopę: Tosan Evbuomwan i Yoan Makoundou są kontuzjowani, a udział Dario Brizueli jest wątpliwy."
     }
   ]
 }
