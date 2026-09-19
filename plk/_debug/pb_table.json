@@ -24,7 +24,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 1,
       "games_list": [],
       "next_games_list": [
         {
@@ -366,7 +366,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 2,
       "games_list": [],
       "next_games_list": [
         {
@@ -708,7 +708,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 3,
       "games_list": [],
       "next_games_list": [
         {
@@ -1050,7 +1050,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 4,
       "games_list": [],
       "next_games_list": [
         {
@@ -1392,7 +1392,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 5,
       "games_list": [],
       "next_games_list": [
         {
@@ -1734,7 +1734,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 6,
       "games_list": [],
       "next_games_list": [
         {
@@ -2076,7 +2076,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 7,
       "games_list": [],
       "next_games_list": [
         {
@@ -2418,7 +2418,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 8,
       "games_list": [],
       "next_games_list": [
         {
@@ -2760,7 +2760,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 9,
       "games_list": [],
       "next_games_list": [
         {
@@ -3102,7 +3102,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 10,
       "games_list": [],
       "next_games_list": [
         {
@@ -3444,7 +3444,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 11,
       "games_list": [],
       "next_games_list": [
         {
@@ -3786,7 +3786,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 12,
       "games_list": [],
       "next_games_list": [
         {
@@ -4128,7 +4128,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 13,
       "games_list": [],
       "next_games_list": [
         {
@@ -4470,7 +4470,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 14,
       "games_list": [],
       "next_games_list": [
         {
@@ -4812,7 +4812,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 15,
       "games_list": [],
       "next_games_list": [
         {
@@ -5154,7 +5154,7 @@
       "seconds": 0,
       "pace": 0.0,
       "ot_number": 0,
-      "real_position": null,
+      "real_position": 16,
       "games_list": [],
       "next_games_list": [
         {

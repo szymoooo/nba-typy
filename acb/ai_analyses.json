@@ -1,40 +1,41 @@
 {
-  "generated_at": "2026-09-18T07:42:32.497087",
-  "date": "2026-09-18",
+  "generated_at": "2026-09-19T07:33:05.681557",
+  "date": "2026-09-19",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Leyma Coruña @ Kids&Us Manresa",
-      "phase": "Pre-season",
-      "ai_pick": "Leyma Coruña",
-      "formula_pick": "Kids&Us Manresa",
-      "agreement": false,
-      "confidence": 6,
-      "reasoning": "Leyma Coruña prezentuje bardzo dobrą formę w pre-sezonie, zdobywając Trofeum San Roque oraz Puchar Galicji. Ich lider, Alonzo Verge Jr., wykazuje się wysoką skutecznością. Mecz rozgrywany jest na ich domowym parkiecie, co daje dodatkową przewagę.",
+      "matchup": "Kosner Baskonia @ Asisa Joventut",
+      "phase": "Supercopa Endesa - Semifinal",
+      "ai_pick": "Asisa Joventut",
+      "formula_pick": "Asisa Joventut",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Asisa Joventut korzysta z przewagi własnego parkietu w Supercopa Endesa, co jest kluczowe w meczu o wszystko. Kosner Baskonia boryka się z istotnymi kontuzjami (m.in. Alexa Lena) oraz słabą formą po problematycznym presezonie, co potwierdził ich trener. Joventut pokazał lepszą dyspozycję przed sezonem i ma przewagę w ostatnich bezpośrednich starciach.",
       "key_factors": [
-        "Silna forma Leyma Coruña w pre-sezonie (zdobycie dwóch trofeów).",
-        "Dobra dyspozycja Alonzo Verge'a Jr., lidera Leyma Coruña.",
-        "Przewaga własnego parkietu dla Leyma Coruña (Palacio de los Deportes de Riazor).",
-        "Odnowiony skład Kids&Us Manresa (10 nowych zawodników), który wciąż może się docierać."
+        "Przewaga własnego parkietu dla Asisa Joventut jako gospodarza Supercopa Endesa.",
+        "Znaczące problemy z kontuzjami i brak zgrania w Kosner Baskonia.",
+        "Lepsza forma przedsezonowa Asisa Joventut.",
+        "Przewaga Joventutu w ostatnich bezpośrednich meczach (wygrana 2-1 w playoffach sezonu 2025/26)."
       ],
-      "injury_notes": "brak istotnych braków"
+      "injury_notes": "Dla Asisa Joventut, Ante Tomic jest kontuzjowany i ma wrócić w listopadzie, a Yannick Kraag również pauzuje. Kosner Baskonia nie może liczyć na Alexa Lena z powodu dolegliwości fizycznych, a Kenneth Faried ma za sobą niewiele wspólnych treningów z zespołem. Trener Baskonii, Paolo Galbiati, otwarcie przyznał, że drużyna nie jest w optymalnej kondycji fizycznej ani taktycznej po trudnym presezonie."
     },
     {
-      "matchup": "iLERNA Lleida @ FIATC Girona",
-      "phase": "Pre-season",
-      "ai_pick": "iLERNA Lleida",
-      "formula_pick": "FIATC Girona",
-      "agreement": false,
+      "matchup": "Barça @ Valencia Basket",
+      "phase": "Supercopa Endesa - Semifinal",
+      "ai_pick": "Valencia Basket",
+      "formula_pick": "Valencia Basket",
+      "agreement": true,
       "confidence": 8,
-      "reasoning": "iLERNA Lleida pokazała lepszą formę w pre-sezonie, wygrywając niedawno z FIATC Girona 98-88 w Lidze Katalońskiej, a ich kluczowy zawodnik Darius McGhee jest w świetnej formie strzeleckiej. Mimo poważnej kontuzji Atoumane Diagne, Lleida udowodniła, że potrafi wygrywać, a Girona boryka się z dłuższą listą kontuzjowanych lub wątpliwych graczy.",
+      "reasoning": "Valencia Basket zakończyła poprzedni sezon jako mistrz Liga Endesa, pokonując Barcelonę 3-1 w finale, co wskazuje na wyraźną przewagę w ostatnich bezpośrednich starciach. Barcelona przystępuje do meczu z poważnymi osłabieniami kadrowymi z powodu kontuzji kluczowych graczy, takich jak Makoundou, Evbuomwan i Brizuela. Dodatkowo, Valencia wzmocniła się przed sezonem pozyskując Nikola Mirotica, co znacząco zwiększa ich potencjał ofensywny.",
       "key_factors": [
-        "iLERNA Lleida pokonała FIATC Girona 98-88 w pre-sezonie 10 września 2026 r.",
-        "Darius McGhee (iLERNA Lleida) zanotował 22 punkty przeciwko Manresie i 25 punktów przeciwko Gironie w meczach pre-sezonu.",
-        "FIATC Girona ma kilku kontuzjowanych zawodników (Aljaž Kunc, Isaac Vázquez, Maxi Fjellerup) oraz wątpliwego Jassela Péreza.",
-        "iLERNA Lleida ma kontuzjowanego Atoumane Diagne (ACL), ale Dani García i Kur Kuath wrócili do gry."
+        "Valencia Basket wygrała mistrzostwo Liga Endesa 2025/26 przeciwko Barcelonie (3-1 w serii).",
+        "Barça ma znaczące kontuzje kluczowych graczy koszykówki (Yoan Makoundou, Tosan Evbuomwan, Dario Brizuela).",
+        "Valencia Basket pozyskała Nikola Mirotica, wzmacniając swój skład.",
+        "Valencia Basket miała lepszą formę w końcówce sezonu 2025/26 (4 zwycięstwa, 1 porażka w ostatnich 5 meczach ACB) niż Barça (1 zwycięstwo, 4 porażki w ostatnich 5 meczach ACB).",
+        "Mecz odbywa się na neutralnym terenie (Badalona), co niweluje przewagę własnego boiska dla Valencia Basket."
       ],
-      "injury_notes": "iLERNA Lleida ma długoterminową kontuzję Atoumane Diagne (zerwane więzadło krzyżowe przednie lewego kolana, poza sezonem). Dani García i Kur Kuath wrócili do zdrowia. FIATC Girona ma kontuzjowanych Aljaž Kunc (kontuzja mięśnia prostego uda prawej nogi), Isaac Vázquez (złamanie piątej kości śródstopia prawej stopy, po operacji) oraz Maxi Fjellerup. Jassel Pérez był wątpliwy na mecz 10 września z powodu chondromy na małym palcu prawej stopy, a jego obecny status na 18 września jest niejasny."
+      "injury_notes": "Valencia Basket: Stefan Jovic (zapalenie kaletki w prawym łokciu), Amida Brimah (uraz ścięgna podkolanowego w prawej nodze), Neal Sako (wykluczony z Supercopa). Barça: Yoan Makoundou (kontuzja kolana, wyłączony do listopada), Tosan Evbuomwan (kontuzja barku, opuści mecz), Dario Brizuela (kontuzja prawej nogi, nie oczekuje się, że zagra)."
     }
   ]
 }
