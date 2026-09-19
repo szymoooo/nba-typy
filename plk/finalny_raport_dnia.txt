@@ -1,21 +1,20 @@
---- AUDYT PLK LIVE (2026-09-19 19:06 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu w kontekście: 2026-06-21) z perspektywy 2026-09-19:
+--- AUDYT PLK LIVE (2026-09-19 21:06 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
 
-1.  **Kluczowe braki w składach koszykarskich:**
-    *   **Legia Warszawa:**
-        *   ❌ Szymon Tomczak (środkowy): Doznał skręcenia śródstopia z uszkodzeniem więzadeł. Czeka go około 3 miesięcy przerwy, nie pojawi się na parkiecie do końca roku 2026. Legia musiała zareagować na tę kontuzję, podpisując krótkoterminową umowę z Kubą Piślą (rzucający obrońca), choć nadal poszukuje gracza na pozycję środkowego.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   ✅ Brak istotnych braków w składzie koszykarskim.
+Mecz ten był siódmym, decydującym spotkaniem finałowej serii Orlen Basket Ligi, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 i obroniła tytuł Mistrza Polski, wygrywając serię 4-3.
 
-2.  **Aktualna forma top scorerów (na podstawie dostępnych danych na 2026-09-19):**
-    *   **Legia Warszawa:**
-        *   Michał Kolenda (kapitan): Mimo wcześniejszej rehabilitacji, jest wymieniany w składzie i jako kapitan na prezentacji zespołu, co sugeruje powrót do formy.
-        *   Kuba Piśla (nowy nabytek): Miał najlepszy sezon w karierze w barwach Tauron GTK Gliwice, notując średnio 11,9 punktu, 1,7 zbiórki i 1,2 asysty na mecz.
-        *   Arguster Daniels IV (rzucający obrońca), Kristers Zoriks (rozgrywający) - kluczowi gracze w składzie na nadchodzący sezon.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Gauthier Denis (niski skrzydłowy): Zapowiada dużą liczbę rzutów za 3 punkty w nadchodzącym sezonie.
-        *   Andy Mazurczak (rozgrywający), Conley Garrison (rzucający obrońca) - wymieniani jako wiodący gracze w składzie na sezon 2026/2027.
-        *   Zastal zakończył udział w Memoriale Mieczysława Młynarskiego wysoką wygraną nad Stalą Ostrów Wielkopolski (101:79), co świadczy o dobrej formie przedsezonowej.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:**
+        *   Filip Matczak zgłaszał dolegliwości związane ze starą kontuzją przed finałami, ale wystąpił w meczu 7, zdobywając 8 punktów. Wcześniej grał w masce z powodu złamanego nosa.
+        *   Dwight Wilson III odczuwał skutki urazu kostki, jednak normalnie uczestniczył w treningach i zagrał w meczu 7, zdobywając 6 punktów.
+        *   Phil Fayne wrócił do składu na serię finałową po przerwie z powodów rodzinnych i zagrał w meczu 7, choć bez punktów.
+    *   🏀 **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim na mecz 2026-06-21. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/2027 i nie są istotne dla tego spotkania. Informacja o kontuzji Kamila Piątkowskiego dotyczy sekcji piłkarskiej.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie:** Mimo że Legia Warszawa jest aktualnym mistrzem Polski, kontuzja kluczowego środkowego Szymona Tomczaka, wykluczająca go na około 3 miesiące, jest znaczącym osłabieniem w strefie podkoszowej. Chociaż Legia szybko zareagowała transferem Kuby Piśli, który jest rzucającym obrońcą, luka na pozycji środkowego pozostaje do uzupełnienia. Zastal Zielona Góra wydaje się mieć kompletny i zdrowy skład, a ich ostatnie wyniki towarzyskie wskazują na dobrą dyspozycję. Niepewność związana z brakiem kluczowego gracza Legii na tak ważnej pozycji, zwłaszcza na początku sezonu, czyni typ ryzykownym, pomimo statusu faworyta.
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
+    *   🏀 **Legia Warszawa:** Najlepsi strzelcy w meczu 7 to Andrzej Pluta (15 punktów), Race Thompson (11 punktów) oraz Dominic Brewton III (11 punktów). Andrzej Pluta został wybrany MVP finałów.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Najlepsi strzelcy w meczu 7 to Andrzej Mazurczak (10 punktów), Jayvon Maughmer (10 punktów) i Chavaughn Lewis (10 punktów).
+    *   Brak danych z API dla tego zespołu.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    Legia Warszawa grała u siebie (OSiR Warszawa Bemowo) decydujący, siódmy mecz finałów, będąc faworytem jako zwycięzca sezonu zasadniczego. Mimo pewnych dolegliwości w składzie Zastalu (Matczak, Wilson), Legia nie odnotowała kluczowych braków. Zwycięstwo Legii 78:70 w tym kluczowym spotkaniu potwierdza siłę zespołu i przewagę własnego parkietu w decydującej rozgrywce.
