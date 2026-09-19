@@ -1,20 +1,16 @@
---- AUDYT PLK LIVE (2026-09-19 21:06 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21)
+--- AUDYT PLK LIVE (2026-09-20 01:28 CET) ---
+**PLK TYPY NA 2026-06-21 - AUDYT Z DNIA 2026-09-20**
 
-Mecz ten był siódmym, decydującym spotkaniem finałowej serii Orlen Basket Ligi, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 78:70 i obroniła tytuł Mistrza Polski, wygrywając serię 4-3.
+---
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Filip Matczak zgłaszał dolegliwości związane ze starą kontuzją przed finałami, ale wystąpił w meczu 7, zdobywając 8 punktów. Wcześniej grał w masce z powodu złamanego nosa.
-        *   Dwight Wilson III odczuwał skutki urazu kostki, jednak normalnie uczestniczył w treningach i zagrał w meczu 7, zdobywając 6 punktów.
-        *   Phil Fayne wrócił do składu na serię finałową po przerwie z powodów rodzinnych i zagrał w meczu 7, choć bez punktów.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim na mecz 2026-06-21. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/2027 i nie są istotne dla tego spotkania. Informacja o kontuzji Kamila Piątkowskiego dotyczy sekcji piłkarskiej.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
-    *   🏀 **Legia Warszawa:** Najlepsi strzelcy w meczu 7 to Andrzej Pluta (15 punktów), Race Thompson (11 punktów) oraz Dominic Brewton III (11 punktów). Andrzej Pluta został wybrany MVP finałów.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Najlepsi strzelcy w meczu 7 to Andrzej Mazurczak (10 punktów), Jayvon Maughmer (10 punktów) i Chavaughn Lewis (10 punktów).
-    *   Brak danych z API dla tego zespołu.
+1.  **Kluczowe braki w składach (2026-09-20):**
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień 20.09.2026. Skład Legii Warszawa na sezon 2026/2027 jest w fazie kompletowania, ale brak doniesień o aktualnych kontuzjach kluczowych zawodników.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 20.09.2026. Podobnie jak w przypadku Legii, skład Zastalu na nadchodzący sezon jest układany, brak informacji o urazach.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa grała u siebie (OSiR Warszawa Bemowo) decydujący, siódmy mecz finałów, będąc faworytem jako zwycięzca sezonu zasadniczego. Mimo pewnych dolegliwości w składzie Zastalu (Matczak, Wilson), Legia nie odnotowała kluczowych braków. Zwycięstwo Legii 78:70 w tym kluczowym spotkaniu potwierdza siłę zespołu i przewagę własnego parkietu w decydującej rozgrywce.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu w kontekście serii meczowej.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak danych z serii meczowej uniemożliwia ocenę formy top scorerów w kontekście historycznej prognozy. Ponadto, ocena na podstawie kontuzji z 2026-09-20 dotyczy aktualnego stanu drużyn, nie zaś ich stanu w dniu meczu (2026-06-21). Bez konkretnych informacji o składach i ich dostępności w dniu rozegrania meczu (2026-06-21) oraz dynamice serii, werdykt jest ryzykowny.
