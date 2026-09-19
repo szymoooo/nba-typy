@@ -1,31 +1,21 @@
---- AUDYT PLK LIVE (2026-09-19 01:46 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu z typu: 2026-06-21)
-
-Mimo, że mecz był datowany na 2026-06-21, poniższa analiza opiera się na aktualnych informacjach o składach i kontuzjach z dnia 2026-09-19, zgodnie z wytycznymi.
-
----
-
-### ORLEN Zastal Zielona Góra
+--- AUDYT PLK LIVE (2026-09-19 04:36 CET) ---
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
 1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-19. Zastal ogłosił pełny skład na sezon 2026/2027.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (silny skrzydłowy/środkowy) – kontuzja dłoni, wykluczony z gry do końca sezonu od lutego 2026 roku.
+        *   Filip Matczak (rozgrywający) – odczuwał dolegliwości związane ze starą kontuzją na początku czerwca 2026 i występował w masce po urazie nosa, ale brał udział w meczach.
+        *   Dwight Wilson III (środkowy) – odczuwał skutki urazu kostki na początku czerwca 2026, jednak normalnie uczestniczył w treningach i grał.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim w okresie meczu.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+    *   **ORLEN Zastal Zielona Góra (sezon 2025/2026):**
+        *   Chavaughn Lewis: 15.8 Pkt/mecz.
+        *   Jakub Szumert: 13.2 Pkt/mecz.
+        *   Andrzej Mazurczak: 11.8 Pkt/mecz.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu. Andrzej Pluta Jr. został wybrany MVP sezonu 2025/2026 oraz MVP Finałów.
 
-### Legia Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   Szymon Tomczak (środkowy) – kontuzja skręcenia śródstopia z uszkodzeniem więzadeł. Przewidywana przerwa to około 3 miesiące, co oznacza, że nie zagra do końca roku.
-    *   W związku z kontuzją Tomczaka, Legia 18 września 2026 pozyskała Kubę Piślę, rzucającego obrońcę, na krótkoterminową umowę. Gra jednak na innej pozycji niż kontuzjowany Tomczak.
-
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
----
-
-### Werdykt
-
-Legia Warszawa, aktualny mistrz Polski, mierzy się z istotnym osłabieniem na pozycji środkowego z powodu długotrwałej kontuzji Szymona Tomczaka. Chociaż pozyskano nowego zawodnika, Kuba Piśla gra na innej pozycji, co nie rekompensuje bezpośrednio straty Tomczaka pod koszem. ORLEN Zastal Zielona Góra, wicemistrz z poprzedniego sezonu, na dzień dzisiejszy (2026-09-19) dysponuje pełnym, mocnym składem. Biorąc pod uwagę znaczącą kontuzję w szeregach Legii, typ na ich zwycięstwo jest obarczony ryzykiem.
-
-**Werdykt: [⚠️ RYZYKOWNY]**
+3.  **Werdykt:** ✅ ZATWIERDZONY
+    *   Legia Warszawa była Mistrzem Polski w sezonie 2025/2026, a Zastal Zielona Góra Wicemistrzem, co wskazuje na dominację Legii w finałach.
+    *   Kluczowe braki w składzie Zastalu (całosezonowa kontuzja Sagaby Konate) oraz występ Matczaka i Wilsona z dolegliwościami osłabiły drużynę z Zielonej Góry w fazie finałowej.
+    *   Legia dysponowała pełnym składem i miała w swoich szeregach MVP sezonu i finałów, Andrzeja Plutę Jr., co świadczy o jej sile.
