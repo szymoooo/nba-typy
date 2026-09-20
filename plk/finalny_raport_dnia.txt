@@ -1,20 +1,16 @@
---- AUDYT PLK LIVE (2026-09-20 21:40 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-09-20):
+--- AUDYT PLK LIVE (2026-09-20 23:35 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, zaplanowanego na 2026-06-21 (analiza na dzień 2026-09-20):
 
 ---
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł i wykluczony jest z gry na około 3 miesiące, nie pojawi się na parkiecie do końca roku. Brak innych istotnych braków w składzie koszykarskim.
-    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate (środkowy) doznał awulsyjnego uszkodzenia więzadła SL nadgarstka w lutym 2026 roku, co zakończyło dla niego sezon 2025/2026. Nie figuruje w aktualnym składzie na sezon 2026/2027. Brak innych istotnych braków w składzie koszykarskim.
+    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy/silny skrzydłowy) jest kontuzjowany (skręcenie śródstopia z uszkodzeniem więzadeł). Przewidywana przerwa w grze wynosi około 3 miesiące, co oznacza, że nie zagra do końca roku 2026. W reakcji na tę kontuzję Legia podpisała krótkoterminowy kontrakt z Kubą Piślą (rzucający obrońca).
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Zespół przygotowuje się do startu sezonu 2026/2027 i turnieju o Superpuchar Polski.
 
 2.  **Aktualna forma top scorerów:**
-    *   Sezon PLK 2026/2027 rozpoczyna się oficjalnie 2 października 2026 roku, więc brak jest statystyk wiodących strzelców z bieżącej kampanii.
-    *   **Legia Warszawa:** W ostatnim meczu towarzyskim (19.09.2026) przeciwko BigBank Kalev, Jakub Andrzejewski zdobył 22 punkty, Gyorgy Goloman 12 punktów, Błażej Czapla 11 punktów, a Zach Freemantle 10 punktów.
-    *   **ORLEN Zastal Zielona Góra:** W meczu towarzyskim (29.08.2026) przeciwko PGE Spójni Stargard, Toyaz Salomon zdobył 19 punktów, Conley Garrison 17 punktów, a Gauthier Denis 16 punktów.
+    *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa jest aktualnym Mistrzem Polski z sezonu 2025/2026, pokonując w finale ORLEN Zastal Zielona Góra.
-    *   Mimo kontuzji Szymona Tomczaka, Legia Warszawa, grająca u siebie, nadal prezentuje solidny skład. Zastal również ma osłabienie w postaci braku Sagaby Konate.
-    *   Typ na Legię Warszawa wydaje się uzasadniony ze względu na status obrońcy tytułu i przewagę własnego parkietu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    Kontuzja Szymona Tomczaka, kluczowego zawodnika podkoszowego Legii Warszawa, jest istotnym osłabieniem na początku sezonu 2026/2027 i będzie miała wpływ na rotację zespołu. Pomimo pozyskania Kuby Piśli, który jest zawodnikiem na innej pozycji, brak Tomczaka czyni typ na zwycięstwo Legii bardziej ryzykownym.
