@@ -1,11 +1,23 @@
---- AUDYT PLK LIVE (2026-09-20 14:50 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-20 15:06 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
 1.  **Kluczowe braki w składach:**
-    *   Legia Warszawa (koszykówka): Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026 r.
-    *   ORLEN Zastal Zielona Góra (koszykówka): Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026 r.
+
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Sagaba Konate (silny skrzydłowy/środkowy) - Kontuzja dłoni, zakończył sezon 2025/2026 w lutym 2026.
+        *   Filip Matczak (rozgrywający) - Zmagał się ze starą kontuzją i urazem nosa, grał w masce w finałach (stan na 13.06.2026).
+        *   Dwight Wilson (silny skrzydłowy) - Nadal odczuwał skutki urazu kostki, ale trenował (stan na 06.06.2026).
+        *   Andrzej Mazurczak (rozgrywający) - Grał w masce z powodu kontuzji nosa (stan na 13.06.2026).
+    *   **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim w okresie finałów PLK 2025/2026. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/2027 i nie są istotne dla tego meczu.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu. Jednak w Game 4 finałów (15.06.2026), Andrzej Mazurczak zdobył 21 punktów, Conley Garrison 16 punktów, a Dwight Allen Wilson 10 punktów. Mimo kontuzji, Mazurczak był wiodącym strzelcem.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu. W Game 4 finałów (15.06.2026), Carl Ponsar zdobył 17 punktów i 4 zbiórki, a Andrzej Pluta 14 punktów. Andrzej Pluta Jr. został MVP sezonu 2025/2026.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
+
+    *   Mecz odbył się 21 czerwca 2026 roku i był 7. meczem finałów PLK 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo Polski. Legia grała u siebie w decydującym meczu.
+    *   Zastal miał kilku kluczowych graczy (Matczak, Wilson, Mazurczak) z urazami, a Sagaba Konate był wykluczony z gry na cały sezon.
+    *   Legia, grająca w pełni sił i ze swoim MVP sezonu (Andrzej Pluta Jr.), miała wyraźną przewagę w decydującym spotkaniu na własnym parkiecie.

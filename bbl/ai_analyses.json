@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-20T12:52:09.140760",
+  "generated_at": "2026-09-20T13:08:13.231714",
   "date": "2026-09-20",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Bamberg Baskets @ FC Bayern München",
-      "phase": "Hauptrunde",
-      "ai_pick": "FC Bayern München",
-      "formula_pick": "FC Bayern München",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "FC Bayern München gra u siebie i prawdopodobnie rozpoczyna sezon z pełnym składem. Bamberg Baskets są poważnie osłabione z powodu kontuzji kluczowych graczy, Patricka Heckmanna (wykluczony na sezon) i Daniela Schmidta, co stawia ich w trudnej sytuacji w pierwszym meczu sezonu. Brak dostępnych danych o formie i H2H w obecnym sezonie (rozpoczętym 18.09.2026) sprawia, że kontuzje i przewaga własnego parkietu są decydującymi czynnikami.",
+      "matchup": "MHP RIESEN Ludwigsburg @ Ratiopharm Ulm",
+      "phase": "Regular Season - Matchday 1",
+      "ai_pick": "MHP RIESEN Ludwigsburg",
+      "formula_pick": "Ratiopharm Ulm",
+      "agreement": false,
+      "confidence": 6,
+      "reasoning": "MHP RIESEN Ludwigsburg rozpoczyna sezon z pozytywnym akcentem, po niedawnym zwycięstwie w Pucharze BBL, gdzie ich kluczowi gracze pokazali dobrą formę strzelecką. Ratiopharm Ulm, mimo przewagi własnego boiska, zakończyło poprzedni sezon z niekonsekwentnymi wynikami i odnotowało porażkę w ostatnim meczu towarzyskim przed sezonem.",
       "key_factors": [
-        "Kontuzje kluczowych graczy Bamberg Baskets",
-        "Przewaga własnego parkietu FC Bayern München",
-        "Początek sezonu - Bayern z prawdopodobnie pełnym składem"
+        "Aktualna forma MHP RIESEN Ludwigsburg (zwycięstwo w Pucharze BBL)",
+        "Brak istotnych kontuzji u kluczowych graczy obu drużyn na dzisiaj",
+        "Niekonsekwentna forma Ratiopharm Ulm pod koniec poprzedniego sezonu i niedawna porażka w sparingu"
       ],
-      "injury_notes": "FC Bayern München: Brak istotnych braków zgłoszonych na dzień 20.09.2026. Bamberg Baskets: Patrick Heckmann (kontuzja barku wymagająca operacji, wykluczony na sezon; uraz zgłoszony 18.09.2026), Daniel Schmidt (poważna kontuzja barku, uraz z 18.08.2026, czas powrotu nieznany)."
+      "injury_notes": "Brak istotnych braków"
     }
   ]
 }
