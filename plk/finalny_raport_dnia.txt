@@ -1,16 +1,17 @@
---- AUDYT PLK LIVE (2026-09-20 23:35 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa, zaplanowanego na 2026-06-21 (analiza na dzień 2026-09-20):
+--- AUDYT PLK LIVE (2026-09-20 23:52 CET) ---
+Audyt predykcji na mecz PLK z 2026-06-21, bazujący na aktualnych danych z 2026-09-20.
 
 ---
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa** -> Typ: Legia Warszawa
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy/silny skrzydłowy) jest kontuzjowany (skręcenie śródstopia z uszkodzeniem więzadeł). Przewidywana przerwa w grze wynosi około 3 miesiące, co oznacza, że nie zagra do końca roku 2026. W reakcji na tę kontuzję Legia podpisała krótkoterminowy kontrakt z Kubą Piślą (rzucający obrońca).
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim. Zespół przygotowuje się do startu sezonu 2026/2027 i turnieju o Superpuchar Polski.
+1.  **Kluczowe braki w składach (stan na 2026-09-20):**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł i będzie pauzował około 3 miesiące, nie pojawi się na parkiecie do końca roku.
+        *(Uwaga: Kontuzja Szymona Tomczaka nastąpiła około 16 września 2026 r., czyli po dacie meczu (21 czerwca 2026 r.). W dniu meczu byłby dostępny.)*
 
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Kontuzja Szymona Tomczaka, kluczowego zawodnika podkoszowego Legii Warszawa, jest istotnym osłabieniem na początku sezonu 2026/2027 i będzie miała wpływ na rotację zespołu. Pomimo pozyskania Kuby Piśli, który jest zawodnikiem na innej pozycji, brak Tomczaka czyni typ na zwycięstwo Legii bardziej ryzykownym.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Legia Warszawa obroniła tytuł Mistrza Polski 21 czerwca 2026 roku, co oznacza, że wygrała serię finałową z Zastalem Zielona Góra w tym dniu. Typ wskazujący na Legię Warszawa był trafny.
