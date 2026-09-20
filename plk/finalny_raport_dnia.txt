@@ -1,31 +1,11 @@
---- AUDYT PLK LIVE (2026-09-20 10:11 CET) ---
-Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa, 2026-09-21
+--- AUDYT PLK LIVE (2026-09-20 14:50 CET) ---
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-⚠️ **Ważna uwaga dotycząca daty meczu:** Według dostępnych informacji, sezon PLK 2026/27 rozpoczyna się w październiku (Legia 2.10.2026, Zastal 3.10.2026). Zarówno Legia, jak i Zastal wezmą udział w turnieju o Superpuchar Polski w dniach 26-27 września 2026. Bezpośrednie spotkanie Legia - Zastal w PLK zaplanowane jest na 9 października 2026. Mecz 21 września 2026 jest najprawdopodobniej sparingiem lub meczem towarzyskim przed sezonem/Superpucharem, jednak zostanie przeanalizowany zgodnie z prośbą jako "PLK typ".
+1.  **Kluczowe braki w składach:**
+    *   Legia Warszawa (koszykówka): Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026 r.
+    *   ORLEN Zastal Zielona Góra (koszykówka): Brak istotnych braków w składzie koszykarskim na dzień 21.06.2026 r.
 
----
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
-**1. Kluczowe braki w składach:**
-
-*   **Legia Warszawa:**
-    *   ❌ **Szymon Tomczak** (środkowy) – kontuzja skręcenia śródstopia z uszkodzeniem więzadeł. Przerwa w treningach około 3 miesięcy, powrót na parkiet dopiero na przełomie roku.
-*   **ORLEN Zastal Zielona Góra:**
-    *   Brak istotnych braków w składzie koszykarskim. Sagaba Konate, kontuzjowany w lutym 2026 i wykluczony z sezonu 2025/26, nie figuruje na aktualnej liście składu na sezon 2026/27.
-
-**2. Aktualna forma top scorerów:**
-
-*   **Legia Warszawa:**
-    *   Nowy nabytek 🟢 **Kuba Piśla** (rzucający obrońca/niski skrzydłowy) – w poprzednim sezonie (2025/26) w barwach GTK Gliwice notował średnio 11.9 punktu na mecz. Jego debiut w barwach Legii miał nastąpić 20 września w sparingu z estońskim Kalevem.
-    *   🟢 Inni kluczowi gracze to rozgrywający Kristers Zoriks oraz środkowy Gyorgy Goloman, którzy są uznawani za mocne wzmocnienia. Kapitan Michał Kolenda również jest ważnym punktem zespołu.
-*   **ORLEN Zastal Zielona Góra:**
-    *   🟢 **Andy Mazurczak** (rozgrywający) – kapitan zespołu i kluczowy zawodnik, liderujący drużynie po udanym poprzednim sezonie.
-    *   🟢 Nowy zawodnik **Beau Beech** (silny skrzydłowy) – jest bardzo wartościowym i skutecznym strzelcem z dystansu.
-    *   🟢 **Gauthier Denis** (niski skrzydłowy) – od niego oczekuje się dużej liczby rzutów za 3 punkty.
-    *   Zastal to wicemistrz Polski z poprzedniego sezonu, co świadczy o wysokiej jakości zespołu.
-
-**3. Werdykt:**
-
-*   **[⚠️ RYZYKOWNY]**
-    *   Legia ma poważny brak na pozycji środkowego (Szymon Tomczak). Chociaż pozyskali Kubę Piślę, który powinien wzmocnić siłę ofensywną, utrata środkowego na 3 miesiące to znaczące osłabienie, zwłaszcza na początku sezonu. Zastal, jako wicemistrz Polski, rozpoczyna sezon z wysokimi ambicjami i utrzymaną stabilnością kadrową w trzonie zespołu. Dodatkowo, jest to wczesna faza sezonu (mecz przed oficjalnym startem PLK i Superpucharem), co zawsze niesie za sobą pewną nieprzewidywalność.
-
----
+3.  **Werdykt:** [✅ ZATWIERDZONY]

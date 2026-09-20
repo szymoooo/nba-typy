@@ -1,24 +1,23 @@
 {
-  "generated_at": "2026-09-20T01:34:33.723426",
+  "generated_at": "2026-09-20T12:51:22.329859",
   "date": "2026-09-20",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Barça @ ASISA Joventut",
-      "phase": "Supercopa ACB Final",
-      "ai_pick": "Barça",
-      "formula_pick": "ASISA Joventut",
-      "agreement": false,
+      "matchup": "Barça @ Asisa Joventut",
+      "phase": "Supercopa Endesa Final",
+      "ai_pick": "Asisa Joventut",
+      "formula_pick": "Asisa Joventut",
+      "agreement": true,
       "confidence": 7,
-      "reasoning": "Barça pokonała obrońcę tytułu w zaciętym półfinale, wykazując się odpornością i umiejętnością wygrywania w trudnych momentach. Mimo że ASISA Joventut gra u siebie w Badalona i wygrała półfinał w dominujący sposób, prowadzone przez Nico Laprovittolę, historycznie gospodarz Supercopa nigdy nie zdobył tytułu. Kursy bukmacherskie również wskazują na Barça jako faworyta.",
+      "reasoning": "Asisa Joventut gra we własnej hali w Badalonie, co stanowi znaczną przewagę i dodatkową motywację do przełamania historycznej 'klątwy gospodarzy' w Supercopie. Ich lider, Nico Laprovittola, zaprezentował wybitną formę w półfinale, co dodatkowo wzmacnia ich szanse, biorąc pod uwagę osłabienia Barcelony spowodowane kontuzjami.",
       "key_factors": [
-        "Barça pokazała odporność, wygrywając zacięty półfinał przeciwko Valencia Basket (87-86).",
-        "Nico Laprovittola z ASISA Joventut jest w świetnej formie, zdobywając 27 punktów i 10 asyst w półfinale.",
-        "Mecz odbywa się w Badalona, na hali ASISA Joventut, co daje im przewagę własnego parkietu, jednak Supercopa Endesa ma 'klątwę gospodarza' – żaden zespół gospodarzy nigdy nie zdobył tytułu.",
-        "Barça ma lepszy bilans w historycznych meczach Supercopa przeciwko Joventutowi, wygrywając finał w 1987 i półfinał w 2022."
+        "Przewaga własnego boiska dla Asisa Joventut w Badalonie.",
+        "Wyśmienita forma Nico Laprovittoli (27 pkt, 10 asyst) w półfinale Supercopa.",
+        "Znaczące kontuzje w składzie Barçy (Makoundou, Evbuowman)."
       ],
-      "injury_notes": "Brak istotnych braków u kluczowych graczy obu drużyn na dzień 2026-09-20."
+      "injury_notes": "Asisa Joventut: Ante Tomic jest kontuzjowany i nie zagra w finale Supercopa Endesa. Barça: Yoan Makoundou (kontuzja kolana, pauza do listopada) i Tosan Evbuowman (kontuzja barku) nie zagrają w meczu. Dario Brizuela uniknął poważnej kontuzji i zagrał niemal 20 minut w półfinale, więc jest prawdopodobnie dostępny na finał."
     }
   ]
 }
