@@ -1,12 +1,17 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-19 21:33 ET) ---
-Analiza meczu Heat @ Raptors:
+--- KRYTYCZNY AUDYT LIVE (2026-09-19 22:48 ET) ---
+Analiza meczu: Heat @ Raptors (Styczeń 2026)
 
-*   **Kluczowe braki w składach (Miami Heat):** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Kluczowe braki w składach (Toronto Raptors):** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Kluczowe braki w składach (na styczeń 2026, oraz aktualne raporty kontuzji na 2026-09-19):**
 
-*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   **Miami Heat:**
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-09-19) ❌.
+        *   **Kluczowe nieobecności (niezwiązane z kontuzjami, na styczeń 2026):** Giannis Antetokounmpo, Bobby Portis i Klay Thompson nie byliby w składzie Heat w styczniu 2026 roku, ponieważ dołączyli do drużyny w lipcu i sierpniu 2026 roku na sezon 2026-27.
+        *   **Prawdopodobni kluczowi gracze (styczeń 2026):** Jaime Jaquez Jr., Kasparas Jakučionis, Keshad Johnson.
 
-    *   **Uzasadnienie:**
-        *   Zgodnie z dostępnymi danymi, w styczniu 2026 roku skład Toronto Raptors obejmował kluczowych graczy takich jak Scottie Barnes, RJ Barrett, Immanuel Quickley i Jakob Poeltl.
-        *   Miami Heat w styczniu 2026 roku miało w składzie Bam Adebayo, Tyler Herro i Jaime Jaqueza Jr.
-        *   Brak aktualnych raportów dotyczących kontuzji z dnia 2026-09-19 dla obu drużyn. Ponadto, brak szczegółowych informacji o kontuzjach lub formie drużyn w styczniu 2026 roku, co uniemożliwia rygorystyczną ocenę tego konkretnego typu. Z tego powodu, typ jest oceniany jako ryzykowny.
+    *   **Toronto Raptors:**
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę (2026-09-19) ❌. (Mimo wzmianki o problemach Immanuela Quickleya z ścięgnem podkolanowym z 9 września 2026, brak statusu meczowego 'Out', 'Questionable', 'GTD' na 19 września 2026).
+        *   **Kluczowe nieobecności (niezwiązane z kontuzjami, na styczeń 2026):** Kawhi Leonard (dołączył do drużyny we wrześniu 2026) oraz Trayce Jackson-Davis (dołączył w lutym 2026) nie byliby w składzie Raptors w styczniu 2026 roku.
+        *   **Prawdopodobni kluczowi gracze (styczeń 2026):** Scottie Barnes, R.J. Barrett (dołączył w grudniu 2023), Immanuel Quickley, Jakob Poeltl (re-podpisał kontrakt w lipcu 2023), Brandon Ingram (dołączył w lipcu 2025).
+
+*   **Werdykt dla typu "Raptors":** [✅ ZATWIERDZONY]
+    *   Biorąc pod uwagę składy na styczeń 2026, Toronto Raptors posiadaliby silny zestaw kluczowych graczy, takich jak Scottie Barnes, R.J. Barrett, Immanuel Quickley, Jakob Poeltl i Brandon Ingram. Miami Heat, bez swoich późniejszych wzmocnień (Antetokounmpo, Portis, Thompson), polegaliby na mniejszej głębi talentu. Mimo braku aktualnych raportów kontuzji na dzień 2026-09-19, analiza składów z początku 2026 roku wskazuje na przewagę Raptors.
