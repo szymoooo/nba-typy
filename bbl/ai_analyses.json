@@ -1,24 +1,54 @@
 {
-  "generated_at": "2026-09-19T12:04:51.512715",
-  "date": "2026-09-19",
+  "generated_at": "2026-09-20T08:13:24.719984",
+  "date": "2026-09-20",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Phoenix Hagen @ Rostock Seawolves",
+      "matchup": "SYNTAINICS MBC @ EWE Baskets Oldenburg",
       "phase": "Regular Season - Matchday 1",
-      "ai_pick": "Rostock Seawolves",
-      "formula_pick": "Rostock Seawolves",
+      "ai_pick": "EWE Baskets Oldenburg",
+      "formula_pick": "EWE Baskets Oldenburg",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Rostock Seawolves rozpoczynają sezon BBL na własnym parkiecie, co daje im przewagę. Zespół wzmocnił swój skład o doświadczonych graczy z Bundesligi. Phoenix Hagen, jako beniaminek, staje przed trudnym wyzwaniem na wyjeździe, a ich skład jest osłabiony przez kontuzję Anthony'ego Polite'a.",
+      "confidence": 8,
+      "reasoning": "EWE Baskets Oldenburg ma przewagę własnego parkietu oraz lepszą formę z końca poprzedniego sezonu BBL. Kluczowym czynnikiem jest poważna kontuzja kapitana SYNTAINICS MBC, Spencera Reavesa, który opuści ten mecz. Historyczny bilans H2H również przemawia na korzyść gospodarzy.",
       "key_factors": [
-        "Przewaga własnego boiska Rostock Seawolves",
-        "Doświadczeni nowi gracze w składzie Rostocku",
-        "Kontuzja Anthony'ego Polite'a w Phoenix Hagen",
-        "Wyższe wyzwanie dla beniaminka w meczu wyjazdowym"
+        "Kontuzja Spencera Reavesa (SYNTAINICS MBC)",
+        "Przewaga własnego parkietu (EWE Baskets Oldenburg)",
+        "Lepsza forma EWE Baskets Oldenburg z końcówki poprzedniego sezonu"
       ],
-      "injury_notes": "Dla Rostock Seawolves, Zach Copeland jest wątpliwy na mecz. Dla Phoenix Hagen, Anthony Polite nie zadebiutował w zespole z powodu kontuzji, a Patricio Garino również miał problemy z kontuzjami w poprzednich sezonach."
+      "injury_notes": "Kapitan SYNTAINICS MBC, Spencer Reaves, doznał podwójnego zerwania więzadeł w stawie skokowym podczas meczu przedsezonowego i będzie wykluczony z gry na co najmniej sześć tygodni od 2 września 2026 roku, co oznacza, że opuści mecz otwarcia sezonu. Brak istotnych braków w EWE Baskets Oldenburg."
+    },
+    {
+      "matchup": "MHP RIESEN Ludwigsburg @ ratiopharm Ulm",
+      "phase": "Regular Season - Matchday 1",
+      "ai_pick": "MHP RIESEN Ludwigsburg",
+      "formula_pick": "ratiopharm Ulm",
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "MHP RIESEN Ludwigsburg wchodzi w sezon z wyraźnie lepszą formą, co potwierdza ich niedawne zwycięstwo w Pucharze BBL i skuteczna ofensywa w meczach towarzyskich. Ratiopharm Ulm zmagał się z problemami w pre-sezonie, odnotowując sześć porażek i widoczne braki w obronie, dodatkowo osłabiony kontuzją Teo Milicicia.",
+      "key_factors": [
+        "Słaba forma ratiopharm Ulm w pre-sezonie",
+        "Dobra ofensywa i niedawne zwycięstwo MHP RIESEN Ludwigsburg w Pucharze BBL",
+        "Kontuzja Teo Milicicia (ratiopharm Ulm)"
+      ],
+      "injury_notes": "Dla ratiopharm Ulm, Teo Milicic jest kontuzjowany i nie zagra. Adam Atamna powrócił po kontuzji. W MHP RIESEN Ludwigsburg, Oshane Drews i Keeshawn Kellman prawdopodobnie będą nieobecni, jednak Justin Kier i Jonas Wohlfarth-Bottermann, którzy opuścili mecz pucharowy, mają być gotowi na rozpoczęcie sezonu."
+    },
+    {
+      "matchup": "Bamberg Baskets @ Bayern München",
+      "phase": "Regular Season - Matchday 1",
+      "ai_pick": "Bayern München",
+      "formula_pick": "Bayern München",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Bayern München ma silny i głęboki skład, z powracającymi kluczowymi graczami takimi jak Andreas Obst (panujący MVP BBL), Rokas Jokubaitis i Kamar Baldwin, uzupełniony o wartościowe nowe nabytki. Drużyna gra u siebie w BMW Park. Nowy trener Bayernu, Anton Gavel, doskonale zna drużynę Bambergu, którą prowadził w poprzednim sezonie. Mimo że Bamberg pokonał Bayern w półfinale Pucharu Niemiec 2026 po dogrywce, to Bayern pod wodzą Gavela wydaje się być lepiej przygotowany na otwarcie sezonu, co pokazało też niedawne zwycięstwo w meczu towarzyskim (98-67).",
+      "key_factors": [
+        "Silniejszy i głębszy skład Bayernu",
+        "Przewaga własnego boiska Bayernu",
+        "Nowy trener Bayernu (Anton Gavel) znający doskonale Bamberg",
+        "Powrót kluczowych graczy Bayernu (Obst, Jokubaitis, Baldwin) do pełnej dyspozycji"
+      ],
+      "injury_notes": "Według najnowszych doniesień, obie drużyny przystąpią do meczu w pełnych składach, bez istotnych kontuzji liderów."
     }
   ]
 }
