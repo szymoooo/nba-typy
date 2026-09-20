@@ -1,39 +1,24 @@
 {
-  "generated_at": "2026-09-19T12:17:40.212764",
-  "date": "2026-09-19",
+  "generated_at": "2026-09-20T01:34:33.723426",
+  "date": "2026-09-20",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Kosner Baskonia @ Asisa Joventut",
-      "phase": "Supercopa Endesa - Półfinał",
-      "ai_pick": "Asisa Joventut",
-      "formula_pick": "Asisa Joventut",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Asisa Joventut jest gospodarzem półfinału Supercopa Endesa, co zapewnia im znaczącą przewagę własnego boiska. Kosner Baskonia zmaga się z poważnymi kontuzjami, w tym kluczowych graczy takich jak Alex Len i Kenneth Faried, co negatywnie wpłynęło na ich przygotowania i wyniki w pre-sezonie.",
-      "key_factors": [
-        "Przewaga własnego boiska dla Asisa Joventut jako gospodarza Supercopa Endesa.",
-        "Liczne kontuzje i problemy kadrowe w Kosner Baskonia przed rozpoczęciem sezonu.",
-        "Mimo mieszanej formy przedsezonowej obu drużyn, problemy Baskonii wydają się bardziej destabilizujące."
-      ],
-      "injury_notes": "Kosner Baskonia: Alex Len (center) jest niepewny na pierwszą rundę (Supercopa) z powodu dyskomfortu fizycznego. Kenneth Faried, nowy nabytek, był nieobecny w meczu przedsezonowym 5 września z powodu kontuzji. Zespół odwołał mecz przedsezonowy 2 września z powodu braku zawodników, w tym Kobi Simmonsa i Damiona Baugha, którzy byli na zgrupowaniach reprezentacji. Baskonia grała osłabiona kontuzjami 5 września przeciwko Realowi Madryt, przegrywając 121-80. Asisa Joventut: brak istotnych braków zgłoszonych bezpośrednio przed meczem."
-    },
-    {
-      "matchup": "Barça @ Valencia Basket",
-      "phase": "Supercopa Endesa - Półfinał",
+      "matchup": "Barça @ ASISA Joventut",
+      "phase": "Supercopa ACB Final",
       "ai_pick": "Barça",
-      "formula_pick": "Valencia Basket",
+      "formula_pick": "ASISA Joventut",
       "agreement": false,
       "confidence": 7,
-      "reasoning": "Barça, mimo kontuzji i statusu gospodarza Valencii na neutralnym terenie, jest uznawana za jednego z głównych faworytów do tytułu Supercopa Endesa. Valencia Basket, choć zwyciężyła w Lidze Endesa i Supercopie w poprzednim sezonie, przeszła znaczną przebudowę składu, tracąc wielu kluczowych graczy, co może wpłynąć na zgranie zespołu na początku sezonu.",
+      "reasoning": "Barça pokonała obrońcę tytułu w zaciętym półfinale, wykazując się odpornością i umiejętnością wygrywania w trudnych momentach. Mimo że ASISA Joventut gra u siebie w Badalona i wygrała półfinał w dominujący sposób, prowadzone przez Nico Laprovittolę, historycznie gospodarz Supercopa nigdy nie zdobył tytułu. Kursy bukmacherskie również wskazują na Barça jako faworyta.",
       "key_factors": [
-        "Barça to uznany faworyt turnieju Supercopa Endesa",
-        "Znacząca przebudowa składu Valencia Basket i odejście kluczowych zawodników z mistrzowskiej drużyny",
-        "Neutralny teren rozgrywania półfinału (Badalona), eliminujący przewagę własnej hali dla Valencia Basket",
-        "Kontuzje w obu drużynach na początku sezonu"
+        "Barça pokazała odporność, wygrywając zacięty półfinał przeciwko Valencia Basket (87-86).",
+        "Nico Laprovittola z ASISA Joventut jest w świetnej formie, zdobywając 27 punktów i 10 asyst w półfinale.",
+        "Mecz odbywa się w Badalona, na hali ASISA Joventut, co daje im przewagę własnego parkietu, jednak Supercopa Endesa ma 'klątwę gospodarza' – żaden zespół gospodarzy nigdy nie zdobył tytułu.",
+        "Barça ma lepszy bilans w historycznych meczach Supercopa przeciwko Joventutowi, wygrywając finał w 1987 i półfinał w 2022."
       ],
-      "injury_notes": "Valencia Basket zmaga się z kontuzjami Stefana Jovicia (zapalenie kaletki w prawym łokciu) oraz Amidy Brimah (uraz ścięgna podkolanowego w prawej nodze), co uniemożliwia im treningi z drużyną. Barça ma osłabienia w składzie na Supercopę: Tosan Evbuomwan i Yoan Makoundou są kontuzjowani, a udział Dario Brizueli jest wątpliwy."
+      "injury_notes": "Brak istotnych braków u kluczowych graczy obu drużyn na dzień 2026-09-20."
     }
   ]
 }
