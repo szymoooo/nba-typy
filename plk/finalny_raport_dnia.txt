@@ -1,23 +1,25 @@
---- AUDYT PLK LIVE (2026-09-20 15:06 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
+--- AUDYT PLK LIVE (2026-09-20 19:21 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa) na dzień 2026-06-21.
 
-1.  **Kluczowe braki w składach:**
+**Kluczowe braki w składach (stan na 2026-09-20):**
 
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Sagaba Konate (silny skrzydłowy/środkowy) - Kontuzja dłoni, zakończył sezon 2025/2026 w lutym 2026.
-        *   Filip Matczak (rozgrywający) - Zmagał się ze starą kontuzją i urazem nosa, grał w masce w finałach (stan na 13.06.2026).
-        *   Dwight Wilson (silny skrzydłowy) - Nadal odczuwał skutki urazu kostki, ale trenował (stan na 06.06.2026).
-        *   Andrzej Mazurczak (rozgrywający) - Grał w masce z powodu kontuzji nosa (stan na 13.06.2026).
-    *   **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim w okresie finałów PLK 2025/2026. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/2027 i nie są istotne dla tego meczu.
+*   🏀 **Legia Warszawa:**
+    *   Szymon Tomczak (środkowy) jest kontuzjowany (skręcenie śródstopia z uszkodzeniem więzadeł). Przewidywana przerwa to około 3 miesiące, co oznacza powrót na parkiet nie wcześniej niż pod koniec roku. Klub rozważa uzupełnienie luki na tej pozycji.
+*   🏀 **ORLEN Zastal Zielona Góra:**
+    *   Brak istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów:**
+**Aktualna forma kluczowych zawodników (na podstawie dostępnych informacji z sezonu 2025/2026 i początku sezonu 2026/2027):**
 
-    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu. Jednak w Game 4 finałów (15.06.2026), Andrzej Mazurczak zdobył 21 punktów, Conley Garrison 16 punktów, a Dwight Allen Wilson 10 punktów. Mimo kontuzji, Mazurczak był wiodącym strzelcem.
-    *   **Legia Warszawa:** Brak danych z API dla tego zespołu. W Game 4 finałów (15.06.2026), Carl Ponsar zdobył 17 punktów i 4 zbiórki, a Andrzej Pluta 14 punktów. Andrzej Pluta Jr. został MVP sezonu 2025/2026.
+*   🏀 **Legia Warszawa:**
+    *   Legia Warszawa to aktualny Mistrz Polski, obroniła tytuł w sezonie 2025/2026, pokonując w finale ORLEN Zastal Zielona Góra.
+    *   Kluczowi zawodnicy w obecnym składzie (sezon 2026/2027) to m.in. kapitan Michał Kolenda, Kristers Zoriks, Błażej Czapla, Arguster Daniels IV, Wojciech Tomaszewski i Mathieu Wojciechowski. Zespół przygotowuje się do rywalizacji w fazie grupowej Ligi Mistrzów.
+*   🏀 **ORLEN Zastal Zielona Góra:**
+    *   Zastal był finalistą sezonu 2025/2026 PLK.
+    *   W składzie na sezon 2026/2027 kluczowi są rozgrywający Andy Mazurczak i Conley Garrison. Obaj zawodnicy byli w świetnej formie pod koniec poprzedniego sezonu, zdobywając razem 44 punkty w jednym z meczów playoff w maju 2026.
+    *   Nowym, ważnym wzmocnieniem jest Beau Beech, znany z dużej skuteczności w rzutach z dystansu, co rozszerza możliwości gry na pozycji silnego skrzydłowego.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+**Werdykt:**
 
-    *   Mecz odbył się 21 czerwca 2026 roku i był 7. meczem finałów PLK 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo Polski. Legia grała u siebie w decydującym meczu.
-    *   Zastal miał kilku kluczowych graczy (Matczak, Wilson, Mazurczak) z urazami, a Sagaba Konate był wykluczony z gry na cały sezon.
-    *   Legia, grająca w pełni sił i ze swoim MVP sezonu (Andrzej Pluta Jr.), miała wyraźną przewagę w decydującym spotkaniu na własnym parkiecie.
+Mecz odbył się 2026-06-21. Legia Warszawa obroniła tytuł Mistrza Polski, pokonując w finale ORLEN Zastal Zielona Góra. Oznacza to, że typ na Legię Warszawa był prawidłowy. Biorąc pod uwagę aktualną (2026-09-20) siłę składu Legii (aktualny mistrz, udział w Lidze Mistrzów) pomimo kontuzji Szymona Tomczaka, oraz wicemistrzostwo Zastalu i ich wzmocnienia, oba zespoły prezentują wysoki poziom.
+
+✅ **ZATWIERDZONY** (Typ był zgodny z historycznym wynikiem - Legia Warszawa zdobyła mistrzostwo Polski 2025/2026 21 czerwca 2026 roku. Na dzień dzisiejszy (2026-09-20) Legia pozostaje silnym zespołem, choć osłabionym kontuzją Szymona Tomczaka. Zastal również prezentuje mocny skład z nowym, wartościowym nabytkiem Beau Beechem).
