@@ -1,12 +1,18 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-20 19:28 ET) ---
-Analiza meczu Heat @ Raptors (typ użytkownika: Raptors) na podstawie danych z 2026-09-20:
+--- KRYTYCZNY AUDYT LIVE (2026-09-20 21:34 ET) ---
+Heat @ Raptors: Typ: Raptors
 
-*   **Kluczowe braki w składach (na dzień 2026-09-20):**
-    *   **Miami Heat:**
-        *   Tyler Herro (Obrońca All-Star): Poza grą na co najmniej 8 tygodni z powodu zabiegu stopy, opuści początek sezonu NBA 2026. Jest to znacząca strata, biorąc pod uwagę, że Herro był kluczowym graczem ofensywnym (prawie 24 punkty, 5 zbiórek, 5 asyst w poprzednim sezonie).
+*   **Kluczowe braki w składach (Styczeń 2026):**
     *   **Toronto Raptors:**
-        *   Immanuel Quickley (Rozgrywający): Kontuzja ścięgna podkolanowego, zgłoszona 9 września 2026. Status nieokreślony jako "Out", "Questionable" czy "GTD", ale kontuzja ścięgna podkolanowego sugeruje jego brak dostępności lub ograniczenia.
-        *   Środkowy (nieokreślony): Gracz na pozycji środkowego był widziany w bucie ortopedycznym z powodu kontuzji dolnej części nogi, zgłoszonej 9 września 2026. Prawdopodobnie będzie niedostępny.
-
-*   **Werdykt dla typu Raptors:** [⚠️ RYZYKOWNY]
-    *   Mimo poważnej absencji Tylera Herro dla Heat, Toronto Raptors również borykają się z kluczowymi brakami w składzie, w tym z kontuzją Immanuela Quickleya i potencjalnie środkowego. Te osłabienia po obu stronach sprawiają, że wynik meczu jest bardzo nieprzewidywalny.
+        *   RJ Barrett (kostka) 🤕
+        *   Jakob Poeltl (plecy) 🤕
+        *   Ja'Kobe Walter (kostka/biodro) 🤕
+        *   Immanuel Quickley (plecy) 🤕
+        *   Garrett Temple (plecy) 🤕
+        *   Brandon Ingram (kciuk - questionable) ❓
+        *   Scottie Barnes (skręcenie prawego kolana - questionable) ❓
+    *   **Miami Heat:**
+        *   Tyler Herro (kontuzja żebra/palca u nogi) 🤕
+        *   Davion Mitchell (stłuczenie lewego barku - questionable/doubtful) ❓
+        *   Jaime Jaquez Jr. (skręcenie lewego kolana - questionable) ❓
+        *   Kel'el Ware (ścięgno podkolanowe) 🤕
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Raptors borykali się ze znacznymi brakami kadrowymi, w tym kluczowych graczy, takich jak Barrett, Poeltl i Quickley, a także wątpliwościami co do Ingrama i Barnesa w styczniu 2026 roku. Miami Heat również miało absencje, ale skumulowane braki Raptors czynią ten typ ryzykownym.

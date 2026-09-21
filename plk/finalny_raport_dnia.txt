@@ -1,16 +1,19 @@
---- AUDYT PLK LIVE (2026-09-21 01:28 CET) ---
-Analiza meczu PLK na dzień 2026-09-21:
+--- AUDYT PLK LIVE (2026-09-21 03:34 CET) ---
+Chociaż data meczu w kontekście ("2026-06-21") wskazuje na finał poprzedniego sezonu, niniejsza analiza jest przygotowywana na dzień dzisiejszy, 2026-09-21, z uwzględnieniem aktualnych składów i kontuzji obu drużyn przed startem sezonu 2026/27 PLK i turniejem o Superpuchar Polski.
 
 ---
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Szymon Tomczak (środkowy) jest kontuzjowany (skręcenie śródstopia z uszkodzeniem więzadeł) i wyłączony z gry na około 3 miesiące. Klub pozyskał Kubę Piślę, aby uzupełnić skład.
-    *   **ORLEN Zastal Zielona Góra:** Sagaba Konate (środkowy) doznał awulsyjnego uszkodzenia więzadła SL nadgarstka w lutym 2026 roku, co oznaczało dla niego koniec sezonu 2025/2026. Przy aktualnej dacie 2026-09-21, jego powrót do pełnej sprawności i formy jest mało prawdopodobny na początku nowego sezonu. Nie ma aktualnych potwierdzonych informacji o kontuzjach innych koszykarzy.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa:**
+        *   ❌ Szymon Tomczak (środkowy) – kontuzja skręcenia śródstopia z uszkodzeniem więzadeł. Wykluczony z gry na około 3 miesiące, powrót na parkiet nie wcześniej niż pod koniec roku. Klub aktywnie poszukuje zastępstwa na tę pozycję.
+        *   ❓ Mathieu Wojciechowski (skrzydłowy) – doznał urazu mięśniowego 19 września 2026 w meczu kontrolnym. Status niepewny, brak szczegółów o długości absencji.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Mimo że Legia Warszawa jest aktualnym mistrzem Polski, a typ wskazuje na jej zwycięstwo, obie drużyny mają znaczące braki w strefie podkoszowej. Legia straciła Szymona Tomczaka na około 3 miesiące, choć podjęła kroki, pozyskując Kubę Piślę. Zastal natomiast stracił Sagabę Konate już w lutym na cały sezon, co mogło wpłynąć na przygotowania drużyny do nowego sezonu, ale jego brak jest już długotrwały. Brak danych o aktualnej formie top scorerów dodatkowo zwiększa niepewność. Wczesna faza sezonu i kontuzje kluczowych zawodników w obu zespołach sprawiają, że wynik jest mniej przewidywalny.
+    *   Uzasadnienie: Legia Warszawa ma znaczące osłabienia w składzie. Długotrwała kontuzja kluczowego środkowego Szymona Tomczaka oraz świeży uraz skrzydłowego Mathieu Wojciechowskiego istotnie wpływają na rotację i siłę zespołu. Zastal Zielona Góra, zgodnie z dostępnymi informacjami, przystępuje do rozgrywek w pełnym składzie i z nowymi wzmocnieniami.
