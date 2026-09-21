@@ -1,23 +1,17 @@
---- AUDYT PLK LIVE (2026-09-21 17:18 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-21 21:10 CET) ---
+**# PLK typy na 2026-06-21 (Audyt na dzień 2026-09-21)**
 
-1.  **Kluczowe braki w składach (2026-09-21):**
-    *   **Legia Warszawa:**
-        *   🚫 **Szymon Tomczak (C):** Kontuzja skręcenia śródstopia z uszkodzeniem więzadeł. Wykluczony na około 3 miesiące, nie wróci na parkiet do końca roku.
-        *   🚫 **Michał Kolenda (SF):** Kontuzjowany, obecnie "poza grą".
-        *   🚫 **Mathieu Wojciechowski (F):** Uraz lub niedyspozycja; był poza rotacją w sparingu 20.09.2026 i jest określany jako "trzeci kontuzjowany Polak".
-    *   **ORLEN Zastal Zielona Góra:**
-        *   ✅ Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-09-21.
+---
 
-2.  **Aktualna forma top scorerów (stan na 2026-09-21, bazując na pre-sezonie 2026/2027):**
-    *   **Legia Warszawa:**
-        *   🔥 **Arguster Daniels IV:** 22 punkty w ostatnim sparingu (20.09.2026).
-        *   ✨ **Kristers Zoriks:** 17 punktów w ostatnim sparingu (20.09.2026).
-        *   Gyorgy Goloman (16 pkt) i Zach Freemantle (14 pkt) również wykazali dobrą formę strzelecką w tym samym sparingu.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Brak danych z API dla tego zespołu na temat konkretnych top scorerów w pre-sezonie 2026/2027. Nowi gracze Trazarien White i Beau Beech są opisywani jako dobrzy strzelcy.
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
+*Typ z PulsBasketu: Legia Warszawa*
+
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-09-21. Wspomniana w lutym 2026 kontuzja Sagaby Konate dotyczyła poprzedniego sezonu (2025/2026) i jest nieistotna dla obecnej analizy. W lipcu 2026 do składu dołączył Beau Beech.
+    *   **Legia Warszawa:** Środkowy Szymon Tomczak doznał skręcenia śródstopia z uszkodzeniem więzadeł i będzie pauzował około 3 miesięcy, nie wracając na parkiet do końca roku 🩹. W odpowiedzi na tę kontuzję Legia podpisała krótkoterminową umowę z rzucającym Kubą Piślą 🔄.
+
+2.  **Aktualna forma top scorerów:**
+    *   Sezon PLK 2026/2027 oficjalnie inauguruje Superpuchar Polski w dniach 26-27 września, a pierwsze mecze ligowe zaplanowane są na początek października 📅. W związku z tym brak jest danych o aktualnej formie top scorerów dla obu zespołów w sezonie 2026/2027 na dzień 2026-09-21.
 
 3.  **Werdykt:**
-    Choć Legia Warszawa historycznie wygrała mecz o mistrzostwo Polski przeciwko Zastalowi Zielona Góra 21 czerwca 2026 roku, co czyni oryginalną prognozę trafną dla tamtego momentu, to aktualna sytuacja kadrowa Legii (stan na 2026-09-21) jest znacznie osłabiona. Zastal Zielona Góra nie zgłasza obecnie istotnych braków w składzie. Biorąc pod uwagę znaczące kontuzje trzech kluczowych polskich zawodników Legii, jeżeli mecz odbywałby się dzisiaj z uwzględnieniem tych braków, typ na Legię Warszawa byłby obarczony wysokim ryzykiem.
-
-    ⚠️ **RYZYKOWNY**
+    *   [⚠️ RYZYKOWNY] – Typ jest ryzykowny ze względu na brak aktualnych danych o formie strzeleckiej zawodników, ponieważ sezon ligowy 2026/2027 jeszcze się nie rozpoczął. Dodatkowo Legia ma potwierdzony poważny brak w składzie (środkowy Tomczak), co może wpłynąć na jej grę, mimo pozyskania zastępcy.
