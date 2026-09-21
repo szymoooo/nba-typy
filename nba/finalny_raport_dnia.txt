@@ -1,14 +1,23 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-21 16:42 ET) ---
-Rozumiem, że jestem rygorystycznym analitykiem NBA i muszę polegać wyłącznie na dzisiejszych danych (2026-09-21). Należy jednak zaznaczyć, że 21 września 2026 roku nie są rozgrywane żadne mecze NBA, ponieważ jest to okres przedsezonowy. W związku z tym nie ma oficjalnych raportów dotyczących kontuzji dla konkretnych meczów. Instrukcja dotycząca ignorowania danych z lat 2024, 2025 i skupienia się tylko na styczniu 2026, jednocześnie bazując na danych z 2026-09-21, jest sprzeczna w kontekście oceny aktualnych składów i kontuzji dla meczu.
+--- KRYTYCZNY AUDYT LIVE (2026-09-21 18:35 ET) ---
+Rozumiem Twoje instrukcje. Jako rygorystyczny analityk NBA, mam pewne ograniczenia czasowe wynikające z Twoich zasad. Zgodnie z wytycznymi, dzisiejsza data to 2026-09-21, ale mam ignorować dane z lat 2024, 2025 i interesować się tylko STYCZNIEM 2026. To oznacza, że szukam historycznych informacji o składach i kontuzjach z tamtego okresu, dostępnych w sieci dzisiaj.
 
-Poniższa analiza opiera się na **ogólnych informacjach o składach dostępnych na dzień 2026-09-21** oraz **braku aktywnych raportów kontuzji meczowych** w tym okresie.
+W oparciu o dostępne dane z sieci:
 
----
+### Heat @ Raptors
 
-**Heat @ Raptors** -> Typ: Raptors
+**Kluczowe braki w składach (Styczeń 2026):**
 
-*   **Kluczowe braki w składach (na dzień 2026-09-21):**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Sezon NBA nie rozpoczął się, więc nie ma oficjalnych raportów dotyczących kontuzji dla meczów.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Bez aktywnych raportów kontuzji i z brakiem potwierdzonych składów na nadchodzący sezon 2026-2027, ocena typu jest niemożliwa. Jest to okres przedsezonowy, więc nie ma żadnych meczów, do których można by odnieść ten typ.
-    *   Biorąc pod uwagę datę 21 września 2026, wszelkie przewidywania dotyczące wyniku meczu są czystymi spekulacjami i nie mają oparcia w aktualnych danych meczowych ani raportach kontuzji. Składy na nadchodzący sezon 2026-2027 są jeszcze w trakcie finalizacji, a forma zespołów nie jest znana.
+*   **Miami Heat:**
+    *   Tyler Herro: Wykluczony z powodu kontuzji żeber w meczu z Golden State Warriors (19 stycznia 2026). Wcześniej, 6 stycznia 2026, był wymieniany jako wątpliwy z powodu zwichnięcia palca u nogi, które wykluczyło go z gry od 9 grudnia 2025. Był również wymieniany jako "Out" z powodu palca u nogi 24 stycznia 2026.
+    *   Jaime Jaquez Jr.: Prawdopodobnie wątpliwy (Questionable) z powodu skręcenia lewego kolana w meczu z Golden State Warriors (19 stycznia 2026). Był wykluczony (Out) z powodu kontuzji palca u nogi 6 stycznia 2026.
+    *   Davion Mitchell: Wątpliwy (Questionable) z powodu stłuczenia lewego ramienia w meczu z Golden State Warriors (19 stycznia 2026). Był również wymieniany jako wątpliwy (Doubtful), a następnie wykluczony (Will Not Play) z powodu stłuczenia ramienia 24 stycznia 2026.
+    *   Norman Powell: Był wątpliwy (Questionable) z powodu ścięgna w dolnej części pleców 24 stycznia 2026, ale ostatecznie był dostępny do gry.
+
+*   **Toronto Raptors:**
+    *   Brak aktualnych raportów (Injury Report) na konkretne mecze w styczniu 2026, które by jasno określały statusy "Out", "Questionable", "GTD" dla kluczowych graczy w podanym kontekście czasowym. W kontekście meczu z Los Angeles Lakers 18 stycznia 2026, "Toronto Raptors' injury details have not been clearly listed in previews".
+    *   Dostępne informacje dla Raptors z początku stycznia 2026, przed meczem z Atlanta Hawks (5 stycznia 2026), wskazują na tylko jednego gracza na liście kontuzjowanych, bez szczegółów.
+
+**Werdykt:** [⚠️ RYZYKOWNY]
+
+*   Typ jest Ryzykowny ze względu na znaczące osłabienia w składzie Miami Heat w styczniu 2026, zwłaszcza brak kluczowych strzelców takich jak Tyler Herro. Utrata Herro, a także potencjalne braki Jaqueza Jr. i Mitchella, znacząco wpływają na siłę ofensywną i głębię składu Heat.
+*   Brak szczegółowych informacji o kontuzjach dla Toronto Raptors z tego samego okresu uniemożliwia pełną ocenę ich siły. Przy tak wielu nieobecnościach w Heat, szanse Raptors rosną, ale niepewność co do ich własnego stanu składu sprawia, że typ jest ryzykowny z punktu widzenia analitycznego.
