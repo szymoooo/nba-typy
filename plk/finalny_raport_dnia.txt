@@ -1,21 +1,15 @@
---- AUDYT PLK LIVE (2026-09-21 22:42 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-09-21):
+--- AUDYT PLK LIVE (2026-09-22 01:44 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa na dzień 2026-09-22:
 
-### ORLEN Zastal Zielona Góra
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim. (W lutym 2026 Sagaba Konate doznał poważnego urazu nadgarstka, kończącego jego sezon 2025/2026, ale brak jest aktualnych danych o jego statusie na dzień 2026-09-21 dla sezonu 2026/2027).
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-09-22. Poprzednie urazy (Sagaba Konate, Andy Mazurczak, Filip Matczak) dotyczyły poprzedniego sezonu (2025/2026) i brak jest aktualnych potwierdzeń ich niedostępności na dzisiaj w składzie koszykarskim.
+    *   **Legia Warszawa:** Kontuzja środkowego Szymona Tomczaka, który doznał skręcenia śródstopia z uszkodzeniem więzadeł i będzie pauzował około 3 miesięcy, nie pojawiając się na parkiecie do końca roku 2026. W związku z tym Legia podpisała krótkoterminową umowę z Kubą Piślą.
+
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
 
-### Legia Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   Szymon Tomczak (środkowy) – kontuzja: skręcenie śródstopia z uszkodzeniem więzadeł. Czeka go około 3 miesięcy przerwy w treningach i nie pojawi się na parkiecie do końca 2026 roku. Klub będzie zmuszony poszukać gracza na tę pozycję.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-
-### Werdykt:
-[⚠️ RYZYKOWNY]
-
-**Uzasadnienie:** Pomimo atutu własnego parkietu, Legia Warszawa zmaga się z poważnym osłabieniem na pozycji środkowego – Szymon Tomczak jest wykluczony z gry do końca roku z powodu kontuzji śródstopia. Brak tak kluczowego gracza w momencie startu sezonu (lub tuż przed nim, biorąc pod uwagę, że Superpuchar Polski z udziałem obu drużyn jest zaplanowany na 26-27 września, a liga startuje 2 października) znacząco wpływa na siłę zespołu i jego rotację pod koszem.
+3.  **Werdykt:**
+    *   [⚠️ RYZYKOWNY]
+    *   **Uzasadnienie:** Mimo że Legia Warszawa jest faworytem i podjęła kroki w celu uzupełnienia składu po kontuzji Szymona Tomczaka (środkowy, wyłączony na około 3 miesiące), jego długa absencja, zwłaszcza na tak ważnej pozycji, oraz konieczność wdrożenia nowego zawodnika (Kuba Piśla) wprowadzają element niepewności. Wczesna faza sezonu (koniec września) często charakteryzuje się niestabilnością formy i zgrania zespołów, co potęguje ryzyko związane z istotnymi zmianami w rotacji.
