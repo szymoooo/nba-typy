@@ -1,11 +1,22 @@
---- AUDYT PLK LIVE (2026-09-22 15:03 CET) ---
-Analiza meczu PLK na dzień 2026-09-22:
+--- AUDYT PLK LIVE (2026-09-22 15:27 CET) ---
+=========================================================================
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-
+### ORLEN Zastal Zielona Góra
 1.  **Kluczowe braki w składach:**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 22.09.2026 r.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień 22.09.2026 r.
+    *   Brak istotnych braków w składzie koszykarskim dla ORLEN Zastal Zielona Góra, potwierdzonych na dzień 21 czerwca 2026 roku.
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** ✅ ZATWIERDZONY
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+
+### Legia Warszawa
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim dla Legii Warszawa, potwierdzonych na dzień 21 czerwca 2026 roku.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+
+---
+**Podsumowanie:**
+Brak jest potwierdzonych informacji o kluczowych brakach kadrowych (kontuzjach, zawieszeniach) dla obu drużyn na dzień 21 czerwca 2026 roku. Ze względu na brak danych dotyczących formy strzeleckiej oraz ewentualnego kontekstu meczu (np. faza rozgrywek, hala), typ jest uznawany za ryzykowny.
