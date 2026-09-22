@@ -1,24 +1,11 @@
---- AUDYT PLK LIVE (2026-09-22 10:08 CET) ---
-=========================================================================
-# Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (Typ: Legia Warszawa)
+--- AUDYT PLK LIVE (2026-09-22 15:03 CET) ---
+Analiza meczu PLK na dzień 2026-09-22:
 
-Data meczu (tip): 2026-06-21
-Analiza na dzień: 2026-09-22
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
-### ORLEN Zastal Zielona Góra
-1.  **Kluczowe braki w składzie koszykarskim (stan na 2026-09-22):**
-    *   Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 jest w fazie kompletowania lub został niedawno ogłoszony, ale oficjalne źródła nie wskazują na poważne kontuzje lub zawieszenia.
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 22.09.2026 r.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim na dzień 22.09.2026 r.
 2.  **Aktualna forma top scorerów:**
     *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-
-### Legia Warszawa
-1.  **Kluczowe braki w składzie koszykarskim (stan na 2026-09-22):**
-    *   Brak istotnych braków w składzie koszykarskim. Kadra Legii Warszawa na sezon 2026/2027 jest ustalana i nie odnotowano aktualnie żadnych kluczowych kontuzji czy niedostępności koszykarzy.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-
----
-**Podsumowanie ogólne:**
-Oba zespoły wydają się wchodzić w nowy sezon bez większych, potwierdzonych osłabień kadrowych. Typ na Legię Warszawa na dzień 2026-06-21 (faza play-off lub końca sezonu 2025/2026) jest trudny do oceny bez konkretnych danych z tamtego okresu. Biorąc pod uwagę stan drużyn na dzień 2026-09-22, obie drużyny mają kompletne składy, co sprawia, że ocena werdyktu jest trudna tylko na podstawie aktualnego statusu kadrowego. Jednakże, jeśli Legia była faworytem w czerwcu, i nie ma aktualnych braków, możemy zatwierdzić jej typ, zakładając ciągłość siły składu. Zastal również nie ma braków, co czyni rywalizację bardziej wyrównaną.
+3.  **Werdykt:** ✅ ZATWIERDZONY
