@@ -1,13 +1,9 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-21 19:44 ET) ---
-Na podstawie dostępnych danych z dnia 2026-09-21:
+--- KRYTYCZNY AUDYT LIVE (2026-09-21 21:13 ET) ---
+Heat @ Raptors -> Typ: Raptors
 
-**Heat @ Raptors -> Typ: Raptors**
-
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Dostępne raporty kontuzji z dnia 2026-09-21 wspominają o Jimmy'm Butlerze, który zerwał ACL w styczniu 2026 i jest "miesiące od powrotu na boisko NBA", ale jest to informacja nieistotna dla meczu Heat, ponieważ Butler gra obecnie dla Golden State Warriors.
-    *   Dla Toronto Raptors, raport z 2026-08-27 wskazywał na brak graczy na liście kontuzjowanych.
-    *   Biorąc pod uwagę datę 2026-09-21, jest to okres przedsezonowy dla NBA, co oznacza brak oficjalnych, regularnych raportów kontuzji meczowych.
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **Miami Heat:** Tyler Herro był przewidywany do opuszczenia początku sezonu NBA 2026 po zabiegu na lewej stopie we wrześniu 2025 roku, co czyni jego status na styczeń 2026 niepewnym. Jednakże, skład Heat na styczeń 2026 obejmuje znaczące wzmocnienia takie jak Giannis Antetokounmpo i Bobby Portis, pozyskanych w drodze wymian, a także Andrew Wigginsa, który skorzystał z opcji zawodnika.
+    *   **Toronto Raptors:** Brak aktualnych raportów (Injury Report) na tę chwilę wskazujących na kontuzje kluczowych graczy na dzień 2026-09-21. Skład Raptors na styczeń 2026 obejmuje między innymi Immanuela Quickleya, Jakoba Poeltla, Kawhi Leonarda, Scottie Barnesa, RJ Barretta i Brandona Ingrama.
 
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak potwierdzonych informacji o kluczowych brakach w składach na dzień 2026-09-21 uniemożliwia ocenę wpływu kontuzji na ten typ. Analiza na podstawie samych składów z początku 2026 roku (Raptors: Immanuel Quickley, RJ Barrett, Scottie Barnes, Jakob Poeltl; Heat: Giannis Antetokounmpo, Bobby Portis, Terry Rozier, Jaime Jaquez Jr.) nie daje wystarczających podstaw do zatwierdzenia lub odrzucenia typu w kontekście "dzisiejszych danych" dotyczących braków kadrowych.
+    *   Typowanie na Raptors jest ryzykowne ze względu na znaczące wzmocnienia w składzie Miami Heat (Giannis Antetokounmpo, Bobby Portis, Andrew Wiggins) przed styczniem 2026. Nawet przy potencjalnej absencji Tylera Herro na początku sezonu, Heat wydają się być znacznie silniejszą drużyną.
