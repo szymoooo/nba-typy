@@ -1,22 +1,16 @@
---- AUDYT PLK LIVE (2026-09-22 15:27 CET) ---
-=========================================================================
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
-
-### ORLEN Zastal Zielona Góra
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim dla ORLEN Zastal Zielona Góra, potwierdzonych na dzień 21 czerwca 2026 roku.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-
-### Legia Warszawa
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim dla Legii Warszawa, potwierdzonych na dzień 21 czerwca 2026 roku.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
+--- AUDYT PLK LIVE (2026-09-23 10:10 CET) ---
+Analiza meczu PLK (stan na 2026-09-23):
 
 ---
-**Podsumowanie:**
-Brak jest potwierdzonych informacji o kluczowych brakach kadrowych (kontuzjach, zawieszeniach) dla obu drużyn na dzień 21 czerwca 2026 roku. Ze względu na brak danych dotyczących formy strzeleckiej oraz ewentualnego kontekstu meczu (np. faza rozgrywek, hala), typ jest uznawany za ryzykowny.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
+
+1.  **Kluczowe braki w składach (koszykarskich):**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+
+2.  **Aktualna forma top scorerów:**
+    *   **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu na początek sezonu 2026/2027.
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu na początek sezonu 2026/2027.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Oba zespoły wydają się być w pełnych składach na początek sezonu 2026/2027. Brak informacji o bieżącej formie strzelców wynika z wczesnej fazy sezonu. Legia Warszawa, grająca u siebie, jest typowana na zwycięzcę.
