@@ -1,19 +1,16 @@
---- AUDYT PLK LIVE (2026-09-23 15:41 CET) ---
-Analiza meczu PLK na dzień 2026-09-23:
-
+--- AUDYT PLK LIVE (2026-09-23 20:20 CET) ---
 **ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
-    *   🏀 **Legia Warszawa:**
-        *   Szymon Tomczak (środkowy) – kontuzja skręcenia śródstopia z uszkodzeniem więzadeł, wykluczony na około 3 miesiące, nie pojawi się na parkiecie do końca roku.
-        *   Michael Christmas – opuścił skład drużyny (informacja z 22 września 2026).
-        *   Kuba Piśla (rzucający) – nowy zawodnik, podpisany na krótkoterminową umowę jako odpowiedź na kontuzję Tomczaka.
+    *   **Legia Warszawa:**
+        *   ❌ Szymon Tomczak (środkowy) - kontuzja (skręcenie śródstopia z uszkodzeniem więzadeł). Przewidywana przerwa około 3 miesięcy (do końca roku), kontuzja z 16.09.2026.
+        *   ❌ Michael Christmas (niski skrzydłowy) - Legia zrezygnowała z zawodnika 22.09.2026.
+        *   ✅ Kuba Piśla (rzucający obrońca) - dołączył do składu Legii 18.09.2026 jako reakcja na kontuzję Szymona Tomczaka.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-23. Informacje o kontuzjach Sagaby Konate, Filipa Matczaka i Jakuba Szumerta pochodzą z lutego 2026 i nie ma potwierdzenia ich aktualnej niedyspozycji na sezon 2026/2027.
 
 2.  **Aktualna forma top scorerów:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu na bieżący sezon 2026/2027. Sofascore wymienia Andy'ego Mazurczaka (7.60), Conleya Garrisona (7.28) i Jakuba Szumerta (7.27) jako czołowych graczy Zastalu w ogólnych statystykach.
-    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu na bieżący sezon 2026/2027 (dane z wyszukiwania dotyczyły głównie sekcji piłkarskiej).
+    *   Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Legia Warszawa zmaga się z poważnym osłabieniem na pozycji środkowego z powodu długoterminowej kontuzji Szymona Tomczaka. Mimo pozyskania Kuby Piśli, osłabienie na kluczowej pozycji może mieć wpływ na wynik meczu. ORLEN Zastal Zielona Góra, według dostępnych informacji, przystępuje do meczu w pełnym składzie.
+    *   Legia Warszawa zmaga się z poważną kontuzją kluczowego środkowego Szymona Tomczaka, który będzie wykluczony z gry przez około 3 miesiące. Dodatkowo, klub rozwiązał kontrakt z Michaelem Christmasem. Chociaż pozyskano Kubę Piślę, te zmiany w krótkim czasie mogą wpłynąć na stabilność i zgranie zespołu. Zastal Zielona Góra, bazując na dostępnych informacjach, przystępuje do meczu w pełnym składzie.
