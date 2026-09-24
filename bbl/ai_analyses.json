@@ -1,23 +1,54 @@
 {
-  "generated_at": "2026-09-20T13:08:13.231714",
-  "date": "2026-09-20",
+  "generated_at": "2026-09-24T07:50:01.724129",
+  "date": "2026-09-24",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "MHP RIESEN Ludwigsburg @ Ratiopharm Ulm",
-      "phase": "Regular Season - Matchday 1",
-      "ai_pick": "MHP RIESEN Ludwigsburg",
-      "formula_pick": "Ratiopharm Ulm",
-      "agreement": false,
-      "confidence": 6,
-      "reasoning": "MHP RIESEN Ludwigsburg rozpoczyna sezon z pozytywnym akcentem, po niedawnym zwycięstwie w Pucharze BBL, gdzie ich kluczowi gracze pokazali dobrą formę strzelecką. Ratiopharm Ulm, mimo przewagi własnego boiska, zakończyło poprzedni sezon z niekonsekwentnymi wynikami i odnotowało porażkę w ostatnim meczu towarzyskim przed sezonem.",
+      "matchup": "SKYLINERS Frankfurt @ ALBA BERLIN",
+      "phase": "Regular Season - Round 2",
+      "ai_pick": "ALBA BERLIN",
+      "formula_pick": "ALBA BERLIN",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "ALBA Berlin jest gospodarzem i rozpoczęła sezon BBL 2026/2027 od zwycięstwa 89-82 nad Niners Chemnitz. Historycznie ALBA ma znacznie lepszy bilans bezpośrednich spotkań ze Skyliners Frankfurt, wygrywając 8 z ostatnich 10 meczów, w tym ostatnie spotkanie 87-61 w kwietniu 2026. Mimo braku istotnych kontuzji u obu drużyn, ALBA dysponuje mocniejszym składem i doświadczeniem.",
       "key_factors": [
-        "Aktualna forma MHP RIESEN Ludwigsburg (zwycięstwo w Pucharze BBL)",
-        "Brak istotnych kontuzji u kluczowych graczy obu drużyn na dzisiaj",
-        "Niekonsekwentna forma Ratiopharm Ulm pod koniec poprzedniego sezonu i niedawna porażka w sparingu"
+        "Przewaga własnego parkietu dla ALBA Berlin",
+        "Wyraźnie lepszy bilans bezpośrednich spotkań (H2H) dla ALBA Berlin",
+        "Lepszy start ALBA Berlin w obecnym sezonie BBL (1-0)",
+        "Potwierdzona siła składu ALBA Berlin"
       ],
-      "injury_notes": "Brak istotnych braków"
+      "injury_notes": "Brak istotnych, aktualnie zgłoszonych kontuzji u obu drużyn na dzień 24.09.2026. Starsze doniesienia o kontuzjach (np. Martin Hermannsson dla ALBA w lutym 2026) są nieaktualne, a zawodnicy powinni być już zdrowi."
+    },
+    {
+      "matchup": "ROSTOCK SEAWOLVES @ MHP RIESEN Ludwigsburg",
+      "phase": "Regular Season - Round 2",
+      "ai_pick": "ROSTOCK SEAWOLVES",
+      "formula_pick": "MHP RIESEN Ludwigsburg",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Rostock Seawolves weszli w nowy sezon BBL z wysoką wygraną (102-92 przeciwko Phoenix Hagen), demonstrując dobrą formę i efektywną ofensywę. Pokonali również MHP RIESEN Ludwigsburg w ważnym meczu play-in pod koniec poprzedniego sezonu (91-71), co daje im psychologiczną przewagę, mimo że Ludwigsburg gra u siebie i historycznie ma pozytywny bilans 3:1 w meczach H2H na własnym parkiecie.",
+      "key_factors": [
+        "Lepsza aktualna forma Rostock Seawolves (1-0 w BBL 2026/27)",
+        "Wygrana Rostock Seawolves w ostatnim bezpośrednim meczu (Play-In 2025/26)",
+        "Przewaga własnego parkietu MHP RIESEN Ludwigsburg (3:1 H2H u siebie)"
+      ],
+      "injury_notes": "brak istotnych brakow"
+    },
+    {
+      "matchup": "BMA365 Bamberg Baskets @ RASTA Vechta",
+      "phase": "Regular Season - Round 2",
+      "ai_pick": "RASTA Vechta",
+      "formula_pick": "RASTA Vechta",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "RASTA Vechta wchodzi w ten mecz z doskonałą formą po wygraniu wszystkich czterech spotkań w kwalifikacjach Basketball Champions League. Z kolei BMA365 Bamberg Baskets rozpoczęło sezon BBL od znaczącej porażki 72-108 w swoim pierwszym meczu. Przewaga własnego boiska również faworyzuje RASTA Vechta w tej wczesnej fazie sezonu.",
+      "key_factors": [
+        "Doskonała forma RASTA Vechta w kwalifikacjach BCL (4-0)",
+        "Słaby start sezonu BBL dla BMA365 Bamberg Baskets (0-1 z wysoką porażką)",
+        "Przewaga własnego boiska RASTA Vechta"
+      ],
+      "injury_notes": "Brak istotnych informacji o kontuzjach dla obu drużyn na dzień 24.09.2026."
     }
   ]
 }

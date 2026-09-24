@@ -1,12 +1,14 @@
---- AUDYT PLK LIVE (2026-09-24 02:51 CET) ---
-Analiza meczu z dnia 2026-06-21 (Audyt na dzień 2026-09-24):
+--- AUDYT PLK LIVE (2026-09-24 09:47 CET) ---
+Analiza meczu PLK na dzień 2026-06-21 (ocena aktualna na 2026-09-24):
 
 ### ORLEN Zastal Zielona Góra @ Legia Warszawa
 
-*   **Typ z PulsBasketu**: Legia Warszawa
-
 1.  **Kluczowe braki w składach**:
-    *   🏀 **Legia Warszawa**: Szymon Tomczak (środkowy) – kontuzja skręcenia śródstopia z uszkodzeniem więzadeł. Przewidywana przerwa około 3 miesięcy, nie wróci na parkiet do końca 2026 roku.
-    *   🏀 **ORLEN Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim.
-2.  **Aktualna forma top scorerów**: Brak danych z API dla tego zespołu.
-3.  **Werdykt**: [⚠️ RYZYKOWNY] – Kontuzja Szymona Tomczaka w Legii Warszawa, aktualna na dzień 2026-09-24, osłabia drużynę na pozycji środkowego.
+    *   **ORLEN Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-09-24.
+    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-09-24.
+
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych z API PulsBasketu dla tego meczu.
+
+3.  **Werdykt**: [⚠️ RYZYKOWNY]
+    *   Brak aktualnych danych o formie strzeleckiej oraz historycznych informacji o kontuzjach z daty meczu (2026-06-21) uniemożliwia rzetelną ocenę tego typu. Analiza opiera się wyłącznie na braku zgłoszonych kontuzji na dzień dzisiejszy (2026-09-24) dla rozpoczętego sezonu 2026/2027.
