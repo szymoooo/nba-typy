@@ -1,14 +1,24 @@
---- AUDYT PLK LIVE (2026-09-24 09:47 CET) ---
-Analiza meczu PLK na dzień 2026-06-21 (ocena aktualna na 2026-09-24):
+--- AUDYT PLK LIVE (2026-09-24 15:05 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
+1.  **Kluczowe braki w składach:**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   ❌ **Sagaba Konate** (silny skrzydłowy/środkowy) – Kontuzja awulsyjna więzadła SL nadgarstka, wykluczony z gry do końca sezonu 2025/2026 od lutego 2026 r..
+        *   ⚠️ **Filip Matczak** (rozgrywający) – Odczuwał dolegliwości związane ze starą kontuzją w okolicach 6 czerwca 2026, był oszczędzany na treningach, ale oczekiwano jego występu w serii finałowej.
+        *   ⚠️ **Dwight Wilson III** (środkowy) – Odczuwał skutki urazu kostki w okolicach 6 czerwca 2026, ale uczestniczył w treningach.
+    *   **Legia Warszawa:**
+        *   Brak istotnych braków w składzie koszykarskim. Informacje o kontuzjach Szymona Tomczaka (wrzesień 2026) oraz kontuzjach piłkarzy (Paweł Wszołek, Arkadiusz Reca, Kamil Piątkowski, Ruben Vinagre) są nieistotne dla tego meczu koszykówki.
 
-1.  **Kluczowe braki w składach**:
-    *   **ORLEN Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-09-24.
-    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-09-24.
+2.  **Aktualna forma top scorerów:**
+    *   **Legia Warszawa (sezon 2025/2026):** Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz), Jayvon Graves (12.8 Pkt/mecz).
+    *   **ORLEN Zastal Zielona Góra (sezon 2025/2026):** Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz), Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   **Top scorerzy meczu 2026-06-21:**
+        *   Andrzej Pluta (Legia Warszawa) – 15 Pkt
+        *   Race Thompson (Legia Warszawa) – 11 Pkt
+        *   Dominic Brewton III (Legia Warszawa) – 11 Pkt
+        *   Shane Hunter (Legia Warszawa) – 10 Pkt
+        *   Andrzej Mazurczak (ORLEN Zastal Zielona Góra) – 10 Pkt
 
-2.  **Aktualna forma top scorerów**:
-    *   Brak danych z API PulsBasketu dla tego meczu.
+3.  **Werdykt:** ✅ ZATWIERDZONY
 
-3.  **Werdykt**: [⚠️ RYZYKOWNY]
-    *   Brak aktualnych danych o formie strzeleckiej oraz historycznych informacji o kontuzjach z daty meczu (2026-06-21) uniemożliwia rzetelną ocenę tego typu. Analiza opiera się wyłącznie na braku zgłoszonych kontuzji na dzień dzisiejszy (2026-09-24) dla rozpoczętego sezonu 2026/2027.
+    *   **Uzasadnienie:** Legia Warszawa, będąca gospodarzem 7. meczu finału PLK sezonu 2025/2026, zagrała w tym decydującym spotkaniu bez znaczących osłabień w składzie koszykarskim. ORLEN Zastal Zielona Góra był osłabiony brakiem Sagaby Konate, który doznał kontuzji wykluczającej go z gry do końca sezonu już w lutym 2026 roku. Dodatkowo, Filip Matczak i Dwight Wilson III z Zastalu zmagali się z drobnymi urazami, co mogło wpływać na ich pełną dyspozycję, mimo że wystąpili w meczu. Legia Warszawa zakończyła sezon zasadniczy na pierwszej pozycji i ostatecznie zdobyła mistrzostwo Polski, pokonując Zastal w tym spotkaniu. Przewaga własnego parkietu w decydującym meczu serii finałowej oraz poważna kontuzja kluczowego gracza rywala uzasadniają typ na Legię Warszawa.
