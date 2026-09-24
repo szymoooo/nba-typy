@@ -1,24 +1,39 @@
 {
-  "generated_at": "2026-09-24T13:06:58.488675",
+  "generated_at": "2026-09-24T13:11:40.112255",
   "date": "2026-09-24",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "SKYLINERS @ ALBA BERLIN",
-      "phase": "Regular Season - 2nd Matchday",
-      "ai_pick": "ALBA BERLIN",
-      "formula_pick": "ALBA BERLIN",
-      "agreement": true,
-      "confidence": 9,
-      "reasoning": "ALBA BERLIN rozpoczela sezon BBL 2026/27 od zwycięstwa, kontynuując dobrą formę z poprzedniego sezonu, w którym zdobyła mistrzostwo. Drużyna dominuje w bezpośrednich starciach ze SKYLINERS, wygrywając ostatnie dziesięć spotkań. SKYLINERS zakończyli poprzedni sezon ligowy czterema porażkami, a ich jedyne tegoroczne zwycięstwo to mecz pucharowy.",
+      "matchup": "ROSTOCK SEAWOLVES @ MHP RIESEN Ludwigsburg",
+      "phase": "Regular Season",
+      "ai_pick": "ROSTOCK SEAWOLVES",
+      "formula_pick": "MHP RIESEN Ludwigsburg",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "ROSTOCK SEAWOLVES wykazują znacznie lepszą formę, wygrywając swój pierwszy mecz sezonu 2026/2027 oraz cztery z pięciu ostatnich spotkań BBL, wliczając w to zwycięstwo nad MHP RIESEN Ludwigsburg w zeszłorocznych playoffach. MHP RIESEN Ludwigsburg rozpoczęli obecny sezon od porażki i mają słabą passę pięciu kolejnych przegranych meczów BBL z poprzedniego sezonu.",
       "key_factors": [
-        "Dominujący bilans H2H (10 ostatnich zwycięstw ALBA BERLIN).",
-        "Lepsza forma ALBA BERLIN (zwycięstwo w 1. kolejce BBL 2026/27 i tytuł mistrza w 2025/26).",
-        "Przewaga własnego parkietu dla ALBA BERLIN.",
-        "Topowi gracze ALBA BERLIN (Jordan Ford, Justin Bean, Martin Hermannsson) w dobrej formie."
+        "Lepsza forma ROSTOCK SEAWOLVES (4-1 vs 0-5 w ostatnich 5 meczach BBL/Playoff).",
+        "Dodatni bilans ROSTOCK SEAWOLVES w meczach bezpośrednich (H2H 6-3) i zwycięstwo w ostatnim starciu playoff.",
+        "Pomyślny start sezonu 2026/2027 dla ROSTOCK SEAWOLVES (1-0), w porównaniu do porażki MHP RIESEN Ludwigsburg (0-1)."
       ],
-      "injury_notes": "Brak istotnych braków po stronie obu drużyn."
+      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 2026-09-24."
+    },
+    {
+      "matchup": "BMA365 Bamberg Baskets @ RASTA Vechta",
+      "phase": "Regular Season",
+      "ai_pick": "RASTA Vechta",
+      "formula_pick": "RASTA Vechta",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "RASTA Vechta gra na własnym parkiecie i wchodzi w sezon BBL z pozytywnym impetem po wygranych w kwalifikacjach do Ligi Mistrzów. BMA365 Bamberg Baskets zanotowało bardzo słaby start w nowym sezonie BBL, przegrywając swój pierwszy mecz wysoką różnicą punktów. Dodatkowo, RASTA Vechta wygrała ostatnie bezpośrednie spotkanie tych drużyn w poprzednim sezonie BBL.",
+      "key_factors": [
+        "Przewaga własnego parkietu RASTA Vechta",
+        "Lepsza aktualna forma RASTA Vechta (wygrane w kwalifikacjach BCL)",
+        "Słaby start sezonu BBL BMA365 Bamberg Baskets (poraźka 72-108)",
+        "Poprzednie zwycięstwo RASTA Vechta w H2H"
+      ],
+      "injury_notes": "brak istotnych braków"
     }
   ]
 }
