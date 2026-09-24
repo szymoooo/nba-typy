@@ -1,5 +1,9 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-23 19:59 ET) ---
+--- KRYTYCZNY AUDYT LIVE (2026-09-23 20:50 ET) ---
+Na podstawie danych z 23 września 2026 roku, oto analiza Twojego typu:
+
 **Heat @ Raptors**
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. Sezon NBA 2026-2027 jeszcze się nie rozpoczął, a na dzień 23.09.2026 nie ma zaplanowanych meczów ligowych.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Typ jest ryzykowny, ponieważ nie ma aktualnych informacji o kontuzjach ani potwierdzonego meczu między tymi drużynami w dniu 23.09.2026, co uniemożliwia ocenę składów na rzeczywiste spotkanie.
+*   **Kluczowe braki w składach (2026-09-23):**
+    *   **Miami Heat:** Jimmy Butler (ACL) – długoterminowa kontuzja, raportowana jako aktywna w ramach statusu kontuzji na 23 września 2026 r..
+    *   **Toronto Raptors:** Brak aktualnych raportów (Injury Report) w formacie 'Out', 'Questionable', 'GTD' na 23 września 2026 r.. Skład Raptors w styczniu 2026 r. obejmował kluczowych graczy takich jak Kawhi Leonard, Brandon Ingram, Scottie Barnes i Immanuel Quickley.
+*   **Werdykt:** [✅ ZATWIERDZONY] (Absencja kluczowego gracza Miami Heat, Jimmy'ego Butlera, znacznie osłabia drużynę. Przy braku zgłoszonych kontuzji dla Raptors na tę chwilę, ich typ jest uzasadniony).
