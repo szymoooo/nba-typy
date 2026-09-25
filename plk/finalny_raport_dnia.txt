@@ -1,39 +1,21 @@
---- AUDYT PLK LIVE (2026-09-24 23:44 CET) ---
-Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu w kontekście: 2026-06-21)
+--- AUDYT PLK LIVE (2026-09-25 03:32 CET) ---
+Analiza meczu PLK (data analizy: 2026-09-25):
 
-*   Dzisiejsza data analizy to 2026-09-24. Sezon PLK 2026/2027 rozpoczyna się 2 października 2026 roku. W dniach 26-27 września 2026 roku odbędzie się turniej o Superpuchar Polski, w którym wezmą udział oba analizowane zespoły.
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
----
+1.  **Kluczowe braki w składach (stan na czerwiec 2026):**
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim potwierdzonych na czerwiec 2026.
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim potwierdzonych na czerwiec 2026.
 
-**Legia Warszawa** 🏀
+2.  **Aktualna forma top scorerów (sezon 2025/2026, dane przybliżone do czerwca 2026):**
+    *   **ORLEN Zastal Zielona Góra:**
+        *   Zastal zakończył sezon 2025/2026 na 16. miejscu w tabeli PLK.
+        *   Wiodącymi strzelcami w sezonie 2025/2026 dla Zastalu Zielona Góra byli Michal Pluta (średnio 14.3 punktu na mecz) i A.J. English (średnio 14.2 punktu na mecz).
+    *   **Legia Warszawa:**
+        *   Legia Warszawa zakończyła sezon 2025/2026 na 6. miejscu w tabeli PLK i awansowała do fazy play-off.
+        *   Wiodącymi strzelcami w sezonie 2025/2026 dla Legii Warszawa byli Christian Vital (średnio 19.3 punktu na mecz) i Aric Holman (średnio 14.1 punktu na mecz).
 
-1.  **Kluczowe braki w składach:**
-    *   Szymon Tomczak (środkowy) jest kontuzjowany – doznał skręcenia śródstopia z uszkodzeniem więzadeł. Czeka go około 3 miesięcy przerwy w treningach i nie pojawi się na parkiecie do końca roku. Klub jest zmuszony szukać zastępstwa na tę pozycję.
-    *   Brak innych istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-09-24.
-
-2.  **Aktualna forma top scorerów:**
-    *   Sezon 2026/2027 jeszcze się nie rozpoczął, więc brak danych o aktualnej formie strzeleckiej.
-    *   Legia Warszawa jest aktualnym mistrzem Polski.
-    *   Michał Kolenda jest kapitanem zespołu na sezon 2026/2027.
-    *   W składzie Legii na sezon 2026/2027 znajdują się m.in. Kristers Zoriks, Błażej Czapla, Arguster Daniels IV, Wojciech Tomaszewski, Jakub Andrzejewski, Mathieu Wojciechowski, Wojciech Jasiewicz.
-
----
-
-**ORLEN Zastal Zielona Góra** 🏀
-
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-09-24. Wcześniejsze kontuzje (np. Sagaba Konate, Filip Matczak, Jakub Szumert z lutego/czerwca 2026) nie są obecnie (2026-09-24) raportowane jako aktywne braki, a Filip Matczak jest wymieniony w obecnym składzie.
-
-2.  **Aktualna forma top scorerów:**
-    *   Sezon 2026/2027 jeszcze się nie rozpoczął, więc brak danych o aktualnej formie strzeleckiej.
-    *   Zastal Zielona Góra zajął drugie miejsce w poprzednim sezonie.
-    *   W składzie Zastalu na sezon 2026/2027 znajdują się m.in. Andrzej Mazurczak, Jakub Galewski, Conley Garrison, Filip Matczak, Miłosz Majewski, Gauthier Denis, Trazarien White, Tay Solomon.
-    *   Gauthier Denis i Trazarien White to nowi zawodnicy Zastalu, którzy mogą być kluczowi ofensywnie.
-
----
-
-**Werdykt dla typu: Legia Warszawa**
-
-*   Ze względu na długotrwałą kontuzję kluczowego środkowego Szymona Tomczaka w Legii Warszawa, która wyklucza go z gry na okres około 3 miesięcy (stan na 2026-09-24), typ na Legię Warszawa jest obarczony podwyższonym ryzykiem, jeśli mecz miałby się odbyć w obecnej dacie. Brak możliwości znalezienia danych o aktualnej formie strzeleckiej (sezon jeszcze się nie rozpoczął) dodatkowo utrudnia pełną ocenę.
-
-[⚠️ RYZYKOWNY]
+3.  **Werdykt:**
+    *   [✅ ZATWIERDZONY]
+    *   Legia Warszawa jako zespół, który zakończył sezon 2025/2026 znacznie wyżej w tabeli PLK (6. miejsce vs 16. miejsce Zastalu Zielona Góra), z silniejszymi indywidualnościami strzeleckimi i bez odnotowanych kluczowych kontuzji w czerwcu 2026, była faworytem spotkania.
