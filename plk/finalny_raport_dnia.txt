@@ -1,15 +1,13 @@
---- AUDYT PLK LIVE (2026-09-25 10:26 CET) ---
-Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21):
+--- AUDYT PLK LIVE (2026-09-25 15:14 CET) ---
+Dla meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (typ: Legia Warszawa):
 
-1.  **Kluczowe braki w składach** 🤕:
-    *   **ORLEN Zastal Zielona Góra**: Sagaba Konate był wykluczony z gry do końca sezonu z powodu kontuzji nadgarstka, której doznał w lutym 2026 roku. Phil Fayne był dostępny po powrocie z kontuzji przed finałami.
-    *   **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim Legii Warszawa na dzień 2026-06-21. Informacje o kontuzjach Szymona Tomczaka dotyczą sezonu 2026/2027, a Filipa Maciejewskiego są zbyt odległe w czasie.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł 16 września 2026 roku i będzie wykluczony z gry na około 3 miesiące, czyli do końca roku. W reakcji na tę kontuzję Legia podpisała krótkoterminową umowę z rzucającym Kubą Piślą.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-09-25. Kontuzja Sagaby Konate z poprzedniego sezonu (luty 2026) zakończyła jego występy w sezonie 2025/2026, brak aktualnych informacji o jego statusie na sezon 2026/2027.
 
-2.  **Aktualna forma top scorerów** 🔥:
-    *   **Legia Warszawa**: Andrzej Pluta został MVP finałów. W siódmym meczu finału zdobył 15 punktów. Dominic Brewton III zdobył 11 punktów w siódmym meczu oraz 14 punktów w szóstym meczu. Jayvon Graves notował średnio 12.8 punktu na mecz w sezonie.
-    *   **ORLEN Zastal Zielona Góra**: W siódmym meczu finału Andrzej Mazurczak zdobył 10 punktów. W szóstym meczu Chavaughn Lewis zdobył 18 punktów, Conley Garrison 17 punktów, a Andrzej Mazurczak 15 punktów.
+2.  **Aktualna forma top scorerów:**
+    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu. Legia Warszawa obroniła tytuł Mistrza Polski w sezonie 2025/2026, pokonując w finale Zastal Zielona Góra. Michał Kolenda jest kapitanem zespołu.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu. W sezonie 2025/2026 czołowymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
 
-3.  **Werdykt**: ✅ ZATWIERDZONY
-    *   Mecz był decydującym, siódmym spotkaniem finałowym Orlen Basket Ligi, w którym Legia Warszawa grała u siebie i obroniła tytuł mistrza Polski. Przewaga własnego parkietu w takim spotkaniu jest kluczowa.
-    *   Brak Sagaby Konate po stronie Zastalu stanowił osłabienie dla zespołu z Zielonej Góry.
-    *   Legia miała w składzie MVP finałów, Andrzeja Plutę, co wskazuje na jego znakomitą formę i wpływ na grę zespołu.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ jest ryzykowny ze względu na potwierdzoną kontuzję Szymona Tomczaka, kluczowego środkowego Legii, który będzie pauzował przez około 3 miesiące. Mimo pozyskania Kuby Piśli, nie jest to bezpośrednie zastępstwo na pozycji centra, co może wpłynąć na głębię składu pod koszem. Legia to mistrz Polski z poprzedniego sezonu, co świadczy o sile zespołu, ale absencja ważnego gracza na początku sezonu (który inauguruje się Superpucharem w tych dniach) jest znaczącym osłabieniem.
