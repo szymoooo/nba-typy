@@ -1,47 +1,68 @@
 {
-  "generated_at": "2026-09-25T02:57:08.304690",
+  "generated_at": "2026-09-25T08:28:47.241642",
   "date": "2026-09-25",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Telekom Baskets Bonn @ VET-CONCEPT Gladiators Trier",
-      "phase": "Hauptrunde",
-      "ai_pick": "Telekom Baskets Bonn",
-      "formula_pick": "VET-CONCEPT Gladiators Trier",
+      "matchup": "ratiopharm ulm @ Phoenix Hagen",
+      "phase": "Regular Season",
+      "ai_pick": "ratiopharm ulm",
+      "formula_pick": "Phoenix Hagen",
       "agreement": false,
-      "confidence": 7,
-      "reasoning": "Telekom Baskets Bonn rozpoczęło sezon BBL z przekonującym zwycięstwem 96-72 nad Veolia Towers Hamburg, pokazując dobrą formę ofensywną i obronną. VET-CONCEPT Gladiators Trier, pomimo awansu do BBL, doznało porażki 107-116 w swoim pierwszym meczu z Basketball Löwen Braunschweig, co wskazuje na słabości defensywne. Chociaż Trier gra u siebie, mocniejszy start sezonu Bonn i indywidualne występy ich liderów czynią ich faworytem.",
+      "confidence": 8,
+      "reasoning": "Ratiopharm ulm rozpoczęło sezon BBL 2026/27 od zwycięstwa, a kluczowi gracze Michael Rataj i Simisola Shittu zaprezentowali dobrą formę. Phoenix Hagen, jako beniaminek ligi, zanotowało porażkę w swoim pierwszym meczu BBL, co wskazuje na różnicę w sile i doświadczeniu obu drużyn, pomimo przewagi własnego parkietu Phoenix Hagen.",
       "key_factors": [
-        "Lepsza forma początkowa sezonu Telekom Baskets Bonn (1-0 w BBL).",
-        "Wyraźne zwycięstwo Bonn w pierwszym meczu i wysoka skuteczność liderów.",
-        "Wysoka liczba straconych punktów przez VET-CONCEPT Gladiators Trier w meczu otwarcia (116 pkt)."
+        "Lepsza forma początkowa ratiopharm ulm (1-0 w BBL)",
+        "ratiopharm ulm to doświadczony zespół BBL i uczestnik EuroCup, Phoenix Hagen jest beniaminkiem",
+        "Wyraźna postawa liderów ratiopharm ulm (Rataj, Shittu) w pierwszym meczu"
       ],
       "injury_notes": "brak istotnych braków"
     },
     {
-      "matchup": "ratiopharm ulm @ Phoenix Hagen",
-      "ai_pick": null,
-      "formula_pick": "Phoenix Hagen",
-      "note": "AI fallback"
-    },
-    {
       "matchup": "Science City Jena @ SYNTAINICS MBC",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "SYNTAINICS MBC",
       "formula_pick": "SYNTAINICS MBC",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "SYNTAINICS MBC gra u siebie i ma lepszy bilans bezpośrednich spotkań z Science City Jena (3-2 w ostatnich pięciu meczach, włączając w to ostatnie zwycięstwo 108-84). Science City Jena będzie osłabione brakiem kontuzjowanego Robina Christena, co jest istotnym osłabieniem na początku sezonu BBL. Obie drużyny rozpoczęły sezon 2026/27 od porażki w swoich pierwszych meczach ligowych.",
+      "key_factors": [
+        "Kontuzja kluczowego gracza Science City Jena (Robin Christen)",
+        "Przewaga własnego parkietu dla SYNTAINICS MBC",
+        "Historycznie lepszy bilans H2H dla SYNTAINICS MBC w ostatnich meczach"
+      ],
+      "injury_notes": "Science City Jena: Robin Christen (niski skrzydłowy/silny skrzydłowy) jest kontuzjowany (problemy z kolanem) i ma pauzować do połowy października 2026 roku. Science City Jena podpisało Christiana Skladanowskiego, aby skompensować jego brak. SYNTAINICS MBC: brak istotnych braków."
     },
     {
       "matchup": "EWE Baskets Oldenburg @ Fitness First Würzburg Baskets",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Fitness First Würzburg Baskets",
       "formula_pick": "Fitness First Würzburg Baskets",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Fitness First Würzburg Baskets grają u siebie, a w poprzednim sezonie BBL dwukrotnie pokonali EWE Baskets Oldenburg w meczach ligowych. EWE Baskets Oldenburg boryka się z kontuzją kluczowego rozgrywającego Le'Tre Dartharda, który opuści początek sezonu, mimo pozyskania Stefana Momirova jako zastępstwa. Chociaż Oldenburg ma już na koncie jedno zwycięstwo w nowym sezonie, Würzburg, mimo że rozpoczyna sezon, ma solidnego trenera i historycznie był silnym zespołem.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla Würzburga",
+        "Historia H2H w BBL (sezon 2025/26) na korzyść Würzburga",
+        "Kontuzja kluczowego gracza EWE Baskets Oldenburg (Le'Tre Darthard)"
+      ],
+      "injury_notes": "EWE Baskets Oldenburg gra bez kontuzjowanego amerykańskiego rozgrywającego Le'Tre Dartharda, który jest zmuszony opuścić początkową część sezonu. Klub pozyskał Stefana Momirova jako zastępstwo. Fitness First Würzburg Baskets nie zgłasza istotnych braków kadrowych na dzień 2026-09-25."
     },
     {
       "matchup": "NINERS Chemnitz @ Veolia Towers Hamburg",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "NINERS Chemnitz",
       "formula_pick": "Veolia Towers Hamburg",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 6,
+      "reasoning": "Obie drużyny przegrały swoje pierwsze mecze w sezonie 2026/27, ale NINERS Chemnitz zanotowali bardziej wyrównaną porażkę z aktualnymi mistrzami, Alba Berlin. Historyczne bezpośrednie starcia również faworyzują Chemnitz, którzy wygrali 8 z ostatnich 10 meczów. Mimo przewagi własnego parkietu Veolia Towers Hamburg, Chemnitz wydaje się być silniejszym zespołem z lepszymi występami kluczowych graczy w pierwszym meczu.",
+      "key_factors": [
+        "Lepsza postawa NINERS Chemnitz w meczu otwarcia sezonu (bardziej wyrównana porażka z silniejszym rywalem).",
+        "Historyczny bilans H2H (8 z 10 zwycięstw dla NINERS Chemnitz).",
+        "Brak istotnych kontuzji u kluczowych graczy obu drużyn na dzień meczu."
+      ],
+      "injury_notes": "Brak istotnych, potwierdzonych kontuzji dla kluczowych graczy obu drużyn na dzień 25 września 2026 r."
     }
   ]
 }
