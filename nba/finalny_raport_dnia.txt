@@ -1,9 +1,8 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-25 16:11 ET) ---
-Rozumiem, że interesują Cię dane dotyczące stycznia 2026, jednak zgodnie z zasadami, muszę bazować na "DZISIEJSZYCH danych z sieci (2026-09-25)" dotyczących kontuzji. Z natury rzeczy, aktualne raporty kontuzji z 25 września 2026 roku odnoszą się do zbliżającego się sezonu 2026-2027, a nie do meczów rozegranych w styczniu 2026 roku.
-
-Brak aktualnych raportów (Injury Report) na tę chwilę, które odnosiłyby się do kontuzji z meczu rozegranego w styczniu 2026 roku. Dostępne raporty kontuzji z dzisiaj (2026-09-25) dotyczą przygotowań do sezonu 2026-2027 i nie wskazują na żadne kluczowe braki w składach Miami Heat ani Toronto Raptors w kontekście przeszłych meczów.
-
+--- KRYTYCZNY AUDYT LIVE (2026-09-25 17:45 ET) ---
 Heat @ Raptors -> Typ: Raptors
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak możliwości oceny typów na podstawie aktualnych informacji o kontuzjach dla meczu w styczniu 2026. Składy na sezon 2026-2027 wyglądają obiecująco dla obu drużyn, z Heat pozyskującymi Giannisa Antetokounmpo i Klay'a Thompsona oraz Raptors wzmacniającymi się m.in. Kawhim Leonardem i Kylem Andersonem. Bez danych o kontuzjach z tamtego okresu, ocena jest czysto spekulacyjna.
+- Kluczowe braki w składach:
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla 2026-09-25. Odnalezione raporty wskazują na "No injuries to report" dla obu drużyn na ten dzień. Informacje o Jakobie Poeltlu (Raptors) z 25 września 2026 wspominają o jego powrocie do zdrowia po kontuzji pleców w poprzednim sezonie, ale jego obecny status to "looks good", bez statusu 'Out', 'Questionable', 'GTD'. W przypadku Miami Heat, doniesienia o kontuzjach Giannisa Antetokounmpo (kolano) i Bama Adebayo (plecy) to ogólne uwagi dotyczące przygotowań do sezonu 2026-27 lub letniej ligi, a nie statusy na dzień 25 września 2026.
+
+- Werdykt: [⚠️ RYZYKOWNY]
+    *   Bazując na kontekście składów ze stycznia 2026 i informacji o planowanych składach na sezon 2026-27, Miami Heat wydaje się mieć znacznie wzmocniony skład, obejmujący takie nazwiska jak Giannis Antetokounmpo, Klay Thompson i Andrew Wiggins, obok Bama Adebayo. Toronto Raptors, choć posiadają solidny skład z graczami takimi jak Immanuel Quickley, Scottie Barnes i Jakob Poeltl, mogą mieć trudności w rywalizacji z tak silnym personalnie Heat.
