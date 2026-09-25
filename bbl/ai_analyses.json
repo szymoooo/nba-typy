@@ -1,39 +1,47 @@
 {
-  "generated_at": "2026-09-24T13:11:40.112255",
-  "date": "2026-09-24",
+  "generated_at": "2026-09-25T02:57:08.304690",
+  "date": "2026-09-25",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "ROSTOCK SEAWOLVES @ MHP RIESEN Ludwigsburg",
-      "phase": "Regular Season",
-      "ai_pick": "ROSTOCK SEAWOLVES",
-      "formula_pick": "MHP RIESEN Ludwigsburg",
+      "matchup": "Telekom Baskets Bonn @ VET-CONCEPT Gladiators Trier",
+      "phase": "Hauptrunde",
+      "ai_pick": "Telekom Baskets Bonn",
+      "formula_pick": "VET-CONCEPT Gladiators Trier",
       "agreement": false,
       "confidence": 7,
-      "reasoning": "ROSTOCK SEAWOLVES wykazują znacznie lepszą formę, wygrywając swój pierwszy mecz sezonu 2026/2027 oraz cztery z pięciu ostatnich spotkań BBL, wliczając w to zwycięstwo nad MHP RIESEN Ludwigsburg w zeszłorocznych playoffach. MHP RIESEN Ludwigsburg rozpoczęli obecny sezon od porażki i mają słabą passę pięciu kolejnych przegranych meczów BBL z poprzedniego sezonu.",
+      "reasoning": "Telekom Baskets Bonn rozpoczęło sezon BBL z przekonującym zwycięstwem 96-72 nad Veolia Towers Hamburg, pokazując dobrą formę ofensywną i obronną. VET-CONCEPT Gladiators Trier, pomimo awansu do BBL, doznało porażki 107-116 w swoim pierwszym meczu z Basketball Löwen Braunschweig, co wskazuje na słabości defensywne. Chociaż Trier gra u siebie, mocniejszy start sezonu Bonn i indywidualne występy ich liderów czynią ich faworytem.",
       "key_factors": [
-        "Lepsza forma ROSTOCK SEAWOLVES (4-1 vs 0-5 w ostatnich 5 meczach BBL/Playoff).",
-        "Dodatni bilans ROSTOCK SEAWOLVES w meczach bezpośrednich (H2H 6-3) i zwycięstwo w ostatnim starciu playoff.",
-        "Pomyślny start sezonu 2026/2027 dla ROSTOCK SEAWOLVES (1-0), w porównaniu do porażki MHP RIESEN Ludwigsburg (0-1)."
-      ],
-      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 2026-09-24."
-    },
-    {
-      "matchup": "BMA365 Bamberg Baskets @ RASTA Vechta",
-      "phase": "Regular Season",
-      "ai_pick": "RASTA Vechta",
-      "formula_pick": "RASTA Vechta",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "RASTA Vechta gra na własnym parkiecie i wchodzi w sezon BBL z pozytywnym impetem po wygranych w kwalifikacjach do Ligi Mistrzów. BMA365 Bamberg Baskets zanotowało bardzo słaby start w nowym sezonie BBL, przegrywając swój pierwszy mecz wysoką różnicą punktów. Dodatkowo, RASTA Vechta wygrała ostatnie bezpośrednie spotkanie tych drużyn w poprzednim sezonie BBL.",
-      "key_factors": [
-        "Przewaga własnego parkietu RASTA Vechta",
-        "Lepsza aktualna forma RASTA Vechta (wygrane w kwalifikacjach BCL)",
-        "Słaby start sezonu BBL BMA365 Bamberg Baskets (poraźka 72-108)",
-        "Poprzednie zwycięstwo RASTA Vechta w H2H"
+        "Lepsza forma początkowa sezonu Telekom Baskets Bonn (1-0 w BBL).",
+        "Wyraźne zwycięstwo Bonn w pierwszym meczu i wysoka skuteczność liderów.",
+        "Wysoka liczba straconych punktów przez VET-CONCEPT Gladiators Trier w meczu otwarcia (116 pkt)."
       ],
       "injury_notes": "brak istotnych braków"
+    },
+    {
+      "matchup": "ratiopharm ulm @ Phoenix Hagen",
+      "ai_pick": null,
+      "formula_pick": "Phoenix Hagen",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Science City Jena @ SYNTAINICS MBC",
+      "ai_pick": null,
+      "formula_pick": "SYNTAINICS MBC",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "EWE Baskets Oldenburg @ Fitness First Würzburg Baskets",
+      "ai_pick": null,
+      "formula_pick": "Fitness First Würzburg Baskets",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "NINERS Chemnitz @ Veolia Towers Hamburg",
+      "ai_pick": null,
+      "formula_pick": "Veolia Towers Hamburg",
+      "note": "AI fallback"
     }
   ]
 }

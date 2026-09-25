@@ -1,21 +1,30 @@
---- AUDYT PLK LIVE (2026-09-25 03:32 CET) ---
-Analiza meczu PLK (data analizy: 2026-09-25):
+--- AUDYT PLK LIVE (2026-09-25 04:53 CET) ---
+Poniżej przedstawiam analizę meczu ORLEN Zastal Zielona Góra @ Legia Warszawa z dnia 2026-06-21:
 
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+**ORLEN Zastal Zielona Góra @ Legia Warszawa**
 
-1.  **Kluczowe braki w składach (stan na czerwiec 2026):**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim potwierdzonych na czerwiec 2026.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim potwierdzonych na czerwiec 2026.
-
-2.  **Aktualna forma top scorerów (sezon 2025/2026, dane przybliżone do czerwca 2026):**
+1.  **Kluczowe braki w składach:**
     *   **ORLEN Zastal Zielona Góra:**
-        *   Zastal zakończył sezon 2025/2026 na 16. miejscu w tabeli PLK.
-        *   Wiodącymi strzelcami w sezonie 2025/2026 dla Zastalu Zielona Góra byli Michal Pluta (średnio 14.3 punktu na mecz) i A.J. English (średnio 14.2 punktu na mecz).
-    *   **Legia Warszawa:**
-        *   Legia Warszawa zakończyła sezon 2025/2026 na 6. miejscu w tabeli PLK i awansowała do fazy play-off.
-        *   Wiodącymi strzelcami w sezonie 2025/2026 dla Legii Warszawa byli Christian Vital (średnio 19.3 punktu na mecz) i Aric Holman (średnio 14.1 punktu na mecz).
+        *   ❌ **Sagaba Konate:** Kontuzja awulsyjna więzadła SL nadgarstka, wykluczony z gry do końca sezonu od lutego 2026.
+        *   ⚠️ **Filip Matczak:** Zgłaszał dolegliwości związane ze starą kontuzją nosa przed serią finałową (na początku czerwca 2026) i doznał urazu nosa w meczu nr 1 serii, jednak występował w meczu nr 7.
+        *   ✅ **Phil Fayne:** Powrócił do zespołu na serię finałową po sprawach rodzinnych w USA (stan na 6 czerwca 2026).
+        *   ✅ **Dwight Wilson:** Odczuwał skutki urazu kostki, ale trenował normalnie (stan na 6 czerwca 2026).
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
 
-3.  **Werdykt:**
-    *   [✅ ZATWIERDZONY]
-    *   Legia Warszawa jako zespół, który zakończył sezon 2025/2026 znacznie wyżej w tabeli PLK (6. miejsce vs 16. miejsce Zastalu Zielona Góra), z silniejszymi indywidualnościami strzeleckimi i bez odnotowanych kluczowych kontuzji w czerwcu 2026, była faworytem spotkania.
+2.  **Aktualna forma top scorerów (dla meczu 2026-06-21):**
+    *   **Legia Warszawa:**
+        *   **Andrzej Pluta:** 15 punktów w tym meczu. Został uznany MVP finałów, co świadczy o jego doskonałej formie przez całą serię.
+        *   **Race Thompson:** 11 punktów.
+        *   **Dominic Brewton III:** 11 punktów.
+        *   **Shane Hunter:** 10 punktów.
+    *   **ORLEN Zastal Zielona Góra:**
+        *   **Andrzej Mazurczak:** 10 punktów w tym meczu.
+    *   Brak danych z API PulsBasketu dla top scorerów w serii, ale powyższe dane dotyczą decydującego meczu.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz był decydującym, siódmym spotkaniem finałowej serii Orlen Basket Ligi, co zwiększa wagę przewagi własnego parkietu.
+    *   Legia Warszawa grała u siebie w Warszawie (Hala OSiR Bemowo), co było dla nich znaczącym atutem w tak ważnym meczu.
+    *   Legia obroniła tytuł Mistrza Polski, zdobywając dziewiąte mistrzostwo w historii klubu, co wskazuje na stabilną i mistrzowską formę zespołu.
+    *   Zastal borykał się z poważną kontuzją Sagaby Konate, wykluczonego do końca sezonu, co osłabiało ich siłę pod koszem. Inni kluczowi gracze jak Matczak i Wilson mieli drobne problemy zdrowotne przed serią.
+    *   Andrzej Pluta z Legii Warszawa był liderem i MVP finałów, co podkreślał jego kluczowy wpływ na wynik.
+    *   Biorąc pod uwagę przewagę własnego parkietu, osłabienia kadrowe rywala oraz udowodnioną formę Legii jako obrońcy tytułu, typ na Legię Warszawa był uzasadniony.
