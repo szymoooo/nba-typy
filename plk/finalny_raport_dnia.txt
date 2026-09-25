@@ -1,16 +1,17 @@
---- AUDYT PLK LIVE (2026-09-25 22:11 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-26 01:19 CET) ---
+Zgodnie z Twoimi instrukcjami, jako analityk PLK, skupiam się wyłącznie na aktualnych danych (2026-09-26) i sekcjach koszykarskich. Daty meczów w sekcji "TYPY DO AUDYTU" są historyczne (2026-06-21), co oznacza, że będę sprawdzać *obecny* stan drużyn (na 26.09.2026) w kontekście audytu starego typu. Nie będę brał pod uwagę wydarzeń, które miały miejsce 21.06.2026, a jedynie *aktualne* informacje o składach i formie na dzień dzisiejszy.
 
-### Analiza:
+---
 
-1.  **Kluczowe braki w składach (stan na 2026-09-25):**
-    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 25 września 2026 roku.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 25 września 2026 roku.
+### ORLEN Zastal Zielona Góra @ Legia Warszawa
+*Typ do audytu: Legia Warszawa*
 
-2.  **Aktualna forma top scorerów (stan na 2026-09-25):**
-    *   Brak danych z API dla tego zespołu dotyczących formy top scorerów na dzień 25.09.2026. Składy na sezon 2026/2027 są jeszcze w fazie finalizacji, a rozgrywki PLK jeszcze się nie rozpoczęły, co uniemożliwia ocenę aktualnej formy strzeleckiej poszczególnych zawodników na podstawie danych meczowych.
+1.  **Kluczowe braki w składach (26.09.2026):**
+    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
 
-3.  **Werdykt:**
-    *   ⚠️ **RYZYKOWNY**
-        *   Brak aktualnych danych o formie top scorerów oraz szczegółowych składów na nadchodzący sezon 2026/2027 sprawia, że ocena typowanej Legii Warszawa jest ryzykowna.
-        *   Chociaż brak kontuzji w obu zespołach jest pozytywny, to bez informacji o aktualnym kształcie kadrowym i dyspozycji kluczowych zawodników, trudno o pewny werdykt na podstawie informacji dostępnych 2026-09-25 dla meczu z 2026-06-21.
+2.  **Aktualna forma top scorerów (26.09.2026):**
+    *   Brak danych z API dla tego zespołu w kontekście "top scorerów w serii" dla hipotetycznego meczu z 2026-06-21 analizowanego na dzień 2026-09-26. Informacje o bieżących najlepszych strzelcach sezonu 2026/2027 byłyby dostępne po rozegraniu większej liczby spotkań.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Ze względu na brak aktualnych danych o formie top scorerów oraz kontekst audytu starego typu z inną datą niż bieżąca analiza, trudno jest jednoznacznie ocenić typ wyłącznie na podstawie dostępnych, bieżących danych o składach. Typ jest ryzykowny, gdyż nie mamy aktualnych przesłanek dotyczących obecnej dyspozycji strzeleckiej zespołów.

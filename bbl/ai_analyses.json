@@ -1,23 +1,35 @@
 {
-  "generated_at": "2026-09-25T13:15:26.009999",
-  "date": "2026-09-25",
+  "generated_at": "2026-09-25T23:21:18.829429",
+  "date": "2026-09-26",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Telekom Baskets Bonn @ VET-CONCEPT Gladiators Trier",
+      "matchup": "ALBA BERLIN @ FC Bayern München Basketball",
+      "ai_pick": null,
+      "formula_pick": "FC Bayern München Basketball",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "RASTA Vechta @ SKYLINERS",
+      "ai_pick": null,
+      "formula_pick": "SKYLINERS",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "MHP RIESEN Ludwigsburg @ BMA365 Bamberg Baskets",
       "phase": "Regular Season",
-      "ai_pick": "Telekom Baskets Bonn",
-      "formula_pick": "VET-CONCEPT Gladiators Trier",
-      "agreement": false,
+      "ai_pick": "BMA365 Bamberg Baskets",
+      "formula_pick": "BMA365 Bamberg Baskets",
+      "agreement": true,
       "confidence": 7,
-      "reasoning": "Telekom Baskets Bonn rozpoczęli sezon z wygraną (1-0), co świadczy o dobrej formie, podczas gdy VET-CONCEPT Gladiators Trier ponieśli porażkę w pierwszym meczu (0-1). Gospodarze borykają się z licznymi i poważnymi kontuzjami kluczowych graczy, w tym kapitana Maika Zirbesa oraz nowego nabytku Amira Hintona, co znacząco osłabia ich skład.",
+      "reasoning": "BMA365 Bamberg Baskets grają u siebie i wchodzą w ten mecz po udanym poprzednim sezonie, gdzie zdobyli Puchar BBL i dotarli do półfinałów play-off. MHP RIESEN Ludwigsburg borykają się z poważną kontuzją Johannesa Thiemanna, a kilku innych graczy wraca do formy po urazach, co może wpływać na ich zgranie. Ostatnie wyniki obu drużyn w tym sezonie to 1-1, ale ostatnie zwycięstwo Bambergu było bardziej przekonujące.",
       "key_factors": [
-        "Poważne kontuzje kluczowych zawodników VET-CONCEPT Gladiators Trier",
-        "Lepszy start sezonu Telekom Baskets Bonn (1-0)",
-        "Ogólna jakość i doświadczenie Telekom Baskets Bonn"
+        "Kontuzja kluczowego gracza MHP RIESEN Ludwigsburg, Johannesa Thiemanna",
+        "Przewaga własnego parkietu dla BMA365 Bamberg Baskets",
+        "Lepsza ogólna forma BMA365 Bamberg Baskets z poprzedniego sezonu (zdobywcy Pucharu BBL i półfinaliści play-off)"
       ],
-      "injury_notes": "VET-CONCEPT Gladiators Trier: Maik Zirbes (kapitan, zerwanie więzadeł), Marco Hollersbacher (zerwanie więzadeł), Amir Hinton (kontuzja przywodziciela, około 3 miesiące), Hendrik Drescher (operacja kolana, długoterminowo), JJ Mann (zerwane więzadło krzyżowe), Bennet Hundt (niedostępny na start sezonu). Telekom Baskets Bonn: brak istotnych braków."
+      "injury_notes": "Dla MHP RIESEN Ludwigsburg, Johannes Thiemann jest wyłączony z gry na cały sezon z powodu kontuzji. Patrick Cartier i Justin Kier wrócili do składu, a trzech innych kontuzjowanych zawodników poprawia swój stan zdrowia, jednak ich dokładny status na dzień dzisiejszy nie jest w pełni jasny. BMA365 Bamberg Baskets nie zgłaszają istotnych braków kadrowych na dzień meczu."
     }
   ]
 }
