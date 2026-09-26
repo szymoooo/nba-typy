@@ -1,21 +1,56 @@
 {
-  "generated_at": "2026-09-26T12:40:33.918084",
+  "generated_at": "2026-09-26T13:15:25.379658",
   "date": "2026-09-26",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "NINERS Chemnitz @ Veolia Towers Hamburg",
-      "phase": "Hauptrunde",
-      "ai_pick": "Veolia Towers Hamburg",
-      "formula_pick": "Veolia Towers Hamburg",
+      "matchup": "ALBA BERLIN @ FC Bayern München Basketball",
+      "phase": "Regular Season",
+      "ai_pick": "FC Bayern München Basketball",
+      "formula_pick": "FC Bayern München Basketball",
       "agreement": true,
-      "confidence": 10,
-      "reasoning": "Veolia Towers Hamburg wygrało mecz z NINERS Chemnitz wynikiem 94-90. To zwycięstwo stanowi pierwszą wygraną Hamburga w sezonie, podczas gdy Chemnitz odnotowało drugą porażkę.",
+      "confidence": 9,
+      "reasoning": "FC Bayern München Basketball gra u siebie i rozpoczyna sezon z wysoką motywacją do rewanżu za przegrany finał z poprzedniego sezonu. ALBA BERLIN przystępuje do meczu osłabiona poważnymi kontuzjami kluczowych graczy, takich jak Norris Agbakoko, Martin Hermannsson i Jack Kayil, co znacząco wpływa na ich potencjał. Pomimo dobrego startu ALBY w sezonie, braki kadrowe stawiają Bayern w roli zdecydowanego faworyta.",
       "key_factors": [
-        "Wynik meczu"
+        "Poważne kontuzje kluczowych graczy ALBA BERLIN (Norris Agbakoko, Martin Hermannsson, Jack Kayil - niepewny udział Jonasa Mattissecka)",
+        "Przewaga własnego parkietu dla FC Bayern München Basketball",
+        "Wysoka motywacja Bayernu po przegranym finale z ALBA BERLIN w poprzednim sezonie",
+        "Imponujący start sezonu FC Bayern w BBL (108:72 w pierwszym meczu)"
       ],
-      "injury_notes": "brak istotnych braków"
+      "injury_notes": "ALBA BERLIN ma poważne braki kadrowe: Norris Agbakoko (skręcona kostka), Martin Hermannsson (kontuzja uda) i Jack Kayil (problemy z kolanem) doznali kontuzji w ostatnim meczu przeciwko Skyliners Frankfurt i ich udział w dzisiejszym meczu jest wysoce wątpliwy lub wykluczony. Jonas Mattisseck również otrzymał uderzenie w twarz, ale istnieje nadzieja, że będzie mógł zagrać, jeśli nie zostanie zdiagnozowane wstrząśnienie mózgu.. W przypadku FC Bayern München Basketball nie odnotowano istotnych kontuzji przed meczem 26.09.2026."
+    },
+    {
+      "matchup": "RASTA Vechta @ SKYLINERS",
+      "phase": "Regular Season",
+      "ai_pick": "RASTA Vechta",
+      "formula_pick": "SKYLINERS",
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "RASTA Vechta wchodzi w ten mecz z dużo lepszą formą niż sugerowałby bilans 0-34 z poprzedniego sezonu (faktycznie zajęli 7. miejsce w sezonie 2025/2026 i grali w playoffach). Zespół z Vechty wygrał cztery mecze kwalifikacyjne do Ligi Mistrzów w ciągu ostatniego tygodnia, pokazując dobrą dyspozycję. Chociaż SKYLINERS grają u siebie, ich ostatnie wyniki ligowe z końca poprzedniego sezonu były słabe (LLLLW), a RASTA Vechta ma w składzie kluczowych graczy w dobrej formie.",
+      "key_factors": [
+        "Lepsza aktualna forma RASTA Vechta (4-1 w sezonie 2026/2027, w tym 4 zwycięstwa w kwalifikacjach do BCL).",
+        "Potwierdzone istotne kontuzje u RASTA Vechta (Lamin Sabally), jednak zespół ma szeroki skład.",
+        "Słaba forma SKYLINERS w ostatnich meczach BBL (1-4 w ostatnich 5 meczach, wliczając 1 mecz 2026/2027).",
+        "RASTA Vechta pokazała moc w playoffach BBL w sezonie 2025/2026, co świadczy o sile drużyny, pomimo porażki w pierwszym meczu nowego sezonu BBL."
+      ],
+      "injury_notes": "RASTA Vechta: Lamin Sabally jest kontuzjowany (staw skokowy, operacja, wykluczony na kilka tygodni). SKYLINERS: brak istotnych braków."
+    },
+    {
+      "matchup": "MHP RIESEN Ludwigsburg @ BMA365 Bamberg Baskets",
+      "phase": "Regular Season",
+      "ai_pick": "MHP RIESEN Ludwigsburg",
+      "formula_pick": "BMA365 Bamberg Baskets",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "MHP RIESEN Ludwigsburg prezentuje lepszą wczesną formę w sezonie 2026/27 BBL, z bilansem 1-1 w lidze i wygraną w Pucharze BBL, podczas gdy BMA365 Bamberg Baskets ma bilans 0-1 w lidze. Dodatkowo, kluczowi gracze Ludwigsburga wracają po kontuzjach, a inni wykazują dobrą indywidualną formę.",
+      "key_factors": [
+        "Lepsza wczesna forma MHP RIESEN Ludwigsburg (1-1 BBL, 1 wygrana w Pucharze)",
+        "Pozytywne doniesienia o kontuzjach i powroty graczy w MHP RIESEN Ludwigsburg",
+        "Brak danych o formie i kontuzjach BMA365 Bamberg Baskets (0-1 BBL)",
+        "Przewaga własnego boiska dla BMA365 Bamberg Baskets"
+      ],
+      "injury_notes": "Dla MHP RIESEN Ludwigsburg, Cartier i Kier wrócili po kontuzjach, a sytuacja pozostałych kontuzjowanych graczy poprawia się, co daje zespołowi więcej opcji. Brak istotnych informacji o kontuzjach dla BMA365 Bamberg Baskets na dzień 26.09.2026."
     }
   ]
 }
