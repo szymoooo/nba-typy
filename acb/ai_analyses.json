@@ -1,38 +1,26 @@
 {
-  "generated_at": "2026-09-22T08:10:02.427195",
-  "date": "2026-09-22",
+  "generated_at": "2026-09-26T01:41:45.260512",
+  "date": "2026-09-26",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Barca @ Valencia Basket",
-      "phase": "Superpuchar Hiszpanii - półfinał",
-      "ai_pick": "Barca",
-      "formula_pick": "Valencia Basket",
-      "agreement": false,
-      "confidence": 10,
-      "reasoning": "Mecz półfinałowy Superpucharu Hiszpanii pomiędzy Valencia Basket a Barcą, który miał się odbyć dzisiaj, faktycznie rozegrał się 19 września 2026 roku. Barca zwyciężyła w tym zaciętym spotkaniu wynikiem 87-86, awansując do finału rozgrywek. W związku z tym, że wynik jest już znany, pewność co do zwycięzcy wynosi 10.",
-      "key_factors": [
-        "Barca wygrała mecz półfinałowy 87-86.",
-        "Barca miała lepszy bilans H2H w Supercopa przeciwko Valencia Basket (4-0 przed tym meczem).",
-        "Mecz był rozgrywany na neutralnym terenie w Badalonie, co zmniejszyło przewagę gospodarzy dla Valencia Basket."
-      ],
-      "injury_notes": "Dla Valencia Basket: Neal Sako był kontuzjowany i wykluczony. Istniały wątpliwości co do udziału Jasiela Rivero (drobny problem mięśniowy) i Nikoli Mirotica (kondycja fizyczna po niedawnym dołączeniu do zespołu). Brak istotnych braków dla Barcy w dniu meczu półfinałowego Superpucharu."
+      "matchup": "Kids&Us Manresa @ Surne Bilbao",
+      "ai_pick": null,
+      "formula_pick": "Surne Bilbao",
+      "note": "AI fallback"
     },
     {
-      "matchup": "Unicaja Malaga @ CB Gran Canaria",
-      "phase": "Liga Hiszpańska",
-      "ai_pick": "Unicaja Malaga",
-      "formula_pick": "CB Gran Canaria",
-      "agreement": false,
-      "confidence": 9,
-      "reasoning": "Unicaja Malaga jest zdecydowanym faworytem, ponieważ CB Gran Canaria została zdegradowana do Primera FEB na sezon 2026/27, co oznacza znaczącą różnicę w poziomie rozgrywkowym i jakości składów. Mecz ten, z uwagi na status ligowy Gran Canarii, jest prawdopodobnie spotkaniem towarzyskim, a nie meczem Liga Endesa. Unicaja wzmocniła swój skład Willym Hernangomezem i wykazuje dobrą formę w presezonie, podczas gdy Gran Canaria przeszła przebudowę zespołu po spadku. Podany bilans 0-34 dla Unicaja Malaga w sezonie 2025/26 jest nieprawidłowy; zespół ten zakończył sezon ACB z rekordem 17-17, zajmując 9. miejsce.",
-      "key_factors": [
-        "CB Gran Canaria występuje w Primera FEB, podczas gdy Unicaja Malaga pozostaje w ACB, co wskazuje na różnicę klas obu zespołów.",
-        "Unicaja Malaga dokonała znaczących wzmocnień, w tym pozyskała Willy'ego Hernangomeza, i prezentuje dobrą formę w meczach przedsezonowych.",
-        "Gran Canaria przeszła znaczące zmiany w składzie po spadku z ligi ACB, co mogło wpłynąć na jej obecny potencjał."
-      ],
-      "injury_notes": "Unicaja Malaga: Yannick Nzosa przeszedł operację 4 września 2026 roku i będzie wyłączony z gry na kilka miesięcy. Alberto Díaz jest zdolny do gry i uczestniczył w meczach przedsezonowych. CB Gran Canaria: Status Miquela Salvó, który zmagał się z długotrwałą kontuzją w marcu 2026 roku, jest niejasny. Brak innych istotnych bieżących kontuzji zgłoszonych na 22 września 2026 roku."
+      "matchup": "Monbus Obradoiro @ MoraBanc Andorra",
+      "ai_pick": null,
+      "formula_pick": "MoraBanc Andorra",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Leyma Coruña @ Barça",
+      "ai_pick": null,
+      "formula_pick": "Barça",
+      "note": "AI fallback"
     }
   ]
 }
