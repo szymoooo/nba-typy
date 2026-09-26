@@ -1,22 +1,13 @@
---- AUDYT PLK LIVE (2026-09-26 02:27 CET) ---
-Zgodnie z Twoimi wytycznymi, jako analityk PLK zaktualizowaną wiedzą na dzień 2026-09-26, dokonuję audytu podanego typu na mecz z 2026-06-21.
-
----
-
-### ORLEN Zastal Zielona Góra @ Legia Warszawa
-*   Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-26 04:56 CET) ---
+ANALIZA MECZU: ORLEN Zastal Zielona Góra @ Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Brak danych o istotnych brakach w składzie koszykarskim na dzień 2026-06-21.
-    *   **ORLEN Zastal Zielona Góra:** Brak danych o istotnych brakach w składzie koszykarskim na dzień 2026-06-21.
+    *   **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-09-26. W lutym 2026 Sagaba Konate doznał poważnej kontuzji nadgarstka, która wykluczyła go z reszty sezonu 2025/2026. Ta informacja jest przestarzała dla obecnej daty (2026-09-26) i nie ma nowych doniesień o jego dalszej niedyspozycji ani kontuzjach innych kluczowych graczy na początek sezonu 2026/2027. Zastal pozyskał Beau Beecha na sezon 2026/2027, co wzmocniło ich skład.
+    *   **Legia Warszawa:** Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł i czeka go około 3 miesięcy przerwy w treningach, co oznacza, że nie zagra do końca roku 2026. Klub będzie musiał poszukać zastępstwa na tę pozycję. Michael Christmas nie będzie występował w koszykarskiej Legii Warszawa w sezonie 2026/27, umowa została rozwiązana za porozumieniem stron.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026, okolice czerwca 2026):**
-    *   **Legia Warszawa:**
-        *   Christian Vital był jednym z wiodących strzelców Legii Warszawa w sezonie 2025/2026, ze średnią około 14.8 punktu na mecz.
-        *   Raymond Cowels III również znacząco przyczyniał się do ofensywy, notując średnio 13.9 punktu na mecz w tym samym sezonie.
-    *   **ORLEN Zastal Zielona Góra:**
-        *   Dusan Miletić był kluczowym zawodnikiem ofensywnym Zastalu, osiągając średnio 13.5 punktu na mecz w sezonie 2025/2026.
-        *   Wojciech Gordon stanowił ważne ogniwo Zastalu, zdobywając średnio 12.3 punktu na mecz.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu w kontekście "W SERII powyżej". Na podstawie dostępnych informacji dla sezonu 2026/2027, Legia Warszawa rozegrała w czerwcu 2026 finał PLK ze Zastalem Zielona Góra, wygrywając 78-70 w ostatnim meczu. Zastal Zielona Góra wygrał wcześniejszy mecz z Legią 76-74. Na dzień 26.09.2026 obie drużyny mają zagrać w Superpucharze Polski. Składy na sezon 2026/2027 są ogłoszone.
+    *   W kontekście nadchodzącego meczu o Superpuchar, świeżych danych o "top scorerach" nie ma, ponieważ sezon ligowy 2026/2027 dopiero się rozpoczyna.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak znaczących informacji o kontuzjach czy absencjach kluczowych zawodników obu drużyn na wskazany dzień meczowy. Forma strzelców Legii, w tym Christiana Vitala i Raymonda Cowelsa III, wskazuje na solidną dyspozycję drużyny w ofensywie w sezonie 2025/2026, co uzasadnia typ na Legię Warszawa.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Kontuzja Szymona Tomczaka jest znaczącym osłabieniem dla Legii Warszawa, biorąc pod uwagę jego pozycję środkowego i długi czas rekonwalescencji. To istotna strata dla Legii na początku sezonu 2026/2027, szczególnie w meczu o stawkę. Rozwiązanie umowy z Michaelem Christmasem również wpływa na rotację w drużynie. Mimo że Legia jest typowana na zwycięzcę, brak kluczowego zawodnika pod koszem oraz zmiana w składzie mogą wpłynąć na przebieg meczu.
