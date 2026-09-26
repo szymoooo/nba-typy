@@ -1,38 +1,21 @@
 {
-  "generated_at": "2026-09-26T08:20:02.620016",
+  "generated_at": "2026-09-26T12:40:33.918084",
   "date": "2026-09-26",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "ALBA BERLIN @ FC Bayern München Basketball",
-      "phase": "Regular Season",
-      "ai_pick": "FC Bayern München Basketball",
-      "formula_pick": "FC Bayern München Basketball",
+      "matchup": "NINERS Chemnitz @ Veolia Towers Hamburg",
+      "phase": "Hauptrunde",
+      "ai_pick": "Veolia Towers Hamburg",
+      "formula_pick": "Veolia Towers Hamburg",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "FC Bayern München Basketball jest faworytem z powodu poważnych kontuzji kluczowych graczy ALBA BERLIN (Jack Kayil, Norris Agbakoko, Martin Hermannsson, Jonas Mattisseck), które osłabiły zespół przed tym meczem. Bayern rozpoczął sezon w doskonałej formie, wygrywając swoje mecze w BBL i Eurolidze, a dodatkowo będzie grał u siebie.",
+      "confidence": 10,
+      "reasoning": "Veolia Towers Hamburg wygrało mecz z NINERS Chemnitz wynikiem 94-90. To zwycięstwo stanowi pierwszą wygraną Hamburga w sezonie, podczas gdy Chemnitz odnotowało drugą porażkę.",
       "key_factors": [
-        "Poważne kontuzje kluczowych graczy ALBA BERLIN",
-        "Doskonała forma FC Bayern München Basketball na początku sezonu 2026/27",
-        "Przewaga własnego boiska FC Bayern München Basketball"
+        "Wynik meczu"
       ],
-      "injury_notes": "ALBA BERLIN ma poważne problemy z kontuzjami. W ostatnim meczu urazów doznali: Jack Kayil (problemy z kolanem), Norris Agbakoko (skręcona kostka), Martin Hermannsson (naciągnięcie uda) oraz kapitan Jonas Mattisseck (uderzenie w twarz); ich dostępność na mecz jest niepewna lub mało prawdopodobna. FC Bayern München Basketball zgłosił niepewność co do dostępności Kamara Baldwina, Niels Giffeya i Duane'a Washingtona w poprzednim meczu EuroLigi."
-    },
-    {
-      "matchup": "RASTA Vechta @ SKYLINERS",
-      "phase": "Regular Season",
-      "ai_pick": "SKYLINERS",
-      "formula_pick": "SKYLINERS",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "RASTA Vechta boryka się z poważnymi problemami kadrowymi, zwłaszcza na pozycji rozgrywającego, gdzie kluczowi zawodnicy tacy jak Tommy Kuhse, D'Mitrik Trice i Kihei Clark są wątpliwi z powodu kontuzji. Zespół gości jest również mocno zmęczony intensywnym harmonogramem meczów, grając szósty mecz w ciągu dziesięciu dni i zanotował dotkliwą porażkę w inauguracyjnym spotkaniu BBL sezonu 2026/27 (67-108 przeciwko Bamberg Baskets). Gospodarze, SKYLINERS, mimo porażki w swoim pierwszym meczu ligowym, posiadają przewagę własnego parkietu we Frankfurcie i mają mniej istotnych osłabień, co stawia ich w lepszej pozycji do zwycięstwa.",
-      "key_factors": [
-        "Kontuzje kluczowych rozgrywających RASTA Vechta",
-        "Zmęczenie RASTA Vechta",
-        "Przewaga własnego parkietu dla SKYLINERS"
-      ],
-      "injury_notes": "RASTA Vechta: Lamin Sabally jest poza grą. Tommy Kuhse, D'Mitrik Trice i Kihei Clark są wątpliwi z powodu kontuzji i zmęczenia. SKYLINERS: Jacob Knauf wrócił do składu, ale jego minuty będą ograniczone z powodu kontuzji."
+      "injury_notes": "brak istotnych braków"
     }
   ]
 }
