@@ -1,35 +1,38 @@
 {
-  "generated_at": "2026-09-25T23:21:18.829429",
+  "generated_at": "2026-09-26T08:20:02.620016",
   "date": "2026-09-26",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "ALBA BERLIN @ FC Bayern München Basketball",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "FC Bayern München Basketball",
       "formula_pick": "FC Bayern München Basketball",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "FC Bayern München Basketball jest faworytem z powodu poważnych kontuzji kluczowych graczy ALBA BERLIN (Jack Kayil, Norris Agbakoko, Martin Hermannsson, Jonas Mattisseck), które osłabiły zespół przed tym meczem. Bayern rozpoczął sezon w doskonałej formie, wygrywając swoje mecze w BBL i Eurolidze, a dodatkowo będzie grał u siebie.",
+      "key_factors": [
+        "Poważne kontuzje kluczowych graczy ALBA BERLIN",
+        "Doskonała forma FC Bayern München Basketball na początku sezonu 2026/27",
+        "Przewaga własnego boiska FC Bayern München Basketball"
+      ],
+      "injury_notes": "ALBA BERLIN ma poważne problemy z kontuzjami. W ostatnim meczu urazów doznali: Jack Kayil (problemy z kolanem), Norris Agbakoko (skręcona kostka), Martin Hermannsson (naciągnięcie uda) oraz kapitan Jonas Mattisseck (uderzenie w twarz); ich dostępność na mecz jest niepewna lub mało prawdopodobna. FC Bayern München Basketball zgłosił niepewność co do dostępności Kamara Baldwina, Niels Giffeya i Duane'a Washingtona w poprzednim meczu EuroLigi."
     },
     {
       "matchup": "RASTA Vechta @ SKYLINERS",
-      "ai_pick": null,
-      "formula_pick": "SKYLINERS",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "MHP RIESEN Ludwigsburg @ BMA365 Bamberg Baskets",
       "phase": "Regular Season",
-      "ai_pick": "BMA365 Bamberg Baskets",
-      "formula_pick": "BMA365 Bamberg Baskets",
+      "ai_pick": "SKYLINERS",
+      "formula_pick": "SKYLINERS",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "BMA365 Bamberg Baskets grają u siebie i wchodzą w ten mecz po udanym poprzednim sezonie, gdzie zdobyli Puchar BBL i dotarli do półfinałów play-off. MHP RIESEN Ludwigsburg borykają się z poważną kontuzją Johannesa Thiemanna, a kilku innych graczy wraca do formy po urazach, co może wpływać na ich zgranie. Ostatnie wyniki obu drużyn w tym sezonie to 1-1, ale ostatnie zwycięstwo Bambergu było bardziej przekonujące.",
+      "confidence": 8,
+      "reasoning": "RASTA Vechta boryka się z poważnymi problemami kadrowymi, zwłaszcza na pozycji rozgrywającego, gdzie kluczowi zawodnicy tacy jak Tommy Kuhse, D'Mitrik Trice i Kihei Clark są wątpliwi z powodu kontuzji. Zespół gości jest również mocno zmęczony intensywnym harmonogramem meczów, grając szósty mecz w ciągu dziesięciu dni i zanotował dotkliwą porażkę w inauguracyjnym spotkaniu BBL sezonu 2026/27 (67-108 przeciwko Bamberg Baskets). Gospodarze, SKYLINERS, mimo porażki w swoim pierwszym meczu ligowym, posiadają przewagę własnego parkietu we Frankfurcie i mają mniej istotnych osłabień, co stawia ich w lepszej pozycji do zwycięstwa.",
       "key_factors": [
-        "Kontuzja kluczowego gracza MHP RIESEN Ludwigsburg, Johannesa Thiemanna",
-        "Przewaga własnego parkietu dla BMA365 Bamberg Baskets",
-        "Lepsza ogólna forma BMA365 Bamberg Baskets z poprzedniego sezonu (zdobywcy Pucharu BBL i półfinaliści play-off)"
+        "Kontuzje kluczowych rozgrywających RASTA Vechta",
+        "Zmęczenie RASTA Vechta",
+        "Przewaga własnego parkietu dla SKYLINERS"
       ],
-      "injury_notes": "Dla MHP RIESEN Ludwigsburg, Johannes Thiemann jest wyłączony z gry na cały sezon z powodu kontuzji. Patrick Cartier i Justin Kier wrócili do składu, a trzech innych kontuzjowanych zawodników poprawia swój stan zdrowia, jednak ich dokładny status na dzień dzisiejszy nie jest w pełni jasny. BMA365 Bamberg Baskets nie zgłaszają istotnych braków kadrowych na dzień meczu."
+      "injury_notes": "RASTA Vechta: Lamin Sabally jest poza grą. Tommy Kuhse, D'Mitrik Trice i Kihei Clark są wątpliwi z powodu kontuzji i zmęczenia. SKYLINERS: Jacob Knauf wrócił do składu, ale jego minuty będą ograniczone z powodu kontuzji."
     }
   ]
 }

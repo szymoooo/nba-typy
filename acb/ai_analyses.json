@@ -1,26 +1,57 @@
 {
-  "generated_at": "2026-09-26T01:41:45.260512",
+  "generated_at": "2026-09-26T08:18:58.805705",
   "date": "2026-09-26",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "Kids&Us Manresa @ Surne Bilbao",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Surne Bilbao",
       "formula_pick": "Surne Bilbao",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 6,
+      "reasoning": "Mimo, że Kids&Us Manresa wygrywało bezpośrednie spotkania w ubiegłym sezonie, Surne Bilbao rozpoczyna nowy sezon u siebie, prezentując dobrą formę w pre-sezonie i mając w składzie komplet zawodników. Kids&Us Manresa ma wątpliwości co do występu dwóch kluczowych graczy, Pierre'a Orioli i Timmy'ego Allena, co może osłabić ich grę w meczu otwarcia.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla Surne Bilbao w meczu otwarcia sezonu.",
+        "Wątpliwości dotyczące kontuzji kluczowych graczy Kids&Us Manresa (Pierre Oriola, Timmy Allen).",
+        "Dobra postawa Surne Bilbao w pre-sezonie, w tym wygrana Euskal Kopa.",
+        "Surne Bilbao zdobyło Puchar Europy FIBA w sezonie 2025/26.",
+        "Kids&Us Manresa wygrało oba spotkania H2H w sezonie 2025/26, ale składy na nowy sezon uległy zmianie."
+      ],
+      "injury_notes": "Kids&Us Manresa: Pierre Oriola i Timmy Allen są wątpliwościami na mecz otwarcia sezonu. Surne Bilbao: Brak istotnych braków; Luke Petrasek miał lekkie skręcenie kostki w pre-sezonie, ale drużyna jest w pełnym składzie."
     },
     {
       "matchup": "Monbus Obradoiro @ MoraBanc Andorra",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "MoraBanc Andorra",
       "formula_pick": "MoraBanc Andorra",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "MoraBanc Andorra gra u siebie w inauguracyjnym meczu sezonu ACB, co daje im przewagę. Mimo braku Camerona McGriffa w presezonie, zespół pokazał dobrą formę przeciwko silnym rywalom, jak Barcelona. Monbus Obradoiro, jako beniaminek, może mieć trudności z adaptacją do poziomu ligi, a niewiadoma dotycząca dostępności ważnych graczy pod koszem (Abogidi, Galán) dodatkowo osłabia ich pozycję.",
+      "key_factors": [
+        "Przewaga własnego boiska MoraBanc Andorra",
+        "Doświadczenie MoraBanc Andorra w lidze ACB w porównaniu do beniaminka Monbus Obradoiro",
+        "Potencjalne braki kadrowe Monbus Obradoiro pod koszem"
+      ],
+      "injury_notes": "Dla MoraBanc Andorra, Cameron McGriff, uznawany za potencjalnego lidera, był nieobecny w meczu przedsezonowym 7 września 2026 roku. Dla Monbus Obradoiro, Efe Abogidi był nieobecny w meczu przedsezonowym 20 września 2026 roku z powodu problemów wizowych, a Alex Galán nie zagrał z powodu urazu. Brandon Childress, rozgrywający Monbus Obradoiro, zagrał w presezonie, pokonując problemy fizyczne."
     },
     {
       "matchup": "Leyma Coruña @ Barça",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Barça",
       "formula_pick": "Barça",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Barça, pomimo głębokiej przebudowy składu i kilku kontuzji wśród nowych graczy, posiada znacznie większy indywidualny talent i doświadczenie w lidze ACB, a także gra na własnym parkiecie. Leyma Coruña, jako świeżo awansowana drużyna, choć z nową energią i obiecującymi nabytkami, zmierzy się z trudnym zadaniem adaptacji do poziomu ACB, a w szczególności w pierwszym meczu sezonu przeciwko jednemu z faworytów.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla Barçy.",
+        "Znacznie wyższy poziom indywidualnego talentu i doświadczenia w ACB po stronie Barçy.",
+        "Leyma Coruña to drużyna świeżo awansowana z niższej ligi.",
+        "Dobra forma Barçy w presezonie (zwycięstwo w Lliga Catalana, finalista Supercopa).",
+        "Kontuzje kluczowych nowych graczy w Barçy (Evbuomwan, Makoundou) osłabiają rotację, ale siła ogólna pozostaje wysoka."
+      ],
+      "injury_notes": "Barça ma kontuzjowanych Tosan Evbuomwan i Yoan Makoundou. Brak istotnych doniesień o kontuzjach w drużynie Leyma Coruña na dzień 26.09.2026."
     }
   ]
 }
