@@ -1,54 +1,38 @@
 {
-  "generated_at": "2026-09-27T09:11:28.889080",
+  "generated_at": "2026-09-27T13:33:11.314219",
   "date": "2026-09-27",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Mitteldeutscher BC @ Telekom Baskets Bonn",
-      "phase": "Hauptrunde",
-      "ai_pick": "Telekom Baskets Bonn",
-      "formula_pick": "Telekom Baskets Bonn",
+      "matchup": "Phoenix Hagen @ NINERS Chemnitz",
+      "phase": "Hauptrunde - 3. Spieltag",
+      "ai_pick": "NINERS Chemnitz",
+      "formula_pick": "NINERS Chemnitz",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Telekom Baskets Bonn grają u siebie, co stanowi znaczącą przewagę. Dodatkowo, mają silny historyczny bilans bezpośrednich spotkań z Mitteldeutscher BC, wygrywając 8 z ostatnich 10 meczów, w tym ostatnie spotkanie. Mimo że oba zespoły rozpoczęły sezon 2026/27 z bilansem 1-1, przewaga własnego parkietu i doświadczenie w bezpośrednich starciach przemawiają za gospodarzem.",
+      "reasoning": "NINERS Chemnitz, despite their 0-2 start in the BBL, showed resilience in close losses against strong opponents like Alba Berlin and Hamburg Towers, with one game going to overtime. Phoenix Hagen, as a newly promoted team, has also started the BBL season with two losses and appears to be struggling to adapt to the league's demands. Chemnitz will also benefit from playing at home.",
       "key_factors": [
-        "Przewaga własnego parkietu dla Telekom Baskets Bonn (Telekom Dome).",
-        "Wyraźna przewaga Telekom Baskets Bonn w bezpośrednich spotkaniach (8-2 w ostatnich 10 meczach).",
-        "Brak istotnych kontuzji u kluczowych graczy obu drużyn."
+        "Home court advantage for NINERS Chemnitz",
+        "Better competitive form of NINERS Chemnitz against stronger BBL teams",
+        "Phoenix Hagen's struggle to adapt as a newly promoted team"
       ],
-      "injury_notes": "Brak istotnych braków - Nie znaleziono żadnych potwierdzonych kontuzji kluczowych graczy obu drużyn na dzień 2026-09-27 w dostępnych źródłach."
+      "injury_notes": "Brak istotnych braków"
     },
     {
-      "matchup": "Science City Jena @ VET-CONCEPT Gladiators Trier",
-      "phase": "Hauptrunde",
-      "ai_pick": "VET-CONCEPT Gladiators Trier",
-      "formula_pick": "VET-CONCEPT Gladiators Trier",
+      "matchup": "Fitness First Würzburg Baskets @ ratiopharm ulm",
+      "phase": "Hauptrunde - 3. Spieltag",
+      "ai_pick": "ratiopharm ulm",
+      "formula_pick": "ratiopharm ulm",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "VET-CONCEPT Gladiators Trier rozpoczęli sezon 2026/27 BBL od zwycięstwa nad Telekom Baskets Bonn i wzmocnili skład kluczowymi graczami defensywnymi, a także zatrzymali swojego MVP rozgrywającego i najlepszego strzelca. Science City Jena zanotowało znaczącą porażkę w swoim meczu otwarcia i ma na swoim koncie kilku kontuzjowanych zawodników. Pomimo lepszego bilansu H2H Jeny z poprzedniego sezonu, obecna forma i głębia składu wskazują na gospodarzy.",
+      "confidence": 8,
+      "reasoning": "ratiopharm ulm rozpoczeli sezon BBL z bilansem 2-0, w tym z przekonującym zwycięstwem u siebie oraz wyjazdowym. Zespół Fitness First Würzburg Baskets przegrał swój jedyny dotychczasowy mecz w BBL (0-1) i ma w dużej mierze przebudowany skład, który wciąż się zgrywa. Dodatkowo, ratiopharm ulm grają dzisiaj na własnym parkiecie, co daje im przewagę.",
       "key_factors": [
-        "Lepsza aktualna forma VET-CONCEPT Gladiators Trier (1-1 w BBL 2026/27, ostatnie zwycięstwo 106-80).",
-        "Wzmocnienia składu VET-CONCEPT Gladiators Trier o czołowych obrońców ligi i utrzymanie kluczowych ofensywnych graczy.",
-        "Słaby start sezonu 2026/27 Science City Jena (0-1 w BBL, porażka 62-77), ze słabą ofensywą.",
-        "Przewaga własnego boiska dla VET-CONCEPT Gladiators Trier."
+        "Lepsza aktualna forma ratiopharm ulm (2-0 w BBL, Würzburg 0-1 w BBL)",
+        "Przewaga własnego parkietu dla ratiopharm ulm",
+        "Fitness First Würzburg Baskets mają w dużej mierze nowy skład, który potrzebuje czasu na zgranie"
       ],
-      "injury_notes": "VET-CONCEPT Gladiators Trier ma kilku graczy w długoterminowej rehabilitacji/kontuzji: Hendrik Drescher (po operacji kolana), Haris Hujic, JJ Mann, Amir Hinton (powrót w ciągu 3 tygodni). Nolan Adekunle powrócił do treningów po chorobie. Brak istotnych braków po stronie Science City Jena na dzień meczu."
-    },
-    {
-      "matchup": "Veolia Towers Hamburg @ EWE Baskets Oldenburg",
-      "phase": "Hauptrunde",
-      "ai_pick": "EWE Baskets Oldenburg",
-      "formula_pick": "EWE Baskets Oldenburg",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "EWE Baskets Oldenburg rozpoczęli sezon BBL 2026/27 z bilansem 2-0, pokazując silniejszą formę niż Veolia Towers Hamburg, którzy mają bilans 1-1. Oldenburg dodatkowo ma przewagę własnego boiska oraz wygrał niedawny mecz towarzyski H2H przeciwko Hamburgowi.",
-      "key_factors": [
-        "Lepsza forma EWE Baskets Oldenburg na początku sezonu BBL 2026/27 (2-0).",
-        "Przewaga własnego boiska EWE Baskets Oldenburg.",
-        "Niedawne zwycięstwo EWE Baskets Oldenburg w meczu towarzyskim H2H (78-71 w dniu 06.09.2026)."
-      ],
-      "injury_notes": "brak istotnych braków"
+      "injury_notes": "Brak istotnych braków kontuzji na dzień 2026-09-27 dla obu drużyn. ratiopharm ulm borykało się wcześniej we wrześniu z problemami kadrowymi na pozycji rozgrywającego, co skutkowało pozyskaniem Marvina Heckela, jednak brak jest informacji o kluczowych absencjach na dziś."
     }
   ]
 }

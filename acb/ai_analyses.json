@@ -1,101 +1,42 @@
 {
-  "generated_at": "2026-09-27T09:09:52.246913",
+  "generated_at": "2026-09-27T13:32:06.736025",
   "date": "2026-09-27",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Joventut Badalona @ Río Breogán",
-      "phase": "Regular Season",
-      "ai_pick": "Joventut Badalona",
-      "formula_pick": "Río Breogán",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "Joventut Badalona rozpoczyna sezon w doskonałej formie, będąc świeżo po zwycięstwie w Supercopa ACB 2026, gdzie pokonali silnych rywali. Kluczowi gracze, tacy jak Nicolas Laprovittola i Ricky Rubio, prezentują wybitną dyspozycję. Mimo przewagi własnego parkietu Río Breogán i dobrych indywidualnych występów w presezonie, ogólna siła zespołu Joventutu i ich niedawny sukces są bardziej przekonujące.",
-      "key_factors": [
-        "Zwycięstwo Joventut Badalona w Supercopa ACB 2026.",
-        "Znakomita forma kluczowych graczy Joventut Badalona (Nicolas Laprovittola, Ricky Rubio).",
-        "Wyższa pozycja Joventut Badalona w sezonie 2025/26 (3. miejsce w porównaniu do bilansu 15-19 Río Breogán)."
-      ],
-      "injury_notes": "Jordan Sakho z Río Breogán jest kontuzjowany i przewidywany powrót do gry to listopad 2026. Brak istotnych braków w składzie Joventut Badalona."
-    },
-    {
-      "matchup": "Baskonia @ Recoletas Salud Burgos",
-      "phase": "Regular Season",
-      "ai_pick": "Baskonia",
-      "formula_pick": "Recoletas Salud Burgos",
-      "agreement": false,
-      "confidence": 6,
-      "reasoning": "Baskonia, pomimo wyzwań związanych z kontuzjami w pre-sezonie i niekompletnym składem, zazwyczaj dysponuje głębszym i bardziej utalentowanym zespołem w Lidze Endesa. Recoletas Salud Burgos będzie musiało radzić sobie bez kluczowych zawodników, Vlatko Cancara i Retina Obasohana, co jest znaczącym osłabieniem w pierwszym meczu sezonu na własnym parkiecie, szczególnie biorąc pod uwagę odnowiony skład drużyny.",
-      "key_factors": [
-        "Kontuzje kluczowych graczy Recoletas Salud Burgos (Vlatko Cancar, Retin Obasohan).",
-        "Głębia składu i ogólna jakość drużyny Baskonii.",
-        "Brak Alex Len w Baskonii i ogólny kryzys kontuzji w drużynie.",
-        "Przewaga własnego parkietu dla Recoletas Salud Burgos w meczu otwarcia sezonu."
-      ],
-      "injury_notes": "Recoletas Salud Burgos: Vlatko Cancar i Retin Obasohan są wykluczeni z gry z powodu kontuzji i nie brali udziału w pre-sezonie. Wcześniej informowano także o problemach Balsa Koprivicy (mięśnie czworogłowe), Raúla Lobaco (ostry ból pleców) i Chase Audige (skręcenie kostki). Baskonia: Alex Len jest poza składem z powodu nieokreślonego problemu fizycznego, w tym kontuzji stopy. Trener Baskonii, Paolo Galbiati, zgłaszał, że drużyna jest niekompletna i boryka się z poważnym kryzysem kontuzji w pre-sezonie."
-    },
-    {
-      "matchup": "Casademont Zaragoza @ La Laguna Tenerife",
-      "phase": "Regular Season",
-      "ai_pick": "La Laguna Tenerife",
-      "formula_pick": "La Laguna Tenerife",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "La Laguna Tenerife rozpoczyna sezon na własnym parkiecie, co daje im przewagę nad rywalem. Zespół zachował swoich kluczowych liderów i wykazuje wysokie aspiracje na obecny sezon, co sugeruje silny i zgrany skład. Wyniki przedsezonowe, w tym zwycięstwo po odrobieniu dużej straty, wskazują na dobrą morale drużyny.",
-      "key_factors": [
-        "Przewaga własnego boiska",
-        "Utrzymanie kluczowych liderów La Laguna Tenerife",
-        "Brak istotnych kontuzji u gospodarzy"
-      ],
-      "injury_notes": "Brak istotnych braków. Wcześniejsze kontuzje kluczowych graczy La Laguna Tenerife (m.in. Giorgi Shermadini, Bruno Fitipaldo) zostały wyleczone, a zawodnicy przeszli pomyślnie badania medyczne przed sezonem 2026/27. Brak doniesień o nowych, istotnych urazach w obu drużynach na dzień meczu."
-    },
-    {
-      "matchup": "UCAM Murcia @ Bàsquet Girona",
+      "matchup": "UCAM Murcia @ FIATC Girona",
       "phase": "Regular Season",
       "ai_pick": "UCAM Murcia",
-      "formula_pick": "Bàsquet Girona",
+      "formula_pick": "FIATC Girona",
       "agreement": false,
-      "confidence": 8,
-      "reasoning": "UCAM Murcia rozpoczyna sezon jako drużyna z ugruntowaną pozycją, która dotarła do playoffów w poprzednim sezonie i utrzymała silną tożsamość obronną pod wodzą trenera Sito Alonso. Pomimo absencji Howarda Sant-Roosa z powodu kontuzji, mają spójny skład i korzystny bilans bezpośrednich spotkań z Bàsquet Girona. Girona, mimo pozyskania Maca McClunga, boryka się z poważnymi kontuzjami kluczowych graczy, takich jak Maxi Fjellerup i Isaac Vazquez, a także ma wątpliwości co do Aljaza Kunca, a ich trener przyznaje, że zespół nie jest jeszcze na pożądanym poziomie na początek sezonu.",
+      "confidence": 7,
+      "reasoning": "UCAM Murcia appears to have a more consolidated roster from their successful previous season, which included a strong playoff run, featuring key players like David DeJulius. FIATC Girona, despite significant new signings, faces challenges at the start of the season with multiple key players injured (Maxi Fjellerup, Isaac Vázquez out, Aljaz Kunc doubtful) and their coach acknowledging the team is not yet at the desired level. While FIATC Girona benefits from home-court advantage in this opening game of the regular season, UCAM Murcia's established core and recent momentum give them an edge.",
       "key_factors": [
-        "UCAM Murcia to zespół z playoffów z poprzedniego sezonu (2025/26) i ma ugruntowany styl gry pod tym samym trenerem.",
-        "UCAM Murcia ma lepszy bilans bezpośrednich spotkań, wygrywając oba mecze w sezonie 2025/26 i prowadząc 6-3 w ogólnym H2H od 2019 roku.",
-        "Bàsquet Girona boryka się z kontuzjami kluczowych graczy: Maxi Fjellerup i Isaac Vazquez są niedostępni, a Aljaz Kunc jest pod znakiem zapytania na otwarcie sezonu.",
-        "Pomimo straty Davida DeJuliusa, UCAM Murcia ma w składzie silnych graczy, takich jak Jonah Radebaugh, a Juani Marcos ma przejąć ofensywę."
+        "Kontuzje w FIATC Girona (Fjellerup, Vázquez poza składem, Kunc wątpliwy)",
+        "Kontuzja Howarda Sant-Roosa (UCAM Murcia)",
+        "Bardziej skonsolidowany skład UCAM Murcia z silnym finiszem poprzedniego sezonu",
+        "Nowy, mocno przebudowany skład FIATC Girona",
+        "Przewaga własnego boiska dla FIATC Girona"
       ],
-      "injury_notes": "Bàsquet Girona: Maxi Fjellerup i Isaac Vazquez są niedostępni na mecz otwarcia sezonu. Isaac Vazquez przeszedł operację złamania piątej kości śródstopia w sierpniu 2026 roku. Aljaz Kunc jest pod znakiem zapytania. UCAM Murcia: Howard Sant-Roos jest wykluczony z gry z powodu naderwania przywodziciela prawego uda."
+      "injury_notes": "FIATC Girona: Maxi Fjellerup (SG) i Isaac Vázquez (PG) są kontuzjowani i nie zagrają. Udział Aljaza Kunca (PF) jest wątpliwy. Trener FIATC Girona, Moncho Fernández, przyznał, że zespół jest daleki od pożądanego poziomu na start sezonu z powodu urazów w ostatnich tygodniach. UCAM Murcia: Howard Sant-Roos (SF) jest wyłączony z gry na kilka tygodni z powodu zerwania włókien w przywodzicielu prawej nogi."
     },
     {
-      "matchup": "Ilerna Lleida @ Valencia Basket",
+      "matchup": "iLERNA Lleida @ Valencia Basket",
       "phase": "Regular Season",
       "ai_pick": "Valencia Basket",
       "formula_pick": "Valencia Basket",
       "agreement": true,
-      "confidence": 9,
-      "reasoning": "Valencia Basket, jako obrońca tytułu mistrza ACB, posiada znacznie silniejszy skład, wzmocniony transferami takimi jak Nikola Mirotic i T.J. Shorts, co czyni ich faworytem. Dodatkowo, Valencia zagra u siebie w Roig Arena, gdzie w przeszłości dominowała nad Ilerna Lleida (bilans 4-0 H2H), a rywale z Lleidy borykają się z poważną kontuzją kluczowego gracza Atoumane Diagne, który jest wyłączony z gry na cały sezon.",
+      "confidence": 8,
+      "reasoning": "Valencia Basket, jako urzędujący mistrz Liga Endesa, rozpoczyna sezon na własnym parkiecie z iLERNA Lleida. Pomimo zmian w składzie, Valencia ma historycznie dominujący bilans H2H i wzmocniła się takimi graczami jak Nikola Mirotic. iLERNA Lleida zmaga się z poważną kontuzją kluczowego zawodnika, Atoumane Diagne, co znacząco osłabi ich grę pod koszem.",
       "key_factors": [
-        "Siła i jakość składu Valencia Basket oraz klasa nowych nabytków (Nikola Mirotic, T.J. Shorts).",
-        "Przewaga własnego boiska (Roig Arena) i historyczna dominacja w bezpośrednich starciach (4-0 H2H dla Valencii).",
-        "Poważna kontuzja kluczowego gracza Ilerna Lleida (Atoumane Diagne), wykluczająca go na cały sezon."
+        "Kontuzja kluczowego gracza iLERNA Lleida (Atoumane Diagne)",
+        "Status mistrza ACB Valencia Basket w poprzednim sezonie",
+        "Przewaga własnego parkietu dla Valencia Basket",
+        "Historyczny bilans H2H na korzyść Valencia Basket",
+        "Nowe, mocne transfery w Valencia Basket (np. Nikola Mirotic)"
       ],
-      "injury_notes": "Valencia Basket: Matt Costello (dyskomfort w lewym kolanie), Jasiel Rivero (drobny uraz mięśniowy), Neal Sako (kontuzja pachwiny), Stefan Jovic (zapalenie kaletki w prawym łokciu) i Amida Brimah (kontuzja ścięgna podkolanowego w prawej nodze) zgłaszają urazy, choć ich dokładny status na mecz może się różnić. Ilerna Lleida: Atoumane Diagne (zerwane więzadło krzyżowe przednie w lewym kolanie) jest wyłączony z gry na cały sezon."
-    },
-    {
-      "matchup": "Unicaja @ Real Madrid",
-      "phase": "Regular Season",
-      "ai_pick": "Real Madrid",
-      "formula_pick": "Real Madrid",
-      "agreement": true,
-      "confidence": 9,
-      "reasoning": "Real Madrid rozpoczyna sezon z wysoką formą, wygrywając niedawno Superpuchar Euroligi i dominując nad Unicają w meczu przedsezonowym (113-74). Unicaja boryka się z poważnymi kontuzjami kluczowych zawodników i wciąż integruje nowych graczy, co osłabia ich skład przed pierwszym meczem ligowym. Real Madrid dodatkowo gra u siebie, co stanowi istotną przewagę.",
-      "key_factors": [
-        "Poważne kontuzje kluczowych graczy Unicaji (Tyler Kalinoski, Tyson Pérez, Yannick Nzosa)",
-        "Doskonała forma Realu Madryt w presezonie, w tym zwycięstwo w Superpucharze Euroligi (19 września 2026)",
-        "Dominujące zwycięstwo Realu Madryt nad Unicają w presezonie (113-74)",
-        "Przewaga własnego parkietu Realu Madryt w meczu otwierającym sezon ACB"
-      ],
-      "injury_notes": "Unicaja ma znaczące braki kadrowe: Tyler Kalinoski (skręcenie kostki), Tyson Pérez (problem chroniczny, możliwa operacja) i Yannick Nzosa (kontuzja z meczu przedsezonowego) są kontuzjowani. W związku z tym Unicaja podpisała kontrakt z Mattem Thomasem w celu wzmocnienia obwodu. Dla Realu Madryt nie zgłoszono żadnych istotnych kontuzji na dzień dzisiejszy."
+      "injury_notes": "iLERNA Lleida: Pívot Atoumane Diagne doznał zerwania więzadła krzyżowego przedniego w lewym kolanie i opuści cały sezon 2026-27. Kur Kuath wracał do zdrowia po skręceniu kostki, ale jego status na mecz nie jest jasno określony. Valencia Basket: Yannick Kraag jest kontuzjowany na 1. kolejkę ligową."
     }
   ]
 }
