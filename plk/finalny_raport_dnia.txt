@@ -1,18 +1,30 @@
---- AUDYT PLK LIVE (2026-09-27 23:24 CET) ---
-Analiza typu PLK na dzień 2026-06-21 (Audyt na dzień 2026-09-27):
+--- AUDYT PLK LIVE (2026-09-28 01:54 CET) ---
+Audyt typów PLK na dzień 2026-09-28:
 
----
+=========================================================================
+# PLK typy na 2026-06-21
+ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa**
-*   **Kontekst meczu:** Mecz z 2026-06-21 był siódmym, decydującym spotkaniem finałowym sezonu 2025/2026, w którym Legia Warszawa zdobyła mistrzostwo Polski, pokonując Zastal Zielona Góra. Dziś, 27 września 2026 roku, Legia Warszawa ponownie zmierzyła się z ORLEN Zastalem Zielona Góra w finale Superpucharu Polski i zwyciężyła 110:96 w Sosnowcu.
+*   **Mecz**: Należy zaznaczyć, że mecz z podanej daty (2026-06-21) jest już rozegrany. Analiza opiera się na *aktualnej* sytuacji drużyn na dzień 2026-09-28. Sezon PLK 2026/2027 rozpoczyna się 2 października, jednak obie drużyny brały udział w Superpucharze Polski, który odbył się 26-27 września 2026 r..
+    *   W finale Superpucharu Polski 2026, rozegranym 27 września 2026, Legia Warszawa pokonała ORLEN Zastal Zielona Góra wynikiem 110:96.
 
-1.  **Kluczowe braki w składach (na dzień 2026-09-27):**
-    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł. Czeka go około 3 miesięcy przerwy, powrót na parkiet planowany jest na przełomie roku.
-    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+**Legia Warszawa**
+1.  **Kluczowe braki w składzie koszykarskim**:
+    *   Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł około 16 września 2026 r. Przewidywana przerwa to około 3 miesiące, co oznacza, że nie wróci na parkiet do końca roku.
+    *   W odpowiedzi na kontuzję Tomczaka, Legia podpisała kontrakt z Kubą Piślą.
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych o indywidualnych statystykach strzeleckich z zakończonego Superpucharu Polski.
+    *   Na podstawie sezonu 2025/2026, wiodącymi strzelcami byli Dominic Brewton III (14.5 Pkt/mecz), Andrzej Pluta (13.4 Pkt/mecz) i Jayvon Graves (12.8 Pkt/mecz).
+    *   Cała drużyna jest w bardzo dobrej formie, o czym świadczy niedawne zwycięstwo w Superpucharze Polski.
 
-2.  **Aktualna forma top strzelców (na dzień 2026-09-27):**
-    *   🔥 **Legia Warszawa:** Drużyna jest w świetnej formie, co potwierdza zwycięstwo w finale Superpucharu Polski 2026 (110:96 przeciwko Zastalowi). Liderami strzeleckimi w tym meczu byli Markus Ilver (25 pkt), Zachary Freemantle (20 pkt) oraz Devon Daniels IV (18 pkt). Kristers Zoriks również zdobył 14 punktów.
-    *   📈 **ORLEN Zastal Zielona Góra:** Zespół dotarł do finału Superpucharu Polski, jednak przegrał z Legią. Najskuteczniejszym zawodnikiem Zastalu w tym spotkaniu był Conley Garrison z 17 punktami.
+**ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składzie koszykarskim**:
+    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-09-28.
+    *   Kontuzja Sagaby Konate z lutego 2026 r. dotyczyła poprzedniego sezonu i brak aktualnych informacji o jego nieobecności w składzie na sezon 2026/2027.
+2.  **Aktualna forma top scorerów**:
+    *   Brak danych o indywidualnych statystykach strzeleckich z zakończonego Superpucharu Polski.
+    *   Na podstawie sezonu 2025/2026, wiodącymi strzelcami byli Chavaughn Lewis (15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   Drużyna jest w dobrej formie po Superpucharze Polski, w którym dotarła do finału.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Typ na Legię Warszawa na 2026-06-21 był trafny, gdyż Legia zwyciężyła w decydującym meczu o mistrzostwo Polski. Biorąc pod uwagę aktualną formę (zwycięstwo w Superpucharze Polski dziś, 27.09.2026) oraz niedawną historię bezpośrednich spotkań (finał PLK 2025/2026), Legia prezentuje się bardzo mocno. Kontuzja Szymona Tomczaka jest osłabieniem, jednak aktualne wyniki wskazują na głębię składu Legii.
+**Werdykt**: ✅ ZATWIERDZONY
+*   Typ na Legię Warszawa jest uzasadniony na podstawie aktualnej formy obu zespołów. Legia Warszawa, pomimo kontuzji Szymona Tomczaka, niedawno pokonała ORLEN Zastal Zielona Góra w finale Superpucharu Polski 27 września 2026 r., co świadczy o ich aktualnej przewadze.
