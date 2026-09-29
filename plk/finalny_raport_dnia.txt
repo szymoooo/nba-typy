@@ -1,27 +1,25 @@
---- AUDYT PLK LIVE (2026-09-29 12:07 CET) ---
-**PLK typy na 2026-06-21**
+--- AUDYT PLK LIVE (2026-09-29 16:35 CET) ---
+# PLK typy na 2026-06-21
 ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
----
+### Analiza:
 
-**Mecz: ORLEN Zastal Zielona Góra @ Legia Warszawa**
-Hala: OSiR Warszawa Bemowo, Warszawa
+#### **Legia Warszawa**
+1.  **Kluczowe braki w składzie:**
+    *   Kontuzja Szymona Tomczaka (środkowy). Doznał skręcenia śródstopia z uszkodzeniem więzadeł i czeka go około 3 miesiące przerwy, co oznacza, że nie zagra do końca 2026 roku.
+2.  **Aktualna forma top scorerów:**
+    *   Sezon PLK 2026/2027 rozpocznie się 2 października 2026 roku, więc brak jest pełnych statystyk ligowych top scorerów.
+    *   Legia Warszawa zwyciężyła w Superpucharze Polski im. Adama Wójcika, pokonując w finale Zastal Zielona Góra 110:96 w dniu 27 września 2026 roku.
+    *   Arguster Daniels (znany również jako Devon Daniels IV) z Legii Warszawa został wybrany MVP Superpucharu Polski, co świadczy o jego doskonałej formie.
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 21.06.2026.
-    *   🤕 **ORLEN Zastal Zielona Góra:** Filip Matczak i Andrzej Mazurczak wystąpili w meczu finałowym w maskach ochronnych po wcześniejszych urazach (Matczak kontuzja nosa). W czerwcu 2026 r. zespół borykał się z ogólnymi problemami zdrowotnymi, choć Phil Fayne wrócił do gry.
+#### **ORLEN Zastal Zielona Góra**
+1.  **Kluczowe braki w składzie:**
+    *   Brak istotnych, aktualnych braków w składzie koszykarskim na dzień 29 września 2026 roku.
+2.  **Aktualna forma top scorerów:**
+    *   Sezon PLK 2026/2027 rozpocznie się 2 października 2026 roku, więc brak jest pełnych statystyk ligowych top scorerów.
+    *   Zespół ORLEN Zastalu Zielona Góra dotarł do finału Superpucharu Polski, przegrywając z Legią Warszawa. To wskazuje na dobrą ogólną formę drużyny na początku sezonu. Brak danych z API dla tego zespołu w kontekście top scorerów Superpucharu.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026 i mecz 21.06.2026):**
-    *   🔥 **Legia Warszawa:**
-        *   Andrzej Pluta: Był najlepszym strzelcem Legii w meczu finałowym 21.06.2026, zdobywając 15 punktów. Został MVP Finałów PLK 2025/2026.
-        *   Race Thompson: Zdobył 11 punktów w meczu finałowym 21.06.2026.
-        *   Dominic Brewton III: Zdobył 11 punktów w meczu finałowym 21.06.2026.
-        *   Shane Hunter: Zdobył 10 punktów w meczu finałowym 21.06.2026.
-    *   🌪️ **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: Był wiodącym strzelcem Zastalu w sezonie 2025/2026, ze średnią 15.8 punktów na mecz.
-        *   Jakub Szumert: Zdobywał średnio 13.2 punktów na mecz w sezonie 2025/2026.
-        *   Andrzej Mazurczak: Zdobył 10 punktów w meczu finałowym 21.06.2026.
-        *   Conley Garrison: Miał istotne akcje w poprzednich meczach, w sezonie 2025/2026 ze średnią 15.1 punktów.
+### Werdykt:
+Legia Warszawa niedawno pokonała Zastal Zielona Góra w finale Superpucharu Polski, a ich zawodnik, Arguster Daniels, zdobył tytuł MVP. Mimo kontuzji Szymona Tomczaka, forma Legii na dzień dzisiejszy (2026-09-29) wydaje się bardzo mocna.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Legia Warszawa była obrońcą tytułu i najlepszą drużyną sezonu zasadniczego 2025/2026. Mecz 21.06.2026 był siódmym, decydującym spotkaniem finałowym, rozgrywanym w Warszawie, na własnym parkiecie Legii. Legia ostatecznie wygrała ten mecz 78:70 i zdobyła mistrzostwo Polski (seria 4-3). Pomimo kontuzji kluczowych graczy Zastalu, którzy grali w maskach, Legia w kluczowym momencie pokazała siłę, co potwierdza zasadność typu.
+Werdykt: [✅ ZATWIERDZONY]
