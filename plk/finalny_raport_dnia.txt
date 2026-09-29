@@ -1,19 +1,29 @@
---- AUDYT PLK LIVE (2026-09-29 21:14 CET) ---
-Analiza meczu PLK na dzień 2026-06-21:
+--- AUDYT PLK LIVE (2026-09-29 23:11 CET) ---
+Analiza meczu: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21, analiza na dzień 2026-09-29)
 
-**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
+### 1. Kluczowe braki w składach 🩹
+*   **Legia Warszawa**: Szymon Tomczak (środkowy) jest kontuzjowany – doznał skręcenia śródstopia z uszkodzeniem więzadeł i czeka go około 3 miesięcy przerwy. Nie zagra do końca roku 2026. Legia pozyskała Kubę Piślę jako krótkoterminowe zastępstwo.
+*   **ORLEN Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-09-29.
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Według informacji z 6 czerwca 2026 roku, Filip Matczak odczuwał dolegliwości związane ze starą kontuzją, a Dwight Wilson III nadal zmagał się ze skutkami urazu kostki, choć brał udział w treningach. Trener zapewnił, że pozostali zawodnicy byli gotowi do walki w serii finałowej. Brak informacji o zawieszeniach czy foul-outach.
-    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim Legii Warszawa odnotowanych na czerwiec 2026 roku. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/27 i są nieistotne dla tego meczu.
+### 2. Aktualna forma top scorerów (stan na 2026-09-29 - dane z Superpucharu Polski 2026) 📈
+Drużyny niedawno zmierzyły się w finale Superpucharu Polski 2026 (27 września 2026), gdzie Legia Warszawa pokonała Zastal Zielona Góra 110:96.
 
-2.  **Aktualna forma top scorerów (sezon 2025/2026):**
-    *   🏀 **ORLEN Zastal Zielona Góra:** Liderami punktowymi zespołu w sezonie 2025/2026 byli Chavaughn Lewis (średnio 15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
-    *   🏀 **Legia Warszawa:** Andrzej Pluta Jr. został wybrany MVP sezonu zasadniczego 2025/26 oraz MVP Finałów PLK 2025/26. Był także najlepszym polskim zawodnikiem sezonu zasadniczego. To wskazuje na jego kluczową rolę i doskonałą formę. Brak danych z API dla pozostałych wiodących strzelców z Legii w kontekście konkretnych średnich punktowych, poza wyróżnieniem Pluty jako MVP.
+*   **Legia Warszawa**:
+    *   Markus Ilver: 25 punktów (5 trójek) w finale Superpucharu.
+    *   Zachary Freemantle: 20 punktów (2 trójki) w finale Superpucharu.
+    *   Arguster Daniels IV: 18 punktów (1 trójka) w finale Superpucharu. Został MVP Superpucharu Polski.
+    *   Kristers Zoriks: 14 punktów (3 trójki) w finale Superpucharu.
+    Legia zaprezentowała się jako silna, zbilansowana drużyna z kilkoma zawodnikami w dobrej formie strzeleckiej.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mecz odbył się 21 czerwca 2026 roku i był decydującym, siódmym meczem finałowej serii, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 110:96, zdobywając Mistrzostwo Polski.
-    *   Legia Warszawa była czołową drużyną sezonu zasadniczego.
-    *   Kluczowy zawodnik Legii, Andrzej Pluta Jr., został wybrany MVP sezonu i finałów, co świadczy o jego wyjątkowej formie.
-    *   Zastal miał drobne problemy zdrowotne z dwoma zawodnikami, co mogło wpłynąć na ich dyspozycję, choć nie wykluczyło ich z gry.
-    *   Przewaga własnego parkietu w decydującym meczu (Legia była gospodarzem w 7. meczu finału) była istotna.
+*   **ORLEN Zastal Zielona Góra**:
+    *   Conley Garrison: 17 punktów w finale Superpucharu. W półfinale był jednym z liderów z 16 punktami.
+    *   Trazarien White: 14 punktów w finale Superpucharu.
+    *   Beau Beech: 11 punktów w finale Superpucharu. W półfinale również był aktywny.
+    *   Filip Matczak: 10 punktów w finale Superpucharu.
+    *   Veljko Brkić: 10 punktów w finale Superpucharu. W półfinale Superpucharu był najlepszym zawodnikiem Zastalu z 16 punktami i 4 zbiórkami.
+    Zastal również miał kilku skutecznych strzelców, ale ich łączny wysiłek nie wystarczył na Legię w finale Superpucharu.
+
+### 3. Werdykt:
+Legia Warszawa niedawno (27 września 2026) pokonała Zastal Zielona Góra w finale Superpucharu Polski, demonstrując silną formę wielu zawodników pomimo kontuzji Szymona Tomczaka. Zastal również ma w składzie wartościowych graczy, ale obecna przewaga Legii w bezpośrednim starciu i ogólnej kondycji kadrowej (poza jednym istotnym brakiem) wydaje się wyraźna.
+
+Werdykt: [✅ ZATWIERDZONY]
