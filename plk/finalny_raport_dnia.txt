@@ -1,25 +1,19 @@
---- AUDYT PLK LIVE (2026-09-29 16:35 CET) ---
-# PLK typy na 2026-06-21
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-29 21:14 CET) ---
+Analiza meczu PLK na dzień 2026-06-21:
 
-### Analiza:
+**ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa**
 
-#### **Legia Warszawa**
-1.  **Kluczowe braki w składzie:**
-    *   Kontuzja Szymona Tomczaka (środkowy). Doznał skręcenia śródstopia z uszkodzeniem więzadeł i czeka go około 3 miesiące przerwy, co oznacza, że nie zagra do końca 2026 roku.
-2.  **Aktualna forma top scorerów:**
-    *   Sezon PLK 2026/2027 rozpocznie się 2 października 2026 roku, więc brak jest pełnych statystyk ligowych top scorerów.
-    *   Legia Warszawa zwyciężyła w Superpucharze Polski im. Adama Wójcika, pokonując w finale Zastal Zielona Góra 110:96 w dniu 27 września 2026 roku.
-    *   Arguster Daniels (znany również jako Devon Daniels IV) z Legii Warszawa został wybrany MVP Superpucharu Polski, co świadczy o jego doskonałej formie.
+1.  **Kluczowe braki w składach:**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Według informacji z 6 czerwca 2026 roku, Filip Matczak odczuwał dolegliwości związane ze starą kontuzją, a Dwight Wilson III nadal zmagał się ze skutkami urazu kostki, choć brał udział w treningach. Trener zapewnił, że pozostali zawodnicy byli gotowi do walki w serii finałowej. Brak informacji o zawieszeniach czy foul-outach.
+    *   🏀 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim Legii Warszawa odnotowanych na czerwiec 2026 roku. Informacje o kontuzji Szymona Tomczaka dotyczą sezonu 2026/27 i są nieistotne dla tego meczu.
 
-#### **ORLEN Zastal Zielona Góra**
-1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych, aktualnych braków w składzie koszykarskim na dzień 29 września 2026 roku.
-2.  **Aktualna forma top scorerów:**
-    *   Sezon PLK 2026/2027 rozpocznie się 2 października 2026 roku, więc brak jest pełnych statystyk ligowych top scorerów.
-    *   Zespół ORLEN Zastalu Zielona Góra dotarł do finału Superpucharu Polski, przegrywając z Legią Warszawa. To wskazuje na dobrą ogólną formę drużyny na początku sezonu. Brak danych z API dla tego zespołu w kontekście top scorerów Superpucharu.
+2.  **Aktualna forma top scorerów (sezon 2025/2026):**
+    *   🏀 **ORLEN Zastal Zielona Góra:** Liderami punktowymi zespołu w sezonie 2025/2026 byli Chavaughn Lewis (średnio 15.8 Pkt/mecz), Jakub Szumert (13.2 Pkt/mecz) i Andrzej Mazurczak (11.8 Pkt/mecz).
+    *   🏀 **Legia Warszawa:** Andrzej Pluta Jr. został wybrany MVP sezonu zasadniczego 2025/26 oraz MVP Finałów PLK 2025/26. Był także najlepszym polskim zawodnikiem sezonu zasadniczego. To wskazuje na jego kluczową rolę i doskonałą formę. Brak danych z API dla pozostałych wiodących strzelców z Legii w kontekście konkretnych średnich punktowych, poza wyróżnieniem Pluty jako MVP.
 
-### Werdykt:
-Legia Warszawa niedawno pokonała Zastal Zielona Góra w finale Superpucharu Polski, a ich zawodnik, Arguster Daniels, zdobył tytuł MVP. Mimo kontuzji Szymona Tomczaka, forma Legii na dzień dzisiejszy (2026-09-29) wydaje się bardzo mocna.
-
-Werdykt: [✅ ZATWIERDZONY]
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mecz odbył się 21 czerwca 2026 roku i był decydującym, siódmym meczem finałowej serii, w którym Legia Warszawa pokonała ORLEN Zastal Zielona Góra 110:96, zdobywając Mistrzostwo Polski.
+    *   Legia Warszawa była czołową drużyną sezonu zasadniczego.
+    *   Kluczowy zawodnik Legii, Andrzej Pluta Jr., został wybrany MVP sezonu i finałów, co świadczy o jego wyjątkowej formie.
+    *   Zastal miał drobne problemy zdrowotne z dwoma zawodnikami, co mogło wpłynąć na ich dyspozycję, choć nie wykluczyło ich z gry.
+    *   Przewaga własnego parkietu w decydującym meczu (Legia była gospodarzem w 7. meczu finału) była istotna.
