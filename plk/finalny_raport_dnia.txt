@@ -1,17 +1,26 @@
---- AUDYT PLK LIVE (2026-09-30 02:29 CET) ---
-Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21) -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-09-30 11:58 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (2026-06-21):
 
-1.  **Kluczowe braki w składach (na dzień 2026-06-21):**
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Chavaughn Lewis: Kontuzjowany od maja 2026, prawdopodobnie niedostępny na mecz 21.06.2026.
-        *   Filip Matczak: Odczuwał dolegliwości związane ze starą kontuzją na początku czerwca 2026, jego występ mógł być ograniczony.
-        *   Dwight Wilson: Odczuwał skutki urazu kostki na początku czerwca 2026, ale trenował normalnie.
-    *   🏀 **Legia Warszawa:**
-        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-06-21.
+Mecz ten był siódmym, decydującym spotkaniem finałowym Orlen Basket Ligi, rozegranym w Warszawie na hali OSiR Bemowo. Legia Warszawa zwyciężyła 78:70, zdobywając Mistrzostwo Polski.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API PulsBasketu dla top scorerów z tej konkretnej serii.
-    *   Należy jednak zaznaczyć, że Arguster Daniels z Legii Warszawa został wybrany MVP Superpucharu Polski 2026, rozegranego 27.09.2026, co świadczy o jego wysokiej formie. W tym finale Legia pokonała Zastal 110:96.
+1.  **Kluczowe braki w składach koszykarskich (na dzień 2026-06-21):**
+    *   🟢 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim.
+    *   ⚠️ **ORLEN Zastal Zielona Góra:**
+        *   **Filip Matczak:** Grał z urazem nosa (po kontuzji doznanej w pierwszym meczu serii), występował w masce. Deklarował gotowość do gry "ze złamanym nosem czy urwaną nogą".
+        *   **Jakub Szumert:** Miał problemy z faulami w trakcie meczu, łapiąc czwarty faul w kluczowym momencie czwartej kwarty i mając trzy faule do połowy meczu.
+        *   **Conley Garrison:** Miał trzy faule do przerwy w tym meczu.
+        *   **Phil Fayne:** Wcześniej przed finałami zmagał się z urazami, ale wrócił do gry.
 
-3.  **Werdykt:**
-    *   ✅ **ZATWIERDZONY** - Legia Warszawa obroniła tytuł Mistrza Polski, pokonując Zastal Zielona Góra w finale 21.06.2026. Liczne braki w składzie Zastalu oraz dobra forma Legii przyczyniły się do słuszności typu.
+2.  **Aktualna forma top scorerów (z meczu 2026-06-21):**
+    *   🟢 **Legia Warszawa:**
+        *   Andrzej Pluta: 15 punktów
+        *   Race Thompson: 11 punktów
+        *   Dominic Brewton III: 11 punktów
+        *   Shane Hunter: 10 punktów
+        Legia zaprezentowała bardziej rozłożoną ofensywę z czterema zawodnikami na poziomie 10+ punktów.
+    *   ⚠️ **ORLEN Zastal Zielona Góra:**
+        *   Andrzej Mazurczak: 10 punktów (top scorer zespołu w tym meczu).
+        Mimo wczesnych punktów od Krzysztofa Sulimy i Jayvona Maughmera, Legia była w stanie ograniczyć produktywność czołowych strzelców Zastalu w decydującym spotkaniu.
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   **Uzasadnienie:** Typ na Legię Warszawa okazał się trafny. Pomimo zaciętej walki w siódmym meczu finałów, Legia wykorzystała przewagę własnego parkietu. Kontuzje Filipa Matczaka, problemy z faulami Jakuba Szumerta i Conleya Garrisona w trakcie meczu po stronie Zastalu, oraz bardziej zróżnicowana i skuteczna ofensywa Legii (czterech graczy z dwucyfrową liczbą punktów, w porównaniu do jednego w Zastalu) złożyły się na zwycięstwo gospodarzy.
