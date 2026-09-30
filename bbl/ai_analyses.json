@@ -1,38 +1,23 @@
 {
-  "generated_at": "2026-09-27T13:33:11.314219",
-  "date": "2026-09-27",
+  "generated_at": "2026-09-30T22:59:22.899054",
+  "date": "2026-10-01",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Phoenix Hagen @ NINERS Chemnitz",
-      "phase": "Hauptrunde - 3. Spieltag",
-      "ai_pick": "NINERS Chemnitz",
-      "formula_pick": "NINERS Chemnitz",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "NINERS Chemnitz, despite their 0-2 start in the BBL, showed resilience in close losses against strong opponents like Alba Berlin and Hamburg Towers, with one game going to overtime. Phoenix Hagen, as a newly promoted team, has also started the BBL season with two losses and appears to be struggling to adapt to the league's demands. Chemnitz will also benefit from playing at home.",
+      "matchup": "RASTA Vechta @ Science City Jena",
+      "phase": "Regular Season - Matchday 1",
+      "ai_pick": "RASTA Vechta",
+      "formula_pick": "Science City Jena",
+      "agreement": false,
+      "confidence": 6,
+      "reasoning": "Science City Jena rozpoczęło sezon BBL 2026/27 z bilansem 0-1, a ich ostatni zarejestrowany mecz ligowy zakończył się porażką 98-85 z Gladiators Trier. RASTA Vechta również rozpoczęła sezon w BBL w okolicach 24 września, odnotowując jeden rozegrany mecz, jednak bez podanych szczegółowych wyników na dzień dzisiejszy. Biorąc pod uwagę słaby start gospodarzy i brak istotnych kontuzji u obu drużyn, RASTA Vechta ma niewielką przewagę w tym wczesnym meczu sezonu.",
       "key_factors": [
-        "Home court advantage for NINERS Chemnitz",
-        "Better competitive form of NINERS Chemnitz against stronger BBL teams",
-        "Phoenix Hagen's struggle to adapt as a newly promoted team"
+        "Słaby start Science City Jena w bieżącym sezonie BBL (bilans 0-1)",
+        "Brak szczegółowych danych o aktualnej formie RASTA Vechta, ale zespół jest w trakcie sezonu ligowego",
+        "Brak istotnych kontuzji zgłoszonych dla obu drużyn"
       ],
-      "injury_notes": "Brak istotnych braków"
-    },
-    {
-      "matchup": "Fitness First Würzburg Baskets @ ratiopharm ulm",
-      "phase": "Hauptrunde - 3. Spieltag",
-      "ai_pick": "ratiopharm ulm",
-      "formula_pick": "ratiopharm ulm",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "ratiopharm ulm rozpoczeli sezon BBL z bilansem 2-0, w tym z przekonującym zwycięstwem u siebie oraz wyjazdowym. Zespół Fitness First Würzburg Baskets przegrał swój jedyny dotychczasowy mecz w BBL (0-1) i ma w dużej mierze przebudowany skład, który wciąż się zgrywa. Dodatkowo, ratiopharm ulm grają dzisiaj na własnym parkiecie, co daje im przewagę.",
-      "key_factors": [
-        "Lepsza aktualna forma ratiopharm ulm (2-0 w BBL, Würzburg 0-1 w BBL)",
-        "Przewaga własnego parkietu dla ratiopharm ulm",
-        "Fitness First Würzburg Baskets mają w dużej mierze nowy skład, który potrzebuje czasu na zgranie"
-      ],
-      "injury_notes": "Brak istotnych braków kontuzji na dzień 2026-09-27 dla obu drużyn. ratiopharm ulm borykało się wcześniej we wrześniu z problemami kadrowymi na pozycji rozgrywającego, co skutkowało pozyskaniem Marvina Heckela, jednak brak jest informacji o kluczowych absencjach na dziś."
+      "injury_notes": "brak istotnych brakow"
     }
   ]
 }
