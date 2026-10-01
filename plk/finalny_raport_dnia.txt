@@ -1,20 +1,18 @@
---- AUDYT PLK LIVE (2026-10-01 21:22 CET) ---
-ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
+--- AUDYT PLK LIVE (2026-10-01 23:31 CET) ---
+Analiza meczu PLK: ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu w kontekście audytu: 2026-06-21, audyt na dzień 2026-10-01)
 
----
+### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:**
-        *   **Szymon Tomczak:** kontuzja (skręcenie śródstopia z uszkodzeniem więzadeł), przewidywana przerwa około 3 miesięcy od września 2026, wykluczony do końca roku.
-        *   **Michał Kolenda:** Kapitan, po operacji i rehabilitacji. Nie zagrał w Superpucharze Polski, ale ma być do dyspozycji trenera na październikowe spotkania.
-    *   🏀 **ORLEN Zastal Zielona Góra:**
-        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-10-01.
+    *   🏀 **Legia Warszawa:** Kontuzjowany Szymon Tomczak (środkowy). Doznał skręcenia śródstopia z uszkodzeniem więzadeł we wrześniu 2026 i czeka go około 3 miesięcy przerwy, co oznacza, że nie zagra do końca roku. Michał Kolenda również wraca po rehabilitacji, ale w sierpniu 2026 Legia sprowadziła Mathieu Wojciechowskiego jako zabezpieczenie.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim na dzień 2026-10-01.
 
 2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-    *   Warto jednak odnotować, że Legia Warszawa niedawno (27.09.2026) pokonała Zastal Zielona Góra w finale Superpucharu Polski wynikiem 110:96. MVP Superpucharu został Arguster Daniels z Legii Warszawa.
+    *   Na dzień 2026-10-01 sezon PLK 2026/2027 dopiero się rozpoczął. Dostępne są jednak dane z niedawno rozegranego Superpucharu Polski (27.09.2026), gdzie Legia Warszawa pokonała Zastal Zielona Góra 110:96.
+    *   🏀 **Legia Warszawa:** Arguster Daniels został wybrany MVP Superpucharu Polski 2026. Jest to nowy zawodnik Legii, który ma być liderem w walce o mistrzostwo. Jego występ w Superpucharze świadczy o doskonałej formie.
+    *   🏀 **ORLEN Zastal Zielona Góra:** Brak danych z API dla tego zespołu w kontekście top scorerów z początku sezonu. Zespół dotarł do finału Superpucharu, gdzie przegrał z Legią.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Legia Warszawa, aktualny mistrz Polski, niedawno (27.09.2026) pewnie pokonała Zastal Zielona Góra w finale Superpucharu Polski (110:96), co świadczy o dobrej formie drużyny na początku sezonu 2026/2027.
-    *   Mimo kontuzji Szymona Tomczaka, Legia wciąż dysponuje silnym składem, a kapitan Michał Kolenda wraca do gry w październiku.
-    *   Brak informacji o kluczowych brakach kadrowych w ORLEN Zastalu Zielona Góra na dzień dzisiejszy.
+3.  **Werdykt:**
+    Biorąc pod uwagę aktualną datę (2026-10-01) i bardzo świeże wyniki (finał Superpucharu Polski z 27.09.2026), Legia Warszawa jest w wyraźnie lepszej formie na początku sezonu 2026/2027. Pomimo kontuzji Szymona Tomczaka, Legia pokonała Zastal w bezpośrednim starciu o trofeum, a ich nowy lider, Arguster Daniels, zdobył tytuł MVP. Przewaga własnego parkietu dla Legii dodatkowo wzmacnia ten typ.
+
+    **✅ ZATWIERDZONY**
