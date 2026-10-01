@@ -1,18 +1,25 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-30 20:34 ET) ---
-Heat @ Raptors -> Typ: Raptors
+--- KRYTYCZNY AUDYT LIVE (2026-09-30 23:30 ET) ---
+Analiza meczu Heat @ Raptors (typ: Raptors) na podstawie danych z 2026-09-30, z uwzględnieniem składów ze STYCZNIA 2026:
 
-*   **Kluczowe braki w składach (2026-09-30):**
-    *   **Miami Heat:**
-        *   Terry Rozier: Nie jest z zespołem i nie zagra dla Heat.
-        *   Tim Hardaway Jr.: Mało prawdopodobne, by zaczął w pierwszej piątce.
-        *   Giannis Antetokounmpo: Wraca po sezonie pełnym kontuzji, jego powrót do pełnej formy jest monitorowany w trakcie obozu przygotowawczego.
-    *   **Toronto Raptors:**
-        *   Nate Bittle: Day-To-Day (drobne urazy nogi), spodziewany powrót 2026-10-01.
-        *   Alijah Martin: Day-To-Day (kolano), spodziewany powrót 2026-10-01.
-        *   Chucky Hepburn: Day-To-Day (kolano), spodziewany powrót 2026-10-01.
-        *   Collin Murray-Boyles: Day-To-Day (skręcony palec), spodziewany powrót 2026-10-01.
-        (Powyżsi gracze Raptors to głównie zawodnicy rywalizujący o miejsca w składzie lub stanowiący głębię ławki, ich status na 30 września 2026 wskazuje na niepełną gotowość, choć spodziewani są do powrotu następnego dnia).
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Heat, według raportów z początku 2026 i obozu przygotowawczego, znacząco wzmocnili skład, dodając takie nazwiska jak Giannis Antetokounmpo, Klay Thompson, Andrew Wiggins i Bobby Portis, do istniejącego trzonu z Bamem Adebayo i Jaime Jaquezem Jr.. Tworzy to niezwykle silny zespół.
-    *   Raptors również posiadają mocny skład z Immanuelem Quickleyem, Jakobem Poeltlem, Scottiem Barnesem, a także dodali Kawhi Leonarda i Brandona Ingrama.
-    *   Mimo wzmocnień Raptors, prognoza na ich zwycięstwo wydaje się ryzykowna, biorąc pod uwagę kaliber nowych nabytków Miami oraz obecność kilku graczy Raptors z drobnymi urazami (Day-To-Day), co mogłoby wpłynąć na rotację i głębię składu w hipotetycznym meczu na dzień 30 września 2026.
+---
+
+### Heat @ Raptors
+
+**Składy (Styczeń 2026):**
+*   **Miami Heat:** W składzie z sezonu 2025-26, kluczowymi graczami byli Jaime Jaquez Jr., Terry Rozier, Davion Mitchell, Norman Powell.
+*   **Toronto Raptors:** Roster z sezonu 2025-26 obejmował Scottie'ego Barnesa, Immanuela Quickleya, RJ Barretta, Brandona Ingrama oraz Jakoba Poeltla.
+
+**Kluczowe braki w składach (Dane na 2026-09-30, odnoszące się do graczy ze składów z stycznia 2026):**
+*   **Miami Heat:**
+    *   Terry Rozier: "Nie jest z drużyną i nie wyjdzie na parkiet". (Status: Out)
+    *   *Uwaga:* Informacje o Giannisie Antetokounmpo, Klayu Thompsonie i Andrew Wigginsie dołączających do Heat na sezon 2026-27 (od września 2026) oraz ich statusy zdrowotne nie są brane pod uwagę dla oceny siły składu, zgodnie z zasadą "Interesuje Cię tylko STYCZEŃ 2026" dla rosterów.
+*   **Toronto Raptors:**
+    *   Jakob Poeltl: Miał problemy z urazem pleców w sezonie 2025-26 i nadal pracuje nad powrotem do pełnej sprawności. (Status: Questionable/GTD - przewlekła kontuzja)
+    *   Nate Bittle: Kontuzja dolnej części prawej nogi. (Status: Day-To-Day)
+    *   Alijah Martin: Kontuzja kolana. (Status: Day-To-Day/Questionable)
+    *   Chucky Hepburn: Kontuzja kolana. (Status: Day-To-Day/Questionable)
+    *   Collin Murray-Boyles: Zwichnięty palec. (Status: Day-To-Day/Questionable)
+
+**Werdykt:** [⚠️ RYZYKOWNY]
+
+*   **Uzasadnienie:** Ocena jest ryzykowna ze względu na sprzeczne daty, zgodnie z którymi składy analizowane są na styczeń 2026, a raporty kontuzji na wrzesień 2026. Biorąc pod uwagę składy ze stycznia 2026, Raptors, z silnym rdzeniem takim jak Scottie Barnes, Brandon Ingram, Immanuel Quickley i RJ Barrett, wydają się mieć przewagę nad osłabionymi Miami Heat, którzy w styczniu 2026 nie mieli jeszcze swoich późniejszych, znaczących nabytków. Utrata Terry'ego Roziera to kluczowy brak dla Heat w kontekście składu ze stycznia 2026. Raptors również mają problemy z kontuzjami, zwłaszcza z Jakobem Poeltlem i kilkoma graczami głębi składu, ale ich główny trzon pozostaje silny. Zakładając, że Raptors będą w stanie wystawić większość swojego podstawowego składu ze stycznia 2026, mimo drobnych kontuzji na dzień 30.09.2026, nadal są solidnym typem. Jednak sprzeczność dat sprawia, że każda prognoza jest obarczona wysokim ryzykiem.
