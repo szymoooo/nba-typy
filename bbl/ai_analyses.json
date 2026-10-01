@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-09-30T22:59:22.899054",
-  "date": "2026-10-01",
+  "generated_at": "2026-10-01T23:24:24.279328",
+  "date": "2026-10-02",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "RASTA Vechta @ Science City Jena",
-      "phase": "Regular Season - Matchday 1",
-      "ai_pick": "RASTA Vechta",
-      "formula_pick": "Science City Jena",
+      "matchup": "Telekom Baskets Bonn @ Fitness First Würzburg Baskets",
+      "phase": "Hauptrunde",
+      "ai_pick": "Telekom Baskets Bonn",
+      "formula_pick": "Fitness First Würzburg Baskets",
       "agreement": false,
-      "confidence": 6,
-      "reasoning": "Science City Jena rozpoczęło sezon BBL 2026/27 z bilansem 0-1, a ich ostatni zarejestrowany mecz ligowy zakończył się porażką 98-85 z Gladiators Trier. RASTA Vechta również rozpoczęła sezon w BBL w okolicach 24 września, odnotowując jeden rozegrany mecz, jednak bez podanych szczegółowych wyników na dzień dzisiejszy. Biorąc pod uwagę słaby start gospodarzy i brak istotnych kontuzji u obu drużyn, RASTA Vechta ma niewielką przewagę w tym wczesnym meczu sezonu.",
+      "confidence": 7,
+      "reasoning": "Telekom Baskets Bonn rozpoczęli sezon 2026/27 z lepszym bilansem 2-1 w BBL, podczas gdy Fitness First Würzburg Baskets mają bilans 1-1. Telekom Baskets Bonn wyeliminowało również Fitness First Würzburg Baskets w ćwierćfinałach playoffów sezonu 2025/26, wygrywając serię 3-2, co wskazuje na ich przewagę w bezpośrednich starciach. Kluczowi gracze Bonn, tacy jak John-Michael Wright i Grayson Murphy, wykazują dobrą formę na początku obecnego sezonu, w przeciwieństwie do podanych hipotetycznych bilansów 0-34 dla obu drużyn w sezonie 2025/26, które są sprzeczne z faktycznymi wynikami ich udziału w playoffach.",
       "key_factors": [
-        "Słaby start Science City Jena w bieżącym sezonie BBL (bilans 0-1)",
-        "Brak szczegółowych danych o aktualnej formie RASTA Vechta, ale zespół jest w trakcie sezonu ligowego",
-        "Brak istotnych kontuzji zgłoszonych dla obu drużyn"
+        "Lepsza forma początkowa Telekom Baskets Bonn w sezonie 2026/27 (2-1 w BBL).",
+        "Niedawne zwycięstwo Telekom Baskets Bonn nad Würzburgiem w playoffach 2025/26 (3-2 w serii).",
+        "Wysoka forma liderów Bonn, takich jak John-Michael Wright (19.5 PPG) i Grayson Murphy (wszechstronne statystyki).",
+        "Mecz jest rozgrywany na własnym boisku Fitness First Würzburg Baskets (tectake Arena)."
       ],
-      "injury_notes": "brak istotnych brakow"
+      "injury_notes": "Jeff Garrett Jr. (Telekom Baskets Bonn) miał problemy z kolanem w pre-sezonie, ale grał w meczach na koniec września. Brak innych istotnych braków po obu stronach na dzień meczu."
     }
   ]
 }

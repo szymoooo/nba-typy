@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-06-20T22:37:07.615017",
-  "date": "2026-06-21",
+  "generated_at": "2026-10-01T23:23:24.238331",
+  "date": "2026-10-02",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "ORLEN Zastal Zielona Góra @ Legia Warszawa",
-      "ai_pick": null,
-      "formula_pick": "Legia Warszawa",
-      "note": "AI fallback"
+      "matchup": "Legia Warszawa @ Energa Czarni Słupsk",
+      "phase": "Runda Zasadnicza",
+      "round": "1 kolejka",
+      "date": "2026-10-02T18:00:00",
+      "ai_pick": "Legia Warszawa",
+      "formula_pick": "Energa Czarni Słupsk",
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "Legia Warszawa to obrońca tytułu mistrza Polski i przed rozpoczęciem sezonu 2026/2027 zaprezentowała bardzo dobrą formę, zdobywając Superpuchar Polski. Mimo że mecz odbędzie się na wyjeździe, Legia wydaje się być silniejszą drużyną na start rozgrywek.",
+      "key_factors": [
+        "Legia Warszawa zdobyła Superpuchar Polski 2026",
+        "Legia Warszawa jest obrońcą tytułu mistrza PLK",
+        "Brak istotnych, potwierdzonych kontuzji w obu drużynach koszykarskich na dzień meczu"
+      ],
+      "injury_notes": "Brak raportów o istotnych kontuzjach w drużynach koszykarskich Energa Czarni Słupsk i Legia Warszawa na dzień 2026-10-02. Informacje o kontuzjach Legii Warszawa znalezione w wyszukiwaniu dotyczą sekcji piłkarskiej klubu.",
+      "agreement_with_odds": "no_odds"
+    },
+    {
+      "matchup": "Dziki Warszawa @ Energa Trefl Sopot",
+      "phase": "Runda Zasadnicza",
+      "round": "1 kolejka",
+      "date": "2026-10-02T20:15:00",
+      "ai_pick": "Dziki Warszawa",
+      "formula_pick": "Energa Trefl Sopot",
+      "agreement": false,
+      "confidence": 6,
+      "reasoning": "Dziki Warszawa, jako brązowi medaliści poprzedniego sezonu, weszli w nowy sezon z intensywniejszymi przygotowaniami, biorąc udział w kwalifikacjach do Ligi Mistrzów, co mogło zapewnić im lepsze zgranie i rytm meczowy. Potencjalna absencja lub osłabienie Michała Michalaka z powodu urazu stawu skokowego może być znaczącym osłabieniem dla Energi Trefla Sopot.",
+      "key_factors": [
+        "Forma meczowa Dzików po udziale w kwalifikacjach BCL i Superpucharze Polski.",
+        "Wysoka pozycja Dzików Warszawa (brązowy medal) w poprzednim sezonie.",
+        "Potencjalna absencja lub osłabienie Michała Michalaka (Energa Trefl Sopot) po urazie stawu skokowego."
+      ],
+      "injury_notes": "Michał Michalak (Energa Trefl Sopot) doznał urazu stawu skokowego w półfinale Superpucharu Polski 26 września 2026 r. i jego dostępność na mecz jest niepewna. Energa Trefl Sopot wzmocniła skład, podpisując 1 października 2026 r. amerykańskiego skrzydłowego Cartera Gilmore'a. Brak istotnych braków po stronie Dzików Warszawa.",
+      "agreement_with_odds": "no_odds"
     }
   ]
 }
