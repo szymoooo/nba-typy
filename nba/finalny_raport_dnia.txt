@@ -1,25 +1,15 @@
---- KRYTYCZNY AUDYT LIVE (2026-09-30 23:30 ET) ---
-Analiza meczu Heat @ Raptors (typ: Raptors) na podstawie danych z 2026-09-30, z uwzględnieniem składów ze STYCZNIA 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-10-01 06:25 ET) ---
+Analiza meczu: Heat @ Raptors
 
----
+*   **Kluczowe braki w składach (2026-10-01):**
+    *   **Miami Heat:** Brak aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby na kontuzje kluczowych graczy. Bam Adebayo, po lekkim urazie pleców pod koniec sezonu 2025-26, jest w pełni sił na rozpoczęcie obozu treningowego.
+    *   **Toronto Raptors:**
+        *   Collin Murray-Boyles (PF/F): Status: Day-To-Day (Questionable). Kontuzja: Skręcony palec. Ominął mecze Ligi Letniej, ale jest przewidywany do kontynuowania znaczącej roli w sezonie 2026-27.
+        *   Alijah Martin (SG/G): Status: Day-To-Day (Questionable). Kontuzja: Kolano. Ominął finał Ligi Letniej, w sezonie 2025-26 zapewniał głębię składu obwodowego.
+        *   Chucky Hepburn (PG/G): Status: Day-To-Day (Questionable). Kontuzja: Kolano. Ominął finał Ligi Letniej.
+        *   Nate Bittle (C): Status: Day-To-Day. Kontuzja: Ból prawego kolana. Ominął finał Ligi Letniej, walczy o miejsce w składzie.
 
-### Heat @ Raptors
-
-**Składy (Styczeń 2026):**
-*   **Miami Heat:** W składzie z sezonu 2025-26, kluczowymi graczami byli Jaime Jaquez Jr., Terry Rozier, Davion Mitchell, Norman Powell.
-*   **Toronto Raptors:** Roster z sezonu 2025-26 obejmował Scottie'ego Barnesa, Immanuela Quickleya, RJ Barretta, Brandona Ingrama oraz Jakoba Poeltla.
-
-**Kluczowe braki w składach (Dane na 2026-09-30, odnoszące się do graczy ze składów z stycznia 2026):**
-*   **Miami Heat:**
-    *   Terry Rozier: "Nie jest z drużyną i nie wyjdzie na parkiet". (Status: Out)
-    *   *Uwaga:* Informacje o Giannisie Antetokounmpo, Klayu Thompsonie i Andrew Wigginsie dołączających do Heat na sezon 2026-27 (od września 2026) oraz ich statusy zdrowotne nie są brane pod uwagę dla oceny siły składu, zgodnie z zasadą "Interesuje Cię tylko STYCZEŃ 2026" dla rosterów.
-*   **Toronto Raptors:**
-    *   Jakob Poeltl: Miał problemy z urazem pleców w sezonie 2025-26 i nadal pracuje nad powrotem do pełnej sprawności. (Status: Questionable/GTD - przewlekła kontuzja)
-    *   Nate Bittle: Kontuzja dolnej części prawej nogi. (Status: Day-To-Day)
-    *   Alijah Martin: Kontuzja kolana. (Status: Day-To-Day/Questionable)
-    *   Chucky Hepburn: Kontuzja kolana. (Status: Day-To-Day/Questionable)
-    *   Collin Murray-Boyles: Zwichnięty palec. (Status: Day-To-Day/Questionable)
-
-**Werdykt:** [⚠️ RYZYKOWNY]
-
-*   **Uzasadnienie:** Ocena jest ryzykowna ze względu na sprzeczne daty, zgodnie z którymi składy analizowane są na styczeń 2026, a raporty kontuzji na wrzesień 2026. Biorąc pod uwagę składy ze stycznia 2026, Raptors, z silnym rdzeniem takim jak Scottie Barnes, Brandon Ingram, Immanuel Quickley i RJ Barrett, wydają się mieć przewagę nad osłabionymi Miami Heat, którzy w styczniu 2026 nie mieli jeszcze swoich późniejszych, znaczących nabytków. Utrata Terry'ego Roziera to kluczowy brak dla Heat w kontekście składu ze stycznia 2026. Raptors również mają problemy z kontuzjami, zwłaszcza z Jakobem Poeltlem i kilkoma graczami głębi składu, ale ich główny trzon pozostaje silny. Zakładając, że Raptors będą w stanie wystawić większość swojego podstawowego składu ze stycznia 2026, mimo drobnych kontuzji na dzień 30.09.2026, nadal są solidnym typem. Jednak sprzeczność dat sprawia, że każda prognoza jest obarczona wysokim ryzykiem.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Toronto Raptors dokonali znaczącego wzmocnienia, pozyskując Kawhi Leonarda.
+    *   Miami Heat również znacząco wzmocnili swój skład, pozyskując Giannisa Antetokounmpo i Klay Thompsona, co stawia ich w roli bardzo silnego zespołu.
+    *   Brak kontuzji kluczowych graczy w Miami Heat w połączeniu z ich nowymi gwiazdami stwarza silną konkurencję. Chociaż Raptors mają Kawhi Leonarda, to drobne, choć niekluczowe, kontuzje kilku graczy rotacyjnych mogą wpłynąć na głębię składu. W obliczu w pełni zdrowego i wzmocnionego składu Heat, typ na Raptors jest obarczony ryzykiem.
