@@ -1,27 +1,28 @@
---- AUDYT PLK LIVE (2026-10-01 12:26 CET) ---
-Rozumiem, że mam przeanalizować podany typ z perspektywy dzisiejszej daty (2026-10-01), jednocześnie mając świadomość, że mecz, do którego odnosi się typ, odbył się 2026-06-21. Skupiam się wyłącznie na aktualnych (2026-10-01) informacjach dotyczących składów, kontuzji i formy koszykarzy.
+--- AUDYT PLK LIVE (2026-10-01 17:03 CET) ---
+Analiza meczu ORLEN Zastal Zielona Góra @ Legia Warszawa (data meczu: 2026-06-21, analiza na dzień 2026-10-01):
 
----
+### ORLEN Zastal Zielona Góra
 
-### ORLEN Zastal Zielona Góra @ Legia Warszawa -> Typ: Legia Warszawa (mecz z 2026-06-21, analiza na 2026-10-01)
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-10-01.
+    *   Wcześniejsze doniesienia (maj/czerwiec 2026, czyli z poprzedniego sezonu) o problemach zdrowotnych Filipa Matczaka i Dwighta Wilsona oraz powrót Phila Fayne'a są nieaktualne w kontekście obecnego sezonu, dla którego nie ma nowych, potwierdzonych informacji o kontuzjach.
 
-#### 1. Kluczowe braki w składach (stan na 2026-10-01)
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu na początek sezonu 2026/2027.
+    *   Trazarien White zapowiada się jako "fabryka efektownych zagrań" w nowym sezonie.
+    *   Beau Beech to nowy, wartościowy nabytek, który dał się poznać jako skuteczny strzelec z dystansu.
+    *   Zespół dotarł do finału Superpucharu Polski, co świadczy o dobrej formie przedsezonowej.
 
-*   **Legia Warszawa koszykówka:**
-    *   Brak istotnych braków w składzie koszykarskim.
-*   **ORLEN Zastal Zielona Góra koszykówka:**
-    *   Brak istotnych braków w składzie koszykarskim.
+### Legia Warszawa
 
-#### 2. Aktualna forma top scorerów (stan na 2026-10-01)
+1.  **Kluczowe braki w składach:**
+    *   **Szymon Tomczak** (środkowy) - kontuzja śródstopia z uszkodzeniem więzadeł. Przerwa w treningach wyniesie około 3 miesięcy, zawodnik nie pojawi się na parkiecie do końca roku 2026. Jest to znacząca absencja pod koszem.
 
-*   **Legia Warszawa:**
-    *   Brak danych z API dla tego zespołu w kontekście top scorerów w trwającym sezonie 2026/2027, ze względu na wczesną fazę rozgrywek.
-*   **ORLEN Zastal Zielona Góra:**
-    *   Brak danych z API dla tego zespołu w kontekście top scorerów w trwającym sezonie 2026/2027, ze względu na wczesną fazę rozgrywek.
+2.  **Aktualna forma top scorerów:**
+    *   **Arguster Daniels** został wybrany MVP Superpucharu Polski 2026, co wskazuje na jego znakomitą formę na początku sezonu 2026/2027. Jego transfer ma poprowadzić Legię do trzeciego z rzędu mistrzostwa Polski.
+    *   Legia wygrała Superpuchar Polski 2026, pokonując Zastal Zielona Góra w finale 110:96 dnia 27 września 2026 roku.
 
-#### 3. Werdykt:
+### Werdykt:
+Legia Warszawa niedawno (27 września 2026) pokonała Zastal Zielona Góra w finale Superpucharu Polski 110:96. Mimo kontuzji Szymona Tomczaka, Legia udowodniła swoją siłę, a Arguster Daniels jest w świetnej formie, czego dowodem jest tytuł MVP Superpucharu. Zastal, choć również osiągnął finał Superpucharu, przegrał w bezpośrednim starciu.
 
-*   **[⚠️ RYZYKOWNY]**
-    *   **Uzasadnienie:** Ocena typu dla meczu z 2026-06-21, bazując na aktualnych składach i kontuzjach z 2026-10-01, jest obarczona dużym ryzykiem i nie odzwierciedla faktycznych warunków meczowych w czerwcu. Brak danych o top scorerach w serii (gdyż mecz odbył się dawno temu i nie mamy danych historycznych z "Pulsu Basketu" dla tego konkretnego typu) oraz brak jakichkolwiek informacji o formie czy kontuzjach z daty meczu (2026-06-21) uniemożliwia rzetelną retrospektywną ocenę. Analiza opiera się jedynie na *obecnym* stanie zespołów, co nie ma zastosowania do historycznego typu.
-
----
+Werdykt: [✅ ZATWIERDZONY]
