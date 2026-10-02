@@ -1,44 +1,51 @@
 {
-  "generated_at": "2026-10-01T23:23:24.238331",
-  "date": "2026-10-02",
+  "generated_at": "2026-10-02T23:05:26.278306",
+  "date": "2026-10-03",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Legia Warszawa @ Energa Czarni Słupsk",
+      "matchup": "King Szczecin @ Arriva Lotto Twarde Pierniki Toruń",
       "phase": "Runda Zasadnicza",
       "round": "1 kolejka",
-      "date": "2026-10-02T18:00:00",
-      "ai_pick": "Legia Warszawa",
-      "formula_pick": "Energa Czarni Słupsk",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "Legia Warszawa to obrońca tytułu mistrza Polski i przed rozpoczęciem sezonu 2026/2027 zaprezentowała bardzo dobrą formę, zdobywając Superpuchar Polski. Mimo że mecz odbędzie się na wyjeździe, Legia wydaje się być silniejszą drużyną na start rozgrywek.",
-      "key_factors": [
-        "Legia Warszawa zdobyła Superpuchar Polski 2026",
-        "Legia Warszawa jest obrońcą tytułu mistrza PLK",
-        "Brak istotnych, potwierdzonych kontuzji w obu drużynach koszykarskich na dzień meczu"
-      ],
-      "injury_notes": "Brak raportów o istotnych kontuzjach w drużynach koszykarskich Energa Czarni Słupsk i Legia Warszawa na dzień 2026-10-02. Informacje o kontuzjach Legii Warszawa znalezione w wyszukiwaniu dotyczą sekcji piłkarskiej klubu.",
-      "agreement_with_odds": "no_odds"
-    },
-    {
-      "matchup": "Dziki Warszawa @ Energa Trefl Sopot",
-      "phase": "Runda Zasadnicza",
-      "round": "1 kolejka",
-      "date": "2026-10-02T20:15:00",
-      "ai_pick": "Dziki Warszawa",
-      "formula_pick": "Energa Trefl Sopot",
+      "date": "2026-10-03T15:00:00",
+      "ai_pick": "King Szczecin",
+      "formula_pick": "Arriva Lotto Twarde Pierniki Toruń",
       "agreement": false,
       "confidence": 6,
-      "reasoning": "Dziki Warszawa, jako brązowi medaliści poprzedniego sezonu, weszli w nowy sezon z intensywniejszymi przygotowaniami, biorąc udział w kwalifikacjach do Ligi Mistrzów, co mogło zapewnić im lepsze zgranie i rytm meczowy. Potencjalna absencja lub osłabienie Michała Michalaka z powodu urazu stawu skokowego może być znaczącym osłabieniem dla Energi Trefla Sopot.",
+      "reasoning": "King Szczecin jest faworytem spotkania według kursów bukmacherskich i ma przewagę w bezpośrednich starciach z Twardymi Piernikami w poprzednich sezonach. Mimo atutu własnego parkietu dla Torunia, szeroka kadra Kinga Szczecin może pomóc im poradzić sobie z potencjalną kontuzją Maxa Egnera.",
       "key_factors": [
-        "Forma meczowa Dzików po udziale w kwalifikacjach BCL i Superpucharze Polski.",
-        "Wysoka pozycja Dzików Warszawa (brązowy medal) w poprzednim sezonie.",
-        "Potencjalna absencja lub osłabienie Michała Michalaka (Energa Trefl Sopot) po urazie stawu skokowego."
+        "King Szczecin faworytem według kursów bukmacherskich",
+        "Historyczna przewaga King Szczecin w meczach H2H",
+        "Potencjalna kontuzja Maxa Egnera (King Szczecin)",
+        "Atut własnego parkietu dla Arriva Lotto Twarde Pierniki Toruń"
       ],
-      "injury_notes": "Michał Michalak (Energa Trefl Sopot) doznał urazu stawu skokowego w półfinale Superpucharu Polski 26 września 2026 r. i jego dostępność na mecz jest niepewna. Energa Trefl Sopot wzmocniła skład, podpisując 1 października 2026 r. amerykańskiego skrzydłowego Cartera Gilmore'a. Brak istotnych braków po stronie Dzików Warszawa.",
+      "injury_notes": "King Szczecin: Max Egner nabawił się kontuzji kciuka około trzech tygodni temu (stan na 23 września 2026) i jego powrót na parkiet jest niepewny, możliwa jest operacja. Arriva Lotto Twarde Pierniki Toruń: Brak istotnych, aktualnych braków na dzień 2026-10-03, choć we wcześniejszych doniesieniach z maja 2026 wspomniano o kontuzji polskiego zawodnika przed sezonem.",
+      "agreement_with_odds": true
+    },
+    {
+      "matchup": "Zastal Zielona Góra @ Enea Łaciate Astoria Bydgoszcz",
+      "ai_pick": null,
+      "formula_pick": "Enea Łaciate Astoria Bydgoszcz",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Tasomix Rosiek Stal Ostrów Wielkopolski @ PGE Start Lublin",
+      "phase": "Runda Zasadnicza",
+      "round": "1 kolejka",
+      "date": "2026-10-03T19:30:00",
+      "ai_pick": "PGE Start Lublin",
+      "formula_pick": "PGE Start Lublin",
+      "agreement": true,
+      "confidence": 1,
+      "reasoning": "Jest to pierwsza kolejka sezonu 2026/27, a brak jest jakichkolwiek danych dotyczących formy, składów, czy kontuzji dla obu drużyn. W tej sytuacji nie ma podstaw do wyrażenia wysokiej pewności. Wybieram gospodarzy ze względu na atut własnej hali, choć to bardzo słaby sygnał na inaugurację sezonu.",
+      "key_factors": [
+        "brak danych o formie",
+        "brak danych o kontuzjach",
+        "atut własnego parkietu"
+      ],
+      "injury_notes": "brak istotnych braków",
       "agreement_with_odds": "no_odds"
     }
   ]

@@ -1,15 +1,15 @@
 {
-  "season_team_id": 4097,
-  "name": "Zastal Zielona Góra",
-  "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-  "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=5",
+  "season_team_id": 4098,
+  "name": "Arriva Lotto Twarde Pierniki Toruń",
+  "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+  "logo_without_background_path": "teams-logos/t101_l1_s2027.png?v=5",
   "team": {
-    "team_id": 26,
-    "name": "Zastal Zielona Góra",
-    "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-    "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=5",
-    "pzkosz_id": "769",
-    "abbreviation": "ZIE"
+    "team_id": 34,
+    "name": "Arriva Lotto Twarde Pierniki Toruń",
+    "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+    "logo_without_background_path": "teams-logos/t101_l1_s2027.png?v=5",
+    "pzkosz_id": "101",
+    "abbreviation": "TOR"
   },
   "league_season": {
     "league_season_id": 180,
@@ -234,9 +234,55 @@
     "eval": 0.0,
     "plus_minus": 0.0
   },
-  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
   "total_games_played": 0,
   "games": [
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39566,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
+          "score": 0,
+          "name": "King Szczecin",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
+          "abbr": "SZC",
+          "team_id": 31
+        },
+        "date": "2026-10-03T15:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "1 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": "yt",
+        "youtube_url": "https://www.youtube.com/watch?v=ZjjHnOHrDhs",
+        "external_game_id": null
+      },
+      "opponent": "King Szczecin",
+      "opponent_team_id": 31,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
     {
       "role": "AWAY",
       "won": null,
@@ -249,8 +295,62 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39567,
+        "game_id": 39574,
         "home_team": {
+          "score": 0,
+          "name": "MKS Dąbrowa Górnicza",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
+          "abbr": "DAB",
+          "team_id": 32
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "date": "2026-10-10T15:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "2 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": "yt",
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "MKS Dąbrowa Górnicza",
+      "opponent_team_id": 32,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39582,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
           "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
@@ -258,20 +358,12 @@
           "abbr": "BYD",
           "team_id": 7
         },
-        "away_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "date": "2026-10-03T17:30:00",
+        "date": "2026-10-16T18:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "1 kolejka",
+        "round": "3 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": "polsat",
         "youtube_url": null,
@@ -284,52 +376,6 @@
       "extra_stat_line": {}
     },
     {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39573,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
-          "abbr": "LEG",
-          "team_id": 37
-        },
-        "date": "2026-10-09T18:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "2 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": "polsat",
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Legia Warszawa",
-      "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
       "role": "AWAY",
       "won": null,
       "legacy_issue": false,
@@ -341,7 +387,7 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39583,
+        "game_id": 39588,
         "home_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
@@ -352,20 +398,20 @@
         },
         "away_team": {
           "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
         },
-        "date": "2026-10-17T15:00:00",
+        "date": "2026-10-23T20:15:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "3 kolejka",
+        "round": "4 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": "yt",
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
@@ -377,52 +423,6 @@
     },
     {
       "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39590,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "abbr": "WLO",
-          "team_id": 1
-        },
-        "date": "2026-10-24T17:30:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "4 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": "polsat",
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Anwil Włocławek",
-      "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
       "won": null,
       "legacy_issue": false,
       "game": {
@@ -461,9 +461,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Arriva Lotto Twarde Pierniki Toruń",
-      "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent": "Zastal Zielona Góra",
+      "opponent_team_id": 26,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -479,53 +479,7 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39608,
-        "home_team": {
-          "score": 0,
-          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-          "abbr": "OST",
-          "team_id": 6
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "date": "2026-11-08T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "6 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-      "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39614,
+        "game_id": 39607,
         "home_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
@@ -536,11 +490,57 @@
         },
         "away_team": {
           "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "date": "2026-11-07T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "6 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "WKS Śląsk Wrocław",
+      "opponent_team_id": 5,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39615,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Energa Trefl Sopot",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
+          "abbr": "SOP",
+          "team_id": 23
         },
         "date": "2026-11-14T00:00:00",
         "finished": false,
@@ -553,14 +553,14 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "WKS Śląsk Wrocław",
-      "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent": "Energa Trefl Sopot",
+      "opponent_team_id": 23,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
     {
-      "role": "HOME",
+      "role": "AWAY",
       "won": null,
       "legacy_issue": false,
       "game": {
@@ -571,22 +571,22 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39623,
+        "game_id": 39626,
         "home_team": {
           "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
+          "name": "PGE Start Lublin",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
+          "abbr": "LUB",
+          "team_id": 11
         },
         "away_team": {
           "score": 0,
-          "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
-          "abbr": "DZI",
-          "team_id": 40
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
         },
         "date": "2026-11-22T00:00:00",
         "finished": false,
@@ -599,9 +599,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Dziki Warszawa",
-      "opponent_team_id": 40,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "opponent": "PGE Start Lublin",
+      "opponent_team_id": 11,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -617,24 +617,24 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39632,
+        "game_id": 39628,
         "home_team": {
           "score": 0,
-          "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
-          "abbr": "SOP",
-          "team_id": 23
+          "name": "Górnik Zamek Książ Wałbrzych",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
+          "abbr": "WAL",
+          "team_id": 19
         },
         "away_team": {
           "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
         },
-        "date": "2026-12-06T00:00:00",
+        "date": "2026-12-04T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
@@ -645,9 +645,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Energa Trefl Sopot",
-      "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent": "Górnik Zamek Książ Wałbrzych",
+      "opponent_team_id": 19,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -663,24 +663,24 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39641,
+        "game_id": 39639,
         "home_team": {
           "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
         },
         "away_team": {
           "score": 0,
-          "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
-          "abbr": "GDY",
-          "team_id": 9
+          "name": "Energa Czarni Słupsk",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
+          "abbr": "ECS",
+          "team_id": 38
         },
-        "date": "2026-12-13T00:00:00",
+        "date": "2026-12-12T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
@@ -691,328 +691,6 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "AMW Arka Gdynia",
-      "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39648,
-        "home_team": {
-          "score": 0,
-          "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
-          "abbr": "LUB",
-          "team_id": 11
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "date": "2026-12-20T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "11 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "PGE Start Lublin",
-      "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39652,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
-          "abbr": "SZC",
-          "team_id": 31
-        },
-        "date": "2026-12-26T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "12 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "King Szczecin",
-      "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39665,
-        "home_team": {
-          "score": 0,
-          "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "abbr": "WAL",
-          "team_id": 19
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "date": "2026-12-30T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "13 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Górnik Zamek Książ Wałbrzych",
-      "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39669,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-          "abbr": "DAB",
-          "team_id": 32
-        },
-        "date": "2027-01-02T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "14 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "MKS Dąbrowa Górnicza",
-      "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39681,
-        "home_team": {
-          "score": 0,
-          "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
-          "abbr": "ECS",
-          "team_id": 38
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "date": "2027-01-10T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "15 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Energa Czarni Słupsk",
-      "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39689,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "date": "2027-01-17T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "16 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "WKS Śląsk Wrocław",
-      "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39692,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
-          "abbr": "ECS",
-          "team_id": 38
-        },
-        "date": "2027-01-22T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "17 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
       "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
@@ -1031,375 +709,7 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39702,
-        "home_team": {
-          "score": 0,
-          "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "abbr": "WLO",
-          "team_id": 1
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "date": "2027-01-30T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "18 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Anwil Włocławek",
-      "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39709,
-        "home_team": {
-          "score": 0,
-          "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
-          "abbr": "GDY",
-          "team_id": 9
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "date": "2027-02-06T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "19 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "AMW Arka Gdynia",
-      "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39722,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
-          "abbr": "GLI",
-          "team_id": 36
-        },
-        "date": "2027-02-14T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "20 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Euvic GTK Gliwice",
-      "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39729,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "abbr": "WAL",
-          "team_id": 19
-        },
-        "date": "2027-03-07T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "21 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Górnik Zamek Książ Wałbrzych",
-      "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39738,
-        "home_team": {
-          "score": 0,
-          "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-          "abbr": "DAB",
-          "team_id": 32
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "date": "2027-03-14T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "22 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "MKS Dąbrowa Górnicza",
-      "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39747,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
-          "abbr": "SOP",
-          "team_id": 23
-        },
-        "date": "2027-03-22T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "23 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Energa Trefl Sopot",
-      "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39749,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-          "abbr": "OST",
-          "team_id": 6
-        },
-        "date": "2027-03-26T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "24 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-      "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39763,
-        "home_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "abbr": "BYD",
-          "team_id": 7
-        },
-        "date": "2027-04-05T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "25 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Enea Łaciate Astoria Bydgoszcz",
-      "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39770,
+        "game_id": 39646,
         "home_team": {
           "score": 0,
           "name": "Legia Warszawa",
@@ -1410,18 +720,18 @@
         },
         "away_team": {
           "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
         },
-        "date": "2027-04-11T00:00:00",
+        "date": "2026-12-19T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "26 kolejka",
+        "round": "11 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": null,
         "youtube_url": null,
@@ -1445,7 +755,191 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39777,
+        "game_id": 39662,
+        "home_team": {
+          "score": 0,
+          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
+          "abbr": "OST",
+          "team_id": 6
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "date": "2026-12-23T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "13 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+      "opponent_team_id": 6,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39653,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Anwil Włocławek",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
+          "abbr": "WLO",
+          "team_id": 1
+        },
+        "date": "2026-12-26T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "12 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Anwil Włocławek",
+      "opponent_team_id": 1,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39670,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Dziki Warszawa",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
+          "abbr": "DZI",
+          "team_id": 40
+        },
+        "date": "2027-01-02T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "14 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Dziki Warszawa",
+      "opponent_team_id": 40,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39677,
+        "home_team": {
+          "score": 0,
+          "name": "AMW Arka Gdynia",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
+          "abbr": "GDY",
+          "team_id": 9
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "date": "2027-01-08T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "15 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "AMW Arka Gdynia",
+      "opponent_team_id": 9,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39686,
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
@@ -1456,18 +950,18 @@
         },
         "away_team": {
           "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
         },
-        "date": "2027-04-18T00:00:00",
+        "date": "2027-01-16T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "27 kolejka",
+        "round": "16 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": null,
         "youtube_url": null,
@@ -1491,14 +985,14 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39780,
+        "game_id": 39693,
         "home_team": {
           "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
         },
         "away_team": {
           "score": 0,
@@ -1508,12 +1002,12 @@
           "abbr": "LUB",
           "team_id": 11
         },
-        "date": "2027-04-23T00:00:00",
+        "date": "2027-01-22T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "28 kolejka",
+        "round": "17 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": null,
         "youtube_url": null,
@@ -1526,7 +1020,513 @@
       "extra_stat_line": {}
     },
     {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39704,
+        "home_team": {
+          "score": 0,
+          "name": "Enea Łaciate Astoria Bydgoszcz",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
+          "abbr": "BYD",
+          "team_id": 7
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "date": "2027-01-31T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "18 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Enea Łaciate Astoria Bydgoszcz",
+      "opponent_team_id": 7,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39711,
+        "home_team": {
+          "score": 0,
+          "name": "King Szczecin",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
+          "abbr": "SZC",
+          "team_id": 31
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "date": "2027-02-06T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "19 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "King Szczecin",
+      "opponent_team_id": 31,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
       "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39716,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
+          "score": 0,
+          "name": "WKS Śląsk Wrocław",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
+          "abbr": "WRO",
+          "team_id": 5
+        },
+        "date": "2027-02-11T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "20 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "WKS Śląsk Wrocław",
+      "opponent_team_id": 5,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39731,
+        "home_team": {
+          "score": 0,
+          "name": "Energa Czarni Słupsk",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
+          "abbr": "ECS",
+          "team_id": 38
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "date": "2027-03-08T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "21 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Energa Czarni Słupsk",
+      "opponent_team_id": 38,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39736,
+        "home_team": {
+          "score": 0,
+          "name": "Anwil Włocławek",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
+          "abbr": "WLO",
+          "team_id": 1
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "date": "2027-03-14T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "22 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Anwil Włocławek",
+      "opponent_team_id": 1,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39743,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
+          "score": 0,
+          "name": "AMW Arka Gdynia",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
+          "abbr": "GDY",
+          "team_id": 9
+        },
+        "date": "2027-03-20T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "23 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "AMW Arka Gdynia",
+      "opponent_team_id": 9,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39748,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "date": "2027-03-26T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "24 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Euvic GTK Gliwice",
+      "opponent_team_id": 36,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39761,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Górnik Zamek Książ Wałbrzych",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
+          "abbr": "WAL",
+          "team_id": 19
+        },
+        "date": "2027-04-04T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "25 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Górnik Zamek Książ Wałbrzych",
+      "opponent_team_id": 19,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39765,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
+          "score": 0,
+          "name": "MKS Dąbrowa Górnicza",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
+          "abbr": "DAB",
+          "team_id": 32
+        },
+        "date": "2027-04-09T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "26 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "MKS Dąbrowa Górnicza",
+      "opponent_team_id": 32,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39774,
+        "home_team": {
+          "score": 0,
+          "name": "Energa Trefl Sopot",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
+          "abbr": "SOP",
+          "team_id": 23
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "date": "2027-04-17T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "27 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Energa Trefl Sopot",
+      "opponent_team_id": 23,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39783,
+        "home_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
+          "abbr": "OST",
+          "team_id": 6
+        },
+        "date": "2027-04-24T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "28 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+      "opponent_team_id": 6,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
       "won": null,
       "legacy_issue": false,
       "game": {
@@ -1565,14 +1565,14 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Arriva Lotto Twarde Pierniki Toruń",
-      "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent": "Zastal Zielona Góra",
+      "opponent_team_id": 26,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
     {
-      "role": "AWAY",
+      "role": "HOME",
       "won": null,
       "legacy_issue": false,
       "game": {
@@ -1583,22 +1583,22 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39801,
+        "game_id": 39802,
         "home_team": {
           "score": 0,
-          "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
-          "abbr": "SZC",
-          "team_id": 31
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
         },
         "away_team": {
           "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
+          "name": "Legia Warszawa",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
+          "abbr": "LEG",
+          "team_id": 37
         },
         "date": "2027-05-06T19:00:00",
         "finished": false,
@@ -1611,9 +1611,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "King Szczecin",
-      "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent": "Legia Warszawa",
+      "opponent_team_id": 37,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     }
