@@ -1,24 +1,55 @@
 {
-  "generated_at": "2026-10-01T23:24:24.279328",
-  "date": "2026-10-02",
+  "generated_at": "2026-10-03T09:16:10.360160",
+  "date": "2026-10-03",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Telekom Baskets Bonn @ Fitness First Würzburg Baskets",
-      "phase": "Hauptrunde",
-      "ai_pick": "Telekom Baskets Bonn",
-      "formula_pick": "Fitness First Würzburg Baskets",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Telekom Baskets Bonn rozpoczęli sezon 2026/27 z lepszym bilansem 2-1 w BBL, podczas gdy Fitness First Würzburg Baskets mają bilans 1-1. Telekom Baskets Bonn wyeliminowało również Fitness First Würzburg Baskets w ćwierćfinałach playoffów sezonu 2025/26, wygrywając serię 3-2, co wskazuje na ich przewagę w bezpośrednich starciach. Kluczowi gracze Bonn, tacy jak John-Michael Wright i Grayson Murphy, wykazują dobrą formę na początku obecnego sezonu, w przeciwieństwie do podanych hipotetycznych bilansów 0-34 dla obu drużyn w sezonie 2025/26, które są sprzeczne z faktycznymi wynikami ich udziału w playoffach.",
+      "matchup": "ROSTOCK SEAWOLVES @ Veolia Towers Hamburg",
+      "phase": "Regular Season",
+      "ai_pick": "Veolia Towers Hamburg",
+      "formula_pick": "Veolia Towers Hamburg",
+      "agreement": true,
+      "confidence": 6,
+      "reasoning": "Veolia Towers Hamburg ma przewagę własnego boiska i niedawno pokonało ROSTOCK SEAWOLVES w Pucharze BBL w tym sezonie. Pomimo, że dane statystyczne z sezonu 2025/26 (bilans 0-34 dla obu drużyn) sugerują wyrównany poziom, rzeczywiste wyniki z poprzedniego sezonu (Rostock 9. miejsce, Hamburg 14. miejsce) oraz obecna forma w Pucharze BBL wskazują na delikatną przewagę Hamburga.",
       "key_factors": [
-        "Lepsza forma początkowa Telekom Baskets Bonn w sezonie 2026/27 (2-1 w BBL).",
-        "Niedawne zwycięstwo Telekom Baskets Bonn nad Würzburgiem w playoffach 2025/26 (3-2 w serii).",
-        "Wysoka forma liderów Bonn, takich jak John-Michael Wright (19.5 PPG) i Grayson Murphy (wszechstronne statystyki).",
-        "Mecz jest rozgrywany na własnym boisku Fitness First Würzburg Baskets (tectake Arena)."
+        "Wygrana Hamburga z Rostockiem w Pucharze BBL (2026/27)",
+        "Przewaga własnego boiska dla Hamburga",
+        "Potencjalne wcześniejsze kontuzje kluczowych graczy Rostocka"
       ],
-      "injury_notes": "Jeff Garrett Jr. (Telekom Baskets Bonn) miał problemy z kolanem w pre-sezonie, ale grał w meczach na koniec września. Brak innych istotnych braków po obu stronach na dzień meczu."
+      "injury_notes": "Brak aktualnych doniesień o istotnych kontuzjach dla Veolia Towers Hamburg na dzień 2026-10-03. Dla ROSTOCK SEAWOLVES, Robin Amaize doznał poważnej kontuzji ścięgna Achillesa we wrześniu 2025, a Dominic Lockhardt pod koniec sezonu 2024/25, jednak brak potwierdzenia ich absencji na dzisiejszy mecz."
+    },
+    {
+      "matchup": "BMA365 Bamberg Baskets @ ALBA BERLIN",
+      "phase": "Regular Season",
+      "ai_pick": "ALBA BERLIN",
+      "formula_pick": "ALBA BERLIN",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "ALBA BERLIN, grając u siebie, ma lepszy bilans na początku sezonu (2-1 w BBL) w porównaniu do BMA365 Bamberg Baskets (1-2 w BBL). Dodatkowo, ALBA ma historyczną przewagę w meczach bezpośrednich, a obrona Bambergu wykazuje słabości, tracąc często ponad 90 punktów w ostatnich spotkaniach.",
+      "key_factors": [
+        "Kontuzje liderów ALBA BERLIN (Martin Hermannsson i Norris Agbakoko).",
+        "Przewaga własnego boiska ALBA BERLIN.",
+        "Słaba forma obrony BMA365 Bamberg Baskets (średnio 94.6 punktów traconych w ostatnich pięciu meczach).",
+        "Lepszy start sezonu ALBA BERLIN (bilans 2-1 w BBL w porównaniu do 1-2 Bambergu).",
+        "Historyczna przewaga ALBA BERLIN w meczach H2H (w tym \"przewaga psychologiczna i taktyczna\")."
+      ],
+      "injury_notes": "ALBA BERLIN: Martin Hermannsson jest kontuzjowany i opuści kilka tygodni z powodu urazu, a Norris Agbakoko przeszedł operację i będzie pauzował przez kilka miesięcy. Obaj są uważani za bardzo ważnych zawodników. BMA365 Bamberg Baskets: brak istotnych braków."
+    },
+    {
+      "matchup": "ratiopharm ulm @ SYNTAINICS MBC",
+      "phase": "Regular Season",
+      "ai_pick": "ratiopharm ulm",
+      "formula_pick": "SYNTAINICS MBC",
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "ratiopharm ulm rozpoczęło sezon 2026/27 z lepszą formą, notując 2 zwycięstwa i 1 porażkę w trzech pierwszych meczach BBL. SYNTAINICS MBC zmaga się z poważnym osłabieniem, ponieważ ich kapitan Spencer Reaves, kluczowy zawodnik i MVP ligi ENBL 2025-2026, jest kontuzjowany. Pomimo przewagi własnego boiska dla SYNTAINICS MBC, utrata lidera i lepsza dyspozycja ratiopharm ulm czynią ich faworytem.",
+      "key_factors": [
+        "Kontuzja kapitana SYNTAINICS MBC (Spencer Reaves)",
+        "Lepsza forma ratiopharm ulm na początku sezonu BBL 2026/27 (2 zwycięstwa, 1 porażka)",
+        "Potwierdzona dobra dyspozycja liderów ratiopharm ulm (Michael Rataj, Ibi Watson, Simi Shittu)"
+      ],
+      "injury_notes": "SYNTAINICS MBC będzie bez swojego kapitana Spencera Reavesa, który doznał podwójnego zerwania więzadeł w kostce podczas meczu przedsezonowego i będzie pauzował co najmniej sześć tygodni, począwszy od 2 września 2026 roku. Brak istotnych braków w składzie ratiopharm ulm."
     }
   ]
 }

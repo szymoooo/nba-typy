@@ -1,42 +1,58 @@
 {
-  "generated_at": "2026-09-27T13:32:06.736025",
-  "date": "2026-09-27",
+  "generated_at": "2026-10-03T09:14:21.673665",
+  "date": "2026-10-03",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "UCAM Murcia @ FIATC Girona",
+      "matchup": "MoraBanc Andorra @ Asisa Joventut",
       "phase": "Regular Season",
-      "ai_pick": "UCAM Murcia",
-      "formula_pick": "FIATC Girona",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "UCAM Murcia appears to have a more consolidated roster from their successful previous season, which included a strong playoff run, featuring key players like David DeJulius. FIATC Girona, despite significant new signings, faces challenges at the start of the season with multiple key players injured (Maxi Fjellerup, Isaac Vázquez out, Aljaz Kunc doubtful) and their coach acknowledging the team is not yet at the desired level. While FIATC Girona benefits from home-court advantage in this opening game of the regular season, UCAM Murcia's established core and recent momentum give them an edge.",
+      "ai_pick": "Asisa Joventut",
+      "formula_pick": "Asisa Joventut",
+      "agreement": true,
+      "confidence": 6,
+      "reasoning": "Asisa Joventut gra u siebie, co stanowi pewną przewagę. Pomimo osłabień kadrowych, liderzy tacy jak Ricky Rubio (18 punktów, 10 asyst w pierwszym meczu) i Nico Laprovittola (22 punkty) prezentują dobrą formę indywidualną. Obie drużyny przegrały swoje pierwsze spotkania w sezonie 2026/27, co sugeruje wyrównany mecz.",
       "key_factors": [
-        "Kontuzje w FIATC Girona (Fjellerup, Vázquez poza składem, Kunc wątpliwy)",
-        "Kontuzja Howarda Sant-Roosa (UCAM Murcia)",
-        "Bardziej skonsolidowany skład UCAM Murcia z silnym finiszem poprzedniego sezonu",
-        "Nowy, mocno przebudowany skład FIATC Girona",
-        "Przewaga własnego boiska dla FIATC Girona"
+        "Przewaga własnego parkietu dla Asisa Joventut",
+        "Dobra indywidualna forma Ricky'ego Rubio i Nico Laprovittoli (Joventut)",
+        "Kontuzje Ante Tomicia i Yannicka Kraaga (Joventut)",
+        "Obie drużyny rozpoczęły sezon z bilansem 0-1",
+        "Zbalansowany atak MoraBanc Andorra z liderami takimi jak Kassius Robertson i James Akinjo"
       ],
-      "injury_notes": "FIATC Girona: Maxi Fjellerup (SG) i Isaac Vázquez (PG) są kontuzjowani i nie zagrają. Udział Aljaza Kunca (PF) jest wątpliwy. Trener FIATC Girona, Moncho Fernández, przyznał, że zespół jest daleki od pożądanego poziomu na start sezonu z powodu urazów w ostatnich tygodniach. UCAM Murcia: Howard Sant-Roos (SF) jest wyłączony z gry na kilka tygodni z powodu zerwania włókien w przywodzicielu prawej nogi."
+      "injury_notes": "Asisa Joventut zagra bez Ante Tomicia i Yannicka Kraaga, którzy byli wykluczeni z powodu kontuzji już w pierwszej kolejce sezonu 2026/27. Kraag zmaga się z urazem pachwiny, a Tomic również opuścił Superpuchar Hiszpanii. Brak istotnych braków kontuzji w drużynie MoraBanc Andorra."
     },
     {
-      "matchup": "iLERNA Lleida @ Valencia Basket",
+      "matchup": "La Laguna Tenerife @ Unicaja",
       "phase": "Regular Season",
-      "ai_pick": "Valencia Basket",
-      "formula_pick": "Valencia Basket",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Valencia Basket, jako urzędujący mistrz Liga Endesa, rozpoczyna sezon na własnym parkiecie z iLERNA Lleida. Pomimo zmian w składzie, Valencia ma historycznie dominujący bilans H2H i wzmocniła się takimi graczami jak Nikola Mirotic. iLERNA Lleida zmaga się z poważną kontuzją kluczowego zawodnika, Atoumane Diagne, co znacząco osłabi ich grę pod koszem.",
+      "ai_pick": "La Laguna Tenerife",
+      "formula_pick": "Unicaja",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Unicaja przystępuje do meczu z poważnymi kontuzjami kluczowych graczy, takich jak Alberto Díaz, Kalinoski, Nzosa i Tyson Pérez, co znacząco osłabia ich skład. La Laguna Tenerife, pomimo porażki w pierwszej kolejce ACB 2026/27, ma za sobą udany sezon 2025/26, w którym dotarła do półfinałów play-off, a także wygrała ostatnio mecz w Eurocup. Dodatkowo, La Laguna Tenerife dominowała w bezpośrednich starciach w sezonie 2025/26, wygrywając oba mecze ligowe.",
       "key_factors": [
-        "Kontuzja kluczowego gracza iLERNA Lleida (Atoumane Diagne)",
-        "Status mistrza ACB Valencia Basket w poprzednim sezonie",
-        "Przewaga własnego parkietu dla Valencia Basket",
-        "Historyczny bilans H2H na korzyść Valencia Basket",
-        "Nowe, mocne transfery w Valencia Basket (np. Nikola Mirotic)"
+        "Kontuzje kluczowych graczy Unicaji (Alberto Díaz, Kalinoski, Nzosa, Tyson Pérez)",
+        "Dobra forma La Laguny Tenerife w poprzednim sezonie (półfinał Play-off 2025/26) oraz niedawne zwycięstwo w Eurocup",
+        "Przewaga La Laguny Tenerife w meczach H2H w sezonie 2025/26 (2-0 w ACB)",
+        "Silny i doświadczony skład liderów La Laguny Tenerife, w tym weterani Huertas i Shermadini, a także nowi gracze jak Vince Hunter i Kyle Guy",
+        "Mecz odbywa się na początku sezonu regularnego (Jornada 2), co oznacza, że drużyny mogą jeszcze szukać optymalnej formy"
       ],
-      "injury_notes": "iLERNA Lleida: Pívot Atoumane Diagne doznał zerwania więzadła krzyżowego przedniego w lewym kolanie i opuści cały sezon 2026-27. Kur Kuath wracał do zdrowia po skręceniu kostki, ale jego status na mecz nie jest jasno określony. Valencia Basket: Yannick Kraag jest kontuzjowany na 1. kolejkę ligową."
+      "injury_notes": "Unicaja ma znaczące braki kadrowe na dzień 2026-10-03. Kontuzjowani są Kalinoski, Nzosa, Tyson Pérez, a Alberto Díaz będzie pauzował od 6 do 8 tygodni z powodu naderwania mięśnia dwugłowego uda. W przypadku La Laguny Tenerife, brak istotnych, świeżo zgłoszonych kontuzji."
+    },
+    {
+      "matchup": "Río Breogán @ Kids&Us Manresa",
+      "phase": "Regular Season",
+      "ai_pick": "Río Breogán",
+      "formula_pick": "Kids&Us Manresa",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Río Breogán rozpoczął sezon 2026/27 od zwycięstwa, prezentując solidną grę ofensywną i wyróżniającą się postawę Danko Brankovica. Kids&Us Manresa zanotowało porażkę w meczu otwarcia i boryka się z kontuzją kluczowego zawodnika, Hugo Beníteza, co może wpłynąć na ich dyspozycję w tym spotkaniu.",
+      "key_factors": [
+        "Río Breogán ma bilans 1-0 w sezonie 2026/27 ACB, podczas gdy Kids&Us Manresa 0-1.",
+        "Kontuzja Hugo Beníteza (Kids&Us Manresa) osłabia drużynę gospodarzy.",
+        "Danko Brankovic z Río Breogán zanotował imponujący występ w pierwszym meczu sezonu.",
+        "Mecz odbywa się na boisku Kids&Us Manresa, co daje im przewagę własnego parkietu."
+      ],
+      "injury_notes": "Kids&Us Manresa: Hugo Benítez opuścił pierwszy mecz ligowy z powodu silnego uderzenia w żebra. Brak istotnych braków w składzie Río Breogán."
     }
   ]
 }
