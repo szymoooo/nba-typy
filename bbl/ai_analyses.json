@@ -1,55 +1,24 @@
 {
-  "generated_at": "2026-10-03T09:16:10.360160",
+  "generated_at": "2026-10-03T13:02:38.504727",
   "date": "2026-10-03",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "ROSTOCK SEAWOLVES @ Veolia Towers Hamburg",
-      "phase": "Regular Season",
-      "ai_pick": "Veolia Towers Hamburg",
-      "formula_pick": "Veolia Towers Hamburg",
-      "agreement": true,
-      "confidence": 6,
-      "reasoning": "Veolia Towers Hamburg ma przewagę własnego boiska i niedawno pokonało ROSTOCK SEAWOLVES w Pucharze BBL w tym sezonie. Pomimo, że dane statystyczne z sezonu 2025/26 (bilans 0-34 dla obu drużyn) sugerują wyrównany poziom, rzeczywiste wyniki z poprzedniego sezonu (Rostock 9. miejsce, Hamburg 14. miejsce) oraz obecna forma w Pucharze BBL wskazują na delikatną przewagę Hamburga.",
-      "key_factors": [
-        "Wygrana Hamburga z Rostockiem w Pucharze BBL (2026/27)",
-        "Przewaga własnego boiska dla Hamburga",
-        "Potencjalne wcześniejsze kontuzje kluczowych graczy Rostocka"
-      ],
-      "injury_notes": "Brak aktualnych doniesień o istotnych kontuzjach dla Veolia Towers Hamburg na dzień 2026-10-03. Dla ROSTOCK SEAWOLVES, Robin Amaize doznał poważnej kontuzji ścięgna Achillesa we wrześniu 2025, a Dominic Lockhardt pod koniec sezonu 2024/25, jednak brak potwierdzenia ich absencji na dzisiejszy mecz."
-    },
-    {
-      "matchup": "BMA365 Bamberg Baskets @ ALBA BERLIN",
+      "matchup": "Bamberg Baskets @ ALBA BERLIN",
       "phase": "Regular Season",
       "ai_pick": "ALBA BERLIN",
       "formula_pick": "ALBA BERLIN",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "ALBA BERLIN, grając u siebie, ma lepszy bilans na początku sezonu (2-1 w BBL) w porównaniu do BMA365 Bamberg Baskets (1-2 w BBL). Dodatkowo, ALBA ma historyczną przewagę w meczach bezpośrednich, a obrona Bambergu wykazuje słabości, tracąc często ponad 90 punktów w ostatnich spotkaniach.",
-      "key_factors": [
-        "Kontuzje liderów ALBA BERLIN (Martin Hermannsson i Norris Agbakoko).",
-        "Przewaga własnego boiska ALBA BERLIN.",
-        "Słaba forma obrony BMA365 Bamberg Baskets (średnio 94.6 punktów traconych w ostatnich pięciu meczach).",
-        "Lepszy start sezonu ALBA BERLIN (bilans 2-1 w BBL w porównaniu do 1-2 Bambergu).",
-        "Historyczna przewaga ALBA BERLIN w meczach H2H (w tym \"przewaga psychologiczna i taktyczna\")."
-      ],
-      "injury_notes": "ALBA BERLIN: Martin Hermannsson jest kontuzjowany i opuści kilka tygodni z powodu urazu, a Norris Agbakoko przeszedł operację i będzie pauzował przez kilka miesięcy. Obaj są uważani za bardzo ważnych zawodników. BMA365 Bamberg Baskets: brak istotnych braków."
-    },
-    {
-      "matchup": "ratiopharm ulm @ SYNTAINICS MBC",
-      "phase": "Regular Season",
-      "ai_pick": "ratiopharm ulm",
-      "formula_pick": "SYNTAINICS MBC",
-      "agreement": false,
       "confidence": 8,
-      "reasoning": "ratiopharm ulm rozpoczęło sezon 2026/27 z lepszą formą, notując 2 zwycięstwa i 1 porażkę w trzech pierwszych meczach BBL. SYNTAINICS MBC zmaga się z poważnym osłabieniem, ponieważ ich kapitan Spencer Reaves, kluczowy zawodnik i MVP ligi ENBL 2025-2026, jest kontuzjowany. Pomimo przewagi własnego boiska dla SYNTAINICS MBC, utrata lidera i lepsza dyspozycja ratiopharm ulm czynią ich faworytem.",
+      "reasoning": "ALBA Berlin posiada znaczącą przewagę własnego boiska oraz lepszą formę na początku sezonu BBL (2 zwycięstwa, 1 porażka) w porównaniu do Bamberg Baskets (1 zwycięstwo, 2 porażki). Ponadto, ALBA Berlin historycznie dominuje w bezpośrednich starciach, co potwierdzają ostatnie zwycięstwa, w tym finał Pucharu BBL w 2026 roku.",
       "key_factors": [
-        "Kontuzja kapitana SYNTAINICS MBC (Spencer Reaves)",
-        "Lepsza forma ratiopharm ulm na początku sezonu BBL 2026/27 (2 zwycięstwa, 1 porażka)",
-        "Potwierdzona dobra dyspozycja liderów ratiopharm ulm (Michael Rataj, Ibi Watson, Simi Shittu)"
+        "Przewaga własnego boiska ALBA Berlin",
+        "Lepsza forma ALBA Berlin na początku sezonu 2026/27 (2-1 BBL)",
+        "Dominujący bilans bezpośrednich spotkań na korzyść ALBA Berlin",
+        "Słaba obrona Bamberg Baskets w ostatnich meczach"
       ],
-      "injury_notes": "SYNTAINICS MBC będzie bez swojego kapitana Spencera Reavesa, który doznał podwójnego zerwania więzadeł w kostce podczas meczu przedsezonowego i będzie pauzował co najmniej sześć tygodni, począwszy od 2 września 2026 roku. Brak istotnych braków w składzie ratiopharm ulm."
+      "injury_notes": "ALBA Berlin ma potencjalne problemy zdrowotne Norrisa Agbakoko (kostka), Martina Hermannssona (udo) i Jacka Kayila (kolano), zgłoszone 25 września 2026 roku, jednak wszyscy trzej zawodnicy brali udział w ostatnich meczach. Brak istotnych braków po stronie Bamberg Baskets."
     }
   ]
 }
