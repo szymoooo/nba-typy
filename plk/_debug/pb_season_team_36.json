@@ -1,15 +1,15 @@
 {
-  "season_team_id": 4096,
-  "name": "WKS Śląsk Wrocław",
-  "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-  "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=5",
+  "season_team_id": 4094,
+  "name": "Euvic GTK Gliwice",
+  "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+  "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=5",
   "team": {
-    "team_id": 5,
-    "name": "WKS Śląsk Wrocław",
-    "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-    "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=5",
-    "pzkosz_id": "768",
-    "abbreviation": "WRO"
+    "team_id": 36,
+    "name": "Euvic GTK Gliwice",
+    "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+    "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=5",
+    "pzkosz_id": "42",
+    "abbreviation": "GLI"
   },
   "league_season": {
     "league_season_id": 180,
@@ -234,11 +234,11 @@
     "eval": 0.0,
     "plus_minus": 0.0
   },
-  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
   "total_games_played": 0,
   "games": [
     {
-      "role": "AWAY",
+      "role": "HOME",
       "won": null,
       "legacy_issue": false,
       "game": {
@@ -249,24 +249,24 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39570,
+        "game_id": 39569,
         "home_team": {
           "score": 0,
-          "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
-          "abbr": "GDY",
-          "team_id": 9
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "away_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "MKS Dąbrowa Górnicza",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
+          "abbr": "DAB",
+          "team_id": 32
         },
-        "date": "2026-10-04T17:30:00",
+        "date": "2026-10-04T12:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
@@ -277,9 +277,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "AMW Arka Gdynia",
-      "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent": "MKS Dąbrowa Górnicza",
+      "opponent_team_id": 32,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -295,83 +295,37 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39575,
+        "game_id": 39572,
         "home_team": {
           "score": 0,
-          "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
-          "abbr": "SZC",
-          "team_id": 31
+          "name": "Enea Łaciate Astoria Bydgoszcz",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
+          "abbr": "BYD",
+          "team_id": 7
         },
         "away_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
-        "date": "2026-10-10T17:30:00",
+        "date": "2026-10-09T20:15:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "2 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": "polsat",
+        "tv_channel": "yt",
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "King Szczecin",
-      "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39586,
-        "home_team": {
-          "score": 0,
-          "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-          "abbr": "DAB",
-          "team_id": 32
-        },
-        "away_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "date": "2026-10-18T17:30:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "3 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": "polsat",
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "MKS Dąbrowa Górnicza",
-      "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent": "Enea Łaciate Astoria Bydgoszcz",
+      "opponent_team_id": 7,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -387,42 +341,88 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39591,
+        "game_id": 39583,
         "home_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "away_team": {
           "score": 0,
-          "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "abbr": "BYD",
-          "team_id": 7
+          "name": "Zastal Zielona Góra",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
+          "abbr": "ZIE",
+          "team_id": 26
         },
-        "date": "2026-10-24T19:30:00",
+        "date": "2026-10-17T15:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "3 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": "yt",
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Zastal Zielona Góra",
+      "opponent_team_id": 26,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39588,
+        "home_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "abbr": "TOR",
+          "team_id": 34
+        },
+        "date": "2026-10-23T20:15:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "4 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": "yt",
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Enea Łaciate Astoria Bydgoszcz",
-      "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+      "opponent": "Arriva Lotto Twarde Pierniki Toruń",
+      "opponent_team_id": 34,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
     {
-      "role": "AWAY",
+      "role": "HOME",
       "won": null,
       "legacy_issue": false,
       "game": {
@@ -461,9 +461,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Euvic GTK Gliwice",
-      "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent": "WKS Śląsk Wrocław",
+      "opponent_team_id": 5,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -479,106 +479,14 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39607,
+        "game_id": 39610,
         "home_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
-          "abbr": "TOR",
-          "team_id": 34
-        },
-        "date": "2026-11-07T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "6 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Arriva Lotto Twarde Pierniki Toruń",
-      "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39614,
-        "home_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
-        },
-        "date": "2026-11-14T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "7 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Zastal Zielona Góra",
-      "opponent_team_id": 26,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39627,
-        "home_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "away_team": {
           "score": 0,
@@ -588,12 +496,12 @@
           "abbr": "SOP",
           "team_id": 23
         },
-        "date": "2026-11-22T00:00:00",
+        "date": "2026-11-08T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "8 kolejka",
+        "round": "6 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": null,
         "youtube_url": null,
@@ -617,8 +525,200 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39660,
+        "game_id": 39612,
         "home_team": {
+          "score": 0,
+          "name": "PGE Start Lublin",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
+          "abbr": "LUB",
+          "team_id": 11
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "date": "2026-11-13T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "7 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "PGE Start Lublin",
+      "opponent_team_id": 11,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39621,
+        "home_team": {
+          "score": 0,
+          "name": "Górnik Zamek Książ Wałbrzych",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
+          "abbr": "WAL",
+          "team_id": 19
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "date": "2026-11-20T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "8 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Górnik Zamek Książ Wałbrzych",
+      "opponent_team_id": 19,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39634,
+        "home_team": {
+          "score": 0,
+          "name": "Energa Czarni Słupsk",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
+          "abbr": "ECS",
+          "team_id": 38
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "date": "2026-12-07T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "9 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Energa Czarni Słupsk",
+      "opponent_team_id": 38,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39636,
+        "home_team": {
+          "score": 0,
+          "name": "Legia Warszawa",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
+          "abbr": "LEG",
+          "team_id": 37
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "date": "2026-12-11T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "10 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Legia Warszawa",
+      "opponent_team_id": 37,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39651,
+        "home_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
           "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
@@ -626,20 +726,12 @@
           "abbr": "WLO",
           "team_id": 1
         },
-        "away_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "date": "2026-12-03T00:00:00",
+        "date": "2026-12-21T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "13 kolejka",
+        "round": "11 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": null,
         "youtube_url": null,
@@ -663,191 +755,7 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39633,
-        "home_team": {
-          "score": 0,
-          "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
-          "abbr": "LUB",
-          "team_id": 11
-        },
-        "away_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "date": "2026-12-06T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "9 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "PGE Start Lublin",
-      "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39643,
-        "home_team": {
-          "score": 0,
-          "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "abbr": "WAL",
-          "team_id": 19
-        },
-        "away_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "date": "2026-12-13T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "10 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Górnik Zamek Książ Wałbrzych",
-      "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39645,
-        "home_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
-          "abbr": "ECS",
-          "team_id": 38
-        },
-        "date": "2026-12-19T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "11 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Energa Czarni Słupsk",
-      "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39654,
-        "home_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
-          "abbr": "LEG",
-          "team_id": 37
-        },
-        "date": "2026-12-26T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "12 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Legia Warszawa",
-      "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39671,
+        "game_id": 39658,
         "home_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
@@ -858,18 +766,18 @@
         },
         "away_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
-        "date": "2027-01-02T00:00:00",
+        "date": "2026-12-27T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "14 kolejka",
+        "round": "12 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": null,
         "youtube_url": null,
@@ -882,6 +790,52 @@
       "extra_stat_line": {}
     },
     {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39666,
+        "home_team": {
+          "score": 0,
+          "name": "Dziki Warszawa",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
+          "abbr": "DZI",
+          "team_id": 40
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "date": "2026-12-30T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "13 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Dziki Warszawa",
+      "opponent_team_id": 40,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
       "role": "HOME",
       "won": null,
       "legacy_issue": false,
@@ -893,22 +847,68 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39679,
+        "game_id": 39674,
         "home_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "away_team": {
           "score": 0,
-          "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
-          "abbr": "DZI",
-          "team_id": 40
+          "name": "AMW Arka Gdynia",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
+          "abbr": "GDY",
+          "team_id": 9
+        },
+        "date": "2027-01-03T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "14 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "AMW Arka Gdynia",
+      "opponent_team_id": 9,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39680,
+        "home_team": {
+          "score": 0,
+          "name": "King Szczecin",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
+          "abbr": "SZC",
+          "team_id": 31
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "date": "2027-01-09T00:00:00",
         "finished": false,
@@ -921,14 +921,14 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Dziki Warszawa",
-      "opponent_team_id": 40,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "opponent": "King Szczecin",
+      "opponent_team_id": 31,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
     {
-      "role": "AWAY",
+      "role": "HOME",
       "won": null,
       "legacy_issue": false,
       "game": {
@@ -939,24 +939,24 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39689,
+        "game_id": 39684,
         "home_team": {
           "score": 0,
-          "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "abbr": "ZIE",
-          "team_id": 26
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "away_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Górnik Zamek Książ Wałbrzych",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
+          "abbr": "WAL",
+          "team_id": 19
         },
-        "date": "2027-01-17T00:00:00",
+        "date": "2027-01-14T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
@@ -967,9 +967,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Zastal Zielona Góra",
-      "opponent_team_id": 26,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+      "opponent": "Górnik Zamek Książ Wałbrzych",
+      "opponent_team_id": 19,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -985,22 +985,22 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39695,
+        "game_id": 39694,
         "home_team": {
           "score": 0,
-          "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
-          "abbr": "LEG",
-          "team_id": 37
+          "name": "MKS Dąbrowa Górnicza",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
+          "abbr": "DAB",
+          "team_id": 32
         },
         "away_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "date": "2027-01-23T00:00:00",
         "finished": false,
@@ -1013,9 +1013,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Legia Warszawa",
-      "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent": "MKS Dąbrowa Górnicza",
+      "opponent_team_id": 32,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1031,8 +1031,200 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39706,
+        "game_id": 39703,
         "home_team": {
+          "score": 0,
+          "name": "Energa Trefl Sopot",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
+          "abbr": "SOP",
+          "team_id": 23
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "date": "2027-01-30T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "18 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Energa Trefl Sopot",
+      "opponent_team_id": 23,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39713,
+        "home_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
+          "abbr": "OST",
+          "team_id": 6
+        },
+        "date": "2027-02-07T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "19 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+      "opponent_team_id": 6,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39722,
+        "home_team": {
+          "score": 0,
+          "name": "Zastal Zielona Góra",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
+          "abbr": "ZIE",
+          "team_id": 26
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "date": "2027-02-14T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "20 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Zastal Zielona Góra",
+      "opponent_team_id": 26,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39726,
+        "home_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Legia Warszawa",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
+          "abbr": "LEG",
+          "team_id": 37
+        },
+        "date": "2027-03-05T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "21 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Legia Warszawa",
+      "opponent_team_id": 37,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "HOME",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39739,
+        "home_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
           "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
@@ -1040,20 +1232,12 @@
           "abbr": "DZI",
           "team_id": 40
         },
-        "away_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "date": "2027-01-31T00:00:00",
+        "date": "2027-03-15T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "18 kolejka",
+        "round": "22 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": null,
         "youtube_url": null,
@@ -1077,14 +1261,14 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39715,
+        "game_id": 39742,
         "home_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "away_team": {
           "score": 0,
@@ -1094,12 +1278,12 @@
           "abbr": "LUB",
           "team_id": 11
         },
-        "date": "2027-02-07T00:00:00",
+        "date": "2027-03-20T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "19 kolejka",
+        "round": "23 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": null,
         "youtube_url": null,
@@ -1123,7 +1307,7 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39716,
+        "game_id": 39748,
         "home_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
@@ -1134,18 +1318,18 @@
         },
         "away_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
-        "date": "2027-02-11T00:00:00",
+        "date": "2027-03-26T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "20 kolejka",
+        "round": "24 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": null,
         "youtube_url": null,
@@ -1169,14 +1353,14 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39727,
+        "game_id": 39759,
         "home_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "away_team": {
           "score": 0,
@@ -1186,12 +1370,12 @@
           "abbr": "SZC",
           "team_id": 31
         },
-        "date": "2027-03-05T00:00:00",
+        "date": "2027-04-03T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
-        "round": "21 kolejka",
+        "round": "25 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": null,
         "youtube_url": null,
@@ -1205,190 +1389,6 @@
     },
     {
       "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39734,
-        "home_team": {
-          "score": 0,
-          "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "abbr": "BYD",
-          "team_id": 7
-        },
-        "away_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "date": "2027-03-13T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "22 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Enea Łaciate Astoria Bydgoszcz",
-      "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "AWAY",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39746,
-        "home_team": {
-          "score": 0,
-          "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
-          "abbr": "ECS",
-          "team_id": 38
-        },
-        "away_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "date": "2027-03-21T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "23 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Energa Czarni Słupsk",
-      "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39754,
-        "home_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "away_team": {
-          "score": 0,
-          "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "abbr": "WLO",
-          "team_id": 1
-        },
-        "date": "2027-03-29T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "24 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "Anwil Włocławek",
-      "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39756,
-        "home_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "away_team": {
-          "score": 0,
-          "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
-          "abbr": "GDY",
-          "team_id": 9
-        },
-        "date": "2027-04-02T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "25 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "AMW Arka Gdynia",
-      "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
       "won": null,
       "legacy_issue": false,
       "game": {
@@ -1427,9 +1427,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Euvic GTK Gliwice",
-      "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent": "WKS Śląsk Wrocław",
+      "opponent_team_id": 5,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1445,24 +1445,24 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39779,
+        "game_id": 39776,
         "home_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "away_team": {
           "score": 0,
-          "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "abbr": "WAL",
-          "team_id": 19
+          "name": "Energa Czarni Słupsk",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
+          "abbr": "ECS",
+          "team_id": 38
         },
-        "date": "2027-04-19T00:00:00",
+        "date": "2027-04-17T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
@@ -1473,55 +1473,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Górnik Zamek Książ Wałbrzych",
-      "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
-    },
-    {
-      "role": "HOME",
-      "won": null,
-      "legacy_issue": false,
-      "game": {
-        "league": {
-          "league_id": 1,
-          "name": "PGE Basket Liga",
-          "abbr": "PLK",
-          "group": null
-        },
-        "season": "2027",
-        "game_id": 39785,
-        "home_team": {
-          "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
-        },
-        "away_team": {
-          "score": 0,
-          "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-          "abbr": "DAB",
-          "team_id": 32
-        },
-        "date": "2027-04-25T00:00:00",
-        "finished": false,
-        "in_progress": false,
-        "comment": "",
-        "overtimes_number": 0,
-        "round": "28 kolejka",
-        "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
-        "external_game_id": null
-      },
-      "opponent": "MKS Dąbrowa Górnicza",
-      "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent": "Energa Czarni Słupsk",
+      "opponent_team_id": 38,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1537,37 +1491,83 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39792,
+        "game_id": 39787,
         "home_team": {
           "score": 0,
-          "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
-          "abbr": "SOP",
-          "team_id": 23
+          "name": "Anwil Włocławek",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
+          "abbr": "WLO",
+          "team_id": 1
         },
         "away_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
-        "date": "2027-05-01T12:30:00",
+        "date": "2027-04-26T00:00:00",
+        "finished": false,
+        "in_progress": false,
+        "comment": "",
+        "overtimes_number": 0,
+        "round": "28 kolejka",
+        "stage": "Runda Zasadnicza",
+        "tv_channel": null,
+        "youtube_url": null,
+        "external_game_id": null
+      },
+      "opponent": "Anwil Włocławek",
+      "opponent_team_id": 1,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+      "stat_line": {},
+      "extra_stat_line": {}
+    },
+    {
+      "role": "AWAY",
+      "won": null,
+      "legacy_issue": false,
+      "game": {
+        "league": {
+          "league_id": 1,
+          "name": "PGE Basket Liga",
+          "abbr": "PLK",
+          "group": null
+        },
+        "season": "2027",
+        "game_id": 39789,
+        "home_team": {
+          "score": 0,
+          "name": "AMW Arka Gdynia",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
+          "abbr": "GDY",
+          "team_id": 9
+        },
+        "away_team": {
+          "score": 0,
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
+        },
+        "date": "2027-04-30T00:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "29 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": "yt",
+        "tv_channel": null,
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Energa Trefl Sopot",
-      "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent": "AMW Arka Gdynia",
+      "opponent_team_id": 9,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1583,22 +1583,22 @@
           "group": null
         },
         "season": "2027",
-        "game_id": 39800,
+        "game_id": 39796,
         "home_team": {
           "score": 0,
-          "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "abbr": "WRO",
-          "team_id": 5
+          "name": "Euvic GTK Gliwice",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "abbr": "GLI",
+          "team_id": 36
         },
         "away_team": {
           "score": 0,
-          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
-          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-          "abbr": "OST",
-          "team_id": 6
+          "name": "Enea Łaciate Astoria Bydgoszcz",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
+          "abbr": "BYD",
+          "team_id": 7
         },
         "date": "2027-05-06T19:00:00",
         "finished": false,
@@ -1611,9 +1611,9 @@
         "youtube_url": null,
         "external_game_id": null
       },
-      "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-      "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent": "Enea Łaciate Astoria Bydgoszcz",
+      "opponent_team_id": 7,
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
       "stat_line": {},
       "extra_stat_line": {}
     }

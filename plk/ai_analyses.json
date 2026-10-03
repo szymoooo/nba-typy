@@ -1,52 +1,21 @@
 {
-  "generated_at": "2026-10-02T23:05:26.278306",
-  "date": "2026-10-03",
+  "generated_at": "2026-10-03T23:42:21.539971",
+  "date": "2026-10-04",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "King Szczecin @ Arriva Lotto Twarde Pierniki Toruń",
-      "phase": "Runda Zasadnicza",
-      "round": "1 kolejka",
-      "date": "2026-10-03T15:00:00",
-      "ai_pick": "King Szczecin",
-      "formula_pick": "Arriva Lotto Twarde Pierniki Toruń",
-      "agreement": false,
-      "confidence": 6,
-      "reasoning": "King Szczecin jest faworytem spotkania według kursów bukmacherskich i ma przewagę w bezpośrednich starciach z Twardymi Piernikami w poprzednich sezonach. Mimo atutu własnego parkietu dla Torunia, szeroka kadra Kinga Szczecin może pomóc im poradzić sobie z potencjalną kontuzją Maxa Egnera.",
-      "key_factors": [
-        "King Szczecin faworytem według kursów bukmacherskich",
-        "Historyczna przewaga King Szczecin w meczach H2H",
-        "Potencjalna kontuzja Maxa Egnera (King Szczecin)",
-        "Atut własnego parkietu dla Arriva Lotto Twarde Pierniki Toruń"
-      ],
-      "injury_notes": "King Szczecin: Max Egner nabawił się kontuzji kciuka około trzech tygodni temu (stan na 23 września 2026) i jego powrót na parkiet jest niepewny, możliwa jest operacja. Arriva Lotto Twarde Pierniki Toruń: Brak istotnych, aktualnych braków na dzień 2026-10-03, choć we wcześniejszych doniesieniach z maja 2026 wspomniano o kontuzji polskiego zawodnika przed sezonem.",
-      "agreement_with_odds": true
-    },
-    {
-      "matchup": "Zastal Zielona Góra @ Enea Łaciate Astoria Bydgoszcz",
+      "matchup": "MKS Dąbrowa Górnicza @ Euvic GTK Gliwice",
       "ai_pick": null,
-      "formula_pick": "Enea Łaciate Astoria Bydgoszcz",
+      "formula_pick": "Euvic GTK Gliwice",
       "note": "AI fallback"
     },
     {
-      "matchup": "Tasomix Rosiek Stal Ostrów Wielkopolski @ PGE Start Lublin",
-      "phase": "Runda Zasadnicza",
-      "round": "1 kolejka",
-      "date": "2026-10-03T19:30:00",
-      "ai_pick": "PGE Start Lublin",
-      "formula_pick": "PGE Start Lublin",
-      "agreement": true,
-      "confidence": 1,
-      "reasoning": "Jest to pierwsza kolejka sezonu 2026/27, a brak jest jakichkolwiek danych dotyczących formy, składów, czy kontuzji dla obu drużyn. W tej sytuacji nie ma podstaw do wyrażenia wysokiej pewności. Wybieram gospodarzy ze względu na atut własnej hali, choć to bardzo słaby sygnał na inaugurację sezonu.",
-      "key_factors": [
-        "brak danych o formie",
-        "brak danych o kontuzjach",
-        "atut własnego parkietu"
-      ],
-      "injury_notes": "brak istotnych braków",
-      "agreement_with_odds": "no_odds"
+      "matchup": "WKS Śląsk Wrocław @ AMW Arka Gdynia",
+      "ai_pick": null,
+      "formula_pick": "AMW Arka Gdynia",
+      "note": "AI fallback"
     }
   ]
 }
