@@ -1,24 +1,23 @@
 {
-  "generated_at": "2026-10-03T13:02:38.504727",
+  "generated_at": "2026-10-03T17:52:13.636265",
   "date": "2026-10-03",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Bamberg Baskets @ ALBA BERLIN",
+      "matchup": "ratiopharm ulm @ SYNTAINICS MBC",
       "phase": "Regular Season",
-      "ai_pick": "ALBA BERLIN",
-      "formula_pick": "ALBA BERLIN",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "ALBA Berlin posiada znaczącą przewagę własnego boiska oraz lepszą formę na początku sezonu BBL (2 zwycięstwa, 1 porażka) w porównaniu do Bamberg Baskets (1 zwycięstwo, 2 porażki). Ponadto, ALBA Berlin historycznie dominuje w bezpośrednich starciach, co potwierdzają ostatnie zwycięstwa, w tym finał Pucharu BBL w 2026 roku.",
+      "ai_pick": "ratiopharm ulm",
+      "formula_pick": "SYNTAINICS MBC",
+      "agreement": false,
+      "confidence": 9,
+      "reasoning": "Ratiopharm ulm rozpoczął sezon 2026/27 BBL w znacznie lepszej formie, wygrywając dwa z trzech dotychczasowych spotkań, podczas gdy SYNTAINICS MBC zanotował dwie porażki. Dodatkowo, w poprzednim sezonie ratiopharm ulm miał korzystniejszy bilans bezpośrednich spotkań. Brak istotnych kontuzji u obu drużyn dodatkowo wzmacnia przewagę faworyta.",
       "key_factors": [
-        "Przewaga własnego boiska ALBA Berlin",
-        "Lepsza forma ALBA Berlin na początku sezonu 2026/27 (2-1 BBL)",
-        "Dominujący bilans bezpośrednich spotkań na korzyść ALBA Berlin",
-        "Słaba obrona Bamberg Baskets w ostatnich meczach"
+        "Lepsza forma ratiopharm ulm w obecnym sezonie (2-1 BBL)",
+        "Korzystniejszy bilans H2H ratiopharm ulm w poprzednim sezonie",
+        "Brak istotnych kontuzji w obu zespołach"
       ],
-      "injury_notes": "ALBA Berlin ma potencjalne problemy zdrowotne Norrisa Agbakoko (kostka), Martina Hermannssona (udo) i Jacka Kayila (kolano), zgłoszone 25 września 2026 roku, jednak wszyscy trzej zawodnicy brali udział w ostatnich meczach. Brak istotnych braków po stronie Bamberg Baskets."
+      "injury_notes": "Brak istotnych braków"
     }
   ]
 }
