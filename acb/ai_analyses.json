@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-04T02:01:10.327978",
+  "generated_at": "2026-10-04T03:47:05.644946",
   "date": "2026-10-04",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "San Pablo Burgos @ ICG Forca Lleida",
+      "matchup": "Recoletas Salud San Pablo Burgos @ iLERNA Lleida",
+      "phase": "Regular Season",
+      "ai_pick": "iLERNA Lleida",
+      "formula_pick": "iLERNA Lleida",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "iLERNA Lleida rozpoczęło sezon od imponującego zwycięstwa na wyjeździe przeciwko Valencia Basket, prezentując silną ofensywę i zrównoważone punktowanie. Grają u siebie w drugiej kolejce, podczas gdy Recoletas Salud San Pablo Burgos przegrało swój pierwszy mecz i boryka się z kontuzjami kluczowych zawodników, co osłabia ich skład i jest w fazie budowania zespołu.",
+      "key_factors": [
+        "iLERNA Lleida jest niepokonana w obecnym sezonie (1-0) po zwycięstwie na wyjeździe nad Valencia Basket w 1. kolejce.",
+        "iLERNA Lleida gra u siebie, co stanowi dodatkową przewagę.",
+        "Recoletas Salud San Pablo Burgos ma istotne kontuzje liderów Retin Obasohan i Vlatko Cancar, którzy są poza składem.",
+        "Trener Recoletas Salud San Pablo Burgos, Porfi Fisac, wskazał, że drużyna jest w fazie budowania, a ich początek sezonu był utrudniony przez kontuzje."
+      ],
+      "injury_notes": "iLERNA Lleida: Atoumane Diagne (pívot) jest poza grą do końca sezonu z powodu zerwania więzadeł w kolanie. Kur Kuath (pívot) jest wątpliwy na mecz z powodu urazu kostki. Recoletas Salud San Pablo Burgos: Retin Obasohan (escolta/base) i Vlatko Cancar (alero) są kontuzjowani i przechodzą proces rekonwalescencji. Brak innych istotnych braków zgłoszonych na dzień 2026-10-04."
+    },
+    {
+      "matchup": "Surne Bilbao @ Leyma Coruña",
       "ai_pick": null,
-      "formula_pick": "ICG Forca Lleida",
+      "formula_pick": "Leyma Coruña",
       "note": "AI fallback"
     },
     {
-      "matchup": "Bilbao Basket @ Leyma Coruña",
-      "phase": "Regular Season",
-      "ai_pick": "Bilbao Basket",
-      "formula_pick": "Leyma Coruña",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Bilbao Basket rozpoczęło sezon 2026/27 od przekonującego zwycięstwa w pierwszej kolejce, prezentując dobrą formę strzelecką, zwłaszcza za trzy punkty, oraz ma pełny skład bez istotnych kontuzji. Leyma Coruña, choć pokazała ofensywny potencjał w przegranym meczu otwarcia, ma kluczowego gracza Tomasa Dimse jako poważną wątpliwość. Dodatkowo Bilbao Basket ma historyczną przewagę w bezpośrednich starciach z Leyma Coruña.",
-      "key_factors": [
-        "Brak istotnych kontuzji w Bilbao Basket i dostępność wszystkich kluczowych graczy.",
-        "Zwycięski start Bilbao Basket w nowym sezonie (1-0) kontra porażka Leyma Coruña (0-1).",
-        "Historyczna przewaga Bilbao Basket w meczach H2H.",
-        "Wysoka skuteczność rzutów za trzy punkty Bilbao Basket w pierwszej kolejce (48.2%)."
-      ],
-      "injury_notes": "Leyma Coruña: Tomas Dimsa jest poważną wątpliwością z powodu dolegliwości mięśniowych prawej nogi. Bilbao Basket: Brak istotnych braków; Margiris Normantas, Harald Frey i Martin Krampelj wrócili do pełnej dyspozycji."
-    },
-    {
-      "matchup": "Real Madrid Baloncesto @ Monbus Obradoiro",
+      "matchup": "Real Madrid @ Monbus Obradoiro",
       "ai_pick": null,
       "formula_pick": "Monbus Obradoiro",
       "note": "AI fallback"
@@ -39,13 +39,13 @@
       "note": "AI fallback"
     },
     {
-      "matchup": "Basquet Girona @ Baskonia Vitoria",
+      "matchup": "FIATC Girona @ Kosner Baskonia",
       "ai_pick": null,
-      "formula_pick": "Baskonia Vitoria",
+      "formula_pick": "Kosner Baskonia",
       "note": "AI fallback"
     },
     {
-      "matchup": "Barcelona Bàsquet @ UCAM Murcia",
+      "matchup": "Barça @ UCAM Murcia",
       "ai_pick": null,
       "formula_pick": "UCAM Murcia",
       "note": "AI fallback"
