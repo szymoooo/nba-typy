@@ -1,58 +1,54 @@
 {
-  "generated_at": "2026-10-03T09:14:21.673665",
-  "date": "2026-10-03",
+  "generated_at": "2026-10-04T02:01:10.327978",
+  "date": "2026-10-04",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "MoraBanc Andorra @ Asisa Joventut",
-      "phase": "Regular Season",
-      "ai_pick": "Asisa Joventut",
-      "formula_pick": "Asisa Joventut",
-      "agreement": true,
-      "confidence": 6,
-      "reasoning": "Asisa Joventut gra u siebie, co stanowi pewną przewagę. Pomimo osłabień kadrowych, liderzy tacy jak Ricky Rubio (18 punktów, 10 asyst w pierwszym meczu) i Nico Laprovittola (22 punkty) prezentują dobrą formę indywidualną. Obie drużyny przegrały swoje pierwsze spotkania w sezonie 2026/27, co sugeruje wyrównany mecz.",
-      "key_factors": [
-        "Przewaga własnego parkietu dla Asisa Joventut",
-        "Dobra indywidualna forma Ricky'ego Rubio i Nico Laprovittoli (Joventut)",
-        "Kontuzje Ante Tomicia i Yannicka Kraaga (Joventut)",
-        "Obie drużyny rozpoczęły sezon z bilansem 0-1",
-        "Zbalansowany atak MoraBanc Andorra z liderami takimi jak Kassius Robertson i James Akinjo"
-      ],
-      "injury_notes": "Asisa Joventut zagra bez Ante Tomicia i Yannicka Kraaga, którzy byli wykluczeni z powodu kontuzji już w pierwszej kolejce sezonu 2026/27. Kraag zmaga się z urazem pachwiny, a Tomic również opuścił Superpuchar Hiszpanii. Brak istotnych braków kontuzji w drużynie MoraBanc Andorra."
+      "matchup": "San Pablo Burgos @ ICG Forca Lleida",
+      "ai_pick": null,
+      "formula_pick": "ICG Forca Lleida",
+      "note": "AI fallback"
     },
     {
-      "matchup": "La Laguna Tenerife @ Unicaja",
+      "matchup": "Bilbao Basket @ Leyma Coruña",
       "phase": "Regular Season",
-      "ai_pick": "La Laguna Tenerife",
-      "formula_pick": "Unicaja",
+      "ai_pick": "Bilbao Basket",
+      "formula_pick": "Leyma Coruña",
       "agreement": false,
       "confidence": 7,
-      "reasoning": "Unicaja przystępuje do meczu z poważnymi kontuzjami kluczowych graczy, takich jak Alberto Díaz, Kalinoski, Nzosa i Tyson Pérez, co znacząco osłabia ich skład. La Laguna Tenerife, pomimo porażki w pierwszej kolejce ACB 2026/27, ma za sobą udany sezon 2025/26, w którym dotarła do półfinałów play-off, a także wygrała ostatnio mecz w Eurocup. Dodatkowo, La Laguna Tenerife dominowała w bezpośrednich starciach w sezonie 2025/26, wygrywając oba mecze ligowe.",
+      "reasoning": "Bilbao Basket rozpoczęło sezon 2026/27 od przekonującego zwycięstwa w pierwszej kolejce, prezentując dobrą formę strzelecką, zwłaszcza za trzy punkty, oraz ma pełny skład bez istotnych kontuzji. Leyma Coruña, choć pokazała ofensywny potencjał w przegranym meczu otwarcia, ma kluczowego gracza Tomasa Dimse jako poważną wątpliwość. Dodatkowo Bilbao Basket ma historyczną przewagę w bezpośrednich starciach z Leyma Coruña.",
       "key_factors": [
-        "Kontuzje kluczowych graczy Unicaji (Alberto Díaz, Kalinoski, Nzosa, Tyson Pérez)",
-        "Dobra forma La Laguny Tenerife w poprzednim sezonie (półfinał Play-off 2025/26) oraz niedawne zwycięstwo w Eurocup",
-        "Przewaga La Laguny Tenerife w meczach H2H w sezonie 2025/26 (2-0 w ACB)",
-        "Silny i doświadczony skład liderów La Laguny Tenerife, w tym weterani Huertas i Shermadini, a także nowi gracze jak Vince Hunter i Kyle Guy",
-        "Mecz odbywa się na początku sezonu regularnego (Jornada 2), co oznacza, że drużyny mogą jeszcze szukać optymalnej formy"
+        "Brak istotnych kontuzji w Bilbao Basket i dostępność wszystkich kluczowych graczy.",
+        "Zwycięski start Bilbao Basket w nowym sezonie (1-0) kontra porażka Leyma Coruña (0-1).",
+        "Historyczna przewaga Bilbao Basket w meczach H2H.",
+        "Wysoka skuteczność rzutów za trzy punkty Bilbao Basket w pierwszej kolejce (48.2%)."
       ],
-      "injury_notes": "Unicaja ma znaczące braki kadrowe na dzień 2026-10-03. Kontuzjowani są Kalinoski, Nzosa, Tyson Pérez, a Alberto Díaz będzie pauzował od 6 do 8 tygodni z powodu naderwania mięśnia dwugłowego uda. W przypadku La Laguny Tenerife, brak istotnych, świeżo zgłoszonych kontuzji."
+      "injury_notes": "Leyma Coruña: Tomas Dimsa jest poważną wątpliwością z powodu dolegliwości mięśniowych prawej nogi. Bilbao Basket: Brak istotnych braków; Margiris Normantas, Harald Frey i Martin Krampelj wrócili do pełnej dyspozycji."
     },
     {
-      "matchup": "Río Breogán @ Kids&Us Manresa",
-      "phase": "Regular Season",
-      "ai_pick": "Río Breogán",
-      "formula_pick": "Kids&Us Manresa",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Río Breogán rozpoczął sezon 2026/27 od zwycięstwa, prezentując solidną grę ofensywną i wyróżniającą się postawę Danko Brankovica. Kids&Us Manresa zanotowało porażkę w meczu otwarcia i boryka się z kontuzją kluczowego zawodnika, Hugo Beníteza, co może wpłynąć na ich dyspozycję w tym spotkaniu.",
-      "key_factors": [
-        "Río Breogán ma bilans 1-0 w sezonie 2026/27 ACB, podczas gdy Kids&Us Manresa 0-1.",
-        "Kontuzja Hugo Beníteza (Kids&Us Manresa) osłabia drużynę gospodarzy.",
-        "Danko Brankovic z Río Breogán zanotował imponujący występ w pierwszym meczu sezonu.",
-        "Mecz odbywa się na boisku Kids&Us Manresa, co daje im przewagę własnego parkietu."
-      ],
-      "injury_notes": "Kids&Us Manresa: Hugo Benítez opuścił pierwszy mecz ligowy z powodu silnego uderzenia w żebra. Brak istotnych braków w składzie Río Breogán."
+      "matchup": "Real Madrid Baloncesto @ Monbus Obradoiro",
+      "ai_pick": null,
+      "formula_pick": "Monbus Obradoiro",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Valencia Basket @ Casademont Zaragoza",
+      "ai_pick": null,
+      "formula_pick": "Casademont Zaragoza",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Basquet Girona @ Baskonia Vitoria",
+      "ai_pick": null,
+      "formula_pick": "Baskonia Vitoria",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Barcelona Bàsquet @ UCAM Murcia",
+      "ai_pick": null,
+      "formula_pick": "UCAM Murcia",
+      "note": "AI fallback"
     }
   ]
 }
