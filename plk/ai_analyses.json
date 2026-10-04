@@ -1,21 +1,28 @@
 {
-  "generated_at": "2026-10-03T23:42:21.539971",
-  "date": "2026-10-04",
+  "generated_at": "2026-10-04T22:39:56.060759",
+  "date": "2026-10-05",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "MKS Dąbrowa Górnicza @ Euvic GTK Gliwice",
-      "ai_pick": null,
-      "formula_pick": "Euvic GTK Gliwice",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "WKS Śląsk Wrocław @ AMW Arka Gdynia",
-      "ai_pick": null,
-      "formula_pick": "AMW Arka Gdynia",
-      "note": "AI fallback"
+      "matchup": "Górnik Zamek Książ Wałbrzych @ Anwil Włocławek",
+      "phase": "Runda Zasadnicza",
+      "round": "1 kolejka",
+      "date": "2026-10-05T19:00:00",
+      "ai_pick": "Anwil Włocławek",
+      "formula_pick": "Anwil Włocławek",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Anwil Włocławek ma zdecydowaną przewagę własnego parkietu i historycznie dominował w meczach przeciwko Górnikowi Zamek Książ Wałbrzych. Dodatkowo, kursy bukmacherskie wyraźnie faworyzują Anwil, co wskazuje na ich większe szanse na zwycięstwo w inaugurującym sezonie meczu. Pomimo pewnych problemów kadrowych w okresie przygotowawczym, Anwil dokonał wzmocnień i udanie rozpoczął sezon w innych rozgrywkach.",
+      "key_factors": [
+        "Przewaga własnego parkietu Anwilu Włocławek (Hala Mistrzów)",
+        "Zdecydowanie lepszy bilans bezpośrednich spotkań (H2H) dla Anwilu Włocławek",
+        "Kursy bukmacherskie mocno faworyzujące Anwil Włocławek",
+        "Anwil Włocławek jest bardziej doświadczoną i uznaną drużyną w PLK"
+      ],
+      "injury_notes": "Anwil Włocławek zmagał się z problemami zdrowotnymi w okresie przygotowawczym, w tym z urazami Jacka Forresta (mięsień) i Josiaha Stronga (plecy), co doprowadziło do pozyskania Deona Edwina jako wzmocnienia. Brak jest jednoznacznych informacji, czy ci zawodnicy są w pełni zdolni do gry na mecz 5 października 2026. Górnik Zamek Książ Wałbrzych miał w sparingach uraz Ike'a Smitha, ale zespół zadeklarował pełną gotowość przed startem sezonu.",
+      "agreement_with_odds": true
     }
   ]
 }
