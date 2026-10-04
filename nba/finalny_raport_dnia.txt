@@ -1,16 +1,26 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-04 09:39 ET) ---
-Na podstawie otrzymanych instrukcji, muszę bazować wyłącznie na danych z **STYCZNIA 2026**, pomimo tego, że "DZISIEJSZA DATA TO: 2026-10-04". Oznacza to, że będę sprawdzać składy i raporty kontuzji z tamtego okresu.
+--- KRYTYCZNY AUDYT LIVE (2026-10-04 14:03 ET) ---
+Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-10-04):
 
 ---
 
-**Mecz: Heat @ Raptors**
-**Typ użytkownika: Raptors**
+### Jazz @ Nuggets -> Typ: Nuggets
 
-1.  **Kluczowe braki w składach (stan na STYCZEŃ 2026):**
+*   **Kluczowe braki w składach (2026-10-04):**
+    *   **Utah Jazz:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   **Denver Nuggets:** Trevon Brazile (F) - Day-To-Day (nieokreślona kontuzja, spodziewany powrót 2026-10-04). Spencer Jones - kontuzja, której należy "pilnować".
+*   **Werdykt:** ✅ ZATWIERDZONY
+    *   Nuggets byli znacznie silniejszą drużyną w sezonie 2025-26 (bilans 54-28) niż Jazz (bilans 22-60). Pomimo drobnych wątpliwości dotyczących Trevona Brazile'a i Spencer Jonesa, brak kluczowych absencji dla Nuggets oraz ogólna przewaga drużyny sprawiają, że Twój typ jest uzasadniony.
 
-    *   Szukając aktualnych (na styczeń 2026) składów i raportów kontuzji dla Miami Heat i Toronto Raptors, narzędzia wyszukiwania wskazują, że **Brak aktualnych raportów (Injury Report) na tę chwilę** dla konkretnej daty meczu w styczniu 2026, które zawierałyby statusy 'Out', 'Questionable', 'GTD' dla drużyn Heat i Raptors. Moja wiedza wewnętrzna jest przestarzała, a narzędzia wyszukiwania nie dostarczają tak szczegółowych, archiwalnych raportów kontuzji dla wybranego miesiąca bez konkretnej daty meczu. Nie jestem w stanie odnaleźć precyzyjnych informacji o kontuzjach dla tego okresu, które spełniałyby kryteria 'Out', 'Questionable', 'GTD'.
+---
 
-2.  **Werdykt:**
+### Warriors @ Clippers -> Typ: Clippers
 
-    *   Ze względu na brak możliwości znalezienia potwierdzonych, szczegółowych raportów kontuzji (ze statusami 'Out', 'Questionable', 'GTD') dla obu drużyn na styczeń 2026, nie jestem w stanie rzetelnie ocenić kluczowych braków w składach, które mogłyby wpłynąć na wynik meczu.
-    *   Werdykt: [⚠️ RYZYKOWNY] (Brak danych do analizy).
+*   **Kluczowe braki w składach (2026-10-04):**
+    *   **Golden State Warriors:** Kristaps Porzingis (PF, C) - Out (problem zdrowotny, spodziewany powrót 13 października).
+    *   **Los Angeles Clippers:**
+        *   Brandon Ingram (SF, PF) - Out (częściowe zerwanie ścięgna Achillesa, niejasny termin powrotu, spodziewany powrót 1 listopada).
+        *   Jordan Miller (SF) - Out (zerwane lewe ścięgno stożka rotatorów, prawdopodobnie poza grą do marca 2027).
+        *   Yanic Konan Niederhauser (C) - Out (postępuje po operacji, spodziewany powrót 1 listopada).
+        *   Bradley Beal (SG) - Questionable (stan zapalny kolana, wątpliwy udział w meczu przedsezonowym przeciwko Warriors).
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Chociaż Clippers mieli nieco lepszy bilans w sezonie 2025-26 (42-40) niż Warriors (37-45), to liczne i znaczące kontuzje kluczowych graczy Clippers (Ingram, Miller, Niederhauser) oraz status "Questionable" dla Bradleya Beala, mocno osłabiają zespół. Absencja Porzingisa dla Warriors jest również istotna, ale głębia osłabień Clippers czyni ten typ ryzykownym.
