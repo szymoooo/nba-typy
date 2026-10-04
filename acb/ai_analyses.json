@@ -1,54 +1,53 @@
 {
-  "generated_at": "2026-10-04T03:47:05.644946",
+  "generated_at": "2026-10-04T10:22:18.093371",
   "date": "2026-10-04",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Recoletas Salud San Pablo Burgos @ iLERNA Lleida",
-      "phase": "Regular Season",
-      "ai_pick": "iLERNA Lleida",
-      "formula_pick": "iLERNA Lleida",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "iLERNA Lleida rozpoczęło sezon od imponującego zwycięstwa na wyjeździe przeciwko Valencia Basket, prezentując silną ofensywę i zrównoważone punktowanie. Grają u siebie w drugiej kolejce, podczas gdy Recoletas Salud San Pablo Burgos przegrało swój pierwszy mecz i boryka się z kontuzjami kluczowych zawodników, co osłabia ich skład i jest w fazie budowania zespołu.",
-      "key_factors": [
-        "iLERNA Lleida jest niepokonana w obecnym sezonie (1-0) po zwycięstwie na wyjeździe nad Valencia Basket w 1. kolejce.",
-        "iLERNA Lleida gra u siebie, co stanowi dodatkową przewagę.",
-        "Recoletas Salud San Pablo Burgos ma istotne kontuzje liderów Retin Obasohan i Vlatko Cancar, którzy są poza składem.",
-        "Trener Recoletas Salud San Pablo Burgos, Porfi Fisac, wskazał, że drużyna jest w fazie budowania, a ich początek sezonu był utrudniony przez kontuzje."
-      ],
-      "injury_notes": "iLERNA Lleida: Atoumane Diagne (pívot) jest poza grą do końca sezonu z powodu zerwania więzadeł w kolanie. Kur Kuath (pívot) jest wątpliwy na mecz z powodu urazu kostki. Recoletas Salud San Pablo Burgos: Retin Obasohan (escolta/base) i Vlatko Cancar (alero) są kontuzjowani i przechodzą proces rekonwalescencji. Brak innych istotnych braków zgłoszonych na dzień 2026-10-04."
-    },
-    {
-      "matchup": "Surne Bilbao @ Leyma Coruña",
-      "ai_pick": null,
-      "formula_pick": "Leyma Coruña",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "Real Madrid @ Monbus Obradoiro",
-      "ai_pick": null,
-      "formula_pick": "Monbus Obradoiro",
-      "note": "AI fallback"
-    },
-    {
       "matchup": "Valencia Basket @ Casademont Zaragoza",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Valencia Basket",
       "formula_pick": "Casademont Zaragoza",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Valencia Basket historycznie dominuje w meczach przeciwko Casademont Zaragoza, wygrywając 7 ostatnich spotkań i 21 z 22 poprzednich. Mimo początkowej porażki w Lidze ACB, Valencia pokazała dobrą formę w Eurolidze z dwoma zwycięstwami.",
+      "key_factors": [
+        "Dominujący bilans H2H Valencii Basket (7 kolejnych wygranych, 21 z 22 ostatnich meczów)",
+        "Wyższa jakość składu Valencii Basket i doświadczenie w europejskich rozgrywkach",
+        "Mimo porażki w pierwszym meczu ACB, Valencia pokazała dobrą formę w Eurolidze (2 wygrane)"
+      ],
+      "injury_notes": "Casademont Zaragoza: Brak Jilsona Bango. Valencia Basket: Stefan Jovic (zapalenie kaletki w prawym łokciu) i Amida Brimah (kontuzja ścięgna podkolanowego w prawej nodze) są wykluczeni."
     },
     {
       "matchup": "FIATC Girona @ Kosner Baskonia",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "FIATC Girona",
       "formula_pick": "Kosner Baskonia",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 6,
+      "reasoning": "FIATC Girona rozpoczęła sezon od solidnego zwycięstwa u siebie, z Jasselem Pérezem w doskonałej formie, który zdobył 20 punktów i miał 30 oceny efektywności w pierwszym meczu. Chociaż Kosner Baskonia również wygrała swój pierwszy mecz wyjazdowy w ACB, zespół zmagał się z problemami kadrowymi i kontuzjami w okresie przygotowawczym, a jeden zawodnik, Frisch, jest wykluczony z gry na 4 października.",
+      "key_factors": [
+        "Znakomita forma lidera FIATC Girona, Jassela Péreza",
+        "Kontuzje w zespole Kosner Baskonii, w tym wykluczenie Frisha na dzień meczu",
+        "Wczesna faza sezonu ACB, co oznacza ograniczoną liczbę danych dotyczących aktualnej formy obu drużyn"
+      ],
+      "injury_notes": "Kosner Baskonia: Frisch nie zagra 4 października 2026 roku. We wrześniu 2026 roku, przed sezonem, zespół zmagał się z rozległą listą kontuzji, co wpłynęło na ich przygotowania i skład. FIATC Girona: brak istotnych braków (dla sekcji koszykówki)."
     },
     {
       "matchup": "Barça @ UCAM Murcia",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Barça",
       "formula_pick": "UCAM Murcia",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "Barça rozpoczęła sezon 2026/27 Ligi ACB od imponującego zwycięstwa, zdobywając 119 punktów, a także odniosła niedawno zwycięstwo w Eurolidze. UCAM Murcia, pomimo gry u siebie w swoim pierwszym meczu sezonu przed własną publicznością, przegrała swój pierwszy mecz ligowy i ma kluczową kontuzję, a historyczny bilans bezpośrednich spotkań zdecydowanie przemawia na korzyść Barcelony.",
+      "key_factors": [
+        "Dobra forma Barcelony na początku sezonu (1-0 w ACB, zwycięstwo w Eurolidze).",
+        "Silna ofensywa Barcelony w pierwszym meczu (119 punktów).",
+        "Kontuzja Howarda Sant-Roosa (UCAM Murcia)."
+      ],
+      "injury_notes": "UCAM Murcia zagra bez Howarda Sant-Roosa z powodu zerwanego ścięgna przywodziciela. Barça ma kilku kontuzjowanych zawodników, w tym Josha Nebo (kontuzja mięśniowa), Tosana Evbuomwana i Yoana Makoundou."
     }
   ]
 }
