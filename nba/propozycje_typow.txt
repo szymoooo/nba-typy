@@ -1,2 +1,5 @@
-Jazz @ Nuggets -> Typ: Nuggets
-Warriors @ Clippers -> Typ: Clippers
+Grizzlies @ Hawks -> Typ: Hawks
+Suns @ Pistons -> Typ: Pistons
+Knicks @ 76ers -> Typ: 76ers
+Timberwolves @ Bucks -> Typ: Bucks
+Lakers @ Kings -> Typ: Kings
