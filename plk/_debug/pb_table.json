@@ -2406,50 +2406,36 @@
       "abbr": "WLO",
       "team_id": 1,
       "games": 1,
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "small_points_scored": 0,
-      "small_points_lost": 0,
-      "wins_home": 0,
+      "small_points_scored": 88,
+      "small_points_lost": 87,
+      "wins_home": 1,
       "wins_away": 0,
-      "losses_home": 1,
+      "losses_home": 0,
       "losses_away": 0,
       "losses_walkovers": 0,
-      "possessions": 0,
-      "opponents_possessions": 0,
+      "possessions": 78,
+      "opponents_possessions": 78,
       "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
       "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
-      "live_game": {
-        "game_id": 39571,
-        "score": "0-0",
-        "win": false,
-        "opponent_abbr": "WAL",
-        "role": "home",
-        "opponent": "Górnik Zamek Książ Wałbrzych",
-        "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-        "date": "05.10.2026 19:00",
-        "draw": true,
-        "fiba_game_id": "2929478",
-        "win_prob": 50.0,
-        "info": "Q1 10:00"
-      },
+      "live_game": null,
       "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
-      "streak": "D",
-      "seconds": 0,
-      "pace": 0.0,
-      "ot_number": 0,
-      "real_position": 15,
+      "streak": "W",
+      "seconds": 13500.0,
+      "pace": 69.3,
+      "ot_number": 1,
+      "real_position": 8,
       "games_list": [
         {
           "game_id": 39571,
-          "score": "0-0",
-          "win": false,
+          "score": "88-87",
+          "win": true,
           "opponent_abbr": "WAL",
           "role": "home",
           "opponent": "Górnik Zamek Książ Wałbrzych",
           "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "date": "05.10.2026 19:00",
-          "draw": true
+          "date": "05.10.2026 19:00"
         }
       ],
       "next_games_list": [
@@ -2744,18 +2730,18 @@
           "role": "home"
         }
       ],
-      "points": 1,
-      "offensive_rating": 0.0,
-      "defensive_rating": 0.0,
-      "wins_percent": 0.0,
-      "small_points_per_100_possessions": 0.0,
-      "avg_small_points_scored": 0.0,
-      "avg_small_points_lost": 0.0,
-      "avg_possessions": 0.0,
-      "avg_opponents_possessions": 0.0,
-      "net_rating": 0.0,
-      "small_points_plus_minus": 0,
-      "small_points_ratio": 0.0,
+      "points": 2,
+      "offensive_rating": 112.8,
+      "defensive_rating": 111.5,
+      "wins_percent": 100.0,
+      "small_points_per_100_possessions": 112.8,
+      "avg_small_points_scored": 88.0,
+      "avg_small_points_lost": 87.0,
+      "avg_possessions": 78.0,
+      "avg_opponents_possessions": 78.0,
+      "net_rating": 1.3,
+      "small_points_plus_minus": 1,
+      "small_points_ratio": 1.011,
       "position": 8
     },
     {
@@ -2764,49 +2750,35 @@
       "team_id": 19,
       "games": 1,
       "wins": 0,
-      "losses": 0,
-      "small_points_scored": 0,
-      "small_points_lost": 0,
+      "losses": 1,
+      "small_points_scored": 87,
+      "small_points_lost": 88,
       "wins_home": 0,
       "wins_away": 0,
       "losses_home": 0,
       "losses_away": 1,
       "losses_walkovers": 0,
-      "possessions": 0,
-      "opponents_possessions": 0,
+      "possessions": 78,
+      "opponents_possessions": 78,
       "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
       "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
-      "live_game": {
-        "game_id": 39571,
-        "score": "0-0",
-        "win": false,
-        "opponent_abbr": "WLO",
-        "role": "away",
-        "opponent": "Anwil Włocławek",
-        "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-        "date": "05.10.2026 19:00",
-        "draw": true,
-        "fiba_game_id": "2929478",
-        "win_prob": 50.0,
-        "info": "Q1 10:00"
-      },
+      "live_game": null,
       "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
-      "streak": "D",
-      "seconds": 0,
-      "pace": 0.0,
-      "ot_number": 0,
-      "real_position": 16,
+      "streak": "L",
+      "seconds": 13500.0,
+      "pace": 69.3,
+      "ot_number": 1,
+      "real_position": 9,
       "games_list": [
         {
           "game_id": 39571,
-          "score": "0-0",
+          "score": "87-88",
           "win": false,
           "opponent_abbr": "WLO",
           "role": "away",
           "opponent": "Anwil Włocławek",
           "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "date": "05.10.2026 19:00",
-          "draw": true
+          "date": "05.10.2026 19:00"
         }
       ],
       "next_games_list": [
@@ -3102,17 +3074,17 @@
         }
       ],
       "points": 1,
-      "offensive_rating": 0.0,
-      "defensive_rating": 0.0,
+      "offensive_rating": 111.5,
+      "defensive_rating": 112.8,
       "wins_percent": 0.0,
-      "small_points_per_100_possessions": 0.0,
-      "avg_small_points_scored": 0.0,
-      "avg_small_points_lost": 0.0,
-      "avg_possessions": 0.0,
-      "avg_opponents_possessions": 0.0,
-      "net_rating": 0.0,
-      "small_points_plus_minus": 0,
-      "small_points_ratio": 0.0,
+      "small_points_per_100_possessions": 111.5,
+      "avg_small_points_scored": 87.0,
+      "avg_small_points_lost": 88.0,
+      "avg_possessions": 78.0,
+      "avg_opponents_possessions": 78.0,
+      "net_rating": -1.3,
+      "small_points_plus_minus": -1,
+      "small_points_ratio": 0.989,
       "position": 9
     },
     {
@@ -3139,7 +3111,7 @@
       "seconds": 12000.0,
       "pace": 74.0,
       "ot_number": 0,
-      "real_position": 8,
+      "real_position": 10,
       "games_list": [
         {
           "game_id": 39564,
@@ -3482,7 +3454,7 @@
       "seconds": 13500.0,
       "pace": 70.2,
       "ot_number": 1,
-      "real_position": 9,
+      "real_position": 11,
       "games_list": [
         {
           "game_id": 39568,
@@ -3825,7 +3797,7 @@
       "seconds": 12000.0,
       "pace": 79.0,
       "ot_number": 0,
-      "real_position": 10,
+      "real_position": 12,
       "games_list": [
         {
           "game_id": 39567,
@@ -4168,7 +4140,7 @@
       "seconds": 12000.0,
       "pace": 82.0,
       "ot_number": 0,
-      "real_position": 11,
+      "real_position": 13,
       "games_list": [
         {
           "game_id": 39569,
@@ -4511,7 +4483,7 @@
       "seconds": 12000.0,
       "pace": 78.0,
       "ot_number": 0,
-      "real_position": 12,
+      "real_position": 14,
       "games_list": [
         {
           "game_id": 39566,
@@ -4854,7 +4826,7 @@
       "seconds": 12000.0,
       "pace": 71.0,
       "ot_number": 0,
-      "real_position": 13,
+      "real_position": 15,
       "games_list": [
         {
           "game_id": 39570,
@@ -5197,7 +5169,7 @@
       "seconds": 12000.0,
       "pace": 80.0,
       "ot_number": 0,
-      "real_position": 14,
+      "real_position": 16,
       "games_list": [
         {
           "game_id": 39565,
@@ -5640,72 +5612,48 @@
             "total_wins": 1,
             "total_losses": 0,
             "games_list": []
-          }
-        ],
-        "on_position": 1
-      }
-    ],
-    "8": [
-      {
-        "step": "small_points_plus_minus",
-        "teams": [
+          },
           {
             "team": "Anwil Włocławek",
             "abbr": "WLO",
             "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
             "points": 0,
-            "games": 1,
+            "games": 0,
             "wins": 0,
             "losses": 0,
             "small_points_scored": 0,
             "small_points_lost": 0,
             "small_points_plus_minus": 0,
-            "total_small_points_scored": 0,
-            "total_small_points_plus_minus": 0,
-            "total_wins": 0,
+            "total_small_points_scored": 88,
+            "total_small_points_plus_minus": 1,
+            "total_wins": 1,
             "total_losses": 0,
-            "games_list": [
-              {
-                "game_id": 39571,
-                "score": "0-0",
-                "win": false,
-                "opponent_abbr": "WAL",
-                "role": "home",
-                "opponent": "Górnik Zamek Książ Wałbrzych",
-                "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-                "date": "05.10.2026 19:00",
-                "draw": true
-              }
-            ]
-          },
+            "games_list": []
+          }
+        ],
+        "on_position": 1
+      }
+    ],
+    "9": [
+      {
+        "step": "small_points_plus_minus",
+        "teams": [
           {
             "team": "Górnik Zamek Książ Wałbrzych",
             "abbr": "WAL",
             "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
             "points": 0,
-            "games": 1,
+            "games": 0,
             "wins": 0,
             "losses": 0,
             "small_points_scored": 0,
             "small_points_lost": 0,
             "small_points_plus_minus": 0,
-            "total_small_points_scored": 0,
-            "total_small_points_plus_minus": 0,
+            "total_small_points_scored": 87,
+            "total_small_points_plus_minus": -1,
             "total_wins": 0,
-            "total_losses": 0,
-            "games_list": [
-              {
-                "game_id": 39571,
-                "score": "0-0",
-                "win": false,
-                "opponent_abbr": "WLO",
-                "role": "away",
-                "opponent": "Anwil Włocławek",
-                "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-                "date": "05.10.2026 19:00",
-                "draw": true
-              }
-            ]
+            "total_losses": 1,
+            "games_list": []
           },
           {
             "team": "Energa Czarni Słupsk",
@@ -5827,71 +5775,7 @@
             "games_list": []
           }
         ],
-        "on_position": 8
-      },
-      {
-        "step": "small_points_scored",
-        "teams": [
-          {
-            "team": "Anwil Włocławek",
-            "abbr": "WLO",
-            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
-            "points": 0,
-            "games": 1,
-            "wins": 0,
-            "losses": 0,
-            "small_points_scored": 0,
-            "small_points_lost": 0,
-            "small_points_plus_minus": 0,
-            "total_small_points_scored": 0,
-            "total_small_points_plus_minus": 0,
-            "total_wins": 0,
-            "total_losses": 0,
-            "games_list": [
-              {
-                "game_id": 39571,
-                "score": "0-0",
-                "win": false,
-                "opponent_abbr": "WAL",
-                "role": "home",
-                "opponent": "Górnik Zamek Książ Wałbrzych",
-                "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-                "date": "05.10.2026 19:00",
-                "draw": true
-              }
-            ]
-          },
-          {
-            "team": "Górnik Zamek Książ Wałbrzych",
-            "abbr": "WAL",
-            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
-            "points": 0,
-            "games": 1,
-            "wins": 0,
-            "losses": 0,
-            "small_points_scored": 0,
-            "small_points_lost": 0,
-            "small_points_plus_minus": 0,
-            "total_small_points_scored": 0,
-            "total_small_points_plus_minus": 0,
-            "total_wins": 0,
-            "total_losses": 0,
-            "games_list": [
-              {
-                "game_id": 39571,
-                "score": "0-0",
-                "win": false,
-                "opponent_abbr": "WLO",
-                "role": "away",
-                "opponent": "Anwil Włocławek",
-                "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-                "date": "05.10.2026 19:00",
-                "draw": true
-              }
-            ]
-          }
-        ],
-        "on_position": 8
+        "on_position": 9
       }
     ]
   }
