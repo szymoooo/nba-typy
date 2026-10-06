@@ -1,16 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-06 00:14 ET) ---
-Oto analiza Twojego typu na podstawie dzisiejszych danych (2026-10-06):
+--- KRYTYCZNY AUDYT LIVE (2026-10-06 07:18 ET) ---
+Na podstawie danych z 2026-10-06 dla meczu Lakers @ Kings:
 
-**Lakers @ Kings**
+**Lakers @ Kings** -> Typ użytkownika: Kings
 
-*   **Kluczowe braki w składach (stan na 2026-10-06, odzwierciedlające status z meczu 2026-10-05):**
-    *   **Los Angeles Lakers:**
-        *   Walker Kessler: Out (kontuzja palca, status day-to-day) 🤕
-        *   Austin Reaves: Out (skręcona kostka, status day-to-day) 🩹
-        *   Collin Sexton: Out (niepewny status, owinięta dolna część nogi, status day-to-day) 🦵
-        *   Arthur Kaluma: Out (gracz na kontrakcie two-way) 🚫
-    *   **Sacramento Kings:**
-        *   Brak aktualnych raportów (Injury Report) wskazujących na kluczowe braki. De'Andre Hunter jest zgłoszony jako zdrowy i gotowy do gry.
+**Kluczowe braki w składach (na dzień 2026-10-06):**
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Lakers borykają się z poważnymi kontuzjami kilku kluczowych graczy, w tym Walkera Kesslera i Austina Reavesa. Kings wydają się być w pełni sił. Biorąc pod uwagę te osłabienia Lakers, typ na zwycięstwo Kings jest uzasadniony.
+*   **Los Angeles Lakers:**
+    *   Walker Kessler (skręcony palec) - Out. Day-to-day.
+    *   Austin Reaves (skręcona kostka) - Out. Day-to-day.
+    *   Collin Sexton (dolna część ciała) - Out. Day-to-day.
+    *   Arthur Kaluma (dolna część ciała) - Out. Day-to-day.
+    *   Luka Doncić doznał lekkiego urazu uda, ale dograł pierwszą połowę meczu przedsezonowego i oczekuje się, że będzie w porządku.
+
+*   **Sacramento Kings:**
+    *   Ben Simmons (odpoczynek/rekonwalescencja po kontuzji) - Out.
+    *   Keegan Murray (odpoczynek) - Out. Spodziewany powrót na czwartek.
+    *   Malik Monk (odpoczynek) - Out. Spodziewany powrót na czwartek.
+
+**Werdykt:** [⚠️ RYZYKOWNY]
+Chociaż obie drużyny mają znaczące braki, Los Angeles Lakers pokonali Sacramento Kings 127-103 w niedawnym meczu przedsezonowym, pomimo własnych kontuzji kluczowych graczy. Kings również byli osłabieni brakiem Simmonsa, Murraya i Monka w tym spotkaniu, a Murray i Monk nadal byliby poza składem na dzień dzisiejszy (6 października), ponieważ ich powrót planowany jest na czwartek. Biorąc pod uwagę ten wynik, typ na Kings jest ryzykowny.
