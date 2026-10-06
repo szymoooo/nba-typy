@@ -1,24 +1,20 @@
 {
-  "generated_at": "2026-10-05T10:50:23.716430",
-  "date": "2026-10-05",
+  "generated_at": "2026-10-06T23:13:34.741365",
+  "date": "2026-10-07",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Basketball Löwen Braunschweig @ RASTA Vechta",
-      "phase": "Regular Season",
-      "ai_pick": "Basketball Löwen Braunschweig",
-      "formula_pick": "RASTA Vechta",
-      "agreement": false,
-      "confidence": 8,
-      "reasoning": "Basketball Löwen Braunschweig rozpoczęli sezon 2026/27 w BBL z bilansem 2-0, wykazując się wysoką skutecznością rzutów z gry (53,1%) i za trzy punkty (48,1%) oraz średnio 99,5 punktu na mecz. RASTA Vechta ma obecnie bilans 0-3 w BBL, co wskazuje na gorszą formę w lidze, pomimo pewnych sukcesów w kwalifikacjach do Ligi Mistrzów.",
-      "key_factors": [
-        "Aktualna forma Basketball Löwen Braunschweig (2-0 w BBL, 3-0 ogólnie)",
-        "Słaba forma RASTA Vechta w BBL (0-3)",
-        "Ofensywna skuteczność Löwen Braunschweig (najlepsza w lidze w FG% i 3P%)",
-        "Brak istotnych kontuzji u liderów obu drużyn"
-      ],
-      "injury_notes": "brak istotnych braków"
+      "matchup": "Fitness First Würzburg Baskets @ Basketball Löwen Braunschweig",
+      "ai_pick": null,
+      "formula_pick": "Basketball Löwen Braunschweig",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "EWE Baskets @ Ratiopharm Ulm",
+      "ai_pick": null,
+      "formula_pick": "Ratiopharm Ulm",
+      "note": "AI fallback"
     }
   ]
 }
