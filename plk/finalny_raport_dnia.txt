@@ -1,29 +1,17 @@
---- AUDYT PLK LIVE (2026-10-06 21:22 CET) ---
-Dla meczu rozegranego 2026-10-05:
+--- AUDYT PLK LIVE (2026-10-06 23:24 CET) ---
+Analiza meczu PLK (2026-10-05):
 
-**Górnik Zamek Książ Wałbrzych @ Anwil Włocławek -> Typ: Anwil Włocławek**
+---
+
+### **Górnik Zamek Książ Wałbrzych @ Anwil Włocławek**
+Typ PulsBasketu: Anwil Włocławek
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Anwil Włocławek:**
-        *   **Jack Forrest:** Kontynuował rehabilitację po kontuzji mięśnia.
-        *   **Josiah Strong:** Zmagał się z kontuzją pleców i był wyłączony z gry na kilka tygodni, trenując indywidualnie.
-        *   **Deon Edwin:** Został zakontraktowany, aby załatać luki po kontuzjach Forresta i Stronga, debiutując w tym meczu.
-        *   **Szymon Wójcik:** Zakończył rehabilitację i był do dyspozycji trenera.
-    *   🏀 **Górnik Zamek Książ Wałbrzych:**
-        *   **Ike Smith:** Doznał urazu w sparingach przed sezonem, co spowodowało, że musieli sobie radzić bez niego w większości gier kontrolnych. Nie znalazł się w protokole meczowym z 2026-10-05.
-        *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim.
+    *   Anwil Włocławek: Brak istotnych braków w składzie koszykarskim na dzień 2026-10-06.
+    *   Górnik Zamek Książ Wałbrzych: Brak istotnych braków w składzie koszykarskim na dzień 2026-10-06.
 
-2.  **Aktualna forma top scorerów (mecz 2026-10-05):**
-    *   🏀 **Anwil Włocławek:**
-        *   **Manu Lecomte:** 19 punktów.
-        *   **Sam Hines Jr:** 18 punktów.
-        *   **Lennard Freeman:** 15 punktów.
-    *   🏀 **Górnik Zamek Książ Wałbrzych:**
-        *   **AJ Rohosy:** 20 punktów.
-        *   **Mike Scott:** 15 punktów.
-        *   **Leemet Bockler:** 12 punktów.
+2.  **Aktualna forma top scorerów:**
+    *   Anwil Włocławek: Brak danych z API dla tego zespołu.
+    *   Górnik Zamek Książ Wałbrzych: Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:**
-    *   **⚠️ RYZYKOWNY**
-        *   Anwil Włocławek wygrał mecz u siebie po dogrywce wynikiem 88:87, co świadczy o jego niezwykłej zaciętości i wyrównanym poziomie.
-        *   Mimo zwycięstwa, Anwil zmagał się z kontuzjami kluczowych zawodników (Jack Forrest, Josiah Strong) i potrzebował dogrywki, aby pokonać Górnika, co sugeruje, że typ na zwycięstwo Anwilu był ryzykowny.
+3.  **Werdykt:** [✅ ZATWIERDZONY]

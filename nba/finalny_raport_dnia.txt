@@ -1,32 +1,60 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-06 15:22 ET) ---
-Zgodnie z dzisiejszymi danymi (2026-10-06), wszystkie wymienione mecze są zaplanowane jako spotkania przedsezonowe NBA. Sezon zasadniczy ma rozpocząć się 20 października 2026 roku. Raporty o kontuzjach w preseason bywają mniej szczegółowe.
-
-Oto analiza Twoich typów:
+--- KRYTYCZNY AUDYT LIVE (2026-10-06 17:23 ET) ---
+Oto analiza Twoich typów na podstawie danych ze stycznia 2026, wyszukanych na dzień 2026-10-06:
 
 ---
+### **1. Nets @ Hornets -> Typ: Hornets**
 
-**Nets @ Hornets** -> Typ: Hornets
-
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak wystarczających danych o składach preseasonowych i ich rotacjach, które mogłyby wpłynąć na wynik.
-
----
-
-**Pelicans @ Thunder** -> Typ: Thunder
-
-*   **Kluczowe braki w składach:** Thomas Sorber (Thunder) - Kolano (Out).
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Mimo jednej potwierdzonej kontuzji, jest to mecz preseasonowy, a rotacje i intensywność gry mogą być zmienne, co utrudnia ocenę typu.
-
----
-
-**Nuggets @ Jazz** -> Typ: Jazz
-
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - W meczach przedsezonowych trudno przewidzieć strategie zespołów i zaangażowanie kluczowych graczy.
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **Brooklyn Nets:**
+        *   Michael Porter Jr. (Out - zerwane ACL prawego kolana, kontuzja kończąca sezon, od stycznia 2026).
+        *   Terance Mann (Questionable - stłuczenie biodra, 1 stycznia 2026).
+    *   **Charlotte Hornets:**
+        *   Mason Plumlee (Out - operacja pachwiny, 17 stycznia 2026).
+        *   Grant Williams (Out - zarządzanie urazem prawego kolana, 18 stycznia 2026).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Nets mieli bardzo słaby styczeń 2026 (bilans 10-21 na początek miesiąca). Brak kluczowego Michaela Portera Jr. (kontuzja kończąca sezon w styczniu 2026) to ogromne osłabienie. Hornets również mieli braki, ale brak Portera Jr. dla Nets jest bardziej dotkliwy, co sprawia, że wynik jest niepewny.
 
 ---
+### **2. Pelicans @ Thunder -> Typ: Thunder**
 
-**Lakers @ Warriors** -> Typ: Lakers
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **New Orleans Pelicans:**
+        *   Dejounte Murray (Out - zerwanie ścięgna Achillesa, kontuzja kończąca sezon, od 18 stycznia 2026).
+        *   Herbert Jones (Out - zwichnięcie prawej kostki, 18 stycznia 2026).
+        *   Jose Alvarado (Out - naciągnięcie mięśni skośnych brzucha, 18 stycznia 2026).
+    *   **Oklahoma City Thunder:**
+        *   Alex Caruso (Out - naciągnięcie prawego przywodziciela, 25 stycznia 2026).
+        *   Isaiah Hartenstein (Out - naciągnięcie mięśnia płaszczkowatego prawej nogi, 17 i 25 stycznia 2026).
+        *   Jalen Williams (Out - naciągnięcie ścięgna podkolanowego, koniec stycznia 2026).
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mimo licznych kontuzji, Thunder utrzymywali najlepszy bilans w NBA w styczniu 2026. Ich kluczowi liderzy, Shai Gilgeous-Alexander i Chet Holmgren, byli dostępni. Pelicans natomiast mieli poważne, długoterminowe straty, w tym Dejounte Murraya na resztę sezonu.
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Podobnie jak w innych meczach preseasonowych, wyniki są często nieprzewidywalne ze względu na testowanie składów i brak pełnej intensywności.
+---
+### **3. Nuggets @ Jazz -> Typ: Jazz**
+
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **Denver Nuggets:**
+        *   Nikola Jokic (ma opuścić 4 tygodnie gry, informacja z 26 stycznia 2026).
+        *   Aaron Gordon (problemy z kontuzjami przez cały styczeń 2026).
+        *   Jamal Murray (problemy z kontuzjami przez cały styczeń 2026, "total mess" 14 stycznia 2026, Out 20 stycznia 2026).
+    *   **Utah Jazz:**
+        *   Walker Kessler (Out - kontuzja lewego barku, 17 i 27 stycznia 2026).
+        *   Lauri Markkanen (Out - choroba, 17 stycznia 2026; Dostępny - rekonwalescencja, 27 stycznia 2026).
+        *   Jusuf Nurkic (Out - choroba, 27 stycznia 2026).
+        *   Keyonte George (Out - odpoczynek, 27 stycznia 2026).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Biorąc pod uwagę znaczące i niejasne problemy z kontuzjami kluczowych graczy Nuggets (Jokic, Gordon, Murray) w styczniu 2026, ich forma była bardzo niepewna. Jazz również zmagali się z brakami w rotacji, jednak brak potwierdzonych informacji o ich wpływie na ten konkretny mecz oraz niejasny status kluczowych graczy Nuggets sprawiają, że typ jest ryzykowny.
+
+---
+### **4. Lakers @ Warriors -> Typ: Lakers**
+
+*   **Kluczowe braki w składach (styczeń 2026):**
+    *   **Los Angeles Lakers:**
+        *   Luka Dončić (Out - ból pachwiny, 17 stycznia 2026).
+        *   Austin Reaves (Out - naciągnięcie lewej łydki, 17 i 22 stycznia 2026).
+    *   **Golden State Warriors:**
+        *   Jimmy Butler (Out - zerwane ACL prawego kolana, kontuzja kończąca sezon, od stycznia 2026).
+        *   Seth Curry (Out - podrażnienie nerwu kulszowego, 9 i 17 stycznia 2026).
+        *   Kristaps Porzingis (Out indefinitely - nieujawniony problem, prawdopodobnie w styczniu 2026).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny miały bardzo poważne braki. Lakers bez Luki Dončicia i Austina Reavesa to znaczące osłabienie ich siły ognia i kreacji gry. Warriors bez Jimmy'ego Butlera (kontuzja kończąca sezon) i Kristapsa Porzingisa to również ogromne straty. Typ na Lakers jest bardzo ryzykowny, biorąc pod uwagę osłabienia obu drużyn.
