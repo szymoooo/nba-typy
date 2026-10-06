@@ -1,25 +1,26 @@
---- AUDYT PLK LIVE (2026-10-06 13:19 CET) ---
-Analiza meczu PLK (2026-10-05): Górnik Zamek Książ Wałbrzych @ Anwil Włocławek
+--- AUDYT PLK LIVE (2026-10-06 16:43 CET) ---
+**# PLK typy na 2026-10-05**
 
-**Wynik meczu (fakt z 2026-10-05):** Anwil Włocławek 88:87 Górnik Zamek Książ Wałbrzych (po dogrywce).
+**Górnik Zamek Książ Wałbrzych @ Anwil Włocławek**
 
----
-
-### Górnik Zamek Książ Wałbrzych @ Anwil Włocławek
-
-1.  **Kluczowe braki w składach koszykarskich (na dzień 2026-10-05):**
-    *   🏀 **Anwil Włocławek:**
-        *   **Jack Forrest** (uraz mięśnia, wydłużona rehabilitacja)
-        *   **Josiah Strong** (uraz pleców, szczegółowa analiza stanu zdrowia)
-        *   Obaj zawodnicy byli niedostępni przed startem sezonu (stan na 22 września 2026) i nie ma informacji o ich powrocie przed meczem 5 października. Klub sprowadził Deona Edwina jako wzmocnienie w związku z tymi problemami.
-    *   🏀 **Górnik Zamek Książ Wałbrzych:** Brak istotnych braków w składzie koszykarskim, potwierdzonych na dzień meczu (2026-10-05).
+1.  **Kluczowe braki w składach:**
+    *   **Anwil Włocławek:**
+        *   ❌ Jack Forrest kontynuował rehabilitację uszkodzonego mięśnia. Decyzja o powrocie do treningów z drużyną miała zapaść we wtorek (2026-10-06).
+        *   ❌ Josiah Strong zmagał się z kontuzją pleców, co oznaczało przerwę nawet kilkutygodniową. Trenował indywidualnie.
+        *   ✅ Szymon Wójcik zakończył proces rehabilitacji i był do dyspozycji trenera.
+        *   ✅ Deon Edwin został zakontraktowany w związku z urazami Forresta i Stronga i zadebiutował w tym meczu.
+    *   **Górnik Zamek Książ Wałbrzych:**
+        *   Brak istotnych braków w składzie koszykarskim.
 
 2.  **Aktualna forma top scorerów (z meczu 2026-10-05):**
-    *   🏀 **Górnik Zamek Książ Wałbrzych:**
-        *   Adam Rohosy Jr: 20 Pkt/mecz
-        *   Michaelyn Scott: 15 Pkt/mecz
-        *   Leemet Bockler: 12 Pkt/mecz
-    *   🏀 **Anwil Włocławek:** Brak danych z API dla tego zespołu w wyszukanych źródłach odnośnie top scorerów z tego konkretnego meczu.
+    *   **Anwil Włocławek:**
+        *   Emmanuel Lecomte: 19 punktów
+        *   Samuel Hines Jr: 18 punktów
+        *   Lennard Freeman: 15 punktów
+    *   **Górnik Zamek Książ Wałbrzych:**
+        *   Adam Rohosy Jr: 20 punktów
+        *   Michaelyn Scott: 15 punktów
+        *   Leemet Bockler: 12 punktów
 
-3.  **Werdykt (ocena typu po meczu):**
-    *   [✅ ZATWIERDZONY] Typ "Anwil Włocławek" został zatwierdzony, ponieważ Anwil wygrał mecz 88:87. Mecz był jednak niezwykle zacięty i zakończył się po dogrywce, co wskazuje na ryzyko mimo poprawnego wskazania zwycięzcy.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo kontuzji kluczowych graczy (Forrest, Strong), Anwil Włocławek wygrał mecz u siebie (Hala Mistrzów) po dogrywce (88:87). Wynik był bardzo wyrównany, co wskazuje na ryzyko, pomimo początkowego typu. Anwil miał przewagę własnego parkietu, ale braki kadrowe sprawiły, że zwycięstwo było minimalne i wymagające dogrywki.
