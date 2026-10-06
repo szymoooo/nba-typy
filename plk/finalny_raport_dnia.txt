@@ -1,22 +1,17 @@
---- AUDYT PLK LIVE (2026-10-06 03:50 CET) ---
-Analiza meczu: Górnik Zamek Książ Wałbrzych @ Anwil Włocławek (Typ: Anwil Włocławek)
+--- AUDYT PLK LIVE (2026-10-06 06:15 CET) ---
+Dla meczu Górnik Zamek Książ Wałbrzych @ Anwil Włocławek (typ na 2026-10-05):
 
 1.  **Kluczowe braki w składach:**
-    *   **Anwil Włocławek:**
-        *   Jack Forrest 🩹: Kontynuował rehabilitację uszkodzonego mięśnia i był niedostępny na mecz 2026-10-05.
-        *   Josiah Strong 🩹: Zmagał się z kontuzją pleców, co oznaczało przerwę na nawet kilka tygodni i niedostępność na mecz 2026-10-05.
     *   **Górnik Zamek Książ Wałbrzych:**
-        *   Ike Smith 🩹: Rozpoczął sezon 2026/27 z opóźnieniem z powodu problemów zdrowotnych i był niedostępny na mecz z Anwilem.
-
-2.  **Aktualna forma top scorerów (z meczu 2026-10-05):**
+        *   ❌ **Ike Smith** (rozgrywający/rzucający): Zmagał się z urazem od początku sparingów, opuścił większość meczów kontrolnych i nie zagrał w meczu 3. Ligi Mężczyzn pod koniec września 2026. Prawdopodobnie był niedostępny lub mocno ograniczony na mecz 2026-10-05.
+        *   ❌ **Kenny Goins** (silny skrzydłowy/center): Nie zagrał w meczu 3. Ligi Mężczyzn pod koniec września 2026, co sugeruje niedostępność lub ograniczenie na mecz 2026-10-05.
     *   **Anwil Włocławek:**
-        *   Manu Lecomte: 19 punktów
-        *   Sam Hines Jr: 18 punktów
-        *   Lennard Freeman: 15 punktów
-    *   **Górnik Zamek Książ Wałbrzych:**
-        *   AJ Rohosy: 20 punktów
-        *   Mike Scott: 15 punktów
-        *   Leemet Bockler: 12 punktów
+        *   ❌ **Jack Forrest** (rzucający): Doznał urazu mięśnia, proces rehabilitacji został wydłużony. Był wykluczony z gry na mecz ENBL 22 września 2026 i z dużą pewnością na ligowy debiut 5 października.
+        *   ❌ **Josiah Strong** (rzucający): Zgłosił uraz pleców pod koniec września 2026, szczegółowa analiza stanu zdrowia trwała. Był wykluczony z gry na mecz ENBL 22 września 2026 i z dużą pewnością na ligowy debiut 5 października.
+        *   ✅ Zespół Anwilu dokonał transferu **Deona Edwina** (obwodowy) 22 września 2026 w związku z problemami kadrowymi.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mimo osłabień Anwil Włocławek zdołał pokonać Górnika Zamek Książ Wałbrzych 88:87 po dogrywce, co było zgodne z typem.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mimo że Anwil Włocławek był faworytem grającym u siebie, a typ okazał się poprawny (Anwil wygrał 88:87 po dogrywce), liczne braki kadrowe po obu stronach (szczególnie kluczowych graczy Anwilu, takich jak Forrest i Strong, oraz prawdopodobne problemy Górnika z Smithem i Goinsem) sprawiły, że mecz był niezwykle zacięty i rozstrzygnął się dopiero po dogrywce. To czyniło ten typ ryzykownym, pomimo ostatecznego zwycięstwa Anwilu.
