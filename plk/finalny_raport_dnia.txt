@@ -1,17 +1,27 @@
---- AUDYT PLK LIVE (2026-10-06 23:24 CET) ---
-Analiza meczu PLK (2026-10-05):
+--- AUDYT PLK LIVE (2026-10-07 12:45 CET) ---
+Analiza meczu PLK: Górnik Zamek Książ Wałbrzych @ Anwil Włocławek
+
+Data meczu audytowanego: 2026-10-05
+Dzisiejsza data: 2026-10-07
 
 ---
 
-### **Górnik Zamek Książ Wałbrzych @ Anwil Włocławek**
-Typ PulsBasketu: Anwil Włocławek
+### Górnik Zamek Książ Wałbrzych @ Anwil Włocławek
 
 1.  **Kluczowe braki w składach:**
-    *   Anwil Włocławek: Brak istotnych braków w składzie koszykarskim na dzień 2026-10-06.
-    *   Górnik Zamek Książ Wałbrzych: Brak istotnych braków w składzie koszykarskim na dzień 2026-10-06.
+
+    *   🏀 **Anwil Włocławek:**
+        *   Zgodnie z informacjami z 22 września 2026 roku, Jack Forrest zmagał się z urazem mięśnia, a Josiah Strong zgłosił uraz pleców. Obaj zawodnicy byli wykluczeni z najbliższego meczu ENBL, a ich powrót do treningów miał być stopniowy. Brak jest aktualizacji ich statusu na dzień 5 października 2026 lub 7 października 2026, co sugeruje, że mogli być niedostępni lub w ograniczonej dyspozycji w ostatnim meczu. Zespół Anwilu Włocławek pozyskał Deona Edwina jako wzmocnienie w związku z problemami kadrowymi.
+    *   🏀 **Górnik Zamek Książ Wałbrzych:**
+        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 5 lub 7 października 2026. Wszelkie doniesienia o kontuzjach są z poprzedniego sezonu (kwiecień/maj 2026 lub wcześniej) i nie są aktualne dla dnia meczowego.
 
 2.  **Aktualna forma top scorerów:**
-    *   Anwil Włocławek: Brak danych z API dla tego zespołu.
-    *   Górnik Zamek Książ Wałbrzych: Brak danych z API dla tego zespołu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Zgodnie z ogólnymi statystykami indywidualnymi PLK na sezon 2026/2027:
+        *   Adam Rohosy Jr. z Górnika Zamek Książ Wałbrzych zanotował średnio 20 punktów w jednym meczu.
+    *   Brak danych z API dla tego zespołu w kontekście top scorerów z PulsBasketu dla konkretnego meczu.
+
+3.  **Werdykt:**
+
+    [⚠️ RYZYKOWNY]
+    *   Pomimo niedawnego zwycięstwa Anwilu Włocławek nad Górnikiem Wałbrzych (88-87 w meczu z 05.10.2026), nadal istnieje ryzyko związane z niepewnym statusem kontuzjowanych Jacka Forresta i Josiaha Stronga w składzie Anwilu. Ich absencja lub ograniczona gra może wpływać na głębię składu i rotację. Brak potwierdzonych informacji o ich powrocie do pełnej sprawności przed meczem z 5 października 2026 zwiększa ryzyko dla typu.
