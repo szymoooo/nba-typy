@@ -1,20 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-06 20:59 ET) ---
-Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-10-06):
+--- KRYTYCZNY AUDYT LIVE (2026-10-06 23:41 ET) ---
+Oto analiza Twoich typów na podstawie dostępnych danych z dnia 2026-10-06, z uwzględnieniem składów z sezonu 2025-26 (odpowiadającego Styczniowi 2026):
 
 ---
 
-**Nuggets @ Jazz**
-*   **Kluczowe braki w składach:**
-    *   Denver Nuggets: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Utah Jazz: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Obie drużyny wydają się przystępować do meczu w pełnych składach, co czyni typ na Jazz mniej ryzykownym. Z Jazz, z Lauri Markkanenem i Jarenem Jacksonem Jr. jako gwiazdami, mają potencjał, aby rywalizować z mocnymi Nuggets.
+**Nuggets @ Jazz -> Typ: Jazz**
 
----
-
-**Lakers @ Warriors**
-*   **Kluczowe braki w składach:**
-    *   Los Angeles Lakers: Austin Reaves (Questionable) ❓, Walker Kessler (Questionable) ❓, Collin Sexton (Questionable) ❓, Arthur Kaluma (Questionable) ❓. Luka Dončić jest wymieniony w składzie i grał w meczu przedsezonowym 6 października.
-    *   Golden State Warriors: Klay Thompson (Out - operacja ACL) 🩹, James Wiseman (Out - operacja kolana) 🩹, Jonathan Kuminga (Out - kontuzja kolana) 🩹, Kristaps Porzingis (Out - nieokreślone problemy zdrowotne) 🩹, Jimmy Butler (Out - operacja ACL) 🩹, Moses Moody (Out - kontuzja z marca) 🩹.
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla meczu w styczniu 2026. Informacje o kontuzjach z 2026-10-06 dotyczą preseasonu 2026-27 i nie są relewantne dla tego hipotetycznego meczu.
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Lakers mają kilku kluczowych graczy (Reaves, Kessler, Sexton) o statusie "Questionable", co wprowadza niepewność. Jednakże, Golden State Warriors są zdziesiątkowani kontuzjami, z wieloma kluczowymi zawodnikami, w tym Thompsonem, Wisemanem, Kumingą, Porzingisem, Butlerem i Moodym, poza grą. Pomimo obecności Luki Dončića w Lakers, liczne braki w składzie Warriors sprawiają, że typ na Lakers jest ryzykowny, ale wynika głównie z osłabienia Warriors.
+    *   W sezonie 2025-26, Denver Nuggets byli dominującą drużyną z bilansem 54-28 (3. miejsce w Konferencji Zachodniej) i najlepszą ofensywą w lidze (1. pod względem punktów na mecz i efektywności ofensywnej).
+    *   Utah Jazz w tym samym sezonie mieli znacznie słabszy bilans 22-60 (15. miejsce w Konferencji Zachodniej) i byli jedną z najgorszych drużyn w obronie (30. pod względem punktów traconych na mecz). Typowanie na Jazz przeciwko tak silnym Nuggets w Styczniu 2026 jest wysoce ryzykowne.
+
+---
+
+**Lakers @ Warriors -> Typ: Lakers**
+
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla meczu w styczniu 2026. Informacje o kontuzjach z 2026-10-06 dotyczą preseasonu 2026-27 i nie są relewantne dla tego hipotetycznego meczu.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   W sezonie 2025-26, Los Angeles Lakers mieli solidny bilans 53-29 (4. miejsce w Konferencji Zachodniej).
+    *   Golden State Warriors zakończyli ten sam sezon z rekordem 37-45 (10. miejsce w Konferencji Zachodniej).
+    *   Biorąc pod uwagę wyraźną różnicę w bilansach obu drużyn w sezonie 2025-26, typ na Lakers wydaje się uzasadniony.
