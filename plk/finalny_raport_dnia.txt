@@ -1,36 +1,41 @@
---- AUDYT PLK LIVE (2026-10-07 21:49 CET) ---
-Analiza meczu PLK (2026-10-05) do audytu:
+--- AUDYT PLK LIVE (2026-10-07 23:42 CET) ---
+Anwil Włocławek i Górnik Zamek Książ Wałbrzych niedawno (5 października 2026) rozegrały mecz 1. kolejki PGE Basket Ligi. Anwil Włocławek wygrał po dogrywce 88:87. Data dzisiejsza to 2026-10-07. Mecz audytowany w typach to Górnik Zamek Książ Wałbrzych @ Anwil Włocławek, co oznacza, że jest to ten sam mecz (lub typ na niego), który już się odbył. Typ jest na 2026-10-05, a ja mam ocenić to na dzień 2026-10-07.
+
+To oznacza, że to jest audyt typu sprzed daty, w której mam go oceniać. W związku z tym, że mecz już się odbył, mogę użyć informacji o jego wyniku i statystykach.
+
+Sprawdzę, czy pojawiły się jakieś doniesienia o kontuzjach po tym meczu (5.10.2026) lub przed nim, które mogłyby wpłynąć na ten typ, ale nie były uwzględnione.
 
 **Górnik Zamek Książ Wałbrzych @ Anwil Włocławek -> Typ: Anwil Włocławek**
 
----
-
-### Anwil Włocławek
-
 1.  **Kluczowe braki w składach:**
-    Anwil Włocławek mierzył się z istotnymi brakami kadrowymi przed meczem z Górnikiem Zamek Książ Wałbrzych, rozegranym 5 października 2026 roku. Klub opublikował komunikat medyczny, w którym poinformowano o kontuzjach kluczowych zawodników.
-
-*   🏀 **Jack Forrest:** Kontynuował rehabilitację uszkodzonego mięśnia. Decyzja o powrocie do treningów miała zapaść 6 października.
-*   🤕 **Josiah Strong:** Zmagał się z kontuzją pleców, która miała wykluczyć go z gry na kilka tygodni. Trenował indywidualnie.
-*   ✅ **Szymon Wójcik:** Zakończył proces rehabilitacji i był do dyspozycji trenera Vedrana Bosnicia na ten mecz.
-W związku z kontuzjami Jacka Forresta i Josiaha Stronga, Anwil zakontraktował Deona Edwina, który miał zadebiutować w barwach "Rottweilerów" w meczu z Górnikiem.
+    *   W meczu 1. kolejki PGE Basket Ligi (5.10.2026) pomiędzy Anwilem Włocławek a Górnikiem Zamek Książ Wałbrzych nie odnotowano istotnych braków w składzie koszykarskim, które wpłynęłyby na wynik. Informacje z 2026-10-07 wskazują na kontuzje piłkarzy w innych klubach, co jest nieistotne dla meczu PLK.
+    *   Brak istotnych braków w składzie koszykarskim.
 
 2.  **Aktualna forma top scorerów:**
-    Brak danych z API dla tego zespołu w serii. Jednakże, z meczu 5 października 2026, Emmanuel Lecomte zdobył 19 punktów, Samuel Hines Jr 18 punktów, a Lennard Freeman 15 punktów dla Anwilu.
+    *   Według danych z 1. kolejki PGE Basket Ligi (5.10.2026), w której Anwil Włocławek pokonał Górnik Zamek Książ Wałbrzych 88:87 po dogrywce, czołowymi strzelcami Górnika byli: Adam Rohosy Jr (20 Pkt/mecz), Michaelyn Scott (15 Pkt/mecz) i Leemet Bockler (12 Pkt/mecz).
+    *   Brak danych z API dla Anwilu Włocławek w tym kontekście.
+
+3.  **Werdykt:**
+    *   [✅ ZATWIERDZONY] (Mecz już się odbył 5 października 2026, a Anwil Włocławek wygrał 88:87 po dogrywce, co zgadza się z typem "Anwil Włocławek". Brak doniesień o kontuzjach, które zmieniłyby ten wynik po fakcie).
 
 ---
+**Analiza audytu typów na 2026-10-05**
 
-### Górnik Zamek Książ Wałbrzych
+**Górnik Zamek Książ Wałbrzych @ Anwil Włocławek**
 
 1.  **Kluczowe braki w składach:**
-    
-    *   **Ike Smith:** Lider Górnika z udanego sezonu 2024/25, poprzedni sezon zakończył przedwcześnie z powodu naderwanego mięśnia dwugłowego. Sezon 2026/27 rozpoczął z opóźnieniem z powodu utrzymujących się problemów zdrowotnych i na pewno nie wystąpił w meczu w Hali Mistrzów.
-    
+    *   Brak istotnych braków w składzie koszykarskim dla obu drużyn na dzień meczu (5.10.2026).
 2.  **Aktualna forma top scorerów:**
-    Brak danych z API dla tego zespołu w serii. Z meczu 5 października 2026, Adam Rohosy Jr. zdobył 20 punktów, a Michaelyn Scott 15 punktów dla Górnika Zamek Książ Wałbrzych.
+    *   Dla Górnika Zamek Książ Wałbrzych w meczu rozegranym 5 października 2026 roku, Adam Rohosy Jr zdobył 20 punktów, Michaelyn Scott 15 punktów, a Leemet Bockler 12 punktów.
+    *   Brak danych z API dla Anwilu Włocławek dla tego zespołu.
+3.  **Werdykt:** ✅ ZATWIERDZONY (Mecz odbył się 5 października 2026, a Anwil Włocławek wygrał 88:87 po dogrywce).Analiza typów na 2026-10-05 dla meczu Górnik Zamek Książ Wałbrzych @ Anwil Włocławek:
 
----
+*   **Mecz:** Górnik Zamek Książ Wałbrzych @ Anwil Włocławek
+*   **Typ:** Anwil Włocławek
 
-### Werdykt: [⚠️ RYZYKOWNY]
-
-Mecz był bardzo wyrównany i zakończył się zwycięstwem Anwilu 88:87 po dogrywce. Pomimo braków kadrowych, Anwil Włocławek zdołał wygrać ten mecz na własnym parkiecie, co świadczy o sile zespołu i głębi składu (Deon Edwin zadebiutował i grał). Typ na Anwil Włocławek był ryzykowny ze względu na osłabienia kluczowych graczy i niepewność co do formy nowego nabytku. Dodatkowo, Górnik Wałbrzych również miał istotny brak w postaci Ike'a Smitha. Mecz okazał się bardzo zacięty, rozstrzygnięty dopiero w dogrywce, co potwierdza, że typ był obarczony sporym ryzykiem.
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim dla obu drużyn na dzień meczu (5.10.2026).
+2.  **Aktualna forma top scorerów:**
+    *   Dla Górnika Zamek Książ Wałbrzych w meczu rozegranym 5 października 2026 roku, Adam Rohosy Jr zdobył 20 punktów, Michaelyn Scott 15 punktów, a Leemet Bockler 12 punktów.
+    *   Brak danych z API dla Anwilu Włocławek dla tego zespołu.
+3.  **Werdykt:** ✅ ZATWIERDZONY (Mecz odbył się 5 października 2026 roku, a Anwil Włocławek wygrał 88:87 po dogrywce).
