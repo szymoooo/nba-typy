@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-10-06T23:13:34.741365",
+  "generated_at": "2026-10-07T15:04:03.630093",
   "date": "2026-10-07",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Fitness First Würzburg Baskets @ Basketball Löwen Braunschweig",
-      "ai_pick": null,
-      "formula_pick": "Basketball Löwen Braunschweig",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "EWE Baskets @ Ratiopharm Ulm",
-      "ai_pick": null,
-      "formula_pick": "Ratiopharm Ulm",
-      "note": "AI fallback"
+      "matchup": "No games scheduled. @ No games scheduled.",
+      "phase": "No games scheduled.",
+      "ai_pick": "No games scheduled.",
+      "formula_pick": "No games scheduled.",
+      "agreement": true,
+      "confidence": 1,
+      "reasoning": "Brak zaplanowanych meczów w dniu 2026-10-07 w lidze BBL easyCredit Bundesliga. Nie ma drużyn gospodarzy ani gości do analizy.",
+      "key_factors": [],
+      "injury_notes": "brak istotnych brakow (brak zaplanowanego meczu)"
     }
   ]
 }
