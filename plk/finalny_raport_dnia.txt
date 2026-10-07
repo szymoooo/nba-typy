@@ -1,36 +1,36 @@
---- AUDYT PLK LIVE (2026-10-07 17:03 CET) ---
-# Audyt Typów PLK - 2026-10-07
+--- AUDYT PLK LIVE (2026-10-07 21:49 CET) ---
+Analiza meczu PLK (2026-10-05) do audytu:
 
-Analiza meczu Górnik Zamek Książ Wałbrzych @ Anwil Włocławek, który odbył się 05.10.2026.
+**Górnik Zamek Książ Wałbrzych @ Anwil Włocławek -> Typ: Anwil Włocławek**
 
 ---
 
-## Górnik Zamek Książ Wałbrzych @ Anwil Włocławek
-*   **Data meczu:** 05.10.2026 (Mecz został rozegrany).
-*   **Wynik:** Anwil Włocławek 88:87 Górnik Zamek Książ Wałbrzych (po dogrywce).
-*   **Typ do audytu:** Anwil Włocławek
+### Anwil Włocławek
 
-### 1. Kluczowe braki w składach (stan na 05.10.2026):
+1.  **Kluczowe braki w składach:**
+    Anwil Włocławek mierzył się z istotnymi brakami kadrowymi przed meczem z Górnikiem Zamek Książ Wałbrzych, rozegranym 5 października 2026 roku. Klub opublikował komunikat medyczny, w którym poinformowano o kontuzjach kluczowych zawodników.
 
-*   **Anwil Włocławek:**
-    *   ⚠️ **Jack Forrest:** Zmagał się z urazem mięśnia, proces rehabilitacji został wydłużony. Był niedostępny na mecze przedsezonowe i prawdopodobnie na start ligi.
-    *   ⚠️ **Josiah Strong:** Zgłosił uraz pleców w tygodniu poprzedzającym start sezonu; był poza składem na mecze przedsezonowe.
-    *   ✅ **Deon Edwin:** Został sprowadzony do drużyny 22.09.2026 w związku z problemami kadrowymi Anwilu i zagrał w tym meczu, doprowadzając do dogrywki rzutem za trzy punkty.
-*   **Górnik Zamek Książ Wałbrzych:**
-    *   ⚠️ **Ike Smith:** Powracał do zdrowia po kontuzji, opuścił większość sparingów przed sezonem z powodu urazu. W meczu ligowym 05.10.2026 nie wystąpił.
-    *   ⚠️ **Maciej Żmudzki:** Jego występy stały pod znakiem zapytania z powodów zdrowotnych (stan na 27.08.2026) i nie znalazł się w oficjalnym składzie na sezon PLK 2026/2027.
+*   🏀 **Jack Forrest:** Kontynuował rehabilitację uszkodzonego mięśnia. Decyzja o powrocie do treningów miała zapaść 6 października.
+*   🤕 **Josiah Strong:** Zmagał się z kontuzją pleców, która miała wykluczyć go z gry na kilka tygodni. Trenował indywidualnie.
+*   ✅ **Szymon Wójcik:** Zakończył proces rehabilitacji i był do dyspozycji trenera Vedrana Bosnicia na ten mecz.
+W związku z kontuzjami Jacka Forresta i Josiaha Stronga, Anwil zakontraktował Deona Edwina, który miał zadebiutować w barwach "Rottweilerów" w meczu z Górnikiem.
 
-### 2. Aktualna forma top scorerów (z meczu 05.10.2026):
+2.  **Aktualna forma top scorerów:**
+    Brak danych z API dla tego zespołu w serii. Jednakże, z meczu 5 października 2026, Emmanuel Lecomte zdobył 19 punktów, Samuel Hines Jr 18 punktów, a Lennard Freeman 15 punktów dla Anwilu.
 
-*   **Anwil Włocławek:**
-    *   **Manu Lecomte:** 19 punktów i 8 asyst. Był najskuteczniejszym zawodnikiem gospodarzy.
-    *   **Samuel Hines Jr:** 18 punktów.
-    *   **Lennard Freeman:** 15 punktów.
-*   **Górnik Zamek Książ Wałbrzych:**
-    *   **AJ Rohosy:** 20 punktów i 8 zbiórek. Najlepiej zaprezentował się po stronie gości.
-    *   **Mike Scott:** 15 punktów, z czego "obudził się" w czwartej kwarcie.
+---
 
-### 3. Werdykt:
+### Górnik Zamek Książ Wałbrzych
 
-⚠️ **RYZYKOWNY**
-Chociaż Anwil Włocławek wygrał mecz 88:87 po dogrywce, co zgodne jest z typem, to liczne braki kadrowe po obu stronach (Anwil bez Forresta i Stronga, Górnik bez Smitha i Żmudzkiego) oraz bardzo zacięty przebieg spotkania (zwycięstwo po dogrywce) sprawiają, że typ na Anwil był ryzykowny. Minimalne zwycięstwo odniesione w dogrywce świadczy o dużej niepewności wyniku.
+1.  **Kluczowe braki w składach:**
+    
+    *   **Ike Smith:** Lider Górnika z udanego sezonu 2024/25, poprzedni sezon zakończył przedwcześnie z powodu naderwanego mięśnia dwugłowego. Sezon 2026/27 rozpoczął z opóźnieniem z powodu utrzymujących się problemów zdrowotnych i na pewno nie wystąpił w meczu w Hali Mistrzów.
+    
+2.  **Aktualna forma top scorerów:**
+    Brak danych z API dla tego zespołu w serii. Z meczu 5 października 2026, Adam Rohosy Jr. zdobył 20 punktów, a Michaelyn Scott 15 punktów dla Górnika Zamek Książ Wałbrzych.
+
+---
+
+### Werdykt: [⚠️ RYZYKOWNY]
+
+Mecz był bardzo wyrównany i zakończył się zwycięstwem Anwilu 88:87 po dogrywce. Pomimo braków kadrowych, Anwil Włocławek zdołał wygrać ten mecz na własnym parkiecie, co świadczy o sile zespołu i głębi składu (Deon Edwin zadebiutował i grał). Typ na Anwil Włocławek był ryzykowny ze względu na osłabienia kluczowych graczy i niepewność co do formy nowego nabytku. Dodatkowo, Górnik Wałbrzych również miał istotny brak w postaci Ike'a Smitha. Mecz okazał się bardzo zacięty, rozstrzygnięty dopiero w dogrywce, co potwierdza, że typ był obarczony sporym ryzykiem.

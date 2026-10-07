@@ -1,28 +1,75 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-07 11:02 ET) ---
-Analizując Twoje typy na podstawie danych z dnia 2026-10-07:
+--- KRYTYCZNY AUDYT LIVE (2026-10-07 15:49 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z 2026-10-07:
 
 ---
+### Timberwolves @ Pacers -> Typ: Timberwolves
 
-### Mecz: Nuggets @ Jazz
-*   **Typ użytkownika:** Jazz
-
-*   **Kluczowe braki w składach (stan na 2026-10-07):**
-    *   **Denver Nuggets:** Trevon Brazile (Day-To-Day) 🤕.
-    *   **Utah Jazz:** Lauri Markkanen (OUT - ból szyi) 🤕, Kyle Filipowski (OUT - plecy) 🤕, Jusuf Nurkic (OUT - stopa) 🤕, Brice Sensabaugh (OUT - biodro) 🤕.
-    *   *Uwaga:* Są to raporty z okresu przedsezonowego, część graczy może być wykluczona prewencyjnie.
-
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typowanie na Jazz jest ryzykowne, biorąc pod uwagę znaczące braki kluczowych graczy, w tym ich najlepszego strzelca, Lauri Markkanena, oraz ważnych zawodników podkoszowych (Nurkic, Filipowski). Nuggets wydają się być w znacznie mocniejszym składzie na ten moment przedsezonowy.
+*   **Kluczowe braki w składach (2026-10-07):**
+    *   **Timberwolves:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   **Pacers:**
+        *   Donte DiVincenzo (Noga/Achilles - Out, poza sezonem) 🩹
+        *   Tyrese Haliburton (powrót po Achillesie, pierwszy mecz po kontuzji) ⚠️
+        *   Larry Nance (ścięgno podkolanowe - Questionable) ❓
+        *   Quenton Jackson (nieujawniona - Questionable) ❓
+        *   T.J. McConnell (nieujawniona - Questionable) ❓
+        *   Johnny Furphy (kolano - Questionable) ❓
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Pacers mają kilku kluczowych graczy niepewnych lub wracających po poważnych kontuzjach.
 
 ---
+### Magic @ Grizzlies -> Typ: Grizzlies
 
-### Mecz: Lakers @ Warriors
-*   **Typ użytkownika:** Lakers
+*   **Kluczowe braki w składach (2026-10-07):**
+    *   **Magic:**
+        *   Jalen Suggs (Choroba - Questionable) ❓
+        *   Anthony Black (Kostka - Questionable) ❓
+        *   Noah Penda (Łydka/ścięgno podkolanowe - Questionable) ❓
+        *   Jonathan Isaac (Powody osobiste - Out / Prawdopodobny) 🚫
+        *   Izaiyah Nelson (Operacja kostki - Out) 🩹
+    *   **Grizzlies:**
+        *   Zach Edey (Kostka - Out) 🩹
+        *   Isaiah Stewart (Lewa kostka - Out) 🩹
+        *   Micah Peavy (Kostka - Questionable) ❓
+        *   Derrick Rose (Naciągnięcie lewego ścięgna podkolanowego - Mało prawdopodobny) 🚫
+        *   Eric Gordon (Oczekuje na wymianę - Out) 🔄
+        *   Richie Saunders (Zerwane ACL - Out na początek sezonu) 🩹
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Obie drużyny zmagają się z licznymi kontuzjami, w tym kluczowych graczy.
 
-*   **Kluczowe braki w składach (stan na 2026-10-07):**
-    *   **Los Angeles Lakers:** Luka Dončić (OUT - zwichnięcie palca lewej ręki i stłuczenie podudzia) 🤕, LeBron James (OUT - rwa kulszowa/nerw) 🤕, Maxi Kleber (OUT - skośny) 🤕, Adou Thiero (OUT - rekonwalescencja kolana) 🤕, Gabe Vincent (OUT - kostka) 🤕. Anthony Davis (Questionable - skręcona lewa kostka) ❓, Marcus Smart (Questionable - mięsień czworogłowy) ❓, Jaxson Hayes (Questionable - kolano) ❓.
-    *   **Golden State Warriors:** Moses Moody (OUT - kolano) 🤕, Jimmy Butler III (OUT - kolano) 🤕. Kristaps Porzingis (poza drużyną - "problem zdrowotny") 🤒.
-    *   *Uwaga:* Istnieją sprzeczne raporty dotyczące statusu LeBrona Jamesa i Anthony'ego Davisa w tym samym źródle z 7 października 2026 r., wskazujące zarówno na status "Out", jak i "Questionable/Probable" dla różnych hipotetycznych gier lub z ostrożności przedsezonowej. Wyżej wymieniono najbardziej rozległe braki z raportów z dnia dzisiejszego.
+---
+### Bucks @ Thunder -> Typ: Thunder
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typowanie na Lakers jest bardzo ryzykowne ze względu na dużą liczbę absencji kluczowych graczy, w tym LeBrona Jamesa i Luki Dončicia. Chociaż Warriors również mają kontuzje, braki Lakers wydają się być bardziej dotkliwe, wpływając na ich podstawowy skład i głębię.
+*   **Kluczowe braki w składach (2026-10-07):**
+    *   **Bucks:** Brak kontuzji zgłoszonych na tę chwilę. ✅
+    *   **Thunder:**
+        *   Shai Gilgeous-Alexander (Questionable - odpoczynek) 😴
+        *   Chet Holmgren (Questionable - odpoczynek) 😴
+        *   Alex Caruso (Questionable - odpoczynek) 😴
+        *   Cason Wallace (Questionable - odpoczynek) 😴
+        *   Nikola Topic (Questionable - ograniczony obóz treningowy, problemy z plecami po operacji) ❓
+        *   Isaiah Hartenstein (Questionable - odpoczynek) 😴
+        *   Thomas Sorber (Kolano - Out) 🩹
+        *   Otega Oweh (Lewa dolna część nogi - Day-To-Day) ⏳
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Thunder mają wielu kluczowych graczy odpoczywających w meczu przedsezonowym, co osłabia ich skład.
+
+---
+### Suns @ Bulls -> Typ: Bulls
+
+*   **Kluczowe braki w składach (2026-10-07):**
+    *   **Suns:**
+        *   Mark Williams (Barki - Out, operacja zerwanego obrąbka) 🩹
+    *   **Bulls:**
+        *   Nic Claxton (Ścięgno podkolanowe - Out, ponowna ocena za dwa tygodnie) 🩹
+        *   AJ Dancler (Kolano - Out, poza sezonem po operacji) 🩹
+        *   Zach Collins (nieujawniona kontuzja tkanek miękkich) ❓
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Obie drużyny mają znaczące braki, szczególnie w strefie podkoszowej.
+
+---
+### Warriors @ Trail Blazers -> Typ: Trail Blazers
+
+*   **Kluczowe braki w składach (2026-10-07):**
+    *   **Warriors:**
+        *   Moses Moody (Kolano - Out, zerwane ścięgno rzepki) 🩹
+        *   Jimmy Butler III (Kolano - Out, oczyszczony do lekkiej aktywności na boisku) 🩹
+        *   Kristaps Porzingis (Nieujawniony problem zdrowotny - Sidelined na czas nieokreślony, niepokojące) 🚫
+    *   **Trail Blazers:**
+        *   Shaedon Sharpe (Łąkotka - Out, zerwana łąkotka, spodziewany powrót za 6 miesięcy) 🩹
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Warriors mają kilku istotnych graczy poza składem, w tym kluczowego Porzingisa na czas nieokreślony.

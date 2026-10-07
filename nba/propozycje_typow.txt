@@ -1,2 +1,5 @@
-Nuggets @ Jazz -> Typ: Jazz
-Lakers @ Warriors -> Typ: Lakers
+Timberwolves @ Pacers -> Typ: Timberwolves
+Magic @ Grizzlies -> Typ: Grizzlies
+Bucks @ Thunder -> Typ: Thunder
+Suns @ Bulls -> Typ: Bulls
+Warriors @ Trail Blazers -> Typ: Trail Blazers
