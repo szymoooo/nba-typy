@@ -1,15 +1,17 @@
---- AUDYT PLK LIVE (2026-10-08 05:55 CET) ---
-Analiza meczu PLK: Górnik Zamek Książ Wałbrzych @ Anwil Włocławek (2026-10-05)
-
-### Górnik Zamek Książ Wałbrzych @ Anwil Włocławek
+--- AUDYT PLK LIVE (2026-10-08 17:12 CET) ---
+**Górnik Zamek Książ Wałbrzych @ Anwil Włocławek (2026-10-05)**
 
 1.  **Kluczowe braki w składach:**
-    *   **Anwil Włocławek:** 🤕 Jack Forrest kontynuował rehabilitację urazu mięśnia, a Josiah Strong zmagał się z kilkutygodniową kontuzją pleców. W związku z ich urazami Anwil zakontraktował Deona Edwina, który zadebiutował w tym meczu. Szymon Wójcik był do dyspozycji trenera po zakończeniu rehabilitacji.
-    *   **Górnik Zamek Książ Wałbrzych:** 🤕 Ike Smith doznał urazu w meczu sparingowym przed sezonem i drużyna musiała sobie radzić bez niego w większości spotkań przygotowawczych. Nie pojawił się w protokole meczowym z 5 października 2026, co sugeruje jego niedostępność.
+    *   **Anwil Włocławek:**
+        *   Jack Forrest 🤕: Kontynuował rehabilitację urazu mięśnia, niedostępny na mecz 2026-10-05.
+        *   Josiah Strong 🤕: Kontuzja pleców, przerwa nawet kilkutygodniowa, niedostępny na mecz 2026-10-05.
+        *   Deon Edwin ✅: Zakontraktowany z powodu urazów, zadebiutował w barwach Anwilu w tym meczu.
+        *   Szymon Wójcik ✅: Zakończył rehabilitację, dostępny do gry.
+    *   **Górnik Zamek Książ Wałbrzych:**
+        *   Brak istotnych braków w składzie koszykarskim na dzień 2026-10-05. Oficjalny skład na sezon 2026/2027 został zamknięty w sierpniu.
 
-2.  **Aktualna forma top scorerów (mecz 2026-10-05):**
-    *   **Górnik Zamek Książ Wałbrzych:** Adam Rohosy Jr (20 Pkt), Michaelyn Scott (15 Pkt), Leemet Bockler (12 Pkt).
-    *   **Anwil Włocławek:** Emmanuel Lecomte (19 Pkt), Samuel Hines Jr (18 Pkt), Lennard Freeman (15 Pkt).
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Anwil Włocławek zmagał się z dwoma istotnymi kontuzjami (Forrest, Strong), które wymusiły awaryjne zakontraktowanie Deona Edwina. Górnik Wałbrzych prawdopodobnie był osłabiony brakiem Ike'a Smitha. Mimo wygranej Anwilu (88:87 po dogrywce), gra była niezwykle wyrównana i zakończyła się dopiero po dodatkowych 5 minutach, co świadczy o wysokim ryzyku tego typu.
+    *   Mimo zwycięstwa Anwilu 88:87 po dogrywce, ich typ był ryzykowny z uwagi na potwierdzone osłabienia kadrowe w postaci kontuzji kluczowych zawodników Jacka Forresta i Josiaha Stronga na początku sezonu.
