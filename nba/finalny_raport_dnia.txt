@@ -1,56 +1,54 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-08 15:44 ET) ---
-Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-10-08):
+--- KRYTYCZNY AUDYT LIVE (2026-10-08 17:39 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych raportów z 2026-10-08:
 
 ---
 
-**Celtics @ Cavaliers**
-*   **Typ:** Cavaliers
-*   **Kluczowe braki w składach:**
-    *   Celtics: Jayson Tatum (Out - kolano)
-    *   Cavaliers: Peyton Watson (Out - ścięgno podkolanowe)
-*   **Werdykt:** [✅ ZATWIERDZONY] – Brak Jayson'a Tatum'a to znaczące osłabienie dla Celtics, co zwiększa szanse Cavaliers.
+**Celtics @ Cavaliers -> Typ: Cavaliers**
+
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach uniemożliwia rzetelną ocenę).
 
 ---
 
-**Pelicans @ Heat**
-*   **Typ:** Heat
+**Pelicans @ Heat -> Typ: Heat**
+
 *   **Kluczowe braki w składach:**
-    *   Pelicans: Saddiq Bey (Out), Herbert Jones (Out), Dejounte Murray (Out); Trey Murphy III (Questionable), Dereck Queen (Questionable)
-    *   Heat: Dru Smith (Out - łydka), Keshad Johnson (Out - ścięgno podkolanowe), Terry Rozier (Out); Andrew Wiggins (GTD - choroba), Pelle Larsson (GTD - choroba), Jaime Jaquez Jr. (Questionable), Tyler Herro (Doubtful)
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Oba zespoły mają liczne, kluczowe braki i wielu graczy z niepewnym statusem, co sprawia, że wynik jest trudny do przewidzenia.
+    *   **Pelicans:** Dejounte Murray (Achilles, Out) 🩹, Zion Williamson (Hamstring, Out) 🤕, Jose Alvarado (Hamstring, Out) 🩹, Jordan Hawkins (Back, Out) 🩹, Daniel Theis (Neck, Out) 🩹, Kevon Looney (Knee, Out) 🩹.
+    *   **Heat:** Jimmy Butler (Suspension) 🚫, Terry Rozier (Out) 🤕, Dru Smith (Calf, Out - min. 2 tygodnie) 🩹. Giannis Antetokounmpo (Questionable) ❓, Andrew Wiggins (Questionable) ❓.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Pelicans mają bardzo poważne braki w składzie, w tym kluczowych graczy. Mimo kontuzji w Heat, osłabienie Pelicans jest znaczące).
 
 ---
 
-**76ers @ Nets**
-*   **Typ:** Nets
+**76ers @ Nets -> Typ: Nets**
+
 *   **Kluczowe braki w składach:**
-    *   76ers: Ariel Hukporti (Out For Season - Achilles), Tacko Fall (Out - biodro), Adem Bona (Out - stopa)
-    *   Nets: Mikel Brown Jr. (Out - kostka), Joshua Jefferson (Out - plecy)
-*   **Werdykt:** [✅ ZATWIERDZONY] – 76ers mają poważne problemy z głębią na pozycji centra, co może być korzystne dla Nets.
+    *   **76ers:** Ariel Hukporti (Achilles, Out For Season) 🚨, Tacko Fall (Hip, Out - min. 2 tygodnie) 🩹, Adem Bona (Foot, Out) 🤕.
+    *   **Nets:** Mikel Brown Jr. (Ankle, Out - bez podanego terminu powrotu) 🤕, Michael Porter Jr. (Left Wrist Soreness, Out na dzisiejszy mecz preseason) 🩹.
+*   **Werdykt:** [✅ ZATWIERDZONY] (76ers mają poważne problemy z głębią na pozycji centra. Mimo kontuzji Portera Jr. u Nets, długoterminowe braki 76ers są kluczowe. Należy również pamiętać, że LeBron James jest graczem 76ers, co jednak nie wpływa na dzisiejsze braki).
 
 ---
 
-**Wizards @ Knicks**
-*   **Typ:** Wizards
+**Wizards @ Knicks -> Typ: Wizards**
+
 *   **Kluczowe braki w składach:**
-    *   Wizards: Tristan Vukcevic (Out - biodro), Jamir Watkins (Out For Season - ACL); Alex Sarr (GTD - stopa)
-    *   Knicks: Jose Alvarado (Questionable - kolano). Jeden raport wskazuje, że Knicks nie mają żadnych kontuzjowanych graczy.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Wizards mają bardziej znaczące potwierdzone braki, co czyni ich typ ryzykownym, zwłaszcza że status Knicks jest stosunkowo dobry.
+    *   **Wizards:** Jamir Watkins (ACL, Out For Season) 🚨, Tristan Vukcevic (Hip, Out - min. 4 tygodnie) 🤕. Alex Sarr (Foot, GTD) ❓.
+    *   **Knicks:** Jose Alvarado (Knee, GTD) ❓. Brak innych potwierdzonych kontuzji na 2026-10-08.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Wizards mają poważne braki, w tym sezonową kontuzję i kilkutygodniową absencję kluczowych graczy. Typ na Wizards jest bardzo ryzykowny wobec stosunkowo zdrowego składu Knicks).
 
 ---
 
-**Hawks @ Spurs**
-*   **Typ:** Spurs
+**Hawks @ Spurs -> Typ: Spurs**
+
 *   **Kluczowe braki w składach:**
-    *   Hawks: Henri Veesaar (Out For Season - ACL), Mouhamed Gueye (Out - stopa)
-    *   Spurs: Tobias Harris (Out - naciągnięcie łydki, na cały preseason), Maliq Brown (Out - plecy), Jayden Quaintance (Out indefinitely - kolano)
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny mają ważne kontuzje, w tym kilku kluczowych graczy i weteranów, co zwiększa nieprzewidywalność meczu.
+    *   **Hawks:** Henri Veesaar (ACL, Out - powrót kwiecień) 🚨, Mouhamed Gueye (Fractured left foot surgery, Out - powrót listopad) 🤕.
+    *   **Spurs:** Victor Wembanyama (Back, Out) 🚨, Tre Jones (Shoulder, Out) 🤕, Tobias Harris (Left Calf Strain, Out - powrót 20 października) 🩹.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Spurs są osłabieni brakiem swojego najlepszego gracza, Victora Wembanyamy. Mimo kontuzji w Hawks, absencja takiej gwiazdy jest zbyt duża, aby zatwierdzić typ).
 
 ---
 
-**Kings @ Lakers**
-*   **Typ:** Lakers
+**Kings @ Lakers -> Typ: Lakers**
+
 *   **Kluczowe braki w składach:**
-    *   Kings: Zach LaVine (Out - palec), Domantas Sabonis (Out - plecy), De'Andre Hunter (Out - oko), Keegan Murray (Out - kostka)
-    *   Lakers: Luka Dončić (Out - ścięgno podkolanowe), Walker Kessler (Out - bark), Ziaire Williams (Out - stopa); Collin Sexton (Probable - palec/dolna część ciała), Jaden Hardy (Questionable - plecy)
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny są bardzo osłabione przez liczne kontuzje kluczowych graczy, w tym gwiazd, co czyni ten typ niezwykle ryzykownym.
+    *   **Kings:** Keegan Murray (Ankle, GTD) ❓. Ben Simmons (może zadebiutować w preseason) 🔄, Malik Monk (dzień odpoczynku) 💤.
+    *   **Lakers:** Walker Kessler (Finger, Out - day-to-day) 🤕, Collin Sexton (Lower-body, Out) 🩹, Luka Dončić (Undisclosed issue, Out) 🤕, Ziaire Williams (Rest, Out) 💤, Austin Reaves (Ankle, Out - day-to-day) 🩹, Arthur Kaluma (Lower-body, Out) 🩹. **Ważna informacja:** LeBron James nie jest już zawodnikiem Lakers; obecnie jest w Philadelphia 76ers.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Lakers mają bardzo dużą liczbę kluczowych graczy wykluczonych lub zmagających się z urazami. Dodatkowo, brak LeBrona Jamesa w składzie Lakers znacznie osłabia drużynę. Typ na Lakers jest niezwykle ryzykowny).
