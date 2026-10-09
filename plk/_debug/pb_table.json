@@ -7,48 +7,34 @@
       "games": 2,
       "wins": 1,
       "losses": 1,
-      "small_points_scored": 140,
-      "small_points_lost": 141,
+      "small_points_scored": 179,
+      "small_points_lost": 170,
       "wins_home": 1,
       "wins_away": 0,
       "losses_home": 1,
       "losses_away": 0,
       "losses_walkovers": 0,
-      "possessions": 120,
-      "opponents_possessions": 117,
+      "possessions": 161,
+      "opponents_possessions": 158,
       "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
       "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
-      "live_game": {
-        "game_id": 39572,
-        "score": "35-46",
-        "win": false,
-        "opponent_abbr": "GLI",
-        "role": "home",
-        "opponent": "Euvic GTK Gliwice",
-        "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
-        "date": "09.10.2026 20:15",
-        "draw": false,
-        "fiba_game_id": "2934200",
-        "win_prob": 50.0,
-        "info": "Q2 00:00"
-      },
+      "live_game": null,
       "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
       "streak": "LW",
-      "seconds": 18000.0,
-      "pace": 80.0,
+      "seconds": 24000.0,
+      "pace": 80.5,
       "ot_number": 0,
-      "real_position": 7,
+      "real_position": 1,
       "games_list": [
         {
           "game_id": 39572,
-          "score": "35-46",
+          "score": "74-75",
           "win": false,
           "opponent_abbr": "GLI",
           "role": "home",
           "opponent": "Euvic GTK Gliwice",
           "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
-          "date": "09.10.2026 20:15",
-          "draw": false
+          "date": "09.10.2026 20:15"
         },
         {
           "game_id": 39567,
@@ -344,17 +330,17 @@
         }
       ],
       "points": 3,
-      "offensive_rating": 116.7,
-      "defensive_rating": 120.5,
+      "offensive_rating": 111.2,
+      "defensive_rating": 107.6,
       "wins_percent": 50.0,
-      "small_points_per_100_possessions": 116.7,
-      "avg_small_points_scored": 70.0,
-      "avg_small_points_lost": 70.5,
-      "avg_possessions": 60.0,
-      "avg_opponents_possessions": 58.5,
-      "net_rating": -3.8,
-      "small_points_plus_minus": -1,
-      "small_points_ratio": 0.993,
+      "small_points_per_100_possessions": 111.2,
+      "avg_small_points_scored": 89.5,
+      "avg_small_points_lost": 85.0,
+      "avg_possessions": 80.5,
+      "avg_opponents_possessions": 79.0,
+      "net_rating": 3.6,
+      "small_points_plus_minus": 9,
+      "small_points_ratio": 1.053,
       "position": 1
     },
     {
@@ -381,7 +367,7 @@
       "seconds": 24000.0,
       "pace": 78.0,
       "ot_number": 0,
-      "real_position": 1,
+      "real_position": 2,
       "games_list": [
         {
           "game_id": 39573,
@@ -707,48 +693,34 @@
       "games": 2,
       "wins": 1,
       "losses": 1,
-      "small_points_scored": 124,
-      "small_points_lost": 124,
+      "small_points_scored": 153,
+      "small_points_lost": 163,
       "wins_home": 0,
       "wins_away": 1,
       "losses_home": 1,
       "losses_away": 0,
       "losses_walkovers": 0,
-      "possessions": 120,
-      "opponents_possessions": 121,
+      "possessions": 161,
+      "opponents_possessions": 162,
       "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
       "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
-      "live_game": {
-        "game_id": 39572,
-        "score": "46-35",
-        "win": true,
-        "opponent_abbr": "BYD",
-        "role": "away",
-        "opponent": "Enea Łaciate Astoria Bydgoszcz",
-        "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-        "date": "09.10.2026 20:15",
-        "draw": false,
-        "fiba_game_id": "2934200",
-        "win_prob": 50.0,
-        "info": "Q2 00:00"
-      },
+      "live_game": null,
       "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
       "streak": "WL",
-      "seconds": 18000.0,
-      "pace": 80.0,
+      "seconds": 24000.0,
+      "pace": 80.5,
       "ot_number": 0,
-      "real_position": 13,
+      "real_position": 3,
       "games_list": [
         {
           "game_id": 39572,
-          "score": "46-35",
+          "score": "75-74",
           "win": true,
           "opponent_abbr": "BYD",
           "role": "away",
           "opponent": "Enea Łaciate Astoria Bydgoszcz",
           "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "date": "09.10.2026 20:15",
-          "draw": false
+          "date": "09.10.2026 20:15"
         },
         {
           "game_id": 39569,
@@ -1044,17 +1016,17 @@
         }
       ],
       "points": 3,
-      "offensive_rating": 103.3,
-      "defensive_rating": 102.5,
+      "offensive_rating": 95.0,
+      "defensive_rating": 100.6,
       "wins_percent": 50.0,
-      "small_points_per_100_possessions": 103.3,
-      "avg_small_points_scored": 62.0,
-      "avg_small_points_lost": 62.0,
-      "avg_possessions": 60.0,
-      "avg_opponents_possessions": 60.5,
-      "net_rating": 0.8,
-      "small_points_plus_minus": 0,
-      "small_points_ratio": 1.0,
+      "small_points_per_100_possessions": 95.0,
+      "avg_small_points_scored": 76.5,
+      "avg_small_points_lost": 81.5,
+      "avg_possessions": 80.5,
+      "avg_opponents_possessions": 81.0,
+      "net_rating": -5.6,
+      "small_points_plus_minus": -10,
+      "small_points_ratio": 0.939,
       "position": 3
     },
     {
@@ -1081,7 +1053,7 @@
       "seconds": 24000.0,
       "pace": 74.5,
       "ot_number": 0,
-      "real_position": 2,
+      "real_position": 4,
       "games_list": [
         {
           "game_id": 39573,
@@ -1424,7 +1396,7 @@
       "seconds": 12000.0,
       "pace": 81.0,
       "ot_number": 0,
-      "real_position": 3,
+      "real_position": 5,
       "games_list": [
         {
           "game_id": 39565,
@@ -1767,7 +1739,7 @@
       "seconds": 12000.0,
       "pace": 72.0,
       "ot_number": 0,
-      "real_position": 4,
+      "real_position": 6,
       "games_list": [
         {
           "game_id": 39570,
@@ -2110,7 +2082,7 @@
       "seconds": 12000.0,
       "pace": 78.0,
       "ot_number": 0,
-      "real_position": 5,
+      "real_position": 7,
       "games_list": [
         {
           "game_id": 39566,
@@ -2453,7 +2425,7 @@
       "seconds": 12000.0,
       "pace": 83.0,
       "ot_number": 0,
-      "real_position": 6,
+      "real_position": 8,
       "games_list": [
         {
           "game_id": 39569,
@@ -2796,7 +2768,7 @@
       "seconds": 13500.0,
       "pace": 68.4,
       "ot_number": 1,
-      "real_position": 8,
+      "real_position": 9,
       "games_list": [
         {
           "game_id": 39568,
@@ -3139,7 +3111,7 @@
       "seconds": 13500.0,
       "pace": 69.3,
       "ot_number": 1,
-      "real_position": 9,
+      "real_position": 10,
       "games_list": [
         {
           "game_id": 39571,
@@ -3482,7 +3454,7 @@
       "seconds": 13500.0,
       "pace": 69.3,
       "ot_number": 1,
-      "real_position": 10,
+      "real_position": 11,
       "games_list": [
         {
           "game_id": 39571,
@@ -3825,7 +3797,7 @@
       "seconds": 12000.0,
       "pace": 74.0,
       "ot_number": 0,
-      "real_position": 11,
+      "real_position": 12,
       "games_list": [
         {
           "game_id": 39564,
@@ -4168,7 +4140,7 @@
       "seconds": 13500.0,
       "pace": 70.2,
       "ot_number": 1,
-      "real_position": 12,
+      "real_position": 13,
       "games_list": [
         {
           "game_id": 39568,
@@ -5530,11 +5502,11 @@
             "games": 2,
             "wins": 1,
             "losses": 1,
-            "small_points_scored": 140,
-            "small_points_lost": 141,
-            "small_points_plus_minus": -1,
-            "total_small_points_scored": 140,
-            "total_small_points_plus_minus": -1,
+            "small_points_scored": 179,
+            "small_points_lost": 170,
+            "small_points_plus_minus": 9,
+            "total_small_points_scored": 179,
+            "total_small_points_plus_minus": 9,
             "total_wins": 1,
             "total_losses": 1,
             "games_list": [
@@ -5550,14 +5522,13 @@
               },
               {
                 "game_id": 39572,
-                "score": "35-46",
+                "score": "74-75",
                 "win": false,
                 "opponent_abbr": "GLI",
                 "role": "home",
                 "opponent": "Euvic GTK Gliwice",
                 "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
-                "date": "09.10.2026 20:15",
-                "draw": false
+                "date": "09.10.2026 20:15"
               }
             ]
           },
@@ -5607,24 +5578,23 @@
             "games": 1,
             "wins": 1,
             "losses": 0,
-            "small_points_scored": 46,
-            "small_points_lost": 35,
-            "small_points_plus_minus": 11,
-            "total_small_points_scored": 124,
-            "total_small_points_plus_minus": 0,
+            "small_points_scored": 75,
+            "small_points_lost": 74,
+            "small_points_plus_minus": 1,
+            "total_small_points_scored": 153,
+            "total_small_points_plus_minus": -10,
             "total_wins": 1,
             "total_losses": 1,
             "games_list": [
               {
                 "game_id": 39572,
-                "score": "46-35",
+                "score": "75-74",
                 "win": true,
                 "opponent_abbr": "BYD",
                 "role": "away",
                 "opponent": "Enea Łaciate Astoria Bydgoszcz",
                 "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-                "date": "09.10.2026 20:15",
-                "draw": false
+                "date": "09.10.2026 20:15"
               }
             ]
           },
@@ -5673,8 +5643,8 @@
             "small_points_scored": 105,
             "small_points_lost": 95,
             "small_points_plus_minus": 10,
-            "total_small_points_scored": 140,
-            "total_small_points_plus_minus": -1,
+            "total_small_points_scored": 179,
+            "total_small_points_plus_minus": 9,
             "total_wins": 1,
             "total_losses": 1,
             "games_list": [
