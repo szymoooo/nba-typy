@@ -1,28 +1,34 @@
 {
-  "generated_at": "2026-10-04T22:39:56.060759",
-  "date": "2026-10-05",
+  "generated_at": "2026-10-09T00:00:38.328889",
+  "date": "2026-10-09",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Górnik Zamek Książ Wałbrzych @ Anwil Włocławek",
+      "matchup": "Legia Warszawa @ Zastal Zielona Góra",
       "phase": "Runda Zasadnicza",
-      "round": "1 kolejka",
-      "date": "2026-10-05T19:00:00",
-      "ai_pick": "Anwil Włocławek",
-      "formula_pick": "Anwil Włocławek",
+      "round": "2 kolejka",
+      "date": "2026-10-09T18:00:00",
+      "ai_pick": "Legia Warszawa",
+      "formula_pick": "Legia Warszawa",
       "agreement": true,
-      "confidence": 9,
-      "reasoning": "Anwil Włocławek ma zdecydowaną przewagę własnego parkietu i historycznie dominował w meczach przeciwko Górnikowi Zamek Książ Wałbrzych. Dodatkowo, kursy bukmacherskie wyraźnie faworyzują Anwil, co wskazuje na ich większe szanse na zwycięstwo w inaugurującym sezonie meczu. Pomimo pewnych problemów kadrowych w okresie przygotowawczym, Anwil dokonał wzmocnień i udanie rozpoczął sezon w innych rozgrywkach.",
+      "confidence": 7,
+      "reasoning": "Legia Warszawa rozpoczęła sezon ligowy od zwycięstwa na wyjeździe, demonstrując solidną defensywę (76.0 traconych punktów na mecz) i pozytywny wskaźnik NetRtg (+3.0 PLK, +5.5 advanced), podczas gdy Zastal Zielona Góra zanotował wysoką porażkę w pierwszym meczu ligowym, tracąc 105 punktów. Mimo kontuzji środkowego Szymona Tomczaka, Legia wykazała się głębią składu, a ich zwycięski start w PLK oraz ogólna efektywność drużyny wskazują na przewagę w tym spotkaniu. Zastal, choć odnotował zwycięstwo w FIBA Europe Cup, będzie musiał znacząco poprawić swoją grę w obronie.",
       "key_factors": [
-        "Przewaga własnego parkietu Anwilu Włocławek (Hala Mistrzów)",
-        "Zdecydowanie lepszy bilans bezpośrednich spotkań (H2H) dla Anwilu Włocławek",
-        "Kursy bukmacherskie mocno faworyzujące Anwil Włocławek",
-        "Anwil Włocławek jest bardziej doświadczoną i uznaną drużyną w PLK"
+        "Lepsza defensywa Legii (76.0 traconych pkt/mecz)",
+        "Wyższy wskaźnik efektywności Legii (NetRtg +3.0 PLK, +5.5 advanced)",
+        "Zwycięski start Legii w sezonie PLK (1-0)",
+        "Kontuzja Szymona Tomczaka w Legii (minus dla Legii, ale drużyna zareagowała transferem)"
       ],
-      "injury_notes": "Anwil Włocławek zmagał się z problemami zdrowotnymi w okresie przygotowawczym, w tym z urazami Jacka Forresta (mięsień) i Josiaha Stronga (plecy), co doprowadziło do pozyskania Deona Edwina jako wzmocnienia. Brak jest jednoznacznych informacji, czy ci zawodnicy są w pełni zdolni do gry na mecz 5 października 2026. Górnik Zamek Książ Wałbrzych miał w sparingach uraz Ike'a Smitha, ale zespół zadeklarował pełną gotowość przed startem sezonu.",
-      "agreement_with_odds": true
+      "injury_notes": "Szymon Tomczak (środkowy, Legia Warszawa) doznał skręcenia śródstopia z uszkodzeniem więzadeł we wrześniu 2026 i nie zagra przez około 3 miesiące, co oznacza przerwę do końca roku. Legia zareagowała na tę kontuzję, podpisując krótkoterminową umowę z Kubą Piślą. Zastal Zielona Góra przystąpił do rywalizacji o Superpuchar Polski (wrzesień 2026) bez Taya Solomona i Miłosza Majewskiego; brak aktualnych informacji o ich stanie na dzień meczu.",
+      "agreement_with_odds": "no_odds"
+    },
+    {
+      "matchup": "Euvic GTK Gliwice @ Enea Łaciate Astoria Bydgoszcz",
+      "ai_pick": null,
+      "formula_pick": "Enea Łaciate Astoria Bydgoszcz",
+      "note": "AI fallback"
     }
   ]
 }

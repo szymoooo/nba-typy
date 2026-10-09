@@ -2,12 +2,12 @@
   "season_team_id": 4097,
   "name": "Zastal Zielona Góra",
   "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-  "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=5",
+  "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
   "team": {
     "team_id": 26,
     "name": "Zastal Zielona Góra",
     "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-    "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=5",
+    "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
     "pzkosz_id": "769",
     "abbreviation": "ZIE"
   },
@@ -29,217 +29,216 @@
     }
   },
   "avg_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 95.0,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 25.0,
+    "f2a": 37.0,
+    "f2p": 67.6,
+    "f3m": 12.0,
+    "f3a": 30.0,
+    "f3p": 40.0,
+    "ftm": 9.0,
+    "fta": 14.0,
+    "ftp": 64.3,
+    "fgm": 37.0,
+    "fga": 67.0,
+    "fgp": 55.2,
+    "rebounds": 30.0,
+    "off_rebounds": 8.0,
+    "def_rebounds": 22.0,
+    "assists": 21.0,
+    "fouls": 25.0,
+    "fouls_on": 15.0,
+    "turnovers": 14.0,
+    "steals": 9.0,
+    "blocks": 2.0,
+    "blocks_on": 3.0,
+    "eval": 108.0,
+    "plus_minus": -50.0
   },
   "stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 95.0,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 25.0,
+    "f2a": 37.0,
+    "f2p": 67.6,
+    "f3m": 12.0,
+    "f3a": 30.0,
+    "f3p": 40.0,
+    "ftm": 9.0,
+    "fta": 14.0,
+    "ftp": 64.3,
+    "fgm": 37.0,
+    "fga": 67.0,
+    "fgp": 55.2,
+    "rebounds": 30.0,
+    "off_rebounds": 8.0,
+    "def_rebounds": 22.0,
+    "assists": 21.0,
+    "fouls": 25.0,
+    "fouls_on": 15.0,
+    "turnovers": 14.0,
+    "steals": 9.0,
+    "blocks": 2.0,
+    "blocks_on": 3.0,
+    "eval": 108.0,
+    "plus_minus": -50.0
   },
   "stat_line_per_36_min": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 85.5,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 22.5,
+    "f2a": 33.3,
+    "f2p": 67.6,
+    "f3m": 10.8,
+    "f3a": 27.0,
+    "f3p": 40.0,
+    "ftm": 8.1,
+    "fta": 12.6,
+    "ftp": 64.3,
+    "fgm": 33.3,
+    "fga": 60.3,
+    "fgp": 55.2,
+    "rebounds": 27.0,
+    "off_rebounds": 7.2,
+    "def_rebounds": 19.8,
+    "assists": 18.9,
+    "fouls": 22.5,
+    "fouls_on": 13.5,
+    "turnovers": 12.6,
+    "steals": 8.1,
+    "blocks": 1.8,
+    "blocks_on": 2.7,
+    "eval": 97.2,
+    "plus_minus": -45.0
   },
   "stat_line_per_100_possessions": {
-    "points": 0.0,
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0,
-    "f2p": 0.0,
-    "f3p": 0.0,
-    "ftp": 0.0,
-    "fgp": 0.0,
-    "seconds": 0.0,
-    "possessions": 0,
-    "time": "00:00"
+    "points": 120.3,
+    "f2m": 31.6,
+    "f2a": 46.8,
+    "f3m": 15.2,
+    "f3a": 38.0,
+    "ftm": 11.4,
+    "fta": 17.7,
+    "fgm": 46.8,
+    "fga": 84.8,
+    "rebounds": 38.0,
+    "off_rebounds": 10.1,
+    "def_rebounds": 27.8,
+    "assists": 26.6,
+    "fouls": 31.6,
+    "fouls_on": 19.0,
+    "turnovers": 17.7,
+    "steals": 11.4,
+    "blocks": 2.5,
+    "blocks_on": 3.8,
+    "eval": 136.7,
+    "plus_minus": -63.3,
+    "f2p": 67.6,
+    "f3p": 40.0,
+    "ftp": 64.3,
+    "fgp": 55.2,
+    "seconds": 12000.0,
+    "possessions": 79,
+    "time": "200:00"
   },
   "advanced_stat_line": {
-    "pace": 0,
-    "bench_pts_perc": 0,
-    "starters_pts_perc": 0,
-    "lead_perc": 0,
-    "draw_perc": 0,
+    "pace": 80.5,
+    "bench_pts_perc": 43.2,
+    "starters_pts_perc": 56.8,
+    "lead_perc": 7.0,
+    "draw_perc": 4.0,
     "avg_spectators": 0,
-    "polish_pts_perc": 0,
-    "polish_time_perc": 0,
+    "polish_pts_perc": 40.0,
+    "polish_time_perc": 39.5,
     "continuation": 0,
-    "fast_break_perc": 0,
-    "avg_age": "------",
-    "avg_height": 0,
-    "ts": 0.0,
-    "drtg": 0.0,
-    "ortg": 0.0,
-    "net_rtg": 0.0,
-    "ftr": 0.0,
-    "efg": 0.0,
-    "f3r": 0.0,
-    "f2r": 0.0,
-    "tov_perc": 0.0,
-    "reb_perc": 0.0,
-    "oreb_perc": 0.0,
-    "dreb_perc": 0.0,
-    "blk_perc": 0.0,
-    "stl_perc": 0.0,
-    "ast_perc": 0.0,
-    "ast_to_tov": 0.0,
-    "hollinger_tov_perc": 0.0
+    "fast_break_perc": 9.5,
+    "avg_age": "30-268",
+    "avg_height": 193.8,
+    "ts": 64.9,
+    "drtg": 128.0,
+    "ortg": 120.3,
+    "net_rtg": -7.7,
+    "ftr": 20.9,
+    "efg": 64.2,
+    "f3r": 44.8,
+    "f2r": 55.2,
+    "tov_perc": 16.1,
+    "reb_perc": 50.8,
+    "oreb_perc": 25.0,
+    "dreb_perc": 81.5,
+    "blk_perc": 7.1,
+    "stl_perc": 11.0,
+    "ast_perc": 56.8,
+    "ast_to_tov": 1.5,
+    "hollinger_tov_perc": 12.9
   },
   "opponent_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 105.0,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 20.0,
+    "f2a": 28.0,
+    "f2p": 71.4,
+    "f3m": 15.0,
+    "f3a": 33.0,
+    "f3p": 45.5,
+    "ftm": 20.0,
+    "fta": 24.0,
+    "ftp": 83.3,
+    "fgm": 35.0,
+    "fga": 61.0,
+    "fgp": 57.4,
+    "rebounds": 29.0,
+    "off_rebounds": 5.0,
+    "def_rebounds": 24.0,
+    "assists": 22.0,
+    "fouls": 15.0,
+    "fouls_on": 24.0,
+    "turnovers": 15.0,
+    "steals": 5.0,
+    "blocks": 3.0,
+    "blocks_on": 2.0,
+    "eval": 119.0,
+    "plus_minus": 50.0
   },
   "opponent_avg_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 105.0,
+    "seconds": 12000.0,
+    "f2m": 20.0,
+    "f2a": 28.0,
+    "f2p": 71.4,
+    "f3m": 15.0,
+    "f3a": 33.0,
+    "f3p": 45.5,
+    "ftm": 20.0,
+    "fta": 24.0,
+    "ftp": 83.3,
+    "fgm": 35.0,
+    "fga": 61.0,
+    "fgp": 57.4,
+    "rebounds": 29.0,
+    "off_rebounds": 5.0,
+    "def_rebounds": 24.0,
+    "assists": 22.0,
+    "fouls": 15.0,
+    "fouls_on": 24.0,
+    "turnovers": 15.0,
+    "steals": 5.0,
+    "blocks": 3.0,
+    "blocks_on": 2.0,
+    "eval": 119.0,
+    "plus_minus": 50.0
   },
-  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-  "total_games_played": 0,
+  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
+  "total_games_played": 1,
   "games": [
     {
       "role": "AWAY",
-      "won": null,
+      "won": false,
       "legacy_issue": false,
       "game": {
         "league": {
@@ -251,23 +250,23 @@
         "season": "2027",
         "game_id": 39567,
         "home_team": {
-          "score": 0,
+          "score": 105,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
         },
         "away_team": {
-          "score": 0,
+          "score": 95,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
         },
         "date": "2026-10-03T17:30:00",
-        "finished": false,
+        "finished": true,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
@@ -279,9 +278,52 @@
       },
       "opponent": "Enea Łaciate Astoria Bydgoszcz",
       "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
+      "stat_line": {
+        "points": 95.0,
+        "seconds": 12000.0,
+        "time": "200:00",
+        "f2m": 25.0,
+        "f2a": 37.0,
+        "f2p": 67.6,
+        "f3m": 12.0,
+        "f3a": 30.0,
+        "f3p": 40.0,
+        "ftm": 9.0,
+        "fta": 14.0,
+        "ftp": 64.3,
+        "fgm": 37.0,
+        "fga": 67.0,
+        "fgp": 55.2,
+        "rebounds": 30.0,
+        "off_rebounds": 8.0,
+        "def_rebounds": 22.0,
+        "assists": 21.0,
+        "fouls": 25.0,
+        "fouls_on": 15.0,
+        "turnovers": 14.0,
+        "steals": 9.0,
+        "blocks": 2.0,
+        "blocks_on": 3.0,
+        "eval": 108.0,
+        "plus_minus": -50.0
+      },
+      "extra_stat_line": {
+        "pts_from_turnovers": 8,
+        "pts_from_paint": 38,
+        "made_from_paint": 19,
+        "attempts_from_paint": 28,
+        "seconds_chance_pts": 10,
+        "fast_break_pts": 9,
+        "bench_pts": 41,
+        "highest_lead": 4,
+        "highest_lead_score": "3-7",
+        "highest_run": 8,
+        "highest_run_score": "68-57",
+        "changing_lead": 3,
+        "draws": 4,
+        "seconds_on_lead": 169
+      }
     },
     {
       "role": "HOME",
@@ -299,7 +341,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -307,7 +349,7 @@
         "away_team": {
           "score": 0,
           "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
           "abbr": "LEG",
           "team_id": 37
@@ -325,7 +367,7 @@
       },
       "opponent": "Legia Warszawa",
       "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -345,7 +387,7 @@
         "home_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
           "abbr": "GLI",
           "team_id": 36
@@ -353,7 +395,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -371,7 +413,7 @@
       },
       "opponent": "Euvic GTK Gliwice",
       "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -391,7 +433,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -399,7 +441,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -417,7 +459,7 @@
       },
       "opponent": "Anwil Włocławek",
       "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -437,7 +479,7 @@
         "home_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
           "abbr": "TOR",
           "team_id": 34
@@ -445,25 +487,25 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
         },
-        "date": "2026-10-31T19:00:00",
+        "date": "2026-10-31T17:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "5 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": "yt",
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Arriva Lotto Twarde Pierniki Toruń",
       "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -483,7 +525,7 @@
         "home_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
           "abbr": "OST",
           "team_id": 6
@@ -491,25 +533,25 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
         },
-        "date": "2026-11-08T00:00:00",
+        "date": "2026-11-08T17:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "6 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
       "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -529,7 +571,7 @@
         "home_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
           "abbr": "WRO",
           "team_id": 5
@@ -537,25 +579,25 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
         },
-        "date": "2026-11-14T00:00:00",
+        "date": "2026-11-14T19:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "7 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "yt",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "WKS Śląsk Wrocław",
       "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -575,7 +617,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -583,25 +625,25 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
         },
-        "date": "2026-11-22T00:00:00",
+        "date": "2026-11-22T12:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "8 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Dziki Warszawa",
       "opponent_team_id": 40,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -621,7 +663,7 @@
         "home_team": {
           "score": 0,
           "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
           "abbr": "SOP",
           "team_id": 23
@@ -629,7 +671,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -647,7 +689,7 @@
       },
       "opponent": "Energa Trefl Sopot",
       "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -667,7 +709,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -675,7 +717,7 @@
         "away_team": {
           "score": 0,
           "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
           "abbr": "GDY",
           "team_id": 9
@@ -693,7 +735,7 @@
       },
       "opponent": "AMW Arka Gdynia",
       "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -713,7 +755,7 @@
         "home_team": {
           "score": 0,
           "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
           "abbr": "LUB",
           "team_id": 11
@@ -721,7 +763,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -739,7 +781,7 @@
       },
       "opponent": "PGE Start Lublin",
       "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -759,7 +801,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -767,7 +809,7 @@
         "away_team": {
           "score": 0,
           "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "abbr": "SZC",
           "team_id": 31
@@ -785,7 +827,7 @@
       },
       "opponent": "King Szczecin",
       "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -805,7 +847,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -813,7 +855,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -831,7 +873,7 @@
       },
       "opponent": "Górnik Zamek Książ Wałbrzych",
       "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -851,7 +893,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -859,7 +901,7 @@
         "away_team": {
           "score": 0,
           "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
           "abbr": "DAB",
           "team_id": 32
@@ -877,7 +919,7 @@
       },
       "opponent": "MKS Dąbrowa Górnicza",
       "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -897,7 +939,7 @@
         "home_team": {
           "score": 0,
           "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
           "abbr": "ECS",
           "team_id": 38
@@ -905,7 +947,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -923,7 +965,7 @@
       },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -943,7 +985,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -951,7 +993,7 @@
         "away_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
           "abbr": "WRO",
           "team_id": 5
@@ -969,7 +1011,7 @@
       },
       "opponent": "WKS Śląsk Wrocław",
       "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -989,7 +1031,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -997,7 +1039,7 @@
         "away_team": {
           "score": 0,
           "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
           "abbr": "ECS",
           "team_id": 38
@@ -1015,7 +1057,7 @@
       },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1035,7 +1077,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1043,7 +1085,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1061,7 +1103,7 @@
       },
       "opponent": "Anwil Włocławek",
       "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1081,7 +1123,7 @@
         "home_team": {
           "score": 0,
           "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
           "abbr": "GDY",
           "team_id": 9
@@ -1089,7 +1131,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1107,7 +1149,7 @@
       },
       "opponent": "AMW Arka Gdynia",
       "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1127,7 +1169,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1135,7 +1177,7 @@
         "away_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
           "abbr": "GLI",
           "team_id": 36
@@ -1153,7 +1195,7 @@
       },
       "opponent": "Euvic GTK Gliwice",
       "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1173,7 +1215,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1181,7 +1223,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1199,7 +1241,7 @@
       },
       "opponent": "Górnik Zamek Książ Wałbrzych",
       "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1219,7 +1261,7 @@
         "home_team": {
           "score": 0,
           "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
           "abbr": "DAB",
           "team_id": 32
@@ -1227,7 +1269,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1245,7 +1287,7 @@
       },
       "opponent": "MKS Dąbrowa Górnicza",
       "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1265,7 +1307,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1273,7 +1315,7 @@
         "away_team": {
           "score": 0,
           "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
           "abbr": "SOP",
           "team_id": 23
@@ -1291,7 +1333,7 @@
       },
       "opponent": "Energa Trefl Sopot",
       "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1311,7 +1353,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1319,7 +1361,7 @@
         "away_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
           "abbr": "OST",
           "team_id": 6
@@ -1337,7 +1379,7 @@
       },
       "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
       "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1357,7 +1399,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1365,7 +1407,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1383,7 +1425,7 @@
       },
       "opponent": "Enea Łaciate Astoria Bydgoszcz",
       "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1403,7 +1445,7 @@
         "home_team": {
           "score": 0,
           "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
           "abbr": "LEG",
           "team_id": 37
@@ -1411,7 +1453,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1429,7 +1471,7 @@
       },
       "opponent": "Legia Warszawa",
       "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1449,7 +1491,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1457,7 +1499,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1475,7 +1517,7 @@
       },
       "opponent": "Dziki Warszawa",
       "opponent_team_id": 40,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1495,7 +1537,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1503,7 +1545,7 @@
         "away_team": {
           "score": 0,
           "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
           "abbr": "LUB",
           "team_id": 11
@@ -1521,7 +1563,7 @@
       },
       "opponent": "PGE Start Lublin",
       "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1541,7 +1583,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1549,7 +1591,7 @@
         "away_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
           "abbr": "TOR",
           "team_id": 34
@@ -1567,7 +1609,7 @@
       },
       "opponent": "Arriva Lotto Twarde Pierniki Toruń",
       "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1587,7 +1629,7 @@
         "home_team": {
           "score": 0,
           "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "abbr": "SZC",
           "team_id": 31
@@ -1595,7 +1637,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1613,10 +1655,61 @@
       },
       "opponent": "King Szczecin",
       "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     }
   ],
-  "players": []
+  "players": [
+    {
+      "player_id": 985,
+      "name": "Filip Matczak",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/769/225-225/1551.jpg"
+    },
+    {
+      "player_id": 824,
+      "name": "Krzysztof Sulima",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/769/225-225/125.jpg"
+    },
+    {
+      "player_id": 3334,
+      "name": "Jakub Galewski",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/769/225-225/49151.jpg"
+    },
+    {
+      "player_id": 1872,
+      "name": "Andrzej Mazurczak",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/769/225-225/52794.jpg"
+    },
+    {
+      "player_id": 1964,
+      "name": "Beau Beech Iii",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/769/225-225/86331.jpg"
+    },
+    {
+      "player_id": 6819,
+      "name": "Veljko Brkić",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/769/225-225/113353.jpg"
+    },
+    {
+      "player_id": 7198,
+      "name": "Conley Garrison",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/769/225-225/117097.jpg"
+    },
+    {
+      "player_id": 18997,
+      "name": "Gauthier Denis",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/769/225-225/122781.jpg"
+    },
+    {
+      "player_id": 18998,
+      "name": "Trazarien White",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/769/225-225/122780.jpg"
+    },
+    {
+      "player_id": 18999,
+      "name": "Jan Wójcik",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/769/225-225/37787.jpg"
+    }
+  ]
 }

@@ -2,12 +2,12 @@
   "season_team_id": 4090,
   "name": "Enea Łaciate Astoria Bydgoszcz",
   "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-  "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=5",
+  "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
   "team": {
     "team_id": 7,
     "name": "Enea Łaciate Astoria Bydgoszcz",
     "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-    "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=5",
+    "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
     "pzkosz_id": "4",
     "abbreviation": "BYD"
   },
@@ -29,217 +29,216 @@
     }
   },
   "avg_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 105.0,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 20.0,
+    "f2a": 28.0,
+    "f2p": 71.4,
+    "f3m": 15.0,
+    "f3a": 33.0,
+    "f3p": 45.5,
+    "ftm": 20.0,
+    "fta": 24.0,
+    "ftp": 83.3,
+    "fgm": 35.0,
+    "fga": 61.0,
+    "fgp": 57.4,
+    "rebounds": 29.0,
+    "off_rebounds": 5.0,
+    "def_rebounds": 24.0,
+    "assists": 22.0,
+    "fouls": 15.0,
+    "fouls_on": 24.0,
+    "turnovers": 15.0,
+    "steals": 5.0,
+    "blocks": 3.0,
+    "blocks_on": 2.0,
+    "eval": 119.0,
+    "plus_minus": 50.0
   },
   "stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 105.0,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 20.0,
+    "f2a": 28.0,
+    "f2p": 71.4,
+    "f3m": 15.0,
+    "f3a": 33.0,
+    "f3p": 45.5,
+    "ftm": 20.0,
+    "fta": 24.0,
+    "ftp": 83.3,
+    "fgm": 35.0,
+    "fga": 61.0,
+    "fgp": 57.4,
+    "rebounds": 29.0,
+    "off_rebounds": 5.0,
+    "def_rebounds": 24.0,
+    "assists": 22.0,
+    "fouls": 15.0,
+    "fouls_on": 24.0,
+    "turnovers": 15.0,
+    "steals": 5.0,
+    "blocks": 3.0,
+    "blocks_on": 2.0,
+    "eval": 119.0,
+    "plus_minus": 50.0
   },
   "stat_line_per_36_min": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 94.5,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 18.0,
+    "f2a": 25.2,
+    "f2p": 71.4,
+    "f3m": 13.5,
+    "f3a": 29.7,
+    "f3p": 45.5,
+    "ftm": 18.0,
+    "fta": 21.6,
+    "ftp": 83.3,
+    "fgm": 31.5,
+    "fga": 54.9,
+    "fgp": 57.4,
+    "rebounds": 26.1,
+    "off_rebounds": 4.5,
+    "def_rebounds": 21.6,
+    "assists": 19.8,
+    "fouls": 13.5,
+    "fouls_on": 21.6,
+    "turnovers": 13.5,
+    "steals": 4.5,
+    "blocks": 2.7,
+    "blocks_on": 1.8,
+    "eval": 107.1,
+    "plus_minus": 45.0
   },
   "stat_line_per_100_possessions": {
-    "points": 0.0,
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0,
-    "f2p": 0.0,
-    "f3p": 0.0,
-    "ftp": 0.0,
-    "fgp": 0.0,
-    "seconds": 0.0,
-    "possessions": 0,
-    "time": "00:00"
+    "points": 128.0,
+    "f2m": 24.4,
+    "f2a": 34.1,
+    "f3m": 18.3,
+    "f3a": 40.2,
+    "ftm": 24.4,
+    "fta": 29.3,
+    "fgm": 42.7,
+    "fga": 74.4,
+    "rebounds": 35.4,
+    "off_rebounds": 6.1,
+    "def_rebounds": 29.3,
+    "assists": 26.8,
+    "fouls": 18.3,
+    "fouls_on": 29.3,
+    "turnovers": 18.3,
+    "steals": 6.1,
+    "blocks": 3.7,
+    "blocks_on": 2.4,
+    "eval": 145.1,
+    "plus_minus": 61.0,
+    "f2p": 71.4,
+    "f3p": 45.5,
+    "ftp": 83.3,
+    "fgp": 57.4,
+    "seconds": 12000.0,
+    "possessions": 82,
+    "time": "200:00"
   },
   "advanced_stat_line": {
-    "pace": 0,
-    "bench_pts_perc": 0,
-    "starters_pts_perc": 0,
-    "lead_perc": 0,
-    "draw_perc": 0,
-    "avg_spectators": 0,
-    "polish_pts_perc": 0,
-    "polish_time_perc": 0,
-    "continuation": 0,
-    "fast_break_perc": 0,
-    "avg_age": "------",
-    "avg_height": 0,
-    "ts": 0.0,
-    "drtg": 0.0,
-    "ortg": 0.0,
-    "net_rtg": 0.0,
-    "ftr": 0.0,
-    "efg": 0.0,
-    "f3r": 0.0,
-    "f2r": 0.0,
-    "tov_perc": 0.0,
-    "reb_perc": 0.0,
-    "oreb_perc": 0.0,
-    "dreb_perc": 0.0,
-    "blk_perc": 0.0,
-    "stl_perc": 0.0,
-    "ast_perc": 0.0,
-    "ast_to_tov": 0.0,
-    "hollinger_tov_perc": 0.0
+    "pace": 80.5,
+    "bench_pts_perc": 33.3,
+    "starters_pts_perc": 66.7,
+    "lead_perc": 89.0,
+    "draw_perc": 4.0,
+    "avg_spectators": 1479.0,
+    "polish_pts_perc": 26.7,
+    "polish_time_perc": 36.4,
+    "continuation": 18.57,
+    "fast_break_perc": 9.5,
+    "avg_age": "27-332",
+    "avg_height": 195.7,
+    "ts": 73.4,
+    "drtg": 120.3,
+    "ortg": 128.0,
+    "net_rtg": 7.7,
+    "ftr": 39.3,
+    "efg": 69.7,
+    "f3r": 54.1,
+    "f2r": 45.9,
+    "tov_perc": 17.3,
+    "reb_perc": 49.2,
+    "oreb_perc": 18.5,
+    "dreb_perc": 75.0,
+    "blk_perc": 8.1,
+    "stl_perc": 6.3,
+    "ast_perc": 62.9,
+    "ast_to_tov": 1.47,
+    "hollinger_tov_perc": 13.8
   },
   "opponent_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 95.0,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 25.0,
+    "f2a": 37.0,
+    "f2p": 67.6,
+    "f3m": 12.0,
+    "f3a": 30.0,
+    "f3p": 40.0,
+    "ftm": 9.0,
+    "fta": 14.0,
+    "ftp": 64.3,
+    "fgm": 37.0,
+    "fga": 67.0,
+    "fgp": 55.2,
+    "rebounds": 30.0,
+    "off_rebounds": 8.0,
+    "def_rebounds": 22.0,
+    "assists": 21.0,
+    "fouls": 25.0,
+    "fouls_on": 15.0,
+    "turnovers": 14.0,
+    "steals": 9.0,
+    "blocks": 2.0,
+    "blocks_on": 3.0,
+    "eval": 108.0,
+    "plus_minus": -50.0
   },
   "opponent_avg_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 95.0,
+    "seconds": 12000.0,
+    "f2m": 25.0,
+    "f2a": 37.0,
+    "f2p": 67.6,
+    "f3m": 12.0,
+    "f3a": 30.0,
+    "f3p": 40.0,
+    "ftm": 9.0,
+    "fta": 14.0,
+    "ftp": 64.3,
+    "fgm": 37.0,
+    "fga": 67.0,
+    "fgp": 55.2,
+    "rebounds": 30.0,
+    "off_rebounds": 8.0,
+    "def_rebounds": 22.0,
+    "assists": 21.0,
+    "fouls": 25.0,
+    "fouls_on": 15.0,
+    "turnovers": 14.0,
+    "steals": 9.0,
+    "blocks": 2.0,
+    "blocks_on": 3.0,
+    "eval": 108.0,
+    "plus_minus": -50.0
   },
-  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
-  "total_games_played": 0,
+  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
+  "total_games_played": 1,
   "games": [
     {
       "role": "HOME",
-      "won": null,
+      "won": true,
       "legacy_issue": false,
       "game": {
         "league": {
@@ -251,23 +250,23 @@
         "season": "2027",
         "game_id": 39567,
         "home_team": {
-          "score": 0,
+          "score": 105,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
         },
         "away_team": {
-          "score": 0,
+          "score": 95,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
         },
         "date": "2026-10-03T17:30:00",
-        "finished": false,
+        "finished": true,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
@@ -279,9 +278,52 @@
       },
       "opponent": "Zastal Zielona Góra",
       "opponent_team_id": 26,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
+      "stat_line": {
+        "points": 105.0,
+        "seconds": 12000.0,
+        "time": "200:00",
+        "f2m": 20.0,
+        "f2a": 28.0,
+        "f2p": 71.4,
+        "f3m": 15.0,
+        "f3a": 33.0,
+        "f3p": 45.5,
+        "ftm": 20.0,
+        "fta": 24.0,
+        "ftp": 83.3,
+        "fgm": 35.0,
+        "fga": 61.0,
+        "fgp": 57.4,
+        "rebounds": 29.0,
+        "off_rebounds": 5.0,
+        "def_rebounds": 24.0,
+        "assists": 22.0,
+        "fouls": 15.0,
+        "fouls_on": 24.0,
+        "turnovers": 15.0,
+        "steals": 5.0,
+        "blocks": 3.0,
+        "blocks_on": 2.0,
+        "eval": 115.0,
+        "plus_minus": 50.0
+      },
+      "extra_stat_line": {
+        "pts_from_turnovers": 10,
+        "pts_from_paint": 32,
+        "made_from_paint": 16,
+        "attempts_from_paint": 23,
+        "seconds_chance_pts": 8,
+        "fast_break_pts": 10,
+        "bench_pts": 35,
+        "highest_lead": 21,
+        "highest_lead_score": "64-43",
+        "highest_run": 10,
+        "highest_run_score": "105-95",
+        "changing_lead": 3,
+        "draws": 4,
+        "seconds_on_lead": 2136
+      }
     },
     {
       "role": "HOME",
@@ -299,7 +341,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -307,7 +349,7 @@
         "away_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
           "abbr": "GLI",
           "team_id": 36
@@ -325,7 +367,7 @@
       },
       "opponent": "Euvic GTK Gliwice",
       "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -345,7 +387,7 @@
         "home_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
           "abbr": "TOR",
           "team_id": 34
@@ -353,7 +395,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -371,7 +413,7 @@
       },
       "opponent": "Arriva Lotto Twarde Pierniki Toruń",
       "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -391,7 +433,7 @@
         "home_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
           "abbr": "WRO",
           "team_id": 5
@@ -399,7 +441,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -417,7 +459,7 @@
       },
       "opponent": "WKS Śląsk Wrocław",
       "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -437,7 +479,7 @@
         "home_team": {
           "score": 0,
           "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
           "abbr": "SOP",
           "team_id": 23
@@ -445,25 +487,25 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
         },
-        "date": "2026-10-31T00:00:00",
+        "date": "2026-10-31T15:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "5 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "yt",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Energa Trefl Sopot",
       "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -483,7 +525,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -491,25 +533,25 @@
         "away_team": {
           "score": 0,
           "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
           "abbr": "LUB",
           "team_id": 11
         },
-        "date": "2026-11-06T00:00:00",
+        "date": "2026-11-06T20:15:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "6 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "PGE Start Lublin",
       "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -529,7 +571,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -537,25 +579,25 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
         },
-        "date": "2026-11-15T00:00:00",
+        "date": "2026-11-15T12:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "7 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Górnik Zamek Książ Wałbrzych",
       "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -575,7 +617,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -583,25 +625,25 @@
         "away_team": {
           "score": 0,
           "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
           "abbr": "ECS",
           "team_id": 38
         },
-        "date": "2026-11-20T00:00:00",
+        "date": "2026-11-20T18:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "8 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "yt",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -621,7 +663,7 @@
         "home_team": {
           "score": 0,
           "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
           "abbr": "LEG",
           "team_id": 37
@@ -629,7 +671,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -647,7 +689,7 @@
       },
       "opponent": "Legia Warszawa",
       "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -667,7 +709,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -675,25 +717,25 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
         },
-        "date": "2026-12-12T00:00:00",
+        "date": "2026-12-12T17:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "10 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Anwil Włocławek",
       "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -713,7 +755,7 @@
         "home_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
           "abbr": "OST",
           "team_id": 6
@@ -721,7 +763,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -739,7 +781,7 @@
       },
       "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
       "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -759,7 +801,7 @@
         "home_team": {
           "score": 0,
           "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
           "abbr": "GDY",
           "team_id": 9
@@ -767,7 +809,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -785,7 +827,7 @@
       },
       "opponent": "AMW Arka Gdynia",
       "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -805,7 +847,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -813,7 +855,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -831,7 +873,7 @@
       },
       "opponent": "Dziki Warszawa",
       "opponent_team_id": 40,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -851,7 +893,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -859,7 +901,7 @@
         "away_team": {
           "score": 0,
           "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "abbr": "SZC",
           "team_id": 31
@@ -877,7 +919,7 @@
       },
       "opponent": "King Szczecin",
       "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -897,7 +939,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -905,7 +947,7 @@
         "away_team": {
           "score": 0,
           "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
           "abbr": "DAB",
           "team_id": 32
@@ -923,7 +965,7 @@
       },
       "opponent": "MKS Dąbrowa Górnicza",
       "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -943,7 +985,7 @@
         "home_team": {
           "score": 0,
           "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
           "abbr": "LUB",
           "team_id": 11
@@ -951,7 +993,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -969,7 +1011,7 @@
       },
       "opponent": "PGE Start Lublin",
       "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -989,7 +1031,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -997,7 +1039,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1015,7 +1057,7 @@
       },
       "opponent": "Górnik Zamek Książ Wałbrzych",
       "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1035,7 +1077,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1043,7 +1085,7 @@
         "away_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
           "abbr": "TOR",
           "team_id": 34
@@ -1061,7 +1103,7 @@
       },
       "opponent": "Arriva Lotto Twarde Pierniki Toruń",
       "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1081,7 +1123,7 @@
         "home_team": {
           "score": 0,
           "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
           "abbr": "DAB",
           "team_id": 32
@@ -1089,7 +1131,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1107,7 +1149,7 @@
       },
       "opponent": "MKS Dąbrowa Górnicza",
       "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1127,7 +1169,7 @@
         "home_team": {
           "score": 0,
           "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "abbr": "SZC",
           "team_id": 31
@@ -1135,7 +1177,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1153,7 +1195,7 @@
       },
       "opponent": "King Szczecin",
       "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1173,7 +1215,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1181,7 +1223,7 @@
         "away_team": {
           "score": 0,
           "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
           "abbr": "SOP",
           "team_id": 23
@@ -1199,7 +1241,7 @@
       },
       "opponent": "Energa Trefl Sopot",
       "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1219,7 +1261,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1227,7 +1269,7 @@
         "away_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
           "abbr": "WRO",
           "team_id": 5
@@ -1245,7 +1287,7 @@
       },
       "opponent": "WKS Śląsk Wrocław",
       "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1265,7 +1307,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1273,7 +1315,7 @@
         "away_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
           "abbr": "OST",
           "team_id": 6
@@ -1291,7 +1333,7 @@
       },
       "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
       "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1311,7 +1353,7 @@
         "home_team": {
           "score": 0,
           "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
           "abbr": "ECS",
           "team_id": 38
@@ -1319,7 +1361,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1337,7 +1379,7 @@
       },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1357,7 +1399,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1365,7 +1407,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1383,7 +1425,7 @@
       },
       "opponent": "Zastal Zielona Góra",
       "opponent_team_id": 26,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1403,7 +1445,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1411,7 +1453,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1429,7 +1471,7 @@
       },
       "opponent": "Anwil Włocławek",
       "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1449,7 +1491,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1457,7 +1499,7 @@
         "away_team": {
           "score": 0,
           "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
           "abbr": "LEG",
           "team_id": 37
@@ -1475,7 +1517,7 @@
       },
       "opponent": "Legia Warszawa",
       "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1495,7 +1537,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1503,7 +1545,7 @@
         "away_team": {
           "score": 0,
           "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
           "abbr": "GDY",
           "team_id": 9
@@ -1521,7 +1563,7 @@
       },
       "opponent": "AMW Arka Gdynia",
       "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1541,7 +1583,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1549,7 +1591,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1567,7 +1609,7 @@
       },
       "opponent": "Dziki Warszawa",
       "opponent_team_id": 40,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1587,7 +1629,7 @@
         "home_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
           "abbr": "GLI",
           "team_id": 36
@@ -1595,7 +1637,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1613,10 +1655,76 @@
       },
       "opponent": "Euvic GTK Gliwice",
       "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     }
   ],
-  "players": []
+  "players": [
+    {
+      "player_id": 1397,
+      "name": "Karol Kamiński",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/3910.jpg"
+    },
+    {
+      "player_id": 1611,
+      "name": "Kacper Kłaczek",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/28491.jpg"
+    },
+    {
+      "player_id": 781,
+      "name": "Marcin Nowakowski",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/141.png"
+    },
+    {
+      "player_id": 3169,
+      "name": "Wojciech Dzierżak",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/14587.jpg"
+    },
+    {
+      "player_id": 2096,
+      "name": "Piotr Wińkowski",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/36605.jpg"
+    },
+    {
+      "player_id": 1056,
+      "name": "David Brembly",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/2250.jpg"
+    },
+    {
+      "player_id": 1945,
+      "name": "Denzel Andersson",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/83676.png"
+    },
+    {
+      "player_id": 3415,
+      "name": "Mikołaj Kachelski",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/14425/225-225/52508.jpg"
+    },
+    {
+      "player_id": 3400,
+      "name": "Martyce Kimbrough",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/108212.jpg"
+    },
+    {
+      "player_id": 18994,
+      "name": "Jordan Ogundiran",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/123725.png"
+    },
+    {
+      "player_id": 18995,
+      "name": "Jayden Taylor",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/123727.jpeg"
+    },
+    {
+      "player_id": 18996,
+      "name": "Jalen Thomas",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/123726.jpg"
+    },
+    {
+      "player_id": 3472,
+      "name": "Bartosz Ptak",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/4162/225-225/63189.jpg"
+    }
+  ]
 }
