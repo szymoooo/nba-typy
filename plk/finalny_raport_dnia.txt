@@ -1,30 +1,24 @@
---- AUDYT PLK LIVE (2026-10-08 23:40 CET) ---
-Audyt typu na dzień 2026-10-05: Górnik Zamek Książ Wałbrzych @ Anwil Włocławek -> Typ: Anwil Włocławek
+--- AUDYT PLK LIVE (2026-10-09 16:57 CET) ---
+**Analiza meczów PLK na 2026-10-09**
 
 ---
 
-**Anwil Włocławek**
-1.  **Kluczowe braki w składach:**
-    *   Jack Forrest: Kontynuował rehabilitację uszkodzonego mięśnia. Decyzja o powrocie do treningów miała zapaść we wtorek (06.10), co oznaczało niepewność jego dostępności na mecz 05.10.
-    *   Josiah Strong: Zmagał się z kontuzją pleców i prognozowano kilkutygodniową przerwę. Był niedostępny na mecz.
-    *   Klub zakontraktował Deona Edwina, który zadebiutował w tym meczu w związku z urazami ww. graczy.
-    *   Szymon Wójcik zakończył rehabilitację i był do dyspozycji trenera.
-2.  **Aktualna forma top scorerów (na podstawie meczu 05.10.2026):**
-    *   Emmanuel Lecomte: 19 punktów.
-    *   Samuel Hines Jr: 18 punktów.
-    *   Lennard Freeman: 15 punktów.
+### **MECZ: Legia Warszawa (gosc) @ Zastal Zielona Góra (gospodarz)**
 
-**Górnik Zamek Książ Wałbrzych**
-1.  **Kluczowe braki w składach:**
-    *   Maciej Żmudzki: Występy stały pod znakiem zapytania z powodów zdrowotnych (stan na 27.08.2026).
-    *   Ikeon Smith: Wracał do zdrowia po kontuzji (stan na 27.08.2026).
-    *   Brak istotnych, nowych braków w składzie koszykarskim bezpośrednio przed meczem 05.10.2026.
-2.  **Aktualna forma top scorerów (na podstawie meczu 05.10.2026):**
-    *   Adam Rohosy Jr: 20 punktów.
-    *   Michaelyn Scott: 15 punktów.
-    *   Leemet Böckler: 12 punktów.
+*   **Hala:** Zielona Góra, hala CRS
+*   **Kluczowe braki w składach:**
+    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy) jest kontuzjowany (skręcenie śródstopia z uszkodzeniem więzadeł) i będzie pauzował około 3 miesiące, nie wróci do gry przed końcem roku 2026.
+    *   🏀 **Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:** brak danych z API dla tego zespołu.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Kontuzja Szymona Tomczaka, środkowego Legii, jest znaczącym osłabieniem, zwłaszcza że klub poszukuje zastępstwa. Mimo przewidywanego zwycięstwa Legii, brak kluczowego gracza w zespole gości może wpłynąć na przebieg meczu.
 
 ---
 
-**Werdykt:** [⚠️ RYZYKOWNY]
-Mimo iż Anwil Włocławek był gospodarzem i typ na ich zwycięstwo okazał się trafny (wygrana 88:87 po dogrywce), liczne osłabienia w ich składzie (Jack Forrest i Josiah Strong) oraz debiut nowego zawodnika (Deon Edwin) sprawiły, że mecz był niezwykle wyrównany i zakończył się dopiero w dogrywce. Kontuzje liderów w Anwilu znacząco zwiększały ryzyko, mimo przewagi własnego parkietu i ostatecznego zwycięstwa.
+### **MECZ: Euvic GTK Gliwice (gosc) @ Enea Łaciate Astoria Bydgoszcz (gospodarz)**
+
+*   **Hala:** Hala Sportowo - Widowiskowa "Immobile Łuczniczka", Bydgoszcz
+*   **Kluczowe braki w składach:**
+    *   🏀 **Euvic GTK Gliwice:** Brak istotnych braków w składzie koszykarskim.
+    *   🏀 **Enea Łaciate Astoria Bydgoszcz:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:** brak danych z API dla tego zespołu.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Brak zgłoszonych kontuzji czy zawieszeń po obu stronach, a Enea Łaciate Astoria Bydgoszcz gra u siebie.
