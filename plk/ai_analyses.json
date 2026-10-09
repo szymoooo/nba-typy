@@ -1,34 +1,46 @@
 {
-  "generated_at": "2026-10-09T00:00:38.328889",
-  "date": "2026-10-09",
+  "generated_at": "2026-10-09T23:26:47.683348",
+  "date": "2026-10-10",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Legia Warszawa @ Zastal Zielona Góra",
+      "matchup": "Arriva Lotto Twarde Pierniki Toruń @ MKS Dąbrowa Górnicza",
       "phase": "Runda Zasadnicza",
       "round": "2 kolejka",
-      "date": "2026-10-09T18:00:00",
-      "ai_pick": "Legia Warszawa",
-      "formula_pick": "Legia Warszawa",
+      "date": "2026-10-10T15:00:00",
+      "ai_pick": "MKS Dąbrowa Górnicza",
+      "formula_pick": "MKS Dąbrowa Górnicza",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Legia Warszawa rozpoczęła sezon ligowy od zwycięstwa na wyjeździe, demonstrując solidną defensywę (76.0 traconych punktów na mecz) i pozytywny wskaźnik NetRtg (+3.0 PLK, +5.5 advanced), podczas gdy Zastal Zielona Góra zanotował wysoką porażkę w pierwszym meczu ligowym, tracąc 105 punktów. Mimo kontuzji środkowego Szymona Tomczaka, Legia wykazała się głębią składu, a ich zwycięski start w PLK oraz ogólna efektywność drużyny wskazują na przewagę w tym spotkaniu. Zastal, choć odnotował zwycięstwo w FIBA Europe Cup, będzie musiał znacząco poprawić swoją grę w obronie.",
+      "confidence": 8,
+      "reasoning": "MKS Dąbrowa Górnicza rozpoczęła sezon od przekonującego zwycięstwa, prezentując solidną obronę i wysokie wskaźniki efektywności NetRtg. Ich dzisiejszy rywal, Arriva Lotto Twarde Pierniki Toruń, doznał dotkliwej porażki w pierwszym meczu i zmaga się z kontuzją Maksymiliana Wilczka, co dodatkowo osłabia ich skład. Przewaga własnego parkietu również będzie atutem dla MKS Dąbrowa Górnicza.",
       "key_factors": [
-        "Lepsza defensywa Legii (76.0 traconych pkt/mecz)",
-        "Wyższy wskaźnik efektywności Legii (NetRtg +3.0 PLK, +5.5 advanced)",
-        "Zwycięski start Legii w sezonie PLK (1-0)",
-        "Kontuzja Szymona Tomczaka w Legii (minus dla Legii, ale drużyna zareagowała transferem)"
+        "Lepsza forma MKS Dąbrowa Górnicza na początku sezonu (1-0 vs 0-1).",
+        "Znacznie lepsze wskaźniki zaawansowane MKS (NetRtg +12.1 vs -24.3).",
+        "Przewaga własnego parkietu dla MKS Dąbrowa Górnicza.",
+        "Kontuzja Maksymiliana Wilczka w zespole Arriva Lotto Twarde Pierniki Toruń."
       ],
-      "injury_notes": "Szymon Tomczak (środkowy, Legia Warszawa) doznał skręcenia śródstopia z uszkodzeniem więzadeł we wrześniu 2026 i nie zagra przez około 3 miesiące, co oznacza przerwę do końca roku. Legia zareagowała na tę kontuzję, podpisując krótkoterminową umowę z Kubą Piślą. Zastal Zielona Góra przystąpił do rywalizacji o Superpuchar Polski (wrzesień 2026) bez Taya Solomona i Miłosza Majewskiego; brak aktualnych informacji o ich stanie na dzień meczu.",
+      "injury_notes": "Arriva Lotto Twarde Pierniki Toruń: Maksymilian Wilczek jest wykluczony z gry z powodu kontuzji doznanej przed sezonem 2026/2027. MKS Dąbrowa Górnicza: Brak istotnych braków. Brak aktualnych doniesień o kontuzjach kluczowych zawodników. ",
       "agreement_with_odds": "no_odds"
     },
     {
-      "matchup": "Euvic GTK Gliwice @ Enea Łaciate Astoria Bydgoszcz",
-      "ai_pick": null,
-      "formula_pick": "Enea Łaciate Astoria Bydgoszcz",
-      "note": "AI fallback"
+      "matchup": "WKS Śląsk Wrocław @ King Szczecin",
+      "phase": "Runda Zasadnicza",
+      "round": "2 kolejka",
+      "date": "2026-10-10T17:30:00",
+      "ai_pick": "King Szczecin",
+      "formula_pick": "King Szczecin",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "King Szczecin rozpoczyna ten mecz z dużą pewnością siebie po dominującym zwycięstwie w pierwszej kolejce Orlen Basket Ligi. Ich zaawansowane statystyki, w tym znacznie wyższe NetRtg, eFG% i TS%, wskazują na zdecydowanie bardziej efektywną grę po obu stronach parkietu w porównaniu do WKS Śląska Wrocław, który odnotował znaczącą porażkę w swoim inauguracyjnym spotkaniu ligowym. Dodatkowo, King Szczecin będzie gospodarzem tego meczu, co stanowi istotną przewagę.",
+      "key_factors": [
+        "Dominująca forma Kinga Szczecin w pierwszym meczu sezonu PLK",
+        "Znacznie lepsze wskaźniki efektywności (NetRtg, eFG%, TS%) Kinga Szczecin",
+        "Przewaga własnego parkietu dla Kinga Szczecin"
+      ],
+      "injury_notes": "Brak istotnych braków po obu stronach, zgodnie z najnowszymi doniesieniami koszykarskimi.",
+      "agreement_with_odds": "no_odds"
     }
   ]
 }

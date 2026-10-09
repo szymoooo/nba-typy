@@ -1,24 +1,30 @@
---- AUDYT PLK LIVE (2026-10-09 16:57 CET) ---
-**Analiza meczów PLK na 2026-10-09**
+--- AUDYT PLK LIVE (2026-10-10 01:26 CET) ---
+Analiza dla każdego meczu:
+
+### MECZ: Arriva Lotto Twarde Pierniki Toruń (gosc) @ MKS Dąbrowa Górnicza (gospodarz)
+
+1.  **Kluczowe braki w składach**:
+    *   **MKS Dąbrowa Górnicza**: Brak istotnych braków w składzie koszykarskim.
+    *   **Arriva Lotto Twarde Pierniki Toruń**: Maksymilian Wilczek odniósł kontuzję przed sezonem i trenuje indywidualnie, co wyklucza go z gry.
+
+2.  **Aktualna forma top scorerów**:
+    *   **MKS Dąbrowa Górnicza**: Jordan Hall jest wiodącym strzelcem zespołu ze średnią 23 punktów na mecz w sezonie 2026/2027.
+    *   **Arriva Lotto Twarde Pierniki Toruń**: Luka Sakota jest wiodącym strzelcem zespołu ze średnią 27 punktów na mecz w sezonie 2026/2027.
+
+3.  **Werdykt**: [⚠️ RYZYKOWNY]
+    *   Utrata Maksymiliana Wilczka, choć nie jest to wiodąca postać pod względem punktowym, zawsze osłabia rotację zespołu Arriva Lotto Twarde Pierniki. MKS Dąbrowa Górnicza, grając u siebie i mając swój kluczowy skład w pełni sprawny, ma przewagę.
 
 ---
 
-### **MECZ: Legia Warszawa (gosc) @ Zastal Zielona Góra (gospodarz)**
+### MECZ: WKS Śląsk Wrocław (gosc) @ King Szczecin (gospodarz)
 
-*   **Hala:** Zielona Góra, hala CRS
-*   **Kluczowe braki w składach:**
-    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy) jest kontuzjowany (skręcenie śródstopia z uszkodzeniem więzadeł) i będzie pauzował około 3 miesiące, nie wróci do gry przed końcem roku 2026.
-    *   🏀 **Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:** brak danych z API dla tego zespołu.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Kontuzja Szymona Tomczaka, środkowego Legii, jest znaczącym osłabieniem, zwłaszcza że klub poszukuje zastępstwa. Mimo przewidywanego zwycięstwa Legii, brak kluczowego gracza w zespole gości może wpłynąć na przebieg meczu.
+1.  **Kluczowe braki w składach**:
+    *   **King Szczecin**: Max Egner nabawił się kontuzji kciuka przed trzema tygodniami i jego powrót na parkiet jest niepewny, możliwa dłuższa przerwa lub operacja.
+    *   **WKS Śląsk Wrocław**: W zeszłym sezonie, w maju 2026, Issuf Sanon (ważny zawodnik) doznał złamania zmęczeniowego V kości śródstopia. Powrót do gry zależał od procesu gojenia i rehabilitacji. Brak aktualnych informacji z 2026-10-10, czy jest gotowy do gry. Biorąc pod uwagę długość urazu i brak potwierdzenia powrotu, jego status jest niepewny. Brak innych istotnych braków w składzie koszykarskim.
 
----
+2.  **Aktualna forma top scorerów**:
+    *   **King Szczecin**: Zahir Porter jest wiodącym strzelcem zespołu ze średnią 21 punktów na mecz w sezonie 2026/2027. Tomasz Gielo i Przemysław Żołnierewicz również prezentują dobrą formę, notując po 19 punktów na mecz.
+    *   **WKS Śląsk Wrocław**: Według dostępnych danych (z RealGM), Blazej Czerniewicz jest wiodącym strzelcem ze średnią 22.1 punktu na mecz, Isaih Moore z 21.4 punktu na mecz, oraz Anthony Hickey z 17.9 punktu na mecz..
 
-### **MECZ: Euvic GTK Gliwice (gosc) @ Enea Łaciate Astoria Bydgoszcz (gospodarz)**
-
-*   **Hala:** Hala Sportowo - Widowiskowa "Immobile Łuczniczka", Bydgoszcz
-*   **Kluczowe braki w składach:**
-    *   🏀 **Euvic GTK Gliwice:** Brak istotnych braków w składzie koszykarskim.
-    *   🏀 **Enea Łaciate Astoria Bydgoszcz:** Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:** brak danych z API dla tego zespołu.
-*   **Werdykt:** [✅ ZATWIERDZONY] – Brak zgłoszonych kontuzji czy zawieszeń po obu stronach, a Enea Łaciate Astoria Bydgoszcz gra u siebie.
+3.  **Werdykt**: [⚠️ RYZYKOWNY]
+    *   Kontuzja Maxa Egnera w Kingu Szczecin jest osłabieniem, a niepewny status Issufa Sanona (WKS Śląsk Wrocław) może mieć wpływ na gości. Dodatkowo, Śląsk Wrocław miał fatalne otwarcie sezonu, mimo zwycięstwa w EuroCup. King Szczecin ma przewagę w bezpośrednich spotkaniach z Śląskiem Wrocław i gra na własnym parkiecie. Oba zespoły mają pewne niewiadome, co czyni ten mecz ryzykownym do typowania.
