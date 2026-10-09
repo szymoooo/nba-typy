@@ -1,19 +1,14 @@
 {
-  "generated_at": "2026-10-07T15:04:03.630093",
-  "date": "2026-10-07",
+  "generated_at": "2026-10-09T01:27:07.767541",
+  "date": "2026-10-09",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "No games scheduled. @ No games scheduled.",
-      "phase": "No games scheduled.",
-      "ai_pick": "No games scheduled.",
-      "formula_pick": "No games scheduled.",
-      "agreement": true,
-      "confidence": 1,
-      "reasoning": "Brak zaplanowanych meczów w dniu 2026-10-07 w lidze BBL easyCredit Bundesliga. Nie ma drużyn gospodarzy ani gości do analizy.",
-      "key_factors": [],
-      "injury_notes": "brak istotnych brakow (brak zaplanowanego meczu)"
+      "matchup": "Science City Jena @ Telekom Baskets Bonn",
+      "ai_pick": null,
+      "formula_pick": "Telekom Baskets Bonn",
+      "note": "AI fallback"
     }
   ]
 }

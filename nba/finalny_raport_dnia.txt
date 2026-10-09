@@ -1,42 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-08 19:59 ET) ---
-Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-10-08):
+--- KRYTYCZNY AUDYT LIVE (2026-10-08 21:25 ET) ---
+Kings @ Lakers -> Typ: Lakers
 
----
-
-### Hawks @ Spurs -> Typ: Spurs
-
-*   **Kluczowe braki w składach:**
-    *   **Atlanta Hawks:**
-        *   Henri Veesaar (C): Out ❌ (zerwane ACL, opuści cały sezon)
-        *   Mouhamed Gueye (C, PF): Out ❌ (złamanie stopy, powrót przewidywany na 13 listopada)
-        *   CJ McCollum (G) i Luguentz Dort (G/F) są spodziewani w składzie i mogą zadebiutować w presezonie po tym, jak opuścili poprzedni mecz. McCollum nie figuruje w raporcie kontuzji.
-    *   **San Antonio Spurs:**
-        *   Tobias Harris (F): Out ❌ (nadwyrężenie łydki, opuści cały presezon)
-        *   Maliq Brown (F): Out ❌ (napięcie w plecach)
-        *   Jayden Quaintance (F): Out ❌ (nieokreślony czas, rehabilitacja po operacji kolana poza sezonem)
-        *   Malik Williams (C): Out ❌ (nieujawniona kontuzja, nie zagra w dzisiejszym meczu preseason)
-        *   David Jones-Garcia (G): Questionable ❓ (operacja kostki w lutym, niepewny pełnego udziału w obozie treningowym)
-
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Spurs mają kilku kluczowych graczy poza składem, w tym doświadczonego Harrisa i dwóch młodych wysokich. Hawks również borykają się z absencjami pod koszem. Powrót McColluma i Dorta dla Hawks może jednak wpłynąć na przebieg meczu. Biorąc pod uwagę presezon i eksperymentalne składy, typ jest ryzykowny.
-
----
-
-### Kings @ Lakers -> Typ: Lakers
-
-*   **Kluczowe braki w składach:**
-    *   **Sacramento Kings:**
-        *   Keegan Murray (F): Game-time decision ❓ (problem z kostką, ale spodziewany powrót)
-        *   Malik Monk (G): Expected back ✅ (poprzednio odpoczywał)
-        *   Ben Simmons (G/F): Could make preseason debut ✅ (ostrożnie wprowadzany do gry)
-        *   Domantas Sabonis (C), Zach LaVine (G) i De'Andre Hunter (F) są zdrowi i nie są wymienieni jako GTD. Sabonis wraca po kontuzji łąkotki i ma być w pełni sprawny.
-    *   **Los Angeles Lakers:**
-        *   Austin Reaves (G): Day-to-day ❓ (skręcona kostka, wycofany profilaktycznie)
-        *   Walker Kessler (C): Out ❌ (uraz małego palca lewej ręki)
-        *   Collin Sexton (G): Out ❌ (problem z dolną częścią ciała)
-        *   Luka Dončić (G): Undisclosed issue ❓ (nieujawniony problem, ale "kilku graczy ma wrócić")
-        *   Ziaire Williams (F): Listed for rest ✅ (odpoczynek)
-        *   Arthur Kaluma (F): Sidelined ❌ (problem z dolną częścią ciała)
+*   **Kluczowe braki w składach (2026-10-08):**
+    *   **Lakers:**
+        *   ❌ Walker Kessler (kontuzja palca)
+        *   ❌ Collin Sexton (kontuzja dolnej części ciała)
+        *   ❌ Ziaire Williams (zmęczenie/dolegliwości)
+        *   ❌ Arthur Kaluma (kontuzja dolnej części ciała)
+        *   ❌ Dalton Knecht (stłuczenia)
+        *   ❌ Cameron Carr (stłuczenia)
+        *   ✅ Luka Dončić i Austin Reaves są przewidywani do gry.
+    *   **Kings:**
+        *   ✅ Keegan Murray (kontuzja kostki - decyzja przed meczem, ale spodziewany powrót)
+        *   ✅ Ben Simmons (spodziewany debiut przedsezonowy/powrót)
+        *   ✅ Malik Monk (dzień odpoczynku, spodziewany powrót)
+        *   ✅ Domantas Sabonis, Zach LaVine, De'Andre Hunter są zdolni do gry.
+        *   ⚠️ Sasha Vezenkov (niepewny z powodu skręcenia kostki - ogólny raport, brak potwierdzenia statusu na dzisiaj)
 
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Lakers mają znaczące braki, w tym graczy takich jak Reaves, Kessler i Sexton. Status Dončicia jest niejasny. Królowie, choć Murray ma status "game-time decision", spodziewają się powrotu Monka i debiutu Simmonsa, co może wzmocnić ich skład. Kontuzje Lakers sprawiają, że ich typ jest bardzo ryzykowny.
+    *   Lakers mają wiele kluczowych absencji w tym meczu przedsezonowym, w tym ważnego centra Walkera Kesslera i Collina Sextona. Kings, mimo wcześniejszych problemów, wygląda na to, że odzyskują kilku kluczowych graczy, takich jak Keegan Murray, Ben Simmons i Malik Monk. Liczne braki w składzie Lakers zwiększają ryzyko dla Twojego typu.
