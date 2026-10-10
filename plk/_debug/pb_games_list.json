@@ -1272,13 +1272,13 @@
   {
     "home_team": {
       "name": "MKS Dąbrowa Górnicza",
-      "score": 0,
+      "score": 59,
       "team_id": 32,
       "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14"
     },
     "away_team": {
       "name": "Arriva Lotto Twarde Pierniki Toruń",
-      "score": 0,
+      "score": 44,
       "team_id": 34,
       "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14"
     },
@@ -1288,10 +1288,10 @@
     "ot_number": 0,
     "spectators": 0,
     "youtube_url": "https://www.youtube.com/watch?v=3n52qBV7oSQ",
-    "avg_yt_viewers": null,
-    "peak_yt_viewers": null,
+    "avg_yt_viewers": 2221.279475982533,
+    "peak_yt_viewers": 3007,
     "tv_channel": "yt",
-    "fiba_game_id": null,
+    "fiba_game_id": "2935327",
     "odds_home": null,
     "odds_away": null,
     "city": "Dąbrowa Górnicza",
@@ -1323,7 +1323,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 0,
+    "possessions": 90,
     "highest_lead": 0,
     "round_name": "2 kolejka",
     "stage_name": "Runda Zasadnicza",
