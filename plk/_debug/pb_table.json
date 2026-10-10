@@ -7,48 +7,34 @@
       "games": 2,
       "wins": 2,
       "losses": 0,
-      "small_points_scored": 148,
-      "small_points_lost": 122,
+      "small_points_scored": 176,
+      "small_points_lost": 161,
       "wins_home": 1,
       "wins_away": 1,
       "losses_home": 0,
       "losses_away": 0,
       "losses_walkovers": 0,
-      "possessions": 128,
-      "opponents_possessions": 127,
+      "possessions": 166,
+      "opponents_possessions": 165,
       "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
       "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
-      "live_game": {
-        "game_id": 39574,
-        "score": "59-44",
-        "win": true,
-        "opponent_abbr": "TOR",
-        "role": "home",
-        "opponent": "Arriva Lotto Twarde Pierniki Toruń",
-        "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
-        "date": "10.10.2026 15:00",
-        "draw": false,
-        "fiba_game_id": "2935327",
-        "win_prob": 50.0,
-        "info": "Q3 06:02"
-      },
+      "live_game": null,
       "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
       "streak": "WW",
-      "seconds": 19190.0,
-      "pace": 80.0,
+      "seconds": 24000.0,
+      "pace": 83.0,
       "ot_number": 0,
-      "real_position": 8,
+      "real_position": 1,
       "games_list": [
         {
           "game_id": 39574,
-          "score": "59-44",
+          "score": "87-83",
           "win": true,
           "opponent_abbr": "TOR",
           "role": "home",
           "opponent": "Arriva Lotto Twarde Pierniki Toruń",
           "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
-          "date": "10.10.2026 15:00",
-          "draw": false
+          "date": "10.10.2026 15:00"
         },
         {
           "game_id": 39569,
@@ -344,17 +330,17 @@
         }
       ],
       "points": 4,
-      "offensive_rating": 115.6,
-      "defensive_rating": 96.1,
+      "offensive_rating": 106.0,
+      "defensive_rating": 97.6,
       "wins_percent": 100.0,
-      "small_points_per_100_possessions": 115.6,
-      "avg_small_points_scored": 74.0,
-      "avg_small_points_lost": 61.0,
-      "avg_possessions": 64.0,
-      "avg_opponents_possessions": 63.5,
-      "net_rating": 19.5,
-      "small_points_plus_minus": 26,
-      "small_points_ratio": 1.213,
+      "small_points_per_100_possessions": 106.0,
+      "avg_small_points_scored": 88.0,
+      "avg_small_points_lost": 80.5,
+      "avg_possessions": 83.0,
+      "avg_opponents_possessions": 82.5,
+      "net_rating": 8.4,
+      "small_points_plus_minus": 15,
+      "small_points_ratio": 1.093,
       "position": 1
     },
     {
@@ -381,7 +367,7 @@
       "seconds": 24000.0,
       "pace": 80.5,
       "ot_number": 0,
-      "real_position": 1,
+      "real_position": 2,
       "games_list": [
         {
           "game_id": 39572,
@@ -724,7 +710,7 @@
       "seconds": 24000.0,
       "pace": 78.0,
       "ot_number": 0,
-      "real_position": 2,
+      "real_position": 3,
       "games_list": [
         {
           "game_id": 39573,
@@ -1067,7 +1053,7 @@
       "seconds": 24000.0,
       "pace": 80.5,
       "ot_number": 0,
-      "real_position": 3,
+      "real_position": 4,
       "games_list": [
         {
           "game_id": 39572,
@@ -1387,6 +1373,692 @@
       "position": 4
     },
     {
+      "team": "WKS Śląsk Wrocław",
+      "abbr": "WRO",
+      "team_id": 5,
+      "games": 2,
+      "wins": 1,
+      "losses": 1,
+      "small_points_scored": 152,
+      "small_points_lost": 164,
+      "wins_home": 0,
+      "wins_away": 1,
+      "losses_home": 0,
+      "losses_away": 1,
+      "losses_walkovers": 0,
+      "possessions": 149,
+      "opponents_possessions": 152,
+      "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
+      "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
+      "live_game": null,
+      "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=14",
+      "streak": "WL",
+      "seconds": 24000.0,
+      "pace": 74.5,
+      "ot_number": 0,
+      "real_position": 5,
+      "games_list": [
+        {
+          "game_id": 39575,
+          "score": "82-69",
+          "win": true,
+          "opponent_abbr": "SZC",
+          "role": "away",
+          "opponent": "King Szczecin",
+          "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
+          "date": "10.10.2026 17:30"
+        },
+        {
+          "game_id": 39570,
+          "score": "70-95",
+          "win": false,
+          "opponent_abbr": "GDY",
+          "role": "away",
+          "opponent": "AMW Arka Gdynia",
+          "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
+          "date": "04.10.2026 17:30"
+        }
+      ],
+      "next_games_list": [
+        {
+          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+          "game_id": 39800,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
+          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
+          "date": "06.05.2027",
+          "team_id": 6,
+          "role": "home"
+        },
+        {
+          "name": "Energa Trefl Sopot",
+          "game_id": 39792,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
+          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
+          "date": "01.05.2027",
+          "team_id": 23,
+          "role": "away"
+        },
+        {
+          "name": "MKS Dąbrowa Górnicza",
+          "game_id": 39785,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
+          "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
+          "date": "25.04.2027",
+          "team_id": 32,
+          "role": "home"
+        },
+        {
+          "name": "Górnik Zamek Książ Wałbrzych",
+          "game_id": 39779,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
+          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
+          "date": "19.04.2027",
+          "team_id": 19,
+          "role": "home"
+        },
+        {
+          "name": "Euvic GTK Gliwice",
+          "game_id": 39764,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
+          "date": "08.04.2027",
+          "team_id": 36,
+          "role": "home"
+        },
+        {
+          "name": "AMW Arka Gdynia",
+          "game_id": 39756,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
+          "logo_without_background_path": "teams-logos/t121_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
+          "date": "02.04.2027",
+          "team_id": 9,
+          "role": "home"
+        },
+        {
+          "name": "Anwil Włocławek",
+          "game_id": 39754,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
+          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
+          "date": "29.03.2027",
+          "team_id": 1,
+          "role": "home"
+        },
+        {
+          "name": "Energa Czarni Słupsk",
+          "game_id": 39746,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
+          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
+          "date": "21.03.2027",
+          "team_id": 38,
+          "role": "away"
+        },
+        {
+          "name": "Enea Łaciate Astoria Bydgoszcz",
+          "game_id": 39734,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
+          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
+          "date": "13.03.2027",
+          "team_id": 7,
+          "role": "away"
+        },
+        {
+          "name": "King Szczecin",
+          "game_id": 39727,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
+          "logo_without_background_path": "teams-logos/t546_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
+          "date": "05.03.2027",
+          "team_id": 31,
+          "role": "home"
+        },
+        {
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "game_id": 39716,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "logo_without_background_path": "teams-logos/t101_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
+          "date": "11.02.2027",
+          "team_id": 34,
+          "role": "away"
+        },
+        {
+          "name": "PGE Start Lublin",
+          "game_id": 39715,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
+          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
+          "date": "07.02.2027",
+          "team_id": 11,
+          "role": "home"
+        },
+        {
+          "name": "Dziki Warszawa",
+          "game_id": 39706,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
+          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
+          "date": "31.01.2027",
+          "team_id": 40,
+          "role": "away"
+        },
+        {
+          "name": "Legia Warszawa",
+          "game_id": 39695,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
+          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
+          "date": "23.01.2027",
+          "team_id": 37,
+          "role": "away"
+        },
+        {
+          "name": "Zastal Zielona Góra",
+          "game_id": 39689,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
+          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
+          "date": "17.01.2027",
+          "team_id": 26,
+          "role": "away"
+        },
+        {
+          "name": "Dziki Warszawa",
+          "game_id": 39679,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
+          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
+          "date": "09.01.2027",
+          "team_id": 40,
+          "role": "home"
+        },
+        {
+          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+          "game_id": 39671,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
+          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
+          "date": "02.01.2027",
+          "team_id": 6,
+          "role": "away"
+        },
+        {
+          "name": "Legia Warszawa",
+          "game_id": 39654,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
+          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
+          "date": "26.12.2026",
+          "team_id": 37,
+          "role": "home"
+        },
+        {
+          "name": "Energa Czarni Słupsk",
+          "game_id": 39645,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
+          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
+          "date": "19.12.2026",
+          "team_id": 38,
+          "role": "home"
+        },
+        {
+          "name": "Górnik Zamek Książ Wałbrzych",
+          "game_id": 39643,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
+          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
+          "date": "13.12.2026",
+          "team_id": 19,
+          "role": "away"
+        },
+        {
+          "name": "PGE Start Lublin",
+          "game_id": 39633,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
+          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
+          "date": "06.12.2026",
+          "team_id": 11,
+          "role": "away"
+        },
+        {
+          "name": "Anwil Włocławek",
+          "game_id": 39660,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
+          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
+          "date": "03.12.2026",
+          "team_id": 1,
+          "role": "away"
+        },
+        {
+          "name": "Energa Trefl Sopot",
+          "game_id": 39627,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
+          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
+          "date": "22.11.2026",
+          "team_id": 23,
+          "role": "home"
+        },
+        {
+          "name": "Zastal Zielona Góra",
+          "game_id": 39614,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
+          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
+          "date": "14.11.2026",
+          "team_id": 26,
+          "role": "home"
+        },
+        {
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "game_id": 39607,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "logo_without_background_path": "teams-logos/t101_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
+          "date": "07.11.2026",
+          "team_id": 34,
+          "role": "home"
+        },
+        {
+          "name": "Euvic GTK Gliwice",
+          "game_id": 39602,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
+          "date": "01.11.2026",
+          "team_id": 36,
+          "role": "away"
+        },
+        {
+          "name": "Enea Łaciate Astoria Bydgoszcz",
+          "game_id": 39591,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
+          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
+          "date": "24.10.2026",
+          "team_id": 7,
+          "role": "home"
+        },
+        {
+          "name": "MKS Dąbrowa Górnicza",
+          "game_id": 39586,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
+          "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
+          "date": "18.10.2026",
+          "team_id": 32,
+          "role": "away"
+        }
+      ],
+      "points": 3,
+      "offensive_rating": 102.0,
+      "defensive_rating": 107.9,
+      "wins_percent": 50.0,
+      "small_points_per_100_possessions": 102.0,
+      "avg_small_points_scored": 76.0,
+      "avg_small_points_lost": 82.0,
+      "avg_possessions": 74.5,
+      "avg_opponents_possessions": 76.0,
+      "net_rating": -5.9,
+      "small_points_plus_minus": -12,
+      "small_points_ratio": 0.927,
+      "position": 5
+    },
+    {
+      "team": "King Szczecin",
+      "abbr": "SZC",
+      "team_id": 31,
+      "games": 2,
+      "wins": 1,
+      "losses": 1,
+      "small_points_scored": 173,
+      "small_points_lost": 167,
+      "wins_home": 0,
+      "wins_away": 1,
+      "losses_home": 1,
+      "losses_away": 0,
+      "losses_walkovers": 0,
+      "possessions": 158,
+      "opponents_possessions": 156,
+      "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
+      "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
+      "live_game": null,
+      "logo_without_background_path": "teams-logos/t546_l1_s2027.png?v=14",
+      "streak": "LW",
+      "seconds": 24000.0,
+      "pace": 79.0,
+      "ot_number": 0,
+      "real_position": 6,
+      "games_list": [
+        {
+          "game_id": 39575,
+          "score": "69-82",
+          "win": false,
+          "opponent_abbr": "WRO",
+          "role": "home",
+          "opponent": "WKS Śląsk Wrocław",
+          "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
+          "date": "10.10.2026 17:30"
+        },
+        {
+          "game_id": 39566,
+          "score": "104-85",
+          "win": true,
+          "opponent_abbr": "TOR",
+          "role": "away",
+          "opponent": "Arriva Lotto Twarde Pierniki Toruń",
+          "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "date": "03.10.2026 15:00"
+        }
+      ],
+      "next_games_list": [
+        {
+          "name": "Zastal Zielona Góra",
+          "game_id": 39801,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
+          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
+          "date": "06.05.2027",
+          "team_id": 26,
+          "role": "home"
+        },
+        {
+          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+          "game_id": 39788,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
+          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
+          "date": "30.04.2027",
+          "team_id": 6,
+          "role": "away"
+        },
+        {
+          "name": "Energa Trefl Sopot",
+          "game_id": 39782,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
+          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
+          "date": "24.04.2027",
+          "team_id": 23,
+          "role": "home"
+        },
+        {
+          "name": "MKS Dąbrowa Górnicza",
+          "game_id": 39775,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
+          "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
+          "date": "17.04.2027",
+          "team_id": 32,
+          "role": "home"
+        },
+        {
+          "name": "Górnik Zamek Książ Wałbrzych",
+          "game_id": 39768,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
+          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
+          "date": "11.04.2027",
+          "team_id": 19,
+          "role": "home"
+        },
+        {
+          "name": "Euvic GTK Gliwice",
+          "game_id": 39759,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
+          "date": "03.04.2027",
+          "team_id": 36,
+          "role": "away"
+        },
+        {
+          "name": "AMW Arka Gdynia",
+          "game_id": 39750,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
+          "logo_without_background_path": "teams-logos/t121_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
+          "date": "27.03.2027",
+          "team_id": 9,
+          "role": "home"
+        },
+        {
+          "name": "Anwil Włocławek",
+          "game_id": 39745,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
+          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
+          "date": "21.03.2027",
+          "team_id": 1,
+          "role": "away"
+        },
+        {
+          "name": "Energa Czarni Słupsk",
+          "game_id": 39735,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
+          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
+          "date": "13.03.2027",
+          "team_id": 38,
+          "role": "away"
+        },
+        {
+          "name": "WKS Śląsk Wrocław",
+          "game_id": 39727,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
+          "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
+          "date": "05.03.2027",
+          "team_id": 5,
+          "role": "away"
+        },
+        {
+          "name": "Enea Łaciate Astoria Bydgoszcz",
+          "game_id": 39720,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
+          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
+          "date": "14.02.2027",
+          "team_id": 7,
+          "role": "home"
+        },
+        {
+          "name": "Arriva Lotto Twarde Pierniki Toruń",
+          "game_id": 39711,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+          "logo_without_background_path": "teams-logos/t101_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
+          "date": "06.02.2027",
+          "team_id": 34,
+          "role": "home"
+        },
+        {
+          "name": "PGE Start Lublin",
+          "game_id": 39705,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
+          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
+          "date": "31.01.2027",
+          "team_id": 11,
+          "role": "away"
+        },
+        {
+          "name": "Dziki Warszawa",
+          "game_id": 39697,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
+          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
+          "date": "24.01.2027",
+          "team_id": 40,
+          "role": "away"
+        },
+        {
+          "name": "Legia Warszawa",
+          "game_id": 39688,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
+          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
+          "date": "17.01.2027",
+          "team_id": 37,
+          "role": "home"
+        },
+        {
+          "name": "Euvic GTK Gliwice",
+          "game_id": 39680,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
+          "date": "09.01.2027",
+          "team_id": 36,
+          "role": "home"
+        },
+        {
+          "name": "Enea Łaciate Astoria Bydgoszcz",
+          "game_id": 39673,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
+          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
+          "date": "03.01.2027",
+          "team_id": 7,
+          "role": "away"
+        },
+        {
+          "name": "MKS Dąbrowa Górnicza",
+          "game_id": 39667,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
+          "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
+          "date": "30.12.2026",
+          "team_id": 32,
+          "role": "away"
+        },
+        {
+          "name": "Zastal Zielona Góra",
+          "game_id": 39652,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
+          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
+          "date": "26.12.2026",
+          "team_id": 26,
+          "role": "away"
+        },
+        {
+          "name": "AMW Arka Gdynia",
+          "game_id": 39647,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
+          "logo_without_background_path": "teams-logos/t121_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
+          "date": "19.12.2026",
+          "team_id": 9,
+          "role": "away"
+        },
+        {
+          "name": "Dziki Warszawa",
+          "game_id": 39642,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
+          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
+          "date": "13.12.2026",
+          "team_id": 40,
+          "role": "home"
+        },
+        {
+          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+          "game_id": 39630,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
+          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
+          "date": "05.12.2026",
+          "team_id": 6,
+          "role": "home"
+        },
+        {
+          "name": "Anwil Włocławek",
+          "game_id": 39622,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
+          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
+          "date": "21.11.2026",
+          "team_id": 1,
+          "role": "home"
+        },
+        {
+          "name": "Legia Warszawa",
+          "game_id": 39617,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
+          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
+          "date": "14.11.2026",
+          "team_id": 37,
+          "role": "away"
+        },
+        {
+          "name": "Energa Czarni Słupsk",
+          "game_id": 39605,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
+          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
+          "date": "08.11.2026",
+          "team_id": 38,
+          "role": "home"
+        },
+        {
+          "name": "Górnik Zamek Książ Wałbrzych",
+          "game_id": 39596,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
+          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
+          "date": "30.10.2026",
+          "team_id": 19,
+          "role": "away"
+        },
+        {
+          "name": "PGE Start Lublin",
+          "game_id": 39589,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
+          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
+          "date": "24.10.2026",
+          "team_id": 11,
+          "role": "home"
+        },
+        {
+          "name": "Energa Trefl Sopot",
+          "game_id": 39584,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
+          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
+          "date": "17.10.2026",
+          "team_id": 23,
+          "role": "away"
+        }
+      ],
+      "points": 3,
+      "offensive_rating": 109.5,
+      "defensive_rating": 107.1,
+      "wins_percent": 50.0,
+      "small_points_per_100_possessions": 109.5,
+      "avg_small_points_scored": 86.5,
+      "avg_small_points_lost": 83.5,
+      "avg_possessions": 79.0,
+      "avg_opponents_possessions": 78.0,
+      "net_rating": 2.4,
+      "small_points_plus_minus": 6,
+      "small_points_ratio": 1.036,
+      "position": 6
+    },
+    {
       "team": "Legia Warszawa",
       "abbr": "LEG",
       "team_id": 37,
@@ -1410,7 +2082,7 @@
       "seconds": 24000.0,
       "pace": 74.5,
       "ot_number": 0,
-      "real_position": 4,
+      "real_position": 7,
       "games_list": [
         {
           "game_id": 39573,
@@ -1727,706 +2399,6 @@
       "net_rating": -7.8,
       "small_points_plus_minus": -14,
       "small_points_ratio": 0.922,
-      "position": 5
-    },
-    {
-      "team": "King Szczecin",
-      "abbr": "SZC",
-      "team_id": 31,
-      "games": 1,
-      "wins": 1,
-      "losses": 0,
-      "small_points_scored": 104,
-      "small_points_lost": 85,
-      "wins_home": 0,
-      "wins_away": 1,
-      "losses_home": 0,
-      "losses_away": 0,
-      "losses_walkovers": 0,
-      "possessions": 78,
-      "opponents_possessions": 78,
-      "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
-      "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
-      "live_game": null,
-      "logo_without_background_path": "teams-logos/t546_l1_s2027.png?v=14",
-      "streak": "W",
-      "seconds": 12000.0,
-      "pace": 78.0,
-      "ot_number": 0,
-      "real_position": 7,
-      "games_list": [
-        {
-          "game_id": 39566,
-          "score": "104-85",
-          "win": true,
-          "opponent_abbr": "TOR",
-          "role": "away",
-          "opponent": "Arriva Lotto Twarde Pierniki Toruń",
-          "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
-          "date": "03.10.2026 15:00"
-        }
-      ],
-      "next_games_list": [
-        {
-          "name": "Zastal Zielona Góra",
-          "game_id": 39801,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
-          "date": "06.05.2027",
-          "team_id": 26,
-          "role": "home"
-        },
-        {
-          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "game_id": 39788,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
-          "date": "30.04.2027",
-          "team_id": 6,
-          "role": "away"
-        },
-        {
-          "name": "Energa Trefl Sopot",
-          "game_id": 39782,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
-          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
-          "date": "24.04.2027",
-          "team_id": 23,
-          "role": "home"
-        },
-        {
-          "name": "MKS Dąbrowa Górnicza",
-          "game_id": 39775,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-          "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
-          "date": "17.04.2027",
-          "team_id": 32,
-          "role": "home"
-        },
-        {
-          "name": "Górnik Zamek Książ Wałbrzych",
-          "game_id": 39768,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
-          "date": "11.04.2027",
-          "team_id": 19,
-          "role": "home"
-        },
-        {
-          "name": "Euvic GTK Gliwice",
-          "game_id": 39759,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
-          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
-          "date": "03.04.2027",
-          "team_id": 36,
-          "role": "away"
-        },
-        {
-          "name": "AMW Arka Gdynia",
-          "game_id": 39750,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
-          "logo_without_background_path": "teams-logos/t121_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
-          "date": "27.03.2027",
-          "team_id": 9,
-          "role": "home"
-        },
-        {
-          "name": "Anwil Włocławek",
-          "game_id": 39745,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
-          "date": "21.03.2027",
-          "team_id": 1,
-          "role": "away"
-        },
-        {
-          "name": "Energa Czarni Słupsk",
-          "game_id": 39735,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
-          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
-          "date": "13.03.2027",
-          "team_id": 38,
-          "role": "away"
-        },
-        {
-          "name": "WKS Śląsk Wrocław",
-          "game_id": 39727,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
-          "date": "05.03.2027",
-          "team_id": 5,
-          "role": "away"
-        },
-        {
-          "name": "Enea Łaciate Astoria Bydgoszcz",
-          "game_id": 39720,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
-          "date": "14.02.2027",
-          "team_id": 7,
-          "role": "home"
-        },
-        {
-          "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "game_id": 39711,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
-          "logo_without_background_path": "teams-logos/t101_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
-          "date": "06.02.2027",
-          "team_id": 34,
-          "role": "home"
-        },
-        {
-          "name": "PGE Start Lublin",
-          "game_id": 39705,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
-          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
-          "date": "31.01.2027",
-          "team_id": 11,
-          "role": "away"
-        },
-        {
-          "name": "Dziki Warszawa",
-          "game_id": 39697,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
-          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
-          "date": "24.01.2027",
-          "team_id": 40,
-          "role": "away"
-        },
-        {
-          "name": "Legia Warszawa",
-          "game_id": 39688,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
-          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
-          "date": "17.01.2027",
-          "team_id": 37,
-          "role": "home"
-        },
-        {
-          "name": "Euvic GTK Gliwice",
-          "game_id": 39680,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
-          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
-          "date": "09.01.2027",
-          "team_id": 36,
-          "role": "home"
-        },
-        {
-          "name": "Enea Łaciate Astoria Bydgoszcz",
-          "game_id": 39673,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
-          "date": "03.01.2027",
-          "team_id": 7,
-          "role": "away"
-        },
-        {
-          "name": "MKS Dąbrowa Górnicza",
-          "game_id": 39667,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-          "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
-          "date": "30.12.2026",
-          "team_id": 32,
-          "role": "away"
-        },
-        {
-          "name": "Zastal Zielona Góra",
-          "game_id": 39652,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
-          "date": "26.12.2026",
-          "team_id": 26,
-          "role": "away"
-        },
-        {
-          "name": "AMW Arka Gdynia",
-          "game_id": 39647,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
-          "logo_without_background_path": "teams-logos/t121_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
-          "date": "19.12.2026",
-          "team_id": 9,
-          "role": "away"
-        },
-        {
-          "name": "Dziki Warszawa",
-          "game_id": 39642,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
-          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
-          "date": "13.12.2026",
-          "team_id": 40,
-          "role": "home"
-        },
-        {
-          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "game_id": 39630,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
-          "date": "05.12.2026",
-          "team_id": 6,
-          "role": "home"
-        },
-        {
-          "name": "Anwil Włocławek",
-          "game_id": 39622,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
-          "date": "21.11.2026",
-          "team_id": 1,
-          "role": "home"
-        },
-        {
-          "name": "Legia Warszawa",
-          "game_id": 39617,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
-          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
-          "date": "14.11.2026",
-          "team_id": 37,
-          "role": "away"
-        },
-        {
-          "name": "Energa Czarni Słupsk",
-          "game_id": 39605,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
-          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
-          "date": "08.11.2026",
-          "team_id": 38,
-          "role": "home"
-        },
-        {
-          "name": "Górnik Zamek Książ Wałbrzych",
-          "game_id": 39596,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
-          "date": "30.10.2026",
-          "team_id": 19,
-          "role": "away"
-        },
-        {
-          "name": "PGE Start Lublin",
-          "game_id": 39589,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
-          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
-          "date": "24.10.2026",
-          "team_id": 11,
-          "role": "home"
-        },
-        {
-          "name": "Energa Trefl Sopot",
-          "game_id": 39584,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
-          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
-          "date": "17.10.2026",
-          "team_id": 23,
-          "role": "away"
-        },
-        {
-          "name": "WKS Śląsk Wrocław",
-          "game_id": 39575,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
-          "date": "10.10.2026",
-          "team_id": 5,
-          "role": "home"
-        }
-      ],
-      "points": 2,
-      "offensive_rating": 133.3,
-      "defensive_rating": 109.0,
-      "wins_percent": 100.0,
-      "small_points_per_100_possessions": 133.3,
-      "avg_small_points_scored": 104.0,
-      "avg_small_points_lost": 85.0,
-      "avg_possessions": 78.0,
-      "avg_opponents_possessions": 78.0,
-      "net_rating": 24.3,
-      "small_points_plus_minus": 19,
-      "small_points_ratio": 1.224,
-      "position": 6
-    },
-    {
-      "team": "Arriva Lotto Twarde Pierniki Toruń",
-      "abbr": "TOR",
-      "team_id": 34,
-      "games": 2,
-      "wins": 0,
-      "losses": 2,
-      "small_points_scored": 129,
-      "small_points_lost": 163,
-      "wins_home": 0,
-      "wins_away": 0,
-      "losses_home": 1,
-      "losses_away": 1,
-      "losses_walkovers": 0,
-      "possessions": 123,
-      "opponents_possessions": 123,
-      "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
-      "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
-      "live_game": {
-        "game_id": 39574,
-        "score": "44-59",
-        "win": false,
-        "opponent_abbr": "DAB",
-        "role": "away",
-        "opponent": "MKS Dąbrowa Górnicza",
-        "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-        "date": "10.10.2026 15:00",
-        "draw": false,
-        "fiba_game_id": "2935327",
-        "win_prob": 50.0,
-        "info": "Q3 06:02"
-      },
-      "logo_without_background_path": "teams-logos/t101_l1_s2027.png?v=14",
-      "streak": "LL",
-      "seconds": 19190.0,
-      "pace": 76.9,
-      "ot_number": 0,
-      "real_position": 14,
-      "games_list": [
-        {
-          "game_id": 39574,
-          "score": "44-59",
-          "win": false,
-          "opponent_abbr": "DAB",
-          "role": "away",
-          "opponent": "MKS Dąbrowa Górnicza",
-          "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-          "date": "10.10.2026 15:00",
-          "draw": false
-        },
-        {
-          "game_id": 39566,
-          "score": "85-104",
-          "win": false,
-          "opponent_abbr": "SZC",
-          "role": "home",
-          "opponent": "King Szczecin",
-          "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
-          "date": "03.10.2026 15:00"
-        }
-      ],
-      "next_games_list": [
-        {
-          "name": "Legia Warszawa",
-          "game_id": 39802,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
-          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
-          "date": "06.05.2027",
-          "team_id": 37,
-          "role": "home"
-        },
-        {
-          "name": "Zastal Zielona Góra",
-          "game_id": 39794,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
-          "date": "02.05.2027",
-          "team_id": 26,
-          "role": "away"
-        },
-        {
-          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "game_id": 39783,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
-          "date": "24.04.2027",
-          "team_id": 6,
-          "role": "home"
-        },
-        {
-          "name": "Energa Trefl Sopot",
-          "game_id": 39774,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
-          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
-          "date": "17.04.2027",
-          "team_id": 23,
-          "role": "away"
-        },
-        {
-          "name": "MKS Dąbrowa Górnicza",
-          "game_id": 39765,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-          "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
-          "date": "09.04.2027",
-          "team_id": 32,
-          "role": "home"
-        },
-        {
-          "name": "Górnik Zamek Książ Wałbrzych",
-          "game_id": 39761,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
-          "date": "04.04.2027",
-          "team_id": 19,
-          "role": "home"
-        },
-        {
-          "name": "Euvic GTK Gliwice",
-          "game_id": 39748,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
-          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
-          "date": "26.03.2027",
-          "team_id": 36,
-          "role": "home"
-        },
-        {
-          "name": "AMW Arka Gdynia",
-          "game_id": 39743,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
-          "logo_without_background_path": "teams-logos/t121_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
-          "date": "20.03.2027",
-          "team_id": 9,
-          "role": "home"
-        },
-        {
-          "name": "Anwil Włocławek",
-          "game_id": 39736,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
-          "date": "14.03.2027",
-          "team_id": 1,
-          "role": "away"
-        },
-        {
-          "name": "Energa Czarni Słupsk",
-          "game_id": 39731,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
-          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
-          "date": "08.03.2027",
-          "team_id": 38,
-          "role": "away"
-        },
-        {
-          "name": "WKS Śląsk Wrocław",
-          "game_id": 39716,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
-          "date": "11.02.2027",
-          "team_id": 5,
-          "role": "home"
-        },
-        {
-          "name": "King Szczecin",
-          "game_id": 39711,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
-          "logo_without_background_path": "teams-logos/t546_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
-          "date": "06.02.2027",
-          "team_id": 31,
-          "role": "away"
-        },
-        {
-          "name": "Enea Łaciate Astoria Bydgoszcz",
-          "game_id": 39704,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
-          "date": "31.01.2027",
-          "team_id": 7,
-          "role": "away"
-        },
-        {
-          "name": "PGE Start Lublin",
-          "game_id": 39693,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
-          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
-          "date": "22.01.2027",
-          "team_id": 11,
-          "role": "home"
-        },
-        {
-          "name": "Dziki Warszawa",
-          "game_id": 39686,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
-          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
-          "date": "16.01.2027",
-          "team_id": 40,
-          "role": "away"
-        },
-        {
-          "name": "AMW Arka Gdynia",
-          "game_id": 39677,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
-          "logo_without_background_path": "teams-logos/t121_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
-          "date": "08.01.2027",
-          "team_id": 9,
-          "role": "away"
-        },
-        {
-          "name": "Dziki Warszawa",
-          "game_id": 39670,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
-          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
-          "date": "02.01.2027",
-          "team_id": 40,
-          "role": "home"
-        },
-        {
-          "name": "Anwil Włocławek",
-          "game_id": 39653,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
-          "date": "26.12.2026",
-          "team_id": 1,
-          "role": "home"
-        },
-        {
-          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "game_id": 39662,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
-          "date": "23.12.2026",
-          "team_id": 6,
-          "role": "away"
-        },
-        {
-          "name": "Legia Warszawa",
-          "game_id": 39646,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
-          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
-          "date": "19.12.2026",
-          "team_id": 37,
-          "role": "away"
-        },
-        {
-          "name": "Energa Czarni Słupsk",
-          "game_id": 39639,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
-          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
-          "date": "12.12.2026",
-          "team_id": 38,
-          "role": "home"
-        },
-        {
-          "name": "Górnik Zamek Książ Wałbrzych",
-          "game_id": 39628,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
-          "date": "04.12.2026",
-          "team_id": 19,
-          "role": "away"
-        },
-        {
-          "name": "PGE Start Lublin",
-          "game_id": 39626,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
-          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
-          "date": "22.11.2026",
-          "team_id": 11,
-          "role": "away"
-        },
-        {
-          "name": "Energa Trefl Sopot",
-          "game_id": 39615,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
-          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
-          "date": "14.11.2026",
-          "team_id": 23,
-          "role": "home"
-        },
-        {
-          "name": "WKS Śląsk Wrocław",
-          "game_id": 39607,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-          "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
-          "date": "07.11.2026",
-          "team_id": 5,
-          "role": "away"
-        },
-        {
-          "name": "Zastal Zielona Góra",
-          "game_id": 39598,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
-          "date": "31.10.2026",
-          "team_id": 26,
-          "role": "home"
-        },
-        {
-          "name": "Euvic GTK Gliwice",
-          "game_id": 39588,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
-          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
-          "date": "23.10.2026",
-          "team_id": 36,
-          "role": "away"
-        },
-        {
-          "name": "Enea Łaciate Astoria Bydgoszcz",
-          "game_id": 39582,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
-          "date": "16.10.2026",
-          "team_id": 7,
-          "role": "home"
-        }
-      ],
-      "points": 2,
-      "offensive_rating": 104.9,
-      "defensive_rating": 132.5,
-      "wins_percent": 0.0,
-      "small_points_per_100_possessions": 104.9,
-      "avg_small_points_scored": 64.5,
-      "avg_small_points_lost": 81.5,
-      "avg_possessions": 61.5,
-      "avg_opponents_possessions": 61.5,
-      "net_rating": -27.6,
-      "small_points_plus_minus": -34,
-      "small_points_ratio": 0.791,
       "position": 7
     },
     {
@@ -2453,7 +2425,7 @@
       "seconds": 12000.0,
       "pace": 81.0,
       "ot_number": 0,
-      "real_position": 5,
+      "real_position": 8,
       "games_list": [
         {
           "game_id": 39565,
@@ -2796,7 +2768,7 @@
       "seconds": 12000.0,
       "pace": 72.0,
       "ot_number": 0,
-      "real_position": 6,
+      "real_position": 9,
       "games_list": [
         {
           "game_id": 39570,
@@ -3139,7 +3111,7 @@
       "seconds": 13500.0,
       "pace": 68.4,
       "ot_number": 1,
-      "real_position": 9,
+      "real_position": 10,
       "games_list": [
         {
           "game_id": 39568,
@@ -3482,7 +3454,7 @@
       "seconds": 13500.0,
       "pace": 69.3,
       "ot_number": 1,
-      "real_position": 10,
+      "real_position": 11,
       "games_list": [
         {
           "game_id": 39571,
@@ -3802,6 +3774,349 @@
       "position": 11
     },
     {
+      "team": "Arriva Lotto Twarde Pierniki Toruń",
+      "abbr": "TOR",
+      "team_id": 34,
+      "games": 2,
+      "wins": 0,
+      "losses": 2,
+      "small_points_scored": 168,
+      "small_points_lost": 191,
+      "wins_home": 0,
+      "wins_away": 0,
+      "losses_home": 1,
+      "losses_away": 1,
+      "losses_walkovers": 0,
+      "possessions": 161,
+      "opponents_possessions": 161,
+      "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
+      "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
+      "live_game": null,
+      "logo_without_background_path": "teams-logos/t101_l1_s2027.png?v=14",
+      "streak": "LL",
+      "seconds": 24000.0,
+      "pace": 80.5,
+      "ot_number": 0,
+      "real_position": 12,
+      "games_list": [
+        {
+          "game_id": 39574,
+          "score": "83-87",
+          "win": false,
+          "opponent_abbr": "DAB",
+          "role": "away",
+          "opponent": "MKS Dąbrowa Górnicza",
+          "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
+          "date": "10.10.2026 15:00"
+        },
+        {
+          "game_id": 39566,
+          "score": "85-104",
+          "win": false,
+          "opponent_abbr": "SZC",
+          "role": "home",
+          "opponent": "King Szczecin",
+          "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
+          "date": "03.10.2026 15:00"
+        }
+      ],
+      "next_games_list": [
+        {
+          "name": "Legia Warszawa",
+          "game_id": 39802,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
+          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
+          "date": "06.05.2027",
+          "team_id": 37,
+          "role": "home"
+        },
+        {
+          "name": "Zastal Zielona Góra",
+          "game_id": 39794,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
+          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
+          "date": "02.05.2027",
+          "team_id": 26,
+          "role": "away"
+        },
+        {
+          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+          "game_id": 39783,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
+          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
+          "date": "24.04.2027",
+          "team_id": 6,
+          "role": "home"
+        },
+        {
+          "name": "Energa Trefl Sopot",
+          "game_id": 39774,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
+          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
+          "date": "17.04.2027",
+          "team_id": 23,
+          "role": "away"
+        },
+        {
+          "name": "MKS Dąbrowa Górnicza",
+          "game_id": 39765,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
+          "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
+          "date": "09.04.2027",
+          "team_id": 32,
+          "role": "home"
+        },
+        {
+          "name": "Górnik Zamek Książ Wałbrzych",
+          "game_id": 39761,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
+          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
+          "date": "04.04.2027",
+          "team_id": 19,
+          "role": "home"
+        },
+        {
+          "name": "Euvic GTK Gliwice",
+          "game_id": 39748,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
+          "date": "26.03.2027",
+          "team_id": 36,
+          "role": "home"
+        },
+        {
+          "name": "AMW Arka Gdynia",
+          "game_id": 39743,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
+          "logo_without_background_path": "teams-logos/t121_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
+          "date": "20.03.2027",
+          "team_id": 9,
+          "role": "home"
+        },
+        {
+          "name": "Anwil Włocławek",
+          "game_id": 39736,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
+          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
+          "date": "14.03.2027",
+          "team_id": 1,
+          "role": "away"
+        },
+        {
+          "name": "Energa Czarni Słupsk",
+          "game_id": 39731,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
+          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
+          "date": "08.03.2027",
+          "team_id": 38,
+          "role": "away"
+        },
+        {
+          "name": "WKS Śląsk Wrocław",
+          "game_id": 39716,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
+          "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
+          "date": "11.02.2027",
+          "team_id": 5,
+          "role": "home"
+        },
+        {
+          "name": "King Szczecin",
+          "game_id": 39711,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
+          "logo_without_background_path": "teams-logos/t546_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
+          "date": "06.02.2027",
+          "team_id": 31,
+          "role": "away"
+        },
+        {
+          "name": "Enea Łaciate Astoria Bydgoszcz",
+          "game_id": 39704,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
+          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
+          "date": "31.01.2027",
+          "team_id": 7,
+          "role": "away"
+        },
+        {
+          "name": "PGE Start Lublin",
+          "game_id": 39693,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
+          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
+          "date": "22.01.2027",
+          "team_id": 11,
+          "role": "home"
+        },
+        {
+          "name": "Dziki Warszawa",
+          "game_id": 39686,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
+          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
+          "date": "16.01.2027",
+          "team_id": 40,
+          "role": "away"
+        },
+        {
+          "name": "AMW Arka Gdynia",
+          "game_id": 39677,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
+          "logo_without_background_path": "teams-logos/t121_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
+          "date": "08.01.2027",
+          "team_id": 9,
+          "role": "away"
+        },
+        {
+          "name": "Dziki Warszawa",
+          "game_id": 39670,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
+          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
+          "date": "02.01.2027",
+          "team_id": 40,
+          "role": "home"
+        },
+        {
+          "name": "Anwil Włocławek",
+          "game_id": 39653,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
+          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
+          "date": "26.12.2026",
+          "team_id": 1,
+          "role": "home"
+        },
+        {
+          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+          "game_id": 39662,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
+          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
+          "date": "23.12.2026",
+          "team_id": 6,
+          "role": "away"
+        },
+        {
+          "name": "Legia Warszawa",
+          "game_id": 39646,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
+          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
+          "date": "19.12.2026",
+          "team_id": 37,
+          "role": "away"
+        },
+        {
+          "name": "Energa Czarni Słupsk",
+          "game_id": 39639,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
+          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
+          "date": "12.12.2026",
+          "team_id": 38,
+          "role": "home"
+        },
+        {
+          "name": "Górnik Zamek Książ Wałbrzych",
+          "game_id": 39628,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
+          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
+          "date": "04.12.2026",
+          "team_id": 19,
+          "role": "away"
+        },
+        {
+          "name": "PGE Start Lublin",
+          "game_id": 39626,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
+          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
+          "date": "22.11.2026",
+          "team_id": 11,
+          "role": "away"
+        },
+        {
+          "name": "Energa Trefl Sopot",
+          "game_id": 39615,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
+          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
+          "date": "14.11.2026",
+          "team_id": 23,
+          "role": "home"
+        },
+        {
+          "name": "WKS Śląsk Wrocław",
+          "game_id": 39607,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
+          "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
+          "date": "07.11.2026",
+          "team_id": 5,
+          "role": "away"
+        },
+        {
+          "name": "Zastal Zielona Góra",
+          "game_id": 39598,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
+          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
+          "date": "31.10.2026",
+          "team_id": 26,
+          "role": "home"
+        },
+        {
+          "name": "Euvic GTK Gliwice",
+          "game_id": 39588,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
+          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
+          "date": "23.10.2026",
+          "team_id": 36,
+          "role": "away"
+        },
+        {
+          "name": "Enea Łaciate Astoria Bydgoszcz",
+          "game_id": 39582,
+          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
+          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
+          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
+          "date": "16.10.2026",
+          "team_id": 7,
+          "role": "home"
+        }
+      ],
+      "points": 2,
+      "offensive_rating": 104.3,
+      "defensive_rating": 118.6,
+      "wins_percent": 0.0,
+      "small_points_per_100_possessions": 104.3,
+      "avg_small_points_scored": 84.0,
+      "avg_small_points_lost": 95.5,
+      "avg_possessions": 80.5,
+      "avg_opponents_possessions": 80.5,
+      "net_rating": -14.3,
+      "small_points_plus_minus": -23,
+      "small_points_ratio": 0.88,
+      "position": 12
+    },
+    {
       "team": "Górnik Zamek Książ Wałbrzych",
       "abbr": "WAL",
       "team_id": 19,
@@ -3825,7 +4140,7 @@
       "seconds": 13500.0,
       "pace": 69.3,
       "ot_number": 1,
-      "real_position": 11,
+      "real_position": 13,
       "games_list": [
         {
           "game_id": 39571,
@@ -4142,7 +4457,7 @@
       "net_rating": -1.3,
       "small_points_plus_minus": -1,
       "small_points_ratio": 0.989,
-      "position": 12
+      "position": 13
     },
     {
       "team": "Energa Czarni Słupsk",
@@ -4168,7 +4483,7 @@
       "seconds": 12000.0,
       "pace": 74.0,
       "ot_number": 0,
-      "real_position": 12,
+      "real_position": 14,
       "games_list": [
         {
           "game_id": 39564,
@@ -4485,7 +4800,7 @@
       "net_rating": -5.5,
       "small_points_plus_minus": -3,
       "small_points_ratio": 0.962,
-      "position": 13
+      "position": 14
     },
     {
       "team": "PGE Start Lublin",
@@ -4511,7 +4826,7 @@
       "seconds": 13500.0,
       "pace": 70.2,
       "ot_number": 1,
-      "real_position": 13,
+      "real_position": 15,
       "games_list": [
         {
           "game_id": 39568,
@@ -4828,349 +5143,6 @@
       "net_rating": -9.1,
       "small_points_plus_minus": -5,
       "small_points_ratio": 0.94,
-      "position": 14
-    },
-    {
-      "team": "WKS Śląsk Wrocław",
-      "abbr": "WRO",
-      "team_id": 5,
-      "games": 1,
-      "wins": 0,
-      "losses": 1,
-      "small_points_scored": 70,
-      "small_points_lost": 95,
-      "wins_home": 0,
-      "wins_away": 0,
-      "losses_home": 0,
-      "losses_away": 1,
-      "losses_walkovers": 0,
-      "possessions": 71,
-      "opponents_possessions": 72,
-      "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
-      "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
-      "live_game": null,
-      "logo_without_background_path": "teams-logos/t768_l1_s2027.png?v=14",
-      "streak": "L",
-      "seconds": 12000.0,
-      "pace": 71.0,
-      "ot_number": 0,
-      "real_position": 15,
-      "games_list": [
-        {
-          "game_id": 39570,
-          "score": "70-95",
-          "win": false,
-          "opponent_abbr": "GDY",
-          "role": "away",
-          "opponent": "AMW Arka Gdynia",
-          "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
-          "date": "04.10.2026 17:30"
-        }
-      ],
-      "next_games_list": [
-        {
-          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "game_id": 39800,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
-          "date": "06.05.2027",
-          "team_id": 6,
-          "role": "home"
-        },
-        {
-          "name": "Energa Trefl Sopot",
-          "game_id": 39792,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
-          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
-          "date": "01.05.2027",
-          "team_id": 23,
-          "role": "away"
-        },
-        {
-          "name": "MKS Dąbrowa Górnicza",
-          "game_id": 39785,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-          "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
-          "date": "25.04.2027",
-          "team_id": 32,
-          "role": "home"
-        },
-        {
-          "name": "Górnik Zamek Książ Wałbrzych",
-          "game_id": 39779,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
-          "date": "19.04.2027",
-          "team_id": 19,
-          "role": "home"
-        },
-        {
-          "name": "Euvic GTK Gliwice",
-          "game_id": 39764,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
-          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
-          "date": "08.04.2027",
-          "team_id": 36,
-          "role": "home"
-        },
-        {
-          "name": "AMW Arka Gdynia",
-          "game_id": 39756,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
-          "logo_without_background_path": "teams-logos/t121_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
-          "date": "02.04.2027",
-          "team_id": 9,
-          "role": "home"
-        },
-        {
-          "name": "Anwil Włocławek",
-          "game_id": 39754,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
-          "date": "29.03.2027",
-          "team_id": 1,
-          "role": "home"
-        },
-        {
-          "name": "Energa Czarni Słupsk",
-          "game_id": 39746,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
-          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
-          "date": "21.03.2027",
-          "team_id": 38,
-          "role": "away"
-        },
-        {
-          "name": "Enea Łaciate Astoria Bydgoszcz",
-          "game_id": 39734,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
-          "date": "13.03.2027",
-          "team_id": 7,
-          "role": "away"
-        },
-        {
-          "name": "King Szczecin",
-          "game_id": 39727,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
-          "logo_without_background_path": "teams-logos/t546_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
-          "date": "05.03.2027",
-          "team_id": 31,
-          "role": "home"
-        },
-        {
-          "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "game_id": 39716,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
-          "logo_without_background_path": "teams-logos/t101_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
-          "date": "11.02.2027",
-          "team_id": 34,
-          "role": "away"
-        },
-        {
-          "name": "PGE Start Lublin",
-          "game_id": 39715,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
-          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
-          "date": "07.02.2027",
-          "team_id": 11,
-          "role": "home"
-        },
-        {
-          "name": "Dziki Warszawa",
-          "game_id": 39706,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
-          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
-          "date": "31.01.2027",
-          "team_id": 40,
-          "role": "away"
-        },
-        {
-          "name": "Legia Warszawa",
-          "game_id": 39695,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
-          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
-          "date": "23.01.2027",
-          "team_id": 37,
-          "role": "away"
-        },
-        {
-          "name": "Zastal Zielona Góra",
-          "game_id": 39689,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
-          "date": "17.01.2027",
-          "team_id": 26,
-          "role": "away"
-        },
-        {
-          "name": "Dziki Warszawa",
-          "game_id": 39679,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
-          "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
-          "date": "09.01.2027",
-          "team_id": 40,
-          "role": "home"
-        },
-        {
-          "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "game_id": 39671,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-          "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
-          "date": "02.01.2027",
-          "team_id": 6,
-          "role": "away"
-        },
-        {
-          "name": "Legia Warszawa",
-          "game_id": 39654,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
-          "logo_without_background_path": "teams-logos/t11_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
-          "date": "26.12.2026",
-          "team_id": 37,
-          "role": "home"
-        },
-        {
-          "name": "Energa Czarni Słupsk",
-          "game_id": 39645,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
-          "logo_without_background_path": "teams-logos/t3008_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
-          "date": "19.12.2026",
-          "team_id": 38,
-          "role": "home"
-        },
-        {
-          "name": "Górnik Zamek Książ Wałbrzych",
-          "game_id": 39643,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-          "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
-          "date": "13.12.2026",
-          "team_id": 19,
-          "role": "away"
-        },
-        {
-          "name": "PGE Start Lublin",
-          "game_id": 39633,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
-          "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
-          "date": "06.12.2026",
-          "team_id": 11,
-          "role": "away"
-        },
-        {
-          "name": "Anwil Włocławek",
-          "game_id": 39660,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
-          "date": "03.12.2026",
-          "team_id": 1,
-          "role": "away"
-        },
-        {
-          "name": "Energa Trefl Sopot",
-          "game_id": 39627,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
-          "logo_without_background_path": "teams-logos/t112_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
-          "date": "22.11.2026",
-          "team_id": 23,
-          "role": "home"
-        },
-        {
-          "name": "Zastal Zielona Góra",
-          "game_id": 39614,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
-          "logo_without_background_path": "teams-logos/t769_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
-          "date": "14.11.2026",
-          "team_id": 26,
-          "role": "home"
-        },
-        {
-          "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "game_id": 39607,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
-          "logo_without_background_path": "teams-logos/t101_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
-          "date": "07.11.2026",
-          "team_id": 34,
-          "role": "home"
-        },
-        {
-          "name": "Euvic GTK Gliwice",
-          "game_id": 39602,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
-          "logo_without_background_path": "teams-logos/t42_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
-          "date": "01.11.2026",
-          "team_id": 36,
-          "role": "away"
-        },
-        {
-          "name": "Enea Łaciate Astoria Bydgoszcz",
-          "game_id": 39591,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
-          "date": "24.10.2026",
-          "team_id": 7,
-          "role": "home"
-        },
-        {
-          "name": "MKS Dąbrowa Górnicza",
-          "game_id": 39586,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
-          "logo_without_background_path": "teams-logos/t71_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
-          "date": "18.10.2026",
-          "team_id": 32,
-          "role": "away"
-        },
-        {
-          "name": "King Szczecin",
-          "game_id": 39575,
-          "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
-          "logo_without_background_path": "teams-logos/t546_l1_s2027.png?v=14",
-          "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
-          "date": "10.10.2026",
-          "team_id": 31,
-          "role": "away"
-        }
-      ],
-      "points": 1,
-      "offensive_rating": 98.6,
-      "defensive_rating": 131.9,
-      "wins_percent": 0.0,
-      "small_points_per_100_possessions": 98.6,
-      "avg_small_points_scored": 70.0,
-      "avg_small_points_lost": 95.0,
-      "avg_possessions": 71.0,
-      "avg_opponents_possessions": 72.0,
-      "net_rating": -33.3,
-      "small_points_plus_minus": -25,
-      "small_points_ratio": 0.737,
       "position": 15
     },
     {
@@ -5627,6 +5599,62 @@
             ]
           },
           {
+            "team": "WKS Śląsk Wrocław",
+            "abbr": "WRO",
+            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
+            "points": 2,
+            "games": 1,
+            "wins": 1,
+            "losses": 0,
+            "small_points_scored": 82,
+            "small_points_lost": 69,
+            "small_points_plus_minus": 13,
+            "total_small_points_scored": 152,
+            "total_small_points_plus_minus": -12,
+            "total_wins": 1,
+            "total_losses": 1,
+            "games_list": [
+              {
+                "game_id": 39575,
+                "score": "82-69",
+                "win": true,
+                "opponent_abbr": "SZC",
+                "role": "away",
+                "opponent": "King Szczecin",
+                "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
+                "date": "10.10.2026 17:30"
+              }
+            ]
+          },
+          {
+            "team": "King Szczecin",
+            "abbr": "SZC",
+            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
+            "points": 1,
+            "games": 1,
+            "wins": 0,
+            "losses": 1,
+            "small_points_scored": 69,
+            "small_points_lost": 82,
+            "small_points_plus_minus": -13,
+            "total_small_points_scored": 173,
+            "total_small_points_plus_minus": 6,
+            "total_wins": 1,
+            "total_losses": 1,
+            "games_list": [
+              {
+                "game_id": 39575,
+                "score": "69-82",
+                "win": false,
+                "opponent_abbr": "WRO",
+                "role": "home",
+                "opponent": "WKS Śląsk Wrocław",
+                "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
+                "date": "10.10.2026 17:30"
+              }
+            ]
+          },
+          {
             "team": "Legia Warszawa",
             "abbr": "LEG",
             "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
@@ -5718,72 +5746,54 @@
           }
         ],
         "on_position": 2
-      }
-    ],
-    "6": [
+      },
       {
-        "step": "small_table_points",
+        "step": "small_points_plus_minus",
+        "teams": [
+          {
+            "team": "Euvic GTK Gliwice",
+            "abbr": "GLI",
+            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
+            "points": 0,
+            "games": 0,
+            "wins": 0,
+            "losses": 0,
+            "small_points_scored": 0,
+            "small_points_lost": 0,
+            "small_points_plus_minus": 0,
+            "total_small_points_scored": 153,
+            "total_small_points_plus_minus": -10,
+            "total_wins": 1,
+            "total_losses": 1,
+            "games_list": []
+          },
+          {
+            "team": "WKS Śląsk Wrocław",
+            "abbr": "WRO",
+            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
+            "points": 0,
+            "games": 0,
+            "wins": 0,
+            "losses": 0,
+            "small_points_scored": 0,
+            "small_points_lost": 0,
+            "small_points_plus_minus": 0,
+            "total_small_points_scored": 152,
+            "total_small_points_plus_minus": -12,
+            "total_wins": 1,
+            "total_losses": 1,
+            "games_list": []
+          }
+        ],
+        "on_position": 4
+      },
+      {
+        "step": "small_points_plus_minus",
         "teams": [
           {
             "team": "King Szczecin",
             "abbr": "SZC",
             "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
-            "points": 2,
-            "games": 1,
-            "wins": 1,
-            "losses": 0,
-            "small_points_scored": 104,
-            "small_points_lost": 85,
-            "small_points_plus_minus": 19,
-            "total_small_points_scored": 104,
-            "total_small_points_plus_minus": 19,
-            "total_wins": 1,
-            "total_losses": 0,
-            "games_list": [
-              {
-                "game_id": 39566,
-                "score": "104-85",
-                "win": true,
-                "opponent_abbr": "TOR",
-                "role": "away",
-                "opponent": "Arriva Lotto Twarde Pierniki Toruń",
-                "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
-                "date": "03.10.2026 15:00"
-              }
-            ]
-          },
-          {
-            "team": "Arriva Lotto Twarde Pierniki Toruń",
-            "abbr": "TOR",
-            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
-            "points": 1,
-            "games": 1,
-            "wins": 0,
-            "losses": 1,
-            "small_points_scored": 85,
-            "small_points_lost": 104,
-            "small_points_plus_minus": -19,
-            "total_small_points_scored": 129,
-            "total_small_points_plus_minus": -34,
-            "total_wins": 0,
-            "total_losses": 2,
-            "games_list": [
-              {
-                "game_id": 39566,
-                "score": "85-104",
-                "win": false,
-                "opponent_abbr": "SZC",
-                "role": "home",
-                "opponent": "King Szczecin",
-                "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
-                "date": "03.10.2026 15:00"
-              }
-            ]
-          },
-          {
-            "team": "AMW Arka Gdynia",
-            "abbr": "GDY",
-            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
             "points": 0,
             "games": 0,
             "wins": 0,
@@ -5791,16 +5801,16 @@
             "small_points_scored": 0,
             "small_points_lost": 0,
             "small_points_plus_minus": 0,
-            "total_small_points_scored": 95,
-            "total_small_points_plus_minus": 25,
+            "total_small_points_scored": 173,
+            "total_small_points_plus_minus": 6,
             "total_wins": 1,
-            "total_losses": 0,
+            "total_losses": 1,
             "games_list": []
           },
           {
-            "team": "Anwil Włocławek",
-            "abbr": "WLO",
-            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
+            "team": "Legia Warszawa",
+            "abbr": "LEG",
+            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
             "points": 0,
             "games": 0,
             "wins": 0,
@@ -5808,49 +5818,17 @@
             "small_points_scored": 0,
             "small_points_lost": 0,
             "small_points_plus_minus": 0,
-            "total_small_points_scored": 88,
-            "total_small_points_plus_minus": 1,
+            "total_small_points_scored": 166,
+            "total_small_points_plus_minus": -14,
             "total_wins": 1,
-            "total_losses": 0,
-            "games_list": []
-          },
-          {
-            "team": "Dziki Warszawa",
-            "abbr": "DZI",
-            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
-            "points": 0,
-            "games": 0,
-            "wins": 0,
-            "losses": 0,
-            "small_points_scored": 0,
-            "small_points_lost": 0,
-            "small_points_plus_minus": 0,
-            "total_small_points_scored": 102,
-            "total_small_points_plus_minus": 39,
-            "total_wins": 1,
-            "total_losses": 0,
-            "games_list": []
-          },
-          {
-            "team": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-            "abbr": "OST",
-            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
-            "points": 0,
-            "games": 0,
-            "wins": 0,
-            "losses": 0,
-            "small_points_scored": 0,
-            "small_points_lost": 0,
-            "small_points_plus_minus": 0,
-            "total_small_points_scored": 84,
-            "total_small_points_plus_minus": 5,
-            "total_wins": 1,
-            "total_losses": 0,
+            "total_losses": 1,
             "games_list": []
           }
         ],
         "on_position": 6
-      },
+      }
+    ],
+    "8": [
       {
         "step": "small_points_plus_minus",
         "teams": [
@@ -5921,12 +5899,29 @@
             "total_wins": 1,
             "total_losses": 0,
             "games_list": []
+          },
+          {
+            "team": "Arriva Lotto Twarde Pierniki Toruń",
+            "abbr": "TOR",
+            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
+            "points": 0,
+            "games": 0,
+            "wins": 0,
+            "losses": 0,
+            "small_points_scored": 0,
+            "small_points_lost": 0,
+            "small_points_plus_minus": 0,
+            "total_small_points_scored": 168,
+            "total_small_points_plus_minus": -23,
+            "total_wins": 0,
+            "total_losses": 2,
+            "games_list": []
           }
         ],
         "on_position": 8
       }
     ],
-    "12": [
+    "13": [
       {
         "step": "small_points_plus_minus",
         "teams": [
@@ -5982,23 +5977,6 @@
             "games_list": []
           },
           {
-            "team": "WKS Śląsk Wrocław",
-            "abbr": "WRO",
-            "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
-            "points": 0,
-            "games": 0,
-            "wins": 0,
-            "losses": 0,
-            "small_points_scored": 0,
-            "small_points_lost": 0,
-            "small_points_plus_minus": 0,
-            "total_small_points_scored": 70,
-            "total_small_points_plus_minus": -25,
-            "total_wins": 0,
-            "total_losses": 1,
-            "games_list": []
-          },
-          {
             "team": "Energa Trefl Sopot",
             "abbr": "SOP",
             "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
@@ -6016,7 +5994,7 @@
             "games_list": []
           }
         ],
-        "on_position": 12
+        "on_position": 13
       }
     ]
   }

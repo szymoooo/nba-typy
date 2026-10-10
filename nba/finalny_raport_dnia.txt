@@ -1,11 +1,44 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-10 10:11 ET) ---
-Na podstawie dzisiejszych danych (2026-10-10) z sieci:
+--- KRYTYCZNY AUDYT LIVE (2026-10-10 14:22 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych raportów na dzień 2026-10-10:
 
-### Grizzlies @ Bulls
-
+### Clippers @ Raptors -> Typ: Clippers
 *   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla Memphis Grizzlies (2026-10-10). 🏥
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla Chicago Bulls (2026-10-10). 🏥
+    *   **Clippers:** Brandon Ingram (Out) 🤕, Jordan Miller (Out) 🤕, Max Strus (Out) 🤕, Yanic Konan Niederhauser (Out) 🤕. Bradley Beal (Questionable) ❓, Kobe Sanders (Questionable) ❓.
+    *   **Raptors:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Clippers mają kilku kluczowych zawodników poza składem lub z niepewnym statusem, co znacząco osłabia zespół).
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak dostępnych danych o kontuzjach na dzień 2026-10-10 uniemożliwia rygorystyczną ocenę typowania. Bez kluczowych informacji o składach, zakład jest obarczony wysokim ryzykiem.
+### Hawks @ Pacers -> Typ: Pacers
+*   **Kluczowe braki w składach:**
+    *   **Hawks:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   **Pacers:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [✅ ZATWIERDZONY] (Brak informacji o kluczowych brakach dla obu drużyn na dzisiaj. Typ oparty na założeniu pełnych składów).
+
+### Pistons @ Wizards -> Typ: Wizards
+*   **Kluczowe braki w składach:**
+    *   **Pistons:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   **Wizards:** Tristan Vukcevic (Out) 🤕, Jamir Watkins (Out For Season) 🤕. Alex Sarr (spodziewany powrót po operacji stopy).
+*   **Werdykt:** [✅ ZATWIERDZONY] (Mimo braków w Wizards, kluczowi zawodnicy powinni być dostępni, a Pistons nie mają raportowanych kontuzji, co nie zmienia znacząco siły składu Wizards).
+
+### Timberwolves @ Heat -> Typ: Heat
+*   **Kluczowe braki w składach:**
+    *   **Timberwolves:** Donte DiVincenzo (Out) 🤕.
+    *   **Heat:** Keshad Johnson (Out) 🤕, Dru Smith (Day-to-day) ❓, Kylor Kelley (Questionable) ❓, Pelle Larsson (Illness) ❓.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Heat mają kilku zawodników z niepewnym statusem, co może wpłynąć na rotację i skuteczność drużyny).
+
+### 76ers @ Celtics -> Typ: Celtics
+*   **Kluczowe braki w składach:**
+    *   **76ers:** Ariel Hukporti (Out For Season) 🤕, Adem Bona (Out) 🤕, Dominick Barlow (Expected to miss) 🤕, Anfernee Simons (Expected to miss) 🤕, Tacko Fall (Out) 🤕. Dostępność Joela Embiida niepotwierdzona (odpoczynek przedsezonowy).
+    *   **Celtics:** Ron Harper Jr. (Dostępność niepotwierdzona) ❓, Jayson Tatum (Dostępność wymaga potwierdzenia - odpoczywał w przedsezonowym meczu) ❓, Paul George (Dostępność wymaga potwierdzenia - odpoczywał w przedsezonowym meczu) ❓, Mitchell Robinson (Dostępność wymaga potwierdzenia - odpoczywał w przedsezonowym meczu) ❓, Neemias Queta (Dostępność wymaga potwierdzenia - odpoczywał w przedsezonowym meczu) ❓, Derrick White (Dostępność wymaga potwierdzenia - odpoczywał w przedsezonowym meczu) ❓, Payton Pritchard (Dostępność wymaga potwierdzenia - odpoczywał w przedsezonowym meczu) ❓, Sam Hauser (Dostępność wymaga potwierdzenia - odpoczywał w przedsezonowym meczu) ❓.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Obie drużyny mają wielu zawodników z niepewnym statusem lub odpoczywających w preseasonie, co mocno utrudnia rzetelną ocenę).
+
+### Kings @ Warriors -> Typ: Warriors
+*   **Kluczowe braki w składach:**
+    *   **Kings:** Keegan Murray (Niepewna dostępność) ❓, Malik Monk (Odpoczynek - brak potwierdzenia na 10.10) ❓, Ben Simmons (Przygotowuje się do debiutu - potwierdzenie w toku) ❓.
+    *   **Warriors:** Jimmy Butler III (Out) 🤕, Moses Moody (Out) 🤕, Kristaps Porziņģis (Out indefinitely) 🤕.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Warriors mają poważne braki, a status kluczowych graczy Kings jest niepewny. Brak Porzingisa to duża strata).
+
+### Spurs @ Suns -> Typ: Suns
+*   **Kluczowe braki w składach:**
+    *   **Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   **Suns:** Mark Williams (Out) 🤕, Miles Bridges (Day-to-day/Questionable) ❓.
+*   **Werdykt:** [✅ ZATWIERDZONY] (Suns mają jeden kluczowy brak i jednego zawodnika z niepewnym statusem, ale biorąc pod uwagę ogólną siłę składu i dostępne gwiazdy, typ wydaje się uzasadniony).
