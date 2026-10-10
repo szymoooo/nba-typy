@@ -1,24 +1,44 @@
 {
-  "generated_at": "2026-10-09T14:58:16.308605",
-  "date": "2026-10-09",
+  "generated_at": "2026-10-10T01:16:38.649070",
+  "date": "2026-10-10",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Science City Jena @ Telekom Baskets Bonn",
-      "phase": "Hauptrunde",
-      "ai_pick": "Telekom Baskets Bonn",
-      "formula_pick": "Telekom Baskets Bonn",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Telekom Baskets Bonn, grając u siebie, ma nieco lepszy bilans w początkowej fazie sezonu BBL 2026/27 (2-1) w porównaniu do Science City Jena (2-3). Chociaż Jena przystępuje do tego meczu po dwóch zwycięstwach z rzędu w BBL, Bonn będzie korzystać z przewagi własnego parkietu i posiada silne trio ofensywne. Kluczowi gracze Jeny, Terrence Edwards Jr. i Ira Lee, będą musieli utrzymać wysoką skuteczność punktową, aby sprostać Bonn na ich terenie.",
-      "key_factors": [
-        "Przewaga własnego parkietu dla Telekom Baskets Bonn",
-        "Nieco lepszy ogólny bilans Telekom Baskets Bonn (2-1) w sezonie 2026/27 BBL",
-        "Dobra forma Science City Jena w ostatnich dwóch meczach (2 zwycięstwa z rzędu)",
-        "Brak kontuzji kluczowych graczy w obu drużynach"
-      ],
-      "injury_notes": "Brak istotnych braków. Pierre Brooks II nie gra już dla Science City Jena z przyczyn sportowych."
+      "matchup": "FC Bayern München Basketball @ NINERS Chemnitz",
+      "ai_pick": null,
+      "formula_pick": "NINERS Chemnitz",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Fitness First Würzburg Baskets @ ROSTOCK SEAWOLVES",
+      "ai_pick": null,
+      "formula_pick": "ROSTOCK SEAWOLVES",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "SYNTAINICS MBC @ BMA365 Bamberg Baskets",
+      "ai_pick": null,
+      "formula_pick": "BMA365 Bamberg Baskets",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Phoenix Hagen @ EWE Baskets Oldenburg",
+      "ai_pick": null,
+      "formula_pick": "EWE Baskets Oldenburg",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "ALBA BERLIN @ VET-CONCEPT Gladiators Trier",
+      "ai_pick": null,
+      "formula_pick": "VET-CONCEPT Gladiators Trier",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "ratiopharm ulm @ RASTA Vechta",
+      "ai_pick": null,
+      "formula_pick": "RASTA Vechta",
+      "note": "AI fallback"
     }
   ]
 }
