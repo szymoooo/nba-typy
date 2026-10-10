@@ -2,12 +2,12 @@
   "season_team_id": 4085,
   "name": "Dziki Warszawa",
   "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
-  "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=5",
+  "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
   "team": {
     "team_id": 40,
     "name": "Dziki Warszawa",
     "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
-    "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=5",
+    "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
     "pzkosz_id": "2277",
     "abbreviation": "DZI"
   },
@@ -29,217 +29,216 @@
     }
   },
   "avg_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 102.0,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 26.0,
+    "f2a": 47.0,
+    "f2p": 55.3,
+    "f3m": 10.0,
+    "f3a": 33.0,
+    "f3p": 30.3,
+    "ftm": 20.0,
+    "fta": 24.0,
+    "ftp": 83.3,
+    "fgm": 36.0,
+    "fga": 80.0,
+    "fgp": 45.0,
+    "rebounds": 48.0,
+    "off_rebounds": 20.0,
+    "def_rebounds": 28.0,
+    "assists": 26.0,
+    "fouls": 21.0,
+    "fouls_on": 25.0,
+    "turnovers": 12.0,
+    "steals": 12.0,
+    "blocks": 3.0,
+    "blocks_on": 8.0,
+    "eval": 131.0,
+    "plus_minus": 195.0
   },
   "stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 102.0,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 26.0,
+    "f2a": 47.0,
+    "f2p": 55.3,
+    "f3m": 10.0,
+    "f3a": 33.0,
+    "f3p": 30.3,
+    "ftm": 20.0,
+    "fta": 24.0,
+    "ftp": 83.3,
+    "fgm": 36.0,
+    "fga": 80.0,
+    "fgp": 45.0,
+    "rebounds": 48.0,
+    "off_rebounds": 20.0,
+    "def_rebounds": 28.0,
+    "assists": 26.0,
+    "fouls": 21.0,
+    "fouls_on": 25.0,
+    "turnovers": 12.0,
+    "steals": 12.0,
+    "blocks": 3.0,
+    "blocks_on": 8.0,
+    "eval": 131.0,
+    "plus_minus": 195.0
   },
   "stat_line_per_36_min": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 91.8,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 23.4,
+    "f2a": 42.3,
+    "f2p": 55.3,
+    "f3m": 9.0,
+    "f3a": 29.7,
+    "f3p": 30.3,
+    "ftm": 18.0,
+    "fta": 21.6,
+    "ftp": 83.3,
+    "fgm": 32.4,
+    "fga": 72.0,
+    "fgp": 45.0,
+    "rebounds": 43.2,
+    "off_rebounds": 18.0,
+    "def_rebounds": 25.2,
+    "assists": 23.4,
+    "fouls": 18.9,
+    "fouls_on": 22.5,
+    "turnovers": 10.8,
+    "steals": 10.8,
+    "blocks": 2.7,
+    "blocks_on": 7.2,
+    "eval": 117.9,
+    "plus_minus": 175.5
   },
   "stat_line_per_100_possessions": {
-    "points": 0.0,
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0,
-    "f2p": 0.0,
-    "f3p": 0.0,
-    "ftp": 0.0,
-    "fgp": 0.0,
-    "seconds": 0.0,
-    "possessions": 0,
-    "time": "00:00"
+    "points": 125.9,
+    "f2m": 32.1,
+    "f2a": 58.0,
+    "f3m": 12.3,
+    "f3a": 40.7,
+    "ftm": 24.7,
+    "fta": 29.6,
+    "fgm": 44.4,
+    "fga": 98.8,
+    "rebounds": 59.3,
+    "off_rebounds": 24.7,
+    "def_rebounds": 34.6,
+    "assists": 32.1,
+    "fouls": 25.9,
+    "fouls_on": 30.9,
+    "turnovers": 14.8,
+    "steals": 14.8,
+    "blocks": 3.7,
+    "blocks_on": 9.9,
+    "eval": 161.7,
+    "plus_minus": 240.7,
+    "f2p": 55.3,
+    "f3p": 30.3,
+    "ftp": 83.3,
+    "fgp": 45.0,
+    "seconds": 12000.0,
+    "possessions": 81,
+    "time": "200:00"
   },
   "advanced_stat_line": {
-    "pace": 0,
-    "bench_pts_perc": 0,
-    "starters_pts_perc": 0,
-    "lead_perc": 0,
-    "draw_perc": 0,
+    "pace": 80.5,
+    "bench_pts_perc": 51.0,
+    "starters_pts_perc": 49.0,
+    "lead_perc": 85.7,
+    "draw_perc": 4.4,
     "avg_spectators": 0,
-    "polish_pts_perc": 0,
-    "polish_time_perc": 0,
+    "polish_pts_perc": 51.0,
+    "polish_time_perc": 50.0,
     "continuation": 0,
-    "fast_break_perc": 0,
-    "avg_age": "------",
-    "avg_height": 0,
-    "ts": 0.0,
-    "drtg": 0.0,
-    "ortg": 0.0,
-    "net_rtg": 0.0,
-    "ftr": 0.0,
-    "efg": 0.0,
-    "f3r": 0.0,
-    "f2r": 0.0,
-    "tov_perc": 0.0,
-    "reb_perc": 0.0,
-    "oreb_perc": 0.0,
-    "dreb_perc": 0.0,
-    "blk_perc": 0.0,
-    "stl_perc": 0.0,
-    "ast_perc": 0.0,
-    "ast_to_tov": 0.0,
-    "hollinger_tov_perc": 0.0
+    "fast_break_perc": 20.6,
+    "avg_age": "27-140",
+    "avg_height": 197.4,
+    "ts": 56.3,
+    "drtg": 78.8,
+    "ortg": 125.9,
+    "net_rtg": 47.1,
+    "ftr": 30.0,
+    "efg": 51.2,
+    "f3r": 41.2,
+    "f2r": 58.8,
+    "tov_perc": 11.7,
+    "reb_perc": 57.1,
+    "oreb_perc": 42.6,
+    "dreb_perc": 75.7,
+    "blk_perc": 10.7,
+    "stl_perc": 14.4,
+    "ast_perc": 72.2,
+    "ast_to_tov": 2.17,
+    "hollinger_tov_perc": 9.3
   },
   "opponent_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 63.0,
+    "seconds": 12000.0,
+    "time": "200:00",
+    "f2m": 13.0,
+    "f2a": 28.0,
+    "f2p": 46.4,
+    "f3m": 5.0,
+    "f3a": 28.0,
+    "f3p": 17.9,
+    "ftm": 22.0,
+    "fta": 30.0,
+    "ftp": 73.3,
+    "fgm": 18.0,
+    "fga": 56.0,
+    "fgp": 32.1,
+    "rebounds": 36.0,
+    "off_rebounds": 9.0,
+    "def_rebounds": 27.0,
+    "assists": 14.0,
+    "fouls": 26.0,
+    "fouls_on": 20.0,
+    "turnovers": 23.0,
+    "steals": 3.0,
+    "blocks": 8.0,
+    "blocks_on": 3.0,
+    "eval": 55.0,
+    "plus_minus": -195.0
   },
   "opponent_avg_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 63.0,
+    "seconds": 12000.0,
+    "f2m": 13.0,
+    "f2a": 28.0,
+    "f2p": 46.4,
+    "f3m": 5.0,
+    "f3a": 28.0,
+    "f3p": 17.9,
+    "ftm": 22.0,
+    "fta": 30.0,
+    "ftp": 73.3,
+    "fgm": 18.0,
+    "fga": 56.0,
+    "fgp": 32.1,
+    "rebounds": 36.0,
+    "off_rebounds": 9.0,
+    "def_rebounds": 27.0,
+    "assists": 14.0,
+    "fouls": 26.0,
+    "fouls_on": 20.0,
+    "turnovers": 23.0,
+    "steals": 3.0,
+    "blocks": 8.0,
+    "blocks_on": 3.0,
+    "eval": 55.0,
+    "plus_minus": -195.0
   },
-  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
-  "total_games_played": 0,
+  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
+  "total_games_played": 1,
   "games": [
     {
       "role": "AWAY",
-      "won": null,
+      "won": true,
       "legacy_issue": false,
       "game": {
         "league": {
@@ -251,37 +250,80 @@
         "season": "2027",
         "game_id": 39565,
         "home_team": {
-          "score": 0,
+          "score": 63,
           "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
           "abbr": "SOP",
           "team_id": 23
         },
         "away_team": {
-          "score": 0,
+          "score": 102,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
         },
         "date": "2026-10-02T20:15:00",
-        "finished": false,
+        "finished": true,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "1 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Energa Trefl Sopot",
       "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
+      "stat_line": {
+        "points": 102.0,
+        "seconds": 12000.0,
+        "time": "200:00",
+        "f2m": 26.0,
+        "f2a": 47.0,
+        "f2p": 55.3,
+        "f3m": 10.0,
+        "f3a": 33.0,
+        "f3p": 30.3,
+        "ftm": 20.0,
+        "fta": 24.0,
+        "ftp": 83.3,
+        "fgm": 36.0,
+        "fga": 80.0,
+        "fgp": 45.0,
+        "rebounds": 48.0,
+        "off_rebounds": 20.0,
+        "def_rebounds": 28.0,
+        "assists": 26.0,
+        "fouls": 21.0,
+        "fouls_on": 25.0,
+        "turnovers": 12.0,
+        "steals": 12.0,
+        "blocks": 3.0,
+        "blocks_on": 8.0,
+        "eval": 125.0,
+        "plus_minus": 195.0
+      },
+      "extra_stat_line": {
+        "pts_from_turnovers": 27,
+        "pts_from_paint": 52,
+        "made_from_paint": 26,
+        "attempts_from_paint": 46,
+        "seconds_chance_pts": 11,
+        "fast_break_pts": 21,
+        "bench_pts": 52,
+        "highest_lead": 40,
+        "highest_lead_score": "53-93",
+        "highest_run": 19,
+        "highest_run_score": "43-77",
+        "changing_lead": 6,
+        "draws": 4,
+        "seconds_on_lead": 2057
+      }
     },
     {
       "role": "HOME",
@@ -299,7 +341,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -307,7 +349,7 @@
         "away_team": {
           "score": 0,
           "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
           "abbr": "LUB",
           "team_id": 11
@@ -319,13 +361,13 @@
         "overtimes_number": 0,
         "round": "2 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
-        "youtube_url": null,
+        "tv_channel": "yt",
+        "youtube_url": "https://www.youtube.com/watch?v=1A79NXz9CFM",
         "external_game_id": null
       },
       "opponent": "PGE Start Lublin",
       "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -345,7 +387,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -353,7 +395,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -365,13 +407,13 @@
         "overtimes_number": 0,
         "round": "3 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Górnik Zamek Książ Wałbrzych",
       "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -391,7 +433,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -399,7 +441,7 @@
         "away_team": {
           "score": 0,
           "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
           "abbr": "ECS",
           "team_id": 38
@@ -411,13 +453,13 @@
         "overtimes_number": 0,
         "round": "4 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -437,7 +479,7 @@
         "home_team": {
           "score": 0,
           "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
           "abbr": "LEG",
           "team_id": 37
@@ -445,25 +487,25 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
         },
-        "date": "2026-10-31T17:30:00",
+        "date": "2026-10-31T20:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "5 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Legia Warszawa",
       "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -483,7 +525,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -491,7 +533,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -509,7 +551,7 @@
       },
       "opponent": "Anwil Włocławek",
       "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -529,7 +571,7 @@
         "home_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
           "abbr": "OST",
           "team_id": 6
@@ -537,25 +579,25 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
         },
-        "date": "2026-11-15T00:00:00",
+        "date": "2026-11-15T17:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "7 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
       "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -575,7 +617,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -583,25 +625,25 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
         },
-        "date": "2026-11-22T00:00:00",
+        "date": "2026-11-22T12:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "8 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Zastal Zielona Góra",
       "opponent_team_id": 26,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -621,7 +663,7 @@
         "home_team": {
           "score": 0,
           "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
           "abbr": "GDY",
           "team_id": 9
@@ -629,7 +671,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -647,7 +689,7 @@
       },
       "opponent": "AMW Arka Gdynia",
       "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -667,7 +709,7 @@
         "home_team": {
           "score": 0,
           "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "abbr": "SZC",
           "team_id": 31
@@ -675,7 +717,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -693,7 +735,7 @@
       },
       "opponent": "King Szczecin",
       "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -713,7 +755,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -721,7 +763,7 @@
         "away_team": {
           "score": 0,
           "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
           "abbr": "DAB",
           "team_id": 32
@@ -739,7 +781,7 @@
       },
       "opponent": "MKS Dąbrowa Górnicza",
       "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -759,7 +801,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -767,7 +809,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -785,7 +827,7 @@
       },
       "opponent": "Enea Łaciate Astoria Bydgoszcz",
       "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -805,7 +847,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -813,7 +855,7 @@
         "away_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
           "abbr": "GLI",
           "team_id": 36
@@ -831,7 +873,7 @@
       },
       "opponent": "Euvic GTK Gliwice",
       "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -851,7 +893,7 @@
         "home_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
           "abbr": "TOR",
           "team_id": 34
@@ -859,7 +901,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -877,7 +919,7 @@
       },
       "opponent": "Arriva Lotto Twarde Pierniki Toruń",
       "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -897,7 +939,7 @@
         "home_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
           "abbr": "WRO",
           "team_id": 5
@@ -905,7 +947,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -923,7 +965,7 @@
       },
       "opponent": "WKS Śląsk Wrocław",
       "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -943,7 +985,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -951,7 +993,7 @@
         "away_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
           "abbr": "TOR",
           "team_id": 34
@@ -969,7 +1011,7 @@
       },
       "opponent": "Arriva Lotto Twarde Pierniki Toruń",
       "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -989,7 +1031,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -997,7 +1039,7 @@
         "away_team": {
           "score": 0,
           "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "abbr": "SZC",
           "team_id": 31
@@ -1015,7 +1057,7 @@
       },
       "opponent": "King Szczecin",
       "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1035,7 +1077,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1043,7 +1085,7 @@
         "away_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
           "abbr": "WRO",
           "team_id": 5
@@ -1061,7 +1103,7 @@
       },
       "opponent": "WKS Śląsk Wrocław",
       "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1081,7 +1123,7 @@
         "home_team": {
           "score": 0,
           "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
           "abbr": "ECS",
           "team_id": 38
@@ -1089,7 +1131,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1107,7 +1149,7 @@
       },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1127,7 +1169,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1135,7 +1177,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1153,7 +1195,7 @@
       },
       "opponent": "Anwil Włocławek",
       "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1173,7 +1215,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1181,7 +1223,7 @@
         "away_team": {
           "score": 0,
           "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
           "abbr": "GDY",
           "team_id": 9
@@ -1199,7 +1241,7 @@
       },
       "opponent": "AMW Arka Gdynia",
       "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1219,7 +1261,7 @@
         "home_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
           "abbr": "GLI",
           "team_id": 36
@@ -1227,7 +1269,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1245,7 +1287,7 @@
       },
       "opponent": "Euvic GTK Gliwice",
       "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1265,7 +1307,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1273,7 +1315,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1291,7 +1333,7 @@
       },
       "opponent": "Górnik Zamek Książ Wałbrzych",
       "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1311,7 +1353,7 @@
         "home_team": {
           "score": 0,
           "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
           "abbr": "DAB",
           "team_id": 32
@@ -1319,7 +1361,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1337,7 +1379,7 @@
       },
       "opponent": "MKS Dąbrowa Górnicza",
       "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1357,7 +1399,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1365,7 +1407,7 @@
         "away_team": {
           "score": 0,
           "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
           "abbr": "SOP",
           "team_id": 23
@@ -1383,7 +1425,7 @@
       },
       "opponent": "Energa Trefl Sopot",
       "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1403,7 +1445,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1411,7 +1453,7 @@
         "away_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
           "abbr": "OST",
           "team_id": 6
@@ -1429,7 +1471,7 @@
       },
       "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
       "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1449,7 +1491,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1457,7 +1499,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1475,7 +1517,7 @@
       },
       "opponent": "Zastal Zielona Góra",
       "opponent_team_id": 26,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1495,7 +1537,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1503,7 +1545,7 @@
         "away_team": {
           "score": 0,
           "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
           "abbr": "LEG",
           "team_id": 37
@@ -1521,7 +1563,7 @@
       },
       "opponent": "Legia Warszawa",
       "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1541,7 +1583,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1549,7 +1591,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1567,7 +1609,7 @@
       },
       "opponent": "Enea Łaciate Astoria Bydgoszcz",
       "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1587,7 +1629,7 @@
         "home_team": {
           "score": 0,
           "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
           "abbr": "LUB",
           "team_id": 11
@@ -1595,7 +1637,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1613,10 +1655,66 @@
       },
       "opponent": "PGE Start Lublin",
       "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     }
   ],
-  "players": []
+  "players": [
+    {
+      "player_id": 1791,
+      "name": "Michał Krasuski",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/36921.jpg"
+    },
+    {
+      "player_id": 1570,
+      "name": "Michał Aleksandrowicz",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/1996.jpg"
+    },
+    {
+      "player_id": 1524,
+      "name": "Grzegorz Kamiński",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/27552.jpg"
+    },
+    {
+      "player_id": 1404,
+      "name": "Łukasz Frąckiewicz",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/26020.jpg"
+    },
+    {
+      "player_id": 3332,
+      "name": "Krzysztof Kempa",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/44922.jpg"
+    },
+    {
+      "player_id": 7167,
+      "name": "Quanterrius Jackson",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/116246.jpg"
+    },
+    {
+      "player_id": 18982,
+      "name": "Timothy Adetukasi",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/122787.jpg"
+    },
+    {
+      "player_id": 18983,
+      "name": "Makai Ashton",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/122786.jpg"
+    },
+    {
+      "player_id": 18984,
+      "name": "Joseph Girard III",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/122783.jpg"
+    },
+    {
+      "player_id": 18985,
+      "name": "Austin Luke",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/122784.jpg"
+    },
+    {
+      "player_id": 18986,
+      "name": "OsunBowale Osunniyi",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11257/225-225/122785.jpg"
+    }
+  ]
 }

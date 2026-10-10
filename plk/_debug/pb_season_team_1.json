@@ -2,12 +2,12 @@
   "season_team_id": 4084,
   "name": "Anwil Włocławek",
   "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-  "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=5",
+  "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
   "team": {
     "team_id": 1,
     "name": "Anwil Włocławek",
     "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-    "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=5",
+    "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
     "pzkosz_id": "33",
     "abbreviation": "WLO"
   },
@@ -29,217 +29,216 @@
     }
   },
   "avg_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 88.0,
+    "seconds": 13500.0,
+    "time": "225:00",
+    "f2m": 23.0,
+    "f2a": 44.0,
+    "f2p": 52.3,
+    "f3m": 8.0,
+    "f3a": 25.0,
+    "f3p": 32.0,
+    "ftm": 18.0,
+    "fta": 25.0,
+    "ftp": 72.0,
+    "fgm": 31.0,
+    "fga": 69.0,
+    "fgp": 44.9,
+    "rebounds": 36.0,
+    "off_rebounds": 11.0,
+    "def_rebounds": 25.0,
+    "assists": 24.0,
+    "fouls": 21.0,
+    "fouls_on": 23.0,
+    "turnovers": 12.0,
+    "steals": 8.0,
+    "blocks": 1.0,
+    "blocks_on": 5.0,
+    "eval": 100.0,
+    "plus_minus": 5.0
   },
   "stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 88.0,
+    "seconds": 13500.0,
+    "time": "225:00",
+    "f2m": 23.0,
+    "f2a": 44.0,
+    "f2p": 52.3,
+    "f3m": 8.0,
+    "f3a": 25.0,
+    "f3p": 32.0,
+    "ftm": 18.0,
+    "fta": 25.0,
+    "ftp": 72.0,
+    "fgm": 31.0,
+    "fga": 69.0,
+    "fgp": 44.9,
+    "rebounds": 36.0,
+    "off_rebounds": 11.0,
+    "def_rebounds": 25.0,
+    "assists": 24.0,
+    "fouls": 21.0,
+    "fouls_on": 23.0,
+    "turnovers": 12.0,
+    "steals": 8.0,
+    "blocks": 1.0,
+    "blocks_on": 5.0,
+    "eval": 100.0,
+    "plus_minus": 5.0
   },
   "stat_line_per_36_min": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 70.4,
+    "seconds": 13500.0,
+    "time": "225:00",
+    "f2m": 18.4,
+    "f2a": 35.2,
+    "f2p": 52.3,
+    "f3m": 6.4,
+    "f3a": 20.0,
+    "f3p": 32.0,
+    "ftm": 14.4,
+    "fta": 20.0,
+    "ftp": 72.0,
+    "fgm": 24.8,
+    "fga": 55.2,
+    "fgp": 44.9,
+    "rebounds": 28.8,
+    "off_rebounds": 8.8,
+    "def_rebounds": 20.0,
+    "assists": 19.2,
+    "fouls": 16.8,
+    "fouls_on": 18.4,
+    "turnovers": 9.6,
+    "steals": 6.4,
+    "blocks": 0.8,
+    "blocks_on": 4.0,
+    "eval": 80.0,
+    "plus_minus": 4.0
   },
   "stat_line_per_100_possessions": {
-    "points": 0.0,
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0,
-    "f2p": 0.0,
-    "f3p": 0.0,
-    "ftp": 0.0,
-    "fgp": 0.0,
-    "seconds": 0.0,
-    "possessions": 0,
-    "time": "00:00"
+    "points": 112.8,
+    "f2m": 29.5,
+    "f2a": 56.4,
+    "f3m": 10.3,
+    "f3a": 32.1,
+    "ftm": 23.1,
+    "fta": 32.1,
+    "fgm": 39.7,
+    "fga": 88.5,
+    "rebounds": 46.2,
+    "off_rebounds": 14.1,
+    "def_rebounds": 32.1,
+    "assists": 30.8,
+    "fouls": 26.9,
+    "fouls_on": 29.5,
+    "turnovers": 15.4,
+    "steals": 10.3,
+    "blocks": 1.3,
+    "blocks_on": 6.4,
+    "eval": 128.2,
+    "plus_minus": 6.4,
+    "f2p": 52.3,
+    "f3p": 32.0,
+    "ftp": 72.0,
+    "fgp": 44.9,
+    "seconds": 13500.0,
+    "possessions": 78,
+    "time": "225:00"
   },
   "advanced_stat_line": {
-    "pace": 0,
-    "bench_pts_perc": 0,
-    "starters_pts_perc": 0,
-    "lead_perc": 0,
-    "draw_perc": 0,
-    "avg_spectators": 0,
-    "polish_pts_perc": 0,
-    "polish_time_perc": 0,
-    "continuation": 0,
-    "fast_break_perc": 0,
-    "avg_age": "------",
-    "avg_height": 0,
-    "ts": 0.0,
-    "drtg": 0.0,
-    "ortg": 0.0,
-    "net_rtg": 0.0,
-    "ftr": 0.0,
-    "efg": 0.0,
-    "f3r": 0.0,
-    "f2r": 0.0,
-    "tov_perc": 0.0,
-    "reb_perc": 0.0,
-    "oreb_perc": 0.0,
-    "dreb_perc": 0.0,
-    "blk_perc": 0.0,
-    "stl_perc": 0.0,
-    "ast_perc": 0.0,
-    "ast_to_tov": 0.0,
-    "hollinger_tov_perc": 0.0
+    "pace": 69.3,
+    "bench_pts_perc": 27.3,
+    "starters_pts_perc": 72.7,
+    "lead_perc": 55.1,
+    "draw_perc": 10.4,
+    "avg_spectators": 3417.0,
+    "polish_pts_perc": 25.0,
+    "polish_time_perc": 28.3,
+    "continuation": 1.51,
+    "fast_break_perc": 20.5,
+    "avg_age": "29-264",
+    "avg_height": 196.4,
+    "ts": 55.0,
+    "drtg": 111.5,
+    "ortg": 112.8,
+    "net_rtg": 1.3,
+    "ftr": 36.2,
+    "efg": 50.7,
+    "f3r": 36.2,
+    "f2r": 63.8,
+    "tov_perc": 13.0,
+    "reb_perc": 48.0,
+    "oreb_perc": 28.2,
+    "dreb_perc": 69.4,
+    "blk_perc": 2.3,
+    "stl_perc": 10.0,
+    "ast_perc": 77.4,
+    "ast_to_tov": 2.0,
+    "hollinger_tov_perc": 10.3
   },
   "opponent_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 87.0,
+    "seconds": 13500.0,
+    "time": "225:00",
+    "f2m": 24.0,
+    "f2a": 43.0,
+    "f2p": 55.8,
+    "f3m": 9.0,
+    "f3a": 23.0,
+    "f3p": 39.1,
+    "ftm": 12.0,
+    "fta": 18.0,
+    "ftp": 66.7,
+    "fgm": 33.0,
+    "fga": 66.0,
+    "fgp": 50.0,
+    "rebounds": 39.0,
+    "off_rebounds": 11.0,
+    "def_rebounds": 28.0,
+    "assists": 16.0,
+    "fouls": 23.0,
+    "fouls_on": 21.0,
+    "turnovers": 17.0,
+    "steals": 3.0,
+    "blocks": 5.0,
+    "blocks_on": 1.0,
+    "eval": 94.0,
+    "plus_minus": -5.0
   },
   "opponent_avg_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 87.0,
+    "seconds": 13500.0,
+    "f2m": 24.0,
+    "f2a": 43.0,
+    "f2p": 55.8,
+    "f3m": 9.0,
+    "f3a": 23.0,
+    "f3p": 39.1,
+    "ftm": 12.0,
+    "fta": 18.0,
+    "ftp": 66.7,
+    "fgm": 33.0,
+    "fga": 66.0,
+    "fgp": 50.0,
+    "rebounds": 39.0,
+    "off_rebounds": 11.0,
+    "def_rebounds": 28.0,
+    "assists": 16.0,
+    "fouls": 23.0,
+    "fouls_on": 21.0,
+    "turnovers": 17.0,
+    "steals": 3.0,
+    "blocks": 5.0,
+    "blocks_on": 1.0,
+    "eval": 94.0,
+    "plus_minus": -5.0
   },
-  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
-  "total_games_played": 0,
+  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
+  "total_games_played": 1,
   "games": [
     {
       "role": "HOME",
-      "won": null,
+      "won": true,
       "legacy_issue": false,
       "game": {
         "league": {
@@ -251,26 +250,26 @@
         "season": "2027",
         "game_id": 39571,
         "home_team": {
-          "score": 0,
+          "score": 88,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
         },
         "away_team": {
-          "score": 0,
+          "score": 87,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
         },
         "date": "2026-10-05T19:00:00",
-        "finished": false,
+        "finished": true,
         "in_progress": false,
         "comment": "",
-        "overtimes_number": 0,
+        "overtimes_number": 1,
         "round": "1 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": "yt",
@@ -279,9 +278,52 @@
       },
       "opponent": "Górnik Zamek Książ Wałbrzych",
       "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
+      "stat_line": {
+        "points": 88.0,
+        "seconds": 13500.0,
+        "time": "225:00",
+        "f2m": 23.0,
+        "f2a": 44.0,
+        "f2p": 52.3,
+        "f3m": 8.0,
+        "f3a": 25.0,
+        "f3p": 32.0,
+        "ftm": 18.0,
+        "fta": 25.0,
+        "ftp": 72.0,
+        "fgm": 31.0,
+        "fga": 69.0,
+        "fgp": 44.9,
+        "rebounds": 36.0,
+        "off_rebounds": 11.0,
+        "def_rebounds": 25.0,
+        "assists": 24.0,
+        "fouls": 21.0,
+        "fouls_on": 23.0,
+        "turnovers": 12.0,
+        "steals": 8.0,
+        "blocks": 1.0,
+        "blocks_on": 5.0,
+        "eval": 98.0,
+        "plus_minus": 5.0
+      },
+      "extra_stat_line": {
+        "pts_from_turnovers": 21,
+        "pts_from_paint": 38,
+        "made_from_paint": 19,
+        "attempts_from_paint": 33,
+        "seconds_chance_pts": 7,
+        "fast_break_pts": 18,
+        "bench_pts": 24,
+        "highest_lead": 11,
+        "highest_lead_score": "26-15",
+        "highest_run": 11,
+        "highest_run_score": "57-53",
+        "changing_lead": 12,
+        "draws": 6,
+        "seconds_on_lead": 1489
+      }
     },
     {
       "role": "HOME",
@@ -299,7 +341,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -307,7 +349,7 @@
         "away_team": {
           "score": 0,
           "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
           "abbr": "ECS",
           "team_id": 38
@@ -325,7 +367,7 @@
       },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -345,7 +387,7 @@
         "home_team": {
           "score": 0,
           "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
           "abbr": "LEG",
           "team_id": 37
@@ -353,7 +395,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -371,7 +413,7 @@
       },
       "opponent": "Legia Warszawa",
       "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -391,7 +433,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -399,7 +441,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -417,7 +459,7 @@
       },
       "opponent": "Zastal Zielona Góra",
       "opponent_team_id": 26,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -437,7 +479,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -445,25 +487,25 @@
         "away_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
           "abbr": "OST",
           "team_id": 6
         },
-        "date": "2026-10-30T00:00:00",
+        "date": "2026-10-30T20:15:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "5 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
       "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -483,7 +525,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -491,7 +533,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -509,7 +551,7 @@
       },
       "opponent": "Dziki Warszawa",
       "opponent_team_id": 40,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -529,7 +571,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -537,25 +579,25 @@
         "away_team": {
           "score": 0,
           "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
           "abbr": "GDY",
           "team_id": 9
         },
-        "date": "2026-11-13T00:00:00",
+        "date": "2026-11-13T20:15:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "7 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "AMW Arka Gdynia",
       "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -575,7 +617,7 @@
         "home_team": {
           "score": 0,
           "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "abbr": "SZC",
           "team_id": 31
@@ -583,25 +625,25 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
         },
-        "date": "2026-11-21T00:00:00",
+        "date": "2026-11-21T17:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "8 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "King Szczecin",
       "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -621,7 +663,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -629,25 +671,25 @@
         "away_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
           "abbr": "WRO",
           "team_id": 5
         },
-        "date": "2026-12-03T00:00:00",
+        "date": "2026-12-03T20:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "13 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "WKS Śląsk Wrocław",
       "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -667,7 +709,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -675,7 +717,7 @@
         "away_team": {
           "score": 0,
           "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
           "abbr": "DAB",
           "team_id": 32
@@ -693,7 +735,7 @@
       },
       "opponent": "MKS Dąbrowa Górnicza",
       "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -713,7 +755,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -721,25 +763,25 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
         },
-        "date": "2026-12-12T00:00:00",
+        "date": "2026-12-12T17:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "10 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Enea Łaciate Astoria Bydgoszcz",
       "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -759,7 +801,7 @@
         "home_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
           "abbr": "GLI",
           "team_id": 36
@@ -767,7 +809,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -785,7 +827,7 @@
       },
       "opponent": "Euvic GTK Gliwice",
       "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -805,7 +847,7 @@
         "home_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
           "abbr": "TOR",
           "team_id": 34
@@ -813,7 +855,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -831,7 +873,7 @@
       },
       "opponent": "Arriva Lotto Twarde Pierniki Toruń",
       "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -851,7 +893,7 @@
         "home_team": {
           "score": 0,
           "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
           "abbr": "SOP",
           "team_id": 23
@@ -859,7 +901,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -877,7 +919,7 @@
       },
       "opponent": "Energa Trefl Sopot",
       "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -897,7 +939,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -905,7 +947,7 @@
         "away_team": {
           "score": 0,
           "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
           "abbr": "LUB",
           "team_id": 11
@@ -923,7 +965,7 @@
       },
       "opponent": "PGE Start Lublin",
       "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -943,7 +985,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -951,7 +993,7 @@
         "away_team": {
           "score": 0,
           "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
           "abbr": "SOP",
           "team_id": 23
@@ -969,7 +1011,7 @@
       },
       "opponent": "Energa Trefl Sopot",
       "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -989,7 +1031,7 @@
         "home_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
           "abbr": "OST",
           "team_id": 6
@@ -997,7 +1039,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1015,7 +1057,7 @@
       },
       "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
       "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1035,7 +1077,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1043,7 +1085,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1061,7 +1103,7 @@
       },
       "opponent": "Zastal Zielona Góra",
       "opponent_team_id": 26,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1081,7 +1123,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1089,7 +1131,7 @@
         "away_team": {
           "score": 0,
           "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
           "abbr": "LEG",
           "team_id": 37
@@ -1107,7 +1149,7 @@
       },
       "opponent": "Legia Warszawa",
       "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1127,7 +1169,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1135,7 +1177,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1153,7 +1195,7 @@
       },
       "opponent": "Dziki Warszawa",
       "opponent_team_id": 40,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1173,7 +1215,7 @@
         "home_team": {
           "score": 0,
           "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
           "abbr": "LUB",
           "team_id": 11
@@ -1181,7 +1223,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1199,7 +1241,7 @@
       },
       "opponent": "PGE Start Lublin",
       "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1219,7 +1261,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1227,7 +1269,7 @@
         "away_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
           "abbr": "TOR",
           "team_id": 34
@@ -1245,7 +1287,7 @@
       },
       "opponent": "Arriva Lotto Twarde Pierniki Toruń",
       "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1265,7 +1307,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1273,7 +1315,7 @@
         "away_team": {
           "score": 0,
           "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "abbr": "SZC",
           "team_id": 31
@@ -1291,7 +1333,7 @@
       },
       "opponent": "King Szczecin",
       "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1311,7 +1353,7 @@
         "home_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
           "abbr": "WRO",
           "team_id": 5
@@ -1319,7 +1361,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1337,7 +1379,7 @@
       },
       "opponent": "WKS Śląsk Wrocław",
       "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1357,7 +1399,7 @@
         "home_team": {
           "score": 0,
           "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
           "abbr": "ECS",
           "team_id": 38
@@ -1365,7 +1407,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1383,7 +1425,7 @@
       },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1403,7 +1445,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1411,7 +1453,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1429,7 +1471,7 @@
       },
       "opponent": "Enea Łaciate Astoria Bydgoszcz",
       "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1449,7 +1491,7 @@
         "home_team": {
           "score": 0,
           "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
           "abbr": "GDY",
           "team_id": 9
@@ -1457,7 +1499,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1475,7 +1517,7 @@
       },
       "opponent": "AMW Arka Gdynia",
       "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1495,7 +1537,7 @@
         "home_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1503,7 +1545,7 @@
         "away_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
           "abbr": "GLI",
           "team_id": 36
@@ -1521,7 +1563,7 @@
       },
       "opponent": "Euvic GTK Gliwice",
       "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1541,7 +1583,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1549,7 +1591,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1567,7 +1609,7 @@
       },
       "opponent": "Górnik Zamek Książ Wałbrzych",
       "opponent_team_id": 19,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1587,7 +1629,7 @@
         "home_team": {
           "score": 0,
           "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
           "abbr": "DAB",
           "team_id": 32
@@ -1595,7 +1637,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1613,10 +1655,71 @@
       },
       "opponent": "MKS Dąbrowa Górnicza",
       "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     }
   ],
-  "players": []
+  "players": [
+    {
+      "player_id": 1117,
+      "name": "Dawid Słupiński",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/33/225-225/1803.jpg"
+    },
+    {
+      "player_id": 18152,
+      "name": "Samuel Hines Jr",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/33/225-225/120567.jpg"
+    },
+    {
+      "player_id": 18957,
+      "name": "Wiktor Szcześko",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/9539/225-225/121990.png"
+    },
+    {
+      "player_id": 19027,
+      "name": "Lennard Freeman",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/33/225-225/123717.jpg"
+    },
+    {
+      "player_id": 19028,
+      "name": "Hans Vanwijn",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/33/225-225/123716.jpg"
+    },
+    {
+      "player_id": 19029,
+      "name": "Deon Edwin",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/33/225-225/123857.jpg"
+    },
+    {
+      "player_id": 1647,
+      "name": "Mateusz Szlachetka",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/33/225-225/31651.jpg"
+    },
+    {
+      "player_id": 1592,
+      "name": "Adam Brenk",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/33/225-225/3737.jpg"
+    },
+    {
+      "player_id": 2129,
+      "name": "Bartosz Łazarski",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/33/225-225/51321.jpg"
+    },
+    {
+      "player_id": 3776,
+      "name": "Kacper Pabijan",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/9539/225-225/68835.jpg"
+    },
+    {
+      "player_id": 2150,
+      "name": "Szymon Wójcik",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/33/225-225/24550.jpg"
+    },
+    {
+      "player_id": 2342,
+      "name": "Emmanuel Lecomte",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/33/225-225/108689.jpg"
+    }
+  ]
 }

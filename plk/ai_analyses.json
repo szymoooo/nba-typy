@@ -1,46 +1,40 @@
 {
-  "generated_at": "2026-10-09T23:26:47.683348",
-  "date": "2026-10-10",
+  "generated_at": "2026-10-10T23:49:32.181022",
+  "date": "2026-10-11",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Arriva Lotto Twarde Pierniki Toruń @ MKS Dąbrowa Górnicza",
+      "matchup": "Energa Trefl Sopot @ AMW Arka Gdynia",
       "phase": "Runda Zasadnicza",
       "round": "2 kolejka",
-      "date": "2026-10-10T15:00:00",
-      "ai_pick": "MKS Dąbrowa Górnicza",
-      "formula_pick": "MKS Dąbrowa Górnicza",
+      "date": "2026-10-11T12:30:00",
+      "ai_pick": "AMW Arka Gdynia",
+      "formula_pick": "AMW Arka Gdynia",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "MKS Dąbrowa Górnicza rozpoczęła sezon od przekonującego zwycięstwa, prezentując solidną obronę i wysokie wskaźniki efektywności NetRtg. Ich dzisiejszy rywal, Arriva Lotto Twarde Pierniki Toruń, doznał dotkliwej porażki w pierwszym meczu i zmaga się z kontuzją Maksymiliana Wilczka, co dodatkowo osłabia ich skład. Przewaga własnego parkietu również będzie atutem dla MKS Dąbrowa Górnicza.",
+      "reasoning": "AMW Arka Gdynia rozpoczęła sezon od przekonującego zwycięstwa u siebie, prezentując znacznie lepsze statystyki ofensywne i defensywne. Energa Trefl Sopot weszła w sezon z wysoką porażką i dodatkowo osłabiona jest brakiem Michała Michalaka, co znacząco wpływa na ich potencjał. Przewaga własnego parkietu również będzie atutem dla Arki.",
       "key_factors": [
-        "Lepsza forma MKS Dąbrowa Górnicza na początku sezonu (1-0 vs 0-1).",
-        "Znacznie lepsze wskaźniki zaawansowane MKS (NetRtg +12.1 vs -24.3).",
-        "Przewaga własnego parkietu dla MKS Dąbrowa Górnicza.",
-        "Kontuzja Maksymiliana Wilczka w zespole Arriva Lotto Twarde Pierniki Toruń."
+        "Silna forma AMW Arki Gdynia w pierwszym meczu sezonu.",
+        "Znacznie lepsze wskaźniki efektywności (NetRtg, ORtg, DRtg) AMW Arki Gdynia.",
+        "Brak kontuzjowanego lidera Michała Michalaka w Energa Treflu Sopot.",
+        "Przewaga własnego parkietu dla AMW Arki Gdynia."
       ],
-      "injury_notes": "Arriva Lotto Twarde Pierniki Toruń: Maksymilian Wilczek jest wykluczony z gry z powodu kontuzji doznanej przed sezonem 2026/2027. MKS Dąbrowa Górnicza: Brak istotnych braków. Brak aktualnych doniesień o kontuzjach kluczowych zawodników. ",
+      "injury_notes": "AMW Arka Gdynia bez Jarosława Zyskowskiego (kontuzja kolana, pauzuje na początku sezonu). Energa Trefl Sopot bez Michała Michalaka (kontuzja, wykluczony z dzisiejszego meczu).",
       "agreement_with_odds": "no_odds"
     },
     {
-      "matchup": "WKS Śląsk Wrocław @ King Szczecin",
-      "phase": "Runda Zasadnicza",
-      "round": "2 kolejka",
-      "date": "2026-10-10T17:30:00",
-      "ai_pick": "King Szczecin",
-      "formula_pick": "King Szczecin",
-      "agreement": true,
-      "confidence": 9,
-      "reasoning": "King Szczecin rozpoczyna ten mecz z dużą pewnością siebie po dominującym zwycięstwie w pierwszej kolejce Orlen Basket Ligi. Ich zaawansowane statystyki, w tym znacznie wyższe NetRtg, eFG% i TS%, wskazują na zdecydowanie bardziej efektywną grę po obu stronach parkietu w porównaniu do WKS Śląska Wrocław, który odnotował znaczącą porażkę w swoim inauguracyjnym spotkaniu ligowym. Dodatkowo, King Szczecin będzie gospodarzem tego meczu, co stanowi istotną przewagę.",
-      "key_factors": [
-        "Dominująca forma Kinga Szczecin w pierwszym meczu sezonu PLK",
-        "Znacznie lepsze wskaźniki efektywności (NetRtg, eFG%, TS%) Kinga Szczecin",
-        "Przewaga własnego parkietu dla Kinga Szczecin"
-      ],
-      "injury_notes": "Brak istotnych braków po obu stronach, zgodnie z najnowszymi doniesieniami koszykarskimi.",
-      "agreement_with_odds": "no_odds"
+      "matchup": "PGE Start Lublin @ Dziki Warszawa",
+      "ai_pick": null,
+      "formula_pick": "Dziki Warszawa",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Energa Czarni Słupsk @ Anwil Włocławek",
+      "ai_pick": null,
+      "formula_pick": "Anwil Włocławek",
+      "note": "AI fallback"
     }
   ]
 }
