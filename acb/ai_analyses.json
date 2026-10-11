@@ -1,38 +1,41 @@
 {
-  "generated_at": "2026-10-11T10:10:27.918374",
+  "generated_at": "2026-10-11T14:37:45.944076",
   "date": "2026-10-11",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "La Laguna Tenerife @ UCAM Murcia",
+      "matchup": "Joventut @ Baskonia",
       "phase": "Regular Season",
-      "ai_pick": "UCAM Murcia",
-      "formula_pick": "UCAM Murcia",
+      "ai_pick": "Baskonia",
+      "formula_pick": "Baskonia",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "UCAM Murcia gra u siebie i ostatnio pokonała silną Barcelonę w Lidze Endesa, co świadczy o dobrej formie domowej. La Laguna Tenerife rozgrywa trzeci mecz z rzędu na wyjeździe w krótkim czasie, co może wpłynąć na ich zmęczenie. Dodatkowo, UCAM Murcia ma przewagę własnego boiska, co jest istotnym czynnikiem w sezonie regularnym.",
+      "reasoning": "Baskonia rozpoczela sezon ACB z bilansem 2-0 i gra u siebie, co jest kluczowym czynnikiem. Chociaż Joventut pokonał Baskonię w Supercopie, to ich start w Lidze Endesa był trudniejszy (0-1). Forma Nicolasa Laprovittoli dla Joventutu jest wysoka, ale kwestia Markusa Howarda w Baskonii może wpłynąć na ich dynamikę.",
       "key_factors": [
-        "Przewaga własnego boiska UCAM Murcia",
-        "Dobra forma UCAM Murcia u siebie (zwycięstwo nad Barceloną)",
-        "Zmęczenie La Laguna Tenerife po serii meczów wyjazdowych"
+        "Baskonia ma bilans 2-0 w obecnym sezonie ACB.",
+        "Baskonia gra mecz u siebie w Fernando Buesa Arena.",
+        "Joventut pokonał Baskonię w Supercopie 2026 (96-84).",
+        "Nicolas Laprovittola (Joventut) jest w świetnej formie (26.6 pkt, 7 asyst w ostatnich meczach).",
+        "Markus Howard (Baskonia) ma niepewną przyszłość w klubie, co może wpłynąć na zespół."
       ],
-      "injury_notes": "Howard Sant-Roos (UCAM Murcia) jest kontuzjowany (rozerwanie mięśnia przywodziciela) od 23 września 2026. Rokas Giedraitis (La Laguna Tenerife) odzyskuje formę po poważnej kontuzji z poprzedniego sezonu, a Bruno Fitipaldo mógł być oszczędzany/nie w pełni sprawny po powrocie z meczów międzynarodowych."
+      "injury_notes": "Brak istotnych braków. Markus Howard z Baskonii jest w zaawansowanych rozmowach o transferze do Zenitu, a jego rola w EuroLidze została znacząco zredukowana na początku sezonu 2026-27, co może wpłynąć na jego dostępność lub nastawienie w meczach ACB. Brak aktualnych informacji o kontuzjach dla Joventutu na 11 października 2026, poza odległą informacją o Guillemie Vivesie (marzec 2026)."
     },
     {
-      "matchup": "Valencia Basket @ Barça",
+      "matchup": "Recoletas Salud San Pablo Burgos @ Surne Bilbao",
       "phase": "Regular Season",
-      "ai_pick": "Barça",
-      "formula_pick": "Barça",
+      "ai_pick": "Surne Bilbao",
+      "formula_pick": "Surne Bilbao",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Barça gra u siebie, co stanowi istotną przewagę. Valencia Basket boryka się z kilkoma kontuzjami i chorobami kluczowych zawodników, co osłabia ich skład. Mimo że Valencia jest aktualnym mistrzem ACB, osłabienia kadrowe na początku nowego sezonu mogą wpłynąć na ich występ.",
+      "reasoning": "Surne Bilbao gra u siebie, co jest znanym atutem drużyny, która historycznie jest silna na własnym parkiecie. Recoletas Salud San Pablo Burgos boryka się z kontuzjami kluczowych graczy, Vlatko Cancara i Retina Obasohana, co osłabia ich skład. Pomimo dobrej formy DJ Stewarda dla Burgos, Surne Bilbao wydaje się mieć pełniejszy skład, z kluczowymi zawodnikami takimi jak Hlinason, Frey i Hilliard prezentującymi dobrą dyspozycję.",
       "key_factors": [
-        "Kontuzje w Valencia Basket (Stefan Jovic, Amida Brimah, Mario Saint-Supery)",
-        "Przewaga własnego parkietu dla Barçy",
-        "Brak danych o istotnych kontuzjach w sekcji koszykarskiej Barçy na dzień meczu"
+        "Kontuzje Recoletas Salud San Pablo Burgos (Cancar, Obasohan)",
+        "Przewaga własnego parkietu Surne Bilbao",
+        "Aktualna forma liderów Surne Bilbao (Hlinason, Frey, Hilliard)",
+        "Wynik meczu towarzyskiego w pre-sezonie (Surne Bilbao wygrało 79-72)"
       ],
-      "injury_notes": "Valencia Basket: Stefan Jovic (zapalenie kaletki prawego łokcia) i Amida Brimah (kontuzja ścięgna podkolanowego prawej nogi) są wykluczeni z treningów. Mario Saint-Supery (choroba) był wykluczony z gry 8 października 2026. Barça: Brak danych o istotnych kontuzjach w sekcji koszykarskiej na dzień 11.10.2026."
+      "injury_notes": "Recoletas Salud San Pablo Burgos: Vlatko Cancar i Retin Obasohan są kontuzjowani i nie zagrają. Surne Bilbao: Brak istotnych braków, Tryggvi Hlinason i Darrun Hilliard byli ostatnio oszczędzani w meczu Eurocup, co sugeruje ich gotowość do gry w ACB."
     }
   ]
 }

@@ -1,26 +1,24 @@
 {
-  "generated_at": "2026-10-11T00:50:00.890261",
+  "generated_at": "2026-10-11T14:38:32.161952",
   "date": "2026-10-11",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "MHP RIESEN Ludwigsburg @ Basketball Löwen Braunschweig",
-      "ai_pick": null,
-      "formula_pick": "Basketball Löwen Braunschweig",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "Veolia Towers Hamburg @ SKYLINERS Frankfurt",
-      "ai_pick": null,
-      "formula_pick": "SKYLINERS Frankfurt",
-      "note": "AI fallback"
-    },
-    {
       "matchup": "FC Bayern München Basketball @ NINERS Chemnitz",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "FC Bayern München Basketball",
       "formula_pick": "NINERS Chemnitz",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 9,
+      "reasoning": "FC Bayern München Basketball jest niepokonany w bieżącym sezonie BBL z bilansem 4-0 i zaledwie wczoraj (10 października 2026) pokonał NINERS Chemnitz 87-83 na wyjeździe. Chemnitz ma słaby start sezonu z bilansem 2-6, co wskazuje na wyraźną różnicę w formie obu drużyn.",
+      "key_factors": [
+        "Doskonała forma FC Bayern München Basketball (4-0 w BBL 2026/27)",
+        "Bezpośrednie zwycięstwo FC Bayern nad Chemnitz (87-83) dzień przed dzisiejszym meczem",
+        "Słaby bilans NINERS Chemnitz w sezonie (2-6)",
+        "Liderzy Bayernu (Duane Washington Jr., Andreas Obst) w dobrej dyspozycji"
+      ],
+      "injury_notes": "brak istotnych brakow"
     }
   ]
 }
