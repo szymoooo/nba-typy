@@ -2,12 +2,12 @@
   "season_team_id": 4087,
   "name": "Górnik Zamek Książ Wałbrzych",
   "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-  "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=5",
+  "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
   "team": {
     "team_id": 19,
     "name": "Górnik Zamek Książ Wałbrzych",
     "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
-    "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=5",
+    "logo_without_background_path": "teams-logos/t69_l1_s2027.png?v=14",
     "pzkosz_id": "69",
     "abbreviation": "WAL"
   },
@@ -29,217 +29,216 @@
     }
   },
   "avg_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 87.0,
+    "seconds": 13500.0,
+    "time": "225:00",
+    "f2m": 24.0,
+    "f2a": 43.0,
+    "f2p": 55.8,
+    "f3m": 9.0,
+    "f3a": 23.0,
+    "f3p": 39.1,
+    "ftm": 12.0,
+    "fta": 18.0,
+    "ftp": 66.7,
+    "fgm": 33.0,
+    "fga": 66.0,
+    "fgp": 50.0,
+    "rebounds": 39.0,
+    "off_rebounds": 11.0,
+    "def_rebounds": 28.0,
+    "assists": 16.0,
+    "fouls": 23.0,
+    "fouls_on": 21.0,
+    "turnovers": 17.0,
+    "steals": 3.0,
+    "blocks": 5.0,
+    "blocks_on": 1.0,
+    "eval": 94.0,
+    "plus_minus": -5.0
   },
   "stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 87.0,
+    "seconds": 13500.0,
+    "time": "225:00",
+    "f2m": 24.0,
+    "f2a": 43.0,
+    "f2p": 55.8,
+    "f3m": 9.0,
+    "f3a": 23.0,
+    "f3p": 39.1,
+    "ftm": 12.0,
+    "fta": 18.0,
+    "ftp": 66.7,
+    "fgm": 33.0,
+    "fga": 66.0,
+    "fgp": 50.0,
+    "rebounds": 39.0,
+    "off_rebounds": 11.0,
+    "def_rebounds": 28.0,
+    "assists": 16.0,
+    "fouls": 23.0,
+    "fouls_on": 21.0,
+    "turnovers": 17.0,
+    "steals": 3.0,
+    "blocks": 5.0,
+    "blocks_on": 1.0,
+    "eval": 94.0,
+    "plus_minus": -5.0
   },
   "stat_line_per_36_min": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 69.6,
+    "seconds": 13500.0,
+    "time": "225:00",
+    "f2m": 19.2,
+    "f2a": 34.4,
+    "f2p": 55.8,
+    "f3m": 7.2,
+    "f3a": 18.4,
+    "f3p": 39.1,
+    "ftm": 9.6,
+    "fta": 14.4,
+    "ftp": 66.7,
+    "fgm": 26.4,
+    "fga": 52.8,
+    "fgp": 50.0,
+    "rebounds": 31.2,
+    "off_rebounds": 8.8,
+    "def_rebounds": 22.4,
+    "assists": 12.8,
+    "fouls": 18.4,
+    "fouls_on": 16.8,
+    "turnovers": 13.6,
+    "steals": 2.4,
+    "blocks": 4.0,
+    "blocks_on": 0.8,
+    "eval": 75.2,
+    "plus_minus": -4.0
   },
   "stat_line_per_100_possessions": {
-    "points": 0.0,
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0,
-    "f2p": 0.0,
-    "f3p": 0.0,
-    "ftp": 0.0,
-    "fgp": 0.0,
-    "seconds": 0.0,
-    "possessions": 0,
-    "time": "00:00"
+    "points": 111.5,
+    "f2m": 30.8,
+    "f2a": 55.1,
+    "f3m": 11.5,
+    "f3a": 29.5,
+    "ftm": 15.4,
+    "fta": 23.1,
+    "fgm": 42.3,
+    "fga": 84.6,
+    "rebounds": 50.0,
+    "off_rebounds": 14.1,
+    "def_rebounds": 35.9,
+    "assists": 20.5,
+    "fouls": 29.5,
+    "fouls_on": 26.9,
+    "turnovers": 21.8,
+    "steals": 3.8,
+    "blocks": 6.4,
+    "blocks_on": 1.3,
+    "eval": 120.5,
+    "plus_minus": -6.4,
+    "f2p": 55.8,
+    "f3p": 39.1,
+    "ftp": 66.7,
+    "fgp": 50.0,
+    "seconds": 13500.0,
+    "possessions": 78,
+    "time": "225:00"
   },
   "advanced_stat_line": {
-    "pace": 0,
-    "bench_pts_perc": 0,
-    "starters_pts_perc": 0,
-    "lead_perc": 0,
-    "draw_perc": 0,
+    "pace": 69.3,
+    "bench_pts_perc": 52.9,
+    "starters_pts_perc": 47.1,
+    "lead_perc": 34.4,
+    "draw_perc": 10.4,
     "avg_spectators": 0,
-    "polish_pts_perc": 0,
-    "polish_time_perc": 0,
+    "polish_pts_perc": 29.9,
+    "polish_time_perc": 28.2,
     "continuation": 0,
-    "fast_break_perc": 0,
-    "avg_age": "------",
-    "avg_height": 0,
-    "ts": 0.0,
-    "drtg": 0.0,
-    "ortg": 0.0,
-    "net_rtg": 0.0,
-    "ftr": 0.0,
-    "efg": 0.0,
-    "f3r": 0.0,
-    "f2r": 0.0,
-    "tov_perc": 0.0,
-    "reb_perc": 0.0,
-    "oreb_perc": 0.0,
-    "dreb_perc": 0.0,
-    "blk_perc": 0.0,
-    "stl_perc": 0.0,
-    "ast_perc": 0.0,
-    "ast_to_tov": 0.0,
-    "hollinger_tov_perc": 0.0
+    "fast_break_perc": 16.1,
+    "avg_age": "30-002",
+    "avg_height": 198.7,
+    "ts": 58.8,
+    "drtg": 112.8,
+    "ortg": 111.5,
+    "net_rtg": -1.3,
+    "ftr": 27.3,
+    "efg": 56.8,
+    "f3r": 34.8,
+    "f2r": 65.2,
+    "tov_perc": 18.7,
+    "reb_perc": 52.0,
+    "oreb_perc": 30.6,
+    "dreb_perc": 71.8,
+    "blk_perc": 11.4,
+    "stl_perc": 3.7,
+    "ast_perc": 48.5,
+    "ast_to_tov": 0.94,
+    "hollinger_tov_perc": 15.9
   },
   "opponent_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 88.0,
+    "seconds": 13500.0,
+    "time": "225:00",
+    "f2m": 23.0,
+    "f2a": 44.0,
+    "f2p": 52.3,
+    "f3m": 8.0,
+    "f3a": 25.0,
+    "f3p": 32.0,
+    "ftm": 18.0,
+    "fta": 25.0,
+    "ftp": 72.0,
+    "fgm": 31.0,
+    "fga": 69.0,
+    "fgp": 44.9,
+    "rebounds": 36.0,
+    "off_rebounds": 11.0,
+    "def_rebounds": 25.0,
+    "assists": 24.0,
+    "fouls": 21.0,
+    "fouls_on": 23.0,
+    "turnovers": 12.0,
+    "steals": 8.0,
+    "blocks": 1.0,
+    "blocks_on": 5.0,
+    "eval": 100.0,
+    "plus_minus": 5.0
   },
   "opponent_avg_stat_line": {
-    "points": 0.0,
-    "seconds": 0.0,
-    "time": "00:00",
-    "f2m": 0.0,
-    "f2a": 0.0,
-    "f2p": 0.0,
-    "f3m": 0.0,
-    "f3a": 0.0,
-    "f3p": 0.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "ftp": 0.0,
-    "fgm": 0.0,
-    "fga": 0.0,
-    "fgp": 0.0,
-    "rebounds": 0.0,
-    "off_rebounds": 0.0,
-    "def_rebounds": 0.0,
-    "assists": 0.0,
-    "fouls": 0.0,
-    "fouls_on": 0.0,
-    "turnovers": 0.0,
-    "steals": 0.0,
-    "blocks": 0.0,
-    "blocks_on": 0.0,
-    "eval": 0.0,
-    "plus_minus": 0.0
+    "points": 88.0,
+    "seconds": 13500.0,
+    "f2m": 23.0,
+    "f2a": 44.0,
+    "f2p": 52.3,
+    "f3m": 8.0,
+    "f3a": 25.0,
+    "f3p": 32.0,
+    "ftm": 18.0,
+    "fta": 25.0,
+    "ftp": 72.0,
+    "fgm": 31.0,
+    "fga": 69.0,
+    "fgp": 44.9,
+    "rebounds": 36.0,
+    "off_rebounds": 11.0,
+    "def_rebounds": 25.0,
+    "assists": 24.0,
+    "fouls": 21.0,
+    "fouls_on": 23.0,
+    "turnovers": 12.0,
+    "steals": 8.0,
+    "blocks": 1.0,
+    "blocks_on": 5.0,
+    "eval": 100.0,
+    "plus_minus": 5.0
   },
-  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
-  "total_games_played": 0,
+  "server_image_url": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
+  "total_games_played": 1,
   "games": [
     {
       "role": "AWAY",
-      "won": null,
+      "won": false,
       "legacy_issue": false,
       "game": {
         "league": {
@@ -251,26 +250,26 @@
         "season": "2027",
         "game_id": 39571,
         "home_team": {
-          "score": 0,
+          "score": 88,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
         },
         "away_team": {
-          "score": 0,
+          "score": 87,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
         },
         "date": "2026-10-05T19:00:00",
-        "finished": false,
+        "finished": true,
         "in_progress": false,
         "comment": "",
-        "overtimes_number": 0,
+        "overtimes_number": 1,
         "round": "1 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": "yt",
@@ -279,9 +278,52 @@
       },
       "opponent": "Anwil Włocławek",
       "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
-      "stat_line": {},
-      "extra_stat_line": {}
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
+      "stat_line": {
+        "points": 87.0,
+        "seconds": 13500.0,
+        "time": "225:00",
+        "f2m": 24.0,
+        "f2a": 43.0,
+        "f2p": 55.8,
+        "f3m": 9.0,
+        "f3a": 23.0,
+        "f3p": 39.1,
+        "ftm": 12.0,
+        "fta": 18.0,
+        "ftp": 66.7,
+        "fgm": 33.0,
+        "fga": 66.0,
+        "fgp": 50.0,
+        "rebounds": 39.0,
+        "off_rebounds": 11.0,
+        "def_rebounds": 28.0,
+        "assists": 16.0,
+        "fouls": 23.0,
+        "fouls_on": 21.0,
+        "turnovers": 17.0,
+        "steals": 3.0,
+        "blocks": 5.0,
+        "blocks_on": 1.0,
+        "eval": 94.0,
+        "plus_minus": -5.0
+      },
+      "extra_stat_line": {
+        "pts_from_turnovers": 18,
+        "pts_from_paint": 40,
+        "made_from_paint": 20,
+        "attempts_from_paint": 33,
+        "seconds_chance_pts": 15,
+        "fast_break_pts": 14,
+        "bench_pts": 46,
+        "highest_lead": 7,
+        "highest_lead_score": "41-48",
+        "highest_run": 7,
+        "highest_run_score": "33-35",
+        "changing_lead": 12,
+        "draws": 6,
+        "seconds_on_lead": 929
+      }
     },
     {
       "role": "AWAY",
@@ -299,7 +341,7 @@
         "home_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
           "abbr": "OST",
           "team_id": 6
@@ -307,7 +349,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -320,12 +362,12 @@
         "round": "2 kolejka",
         "stage": "Runda Zasadnicza",
         "tv_channel": "yt",
-        "youtube_url": null,
+        "youtube_url": "https://www.youtube.com/watch?v=G2FuHiG27gw",
         "external_game_id": null
       },
       "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
       "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -345,7 +387,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -353,7 +395,7 @@
         "away_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -371,7 +413,7 @@
       },
       "opponent": "Dziki Warszawa",
       "opponent_team_id": 40,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -391,7 +433,7 @@
         "home_team": {
           "score": 0,
           "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
           "abbr": "GDY",
           "team_id": 9
@@ -399,7 +441,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -417,7 +459,7 @@
       },
       "opponent": "AMW Arka Gdynia",
       "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -437,7 +479,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -445,25 +487,25 @@
         "away_team": {
           "score": 0,
           "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "abbr": "SZC",
           "team_id": 31
         },
-        "date": "2026-10-30T00:00:00",
+        "date": "2026-10-30T18:00:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "5 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "yt",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "King Szczecin",
       "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -483,7 +525,7 @@
         "home_team": {
           "score": 0,
           "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
           "abbr": "DAB",
           "team_id": 32
@@ -491,7 +533,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -509,7 +551,7 @@
       },
       "opponent": "MKS Dąbrowa Górnicza",
       "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -529,7 +571,7 @@
         "home_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -537,25 +579,25 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
         },
-        "date": "2026-11-15T00:00:00",
+        "date": "2026-11-15T12:30:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "7 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Enea Łaciate Astoria Bydgoszcz",
       "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -575,7 +617,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -583,25 +625,25 @@
         "away_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
           "abbr": "GLI",
           "team_id": 36
         },
-        "date": "2026-11-20T00:00:00",
+        "date": "2026-11-20T20:15:00",
         "finished": false,
         "in_progress": false,
         "comment": "",
         "overtimes_number": 0,
         "round": "8 kolejka",
         "stage": "Runda Zasadnicza",
-        "tv_channel": null,
+        "tv_channel": "polsat",
         "youtube_url": null,
         "external_game_id": null
       },
       "opponent": "Euvic GTK Gliwice",
       "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -621,7 +663,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -629,7 +671,7 @@
         "away_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
           "abbr": "TOR",
           "team_id": 34
@@ -647,7 +689,7 @@
       },
       "opponent": "Arriva Lotto Twarde Pierniki Toruń",
       "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -667,7 +709,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -675,7 +717,7 @@
         "away_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
           "abbr": "WRO",
           "team_id": 5
@@ -693,7 +735,7 @@
       },
       "opponent": "WKS Śląsk Wrocław",
       "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -713,7 +755,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -721,7 +763,7 @@
         "away_team": {
           "score": 0,
           "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
           "abbr": "SOP",
           "team_id": 23
@@ -739,7 +781,7 @@
       },
       "opponent": "Energa Trefl Sopot",
       "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -759,7 +801,7 @@
         "home_team": {
           "score": 0,
           "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
           "abbr": "LUB",
           "team_id": 11
@@ -767,7 +809,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -785,7 +827,7 @@
       },
       "opponent": "PGE Start Lublin",
       "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -805,7 +847,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -813,7 +855,7 @@
         "away_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -831,7 +873,7 @@
       },
       "opponent": "Zastal Zielona Góra",
       "opponent_team_id": 26,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -851,7 +893,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -859,7 +901,7 @@
         "away_team": {
           "score": 0,
           "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
           "abbr": "ECS",
           "team_id": 38
@@ -877,7 +919,7 @@
       },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -897,7 +939,7 @@
         "home_team": {
           "score": 0,
           "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
           "abbr": "LEG",
           "team_id": 37
@@ -905,7 +947,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -923,7 +965,7 @@
       },
       "opponent": "Legia Warszawa",
       "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -943,7 +985,7 @@
         "home_team": {
           "score": 0,
           "name": "Euvic GTK Gliwice",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/2310.png",
           "abbr": "GLI",
           "team_id": 36
@@ -951,7 +993,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -969,7 +1011,7 @@
       },
       "opponent": "Euvic GTK Gliwice",
       "opponent_team_id": 36,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -989,7 +1031,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -997,7 +1039,7 @@
         "away_team": {
           "score": 0,
           "name": "Enea Łaciate Astoria Bydgoszcz",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
           "abbr": "BYD",
           "team_id": 7
@@ -1015,7 +1057,7 @@
       },
       "opponent": "Enea Łaciate Astoria Bydgoszcz",
       "opponent_team_id": 7,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1035,7 +1077,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1043,7 +1085,7 @@
         "away_team": {
           "score": 0,
           "name": "MKS Dąbrowa Górnicza",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/1490.png",
           "abbr": "DAB",
           "team_id": 32
@@ -1061,7 +1103,7 @@
       },
       "opponent": "MKS Dąbrowa Górnicza",
       "opponent_team_id": 32,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1081,7 +1123,7 @@
         "home_team": {
           "score": 0,
           "name": "Energa Trefl Sopot",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/112.png",
           "abbr": "SOP",
           "team_id": 23
@@ -1089,7 +1131,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1107,7 +1149,7 @@
       },
       "opponent": "Energa Trefl Sopot",
       "opponent_team_id": 23,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1127,7 +1169,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1135,7 +1177,7 @@
         "away_team": {
           "score": 0,
           "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
           "abbr": "OST",
           "team_id": 6
@@ -1153,7 +1195,7 @@
       },
       "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
       "opponent_team_id": 6,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1173,7 +1215,7 @@
         "home_team": {
           "score": 0,
           "name": "Zastal Zielona Góra",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s23/350-350/769.png",
           "abbr": "ZIE",
           "team_id": 26
@@ -1181,7 +1223,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1199,7 +1241,7 @@
       },
       "opponent": "Zastal Zielona Góra",
       "opponent_team_id": 26,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t769_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1219,7 +1261,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1227,7 +1269,7 @@
         "away_team": {
           "score": 0,
           "name": "Legia Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/11.png",
           "abbr": "LEG",
           "team_id": 37
@@ -1245,7 +1287,7 @@
       },
       "opponent": "Legia Warszawa",
       "opponent_team_id": 37,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1265,7 +1307,7 @@
         "home_team": {
           "score": 0,
           "name": "Dziki Warszawa",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "abbr": "DZI",
           "team_id": 40
@@ -1273,7 +1315,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1291,7 +1333,7 @@
       },
       "opponent": "Dziki Warszawa",
       "opponent_team_id": 40,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1311,7 +1353,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1319,7 +1361,7 @@
         "away_team": {
           "score": 0,
           "name": "PGE Start Lublin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
           "abbr": "LUB",
           "team_id": 11
@@ -1337,7 +1379,7 @@
       },
       "opponent": "PGE Start Lublin",
       "opponent_team_id": 11,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1357,7 +1399,7 @@
         "home_team": {
           "score": 0,
           "name": "Arriva Lotto Twarde Pierniki Toruń",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/101.png",
           "abbr": "TOR",
           "team_id": 34
@@ -1365,7 +1407,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1383,7 +1425,7 @@
       },
       "opponent": "Arriva Lotto Twarde Pierniki Toruń",
       "opponent_team_id": 34,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1403,7 +1445,7 @@
         "home_team": {
           "score": 0,
           "name": "King Szczecin",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "abbr": "SZC",
           "team_id": 31
@@ -1411,7 +1453,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1429,7 +1471,7 @@
       },
       "opponent": "King Szczecin",
       "opponent_team_id": 31,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1449,7 +1491,7 @@
         "home_team": {
           "score": 0,
           "name": "WKS Śląsk Wrocław",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/110.png",
           "abbr": "WRO",
           "team_id": 5
@@ -1457,7 +1499,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1475,7 +1517,7 @@
       },
       "opponent": "WKS Śląsk Wrocław",
       "opponent_team_id": 5,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t768_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1495,7 +1537,7 @@
         "home_team": {
           "score": 0,
           "name": "Energa Czarni Słupsk",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/8607.png",
           "abbr": "ECS",
           "team_id": 38
@@ -1503,7 +1545,7 @@
         "away_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1521,7 +1563,7 @@
       },
       "opponent": "Energa Czarni Słupsk",
       "opponent_team_id": 38,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1541,7 +1583,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1549,7 +1591,7 @@
         "away_team": {
           "score": 0,
           "name": "Anwil Włocławek",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
           "abbr": "WLO",
           "team_id": 1
@@ -1567,7 +1609,7 @@
       },
       "opponent": "Anwil Włocławek",
       "opponent_team_id": 1,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     },
@@ -1587,7 +1629,7 @@
         "home_team": {
           "score": 0,
           "name": "Górnik Zamek Książ Wałbrzych",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t69_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/11296.png",
           "abbr": "WAL",
           "team_id": 19
@@ -1595,7 +1637,7 @@
         "away_team": {
           "score": 0,
           "name": "AMW Arka Gdynia",
-          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+          "logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
           "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/121.png",
           "abbr": "GDY",
           "team_id": 9
@@ -1613,10 +1655,76 @@
       },
       "opponent": "AMW Arka Gdynia",
       "opponent_team_id": 9,
-      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=5",
+      "opponent_logo": "https://pulsbasketu.com/images/teams-logos/t121_l1_s2027.png?v=14",
       "stat_line": {},
       "extra_stat_line": {}
     }
   ],
-  "players": []
+  "players": [
+    {
+      "player_id": 19030,
+      "name": "Adam Rohosy Jr",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/123876.jpg"
+    },
+    {
+      "player_id": 1438,
+      "name": "Maciej Bojanowski",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/24962.jpg"
+    },
+    {
+      "player_id": 910,
+      "name": "Michał Nowakowski",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/26292.jpg"
+    },
+    {
+      "player_id": 746,
+      "name": "Dariusz Wyka",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/6.jpg"
+    },
+    {
+      "player_id": 3349,
+      "name": "Maciej Puchalski",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/55202.jpg"
+    },
+    {
+      "player_id": 1627,
+      "name": "Michaelyn Scott",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/66434.jpg"
+    },
+    {
+      "player_id": 2223,
+      "name": "Trey Diggs",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/99364.jpg"
+    },
+    {
+      "player_id": 2351,
+      "name": "Soprano Szelążek",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/106686.jpg"
+    },
+    {
+      "player_id": 7144,
+      "name": "Kenneth Goins",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/115408.jpg"
+    },
+    {
+      "player_id": 7151,
+      "name": "Leemet Bockler",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/116035.jpg"
+    },
+    {
+      "player_id": 7135,
+      "name": "Ronald Curry JR",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/116252.jpg"
+    },
+    {
+      "player_id": 3306,
+      "name": "Filip Drzazga",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/53320.jpg"
+    },
+    {
+      "player_id": 3333,
+      "name": "Maksymilian Karwik",
+      "image_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/zawodnicy/s29/11296/225-225/45882.jpg"
+    }
+  ]
 }
