@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-10T10:22:18.917792",
-  "date": "2026-10-10",
+  "generated_at": "2026-10-11T10:10:27.918374",
+  "date": "2026-10-11",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Casademont Zaragoza @ Leyma Coruña",
+      "matchup": "La Laguna Tenerife @ UCAM Murcia",
       "phase": "Regular Season",
-      "ai_pick": "Leyma Coruña",
-      "formula_pick": "Leyma Coruña",
+      "ai_pick": "UCAM Murcia",
+      "formula_pick": "UCAM Murcia",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Leyma Coruña gra u siebie, gdzie odniosła już jedno zwycięstwo w tym sezonie przeciwko Surne Bilbao, a ich lider Alonzo Verge prezentuje doskonałą formę. Casademont Zaragoza zmaga się z poważną kontuzją Jilsona Bango, co osłabia ich skład. Pomimo identycznego bilansu 1-1 w dotychczasowych meczach sezonu, przewaga własnego parkietu i forma kluczowego gracza Leyma Coruña dają im przewagę.",
+      "reasoning": "UCAM Murcia gra u siebie i ostatnio pokonała silną Barcelonę w Lidze Endesa, co świadczy o dobrej formie domowej. La Laguna Tenerife rozgrywa trzeci mecz z rzędu na wyjeździe w krótkim czasie, co może wpłynąć na ich zmęczenie. Dodatkowo, UCAM Murcia ma przewagę własnego boiska, co jest istotnym czynnikiem w sezonie regularnym.",
       "key_factors": [
-        "Przewaga własnego parkietu Leyma Coruña",
-        "Aktualna wysoka forma Alonzo Verge (Leyma Coruña)",
-        "Poważna kontuzja Jilsona Bango (Casademont Zaragoza)"
+        "Przewaga własnego boiska UCAM Murcia",
+        "Dobra forma UCAM Murcia u siebie (zwycięstwo nad Barceloną)",
+        "Zmęczenie La Laguna Tenerife po serii meczów wyjazdowych"
       ],
-      "injury_notes": "Casademont Zaragoza: Jilson Bango jest w końcowej fazie rekonwalescencji po poważnej kontuzji i nie ma określonej daty powrotu na parkiet. Tomas Dimsa, który wraca po długotrwałej kontuzji barku, został wypożyczony do Casademont Zaragoza, ale nie grał w tym sezonie (stan na sierpień 2026). Trener zespołu wskazał, że reszta drużyny jest generalnie zdrowa. Leyma Coruña: Brak istotnych braków kontuzji na dzień 10 października 2026 roku."
+      "injury_notes": "Howard Sant-Roos (UCAM Murcia) jest kontuzjowany (rozerwanie mięśnia przywodziciela) od 23 września 2026. Rokas Giedraitis (La Laguna Tenerife) odzyskuje formę po poważnej kontuzji z poprzedniego sezonu, a Bruno Fitipaldo mógł być oszczędzany/nie w pełni sprawny po powrocie z meczów międzynarodowych."
     },
     {
-      "matchup": "MoraBanc Andorra @ Unicaja",
+      "matchup": "Valencia Basket @ Barça",
       "phase": "Regular Season",
-      "ai_pick": "Unicaja",
-      "formula_pick": "Unicaja",
+      "ai_pick": "Barça",
+      "formula_pick": "Barça",
       "agreement": true,
-      "confidence": 6,
-      "reasoning": "Unicaja gra u siebie i choć ma poważne kontuzje kluczowych graczy, jak Alberto Díaz, Tyson Pérez i Yannick Nzosa, to jednak ich liderzy, tacy jak Willy Hernangómez i Kendrick Perry, prezentują dobrą formę, co pokazał ostatni mecz w BCL. MoraBanc Andorra również boryka się z kontuzją rozgrywającego Rafa Luz, a powroty Cam McGriffa i debiut Rati Andronikashviliego mogą nie wystarczyć, aby pokonać Unicaję na jej parkiecie, szczególnie biorąc pod uwagę, że oba zespoły szukają pierwszego zwycięstwa w lidze.",
+      "confidence": 7,
+      "reasoning": "Barça gra u siebie, co stanowi istotną przewagę. Valencia Basket boryka się z kilkoma kontuzjami i chorobami kluczowych zawodników, co osłabia ich skład. Mimo że Valencia jest aktualnym mistrzem ACB, osłabienia kadrowe na początku nowego sezonu mogą wpłynąć na ich występ.",
       "key_factors": [
-        "Poważne kontuzje kluczowych graczy Unicaji (Alberto Díaz, Tyson Pérez, Yannick Nzosa).",
-        "Przewaga własnego parkietu dla Unicaji.",
-        "Dobra forma Willy'ego Hernangómeza i Kendricka Perry'ego w Unicaji."
+        "Kontuzje w Valencia Basket (Stefan Jovic, Amida Brimah, Mario Saint-Supery)",
+        "Przewaga własnego parkietu dla Barçy",
+        "Brak danych o istotnych kontuzjach w sekcji koszykarskiej Barçy na dzień meczu"
       ],
-      "injury_notes": "Unicaja: Alberto Díaz (rozgrywający) pauzuje 6-8 tygodni (kontuzja ścięgna podkolanowego, od 27.09.2026). Tyson Pérez (skrzydłowy) po operacji ścięgna Achillesa, niepewny powrót w tym sezonie. Yannick Nzosa (center) poza grą na około trzy miesiące (złamanie V kości śródstopia, od 31.08.2026). Tyler Kalinoski (rzucający obrońca) prawdopodobnie nadal poza grą lub ograniczony, co doprowadziło do tymczasowego zakontraktowania Matta Thomasa. MoraBanc Andorra: Rafa Luz (rozgrywający) pauzuje na kilka tygodni z powodu pubalgii (od 07.10.2026). Cam McGriff (skrzydłowy) wraca do treningów i ma zadebiutować w lidze Endesa. Rati Andronikashvili (rozgrywający) jest dostępny i ma zadebiutować."
+      "injury_notes": "Valencia Basket: Stefan Jovic (zapalenie kaletki prawego łokcia) i Amida Brimah (kontuzja ścięgna podkolanowego prawej nogi) są wykluczeni z treningów. Mario Saint-Supery (choroba) był wykluczony z gry 8 października 2026. Barça: Brak danych o istotnych kontuzjach w sekcji koszykarskiej na dzień 11.10.2026."
     }
   ]
 }
