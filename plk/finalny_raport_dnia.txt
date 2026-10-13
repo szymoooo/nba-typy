@@ -1,19 +1,16 @@
---- AUDYT PLK LIVE (2026-10-13 05:04 CET) ---
-**Analiza typów PLK na dzień 2026-10-13 (audyt typu z 2026-10-12)**
+--- AUDYT PLK LIVE (2026-10-13 06:55 CET) ---
+Analiza meczu PLK na dzień 2026-10-12:
+🏀 **Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski**
 
----
+1.  **Kluczowe braki w składach:**
+    *   **Górnik Zamek Książ Wałbrzych:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-10-13. Informacje o kontuzjach z poprzedniego sezonu (2025/2026) nie są aktualne dla dzisiejszego meczu.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-10-13. Wzmianka o kontuzji w sparingu z 28.09.2026 nie zawiera nazwiska ani aktualnego statusu.
 
-**Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski**
+2.  **Aktualna forma top strzelców (dane z pierwszej kolejki PGE Basket Ligi, 2026-10-05):**
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** W meczu przeciwko Startowi Lublin (wygrana 84:79 po dogrywce), czołowymi strzelcami byli Karl Lips (19 pkt), Tajion Jones (17 pkt) i Vyacheslav Bobrov (17 pkt).
+    *   **Górnik Zamek Książ Wałbrzych:** W meczu przeciwko Anwilowi Włocławek (przegrana 87:88 po dogrywce), czołowymi strzelcami byli AJ Rohosy (20 pkt), Mike Scott (15 pkt) i Leemet Böckler (12 pkt).
 
-*   **Uwaga:** Mecz, dla którego podano typ na dzień 2026-10-12, już się odbył. Zgodnie z doniesieniami, Górnik Zamek Książ Wałbrzych pokonał na wyjeździe Tasomix Rosiek Stal Ostrów Wielkopolski wynikiem 81:65.
-
-1.  **Kluczowe braki w składach koszykarskich:**
-    *   **Górnik Zamek Książ Wałbrzych:** Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 2026-10-12. W składzie na sezon 2026/2027 znajdują się m.in. Ronald Curry JR., Trey Diggs, Kenneth Goins, Leemet Bockler, Maciej Bojanowski, Filip Drzazga i Maksymilian Karwik. Starsze informacje o kontuzjach z sezonu 2025/2026 (Marc Garcia, Maciej Puchalski, Kacper Marchewka, Barret Benson, Lovell Cabbil, Ike Smith) nie są aktualne dla obecnego sezonu.
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 2026-10-12. W składzie na sezon 2026/2027 figurują m.in. Daniel Gołębiowski, Jaylin Hunter, Tajion Jones, Karl Lips, Joshua Ashaolu, Jared Billups, Vyacheslav Bobrov i Nikodem Czoska. Kontuzja Michała Pluty z kwietnia 2026 dotyczyła końca sezonu 2025/2026.
-
-2.  **Aktualna forma top scorerów (z meczu 2026-10-12):**
-    *   **Górnik Zamek Książ Wałbrzych:** W wygranym meczu z 12 października 2026, wyróżnili się Szelążek, Nowakowski i Rohosy, będąc najlepszymi strzelcami drużyny.
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** W przegranym meczu z 12 października 2026, punkty zdobywali m.in. Gołębiowski (trafił trójkę) i Lips (dwie kolejne trójki).
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ wskazujący na zwycięstwo Tasomix Rosiek Stali Ostrów Wielkopolski okazał się błędny, ponieważ w rozegranym 12 października 2026 meczu, Górnik Zamek Książ Wałbrzych zwyciężył 81:65.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Brak potwierdzonych, kluczowych kontuzji w składach obu drużyn na dzień meczu.
+    *   Tasomix Rosiek Stal Ostrów Wielkopolski gra u siebie, w 3mk Arenie Ostrów.
+    *   Obie drużyny miały swoich top strzelców w dobrej formie w pierwszej kolejce.
