@@ -1,17 +1,20 @@
---- AUDYT PLK LIVE (2026-10-13 22:08 CET) ---
-**Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski**
+--- AUDYT PLK LIVE (2026-10-13 23:39 CET) ---
+Analiza meczu: Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski (mecz rozegrany 2026-10-12)
+
+Mecz został rozegrany 12 października 2026 roku. Tasomix Rosiek Stal Ostrów Wielkopolski przegrała z Górnikiem Zamek Książ Wałbrzych 65:81.
 
 1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim dla obu drużyn na dzień 2026-10-12.
+    *   **Górnik Zamek Książ Wałbrzych:** Ike Smith był kontuzjowany. Maksymilian Karwik i Filip Drzazga byli poza 11-osobową kadrą meczową.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów (z meczu 2026-10-12):**
-    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:**
-        *   Karl Lips: 19 punktów (w tym 2 trójki)
-        *   Tajion Jones: 17 punktów (w tym 3 trójki)
-        *   Vyacheslav Bobrov: 17 punktów (w tym 2 trójki)
-    *   🏀 **Górnik Zamek Książ Wałbrzych:**
-        *   AJ Rohosy: 20 punktów
-        *   Mike Scott: 15 punktów (w tym 2 trójki)
-        *   Leemet Böckler: 12 punktów (w tym 2 trójki)
+2.  **Aktualna forma top scorerów:**
+    *   **Górnik Zamek Książ Wałbrzych:** Brak danych z API dla tego zespołu. W rozegranym meczu skutecznie punktowali między innymi Mike Scott, Leemet Bockler, Maciej Bojanowski, Kenny Goins, Dariusz Wyka oraz wchodzący z ławki Ron Curry, Trey Diggs i AJ Rohosy, którzy "rozruszali grę w ataku". Michał Nowakowski również przyczynił się do dobrej gry w defensywie.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+        *   Karl Lips: 17.5 Pkt/mecz (lider zespołu w sezonie 2026/27). W ostatnim meczu z Górnikiem zdobył 11 punktów w pierwszych 7 minutach.
+        *   Tajion Jones: 13.5 Pkt/mecz.
+        *   Jaylin Hunter: 12 Pkt/mecz.
+        *   Daniel Gołębiowski oraz Aleksander Wiśniewski również trafiali w ostatnim spotkaniu.
 
-3.  **Werdykt:** [✅ ZATWIERDZONY] - Typ na Tasomix Rosiek Stal Ostrów Wielkopolski był prawidłowy, biorąc pod uwagę ich zwycięstwo 84:79 po dogrywce w meczu rozegranym 12 października 2026 roku.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Prognoza zakładała zwycięstwo Tasomix Rosiek Stal Ostrów Wielkopolski, jednak Górnik Zamek Książ Wałbrzych wygrał na wyjeździe 81:65. Mimo braku kilku zawodników, Górnik zaprezentował "nieprawdopodobną drugą połowę", odrabiając znaczną stratę.
+    *   Typ okazał się błędny, co świadczy o ryzyku związanym z niedocenieniem potencjału Górnika i ich zdolności do odwracania przebiegu meczu.
