@@ -1,43 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-12 23:03 ET) ---
-Dzisiejsza data to 2026-10-12. Mecze Timberwolves @ Knicks i Spurs @ Jazz są meczami przedsezonowymi, ponieważ sezon regularny NBA 2026/27 rozpoczyna się 20 października 2026 roku.
+--- KRYTYCZNY AUDYT LIVE (2026-10-12 23:48 ET) ---
+Analiza typów na podstawie danych z 2026-10-12:
 
 ---
 
-### **Timberwolves @ Knicks** -> Typ: Timberwolves
+### **Timberwolves @ Knicks**
 
 *   **Kluczowe braki w składach (2026-10-12):**
-    *   **Minnesota Timberwolves:**
-        *   Donte DiVincenzo: Kontuzja (zerwany prawy Achilles, out) 🤕.
-        *   LaMelo Ball: Status "Questionable" (odpoczynek) 😴.
-        *   Anthony Edwards: Status "Questionable" (odpoczynek) 😴.
-        *   Rudy Gobert: Status "Questionable" (odpoczynek) 😴.
-    *   **New York Knicks:**
-        *   Brak aktualnych raportów o kontuzjach kluczowych graczy.
-        *   Kevin McCullar Jr., Ochai Agbaji, Drew Eubanks, Tony Bradley: Status "Coach's Decision" (decyzja trenera) 🤔.
-
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ jest ryzykowny ze względu na brak kluczowych graczy Timberwolves (DiVincenzo kontuzjowany, a Ball, Edwards i Gobert mogą odpoczywać w meczu przedsezonowym).
+    *   **Minnesota Timberwolves:** Donte DiVincenzo (Out - noga/ścięgno Achillesa, kontuzja z playoffs 2026).
+    *   **New York Knicks:** Brak aktualnych, potwierdzonych raportów o kontuzjach typu "Out", "Questionable" czy "GTD" na dzień 2026-10-12. Jalen Brunson został dopuszczony do gry po operacji nadgarstka we wrześniu 2026. Niektórzy gracze (Kevin McCullar Jr., Ochai Agbaji, Drew Eubanks, Tony Bradley) są wymienieni jako decyzje trenera (coach's decisions) dotyczące odpoczynku, a nie kontuzji.
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Brak DiVincenzo może mieć wpływ na głębię składu Wolves na obwodzie. Chociaż Knicks nie mają potwierdzonych kontuzji, wzmianki o "coach's decisions" dla kilku graczy mogą wskazywać na rotacje w składzie, co wprowadza element niepewności. Mecz jest spotkaniem przedsezonowym, co również często wiąże się z eksperymentowaniem ze składami i ograniczonym czasem gry dla kluczowych zawodników.
 
 ---
 
-### **Spurs @ Jazz** -> Typ: Jazz
+### **Spurs @ Jazz**
 
 *   **Kluczowe braki w składach (2026-10-12):**
-    *   **San Antonio Spurs:**
-        *   Victor Wembanyama: Out (planowany odpoczynek) 😴.
-        *   De'Aaron Fox: Out (planowany odpoczynek, doświadcza również ogólnej sztywności biodra) 🤕.
-        *   Stephon Castle: Out (planowany odpoczynek) 😴.
-        *   Dylan Harper: Out (planowany odpoczynek) 😴.
-        *   Devin Vassell: Out (planowany odpoczynek) 😴.
-        *   Tobias Harris: Out (naciągnięcie łydki, opuści cały presezon, status "Questionable" na start sezonu) 🤕.
-        *   Carter Bryant: Kontuzja (kostka, monitorowany, ale wykluczony z tego meczu) 🤕.
-        *   Jayden Quaintance: Out (kontuzja kolana, rehabilitacja po zerwaniu ACL i łąkotki) 🤕.
-        *   Malik Williams: Out.
-    *   **Utah Jazz:**
-        *   Jusuf Nurkić: Out (częściowe rozdarcie płytki podeszwowej drugiego palca prawej stopy, reewaluacja za cztery tygodnie) 🤕.
-        *   Lauri Markkanen: Status "Questionable" (szyja) 🤔.
-        *   Brice Sensabaugh: Status "Questionable" (biodro) 🤔.
-        *   Kyle Filipowski: Status "Questionable" (plecy, rehabilitacja po operacji, brak ustalonej daty powrotu) 🤕.
-
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę dla Spurs i Jazz na dzień 2026-10-12.
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ jest ryzykowny, ponieważ obie drużyny mają liczne braki kadrowe, zarówno z powodu kontuzji, jak i planowanego odpoczynku kluczowych graczy w meczu przedsezonowym.
+    *   Brak aktualnych informacji o kontuzjach uniemożliwia rzetelną ocenę. Nie można zatwierdzić typu bez wiedzy o pełnej dostępności kluczowych graczy.
