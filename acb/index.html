@@ -138,11 +138,32 @@ body { background: #020817; color: #f8fafc;
         <img src="https://www.proballers.com/api/getLeagueLogo?id=30&width=300" alt="ACB PUBLIC HUB logo" class="league-logo"
              onerror="this.style.display='none'">
         <h1>ACB PUBLIC HUB</h1>
-        <div class="subtitle">Liga Endesa (ACB) · Live Scores & Public AI Model Picks — October 13, 2026</div>
+        <div class="subtitle">Liga Endesa (ACB) · Live Scores & Public AI Model Picks — October 14, 2026</div>
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('acb_140426100599296')">
+        <div class="card-header">
+            <span>19:00 CET</span><span class="click-hint">Kliknij po analizę →</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23f59e0b' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23f59e0b'>%F0%9F%8F%80</text></svg>" alt="MoraBanc Andorra"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23f59e0b' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23f59e0b'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">MoraBanc Andorra</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23f59e0b' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23f59e0b'>%F0%9F%8F%80</text></svg>" alt="Joventut"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%23f59e0b' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%23f59e0b'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Joventut</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">Joventut</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: October 13, 2026 at 21:39 &middot; Data: Sofascore / 24score
+        Last updated: October 13, 2026 at 23:45 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"acb_140426100599296": {"matchup": "MoraBanc Andorra @ Joventut", "pick": "Joventut", "reasoning": "Pomimo identycznego bilansu 0-2 w tym sezonie ACB, Joventut wykazuje lepszą formę, zdobywając niedawno Supercopa Endesa i wygrywając mecz w Basketball Champions League. Mają silną przewagę własnego boiska i korzystny bilans bezpośrednich spotkań z MoraBanc Andorra, która w swojej zapowiedzi meczu wskazuje na potrzebę poprawy gry w obronie.", "key_factors": ["Joventut zdobył Supercopa Endesa i wygrał mecz w BCL, wskazując na dobrą ogólną formę.", "Joventut gra u siebie, a ich hala jest opisywana jako szczególnie wymagająca dla przeciwników.", "Joventut ma korzystny bilans bezpośrednich spotkań z MoraBanc Andorra, zwłaszcza na własnym parkiecie (np. 101-79 w maju 2026).", "MoraBanc Andorra, zgodnie z własną zapowiedzią, dąży do pierwszej wygranej w sezonie i potrzebuje skorygować błędy defensywne."], "confidence": 8, "injury_notes": "Brak istotnych, nowych kontuzji zgłoszonych na dzień 2026-10-14 dla żadnej z drużyn. MoraBanc Andorra ma Isaaca Noguésa w fazie rekonwalescencji, co sugeruje powrót do zdrowia.", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {

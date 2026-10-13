@@ -1,41 +1,24 @@
 {
-  "generated_at": "2026-10-11T14:37:45.944076",
-  "date": "2026-10-11",
+  "generated_at": "2026-10-13T23:45:32.637152",
+  "date": "2026-10-14",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Joventut @ Baskonia",
+      "matchup": "MoraBanc Andorra @ Joventut",
       "phase": "Regular Season",
-      "ai_pick": "Baskonia",
-      "formula_pick": "Baskonia",
+      "ai_pick": "Joventut",
+      "formula_pick": "Joventut",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Baskonia rozpoczela sezon ACB z bilansem 2-0 i gra u siebie, co jest kluczowym czynnikiem. Chociaż Joventut pokonał Baskonię w Supercopie, to ich start w Lidze Endesa był trudniejszy (0-1). Forma Nicolasa Laprovittoli dla Joventutu jest wysoka, ale kwestia Markusa Howarda w Baskonii może wpłynąć na ich dynamikę.",
+      "confidence": 8,
+      "reasoning": "Pomimo identycznego bilansu 0-2 w tym sezonie ACB, Joventut wykazuje lepszą formę, zdobywając niedawno Supercopa Endesa i wygrywając mecz w Basketball Champions League. Mają silną przewagę własnego boiska i korzystny bilans bezpośrednich spotkań z MoraBanc Andorra, która w swojej zapowiedzi meczu wskazuje na potrzebę poprawy gry w obronie.",
       "key_factors": [
-        "Baskonia ma bilans 2-0 w obecnym sezonie ACB.",
-        "Baskonia gra mecz u siebie w Fernando Buesa Arena.",
-        "Joventut pokonał Baskonię w Supercopie 2026 (96-84).",
-        "Nicolas Laprovittola (Joventut) jest w świetnej formie (26.6 pkt, 7 asyst w ostatnich meczach).",
-        "Markus Howard (Baskonia) ma niepewną przyszłość w klubie, co może wpłynąć na zespół."
+        "Joventut zdobył Supercopa Endesa i wygrał mecz w BCL, wskazując na dobrą ogólną formę.",
+        "Joventut gra u siebie, a ich hala jest opisywana jako szczególnie wymagająca dla przeciwników.",
+        "Joventut ma korzystny bilans bezpośrednich spotkań z MoraBanc Andorra, zwłaszcza na własnym parkiecie (np. 101-79 w maju 2026).",
+        "MoraBanc Andorra, zgodnie z własną zapowiedzią, dąży do pierwszej wygranej w sezonie i potrzebuje skorygować błędy defensywne."
       ],
-      "injury_notes": "Brak istotnych braków. Markus Howard z Baskonii jest w zaawansowanych rozmowach o transferze do Zenitu, a jego rola w EuroLidze została znacząco zredukowana na początku sezonu 2026-27, co może wpłynąć na jego dostępność lub nastawienie w meczach ACB. Brak aktualnych informacji o kontuzjach dla Joventutu na 11 października 2026, poza odległą informacją o Guillemie Vivesie (marzec 2026)."
-    },
-    {
-      "matchup": "Recoletas Salud San Pablo Burgos @ Surne Bilbao",
-      "phase": "Regular Season",
-      "ai_pick": "Surne Bilbao",
-      "formula_pick": "Surne Bilbao",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Surne Bilbao gra u siebie, co jest znanym atutem drużyny, która historycznie jest silna na własnym parkiecie. Recoletas Salud San Pablo Burgos boryka się z kontuzjami kluczowych graczy, Vlatko Cancara i Retina Obasohana, co osłabia ich skład. Pomimo dobrej formy DJ Stewarda dla Burgos, Surne Bilbao wydaje się mieć pełniejszy skład, z kluczowymi zawodnikami takimi jak Hlinason, Frey i Hilliard prezentującymi dobrą dyspozycję.",
-      "key_factors": [
-        "Kontuzje Recoletas Salud San Pablo Burgos (Cancar, Obasohan)",
-        "Przewaga własnego parkietu Surne Bilbao",
-        "Aktualna forma liderów Surne Bilbao (Hlinason, Frey, Hilliard)",
-        "Wynik meczu towarzyskiego w pre-sezonie (Surne Bilbao wygrało 79-72)"
-      ],
-      "injury_notes": "Recoletas Salud San Pablo Burgos: Vlatko Cancar i Retin Obasohan są kontuzjowani i nie zagrają. Surne Bilbao: Brak istotnych braków, Tryggvi Hlinason i Darrun Hilliard byli ostatnio oszczędzani w meczu Eurocup, co sugeruje ich gotowość do gry w ACB."
+      "injury_notes": "Brak istotnych, nowych kontuzji zgłoszonych na dzień 2026-10-14 dla żadnej z drużyn. MoraBanc Andorra ma Isaaca Noguésa w fazie rekonwalescencji, co sugeruje powrót do zdrowia."
     }
   ]
 }

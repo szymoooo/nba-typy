@@ -1,34 +1,59 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-13 17:38 ET) ---
-Zrozumiałem. Analizuję Twoje typy na podstawie danych ze stycznia 2026 dotyczących składów oraz aktualnych raportów kontuzji z 2026-10-13.
+--- KRYTYCZNY AUDYT LIVE (2026-10-13 19:44 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z 2026-10-13, z uwzględnieniem składów ze stycznia 2026:
 
 ---
 
-### Cavaliers @ Magic -> Typ: Magic
+### **Pacers @ Thunder**
+*   **Kluczowe braki w składach (2026-10-13):**
+    *   **Pacers:**
+        *   Johnny Furphy: Out (kontuzja prawego kolana/zerwane ACL) 🩹
+        *   Tyrese Haliburton: Questionable (problem z kostką) ❓
+        *   T.J. McConnell: Questionable (nieujawniony problem) ❓
+    *   **Thunder:**
+        *   Shai Gilgeous-Alexander: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
+        *   Jalen Williams: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
+        *   Alex Caruso: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
+        *   Cason Wallace: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
+        *   Ajayi Mitchell: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
+        *   Kenrich Williams: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
+        *   Jared McCain: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
+        *   Chet Holmgren: Questionable (mięsień czworogłowy) ❓
+        *   Isaiah Hartenstein: Questionable (kostka) ❓
+        *   Jaylin Williams: Questionable (pięta) ❓
+        *   Thomas Sorber: Questionable (prawe kolano) ❓
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Thunder mają bardzo wielu kluczowych graczy na liście odpoczywających lub z kontuzjami, co drastycznie wpływa na ich skład. Pacers również borykają się z ważnymi absencjami, w tym Haliburtona. Ogromna niepewność co do składów czyni ten typ bardzo ryzykownym.
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach ze stycznia 2026, a dzisiejsze raporty nie wskazują na konkretne braki kluczowe dla meczu ze stycznia. Bez konkretnych danych z okresu meczu, trudno zweryfikować typ.)
+---
 
-### Knicks @ Raptors -> Typ: Raptors
+### **Warriors @ Lakers**
+*   **Kluczowe braki w składach (2026-10-13):**
+    *   **Warriors:**
+        *   Jimmy Butler III: Out (zerwane ACL w kolanie, powrót ok. styczeń 2027) 🩹
+        *   Moses Moody: Out (zerwane ścięgno rzepki, powrót ok. 1 grudnia) 🩹
+        *   Kristaps Porziņģis: Out (choroba, brak harmonogramu powrotu) 🤧
+        *   Al Horford: Out (odpoczynek) 😴
+    *   **Lakers:**
+        *   Luka Dončić: Out (nieujawnione) ❓
+        *   Austin Reaves: Day-to-day (kostka) ❓
+        *   Walker Kessler: Questionable (zablokowany palec) ❓
+        *   Collin Sexton: Questionable (problem z dolną częścią nogi) ❓
+        *   Ziaire Williams: Questionable (stłuczenie stopy) ❓
+        *   Arthur Kaluma: Day-to-day (dolna część ciała) ❓
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny mają poważne braki. Warriors są bez trzech kluczowych graczy rotacji i doświadczonego Horforda. Lakers mają wielu graczy z statusem "Questionable" lub "Day-to-day", w tym Dončicia, Reavesa i Kesslera. Jest zbyt wiele niepewności w składach, aby zatwierdzić ten typ.
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach ze stycznia 2026, a dzisiejsze raporty nie wskazują na konkretne braki kluczowe dla meczu ze stycznia. Bez konkretnych danych z okresu meczu, trudno zweryfikować typ.)
+---
 
-### Pacers @ Thunder -> Typ: Pacers
-
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach ze stycznia 2026, a dzisiejsze raporty nie wskazują na konkretne braki kluczowe dla meczu ze stycznia. Bez konkretnych danych z okresu meczu, trudno zweryfikować typ.)
-
-### Warriors @ Lakers -> Typ: Lakers
-
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach ze stycznia 2026, a dzisiejsze raporty nie wskazują na konkretne braki kluczowe dla meczu ze stycznia. Bez konkretnych danych z okresu meczu, trudno zweryfikować typ.)
-
-### Trail Blazers @ Kings -> Typ: Trail Blazers
-
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach ze stycznia 2026, a dzisiejsze raporty nie wskazują na konkretne braki kluczowe dla meczu ze stycznia. Bez konkretnych danych z okresu meczu, trudno zweryfikować typ.)
+### **Trail Blazers @ Kings**
+*   **Kluczowe braki w składach (2026-10-13):**
+    *   **Trail Blazers:**
+        *   Shaedon Sharpe: Out (zerwane łąkotki, spodziewany brak 6 miesięcy) 🩹
+        *   Damian Lillard: Off injury report (dostępny po odpoczynku) ✅
+        *   Robert Williams III: Off injury report (dostępny po odpoczynku) ✅
+    *   **Kings:**
+        *   Maxime Raynaud: Out (prawostronne podwichnięcie rzepki, co najmniej 2 tygodnie) 🩹
+        *   Dylan Cardwell: Out (naciągnięcie lewej łydki, co najmniej 2 tygodnie) 🩹
+        *   Domantas Sabonis: (W fazie rozruchu, nie w pełni formy) ⚙️
+        *   Keegan Murray: Day-to-day/Game-time decision (kostka) ❓
+        *   Malik Monk: Expected back (spodziewany powrót) ✅
+        *   Ben Simmons: Expected back, could make Kings debut (spodziewany powrót, możliwy debiut) ✅
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Kings mają znaczne braki w rotacji centrów (Raynaud, Cardwell out), a Domantas Sabonis może nie być w pełni gotowy. Pomimo powrotów Monka i Simmonsa, osłabiona pozycja centra i niepewny status Murraya stwarzają ryzyko. Trail Blazers są bez Sharpe'a, ale Lillard i Robert Williams są dostępni.
