@@ -1,20 +1,44 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-13 00:54 ET) ---
-Na podstawie dostępnych danych z sieci na dzień 2026-10-13:
+--- KRYTYCZNY AUDYT LIVE (2026-10-13 08:24 ET) ---
+Zgodnie z aktualnymi raportami na dzień 2026-10-13, oto analiza Twoich typów:
 
 ---
 
-### Timberwolves @ Knicks
+### **Timberwolves @ Knicks** -> Typ: Timberwolves
 
 *   **Kluczowe braki w składach:**
-    *   **Minnesota Timberwolves:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🤕
-    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🤕
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Bez aktualnych raportów o kontuzjach, trudno ocenić wpływ na składy.
+    *   **Minnesota Timberwolves:**
+        *   Anthony Edwards (SG) - Doubtful 🤕
+        *   Rudy Gobert (C) - Doubtful 🤕
+        *   Donte DiVincenzo (SG) - OUT (kontuzja Achillesa, poza grą na dłużej) ❌
+        *   Jaylen Nowell (SG) - Doubtful 🤕
+        *   Austin Rivers (SG) - Doubtful 🤕
+        *   Naz Reid (C) - Doubtful 🤕
+        *   Karl-Anthony Towns (C) - OUT (nie zagra dla Wolves, gdyż obecnie jest zawodnikiem Knicks) ❌
+    *   **New York Knicks:**
+        *   Brak aktualnych raportów (Injury Report) na tę chwilę. Kluczowi zawodnicy tacy jak Jalen Brunson, OG Anunoby i Karl-Anthony Towns (obecnie w Knicks) są zdrowi.
+
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Typowanie na Timberwolves jest **bardzo ryzykowne**, biorąc pod uwagę poważne osłabienia ich składu. Kilku kluczowych graczy, w tym lider Anthony Edwards i Rudy Gobert, jest wątpliwych do gry, a Donte DiVincenzo jest poza grą. Knicks mają pełny skład i nie zgłaszają żadnych kontuzji.
 
 ---
 
-### Spurs @ Jazz
+### **Spurs @ Jazz** -> Typ: Jazz
 
 *   **Kluczowe braki w składach:**
-    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🤕
-    *   **Utah Jazz:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🤕
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Bez aktualnych raportów o kontuzjach, trudno ocenić wpływ na składy.
+    *   **San Antonio Spurs:**
+        *   Victor Wembanyama (C/PF) - OUT (odpoczynek) ❌
+        *   De'Aaron Fox (PG) - OUT (odpoczynek / kontuzja biodra) ❌
+        *   Devin Vassell (SG/SF) - OUT (odpoczynek) ❌
+        *   Stephon Castle (SG) - OUT (odpoczynek) ❌
+        *   Dylan Harper (SG) - OUT (odpoczynek) ❌
+        *   Tobias Harris (SF/PF) - OUT (kontuzja łydki, poza grą na cały preseason) ❌
+        *   Jayden Quaintance (PF/C) - OUT (kontuzja kolana) ❌
+        *   Carter Bryant (SF) - OUT (kontuzja kostki) ❌
+        *   Malik Williams - OUT (odpoczynek) ❌
+    *   **Utah Jazz:**
+        *   Jusuf Nurkić (C) - OUT (kontuzja stopy, minimum 4 tygodnie) ❌
+        *   Kyle Filipowski (C) - OUT (kontuzja pleców, brak określonego terminu powrotu) ❌
+        *   Blake Hinson (SF) - OUT (kontuzja przywodziciela) ❌
+
+*   **Werdykt: [✅ ZATWIERDZONY]**
+    *   Mimo braków w składzie Jazz (głównie pod koszem), San Antonio Spurs są znacznie bardziej osłabieni. Wembanyama, Fox, Vassell i kilku innych kluczowych graczy Spurs pauzuje z powodu odpoczynku lub kontuzji. Jazz, z Lauri Markkanenem i Jarenem Jacksonem Jr. na czele, powinni być w stanie zdominować to spotkanie.
