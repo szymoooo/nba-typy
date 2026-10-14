@@ -1,25 +1,52 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-14 04:46 ET) ---
-Na podstawie dzisiejszych danych (2026-10-14) analizuję Twoje typy:
+--- KRYTYCZNY AUDYT LIVE (2026-10-14 09:17 ET) ---
+Analiza typów na podstawie danych z 2026-10-14:
+
+---
 
 ### Warriors @ Lakers -> Typ: Lakers
 
 *   **Kluczowe braki w składach (2026-10-14):**
-    *   **Warriors:**
-        *   Jimmy Butler III: Out (kolano, plecy, powrót ~styczeń 2027) 🩹
-        *   Moses Moody: Out (kolano, powrót ~1 grudnia) 🩹
-        *   Kristaps Porzingis: Day-to-day (nieujawniona kontuzja pleców, powrót ~21 października), status niepewny ❓
-    *   **Lakers:**
-        *   Collin Sexton: Out (problemy z dolną częścią nogi, day-to-day) 🩹
-        *   Ziaire Williams: Out (stłuczenie stopy, day-to-day) 🩹
-        *   Adou Thiero: Out (nieujawniona kontuzja/rekonwalescencja kolana, day-to-day) 🩹
-        *   Cameron Carr: Out (day-to-day) 🩹
-        *   Arthur Kaluma: Prawdopodobnie nie zagra ❓ (Chociaż 11.10 był pełny trening)
-        *   Dalton Knecht: Prawdopodobnie nie zagra ❓
-        *   Luka Doncic: Odpoczywał 13.10 w meczu preseason, brak zgłoszonej kontuzji na dziś. ✅
-        *   Walker Kessler: Zadebiutował 13.10 w preseason po kontuzji palca, więc dostępny. ✅
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny mają znaczące braki, szczególnie Lakers z kilkoma kluczowymi graczami poza składem (lub z niepewnym statusem).
+    *   **Golden State Warriors:**
+        *   Jimmy Butler III: 🤕 Out (kontuzja kolana), przewidywana nieobecność do drugiej połowy sezonu.
+        *   Moses Moody: 🤕 Out (kontuzja kolana), przewidywana nieobecność do drugiej połowy sezonu.
+        *   Kristaps Porzingis: 🤕 Out (choroba/problem zdrowotny), powrót niepewny.
+        *   Draymond Green: 🩹 Odpoczywał w meczu przedsezonowym (13.10), ma być zdrowy na start sezonu (21.10). Status Day-To-Day.
+        *   Al Horford: 🩹 Odpoczywał w meczu przedsezonowym (13.10), status niepewny na dzisiaj.
+        *   Yaxel Lendeborg: 🩹 Skręcił kostkę (13.10), uraz bolesny, ale nie powinien się utrzymywać. Wrócił na chwilę do gry.
+        *   Stephen Curry: 🩹 Odpoczywał (10.10), ograniczony udział w preseasonie w celu uniknięcia kontuzji.
+    *   **Los Angeles Lakers:**
+        *   Luka Doncic: 🩹 Odpoczywał w meczu przedsezonowym (13.10), również zgłaszany jako "Out" ze skręceniem palca i stłuczeniem nogi (11.10).
+        *   Collin Sexton: 🤕 Out (kontuzja dolnej części nogi), opuścił wszystkie mecze preseasonu, powrót na początek sezonu niepewny. Status Day-To-Day.
+        *   Ziaire Williams: 🤕 Out (stłuczenie stopy), status Day-To-Day.
+        *   Adou Thiero: 🤕 Out (regeneracja kolana), status Day-To-Day.
+        *   Cameron Carr: 🤕 Out (Day-To-Day).
+        *   LeBron James: 🤕 Out (podrażnienie nerwu pośladkowego) (11.10).
+        *   Marcus Smart: 🤕 Out (kontuzja ścięgna Achillesa) (11.10).
+        *   Maxi Kleber: 🤕 Out (skośny) (11.10).
+        *   Gabe Vincent: 🤕 Out (kostka) (11.10).
+        *   Jaxson Hayes: ❓ Questionable (kolano) (11.10).
+        *   Walker Kessler: ✅ Zadebiutował w preseasonie (13.10) po kontuzji palca.
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Lakers mają długą listę graczy z kontuzjami lub będących poza składem z powodu zarządzania obciążeniem, w tym kluczowych zawodników jak Luka Doncic (nawet jeśli to odpoczynek). Choć Walker Kessler powrócił, tak wiele osłabień czyni typ ryzykownym. Warriors również mają poważne braki (Butler, Moody, Porzingis), ale to preseason, a drużyny często zarządzają graczami.
+
+---
 
 ### Trail Blazers @ Kings -> Typ: Trail Blazers
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. ❌
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Bez aktualnych raportów o kontuzjach i rosterach z stycznia 2026, nie mogę zweryfikować typu.
+*   **Kluczowe braki w składach (2026-10-14):**
+    *   **Portland Trail Blazers:**
+        *   Shaedon Sharpe: 🤕 Out (rozerwanie łąkotki), przewidywana 6-miesięczna przerwa (ogłoszone 24.08.2026). Będzie poza składem do przerwy na All-Star.
+        *   Damian Lillard: ✅ Powrócił po kontuzji Achillesa, która wykluczyła go z całego poprzedniego sezonu (2025-26). Grał 13.10.2026.
+        *   Ja Morant: ✅ Grał 13.10.2026.
+    *   **Sacramento Kings:**
+        *   Maxime Raynaud: 🤕 Out (podwichnięcie rzepki w prawym kolanie), ponowna ocena za dwa tygodnie. Nie zagra w meczu otwarcia sezonu.
+        *   Dylan Cardwell: 🤕 Out (naciągnięcie lewej łydki), ponowna ocena za dwa tygodnie.
+        *   Zach LaVine: 🩹 Nie grał w meczu przedsezonowym (13.10), decyzja o wykluczeniu większości rotacji miała na celu ich przygotowanie do startu sezonu zasadniczego.
+        *   Domantas Sabonis: 🩹 Nie grał w meczu przedsezonowym (13.10), najwyraźniej wraca do formy.
+        *   Malik Monk: 🩹 Nie grał w meczu przedsezonowym (13.10).
+        *   Ben Simmons: 🩹 Nie grał w meczu przedsezonowym (13.10).
+        *   Darius Acuff Jr., De'Andre Hunter: 🩹 Nie grali w meczu przedsezonowym (13.10).
+        *   Keegan Murray: ✅ Zagrał swój drugi mecz przedsezonowy (13.10) po urazie kostki podczas obozu treningowego.
+        *   Precious Achiuwa: 🩹 Mógł widzieć zwiększoną rolę z powodu innych kontuzji. Opuścił mecz z kontuzją kostki, ale nie jest pewne, czy było to zapobiegawcze.
+*   **Werdykt: [✅ ZATWIERDZONY]**
+    *   Kings mają bardzo osłabiony skład z powodu licznych kontuzji i zarządzania obciążeniem kluczowych graczy w preseasonie. Wielu podstawowych zawodników (LaVine, Sabonis, Monk, Simmons, Hunter) było niedostępnych w ostatnim meczu przedsezonowym. Chociaż Trail Blazers mają długoterminową kontuzję Shaedona Sharpe'a, to obecność zdrowych Damiana Lillarda i Ja Moranta, w połączeniu z licznymi brakami u Kings, sprawia, że typ na Trail Blazers jest zatwierdzony na ten dzień.

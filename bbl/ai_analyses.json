@@ -1,24 +1,23 @@
 {
-  "generated_at": "2026-10-11T14:38:32.161952",
-  "date": "2026-10-11",
+  "generated_at": "2026-10-14T13:19:16.323166",
+  "date": "2026-10-14",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "FC Bayern München Basketball @ NINERS Chemnitz",
+      "matchup": "Fitness First Würzburg Baskets @ Basketball Löwen Braunschweig",
       "phase": "Regular Season",
-      "ai_pick": "FC Bayern München Basketball",
-      "formula_pick": "NINERS Chemnitz",
-      "agreement": false,
-      "confidence": 9,
-      "reasoning": "FC Bayern München Basketball jest niepokonany w bieżącym sezonie BBL z bilansem 4-0 i zaledwie wczoraj (10 października 2026) pokonał NINERS Chemnitz 87-83 na wyjeździe. Chemnitz ma słaby start sezonu z bilansem 2-6, co wskazuje na wyraźną różnicę w formie obu drużyn.",
+      "ai_pick": "Basketball Löwen Braunschweig",
+      "formula_pick": "Basketball Löwen Braunschweig",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Basketball Löwen Braunschweig gra u siebie, co jest istotnym czynnikiem. Wykazali lepszą formę w początkach sezonu 2026/27, notując co najmniej jedno zwycięstwo i wyższą efektywność ofensywną niż Fitness First Würzburg Baskets, którzy wydają się mieć trudny początek sezonu.",
       "key_factors": [
-        "Doskonała forma FC Bayern München Basketball (4-0 w BBL 2026/27)",
-        "Bezpośrednie zwycięstwo FC Bayern nad Chemnitz (87-83) dzień przed dzisiejszym meczem",
-        "Słaby bilans NINERS Chemnitz w sezonie (2-6)",
-        "Liderzy Bayernu (Duane Washington Jr., Andreas Obst) w dobrej dyspozycji"
+        "Przewaga własnego boiska (Basketball Löwen Braunschweig).",
+        "Lepsza wczesnosezonowa forma ofensywna (Basketball Löwen Braunschweig).",
+        "Obecność czołowego strzelca Devina Askewa (Basketball Löwen Braunschweig)."
       ],
-      "injury_notes": "brak istotnych brakow"
+      "injury_notes": "Basketball Löwen Braunschweig: Gian Aydinoglu (Guard) doznał urazu stawu barkowego w dniu 11 września 2026 i jego powrót przewidywany jest w okolicach 9-23 października 2026. Eddy Edigin Jr. (Center) doznał naderwania mięśnia uda na początku przygotowań, a jego powrót również był przewidywany na październik 2026. Fitness First Würzburg Baskets: brak istotnych braków w składzie."
     }
   ]
 }
