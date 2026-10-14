@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-13T23:45:32.637152",
+  "generated_at": "2026-10-14T08:48:16.005037",
   "date": "2026-10-14",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "MoraBanc Andorra @ Joventut",
+      "matchup": "Andorra @ Joventut",
       "phase": "Regular Season",
       "ai_pick": "Joventut",
       "formula_pick": "Joventut",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "Pomimo identycznego bilansu 0-2 w tym sezonie ACB, Joventut wykazuje lepszą formę, zdobywając niedawno Supercopa Endesa i wygrywając mecz w Basketball Champions League. Mają silną przewagę własnego boiska i korzystny bilans bezpośrednich spotkań z MoraBanc Andorra, która w swojej zapowiedzi meczu wskazuje na potrzebę poprawy gry w obronie.",
+      "confidence": 7,
+      "reasoning": "Joventut, mimo słabego startu w lidze ACB z bilansem 0-2, niedawno zdobył Supercopa de España, co sugeruje wyższą formę i morale zespołu. Dodatkowo, Joventut gra u siebie, co stanowi istotną przewagę. Andorra również ma bilans 0-2 i boryka się z problemami kadrowymi.",
       "key_factors": [
-        "Joventut zdobył Supercopa Endesa i wygrał mecz w BCL, wskazując na dobrą ogólną formę.",
-        "Joventut gra u siebie, a ich hala jest opisywana jako szczególnie wymagająca dla przeciwników.",
-        "Joventut ma korzystny bilans bezpośrednich spotkań z MoraBanc Andorra, zwłaszcza na własnym parkiecie (np. 101-79 w maju 2026).",
-        "MoraBanc Andorra, zgodnie z własną zapowiedzią, dąży do pierwszej wygranej w sezonie i potrzebuje skorygować błędy defensywne."
+        "Przewaga własnego parkietu dla Joventut",
+        "Joventut jest aktualnym zwycięzcą Supercopa de España 2026",
+        "Obie drużyny rozpoczęły sezon ACB z bilansem 0-2",
+        "Obawy dotyczące kontuzji kluczowych graczy w obu zespołach"
       ],
-      "injury_notes": "Brak istotnych, nowych kontuzji zgłoszonych na dzień 2026-10-14 dla żadnej z drużyn. MoraBanc Andorra ma Isaaca Noguésa w fazie rekonwalescencji, co sugeruje powrót do zdrowia."
+      "injury_notes": "Joventut może być osłabiony brakiem Ante Tomicia i Yannicka Kraaga, którzy byli zgłoszeni jako nieobecni na Jornada 2 (pierwotny termin tego meczu) 2026-10-02. W zespole Andorry, Cameron McGriff powracał do zdrowia po lumbosciatalgii 2026-10-02, a jego status na dzień meczu jest niepewny, choć był wspominany w relacjach z meczu 2026-10-10, co może oznaczać, że jest dostępny, ale być może nie w pełni sił."
     }
   ]
 }
