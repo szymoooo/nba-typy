@@ -1,59 +1,37 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-13 19:44 ET) ---
-Oto analiza Twoich typów na podstawie aktualnych danych z 2026-10-13, z uwzględnieniem składów ze stycznia 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-10-13 20:35 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z 2026-10-13:
 
----
+### Warriors @ Lakers -> Typ: Lakers
 
-### **Pacers @ Thunder**
 *   **Kluczowe braki w składach (2026-10-13):**
-    *   **Pacers:**
-        *   Johnny Furphy: Out (kontuzja prawego kolana/zerwane ACL) 🩹
-        *   Tyrese Haliburton: Questionable (problem z kostką) ❓
-        *   T.J. McConnell: Questionable (nieujawniony problem) ❓
-    *   **Thunder:**
-        *   Shai Gilgeous-Alexander: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
-        *   Jalen Williams: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
-        *   Alex Caruso: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
-        *   Cason Wallace: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
-        *   Ajayi Mitchell: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
-        *   Kenrich Williams: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
-        *   Jared McCain: Questionable/Rest (decyzja przedmeczowa, odpoczynek) 😴
-        *   Chet Holmgren: Questionable (mięsień czworogłowy) ❓
-        *   Isaiah Hartenstein: Questionable (kostka) ❓
-        *   Jaylin Williams: Questionable (pięta) ❓
-        *   Thomas Sorber: Questionable (prawe kolano) ❓
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Thunder mają bardzo wielu kluczowych graczy na liście odpoczywających lub z kontuzjami, co drastycznie wpływa na ich skład. Pacers również borykają się z ważnymi absencjami, w tym Haliburtona. Ogromna niepewność co do składów czyni ten typ bardzo ryzykownym.
+    *   **Los Angeles Lakers:**
+        *   Walker Kessler (kontuzja palca) – Out 🤕
+        *   Ziaire Williams (kontuzja stopy) – Out 🤕
+        *   Collin Sexton (uraz podudzia) – Out 🤕
+        *   Cameron Carr (nieujawniony uraz) – Out 🤕
+        *   Dalton Knecht (nieujawniony uraz) – Out 🤕
+        *   Arthur Kaluma (uraz dolnej części ciała) – Out 🤕
+        *   Austin Reaves (skręcenie kostki) – Out 🤕
+        *   Luka Dončić (uraz palca i stłuczenie podudzia) – Out 🤕
+        *   Matisse Thybulle (nieujawniony uraz) – Out 🤕
+    *   **Golden State Warriors:**
+        *   Jimmy Butler (zerwane ACL w prawym kolanie) – Out (na cały sezon) 🚫
+        *   Moses Moody (zerwane ścięgno rzepki) – Out 🤕
+        *   Kristaps Porziņģis (nieujawnione problemy zdrowotne) – Out (na czas nieokreślony) 🤕
+        *   Al Horford (odpoczynek) – Out 😴
 
----
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Lakers mają szeroką listę kontuzjowanych kluczowych graczy, w tym Luka Dončicia, Austina Reavesa, Walkera Kesslera, co znacząco obniża ich potencjał. Pomimo poważnych braków w Warriors (Butler, Porziņģis, Moody), osłabienia Lakers są równie znaczące, jeśli nie większe, biorąc pod uwagę liczbę graczy wykluczonych z gry.
 
-### **Warriors @ Lakers**
+### Trail Blazers @ Kings -> Typ: Trail Blazers
+
 *   **Kluczowe braki w składach (2026-10-13):**
-    *   **Warriors:**
-        *   Jimmy Butler III: Out (zerwane ACL w kolanie, powrót ok. styczeń 2027) 🩹
-        *   Moses Moody: Out (zerwane ścięgno rzepki, powrót ok. 1 grudnia) 🩹
-        *   Kristaps Porziņģis: Out (choroba, brak harmonogramu powrotu) 🤧
-        *   Al Horford: Out (odpoczynek) 😴
-    *   **Lakers:**
-        *   Luka Dončić: Out (nieujawnione) ❓
-        *   Austin Reaves: Day-to-day (kostka) ❓
-        *   Walker Kessler: Questionable (zablokowany palec) ❓
-        *   Collin Sexton: Questionable (problem z dolną częścią nogi) ❓
-        *   Ziaire Williams: Questionable (stłuczenie stopy) ❓
-        *   Arthur Kaluma: Day-to-day (dolna część ciała) ❓
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny mają poważne braki. Warriors są bez trzech kluczowych graczy rotacji i doświadczonego Horforda. Lakers mają wielu graczy z statusem "Questionable" lub "Day-to-day", w tym Dončicia, Reavesa i Kesslera. Jest zbyt wiele niepewności w składach, aby zatwierdzić ten typ.
+    *   **Portland Trail Blazers:**
+        *   Shaedon Sharpe (kontuzja łąkotki) – Out (przewidywany brak 6 miesięcy) 🤕
+        *   Damian Lillard (odpoczynek) – Dostępny ✅
+    *   **Sacramento Kings:**
+        *   Maxime Raynaud (podwichnięcie rzepki prawego kolana) – Out (co najmniej dwa tygodnie) 🤕
+        *   Dylan Cardwell (naciągnięcie lewej łydki) – Out (co najmniej dwa tygodnie) 🤕
 
----
-
-### **Trail Blazers @ Kings**
-*   **Kluczowe braki w składach (2026-10-13):**
-    *   **Trail Blazers:**
-        *   Shaedon Sharpe: Out (zerwane łąkotki, spodziewany brak 6 miesięcy) 🩹
-        *   Damian Lillard: Off injury report (dostępny po odpoczynku) ✅
-        *   Robert Williams III: Off injury report (dostępny po odpoczynku) ✅
-    *   **Kings:**
-        *   Maxime Raynaud: Out (prawostronne podwichnięcie rzepki, co najmniej 2 tygodnie) 🩹
-        *   Dylan Cardwell: Out (naciągnięcie lewej łydki, co najmniej 2 tygodnie) 🩹
-        *   Domantas Sabonis: (W fazie rozruchu, nie w pełni formy) ⚙️
-        *   Keegan Murray: Day-to-day/Game-time decision (kostka) ❓
-        *   Malik Monk: Expected back (spodziewany powrót) ✅
-        *   Ben Simmons: Expected back, could make Kings debut (spodziewany powrót, możliwy debiut) ✅
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Kings mają znaczne braki w rotacji centrów (Raynaud, Cardwell out), a Domantas Sabonis może nie być w pełni gotowy. Pomimo powrotów Monka i Simmonsa, osłabiona pozycja centra i niepewny status Murraya stwarzają ryzyko. Trail Blazers są bez Sharpe'a, ale Lillard i Robert Williams są dostępni.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Mimo braku Shaedona Sharpe'a, Trail Blazers mają na parkiecie Damiana Lillarda, który jest dostępny. Kings z kolei borykają się z brakiem dwóch ważnych centrów, Maxime'a Raynauda i Dylana Cardwella, co osłabia ich rotację pod koszem. Biorąc pod uwagę stabilniejszą sytuację kadrową i dostępność kluczowego gracza Blazers, Twój typ wydaje się uzasadniony.

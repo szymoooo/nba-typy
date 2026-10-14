@@ -1,28 +1,20 @@
---- AUDYT PLK LIVE (2026-10-14 01:45 CET) ---
-# Analiza meczu PLK: Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski
+--- AUDYT PLK LIVE (2026-10-14 02:36 CET) ---
+Mecz: Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski
+Typ z PulsBasketu: Tasomix Rosiek Stal Ostrów Wielkopolski
 
-**Data meczu:** 2026-10-12
-**Typ PulsBasketu:** Tasomix Rosiek Stal Ostrów Wielkopolski
+1.  **Kluczowe braki w składach:**
+    *   ⛹️‍♂️ **Górnik Zamek Książ Wałbrzych:** Brak istotnych braków w składzie koszykarskim na dzień 2026-10-14. Skład na sezon 2026/2027 obejmuje m.in. Mike'a Scotta, Kenny'ego Goinsa, Trey'a Diggsa, Michała Nowakowskiego i Ike'a Smitha.
+    *   ⛹️‍♂️ **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim na dzień 2026-10-14. Skład na sezon 2026/2027 obejmuje m.in. Karla-Johana Lipsa, Tajiona Jonesa, Jaylina Huntera, Jareda Billupsa i Aleksandra Wiśniewskiego.
 
----
+2.  **Aktualna forma top scorerów (sezon 2026/2027):**
+    *   📊 **Górnik Zamek Książ Wałbrzych:**
+        *   Michaelyn Scott: 15 Pkt/mecz
+        *   Adam Rohosy Jr: 14 Pkt/mecz
+        *   Leemet Bockler: 11.5 Pkt/mecz
+    *   📊 **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+        *   Karl Lips: 17.5 Pkt/mecz
+        *   Tajion Jones: 13.5 Pkt/mecz
+        *   Jaylin Hunter: 12 Pkt/mecz
 
-### Górnik Zamek Książ Wałbrzych
-
-1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-10-14.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] (Brak informacji o formie top scorerów zwiększa ryzyko).
-
-### Tasomix Rosiek Stal Ostrów Wielkopolski
-
-1.  **Kluczowe braki w składzie:**
-    *   Brak istotnych braków w składzie koszykarskim na dzień 2026-10-14.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] (Brak informacji o formie top scorerów zwiększa ryzyko).
-
----
-
-**Werdykt ogólny dla typu:** [⚠️ RYZYKOWNY]
-Brak danych o aktualnej formie top scorerów dla obu drużyn uniemożliwia pełną ocenę, a brak kontuzji nie jest wystarczającym czynnikiem do zatwierdzenia typu, zwłaszcza przy braku innych wskaźników formy.
+3.  **Werdykt:** ⚠️ RYZYKOWNY
+    *   Mimo braku zgłoszonych kontuzji kluczowych zawodników w obu zespołach, typ na zwycięstwo Tasomix Rosiek Stali Ostrów Wielkopolski okazał się ryzykowny, ponieważ mecz rozegrany 12.10.2026 zakończył się zwycięstwem Górnika Zamek Książ Wałbrzych (wynik 65:81).
