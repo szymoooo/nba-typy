@@ -1,54 +1,58 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-14 17:53 ET) ---
-Zaczynam analizę. Pamiętaj, że interesują mnie TYLKO składy ze stycznia 2026 (jeśli nie ma aktualniejszych na październik 2026) oraz raporty kontuzji z 2026-10-14.
+--- KRYTYCZNY AUDYT LIVE (2026-10-14 19:24 ET) ---
+Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-10-14) z uwzględnieniem statusów kontuzji z meczów preseason:
 
-Oto moja analiza na podstawie dzisiejszych danych (2026-10-14):
-
-**Nets @ Heat -> Typ: Nets**
-*   Kluczowe braki w składach:
-    *   Nets: Mikel Brown Jr. (kostka - dostępny na mecz 14.10) ✅, Joshua Jefferson (Day-to-Day) ❓.
-    *   Heat: Dru Smith (łydka - Out) ❌, Keshad Johnson (ścięgno podkolanowe - Out) ❌.
-*   Werdykt: [⚠️ RYZYKOWNY] (Heat z Giannisem Antetokounmpo jako "fulcrum" są silni, Nets są w fazie przebudowy i mają niższe statystyki z poprzedniego sezonu).
-
-Oto moja analiza na podstawie dzisiejszych danych z sieci (2026-10-14):
+---
 
 **Nets @ Heat -> Typ: Nets**
-*   Kluczowe braki w składach:
-    *   Nets: Mikel Brown Jr. (kostka - dostępny na mecz 14.10) ✅, Joshua Jefferson (Day-to-Day) ❓.
-    *   Heat: Dru Smith (łydka - Out) ❌, Keshad Johnson (ścięgno podkolanowe - Out) ❌.
-*   Werdykt: [⚠️ RYZYKOWNY] (Heat z Giannisem Antetokounmpo jako "fulcrum" są silni i przewidywani do walki o play-offy, Nets są w fazie przebudowy i mieli niższe statystyki w poprzednim sezonie).
+*   **Kluczowe braki w składach:**
+    *   Nets: Mikel Brown Jr. (kostka) – Dostępny.
+    *   Heat: Dru Smith (łydka) – Out (na co najmniej kilka tygodni). Pelle Larsson (choroba) – Wątpliwy. Keshad Johnson (ścięgno podkolanowe) – Dostępny.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Heat mają kilku graczy poza składem/wątpliwych, podczas gdy kluczowy gracz Nets Mikel Brown Jr. jest dostępny.
+
+---
 
 **Hornets @ Celtics -> Typ: Celtics**
-*   Kluczowe braki w składach:
-    *   Hornets: Grant Williams (ścięgno podkolanowe - Out na preseason) ❌, Kon Knueppel (ścięgno podkolanowe - Questionable na otwarcie sezonu) ❓.
-    *   Celtics: Brak aktualnych raportów (Injury Report) na tę chwilę. (Jayson Tatum, Paul George, Payton Pritchard to kluczowi gracze).
-*   Werdykt: [✅ ZATWIERDZONY] (Celtics posiadają silny skład z Jaysonem Tatumem i Paulem Georgem, a ich kluczowi gracze Hornets są kontuzjowani).
+*   **Kluczowe braki w składach:**
+    *   Hornets: Coby White (naciągnięcie łydki) – Out (przewidywany powrót 21 października). Kon Knueppel (ścięgno podkolanowe) – Out (przewidywany powrót 20 października). Grant Williams (ścięgno podkolanowe) – Out (przewidywany powrót 20 października).
+    *   Celtics: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Hornets są osłabieni brakiem kilku kluczowych graczy, co sprzyja Celtics.
+
+---
 
 **Suns @ Spurs -> Typ: Suns**
-*   Kluczowe braki w składach:
-    *   Suns: Mark Williams (ramię - Out po operacji, długa przerwa) ❌, Miles Bridges (kostka - Doubtful na 14.10) ❓, Devin Booker (Day-to-day - odpoczynek) ❓.
-    *   Spurs: Tobias Harris (naciągnięcie łydki - Day-to-day) ❓, De'Aaron Fox (biodro - Questionable) ❓, Carter Bryant (kostka - Questionable) ❓, Jayden Quaintance (operacja kolana - Sidelined indefinitely) ❌.
-*   Werdykt: [⚠️ RYZYKOWNY] (Suns mają kilku ważnych graczy z kontuzjami lub wątpliwym statusem. Spurs, choć mieli słaby początek preseason (0-3), mają kluczowych graczy wracających po odpoczynku, w tym Victora Wembanyamę, co może utrudnić mecz).
+*   **Kluczowe braki w składach:**
+    *   Suns: Mark Williams (ramię) – Out. Devin Booker (odpoczynek) – Out. Jalen Green (odpoczynek) – Out. Miles Bridges (kostka, odpoczynek) – Out. Dillon Brooks (odpoczynek) – Out. Collin Gillespie (odpoczynek) – Out. Oso Ighodaro (odpoczynek) – Out.
+    *   Spurs: Tobias Harris (łydka) – Out. Jayden Quaintance (kolano) – Out (nieokreślony czas). Julian Champagnie (odpoczynek) – Out. Keldon Johnson (odpoczynek) – Out. Luke Kornet (odpoczynek) – Out. De'Aaron Fox (biodro) – Questionable. Carter Bryant (kostka) – Questionable. Victor Wembanyama, Stephon Castle, Dylan Harper – Oczekiwani na powrót po odpoczynku.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Suns odpoczywają wielu kluczowych graczy. Spurs również mają istotne absencje, ale powrót Wembanyamy i innych może zmienić dynamikę. Liczne braki w zespole Suns sprawiają, że ich wygrana jest ryzykownym typem.
+
+---
 
 **Pelicans @ Mavericks -> Typ: Mavericks**
-*   Kluczowe braki w składach:
-    *   Pelicans: Dejounte Murray (palec u nogi - DNP w poprzednim meczu preseason) ❓. Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Mavericks: Dereck Lively II (stopa - Out, czas powrotu niejasny) ❌, Santi Aldama (kolano - Day-to-day, czas powrotu niejasny) ❓, Kyrie Irving (kontuzja łydki - miał setback, ale jest kluczowym strzelcem preseason).
-*   Werdykt: [⚠️ RYZYKOWNY] (Mavs mają znaczące braki w strefie podkoszowej (Lively II), a status Aldamy jest niejasny. Mimo silnego Kyrie'ego Irvinga, kontuzje mogą być problemem).
+*   **Kluczowe braki w składach:**
+    *   Pelicans: Dejounte Murray (stłuczenie palca u nogi) – Prawdopodobnie Out (nie trenował, podjęto środki ostrożności). AJ Johnson (palec) – Nie trenował.
+    *   Mavericks: Dereck Lively II (stopa) – Out (niejasny termin powrotu). Santi Aldama (kolano) – Day-to-day (niejasny termin powrotu). Marcus Sasser (ból przywodziciela) – Sidelined.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny mają znaczące braki, zwłaszcza Mavericks w strefie podkoszowej i Pelicans na pozycji rozgrywającego. Niepewność co do dostępności kluczowych graczy czyni ten typ ryzykownym.
+
+---
 
 **Bulls @ Bucks -> Typ: Bucks**
-*   Kluczowe braki w składach:
-    *   Bulls: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Bucks: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Bucks wchodzą w "zupełnie nową erę" bez Giannisa Antetokounmpo i są w fazie przebudowy, co czyni ich typ ryzykownym bez konkretnych danych o sile składów na dzisiaj).
+*   **Kluczowe braki w składach:**
+    *   Bulls: Nic Claxton (ścięgno podkolanowe) – Out (na dłużej, ma opuścić cały preseason). Zach Collins (mięsień czworogłowy) – Out. Isaac Okoro – Out. Tobe Awaka (kolano) – Day-to-day. Jaylin Sellers (plecy) – Out.
+    *   Bucks: Kasparas Jakucionis – Out. Brayden Burries – Out. Nate Ament (kostka) – Out.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Bulls są poważnie osłabieni kontuzjami, zwłaszcza w strefie podkoszowej. Braki w zespole Bucks wydają się mniej kluczowe, co wzmacnia typ na Bucks.
+
+---
 
 **Pistons @ Timberwolves -> Typ: Timberwolves**
-*   Kluczowe braki w składach:
-    *   Pistons: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Timberwolves: Brak aktualnych raportów (Injury Report) na tę chwilę. (Kluczowi gracze byli niedostępni z powodu odpoczynku w poprzednich meczach preseason, nie kontuzji).
-*   Werdykt: [⚠️ RYZYKOWNY] (Bez aktualnych raportów o kontuzjach i szczegółowych składów na 2026-10-14 dla obu drużyn, nie można wiarygodnie ocenić tego typu).
+*   **Kluczowe braki w składach:**
+    *   Pistons: Cade Cunningham (odpoczynek) – Day-to-day (decyzja przed meczem). Jalen Duren (odpoczynek) – Day-to-day (decyzja przed meczem).
+    *   Timberwolves: Donte DiVincenzo (ścięgno Achillesa) – Out. Jonathan Kuminga (odpoczynek, drobne urazy) – Day-to-day. Terrence Shannon Jr. (nieujawniony problem) – Day-to-day.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny mają kluczowych graczy z oznaczeniem "day-to-day" lub "out" z powodu kontuzji lub odpoczynku w meczu preseason. Duża niepewność co do składów.
+
+---
 
 **Nuggets @ Clippers -> Typ: Nuggets**
-*   Kluczowe braki w składach:
-    *   Nuggets: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Clippers: Max Strus (stopa - Out na 4 tygodnie) ❌, Jordan Miller (ramię - Out po operacji) ❌, Brandon Ingram (Achilles - Out na początek sezonu, "jeszcze trochę potrwa") ❌. Dodatkowo, Kawhi Leonard odszedł.
-*   Werdykt: [✅ ZATWIERDZONY] (Clippers mierzą się z licznymi kontuzjami kluczowych graczy i przeszli znaczącą przebudowę składu, podczas gdy Nuggets mają stabilny i silny trzon z Nikolą Jokicem i Jamalem Murrayem).
+*   **Kluczowe braki w składach:**
+    *   Nuggets: Spencer Jones (ścięgno podkolanowe) – Questionable (ograniczony do pracy bez kontaktu, powrót mało prawdopodobny).
+    *   Clippers: Max Strus (częściowe rozdarcie rozcięgna podeszwowego) – Out (na co najmniej 4 tygodnie). Jordan Miller (operacja barku) – Out (ponowna ocena za 6 miesięcy). Brandon Ingram (ścięgno Achillesa) – Wraca do formy (status niepewny). Bradley Beal (stan zapalny kolana) – Day-to-day. Kobe Sanders (biodro) – Day-to-day.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Clippers mają znaczne kontuzje kluczowych graczy i wielu z nich jest day-to-day. Nuggets mają jednego gracza prawdopodobnie poza składem, ale ich trzon (Jokić, Murray) wydaje się zdrowy.
