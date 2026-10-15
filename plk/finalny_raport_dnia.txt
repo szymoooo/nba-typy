@@ -1,20 +1,19 @@
---- AUDYT PLK LIVE (2026-10-15 01:24 CET) ---
-Analiza meczu PLK (sezon 2026/2027) z dnia 2026-10-12:
+--- AUDYT PLK LIVE (2026-10-15 04:42 CET) ---
+Analiza meczu PLK z dnia 2026-10-12:
+
+---
 
 **Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski**
 
-Arena meczu: 3mk Arena Ostrów, Ostrów Wielkopolski.
+*   **Wynik meczu (2026-10-12):** Górnik Zamek Książ Wałbrzych pokonał Tasomix Rosiek Stal Ostrów Wielkopolski 81:65.
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Górnik Zamek Książ Wałbrzych:**
-        *   Ikeon Smith (niski skrzydłowy): Kontrakt ważny do końca sezonu 2026/2027, ale powracał do zdrowia po kontuzji (stan na 27.08.2026). Brak aktualnych informacji o jego powrocie na mecz 12.10.2026.
-        *   Maciej Żmudzki (podkoszowy): Z powodów zdrowotnych jego występy stały pod znakiem zapytania (stan na 27.08.2026). Brak aktualnych informacji o jego dostępności na mecz 12.10.2026.
-    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:**
-        *   Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 12.10.2026.
+1.  **Kluczowe braki w składach (na dzień 2026-10-12):**
+    *   **Górnik Zamek Książ Wałbrzych:** Ike Smith (kontuzja). Maksymilian Karwik i Filip Drzazga byli poza składem meczowym.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim. Informacje o drobnej kontuzji ze sparingu przedsezonowego nie wskazywały na konkretnego kluczowego zawodnika i jego absencję w tym meczu.
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu na temat aktualnej formy strzeleckiej poszczególnych zawodników z początkowych kolejek sezonu 2026/2027. Sezon rozpoczął się 2 października 2026 roku, a mecz 12 października był drugą kolejką rozgrywek.
-    *   Składy obu drużyn na sezon 2026/2027 są znane. W Górniku m.in. Ronald Curry JR, Trey Diggs, Kenny Goins, Michał Nowakowski; w Stali m.in. Jaylin Hunter, Jared Billups, Tajion Jones, Karl-Johan Lips.
+2.  **Aktualna forma top scorerów (z meczu 2026-10-12):**
+    *   **Górnik Zamek Książ Wałbrzych:** Najlepszym zawodnikiem był Mike Scott z 15 punktami i 5 asystami.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Najwięcej punktów dla gospodarzy zdobył Karl Lips (16 punktów i 7 zbiórek).
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie:** Mimo że Tasomix Rosiek Stal Ostrów Wielkopolski grał u siebie, a Górnik Zamek Książ Wałbrzych miał zgłoszone wcześniejsze problemy zdrowotne dwóch zawodników (Ikeon Smith, Maciej Żmudzki) bez jasnej aktualizacji ich statusu na dzień meczu, brak konkretnych danych o formie strzeleckiej top scorerów po zaledwie pierwszej kolejce sezonu 2026/2027 uniemożliwia pełną ocenę. Dodatkowo, wczesna faza sezonu regularnego (2. kolejka) często charakteryzuje się niestabilną formą drużyn.
+    *   Typ przewidywał zwycięstwo Tasomix Rosiek Stali Ostrów Wielkopolski, jednak Górnik Zamek Książ Wałbrzych wygrał mecz.
