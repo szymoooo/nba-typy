@@ -1,36 +1,14 @@
---- AUDYT PLK LIVE (2026-10-15 09:53 CET) ---
-**Analiza meczu PLK (2026-10-12): Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski**
+--- AUDYT PLK LIVE (2026-10-15 20:08 CET) ---
+Analiza meczu PLK (2026-10-12):
 
-Mecz, o którym mowa w typie PulsBasketu na 2026-10-12, odbył się w podanym terminie. Wynik meczu to: Tasomix Rosiek Stal Ostrów Wielkopolski 65 : 81 Górnik Zamek Książ Wałbrzych. Oznacza to, że typ na zwycięstwo Tasomix Rosiek Stali Ostrów Wielkopolski okazał się niepoprawny.
+**Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski**
 
----
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim dla obu drużyn na dzień 2026-10-15. Wcześniejsze wzmianki o kontuzjach w sezonie 2025/2026 dla Górnika Wałbrzych (m.in. Garcia, Smith, Puchalski, Benson, Jogela) nie dotyczą bieżącego sezonu 2026/2027. Informacja o Jaredzie Billupsie (Stal Ostrów Wlkp.) sprzed meczu 03.10.2026 sugerowała wątpliwości, ale zawodnik zagrał w tym spotkaniu.
 
-**Górnik Zamek Książ Wałbrzych**
-1.  **Kluczowe braki w składach koszykarskich:**
-    *   Ikeon Smith: Status niepewny. We wrześniu 2026 roku pojawiły się informacje o odnowieniu kontuzji mięśnia dwugłowego, której nabawił się w lutym 2026 (sezon 2025/26). Klub czekał na wyniki rezonansu, a przerwa mogła potrwać kilka miesięcy, co skłoniło klub do poszukiwania zastępstwa. Ronald Curry JR. został sprowadzony jako jego zastępstwo we wrześniu 2026.
-    *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-10-15.
-2.  **Aktualna forma top scorerów (sezon 2026/2027 - wczesne mecze):**
-    *   W meczu z Tasomix Rosiek Stal Ostrów Wielkopolski (12.10.2026): Mike Scott (15 pkt), Trey Diggs (14 pkt), Leemet Böckler (11 pkt), Kenneth Goins (10 pkt), Michał Nowakowski (10 pkt).
-    *   Wcześniej, w meczu z Anwilem Włocławek (05.10.2026), wyróżnili się AJ Rohosy (20 pkt) i Mike Scott (15 pkt).
-    *   Mike Scott i AJ Rohosy jawią się jako kluczowi strzelcy na początku sezonu 2026/2027.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] (typ PulsBasketu był na Stal, która przegrała)
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+    *   **Kontekst meczu (rzeczywisty wynik z 2026-10-12):** Górnik Zamek Książ Wałbrzych pokonał Tasomix Rosiek Stal Ostrów Wielkopolski wynikiem 81:65. To zwycięstwo Górnika było ich pierwszym w sezonie 2026/27 i przełamaniem serii porażek w Ostrowie Wielkopolskim, z dobrą grą defensywną Wałbrzyszan. Tasomix Rosiek Stal Ostrów Wielkopolski rozpoczęła sezon od zwycięstwa 84:79 po dogrywce z PGE Startem Lublin (03.10.2026), gdzie punktowali m.in. Vyacheslav Bobrov, Jaylin Hunter, Karl Lips i Jared Billups.
 
----
-
-**Tasomix Rosiek Stal Ostrów Wielkopolski**
-1.  **Kluczowe braki w składach koszykarskich:**
-    *   We wrześniu 2026, po sparingu z GTK Gliwice (28.09.2026), zgłaszano "kontuzję w Stali", jednak bez podania nazwiska zawodnika ani szczegółów na dzień 2026-10-12/15.
-    *   David Brembly, pomimo wcześniejszych poważnych kontuzji (do 2025 roku), nie jest wymieniany w składzie na sezon 2026/2027.
-    *   Brak innych istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-10-15.
-2.  **Aktualna forma top scorerów (sezon 2026/2027 - wczesne mecze):**
-    *   W meczu z Górnikiem Zamek Książ Wałbrzych (12.10.2026): Karl-Johan Lips (16 pkt), Daniel Gołębiowski (12 pkt), Jaylin Hunter (11 pkt), Tajion Jones (10 pkt).
-    *   W meczu z PGE Start Lublin (03.10.2026), który Stal wygrała 84:79, brak danych z API na temat indywidualnych strzelców.
-    *   Karl-Johan Lips, Daniel Gołębiowski, Jaylin Hunter i Tajion Jones byli wiodącymi strzelcami w ostatnim, przegranym meczu.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] (typ PulsBasketu był na Stal, która przegrała)
-
----
-**Podsumowanie i Werdykt Ogólny dla Typu PulsBasketu:**
-Typ: Tasomix Rosiek Stal Ostrów Wielkopolski
-Wynik meczu (12.10.2026): Tasomix Rosiek Stal Ostrów Wielkopolski 65 : 81 Górnik Zamek Książ Wałbrzych.
-
-**Werdykt audytu:** [⚠️ RYZYKOWNY] – Typ PulsBasketu na zwycięstwo Tasomix Rosiek Stal Ostrów Wielkopolski okazał się niepoprawny, gdyż Górnik Zamek Książ Wałbrzych wygrał mecz. Pomimo braku Ikeona Smitha w składzie Górnika, zespół z Wałbrzycha zaprezentował dobrą dyspozycję strzelecką, co przesądziło o wyniku.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ wskazujący na zwycięstwo Tasomix Rosiek Stal Ostrów Wielkopolski okazał się ryzykowny/nieprawidłowy, ponieważ w rzeczywistości mecz zakończył się zwycięstwem Górnika Zamek Książ Wałbrzych 81:65.
