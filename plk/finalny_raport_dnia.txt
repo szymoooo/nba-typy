@@ -1,14 +1,22 @@
---- AUDYT PLK LIVE (2026-10-15 20:08 CET) ---
-Analiza meczu PLK (2026-10-12):
+--- AUDYT PLK LIVE (2026-10-15 22:07 CET) ---
+Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski
 
-**Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski**
+*   **Kluczowe braki w składach koszykarskich:**
+    *   **Górnik Zamek Książ Wałbrzych:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-10-12. W składzie meczowym, który pokonał Stal, wystąpili m.in. Mike Scott, Trey Diggs, Leemet Böckler, Kenny Goins, Michał Nowakowski, AJ Rohosy, Dariusz Wyka, Soprano Szelążek, Ron Curry, Maciej Bojanowski. Wcześniejsze doniesienia z kwietnia i maja 2026 (z poprzedniego sezonu) o kontuzjach Macieja Puchalskiego, Kacpra Marchewki, Barreta Bensona, Marca Garcii oraz Jogeli i Ikeona Smitha są nieaktualne lub brak potwierdzenia ich absencji na ten konkretny mecz. Maciej Żmudzki (podkoszowy) miał niepewny status zdrowotny w sierpniu 2026, ale brak potwierdzenia jego absencji na ten mecz.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 2026-10-12. W ostatnim sparingu przed sezonem (wrzesień 2026) odnotowano nieokreśloną kontuzję w Stali, ale brak danych, czy wpłynęła ona na ten mecz. W meczu ze Stalą zagrali m.in. Karl Lips, Daniel Gołębiowski, Jaylin Hunter, Tajion Jones, Jakub Parzeński, Aleksander Wiśniewski, Vyacheslav Bobrov, Jared Billups.
 
-1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim dla obu drużyn na dzień 2026-10-15. Wcześniejsze wzmianki o kontuzjach w sezonie 2025/2026 dla Górnika Wałbrzych (m.in. Garcia, Smith, Puchalski, Benson, Jogela) nie dotyczą bieżącego sezonu 2026/2027. Informacja o Jaredzie Billupsie (Stal Ostrów Wlkp.) sprzed meczu 03.10.2026 sugerowała wątpliwości, ale zawodnik zagrał w tym spotkaniu.
+*   **Aktualna forma top scorerów (dla meczu 2026-10-12):**
+    *   **Górnik Zamek Książ Wałbrzych:**
+        *   Mike Scott: 15 punktów w meczu ze Stalą (2026-10-12) i 15 punktów w poprzednim meczu z Anwilem (2026-10-05).
+        *   Trey Diggs: 14 punktów w meczu ze Stalą (2026-10-12).
+        *   Leemet Böckler: 11 punktów w meczu ze Stalą (2026-10-12) i istotna postać w meczu z Anwilem.
+        *   AJ Rohosy: 20 punktów w meczu z Anwilem (2026-10-05).
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+        *   Karl Lips: 16 punktów w meczu z Górnikiem (2026-10-12) i 19 punktów w poprzednim meczu ze Startem Lublin (2026-10-03).
+        *   Tajion Jones: 10 punktów w meczu z Górnikiem (2026-10-12) i 17 punktów w poprzednim meczu ze Startem Lublin (2026-10-03).
+        *   Daniel Gołębiowski: 12 punktów w meczu z Górnikiem (2026-10-12).
+        *   Jaylin Hunter: 11 punktów w meczu z Górnikiem (2026-10-12).
 
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-    *   **Kontekst meczu (rzeczywisty wynik z 2026-10-12):** Górnik Zamek Książ Wałbrzych pokonał Tasomix Rosiek Stal Ostrów Wielkopolski wynikiem 81:65. To zwycięstwo Górnika było ich pierwszym w sezonie 2026/27 i przełamaniem serii porażek w Ostrowie Wielkopolskim, z dobrą grą defensywną Wałbrzyszan. Tasomix Rosiek Stal Ostrów Wielkopolski rozpoczęła sezon od zwycięstwa 84:79 po dogrywce z PGE Startem Lublin (03.10.2026), gdzie punktowali m.in. Vyacheslav Bobrov, Jaylin Hunter, Karl Lips i Jared Billups.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ wskazujący na zwycięstwo Tasomix Rosiek Stal Ostrów Wielkopolski okazał się ryzykowny/nieprawidłowy, ponieważ w rzeczywistości mecz zakończył się zwycięstwem Górnika Zamek Książ Wałbrzych 81:65.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Mecz odbył się 2026-10-12, a Górnik Zamek Książ Wałbrzych pokonał Tasomix Rosiek Stal Ostrów Wielkopolski 81:65.
+    *   Pierwotny typ na Tasomix Rosiek Stal Ostrów Wielkopolski okazał się błędny.
