@@ -1,27 +1,46 @@
 {
-  "generated_at": "2026-10-11T22:31:52.906049",
-  "date": "2026-10-12",
+  "generated_at": "2026-10-15T23:06:37.145105",
+  "date": "2026-10-16",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski",
+      "matchup": "Enea Łaciate Astoria Bydgoszcz @ Arriva Lotto Twarde Pierniki Toruń",
       "phase": "Runda Zasadnicza",
-      "round": "2 kolejka",
-      "date": "2026-10-12T19:00:00",
-      "ai_pick": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-      "formula_pick": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+      "round": "3 kolejka",
+      "date": "2026-10-16T18:00:00",
+      "ai_pick": "Enea Łaciate Astoria Bydgoszcz",
+      "formula_pick": "Enea Łaciate Astoria Bydgoszcz",
       "agreement": true,
-      "confidence": 8,
-      "reasoning": "Tasomix Rosiek Stal Ostrów Wielkopolski ma za sobą zwycięstwo w pierwszym meczu sezonu i znacznie lepszy wskaźnik NetRtg (+9.1) w porównaniu do Górnika Zamek Książ Wałbrzych (-1.3). Dodatkowo, Stal zagra we własnej hali, co daje jej przewagę.",
+      "confidence": 7,
+      "reasoning": "Enea Łaciate Astoria Bydgoszcz wykazuje lepszą formę początkową sezonu z bilansem 1-1, w porównaniu do 0-2 Arriva Lotto Twarde Pierniki Toruń. Drużyna z Bydgoszczy ma również znacznie korzystniejsze wskaźniki efektywności, w tym wyższy NetRtg (+3.6 vs -14.3) oraz lepszą skuteczność rzutową i defensywę, co sugeruje ich przewagę w tym spotkaniu.",
       "key_factors": [
-        "Lepsza forma początkowa (1-0 vs 0-1)",
-        "Przewaga własnego parkietu",
-        "Wyższe wskaźniki efektywności (NetRtg +9.1 vs -1.3)"
+        "Lepsza forma początkowa Enea Łaciate Astoria Bydgoszcz",
+        "Znacznie lepsze wskaźniki zaawansowane (NetRtg, eFG%, TS%) Enea Łaciate Astoria Bydgoszcz",
+        "Lepsza obrona Enea Łaciate Astoria Bydgoszcz"
       ],
       "injury_notes": "brak istotnych braków",
       "agreement_with_odds": "no_odds"
+    },
+    {
+      "matchup": "Anwil Włocławek @ Legia Warszawa",
+      "phase": "Runda Zasadnicza",
+      "round": "3 kolejka",
+      "date": "2026-10-16T20:15:00",
+      "ai_pick": "Legia Warszawa",
+      "formula_pick": "Anwil Włocławek",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Legia Warszawa, pomimo nierównego początku sezonu, ma znaczącą przewagę w bezpośrednich starciach z Anwilem Włocławek z poprzedniego sezonu. Dodatkowo, jest to pierwszy mecz Legii u siebie w tym sezonie, co zazwyczaj stanowi silny atut, a kursy bukmacherskie faworyzują gospodarzy. Anwil, choć ma lepszy bilans ligowy, zmaga się z bieżącymi kontuzjami kluczowych graczy obwodowych.",
+      "key_factors": [
+        "Zdecydowana przewaga Legii w bezpośrednich meczach H2H z poprzedniego sezonu",
+        "Atut własnego parkietu - pierwszy mecz domowy Legii w sezonie",
+        "Legia Warszawa jest faworytem według kursów bukmacherskich",
+        "Kontuzje kluczowych graczy obwodowych Anwilu Włocławek (Jacek Forrest, Josiah Strong)"
+      ],
+      "injury_notes": "Legia Warszawa ma kontuzjowanego środkowego Szymona Tomczaka, który doznał skręcenia śródstopia z uszkodzeniem więzadeł w połowie września 2026 roku i ma pauzować około 3 miesięcy. Anwil Włocławek zmaga się z kontuzjami Jacka Forresta (uraz mięśnia, przedłużona rehabilitacja) oraz Josiaha Stronga (uraz pleców, stan analizowany), którzy byli nieobecni pod koniec września 2026 roku. W związku z tym Anwil pozyskał Deona Edwina.",
+      "agreement_with_odds": true
     }
   ]
 }
