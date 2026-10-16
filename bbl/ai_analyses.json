@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-14T13:19:16.323166",
-  "date": "2026-10-14",
+  "generated_at": "2026-10-16T23:23:33.246189",
+  "date": "2026-10-17",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Fitness First Würzburg Baskets @ Basketball Löwen Braunschweig",
-      "phase": "Regular Season",
-      "ai_pick": "Basketball Löwen Braunschweig",
-      "formula_pick": "Basketball Löwen Braunschweig",
+      "matchup": "Phoenix Hagen @ ratiopharm ulm",
+      "phase": "Achtelfinale BBL-Pokal",
+      "ai_pick": "ratiopharm ulm",
+      "formula_pick": "ratiopharm ulm",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Basketball Löwen Braunschweig gra u siebie, co jest istotnym czynnikiem. Wykazali lepszą formę w początkach sezonu 2026/27, notując co najmniej jedno zwycięstwo i wyższą efektywność ofensywną niż Fitness First Würzburg Baskets, którzy wydają się mieć trudny początek sezonu.",
+      "confidence": 8,
+      "reasoning": "ratiopharm ulm ma przewagę własnego parkietu w meczu Pucharu BBL i już raz pokonał Phoenix Hagen w tym sezonie ligowym (93-78). Chociaż forma ligowa ratiopharm ulm to 2 zwycięstwa i 3 porażki w ostatnich pięciu meczach BBL, Phoenix Hagen ma bilans 1 zwycięstwa i 4 porażek w tym samym okresie.",
       "key_factors": [
-        "Przewaga własnego boiska (Basketball Löwen Braunschweig).",
-        "Lepsza wczesnosezonowa forma ofensywna (Basketball Löwen Braunschweig).",
-        "Obecność czołowego strzelca Devina Askewa (Basketball Löwen Braunschweig)."
+        "Przewaga własnego parkietu ratiopharm ulm",
+        "Wygrana ratiopharm ulm w bezpośrednim starciu w tym sezonie (93-78)",
+        "Lepsza ogólna forma ratiopharm ulm w porównaniu do Phoenix Hagen w ostatnich meczach BBL"
       ],
-      "injury_notes": "Basketball Löwen Braunschweig: Gian Aydinoglu (Guard) doznał urazu stawu barkowego w dniu 11 września 2026 i jego powrót przewidywany jest w okolicach 9-23 października 2026. Eddy Edigin Jr. (Center) doznał naderwania mięśnia uda na początku przygotowań, a jego powrót również był przewidywany na październik 2026. Fitness First Würzburg Baskets: brak istotnych braków w składzie."
+      "injury_notes": "Brak istotnych, potwierdzonych kontuzji dla ratiopharm ulm na dzień 2026-10-17. We wrześniu 2026 ratiopharm ulm pozyskał Marvina Heckela w reakcji na wcześniejsze kontuzje w składzie, ale brak jest aktualnych konkretnych nazwisk. Dla Phoenix Hagen, Le'Tre Darthard był wykluczony, a udział Nate'a Johnsona był wątpliwy w meczu 8 października 2026 r., ale ich status na dzisiejszy mecz jest niejasny. Warto zaznaczyć, że pojawiła się sprzeczna informacja z 11 października 2026 r., sugerująca, że Phoenix Hagen wstrzymał działalność z powodu problemów finansowych, jednak inne źródła, w tym oficjalna strona klubu i terminarz BBL-Pokal, jasno wskazują, że mecz 17 października 2026 r. odbywa się zgodnie z planem."
     }
   ]
 }
