@@ -1,23 +1,17 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-16 08:41 ET) ---
-Analiza meczu NBA: Thunder @ Rockets (2026-10-16)
+--- KRYTYCZNY AUDYT LIVE (2026-10-16 08:59 ET) ---
+Na podstawie danych z 2026-10-16:
 
----
-
-**Oklahoma City Thunder** ⚡️
+**Thunder @ Rockets** -> Typ: Rockets
 
 *   **Kluczowe braki w składach:**
-    *   Otega Oweh (rookie) - Out na cały sezon (zerwanie ścięgna Achillesa). Kontuzja miała miejsce 14 października 2026.
-*   **Aktualny skład (stan na styczeń 2026/sezon 2025-26):** Shai Gilgeous-Alexander, Chet Holmgren, Jalen Williams, Jaylin Williams, Jared McCain, Alex Caruso, Thomas Sorber, Cason Wallace, Brooks Barnhizer, Ajay Mitchell, Nikola Topić.
+    *   **Oklahoma City Thunder:**
+        *   Otega Oweh (G): Sezon zakończony (zerwane ścięgno Achillesa), kontuzja z 2026-10-13.
+        *   Jaylin Williams (C/F), Chet Holmgren (C), Ajay Mitchell (G), Thomas Sorber (C), Nikola Topic (G): Wszyscy wymienieni jako "Day-To-Day" (stan dzienny) na 2026-10-14. Ich status na dzień dzisiejszy (2026-10-16) jest niepotwierdzony jako "Out", "Questionable" lub "GTD" w najnowszych raportach dotyczących konkretnie 16 października.
+    *   **Houston Rockets:**
+        *   Brak zawodników oficjalnie zgłoszonych jako "Out" na 2026-10-11, z kluczowymi graczami takimi jak Alperen Sengun, Fred VanVleet, Kevin Durant i Steven Adams, którzy byli "Day-to-day" (z powodu odpoczynku lub braku kontuzji) i mieli wrócić około 2026-10-15.
+        *   Amen Thompson grał w meczu przedsezonowym 2026-10-16, co potwierdza jego dostępność.
+        *   Victor Oladipo jest długoterminowo kontuzjowany (naprawa ścięgna rzepki), ale nie figuruje w aktywnych raportach kontuzji na ten okres, co sugeruje, że nie jest on kluczowym brakiem wpływającym na skład meczowy.
 
-**Houston Rockets** 🚀
-
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na dzień 2026-10-16, które wskazywałyby na graczy ze statusem 'Out', 'Questionable' lub 'GTD'. Raport z 11 października 2026 wspominał o Alperenie Sengunie, Fredzie VanVleecie, Kevinie Durancie i Stevenie Adamsie jako "Day-to-day" (z powodu odpoczynku/niezwiązane z kontuzją) z przewidywanym powrotem około 15 października. Ten sam raport podkreślał, że "No Rockets player is listed out or doubtful right now."
-*   **Aktualny skład (stan na styczeń 2026/sezon 2025-26):** Kevin Durant, Alperen Sengun, Fred VanVleet, Jabari Smith Jr., Tari Eason, Steven Adams, Amen Thompson, Reed Sheppard, Clint Capela, Marcus Smart, Bogdan Bogdanović.
-
----
-
-**Werdykt dla typu: Rockets**
-
-*   **Werdykt:** ⚠️ RYZYKOWNY
-*   **Uzasadnienie:** Chociaż ostatnie raporty wskazują, że kluczowi gracze Houston Rockets, tacy jak Kevin Durant, Alperen Sengun, Fred VanVleet i Steven Adams, którzy byli wcześniej "Day-to-day", mieli powrócić około 15 października i nie byli wymienieni jako "out" ani "doubtful" w raporcie z 11 października, ich status na dzień dzisiejszy (16 października) nie jest definitywnie potwierdzony jako "Active" lub "Available" w nowym, odrębnym raporcie. Brak stuprocentowej pewności co do pełnej dostępności wszystkich kluczowych graczy Rockets wprowadza element ryzyka. Oklahoma City Thunder, pomimo braku debiutanta Otegi Oweha na cały sezon, jest silnym zespołem (z rekordem 64-18 w sezonie 2025-26).
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Oklahoma City Thunder ma potwierdzoną, poważną kontuzję Otegi Oweha na cały sezon. Dodatkowo, status kilku kluczowych zawodników Thunder był ostatnio niepewny (Day-To-Day).
+    *   Houston Rockets wydają się być w znacznie lepszej sytuacji kadrowej. Ich "Day-to-day" gracze byli przewidywani do powrotu około 2026-10-15, a Amen Thompson potwierdził swoją obecność na boisku 2026-10-16. W kontekście meczu przedsezonowego, skład Rockets wydaje się silniejszy i bardziej kompletny.
