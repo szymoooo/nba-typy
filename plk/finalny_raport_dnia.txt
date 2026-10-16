@@ -1,23 +1,52 @@
---- AUDYT PLK LIVE (2026-10-15 23:26 CET) ---
-Analiza meczu PLK:
+--- AUDYT PLK LIVE (2026-10-17 00:22 CET) ---
+Analiza meczów PLK na 2026-10-17:
 
-# Górnik Zamek Książ Wałbrzych @ Tasomix Rosiek Stal Ostrów Wielkopolski
+---
 
-*   🗓️ Data meczu: 2026-10-12
+### **MECZ: Zastal Zielona Góra (gosc) @ Euvic GTK Gliwice (gospodarz)**
+Hala: Mała Arena Gliwice, Gliwice
+Tip-off: 15:00
 
 1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składach koszykarskich na dzień meczu (2026-10-12) dla obu drużyn, zgodnie z dostępnymi raportami meczowymi i informacjami o kontuzjach z tego okresu. Wcześniejsze doniesienia o kontuzjach z lutego i kwietnia 2026 dla Górnika (np. Ike Smith, Marc Garcia) nie zostały potwierdzone jako aktywne na dzień 2026-10-12 w dostępnych źródłach.
+    *   Brak istotnych braków w składzie koszykarskim dla Zastalu Zielona Góra i Euvic GTK Gliwice na dzień 2026-10-17. Strona PLK.pl oraz inne źródła nie raportują kontuzji kluczowych zawodników dla obu drużyn na ten dzień.
 
-2.  **Aktualna forma top scorerów (stan na 2026-10-12):**
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
-        *   Karl Lips: 17.5 Pkt/mecz w sezonie 2026/2027. W meczu z Górnikiem zdobył 16 punktów.
-        *   Tajion Jones: 13.5 Pkt/mecz w sezonie 2026/2027. W meczu z Górnikiem zdobył 10 punktów.
-        *   Jaylin Hunter: 12 Pkt/mecz w sezonie 2026/2027. W meczu z Górnikiem zdobył 11 punktów.
-    *   **Górnik Zamek Książ Wałbrzych:**
-        *   Michaelyn Scott: 15 Pkt/mecz w sezonie 2026/2027. W meczu ze Stalą zdobył 15 punktów.
-        *   Adam Rohosy Jr: 14 Pkt/mecz w sezonie 2026/2027. W meczu ze Stalą zdobył 8 punktów.
-        *   Leemet Bockler: 11.5 Pkt/mecz w sezonie 2026/2027. W meczu ze Stalą zdobył 11 punktów.
+2.  **Aktualna forma top scorerów (sezon 2026/2027):**
+    *   **Zastal Zielona Góra:** Najlepsi strzelcy to Trazarien White (18.0 pkt/mecz) i Gauthier Denis (18.0 pkt/mecz), a także Andy Mazurczak (15.0 pkt/mecz).
+    *   **Euvic GTK Gliwice:** Najlepsi strzelcy to Kacper Gordon (15.0 pkt/mecz) i Selton Miguel (15.0 pkt/mecz).
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ PulsBasketu: Tasomix Rosiek Stal Ostrów Wielkopolski.
-    *   Faktyczny wynik meczu z 2026-10-12: Tasomix Rosiek Stal Ostrów Wielkopolski 65 : 81 Górnik Zamek Książ Wałbrzych. Górnik Zamek Książ Wałbrzych wygrał na wyjeździe.
+    *   Typowanie Zastalu Zielona Góra jako gościa jest ryzykowne. Choć Zastal ma silnych strzelców, GTK Gliwice będzie grać na własnym parkiecie. Brak informacji o kontuzjach dla obu zespołów sugeruje, że obie drużyny przystąpią w pełnych składach, co zwiększa konkurencyjność meczu.
+
+---
+
+### **MECZ: AMW Arka Gdynia (gosc) @ PGE Start Lublin (gospodarz)**
+Hala: MOSiR Globus, Lublin
+Tip-off: 17:30
+
+1.  **Kluczowe braki w składach:**
+    *   **AMW Arka Gdynia:** Jarosław Zyskowski doznał kontuzji, która wymagała zabiegu i wyeliminowała go z początku sezonu 2026/2027. Jego rehabilitacja przebiega zgodnie z planem, ale przewiduje się, że wróci do pełnych treningów później.
+    *   Brak istotnych braków w składzie koszykarskim dla PGE Start Lublin na dzień 2026-10-17.
+
+2.  **Aktualna forma top scorerów (sezon 2026/2027):**
+    *   **AMW Arka Gdynia:** Brak danych z API dla tego zespołu na dzień 2026-10-17. Drużyna jako całość zdobywa średnio 95.5 punktów na mecz. W składzie są Alex Stein, Kamil Łączyński, Jakub Garbacz.
+    *   **PGE Start Lublin:** Jaizec Lottie, Anrijs Miska, Janari Joesaar oraz Matthias Tass dołączyli do drużyny na początku września 2026 po zgrupowaniach reprezentacji. Drużyna jako całość zdobywa średnio 79.0 punktów na mecz.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typowanie AMW Arki Gdynia jest ryzykowne ze względu na kontuzję kluczowego zawodnika, Jarosława Zyskowskiego. Dodatkowo PGE Start Lublin gra u siebie, a pełny skład i dobra selekcja zawodników, o której mówił trener Wojciech Kamiński, mogą dawać im przewagę.
+
+---
+
+### **MECZ: King Szczecin (gosc) @ Energa Trefl Sopot (gospodarz)**
+Hala: Hala Sportowa 100-lecia Sopotu, Sopot
+Tip-off: 19:00
+
+1.  **Kluczowe braki w składach:**
+    *   **Energa Trefl Sopot:** Michał Michalak doznał kontuzji podczas przedsezonowego turnieju o Superpuchar Polski, która wyeliminowała go z pierwszych kolejek sezonu 2026/2027.
+    *   Brak istotnych braków w składzie koszykarskim dla King Szczecin na dzień 2026-10-17.
+
+2.  **Aktualna forma top scorerów (sezon 2026/2027):**
+    *   **King Szczecin:** Brak danych z API dla tego zespołu na dzień 2026-10-17. Drużyna jako całość zdobywa średnio 86.5 punktów na mecz.
+    *   **Energa Trefl Sopot:** Brak danych z API dla tego zespołu na dzień 2026-10-17. Drużyna jako całość ma średnią skuteczność rzutów za 3 punkty na poziomie 17.9%.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typowanie King Szczecin jako gościa jest ryzykowne. Energa Trefl Sopot gra u siebie i choć ma osłabienie w postaci kontuzji Michała Michalaka, przewaga własnego parkietu może być znacząca. Ponadto, brak dokładnych danych o aktualnej formie top scorerów dla obu zespołów zwiększa niepewność.
