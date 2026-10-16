@@ -1,16 +1,26 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-15 21:23 ET) ---
-Oto analiza Twojego typu na mecz Thunder @ Rockets, bazując na danych z 15 października 2026:
+--- KRYTYCZNY AUDYT LIVE (2026-10-15 22:37 ET) ---
+**Thunder @ Rockets -> Typ: Rockets**
 
-**Thunder @ Rockets**
+---
 
-*   **Kluczowe braki w składach:**
+*   **Kluczowe braki w składach (2026-10-15):**
+
     *   **Oklahoma City Thunder:**
-        *   Otega Oweh (G) – Uraz prawego ścięgna Achillesa. Zerwał ścięgno Achillesa 13 października 2026 roku i opuści cały sezon 2026-27. Jest to debiutujący rookie (wybrany w drugiej rundzie draftu 2026), który rywalizował o miejsce w składzie, więc jego brak nie powinien znacząco wpłynąć na główną rotację.
-        *   Brak innych aktualnych raportów o kontuzjach kluczowych graczy na dzień 15 października 2026, które by ich wykluczały. Wcześniejsze urazy Jalen Williams (ścięgno podkolanowe) i Ajay Mitchell (podeszwa) z Finałów Konferencji Zachodniej nie są raportowane jako aktywne na dzień 15 października 2026; gracze byli niedawno wymieniani w kontekście odpoczynku w preseasonie, co sugeruje ich dostępność.
-    *   **Houston Rockets:**
-        *   Brak aktualnych raportów (Injury Report) na tę chwilę, które wskazywałyby na graczy "Out", "Questionable" lub "GTD".
-        *   Alperen Sengun (C), Fred VanVleet (G), Kevin Durant (F), i Steven Adams (C) byli wymieniani jako "Day-to-day" z powodu "odpoczynku" lub "niezwiązanych z kontuzją" przyczyn, z przewidywanym powrotem około 15 października 2026. Oznacza to, że są oni dostępni do gry. Kevin Durant wracał po kontuzji kostki, która ograniczyła go w poprzednim sezonie, a Fred VanVleet po operacji kolana, obaj są spodziewani w składzie.
+        *   Otega Oweh (SG): Kontuzja Achillesa (zerwany prawy Achilles), wykluczony na cały sezon 2026-27.
+        *   Chet Holmgren (C): Questionable (mięsień czworogłowy uda) ❓
+        *   Ajay Mitchell (PG): Questionable (odpoczynek) ❓
+        *   Thomas Sorber (C): Questionable (kolano) ❓
+        *   Nikola Topić (PG): Questionable (plecy) ❓
+        *   Jaylin Williams (C): Questionable (pięta) ❓
+        *(Należy pamiętać, że Oweh, choć wykluczony na sezon, jest debiutantem i nie był kluczową postacią w rotacji na start sezonu. Jednak liczne statusy "Questionable" dla innych graczy są znaczące.)*
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Thunder będą bez debiutującego Otegi Oweh, ale jego nieobecność, jako rezerwowego rookie, nie osłabia znacząco podstawowego składu. Thunder, z Shaiem Gilgeousem-Alexanderem, są uważani za czołowego kandydata do tytułu.
-    *   Rockets, wzmocnieni Kevinem Durantem, mają prawdopodobnie dostępnych wszystkich kluczowych graczy, pomimo wcześniejszych "day-to-day" oznaczeń dla kilku ważnych zawodników, co jest typowe dla fazy przedsezonowej. W związku z tym, że brak jest istotnych kontuzji wpływających na podstawowe rotacje obu drużyn, typ na Rockets jest akceptowalny.
+    *   **Houston Rockets:**
+        *   Kevin Durant (F): Potwierdzony udział w meczu (niezwiązane z kontuzją, przewidywana gra przez jedną połowę) ✅
+        *   Alperen Sengun (C): Day-to-day (odpoczynek, powrót około 15 października) 🗓️
+        *   Fred VanVleet (G): Day-to-day (odpoczynek, powrót około 15 października) 🗓️
+        *   Steven Adams (C): Day-to-day (odpoczynek, powrót około 15 października) 🗓️
+        *(Statusy "Day-to-day" z przewidywanym powrotem na 15 października sugerują potencjalną dostępność, choć nie są to twarde potwierdzenia. Zważywszy na to, że Durant jest potwierdzony do gry, a pozostali są day-to-day na rest, nie są uznawani za definitywnie wykluczonych z gry.)*
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+
+    Typ jest **RYZYKOWNY** ze względu na liczne statusy "Questionable" dla kluczowych graczy Oklahoma City Thunder (Holmgren, Jaylin Williams, itp.), które mogą znacząco osłabić ich skład. Chociaż Kevin Durant ma zagrać dla Rockets, i inni gracze Rockets są "Day-to-day" na rest, potencjalne braki w Thunder stwarzają dużą niepewność.
