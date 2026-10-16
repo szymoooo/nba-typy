@@ -1,17 +1,110 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-16 08:59 ET) ---
-Na podstawie danych z 2026-10-16:
+--- KRYTYCZNY AUDYT LIVE (2026-10-16 13:53 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z dnia 2026-10-16:
 
-**Thunder @ Rockets** -> Typ: Rockets
+---
+
+**Heat @ Magic -> Typ: Heat**
 
 *   **Kluczowe braki w składach:**
-    *   **Oklahoma City Thunder:**
-        *   Otega Oweh (G): Sezon zakończony (zerwane ścięgno Achillesa), kontuzja z 2026-10-13.
-        *   Jaylin Williams (C/F), Chet Holmgren (C), Ajay Mitchell (G), Thomas Sorber (C), Nikola Topic (G): Wszyscy wymienieni jako "Day-To-Day" (stan dzienny) na 2026-10-14. Ich status na dzień dzisiejszy (2026-10-16) jest niepotwierdzony jako "Out", "Questionable" lub "GTD" w najnowszych raportach dotyczących konkretnie 16 października.
-    *   **Houston Rockets:**
-        *   Brak zawodników oficjalnie zgłoszonych jako "Out" na 2026-10-11, z kluczowymi graczami takimi jak Alperen Sengun, Fred VanVleet, Kevin Durant i Steven Adams, którzy byli "Day-to-day" (z powodu odpoczynku lub braku kontuzji) i mieli wrócić około 2026-10-15.
-        *   Amen Thompson grał w meczu przedsezonowym 2026-10-16, co potwierdza jego dostępność.
-        *   Victor Oladipo jest długoterminowo kontuzjowany (naprawa ścięgna rzepki), ale nie figuruje w aktywnych raportach kontuzji na ten okres, co sugeruje, że nie jest on kluczowym brakiem wpływającym na skład meczowy.
+    *   Heat: Smith (kontuzja, opuści co najmniej kilka najbliższych tygodni).
+    *   Magic: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Strata Smitha, nawet jeśli nie jest to gwiazda pierwszego formatu, osłabia rotację Heat. Brak danych o urazach Magic sprawia, że ocena jest bardziej niepewna.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Oklahoma City Thunder ma potwierdzoną, poważną kontuzję Otegi Oweha na cały sezon. Dodatkowo, status kilku kluczowych zawodników Thunder był ostatnio niepewny (Day-To-Day).
-    *   Houston Rockets wydają się być w znacznie lepszej sytuacji kadrowej. Ich "Day-to-day" gracze byli przewidywani do powrotu około 2026-10-15, a Amen Thompson potwierdził swoją obecność na boisku 2026-10-16. W kontekście meczu przedsezonowego, skład Rockets wydaje się silniejszy i bardziej kompletny.
+---
+
+**Celtics @ 76ers -> Typ: Celtics**
+
+*   **Kluczowe braki w składach:**
+    *   Celtics: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   76ers: Ariel Hukporti (zerwane ścięgno Achillesa – poza grą przez cały sezon), Tacko Fall (kontuzja biodra – poza grą na co najmniej 2 tygodnie), Adem Bona (uraz stopy – Day To Day, nie zagra w dzisiejszym meczu preseason), Dominick Barlow (uraz pleców – poza grą, brak harmonogramu powrotu).
+*   **Werdykt:** [✅ ZATWIERDZONY] – 76ers mają poważne braki, szczególnie w strefie podkoszowej, co znacznie zwiększa szanse Celtics.
+
+---
+
+**Raptors @ Pistons -> Typ: Pistons**
+
+*   **Kluczowe braki w składach:**
+    *   Raptors: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Pistons: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak konkretnych informacji o kontuzjach dla obu zespołów sprawia, że typ jest niepewny.
+
+---
+
+**Bucks @ Pacers -> Typ: Pacers**
+
+*   **Kluczowe braki w składach:**
+    *   Bucks: Giannis Antetokounmpo (sprzedany do Miami Heat 6 lipca 2026), Bobby Portis (sprzedany do Miami Heat 6 lipca 2026). Brak aktualnych raportów (Injury Report) na tę chwilę dla pozostałych graczy.
+    *   Pacers: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Brak Giannisa i Portisa to gigantyczne osłabienie Bucks. Typ na Pacers jest uzasadniony.
+
+---
+
+**Hawks @ Mavericks -> Typ: Hawks**
+
+*   **Kluczowe braki w składach:**
+    *   Hawks: Henri Veesaar (zerwane ACL – poza grą przez cały sezon 2026-27), Mouhamed Gueye (złamanie stopy – ponowna ocena za 3-4 miesiące).
+    *   Mavericks: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Długoterminowe kontuzje Veesaara i Gueye'a osłabiają Hawks. Brak informacji o Mavs dodaje niepewności.
+
+---
+
+**Kings @ Spurs -> Typ: Spurs**
+
+*   **Kluczowe braki w składach:**
+    *   Kings: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Spurs: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak aktualnych raportów o kontuzjach dla obu zespołów czyni ten typ ryzykownym.
+
+---
+
+**Hornets @ Grizzlies -> Typ: Grizzlies**
+
+*   **Kluczowe braki w składach:**
+    *   Hornets: K. Knueppel (Questionable na noc otwarcia), Williams (opuści preseason, ponowna ocena w pierwszym tygodniu sezonu regularnego).
+    *   Grizzlies: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Kontuzje i status "Questionable" dla Hornets mogą wpłynąć na ich grę. Brak danych o Grizzlies.
+
+---
+
+**Wizards @ Pelicans -> Typ: Pelicans**
+
+*   **Kluczowe braki w składach:**
+    *   Wizards: Tristan Vukcevic (OUT na co najmniej 4 tygodnie), Tristan Watkins (zerwane ACL – 9-12 miesięcy rekonwalescencji).
+    *   Pelicans: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Wizards mają znaczące braki, szczególnie Vukcevic i Watkins są poza grą na długi czas. Pelicans wydają się mieć pełny skład.
+
+---
+
+**Timberwolves @ Bulls -> Typ: Timberwolves**
+
+*   **Kluczowe braki w składach:**
+    *   Timberwolves: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Bulls: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak aktualnych raportów o kontuzjach dla obu zespołów sprawia, że typ jest niepewny.
+
+---
+
+**Trail Blazers @ Warriors -> Typ: Trail Blazers**
+
+*   **Kluczowe braki w składach:**
+    *   Trail Blazers: Shaedon Sharpe (kontuzja łąkotki w prawym kolanie – poza grą, ponowna ocena po sześciu miesiącach).
+    *   Warriors: Kristaps Porzingis (nieujawniona kwestia zdrowotna – poza grą na czas nieokreślony), Jimmy Butler III (kontuzja kolana), Moses Moody (kontuzja kolana). Draymond Green i inni gracze rotacji mogą być oszczędzani w preseason.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Mimo znaczących osłabień Warriors, kontuzja Shaedona Sharpe'a to duża strata dla Trail Blazers. Typ na Trail Blazers jest ryzykowny z uwagi na jego brak.
+
+---
+
+**Jazz @ Suns -> Typ: Jazz**
+
+*   **Kluczowe braki w składach:**
+    *   Jazz: Jusuf Nurkic (częściowe zerwanie płytki podeszwowej drugiego palca prawej stopy – poza grą na co najmniej cztery tygodnie).
+    *   Suns: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak Nurkicia to istotne osłabienie Jazz w strefie podkoszowej. Brak danych o Suns zwiększa ryzyko.
+
+---
+
+**Nuggets @ Lakers -> Typ: Lakers**
+
+*   **Kluczowe braki w składach:**
+    *   Nuggets: Julian Strawther (problem z kolanem). DeMar DeRozan (odpoczynek).
+    *   Lakers: Luka Doncic (odpoczynek, prawdopodobnie dostępny), Ziaire Williams (stłuczenie lewej stopy – status niepewny, ale poprawia się), Collin Sexton (kontuzja dolnej części nogi – nie zagrał w preseason).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Lakers mają kilku kluczowych graczy z kontuzjami lub ich status jest niepewny, pomimo powrotu Doncicia. Nawet jeśli Doncic jest "resting", Sexton i Williams to ważne braki.

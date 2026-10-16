@@ -2034,13 +2034,13 @@
   {
     "home_team": {
       "name": "Arriva Lotto Twarde Pierniki Toruń",
-      "score": 0,
+      "score": 110,
       "team_id": 34,
       "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14"
     },
     "away_team": {
       "name": "Enea Łaciate Astoria Bydgoszcz",
-      "score": 0,
+      "score": 96,
       "team_id": 7,
       "logo": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14"
     },
@@ -2053,7 +2053,7 @@
     "avg_yt_viewers": null,
     "peak_yt_viewers": null,
     "tv_channel": "polsat",
-    "fiba_game_id": null,
+    "fiba_game_id": "2939742",
     "odds_home": null,
     "odds_away": null,
     "city": "Toruń",
@@ -2085,7 +2085,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 0,
+    "possessions": 152,
     "highest_lead": 0,
     "round_name": "3 kolejka",
     "stage_name": "Runda Zasadnicza",
@@ -2124,7 +2124,7 @@
     "avg_yt_viewers": null,
     "peak_yt_viewers": null,
     "tv_channel": "polsat",
-    "fiba_game_id": null,
+    "fiba_game_id": "2939743",
     "odds_home": null,
     "odds_away": null,
     "city": "Warszawa",
