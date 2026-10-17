@@ -1,46 +1,29 @@
---- AUDYT PLK LIVE (2026-10-17 13:39 CET) ---
-## Analiza meczów PLK (2026-10-17)
+--- AUDYT PLK LIVE (2026-10-17 13:57 CET) ---
+## Analiza Meczów PLK (2026-10-17)
 
 ### MECZ: Zastal Zielona Góra (gosc) @ Euvic GTK Gliwice (gospodarz)
-Hala: Mała Arena Gliwice, Gliwice
-Tip-off: 15:00
-
 *   **Kluczowe braki w składach:**
-    *   **Zastal Zielona Góra:** Brak informacji o istotnych brakach w składzie koszykarskim na dzień 2026-10-17. Sagaba Konate doznał poważnej kontuzji nadgarstka w Pucharze Polski w lutym 2026 roku, co wykluczało go na dłuższy czas, ale brak aktualnych informacji o jego statusie na październik 2026.
-    *   **Euvic GTK Gliwice:** Brak istotnych braków w składzie koszykarskim na dzień 2026-10-17. W listopadzie 2025 roku Kuba Piśla i Jayden Delaire zmagali się z urazami, ale brak aktualnych informacji o ich statusie na październik 2026, a skład na sezon 2026/2027 został przebudowany.
-
-*   **Aktualna forma top scorerów (sezon 2026/2027):**
-    *   **Zastal Zielona Góra:**
-        *   Trazarien White: 18 pkt/mecz. W meczu 2. kolejki przeciwko Legii Warszawa zdobył 30 punktów. W ostatnim meczu FIBA Europe Cup przeciwko Patrioti Levice zdobył 13 punktów.
-        *   Gauthier Denis: 18 pkt/mecz.
-        *   Andy Mazurczak: 15 pkt/mecz. W ostatnim meczu FIBA Europe Cup z Patrioti Levice zanotował drugie double-double w barwach Zastalu i swój ósmy występ z dorobkiem co najmniej 20 punktów.
-    *   **Euvic GTK Gliwice:**
-        *   Kacper Gordon: 15 pkt/mecz. Jest jedną z najważniejszych postaci w zespole GTK Gliwice.
-        *   Selton Miguel: 15 pkt/mecz. Odgrywał ważną rolę w meczu z Astorią.
-        *   Eric Nottage: 12.5 pkt/mecz. Zdobył 19 punktów w spotkaniu z Astorią.
-
-*   **Werdykt:** [✅ ZATWIERDZONY] Zastal ma silnych strzelców i wydaje się być w dobrej formie ofensywnej.
+    *   **Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
+    *   **Euvic GTK Gliwice:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:**
+    *   **Zastal Zielona Góra:** Trazarien White (18 Pkt/mecz) i Gauthier Denis (18 Pkt/mecz) są w czołówce strzelców zespołu, a Andy Mazurczak notuje 15 Pkt/mecz. Trazarien White rzucił 30 punktów w meczu 2. kolejki przeciwko Legii Warszawa, co świadczy o jego dobrej formie strzeleckiej.
+    *   **Euvic GTK Gliwice:** Brak danych z API dla tego zespołu na temat aktualnej formy top scorerów. Skład Euvic GTK Gliwice na sezon 2026/2027 obejmuje m.in. Justina Graya i Seltona Miguela.
+*   **Werdykt:** [✅ ZATWIERDZONY]
 
 ### MECZ: AMW Arka Gdynia (gosc) @ PGE Start Lublin (gospodarz)
-Hala: MOSiR Globus, Lublin
-Tip-off: 17:30
-
 *   **Kluczowe braki w składach:**
-    *   **AMW Arka Gdynia:** Brak istotnych braków w składzie koszykarskim na dzień 2026-10-17.
-    *   **PGE Start Lublin:** Brak istotnych braków w składzie koszykarskim na dzień 2026-10-17.
-
-*   **Aktualna forma top scorerów:** brak danych z API dla tego zespołu.
-
-*   **Werdykt:** [⚠️ RYZYKOWNY] Brak aktualnych danych o formie top scorerów dla obu zespołów, co utrudnia ocenę.
+    *   **AMW Arka Gdynia:** Jarosław Zyskowski doznał kontuzji, która wymagała zabiegu i ma z głowy początek sezonu 2026/2027. Rehabilitacja Jarosława Zyskowskiego przebiega zgodnie z planem, ale jego powrót do pełnych treningów potrwa.
+    *   **PGE Start Lublin:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:**
+    *   **AMW Arka Gdynia:** Jakub Garbacz znalazł się w najlepszej piątce 2. kolejki PGE Basket Ligi. On sam podkreśla, że "żyje z podań kolegów", szczególnie Kamila Łączyńskiego, co wskazuje na efektywną współpracę w ataku.
+    *   **PGE Start Lublin:** Jaizec Lottie (15.5 Pkt/mecz), Lucas Williamson (14.5 Pkt/mecz) i Matthias Tass (13.5 Pkt/mecz) są w czołówce strzelców drużyny.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Ze względu na brak Jarosława Zyskowskiego w składzie Arki).
 
 ### MECZ: King Szczecin (gosc) @ Energa Trefl Sopot (gospodarz)
-Hala: Hala Sportowa 100-lecia Sopotu, Sopot
-Tip-off: 19:00
-
 *   **Kluczowe braki w składach:**
-    *   **King Szczecin:** Brak istotnych braków w składzie koszykarskim na dzień 2026-10-17.
-    *   **Energa Trefl Sopot:** Brak istotnych braków w składzie koszykarskim na dzień 2026-10-17.
-
-*   **Aktualna forma top scorerów:** brak danych z API dla tego zespołu.
-
-*   **Werdykt:** [⚠️ RYZYKOWNY] Brak aktualnych danych o formie top scorerów dla obu zespołów, co utrudnia ocenę.
+    *   **King Szczecin:** Brak istotnych braków w składzie koszykarskim.
+    *   **Energa Trefl Sopot:** Michał Michalak doznał kontuzji podczas przedsezonowego turnieju o Superpuchar Polski, która wyeliminowała go z pierwszych kolejek sezonu 2026/2027. Jego powrót jest niepewny.
+*   **Aktualna forma top scorerów:**
+    *   **King Szczecin:** Przemysław Żołnierewicz (17.5 Pkt/mecz), Zahir Porter (16 Pkt/mecz) i Alexandre Chassang (13 Pkt/mecz) to czołowi strzelcy zespołu.
+    *   **Energa Trefl Sopot:** Brak danych z API dla tego zespołu na temat aktualnej formy top scorerów. Michał Michalak, mimo kontuzji, był planowany jako jedna z kluczowych postaci. Skład Energa Trefl Sopot na sezon 2026/2027 zawiera m.in. Jakuba Schenka.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Ze względu na brak Michała Michalaka w składzie Trefla).

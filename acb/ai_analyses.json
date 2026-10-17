@@ -1,24 +1,40 @@
 {
-  "generated_at": "2026-10-17T07:11:11.908870",
+  "generated_at": "2026-10-17T11:58:59.177407",
   "date": "2026-10-17",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Río Breogán @ MoraBanc Andorra",
+      "matchup": "Unicaja @ Kids&Us Manresa",
       "phase": "Regular Season",
-      "ai_pick": "Río Breogán",
-      "formula_pick": "MoraBanc Andorra",
+      "ai_pick": "Unicaja",
+      "formula_pick": "Kids&Us Manresa",
       "agreement": false,
-      "confidence": 8,
-      "reasoning": "Río Breogán wchodzi w ten mecz z doskonałą formą, mając bilans 3-0 w Lidze Endesa 2026/27 i imponujące wyniki ofensywne w ostatnich meczach. MoraBanc Andorra z kolei przegrała wszystkie trzy dotychczasowe spotkania w tym sezonie. Mimo przewagi własnego parkietu, słaba forma gospodarzy w obecnym sezonie stawia ich w trudnej pozycji.",
+      "confidence": 7,
+      "reasoning": "Kids&Us Manresa rozpoczyna sezon z bilansem 0-3 w Liga Endesa i zmaga się z kontuzjami, w tym Hugo Beníteza, a także ogólnie 'osłabionym' składem. Unicaja, mimo że również nie prezentuje idealnej formy w innych rozgrywkach, ma lepszy bilans w ACB (1-2) i wyższy wskaźnik drużynowy (rating) w porównaniu do Manresy.",
       "key_factors": [
-        "Forma Río Breogán (3-0 w sezonie 2026/27 ACB)",
-        "Słaba forma MoraBanc Andorra (0-3 w sezonie 2026/27 ACB)",
-        "Skuteczna ofensywa Río Breogán w pierwszych meczach",
-        "Przewaga własnego parkietu MoraBanc Andorra"
+        "Słaba forma Kids&Us Manresa w Liga Endesa (0-3).",
+        "Kontuzje w Kids&Us Manresa (Hugo Benítez, ogólnie 'osłabiony' skład).",
+        "Lepszy bilans Unicaji w ACB (1-2) i wyższy rating drużyny.",
+        "Kontuzja Alberto Díaza w Unicaji, choć drużyna wydaje się lepiej radzić."
       ],
-      "injury_notes": "Brak istotnych nowych braków. Tevin Brown (Río Breogán) miał drobną kontuzję kostki przed poprzednim meczem (10.10.2026), ale oczekiwano, że zagra i nie ma doniesień o jego wykluczeniu."
+      "injury_notes": "Kids&Us Manresa: Hugo Benítez doznał silnego stłuczenia żeber 26 września 2026 roku. Dodatkowo, 15 października 2026 roku donoszono o ogólnie 'osłabionym' składzie Kids&Us Manresa. Unicaja: Alberto Díaz jest wyłączony z gry na 6-8 tygodni."
+    },
+    {
+      "matchup": "Monbus Obradoiro @ Recoletas Salud San Pablo Burgos",
+      "phase": "Regular Season",
+      "ai_pick": "Monbus Obradoiro",
+      "formula_pick": "Recoletas Salud San Pablo Burgos",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Monbus Obradoiro wchodzi w ten mecz z lepszym bilansem (2-1) i wykazuje lepszą formę na początku sezonu, w tym zwycięstwo nad Forca Lleida i zaciętą porażkę z Realem Madryt po dogrywce. Recoletas Salud San Pablo Burgos ma bilans 1-2, przegrywając swój inauguracyjny mecz u siebie oraz ostatnio z Surne Bilbao.",
+      "key_factors": [
+        "Lepsza forma drużyny Monbus Obradoiro (2-1 w sezonie)",
+        "Wyraźna aktualna forma liderów Monbus Obradoiro (Soriano, Childress, Agada)",
+        "Brak potwierdzonych istotnych kontuzji w Monbus Obradoiro na dzień meczu",
+        "Przewaga własnego parkietu dla Recoletas Salud San Pablo Burgos"
+      ],
+      "injury_notes": "Recoletas Salud San Pablo Burgos zgłosiło w sierpniu 2026 kontuzje Balsy Koprivicy (dyskomfort mięśnia czworogłowego), Raúla Lobaco (ostry ból pleców) i Chase'a Audige'a (skręcenie kostki) w okresie przedsezonowym. Vlatko Cancar, Retin Obasohan i DJ Steward kontynuowali rehabilitację. Status tych graczy na 17 października 2026 r. nie jest znany i brak jest aktualnych informacji. Brak danych o istotnych kontuzjach w Monbus Obradoiro na dzień meczu."
     }
   ]
 }
