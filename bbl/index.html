@@ -142,7 +142,28 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('bbl_140335283435712')">
+        <div class="card-header">
+            <span>20:00 CET</span><span class="click-hint">Kliknij po analizę →</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="Phoenix Hagen"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Phoenix Hagen</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="ratiopharm ulm"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">ratiopharm ulm</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">ratiopharm ulm</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: October 17, 2026 at 21:13 &middot; Data: Sofascore / 24score
+        Last updated: October 17, 2026 at 21:29 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"bbl_140335283435712": {"matchup": "Phoenix Hagen @ ratiopharm ulm", "pick": "ratiopharm ulm", "reasoning": "ratiopharm ulm ma przewagę własnego parkietu w meczu Pucharu BBL i już raz pokonał Phoenix Hagen w tym sezonie ligowym (93-78). Chociaż forma ligowa ratiopharm ulm to 2 zwycięstwa i 3 porażki w ostatnich pięciu meczach BBL, Phoenix Hagen ma bilans 1 zwycięstwa i 4 porażek w tym samym okresie.", "key_factors": ["Przewaga własnego parkietu ratiopharm ulm", "Wygrana ratiopharm ulm w bezpośrednim starciu w tym sezonie (93-78)", "Lepsza ogólna forma ratiopharm ulm w porównaniu do Phoenix Hagen w ostatnich meczach BBL"], "confidence": 8, "injury_notes": "Brak istotnych, potwierdzonych kontuzji dla ratiopharm ulm na dzień 2026-10-17. We wrześniu 2026 ratiopharm ulm pozyskał Marvina Heckela w reakcji na wcześniejsze kontuzje w składzie, ale brak jest aktualnych konkretnych nazwisk. Dla Phoenix Hagen, Le'Tre Darthard był wykluczony, a udział Nate'a Johnsona był wątpliwy w meczu 8 października 2026 r., ale ich status na dzisiejszy mecz jest niejasny. Warto zaznaczyć, że pojawiła się sprzeczna informacja z 11 października 2026 r., sugerująca, że Phoenix Hagen wstrzymał działalność z powodu problemów finansowych, jednak inne źródła, w tym oficjalna strona klubu i terminarz BBL-Pokal, jasno wskazują, że mecz 17 października 2026 r. odbywa się zgodnie z planem.", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {
