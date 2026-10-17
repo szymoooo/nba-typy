@@ -1,18 +1,21 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-16 22:29 ET) ---
-Na podstawie danych z 2026-10-16:
+--- KRYTYCZNY AUDYT LIVE (2026-10-17 03:10 ET) ---
+W oparciu o dzisiejsze dane z sieci (2026-10-17):
 
-**Denver Nuggets @ Los Angeles Lakers**
+**Nuggets @ Lakers -> Typ: Lakers**
 
-*   **Kluczowe braki w składach:**
-    *   **Denver Nuggets:**
-        *   Spencer Jones: Zwichnięcie ścięgna podkolanowego (OUT) 🩹
-        *   Julian Strawther: Kontuzja kolana (Questionable). Raporty z 17 października 2026 potwierdziły skręcenie kolana i 6-tygodniową przerwę. Na dzień 16 października był to "największy znak zapytania". 🤕
-    *   **Los Angeles Lakers:**
-        *   Collin Sexton: Nie grał na żywo 5 na 5, co jest "poważniejszym zmartwieniem" i wpływa na organizację gry rezerwowych. Status: Prawdopodobnie niedostępny/ograniczony. ⚠️
-        *   Luka Dončić: Wymieniony jako odpoczywający (rest), ale odbył pełny trening w czwartek, co sugeruje jego dostępność w pewnym zakresie. Nie jest to kluczowy brak. ✅
+*   Brak zaplanowanego meczu Nuggets @ Lakers na dzień 17 października 2026. Sezon zasadniczy NBA rozpoczyna się 20 października 2026. Ostatni mecz tych drużyn był finałem presezonu 16 października 2026.
 
-*   **Werdykt dla typu "Lakers":** [⚠️ RYZYKOWNY]
-    *   Jest to mecz przedsezonowy, gdzie zarządzanie obciążeniem gwiazd (Jokić, Dončić) i ocena młodych zawodników są priorytetem, a niekoniecznie samo zwycięstwo.
-    *   Nuggets mają potwierdzone braki w głębi składu na skrzydłach (Jones OUT, Strawther bardzo wątpliwy/nieobecny).
-    *   Lakers również mają wątpliwości co do dostępności Colina Sextona, co może wpłynąć na drugą jednostkę.
-    *   Ze względu na charakter meczu przedsezonowego i brak pewności co do pełnego zaangażowania kluczowych graczy, wynik jest wysoce nieprzewidywalny.
+**Kluczowe braki w składach (stan na 2026-10-17):**
+
+*   **Denver Nuggets:**
+    *   **Julian Strawther (SG/SF):** Poza grą na co najmniej sześć tygodni z powodu skręcenia lewego kolana, którego doznał 14 października podczas meczu przedsezonowego. Będzie ponownie oceniony za sześć tygodni. Ominie co najmniej pierwszych 17 meczów sezonu.
+    *   **Spencer Jones:** Borykał się z kontuzją ścięgna podkolanowego i miał ograniczenia w presezonie. Brak aktualnych raportów (Injury Report) na tę chwilę o statusie "Out", "Questionable" lub "GTD" na dzień 17 października.
+*   **Los Angeles Lakers:**
+    *   **Collin Sexton (G):** Doznał kontuzji dolnej części nogi. 15 października uczestniczył we wszystkich częściach treningu oprócz tych z kontaktem i "zmiesza się w dobrym kierunku", aby zagrać w meczu otwarcia sezonu 21 października. Oznacza to, że jego status na hipotetyczny mecz 17 października byłby prawdopodobnie "Questionable" lub "GTD".
+    *   **Ziaire Williams (SF):** Zmagał się z stłuczeniem lewej stopy. 15 października był optymistycznie nastawiony do gry w meczu finałowym presezonu 16 października, po pełnym udziale w treningu. Jego status na hipotetyczny mecz 17 października byłby prawdopodobnie "Questionable" lub "GTD", z tendencją do powrotu.
+    *   **LeBron James:** Opuścił Lakers i dołączył do Philadelphia 76ers.
+    *   **Luka Dončić:** Obecnie w składzie Los Angeles Lakers.
+
+**Werdykt dla typu "Lakers":**
+
+*   [⚠️ RYZYKOWNY] – Ze względu na brak zaplanowanego meczu na dzień 17 października 2026, nie można zatwierdzić ani odrzucić konkretnego wyniku meczu. Jednakże, biorąc pod uwagę bieżące składy, Los Angeles Lakers, z Luką Dončiciem na czele i potencjalnym powrotem Sextona i Williamsa, prezentują silniejszy skład w porównaniu do Nuggets osłabionych brakiem Strawthera. Typ jest ryzykowny tylko ze względu na brak konkretnego meczu.
