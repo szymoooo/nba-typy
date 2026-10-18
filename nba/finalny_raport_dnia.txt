@@ -1,43 +1,48 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-18 15:26 ET) ---
-Zgodnie z informacjami z sieci, mecze Celtics @ Pistons, 76ers @ Knicks i Thunder @ Spurs NIE SĄ zaplanowane na dzień dzisiejszy, 18 października 2026. Są to mecze otwarcia sezonu NBA 2026-2027, zaplanowane na **wtorek, 20 października 2026**.
-
-W związku z tym, analiza "dzisiejszych danych" dla tych konkretnych typów na 18 października jest niemożliwa. Poniższa analiza opiera się na raportach kontuzji z dnia 18 października 2026 lub z jego okolic, które będą miały zastosowanie do meczów 20 października 2026. Składy drużyn są oparte na dostępnych informacjach na sezon 2026-2027.
+--- KRYTYCZNY AUDYT LIVE (2026-10-18 17:31 ET) ---
+Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-10-18):
 
 ---
 
-### Celtics @ Pistons -> Typ: Pistons
+### **Celtics @ Pistons**
+*   **Typ użytkownika:** Pistons
 
-*   **Kluczowe braki w składach (na 20 października):**
-    *   **Boston Celtics:**
-        *   Devin Carter (SG): OUT (Choroba). Przewidywany powrót najwcześniej 27 października.
-    *   **Detroit Pistons:**
-        *   Brak aktualnych raportów (Injury Report) dla kluczowych graczy na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mimo braku kluczowych kontuzji w Pistons, typ na zwycięstwo nad silnymi Celtics (którzy w składzie na 2026-27 mają m.in. Jaysona Tatuma i Paula George'a) jest ryzykowny, zwłaszcza zważywszy na brak głębszej analizy matchupów i formy, do której nie mam dostępu. Nieobecność Devina Cartera, choć jako SG, może wpłynąć na głębię składu Celtics.
+*   **Kluczowe braki w składach (2026-10-18):**
+    *   **Boston Celtics:** Devin Carter (PG/SG) – Out (mononukleoza, przewidywana nieobecność na kilka tygodni). Jest to gracz z dwustronnym kontraktem, więc jego wpływ na rotację głównego składu NBA może być ograniczony.
+    *   **Detroit Pistons:** Brak aktualnych raportów (Injury Report) na tę chwilę.
 
----
-
-### 76ers @ Knicks -> Typ: Knicks
-
-*   **Kluczowe braki w składach (na 20 października):**
-    *   **Philadelphia 76ers:**
-        *   Ariel Hukporti (C): OUT (Zerwanie ścięgna Achillesa).
-        *   Anfernee Simons (SG): QUESTIONABLE (Uraz ścięgna podkolanowego).
-        *   Dominick Barlow (SF): QUESTIONABLE (Uraz pleców).
-        *   Adem Bona (C): QUESTIONABLE (Uraz stopy).
-    *   **New York Knicks:**
-        *   Brak aktualnych raportów (Injury Report) dla kluczowych graczy na tę chwilę.
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Typ na Knicks wydaje się zatwierdzony ze względu na liczne osłabienia 76ers, w tym kluczowych graczy takich jak Ariel Hukporti (OUT) i Anfernee Simons (QUESTIONABLE). Knicks na sezon 2026-27 posiadają w składzie Jalen Brunsona, Mikal Bridgesa i Karla-Anthony'ego Townsa.
+    Brak kluczowych kontuzji wśród podstawowych graczy Pistons oraz jedynie drugoplanowa absencja w Celtics sprawia, że typ na Pistons wydaje się uzasadniony, zwłaszcza biorąc pod uwagę ich prognozowaną siłę.
 
 ---
 
-### Thunder @ Spurs -> Typ: Spurs
+### **76ers @ Knicks**
+*   **Typ użytkownika:** Knicks
 
-*   **Kluczowe braki w składach (na 20 października):**
-    *   **Oklahoma City Thunder:**
-        *   Otega Oweh (Gracz): OUT na cały sezon 2026-27 (Operacja).
-    *   **San Antonio Spurs:**
-        *   Malaki Branham (Gracz): OUT (Uraz kciuka) do 18 grudnia.
+*   **Kluczowe braki w składach (2026-10-18):**
+    *   **Philadelphia 76ers:**
+        *   Ariel Hukporti (C) – Out (zerwane ścięgno Achillesa, poza grą na cały sezon 2026-27).
+        *   Dean Wade (PF) – Questionable (ból w kostce).
+        *   Dominick Barlow (PF) i Tacko Fall (C) – nie grali w niedzielę, zgłaszają dolegliwości, ale ich wpływ na rotację jest mniejszy.
+    *   **New York Knicks:**
+        *   Josh Hart (SG/SF) – Questionable (ból w kostce, status niepewny na najbliższy mecz).
+        *   Drew Eubanks (C) – Out (zerwany mięsień piersiowy, zwolniony z kontraktu 15.10.2026).
+
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Obie drużyny mają istotne braki. Thunder tracą Otege Oweha na cały sezon, natomiast Spurs będą musieli radzić sobie bez Malakiego Branhama, który jest ważnym graczem rotacyjnym. Biorąc pod uwagę równoważące się absencje i brak dalszych informacji, ten typ jest ryzykowny.
+    Knicks są obrońcami tytułu mistrzowskiego NBA, co daje im przewagę, ale potencjalna absencja kluczowego gracza, jakim jest Josh Hart, oraz wzmocnienia 76ers (LeBron James, Jaylen Brown) sprawiają, że typ na Knicks jest ryzykowny. Stan zdrowia Deana Wade'a również może wpłynąć na głębię składu 76ers.
+
+---
+
+### **Thunder @ Spurs**
+*   **Typ użytkownika:** Spurs
+
+*   **Kluczowe braki w składach (2026-10-18):**
+    *   **Oklahoma City Thunder:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   **San Antonio Spurs:**
+        *   Jayden Quaintance (F) – Out (operacja kolana, poza grą do Nowego Roku).
+        *   Tobias Harris (SF/PF) – Day-to-day (ból w łydce, przewidywany powrót około 20 października).
+        *   De'Aaron Fox (PG) – Day-to-day (nieujawniona kontuzja, przewidywany powrót około 10 października).
+        *   Maliq Brown (PF) – Day-to-day (ból pleców, przewidywany powrót około 10 października).
+        *   Malik Williams (C) – Day-to-day (nieujawniona kontuzja, przewidywany powrót około 10 października).
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    San Antonio Spurs mają kilku kluczowych graczy (De'Aaron Fox, Tobias Harris) z niepewnym statusem "day-to-day", co stanowi poważne osłabienie. Długoterminowa absencja Jaydena Quaintance'a również wpływa na głębię składu. Typ na Spurs, biorąc pod uwagę te kontuzje, jest bardzo ryzykowny.
