@@ -1,69 +1,88 @@
 {
-  "generated_at": "2026-10-18T02:33:42.400070",
+  "generated_at": "2026-10-18T07:27:20.963363",
   "date": "2026-10-18",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "CB Coruña @ FIATC Girona",
+      "matchup": "Leyma Coruña @ FIATC Girona",
       "phase": "Regular Season",
-      "ai_pick": "CB Coruña",
+      "ai_pick": "Leyma Coruña",
       "formula_pick": "FIATC Girona",
       "agreement": false,
-      "confidence": 7,
-      "reasoning": "FIATC Girona ma poważne problemy z kontuzjami kluczowych zawodników, w tym Pepa Busquetsa, Isaac'a Vázqueza, Maxi'ego Fjellerupa i Aljaza Kunca. CB Coruña zgłasza pełny skład na dzisiejszy mecz po niedawnych problemach zdrowotnych związanych z grypą. Mimo, że obie drużyny mają podobny bilans 1-2 w początkowym sezonie, brak kontuzji w CB Coruña daje im znaczną przewagę nad osłabioną drużyną gospodarzy.",
+      "confidence": 5,
+      "reasoning": "Leyma Coruña, mimo że gra na wyjeździe, ma lepszą średnią punktów zdobytych na mecz (92.0 vs 84.67) oraz brak istotnych kontuzji w składzie, co stanowi przewagę nad gospodarzami. FIATC Girona boryka się z brakami Pepa Busquetsa i Maxiego Fjellerupa, co może wpłynąć na ich dyspozycję.",
       "key_factors": [
-        "Poważne kontuzje kluczowych graczy FIATC Girona",
-        "Pełny skład CB Coruña",
-        "Podobna, ale bardziej zdecydowanie negatywna forma FIATC Girona w ostatnich meczach ACB",
-        "Waga kontuzji przewyższa atut własnego boiska dla Girony"
+        "Kontuzje kluczowych graczy FIATC Girona (Pep Busquets, Maxi Fjellerup)",
+        "Lepsza średnia punktów zdobytych na mecz Leyma Coruña (92.0) w porównaniu do FIATC Girona (84.67)",
+        "Imponująca forma Alonzo Verge'a Jr. z Leyma Coruña, lidera w punktach i asystach",
+        "Przewaga własnego parkietu FIATC Girona, choć osłabiona przez kontuzje"
       ],
-      "injury_notes": "FIATC Girona: Pep Busquets jest kontuzjowany i wyłączony z gry do grudnia z powodu skręcenia stawu skokowego trzeciego stopnia. Isaac Vázquez przeszedł operację złamania piątej kości śródstopia i jego powrót jest nieokreślony. Maxi Fjellerup jest również poza grą z powodu nieokreślonej kontuzji i nie trenował. Aljaz Kunc doznał kontuzji mięśniowej prawej nogi podczas presezonu, a jego powrót jest nieokreślony. Andrzej Pluta (dolegliwości nadgarstka) i Stanley Whittaker (dolegliwości stawu skokowego) również zgłaszają drobne problemy. CB Coruña: Brak istotnych braków; wszyscy zawodnicy są dostępni po odzyskaniu sił po problemach z grypą."
+      "injury_notes": "FIATC Girona ma kontuzje Pepa Busquetsa i Maxiego Fjellerupa, co osłabia drużynę na pozycjach obwodowych. Leyma Coruña nie zgłasza istotnych braków w składzie."
     },
     {
-      "matchup": "Surne Bilbao Basket @ Real Madrid",
-      "ai_pick": null,
-      "formula_pick": "Real Madrid",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "Baskonia @ La Laguna Tenerife",
+      "matchup": "iLERNA Lleida @ Casademont Zaragoza",
       "phase": "Regular Season",
-      "ai_pick": "Baskonia",
+      "ai_pick": "Casademont Zaragoza",
+      "formula_pick": "Casademont Zaragoza",
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Casademont Zaragoza ma lepszy bilans w obecnym sezonie (2-1) w porównaniu do iLERNA Lleida (1-2) i cieszy się przewagą własnego boiska. Co istotne, iLERNA Lleida zmaga się z poważną kontuzją kluczowego środkowego, Atoumane'a Diagne'a, który nie zagra do końca sezonu, podczas gdy Casademont Zaragoza nie zgłasza żadnych istotnych braków kadrowych.",
+      "key_factors": [
+        "Kontuzja kluczowego gracza iLERNA Lleida (Atoumane Diagne)",
+        "Lepsza forma Casademont Zaragoza w tym sezonie (2-1 vs 1-2)",
+        "Przewaga własnego boiska dla Casademont Zaragoza"
+      ],
+      "injury_notes": "iLERNA Lleida: Atoumane Diagne (środkowy) zerwał więzadło krzyżowe przednie w lewym kolanie we wrześniu 2026 roku i opuści resztę sezonu. Casademont Zaragoza: brak istotnych braków."
+    },
+    {
+      "matchup": "Surne Bilbao @ Real Madrid",
+      "phase": "Regular Season",
+      "ai_pick": "Real Madrid",
+      "formula_pick": "Real Madrid",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Real Madryt jest niepokonany w tym sezonie ACB z bilansem 3-0 i rozgrywa mecz na własnym parkiecie. Surne Bilbao ma bilans 2-1, z jedną porażką odniesioną na wyjeździe. Królewscy dysponują mocniejszym składem z kluczowymi graczami w dobrej formie, takimi jak Facundo Campazzo, Edy Tavares oraz nowo pozyskany Timothé Luwawu-Cabarrot, który był czołowym strzelcem ligi w poprzednim sezonie.",
+      "key_factors": [
+        "Real Madryt jest niepokonany w sezonie ACB 2026/27 (3-0).",
+        "Mecz odbywa się na własnym parkiecie Realu Madryt.",
+        "Real Madryt ma silniejszy skład z graczami w dobrej formie i znaczącymi wzmocnieniami ofensywnymi."
+      ],
+      "injury_notes": "Według najnowszego raportu medycznego dla 4. kolejki Ligi Endesa 2026-27, nie ma istotnych, potwierdzonych kontuzji dla Realu Madryt ani Surne Bilbao na dzień 18 października 2026 roku. Wcześniejsze doniesienia wskazywały na nieobecność Tryggviego Hlinasona z Surne Bilbao w meczu Ligi Mistrzów, jednak jego status na ten mecz ACB nie jest jasno określony jako kontuzja."
+    },
+    {
+      "matchup": "Kosner Baskonia @ La Laguna Tenerife",
+      "phase": "Regular Season",
+      "ai_pick": "Kosner Baskonia",
       "formula_pick": "La Laguna Tenerife",
       "agreement": false,
       "confidence": 7,
-      "reasoning": "Baskonia prezentuje doskonałą formę w Lidze ACB w obecnym sezonie 2026/27, notując bilans 3-0 i mając pełny skład bez kontuzji na dzień meczu. La Laguna Tenerife, mimo przewagi własnego boiska, zmaga się z długoterminową kontuzją Rokasa Giedraitisa i ma bilans 2-1 w lidze, co stawia ich w nieco gorszej pozycji.",
+      "reasoning": "Kosner Baskonia jest liderem ligi ACB z doskonałym bilansem 3-0 w tym sezonie, co świadczy o ich mocnej formie. La Laguna Tenerife ma solidny bilans 2-1, jednak boryka się z długoterminową kontuzją Rokasa Giedraitisa i potencjalnymi krótkoterminowymi osłabieniami rywala.",
       "key_factors": [
-        "Doskonała forma Baskonii w Lidze ACB (bilans 3-0)",
-        "Brak istotnych kontuzji w składzie Baskonii",
-        "Długoterminowa kontuzja Rokasa Giedraitisa w La Laguna Tenerife",
-        "Przewaga własnego boiska dla La Laguna Tenerife",
-        "Dobra forma doświadczonych graczy La Laguna Tenerife, takich jak Marcelinho Huertas"
+        "Kosner Baskonia: doskonały bilans 3-0 w ACB (2026/27) i pozycja lidera ligi.",
+        "La Laguna Tenerife: bilans 2-1 w ACB (2026/27) i przewaga własnego parkietu.",
+        "Kontuzje La Laguna Tenerife: Rokas Giedraitis jest wykluczony na cały sezon z powodu długoterminowej kontuzji kolana.",
+        "Kontuzje Kosner Baskonia: Chris Duarte i Márcio Santos są wątpliwi na mecz z powodu urazów odniesionych 17 października 2026.",
+        "Liderzy La Laguna Tenerife: Marcelinho Huertas, Aaron Doornekamp i Giorgi Shermadini nadal są kluczowymi zawodnikami."
       ],
-      "injury_notes": "La Laguna Tenerife zmierzy się z meczem bez Rokasa Giedraitisa z powodu długoterminowej kontuzji. Baskonia ma do dyspozycji pełny skład."
+      "injury_notes": "La Laguna Tenerife: Rokas Giedraitis jest poza grą na cały sezon z powodu zerwania więzadła krzyżowego. Kosner Baskonia: Chris Duarte (ból uda) i Márcio Santos (ból kostki) są wątpliwi na dzisiejszy mecz po urazach w meczu Euroleague 17 października 2026. Markus Howard opuścił klub przed 16 października 2026."
     },
     {
-      "matchup": "UCAM Murcia @ Valencia Basket",
+      "matchup": "Barça @ Asisa Joventut",
       "phase": "Regular Season",
-      "ai_pick": "Valencia Basket",
-      "formula_pick": "Valencia Basket",
+      "ai_pick": "Asisa Joventut",
+      "formula_pick": "Asisa Joventut",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Valencia Basket, pomimo kontuzji kluczowych graczy, gra na własnym parkiecie, co w Liga Endesa stanowi istotną przewagę. Chociaż UCAM Murcia pokazała dobrą formę, w tym zwycięstwo nad Barceloną, przewaga własnej hali oraz jakość składu Valencii powinny zapewnić im zwycięstwo.",
+      "confidence": 6,
+      "reasoning": "Asisa Joventut pokonał Barcelonę w finale Supercopa Endesa zaledwie miesiąc temu (101-87), co świadczy o ich zdolności do wygrywania z tym rywalem. Dodatkowo, dzisiejszy mecz odbywa się na ich własnym boisku. Mimo lepszego bilansu Barcelony w początkach sezonu ACB (2-1 vs 1-2), niedawne bezpośrednie starcie i przewaga własnego parkietu przemawiają na korzyść gospodarzy.",
       "key_factors": [
-        "Kontuzje w Valencia Basket (Jović, Brimah, López-Arostegui)",
-        "Przewaga własnego parkietu Valencia Basket",
-        "Zwycięstwo UCAM Murcia nad Barceloną w obecnym sezonie",
-        "Forma liderów Valencia Basket (T.J. Shorts II, Nikola Mirotić)"
+        "Zwycięstwo Asisa Joventut nad Barça w Supercopa Endesa 2026 (101-87)",
+        "Przewaga własnego parkietu dla Asisa Joventut",
+        "Ricky Rubio (Joventut) gra, ale jego forma po powrocie może nie być jeszcze optymalna",
+        "Lepszy początek sezonu ACB Barcelony (2-1) w porównaniu do Asisa Joventut (1-2)",
+        "Dobra forma kluczowych graczy Barcelony, jak Ondrej Balcerowski i Justin Robinson, oraz lidera Kevina Puntera"
       ],
-      "injury_notes": "Valencia Basket: Stefan Jović cierpi na zapalenie kaletki w prawym łokciu, Amida Brimah zmaga się z kontuzją ścięgna podkolanowego w prawej nodze, a Xabi López-Arostegui ma uraz mięśniowy prawej nogi. Wszyscy trzej opuszczą nadchodzące mecze. UCAM Murcia: Brak istotnych braków zgłoszonych na dzień meczu, choć wcześniej Howard Sant-Roos był kontuzjowany."
-    },
-    {
-      "matchup": "Barcelona @ Joventut",
-      "ai_pick": null,
-      "formula_pick": "Joventut",
-      "note": "AI fallback"
+      "injury_notes": "Ricky Rubio (Joventut) gra, jednak nadal może być w procesie dochodzenia do pełnej formy po długiej przerwie. Brak najnowszych doniesień o statusie Nate'a Reuversa (Joventut) po kontuzji z czerwca. W Barcelonie na początku sezonu kontuzjowani byli Tosan Evbuomwan, Nebo i Makoundou, ale brak świeżych doniesień o ich absencji na dzisiejszy mecz, a zmniejszenie roli Oliviera Nkamhoua może wskazywać na powroty. Młody talent Mohamed Dabone (Barça) nie może grać z powodów biurokratycznych. Brak istotnych, potwierdzonych na dziś braków liderów, które byłyby świeżo zgłoszone."
     }
   ]
 }
