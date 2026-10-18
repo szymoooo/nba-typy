@@ -1,23 +1,25 @@
 {
-  "generated_at": "2026-10-16T23:23:33.246189",
-  "date": "2026-10-17",
+  "generated_at": "2026-10-18T23:38:10.477860",
+  "date": "2026-10-19",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Phoenix Hagen @ ratiopharm ulm",
-      "phase": "Achtelfinale BBL-Pokal",
-      "ai_pick": "ratiopharm ulm",
-      "formula_pick": "ratiopharm ulm",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "ratiopharm ulm ma przewagę własnego parkietu w meczu Pucharu BBL i już raz pokonał Phoenix Hagen w tym sezonie ligowym (93-78). Chociaż forma ligowa ratiopharm ulm to 2 zwycięstwa i 3 porażki w ostatnich pięciu meczach BBL, Phoenix Hagen ma bilans 1 zwycięstwa i 4 porażek w tym samym okresie.",
+      "matchup": "BMA365 Bamberg Baskets @ ALBA BERLIN",
+      "phase": "Netto BBL Pokal Achtelfinale",
+      "ai_pick": "BMA365 Bamberg Baskets",
+      "formula_pick": "ALBA BERLIN",
+      "agreement": false,
+      "confidence": 6,
+      "reasoning": "ALBA Berlin znajduje się w kryzysie, notując trzy kolejne porażki w BBL, w tym niedawną przeciwko BMA365 Bamberg Baskets. Dodatkowo, ALBA boryka się z problemami kadrowymi, zwłaszcza brakiem centrów, co osłabia ich pozycję. Bamberg, mimo ostatnich porażek w Lidze Mistrzów, pokazał lepszą formę w bezpośrednim starciu z Albą na początku października, wygrywając 98:83 w lidze, i jest urzędującym zdobywcą Pucharu BBL.",
       "key_factors": [
-        "Przewaga własnego parkietu ratiopharm ulm",
-        "Wygrana ratiopharm ulm w bezpośrednim starciu w tym sezonie (93-78)",
-        "Lepsza ogólna forma ratiopharm ulm w porównaniu do Phoenix Hagen w ostatnich meczach BBL"
+        "Obecna seria 3 porażek ALBA Berlin w BBL, w tym przegrana z Bamberg Baskets 3 października 2026 roku.",
+        "Poważne problemy kadrowe ALBA Berlin, zwłaszcza brak centrów, co wpływa na rotację zespołu.",
+        "BMA365 Bamberg Baskets są aktualnym zwycięzcą Netto BBL Pokal (2026), pokonując ALBA Berlin w finale.",
+        "Jordan Wright, lider strzelców Bamberg Baskets w ostatnim meczu przeciwko ALBA Berlin z 23 punktami.",
+        "Mecz pucharowy jest pojedynczym meczem eliminacyjnym, co zwiększa presję na obie drużyny."
       ],
-      "injury_notes": "Brak istotnych, potwierdzonych kontuzji dla ratiopharm ulm na dzień 2026-10-17. We wrześniu 2026 ratiopharm ulm pozyskał Marvina Heckela w reakcji na wcześniejsze kontuzje w składzie, ale brak jest aktualnych konkretnych nazwisk. Dla Phoenix Hagen, Le'Tre Darthard był wykluczony, a udział Nate'a Johnsona był wątpliwy w meczu 8 października 2026 r., ale ich status na dzisiejszy mecz jest niejasny. Warto zaznaczyć, że pojawiła się sprzeczna informacja z 11 października 2026 r., sugerująca, że Phoenix Hagen wstrzymał działalność z powodu problemów finansowych, jednak inne źródła, w tym oficjalna strona klubu i terminarz BBL-Pokal, jasno wskazują, że mecz 17 października 2026 r. odbywa się zgodnie z planem."
+      "injury_notes": "ALBA Berlin zmaga się z poważnymi problemami kadrowymi, zwłaszcza z brakiem centrów i cienką ławką, co potwierdził trener w wywiadach na początku października 2026 roku. Brak istotnych, nowych kontuzji dla BMA365 Bamberg Baskets na dzień meczu."
     }
   ]
 }
