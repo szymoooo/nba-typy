@@ -1,40 +1,69 @@
 {
-  "generated_at": "2026-10-17T11:58:59.177407",
-  "date": "2026-10-17",
+  "generated_at": "2026-10-18T02:33:42.400070",
+  "date": "2026-10-18",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Unicaja @ Kids&Us Manresa",
+      "matchup": "CB Coruña @ FIATC Girona",
       "phase": "Regular Season",
-      "ai_pick": "Unicaja",
-      "formula_pick": "Kids&Us Manresa",
+      "ai_pick": "CB Coruña",
+      "formula_pick": "FIATC Girona",
       "agreement": false,
       "confidence": 7,
-      "reasoning": "Kids&Us Manresa rozpoczyna sezon z bilansem 0-3 w Liga Endesa i zmaga się z kontuzjami, w tym Hugo Beníteza, a także ogólnie 'osłabionym' składem. Unicaja, mimo że również nie prezentuje idealnej formy w innych rozgrywkach, ma lepszy bilans w ACB (1-2) i wyższy wskaźnik drużynowy (rating) w porównaniu do Manresy.",
+      "reasoning": "FIATC Girona ma poważne problemy z kontuzjami kluczowych zawodników, w tym Pepa Busquetsa, Isaac'a Vázqueza, Maxi'ego Fjellerupa i Aljaza Kunca. CB Coruña zgłasza pełny skład na dzisiejszy mecz po niedawnych problemach zdrowotnych związanych z grypą. Mimo, że obie drużyny mają podobny bilans 1-2 w początkowym sezonie, brak kontuzji w CB Coruña daje im znaczną przewagę nad osłabioną drużyną gospodarzy.",
       "key_factors": [
-        "Słaba forma Kids&Us Manresa w Liga Endesa (0-3).",
-        "Kontuzje w Kids&Us Manresa (Hugo Benítez, ogólnie 'osłabiony' skład).",
-        "Lepszy bilans Unicaji w ACB (1-2) i wyższy rating drużyny.",
-        "Kontuzja Alberto Díaza w Unicaji, choć drużyna wydaje się lepiej radzić."
+        "Poważne kontuzje kluczowych graczy FIATC Girona",
+        "Pełny skład CB Coruña",
+        "Podobna, ale bardziej zdecydowanie negatywna forma FIATC Girona w ostatnich meczach ACB",
+        "Waga kontuzji przewyższa atut własnego boiska dla Girony"
       ],
-      "injury_notes": "Kids&Us Manresa: Hugo Benítez doznał silnego stłuczenia żeber 26 września 2026 roku. Dodatkowo, 15 października 2026 roku donoszono o ogólnie 'osłabionym' składzie Kids&Us Manresa. Unicaja: Alberto Díaz jest wyłączony z gry na 6-8 tygodni."
+      "injury_notes": "FIATC Girona: Pep Busquets jest kontuzjowany i wyłączony z gry do grudnia z powodu skręcenia stawu skokowego trzeciego stopnia. Isaac Vázquez przeszedł operację złamania piątej kości śródstopia i jego powrót jest nieokreślony. Maxi Fjellerup jest również poza grą z powodu nieokreślonej kontuzji i nie trenował. Aljaz Kunc doznał kontuzji mięśniowej prawej nogi podczas presezonu, a jego powrót jest nieokreślony. Andrzej Pluta (dolegliwości nadgarstka) i Stanley Whittaker (dolegliwości stawu skokowego) również zgłaszają drobne problemy. CB Coruña: Brak istotnych braków; wszyscy zawodnicy są dostępni po odzyskaniu sił po problemach z grypą."
     },
     {
-      "matchup": "Monbus Obradoiro @ Recoletas Salud San Pablo Burgos",
+      "matchup": "Surne Bilbao Basket @ Real Madrid",
+      "ai_pick": null,
+      "formula_pick": "Real Madrid",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Baskonia @ La Laguna Tenerife",
       "phase": "Regular Season",
-      "ai_pick": "Monbus Obradoiro",
-      "formula_pick": "Recoletas Salud San Pablo Burgos",
+      "ai_pick": "Baskonia",
+      "formula_pick": "La Laguna Tenerife",
       "agreement": false,
       "confidence": 7,
-      "reasoning": "Monbus Obradoiro wchodzi w ten mecz z lepszym bilansem (2-1) i wykazuje lepszą formę na początku sezonu, w tym zwycięstwo nad Forca Lleida i zaciętą porażkę z Realem Madryt po dogrywce. Recoletas Salud San Pablo Burgos ma bilans 1-2, przegrywając swój inauguracyjny mecz u siebie oraz ostatnio z Surne Bilbao.",
+      "reasoning": "Baskonia prezentuje doskonałą formę w Lidze ACB w obecnym sezonie 2026/27, notując bilans 3-0 i mając pełny skład bez kontuzji na dzień meczu. La Laguna Tenerife, mimo przewagi własnego boiska, zmaga się z długoterminową kontuzją Rokasa Giedraitisa i ma bilans 2-1 w lidze, co stawia ich w nieco gorszej pozycji.",
       "key_factors": [
-        "Lepsza forma drużyny Monbus Obradoiro (2-1 w sezonie)",
-        "Wyraźna aktualna forma liderów Monbus Obradoiro (Soriano, Childress, Agada)",
-        "Brak potwierdzonych istotnych kontuzji w Monbus Obradoiro na dzień meczu",
-        "Przewaga własnego parkietu dla Recoletas Salud San Pablo Burgos"
+        "Doskonała forma Baskonii w Lidze ACB (bilans 3-0)",
+        "Brak istotnych kontuzji w składzie Baskonii",
+        "Długoterminowa kontuzja Rokasa Giedraitisa w La Laguna Tenerife",
+        "Przewaga własnego boiska dla La Laguna Tenerife",
+        "Dobra forma doświadczonych graczy La Laguna Tenerife, takich jak Marcelinho Huertas"
       ],
-      "injury_notes": "Recoletas Salud San Pablo Burgos zgłosiło w sierpniu 2026 kontuzje Balsy Koprivicy (dyskomfort mięśnia czworogłowego), Raúla Lobaco (ostry ból pleców) i Chase'a Audige'a (skręcenie kostki) w okresie przedsezonowym. Vlatko Cancar, Retin Obasohan i DJ Steward kontynuowali rehabilitację. Status tych graczy na 17 października 2026 r. nie jest znany i brak jest aktualnych informacji. Brak danych o istotnych kontuzjach w Monbus Obradoiro na dzień meczu."
+      "injury_notes": "La Laguna Tenerife zmierzy się z meczem bez Rokasa Giedraitisa z powodu długoterminowej kontuzji. Baskonia ma do dyspozycji pełny skład."
+    },
+    {
+      "matchup": "UCAM Murcia @ Valencia Basket",
+      "phase": "Regular Season",
+      "ai_pick": "Valencia Basket",
+      "formula_pick": "Valencia Basket",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Valencia Basket, pomimo kontuzji kluczowych graczy, gra na własnym parkiecie, co w Liga Endesa stanowi istotną przewagę. Chociaż UCAM Murcia pokazała dobrą formę, w tym zwycięstwo nad Barceloną, przewaga własnej hali oraz jakość składu Valencii powinny zapewnić im zwycięstwo.",
+      "key_factors": [
+        "Kontuzje w Valencia Basket (Jović, Brimah, López-Arostegui)",
+        "Przewaga własnego parkietu Valencia Basket",
+        "Zwycięstwo UCAM Murcia nad Barceloną w obecnym sezonie",
+        "Forma liderów Valencia Basket (T.J. Shorts II, Nikola Mirotić)"
+      ],
+      "injury_notes": "Valencia Basket: Stefan Jović cierpi na zapalenie kaletki w prawym łokciu, Amida Brimah zmaga się z kontuzją ścięgna podkolanowego w prawej nodze, a Xabi López-Arostegui ma uraz mięśniowy prawej nogi. Wszyscy trzej opuszczą nadchodzące mecze. UCAM Murcia: Brak istotnych braków zgłoszonych na dzień meczu, choć wcześniej Howard Sant-Roos był kontuzjowany."
+    },
+    {
+      "matchup": "Barcelona @ Joventut",
+      "ai_pick": null,
+      "formula_pick": "Joventut",
+      "note": "AI fallback"
     }
   ]
 }
