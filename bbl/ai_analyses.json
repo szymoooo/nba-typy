@@ -1,25 +1,23 @@
 {
-  "generated_at": "2026-10-18T23:38:10.477860",
+  "generated_at": "2026-10-19T08:22:26.223075",
   "date": "2026-10-19",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "BMA365 Bamberg Baskets @ ALBA BERLIN",
-      "phase": "Netto BBL Pokal Achtelfinale",
-      "ai_pick": "BMA365 Bamberg Baskets",
-      "formula_pick": "ALBA BERLIN",
+      "matchup": "Bamberg Baskets @ ALBA Berlin",
+      "phase": "BBL-Pokal Achtelfinale",
+      "ai_pick": "Bamberg Baskets",
+      "formula_pick": "ALBA Berlin",
       "agreement": false,
-      "confidence": 6,
-      "reasoning": "ALBA Berlin znajduje się w kryzysie, notując trzy kolejne porażki w BBL, w tym niedawną przeciwko BMA365 Bamberg Baskets. Dodatkowo, ALBA boryka się z problemami kadrowymi, zwłaszcza brakiem centrów, co osłabia ich pozycję. Bamberg, mimo ostatnich porażek w Lidze Mistrzów, pokazał lepszą formę w bezpośrednim starciu z Albą na początku października, wygrywając 98:83 w lidze, i jest urzędującym zdobywcą Pucharu BBL.",
+      "confidence": 7,
+      "reasoning": "Bamberg Baskets niedawno pokonały ALBA Berlin na ich własnym boisku w meczu BBL, wygrywając różnicą 15 punktów (98-83 w dniu 3 października 2026). Pomimo przewagi własnego parkietu dla ALBA Berlin i niedawnego wzmocnienia składu, ostatnie bezpośrednie starcie sugeruje, że Bamberg Baskets mają silną formę przeciwko temu przeciwnikowi.",
       "key_factors": [
-        "Obecna seria 3 porażek ALBA Berlin w BBL, w tym przegrana z Bamberg Baskets 3 października 2026 roku.",
-        "Poważne problemy kadrowe ALBA Berlin, zwłaszcza brak centrów, co wpływa na rotację zespołu.",
-        "BMA365 Bamberg Baskets są aktualnym zwycięzcą Netto BBL Pokal (2026), pokonując ALBA Berlin w finale.",
-        "Jordan Wright, lider strzelców Bamberg Baskets w ostatnim meczu przeciwko ALBA Berlin z 23 punktami.",
-        "Mecz pucharowy jest pojedynczym meczem eliminacyjnym, co zwiększa presję na obie drużyny."
+        "Ostatni bezpośredni mecz (H2H) wygrany przez Bamberg Baskets na wyjeździe",
+        "Aktualna forma liderów Bambergu, zwłaszcza Jordana Wrighta",
+        "Przewaga własnego parkietu ALBA Berlin, częściowo zniwelowana przez poprzedni wynik H2H"
       ],
-      "injury_notes": "ALBA Berlin zmaga się z poważnymi problemami kadrowymi, zwłaszcza z brakiem centrów i cienką ławką, co potwierdził trener w wywiadach na początku października 2026 roku. Brak istotnych, nowych kontuzji dla BMA365 Bamberg Baskets na dzień meczu."
+      "injury_notes": "Brak istotnych braków; ALBA Berlin niedawno (16 października 2026) pozyskała środkowego Yankubę Simę, który może zadebiutować w tym meczu."
     }
   ]
 }
