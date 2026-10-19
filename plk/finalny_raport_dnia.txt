@@ -1,29 +1,28 @@
---- AUDYT PLK LIVE (2026-10-17 13:57 CET) ---
-## Analiza Meczów PLK (2026-10-17)
+--- AUDYT PLK LIVE (2026-10-19 17:50 CET) ---
+## Analiza meczu: Tasomix Rosiek Stal Ostrów Wielkopolski (gość) @ Energa Czarni Słupsk (gospodarz)
 
-### MECZ: Zastal Zielona Góra (gosc) @ Euvic GTK Gliwice (gospodarz)
-*   **Kluczowe braki w składach:**
-    *   **Zastal Zielona Góra:** Brak istotnych braków w składzie koszykarskim.
-    *   **Euvic GTK Gliwice:** Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:**
-    *   **Zastal Zielona Góra:** Trazarien White (18 Pkt/mecz) i Gauthier Denis (18 Pkt/mecz) są w czołówce strzelców zespołu, a Andy Mazurczak notuje 15 Pkt/mecz. Trazarien White rzucił 30 punktów w meczu 2. kolejki przeciwko Legii Warszawa, co świadczy o jego dobrej formie strzeleckiej.
-    *   **Euvic GTK Gliwice:** Brak danych z API dla tego zespołu na temat aktualnej formy top scorerów. Skład Euvic GTK Gliwice na sezon 2026/2027 obejmuje m.in. Justina Graya i Seltona Miguela.
-*   **Werdykt:** [✅ ZATWIERDZONY]
+---
 
-### MECZ: AMW Arka Gdynia (gosc) @ PGE Start Lublin (gospodarz)
-*   **Kluczowe braki w składach:**
-    *   **AMW Arka Gdynia:** Jarosław Zyskowski doznał kontuzji, która wymagała zabiegu i ma z głowy początek sezonu 2026/2027. Rehabilitacja Jarosława Zyskowskiego przebiega zgodnie z planem, ale jego powrót do pełnych treningów potrwa.
-    *   **PGE Start Lublin:** Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:**
-    *   **AMW Arka Gdynia:** Jakub Garbacz znalazł się w najlepszej piątce 2. kolejki PGE Basket Ligi. On sam podkreśla, że "żyje z podań kolegów", szczególnie Kamila Łączyńskiego, co wskazuje na efektywną współpracę w ataku.
-    *   **PGE Start Lublin:** Jaizec Lottie (15.5 Pkt/mecz), Lucas Williamson (14.5 Pkt/mecz) i Matthias Tass (13.5 Pkt/mecz) są w czołówce strzelców drużyny.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Ze względu na brak Jarosława Zyskowskiego w składzie Arki).
+### 1. Kluczowe braki w składach:
 
-### MECZ: King Szczecin (gosc) @ Energa Trefl Sopot (gospodarz)
-*   **Kluczowe braki w składach:**
-    *   **King Szczecin:** Brak istotnych braków w składzie koszykarskim.
-    *   **Energa Trefl Sopot:** Michał Michalak doznał kontuzji podczas przedsezonowego turnieju o Superpuchar Polski, która wyeliminowała go z pierwszych kolejek sezonu 2026/2027. Jego powrót jest niepewny.
-*   **Aktualna forma top scorerów:**
-    *   **King Szczecin:** Przemysław Żołnierewicz (17.5 Pkt/mecz), Zahir Porter (16 Pkt/mecz) i Alexandre Chassang (13 Pkt/mecz) to czołowi strzelcy zespołu.
-    *   **Energa Trefl Sopot:** Brak danych z API dla tego zespołu na temat aktualnej formy top scorerów. Michał Michalak, mimo kontuzji, był planowany jako jedna z kluczowych postaci. Skład Energa Trefl Sopot na sezon 2026/2027 zawiera m.in. Jakuba Schenka.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Ze względu na brak Michała Michalaka w składzie Trefla).
+*   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+    *   Michał Pluta nie zagra do końca sezonu 2025/2026 z powodu problemów ze stawem biodrowym. Planowany jest zabieg i kilkumiesięczna rehabilitacja. Chociaż informacja pochodzi z kwietnia 2026, brak nowszych danych sugeruje, że nadal może być niedostępny na początku sezonu 2026/2027.
+*   **Energa Czarni Słupsk:**
+    *   Brak potwierdzonych istotnych braków w składzie koszykarskim na dzień 2026-10-19. Niektóre źródła wspominają o kontuzjach w klubach PLK z początku 2026 roku, ale nie ma konkretnych danych dotyczących aktualnego składu Czarnych Słupsk na ten mecz. Skład na sezon 2026/2027 wydaje się być skompletowany.
+
+### 2. Aktualna forma top scorerów:
+
+*   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+    *   W sezonie 2026/2027 top scorerami są: Karl Lips (17.5 Pkt/mecz), Tajion Jones (13.5 Pkt/mecz) i Jaylin Hunter (12 Pkt/mecz).
+    *   W ostatnim meczu (12.10.2026) Stal przegrała z Górnikiem Zamek Książ Wałbrzych 65:81.
+*   **Energa Czarni Słupsk:**
+    *   W sezonie 2026/2027 Czarni Słupsk mają rekord 0-1, zdobywając średnio 76.0 punktów na mecz. Ostatni mecz ligowy (11.10.2026) przegrali z Anwilem Włocławek 79-78. Wcześniej, 02.10.2026, przegrali z Legią Warszawa 76:79.
+    *   Liderami składu są Djordje Dimitrijevic i Mason Madsen. Brak dokładnych statystyk punktowych dla poszczególnych graczy Czarnych Słupsk z obecnego sezonu w dostarczonych wynikach wyszukiwania.
+
+### 3. Werdykt:
+
+⚠️ **RYZYKOWNY**
+
+*   **Energa Czarni Słupsk** grają u siebie w Hali Gryfia w Słupsku, co jest pewnym atutem. Szukają pierwszej wygranej w sezonie po dwóch porażkach.
+*   **Tasomix Rosiek Stal Ostrów Wielkopolski** ma jednego kluczowego Polaka, Michała Plutę, poza składem na dłużej. Poza tym, przegrali swój ostatni mecz ligowy. Mają jednak wykazanych top scorerów, którzy dobrze punktują.
+*   Typ na Energa Czarni Słupsk jest ryzykowny, ponieważ choć grają u siebie i desperacko szukają zwycięstwa, ich dotychczasowy bilans w sezonie (0-1, choć jeden wynik to 76:79 z Legią i 78:79 z Anwilem) nie napawa optymizmem, a brak szczegółowych danych o formie top scorerów Czarnych Słupsk uniemożliwia pełną ocenę. Stal Ostrów Wielkopolski ma natomiast kilku graczy, którzy solidnie punktują.
