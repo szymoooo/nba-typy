@@ -1,18 +1,49 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-18 21:36 ET) ---
-**Celtics @ Pistons**
-*   **Kluczowe braki w składach:**
-    *   Celtics: Devin Carter (mononukleoza, bezterminowo).
-    *   Pistons: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Boston Celtics pozyskali Paula George'a, natomiast Pistons Johna Collinsa i Isaiaha Joe'a, co znacząco zmienia dynamikę drużyn w porównaniu do poprzednich lat. Mimo braku kontuzji w Pistons, typowanie ich zwycięstwa przeciwko wzmocnionym Celtics jest ryzykowne, zwłaszcza że Celtics zajęli 2. miejsce na Wschodzie, a Pistons 1. w poprzednim sezonie.
+--- KRYTYCZNY AUDYT LIVE (2026-10-18 22:44 ET) ---
+Oto analiza Twoich typów na podstawie danych z dnia 2026-10-18:
 
----**76ers @ Knicks**
-*   **Kluczowe braki w składach:**
-    *   76ers: Dean Wade (kontuzja kostki, status zostanie określony 19.10.2026 ❓), Ariel Hukporti (kontuzja ścięgna Achillesa, poza sezonem 🩹), Dominick Barlow (kontuzja pleców, bezterminowo 🩹), Tacko Fall (kontuzja biodra, poza składem na 2 tygodnie 🩹), Adem Bona (kontuzja stopy, day-to-day ❓), Anfernee Simons (uraz nieujawniony, day-to-day ❓). LeBron James, Joel Embiid, Jaylen Brown i Tyrese Maxey są wymienieni w składzie 76ers.
-    *   Knicks: Josh Hart (ból kostki, status niepewny na mecz ❓). Poza tym brak innych aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Mimo wzmocnień w Knicks (Karl-Anthony Towns, Mikal Bridges, OG Anunoby) i planowanego podniesienia baneru mistrzowskiego, 76ers również posiadają niezwykle mocny skład z LeBronem Jamesem, Joelem Embiidem i Jaylenem Brownem. Liczne statusy "day-to-day" i kontuzje wśród graczy 76ers wprowadzają element niepewności, a niepewny status Josha Harta w Knicks dodatkowo komplikuje sprawę dla typu na Knicks.
+---
 
----**Thunder @ Spurs**
+### Celtics @ Pistons -> Typ: Pistons
+
 *   **Kluczowe braki w składach:**
-    *   Thunder: Otega Oweh (kontuzja ścięgna Achillesa, poza sezonem 🩹), Thomas Sorber (day-to-day ❓), Jaylin Williams (kontuzja pięty, day-to-day ❓), Cason Wallace (day-to-day ❓), Nikola Topic (day-to-day ❓), Chet Holmgren (stłuczenie mięśnia czworogłowego, day-to-day ❓), Isaiah Hartenstein (kontuzja kostki, day-to-day ❓).
-    *   Spurs: Jayden Quaintance (kontuzja kolana, poza składem do ok. 1 grudnia 🩹), Tobias Harris (kontuzja łydki, day-to-day ❓, oczekiwany powrót ok. 20.10.2026). Brak aktualnych raportów dla Malika Williamsa, De'Aarona Foxa i Maliqa Browna, których oczekiwane daty powrotu minęły.
-*   **Werdykt:** [⚠️ RYZYKOWNY] - Thunder zakończyli poprzedni sezon jako liderzy Konferencji Zachodniej. Pomimo wielu graczy ze statusem "day-to-day" w Thunder (w tym kluczowych jak Holmgren czy Jalen Williams) oraz niepewnego statusu Tobiasa Harrisa w Spurs, ogólna siła Thunder czyni typ na Spurs ryzykownym. Wembanyama to gwiazda Spurs, ale Thunder pokazali swoją dominację.
+    *   **Celtics:** Devin Carter (SG) – Out (mononukleoza, spodziewany powrót najwcześniej 27 października). Nie jest to jednak kluczowy zawodnik. Brak innych zgłoszonych kontuzji dla kluczowych graczy.
+    *   **Pistons:** Brak zgłoszonych kontuzji. Jalen Duren (C) był rozważany do odpoczynku w meczach przedsezonowych, ale brak potwierdzenia jego nieobecności na mecz otwarcia.
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak znaczących kontuzji u kluczowych graczy Pistons, natomiast Celtics nie zgłaszają poważnych braków poza Devinem Carterem, który jest nowym nabytkiem na dwukierunkowej umowie. Typowanie Pistons w meczu otwarcia przeciwko zdrowym Celtics jest ryzykowne, zwłaszcza bez informacji o kontuzjach kluczowych graczy Celtics.
+
+---
+
+### 76ers @ Knicks -> Typ: Knicks
+
+*   **Kluczowe braki w składach:**
+    *   **76ers:**
+        *   Dean Wade (F) – Questionable (ból kostki).
+        *   Ariel Hukporti (C) – Out na cały sezon (zerwanie ścięgna Achillesa).
+        *   Dominick Barlow (SF) – Out (kontuzja pleców, brak harmonogramu powrotu po opuszczeniu całego preseason).
+        *   Tacko Fall (C) – Out (naciągnięcie biodra, co najmniej 2 tygodnie).
+        *   Adem Bona (C) – Day-to-Day (kontuzja stopy), spodziewany powrót około 20 października.
+    *   **Knicks:**
+        *   Josh Hart (G-F) – Questionable (ból prawej kostki, status niepewny na mecz we wtorek).
+        *   Brak innych aktualnych, potwierdzonych raportów o kontuzjach kluczowych graczy dla meczu 18 października.
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   76ers mają znaczące braki, szczególnie w strefie podkoszowej (Hukporti, Fall, Bona, Barlow) oraz niepewny status Deana Wade'a. Mimo niepewności co do Josha Harta, Knicks wydają się być w znacznie lepszej sytuacji kadrowej, co uzasadnia typowanie ich do zwycięstwa.
+
+---
+
+### Thunder @ Spurs -> Typ: Spurs
+
+*   **Kluczowe braki w składach:**
+    *   **Thunder:**
+        *   Otega Oweh (SG) – Out na cały sezon (zerwanie ścięgna Achillesa).
+        *   Chet Holmgren (C/PF) – Day-to-Day (kontuzja mięśnia czworogłowego), jego status może wpłynąć na skład na noc otwarcia.
+    *   **Spurs:**
+        *   Tobias Harris (F) – Questionable (naciągnięcie łydki), opuścił cały preseason.
+        *   Jayden Quaintance (F) – Out (kontuzja kolana, spodziewany powrót około 1 grudnia).
+        *   De'Aaron Fox (G) – Day-to-Day (nieujawniona kontuzja, spodziewany powrót około 10 października - raport z 9 października).
+        *   Maliq Brown (F) – Day-to-Day (kontuzja pleców, spodziewany powrót około 10 października - raport z 9 października).
+        *   Malik Williams (C) – Out (nieujawniona kontuzja, spodziewany powrót około 10 października - raport z 9 października).
+
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Spurs mają kilku graczy na liście kontuzjowanych lub z niepewnym statusem, w tym kluczowego Tobiasa Harrisa. Thunder tracą Otegę Oweha na cały sezon i mają niepewny status Cheta Holmgrena. Przy tak wielu niepewnościach po stronie Spurs, zwłaszcza kontuzji Harrisa, typowanie ich do zwycięstwa jest ryzykowne.
