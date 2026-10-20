@@ -1,41 +1,32 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-19 19:07 ET) ---
-Oto analiza Twoich typów na podstawie dzisiejszych (2026-10-19) danych:
+--- KRYTYCZNY AUDYT LIVE (2026-10-19 20:25 ET) ---
+Oto analiza Twoich typów na podstawie danych z 2026-10-19:
 
 ---
 
 ### Celtics @ Pistons -> Typ: Pistons
 
-*   **Kluczowe braki w składach (2026-10-19):**
-    *   **Detroit Pistons:** Taurean Prince (personal) - Questionable ❓
-    *   **Boston Celtics:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Kluczowe braki w składach:**
+    *   **Celtics:** Devin Carter (Guard) - Out (mononukleoza). Pozostali kluczowi zawodnicy (Jayson Tatum, Paul George, Derrick White, Payton Pritchard, Mitchell Robinson) są zdrowi.
+    *   **Pistons:** Taurean Prince (Forward) - Questionable (powody osobiste).
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak znaczących, potwierdzonych osłabień w Celtics utrudnia uzasadnienie typu na Pistons, nawet przy niepewnym statusie Prince'a.
+    *   Celtics są niemal w pełnym składzie, z wyjątkiem rezerwowego Cartera. Pistons mają niepewność co do Taureana Prince'a. Biorąc pod uwagę fakt, że Pistons zakończyli poprzedni sezon jako top seed na Wschodzie, a Celtics wygrali 56 meczów, stawianie na Pistons jest ryzykowne, zwłaszcza gdy Celtics są zdrowi.
 
 ---
 
 ### 76ers @ Knicks -> Typ: Knicks
 
-*   **Kluczowe braki w składach (2026-10-19):**
-    *   **Philadelphia 76ers:**
-        *   Dominick Barlow (lumbar spine bone stress response) - Out 🤕
-        *   Tacko Fall (hip strain) - Out 🤕
-        *   Anfernee Simons (left hamstring tightness and soreness) - Questionable ❓
-        *   VJ Edgecombe (soreness, ale pełny udział w treningach, spodziewany występ)
-        *   LeBron James i Joel Embiid nie są na liście kontuzjowanych.
-    *   **New York Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Kluczowe braki w składach:**
+    *   **76ers:** Dominick Barlow (Forward) - Out (lumbalna reakcja stresowa kości kręgosłupa, re-ewaluacja za dwa tygodnie). Tacko Fall (Center) - Out (naciągnięcie biodra). Anfernee Simons ma niepewny status. Dean Wade doznał skręcenia kostki.
+    *   **Knicks:** Brak aktualnych raportów (Injury Report) na tę chwilę wskazujących na status 'Out', 'Questionable' lub 'GTD' dla kluczowych graczy. Niektóre raporty wskazują na status "NOT YET SUBMITTED" dla pełnych raportów.
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   76ers są osłabieni brakiem Barlowa i Falla, a Simons jest niepewny. Knicks, bez zgłoszonych kontuzji, mają wyraźną przewagę kadrową.
+    *   76ers mają znaczące braki, zwłaszcza w rotacji z Barlowem i Fallem na liście kontuzjowanych. Przy zdrowych kluczowych graczach Knicks, takich jak Jalen Brunson i Karl-Anthony Towns, typ na Knicks wydaje się uzasadniony.
 
 ---
 
 ### Thunder @ Spurs -> Typ: Spurs
 
-*   **Kluczowe braki w składach (2026-10-19):**
-    *   **San Antonio Spurs:**
-        *   Tobias Harris (left calf strain) - Out 🤕
-        *   Jayden Quaintance (right knee surgery) - Out 🤕
-    *   **Oklahoma City Thunder:**
-        *   Jaylin Williams (heel) - Brak na liście kontuzjowanych ✅
-        *   Chet Holmgren (quad) - Brak na liście kontuzjowanych ✅
+*   **Kluczowe braki w składach:**
+    *   **Thunder:** Nikola Topic (Out), Thomas Sorber (Out), Otega Oweh (Out na sezon). Chet Holmgren jest dostępny.
+    *   **Spurs:** Tobias Harris (Forward) - Out (naciągnięcie lewej łydki, opóźni debiut w Spurs). Jayden Quaintance (Rookie) - Out (operacja prawego kolana w lipcu).
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Spurs zagrają bez kluczowego nabytku, Tobiasa Harrisa, co jest znaczącym osłabieniem. Thunder wydają się być w pełni sił.
+    *   Spurs rozpoczynają sezon bez kluczowego nabytku, Tobiasa Harrisa, oraz debiutanta Quaintance'a. Chociaż Thunder również mają kilku graczy poza składem, ich kluczowi zawodnicy, jak Chet Holmgren, są zdrowi i dostępni. Brak Harrisa, weterana mającego pełnić ważną rolę, sprawia, że typ na Spurs jest ryzykowny.
