@@ -1,22 +1,24 @@
---- AUDYT PLK LIVE (2026-10-20 15:18 CET) ---
-Analiza meczu PLK: Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk (19.10.2026)
+--- AUDYT PLK LIVE (2026-10-20 20:24 CET) ---
+Analiza meczu Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk z 2026-10-19:
 
-**1. Kluczowe braki w składach koszykarskich:**
+---
 
-*   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 19.10.2026. Wcześniejsza informacja o "martwiącej kontuzji" pod koniec września 2026 nie precyzowała zawodnika, a Jared Billups, którego występ stał pod znakiem zapytania w meczu 4 października, zagrał i punktował.
-*   **Energa Czarni Słupsk:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień 19.10.2026. Wzmianki o kontuzjach z lutego 2026 są nieaktualne i nie dotyczą konkretnych graczy.
+**Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk** -> Typ z PulsBasketu: Energa Czarni Słupsk
 
-**2. Aktualna forma top scorerów (na podstawie dostępnych danych przed meczem):**
+### 1. Kluczowe braki w składach 🤕
 
 *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
-    *   W meczu otwarcia sezonu (4 października 2026) przeciwko PGE Start Lublin, kluczowymi punktującymi byli Vyacheslav Bobrov, Jaylin Hunter, Karl Lips i Jared Billups.
-    *   Tajion Jones został sprowadzony jako "łowca punktów" na sezon 2026/2027.
+    *   Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-10-20. Skład na sezon 2026/2027 jest zamknięty od sierpnia, a doniesienia z września o kontuzji w Stali dotyczyły sparingu i nie ma potwierdzenia długoterminowej absencji na 2026-10-20.
 *   **Energa Czarni Słupsk:**
-    *   Na początku października 2026, jako wiodący gracze wymieniani byli Djordje Dimitrijevic, Mason Madsen i Dominik Grudzinski.
-    *   W meczu z Legią Warszawa (2 października 2026), punkty zdobywali m.in. Dominik Grudziński, Demond Robinson Jr. i Mason Madsen (akcja 2+1), a także Robert Carpenter.
-    *   Przed meczem 19.10.2026, Energa Czarni Słupsk mieli bilans 0-2 w sezonie, przegrywając z Legią Warszawa (76:79) i Anwilem Włocławek (78:79).
+    *   Brak istotnych braków w składzie koszykarskim zgłoszonych na dzień 2026-10-20. Klub zamknął skład na sezon 2026/2027 w lipcu. Wcześniejsze doniesienia z lutego 2026 wspominały o pladze urazów w PLK, ale bez konkretnych nazwisk na 2026-10-20 dla Czarnych. W październiku 2026 wspomniano o kontuzji Szymona Tomczaka z Legii, co nie dotyczy Czarnych.
 
-**3. Werdykt:**
+### 2. Aktualna forma top scorerów 🔥
 
-⚠️ **RYZYKOWNY**
-Tip na zwycięstwo Energa Czarnych Słupsk był ryzykowny, biorąc pod uwagę ich słaby start sezonu (bilans 0-2 przed tym meczem). Mimo ewentualnego atutu własnego parkietu, forma drużyny ze Słupska była niższa niż Stali Ostrów Wielkopolski, która rozpoczęła sezon z bilansem 1-1.
+*   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+    *   W meczu z Energa Czarnymi Słupsk (19.10.2026), najskuteczniejszym zawodnikiem Stali był **Jaylin Hunter**, który zdobył 19 punktów, rozdał 7 asyst i miał 3 przechwyty. Kluczowe było jego 13 punktów w czwartej kwarcie, które przesądziły o wygranej. Pozostali zawodnicy z dwucyfrową zdobyczą punktową to K.J. Lips (13), Aleksander Wiśniewski (13), Daniel Gołębiowski (12), Jakub Parzeński (10).
+*   **Energa Czarni Słupsk:**
+    *   Dane z API PulsBasketu dla top scorerów w serii nie zostały podane w kontekście. Z analizy meczu z 19.10.2026 brak jest jednego wyraźnego top scorera dominującego indywidualnie, który byłby na podobnym poziomie jak Hunter ze Stali w tym konkretnym meczu. Djordje Dimitrijević zdobył trójkę, która doprowadziła do remisu 82:82 w końcówce meczu. Mason Madsen również trafił za trzy punkty w końcówce. Skład Czarnych na sezon 2026/2027 obejmuje m.in. Demonda Robinsona, Dominica Greena, Djordje Dimitrijevica, Filipa Mazura, Igora Mazura, Maksymiliana Maćkowiaka, Jana Plutę, Kacpra Borowskiego, Roberta Carpentera, Daniela Słomczyńskiego, Dominika Grudzińskiego, Masona Madsena, Keevana Veinota, Aleksandra Kornackiego.
+
+### 3. Werdykt: [⚠️ RYZYKOWNY]
+
+Typ z PulsBasketu wskazywał na zwycięstwo Energa Czarnych Słupsk, jednak Tasomix Rosiek Stal Ostrów Wielkopolski wygrała mecz na wyjeździe 87:84. Pomimo braku istotnych kontuzji po obu stronach, wynik meczu pokazuje, że typ był ryzykowny i nie odzwierciedlał rzeczywistego rezultatu. Forma Jaylina Huntera w kluczowych momentach meczu była decydująca dla Stali.

@@ -1,20 +1,32 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-20 09:34 ET) ---
-Na podstawie danych z dnia 2026-10-20:
+--- KRYTYCZNY AUDYT LIVE (2026-10-20 14:24 ET) ---
+Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-10-20):
 
-### Celtics @ Pistons -> Typ: Pistons
+---
 
-*   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach uniemożliwia rzetelną ocenę, a typowanie przeciwko historycznie mocnym Celtics bez braków kadrowych jest ryzykowne).
-
-### 76ers @ Knicks -> Typ: Knicks
+**Celtics @ Pistons -> Typ: Pistons**
 
 *   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Bez informacji o kontuzjach, trudno ocenić przewagę Knicks, biorąc pod uwagę potencjał 76ers).
+    *   **Celtics:** Devin Carter (choroba) - OUT 🤒.
+    *   **Pistons:** Elijah Harkless (kontrakt two-way) - OUT, Isaac Jones (kontrakt two-way) - OUT, Ugonna Onyenso (kontrakt two-way) - OUT, Taurean Prince (powody osobiste) - OUT. Jednakże, większość kluczowych graczy rotacji Pistons jest zdrowa i dostępna.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Pistons zakończyli poprzedni sezon jako #1 seed na Wschodzie i wygrali serię z Celtics. Pomimo kilku absencji (głównie graczy na kontraktach two-way), ich podstawowa rotacja jest w pełni sił, co czyni ten typ sensownym.
 
-### Thunder @ Spurs -> Typ: Spurs
+---
+
+**76ers @ Knicks -> Typ: Knicks**
 
 *   **Kluczowe braki w składach:**
-    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Typowanie Spurs przeciwko Thunder bez wiedzy o aktualnych składach i statusach kontuzji jest spekulacją).
+    *   **76ers:** Dominick Barlow (uraz pleców) - OUT, Tacko Fall (uraz mięśnia czworogłowego) - OUT, Ariel Hukporti (zerwane ścięgno Achillesa) - OUT. Gracze questionable: Adem Bona (skręcenie stopy), Anfernee Simons (napięcie ścięgna podkolanowego), Dean Wade (skręcenie kostki). LeBron James ma zagrać.
+    *   **Knicks:** Brak aktualnych raportów o kontuzjach (Injury Report) na tę chwilę – brak absencji. Jalen Brunson ma zagrać.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   76ers zmagają się z licznymi kontuzjami i wątpliwościami dotyczącymi kilku graczy, zwłaszcza w strefie podkoszowej. Knicks, obrońcy tytułu i bez żadnych absencji, są w znacznie lepszej sytuacji kadrowej.
+
+---
+
+**Thunder @ Spurs -> Typ: Spurs**
+
+*   **Kluczowe braki w składach:**
+    *   **Thunder:** Otega Oweh (operacja ścięgna Achillesa) - OUT (na cały sezon), Thomas Sorber (operacja kolana) - OUT, Nikola Topic (operacja pleców) - OUT.
+    *   **Spurs:** Tobias Harris (naciągnięcie łydki) - OUT, Jayden Quaintance (operacja kolana / ACL) - OUT. Victor Wembanyama jest zdrowy i zagra.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Obie drużyny mają pewne braki, ale Spurs, finaliści NBA z ubiegłego sezonu i zwycięzcy Konferencji Zachodniej, zagrają u siebie z silnym składem, w tym z Victorem Wembanyamą. Pokonali Thunder w zeszłorocznych Finałach Konferencji, co daje im mentalną przewagę.
