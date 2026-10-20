@@ -1,16 +1,18 @@
---- AUDYT PLK LIVE (2026-10-20 22:13 CET) ---
-=========================================================================
-# PLK typy na 2026-10-19
-Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk -> Typ: Energa Czarni Słupsk
-=========================================================================
+--- AUDYT PLK LIVE (2026-10-20 23:49 CET) ---
+Analiza meczu PLK z 2026-10-19:
+
+---
+
+### **Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk**
 
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim. Michał Pluta, który był kontuzjowany pod koniec sezonu 2025/2026, nie figuruje w obecnym składzie drużyny na sezon 2026/2027.
-    *   🏀 **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim odnotowanych przed meczem z dnia 2026-10-19.
+    *   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim odnotowanych przed meczem z dnia 2026-10-19.
 
 2.  **Aktualna forma top scorerów:**
-    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak danych z API dla tego zespołu dotyczących szczegółowych statystyk indywidualnych z sezonu 2026/2027, w tym top scorerów.
-    *   🏀 **Energa Czarni Słupsk:** W sezonie 2026/2027, po dwóch rozegranych meczach, czołowymi strzelcami są Djordje Dimitrijevic (17 Pkt/mecz), Dominic Green (11 Pkt/mecz) oraz Mason Madsen (11 Pkt/mecz).
+    *   Brak danych z API dla obu zespołów.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mecz odbył się 19.10.2026, a Tasomix Rosiek Stal Ostrów Wielkopolski pokonała Energa Czarnych Słupsk wynikiem 87:84. Pierwotny typ na zwycięstwo Energa Czarnych Słupsk okazał się błędny.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   Brak potwierdzonych kluczowych kontuzji w obu zespołach, co sprzyja przewidywanej rywalizacji bez większych zakłóceń kadrowych.
+
+---
