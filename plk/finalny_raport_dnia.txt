@@ -1,32 +1,27 @@
---- AUDYT PLK LIVE (2026-10-21 22:25 CET) ---
-# Analiza meczu PLK: Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk (2026-10-19)
+--- AUDYT PLK LIVE (2026-10-22 00:00 CET) ---
+Mecz: Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk -> Typ: Energa Czarni Słupsk
 
 ---
 
-### Mecz: Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk
-*   **Hala:** Słupsk (mecz odbył się w Słupsku).
+1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie)**
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+        *   Michał Pluta był wykluczony do końca sezonu 2025/2026 z powodu urazu stawu biodrowego (informacja z kwietnia 2026). Nie figuruje w składzie na sezon 2026/2027, więc prawdopodobnie był niedostępny lub opuścił klub.
+        *   Brak innych istotnych braków w składzie koszykarskim na dzień 2026-10-19.
+    *   **Energa Czarni Słupsk:**
+        *   Maksymilian Maćkowiak nie wystąpił w meczu 19.10.2026 (DNP).
+        *   Brak innych istotnych braków w składzie koszykarskim na dzień 2026-10-19.
 
----
+2.  **Aktualna forma top scorerów**
+    *   Brak danych z API dla tego zespołu w serii. Na podstawie rozegranego meczu 19.10.2026:
+        *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+            *   Jaylin Hunter: 19 punktów, 7 asyst, 3 przechwyty w tym meczu, z czego 5 kluczowych rzutów wolnych w ostatnich sekundach meczu, które zapewniły zwycięstwo.
+            *   Karl Lips: 13 punktów. Jest również wiodącym strzelcem Stali w sezonie 2026/2027 ze średnią 16 Pkt/mecz.
+            *   Aleksander Wiśniewski: 13 punktów.
+        *   **Energa Czarni Słupsk:**
+            *   Djordje Dimitrijevic: 15 punktów w tym meczu, trafił ważną trójkę na remis 82:82.
+            *   Robert Carpenter IV: 12 punktów.
+            *   Mason Madsen: trafił trójkę w końcówce meczu.
+    *   W meczu 19.10.2026 Tasomix Rosiek Stal Ostrów Wielkopolski pokonała Energa Czarnych Słupsk 87:84. Czarni Słupsk po tym meczu mieli bilans 0-3 w lidze, co wskazuje na słabą formę zespołu.
 
-#### 1. Kluczowe braki w składach:
-
-*   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim, potwierdzonych na dzień 2026-10-21.
-*   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim, potwierdzonych na dzień 2026-10-21.
-
-#### 2. Aktualna forma top scorerów:
-
-*   **Energa Czarni Słupsk:**
-    *   Brak danych z API dla tego zespołu w kontekście konkretnych statystyk top scorerów na mecz z PulsBasketu.
-    *   W sezonie 2026/2027, kluczowymi zawodnikami w składzie Czarnych Słupsk, często pełniących role ofensywne, są Djordje Dimitrijevic, Mason Madsen i Dominik Grudzinski.
-    *   Drużyna Energa Czarni Słupsk prezentuje słabą formę na początku sezonu 2026/2027, notując bilans 0-3 w lidze przed tym meczem. W meczu z 19.10.2026 przegrali ze Stalą Ostrów Wielkopolski 84:87.
-
-*   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
-    *   Brak danych z API dla tego zespołu w kontekście konkretnych statystyk top scorerów na mecz z PulsBasketu.
-    *   W składzie Stali na sezon 2026/2027 znajdują się tacy zawodnicy jak Tajion Jones, opisywany jako "łowca punktów", oraz wszechstronny skrzydłowy/środkowy Karl-Johan Lips.
-    *   Drużyna Tasomix Rosiek Stal Ostrów Wielkopolski prezentuje lepszą formę w sezonie 2026/2027, z bilansem 2-1 przed tym meczem. Zwyciężyli w analizowanym spotkaniu z Czarnymi Słupsk wynikiem 87:84.
-
-#### 3. Werdykt:
-
-*   **Energa Czarni Słupsk @ Tasomix Rosiek Stal Ostrów Wielkopolski -> Typ: Energa Czarni Słupsk**
-    *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   **Uzasadnienie:** Typ na Energa Czarni Słupsk był ryzykowny, biorąc pod uwagę ich słabą formę na początku sezonu (bilans 0-3). Mimo przewagi własnego parkietu, Stal Ostrów Wielkopolski wygrała to spotkanie 87:84, co odzwierciedla lepszą dyspozycję drużyny z Ostrowa Wielkopolskiego.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    Typ był ryzykowny, a ostatecznie nietrafiony, ponieważ Energa Czarni Słupsk przegrali mecz 84:87, mimo że grali u siebie. Słaba forma Czarnych (bilans 0-3) oraz dobra dyspozycja liderów Stali (szczególnie Jaylina Huntera w końcówce) zadecydowały o wyniku.
