@@ -1,14 +1,74 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-21 09:50 ET) ---
-Analiza meczu: Thunder @ Spurs (2026-10-21)
+--- KRYTYCZNY AUDYT LIVE (2026-10-21 14:30 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z 2026-10-21:
 
+---
+
+**Hawks @ Magic -> Typ: Magic**
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonych informacji o brakach w składach dla żadnej z drużyn.
+
+---
+
+**Bucks @ Wizards -> Typ: Wizards**
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla Bucks. Dla Wizards, Deni Avdija jest wymieniony w nagłówkach raportu kontuzji, ale jego status (Out, Questionable, GTD) nie jest określony.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonego statusu dla Deni Avdiji i brak informacji o brakach Bucks.
+
+---
+
+**Timberwolves @ Heat -> Typ: Heat**
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonych informacji o brakach w składach dla żadnej z drużyn.
+
+---
+
+**Hornets @ Nets -> Typ: Nets**
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonych informacji o brakach w składach dla żadnej z drużyn.
+
+---
+
+**Bulls @ Raptors -> Typ: Raptors**
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonych informacji o brakach w składach dla żadnej z drużyn.
+
+---
+
+**Jazz @ Grizzlies -> Typ: Grizzlies**
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonych informacji o brakach w składach dla żadnej z drużyn.
+
+---
+
+**Pacers @ Pelicans -> Typ: Pelicans**
 *   **Kluczowe braki w składach:**
-    *   **San Antonio Spurs:**
-        *   Tobias Harris — Out (Naciągnięcie lewej łydki) 🦵
-        *   Jayden Quaintance — Out (Operacja prawego kolana) 🤕
-    *   **Oklahoma City Thunder:**
-        *   Otega Oweh — Out (Operacja prawego ścięgna Achillesa) 🩹
-        *   Thomas Sorber — Out (Operacja prawego kolana) 🩹
-        *   Nikola Topic — Out (Operacja odcinka lędźwiowego kręgosłupa) 🤕
+    *   **Pacers:** Johnny Furphy (zerwane ACL - powrót w połowie sezonu - OUT 🤕), T.J. McConnell (naciągnięcie prawego ścięgna podkolanowego - Questionable ❓), Aaron Nesmith (naciągnięcie lewego ścięgna podkolanowego - Questionable ❓). Tyrese Haliburton został dopuszczony do gry.
+    *   **Pelicans:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Pelicans nie zgłaszają braków, podczas gdy Pacers mają kilku kluczowych graczy kontuzjowanych lub z niepewnym statusem.
 
-*   **Werdykt dla typu "Spurs":**
-    *   [⚠️ RYZYKOWNY] - Pomimo obecności kluczowych graczy takich jak Victor Wembanyama i De'Aaron Fox, brak doświadczonego Tobiasa Harrisa mógł osłabić rotację Spurs. Thunder rozpoczęli sezon mocno, wygrywając ten mecz 116-104.
+---
+
+**Mavericks @ Rockets -> Typ: Rockets**
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonych informacji o brakach w składach dla żadnej z drużyn.
+
+---
+
+**Warriors @ Lakers -> Typ: Lakers**
+*   **Kluczowe braki w składach:**
+    *   **Warriors:** Raport kontuzji Golden State Warriors wymienia pięciu graczy, ale ich status (Out, Questionable, GTD) nie jest określony w dostępnych danych.
+    *   **Lakers:** Cameron Carr (skośny mięsień brzucha - OUT 🤕), Adou Thiero (kolano - OUT 🤕), Collin Sexton (mięsień płaszczkowaty - Questionable ❓).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Lakers mają kilku kontuzjowanych graczy, a braki Warriors nie są jasno określone, co utrudnia ocenę.
+
+---
+
+**Suns @ Trail Blazers -> Typ: Trail Blazers**
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonych informacji o brakach w składach dla żadnej z drużyn.
+
+---
+
+**Kings @ Clippers -> Typ: Clippers**
+*   **Kluczowe braki w składach:**
+    *   **Kings:** Ben Simmons (zerwane prawe ścięgno Achillesa - OUT na sezon 🤕).
+    *   **Clippers:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Clippers nie zgłaszają braków, podczas gdy Kings tracą kluczowego zawodnika na cały sezon.
