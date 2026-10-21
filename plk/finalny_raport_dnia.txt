@@ -1,27 +1,23 @@
---- AUDYT PLK LIVE (2026-10-22 00:00 CET) ---
-Mecz: Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk -> Typ: Energa Czarni Słupsk
+--- AUDYT PLK LIVE (2026-10-22 01:35 CET) ---
+📅 **Analiza meczu PLK na 2026-10-19**
 
 ---
 
-1.  **Kluczowe braki w składach (kontuzje, brak w kadrze, zawieszenie)**
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
-        *   Michał Pluta był wykluczony do końca sezonu 2025/2026 z powodu urazu stawu biodrowego (informacja z kwietnia 2026). Nie figuruje w składzie na sezon 2026/2027, więc prawdopodobnie był niedostępny lub opuścił klub.
-        *   Brak innych istotnych braków w składzie koszykarskim na dzień 2026-10-19.
-    *   **Energa Czarni Słupsk:**
-        *   Maksymilian Maćkowiak nie wystąpił w meczu 19.10.2026 (DNP).
-        *   Brak innych istotnych braków w składzie koszykarskim na dzień 2026-10-19.
+### Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk
+*Typ (z PulsBasketu): Energa Czarni Słupsk*
 
-2.  **Aktualna forma top scorerów**
-    *   Brak danych z API dla tego zespołu w serii. Na podstawie rozegranego meczu 19.10.2026:
-        *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
-            *   Jaylin Hunter: 19 punktów, 7 asyst, 3 przechwyty w tym meczu, z czego 5 kluczowych rzutów wolnych w ostatnich sekundach meczu, które zapewniły zwycięstwo.
-            *   Karl Lips: 13 punktów. Jest również wiodącym strzelcem Stali w sezonie 2026/2027 ze średnią 16 Pkt/mecz.
-            *   Aleksander Wiśniewski: 13 punktów.
-        *   **Energa Czarni Słupsk:**
-            *   Djordje Dimitrijevic: 15 punktów w tym meczu, trafił ważną trójkę na remis 82:82.
-            *   Robert Carpenter IV: 12 punktów.
-            *   Mason Madsen: trafił trójkę w końcówce meczu.
-    *   W meczu 19.10.2026 Tasomix Rosiek Stal Ostrów Wielkopolski pokonała Energa Czarnych Słupsk 87:84. Czarni Słupsk po tym meczu mieli bilans 0-3 w lidze, co wskazuje na słabą formę zespołu.
+1.  **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim dla obu drużyn na dzień meczu (19.10.2026). Nie znaleziono potwierdzonych informacji o kontuzjach czy zawieszeniach kluczowych zawodników. Składy obu drużyn na sezon 2026/2027 były pełne.
+
+2.  **Aktualna forma top scorerów (na podstawie danych z meczu 19.10.2026 i ogólnych statystyk sezonu 2026/2027):**
+    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+        *   **Jaylin Hunter:** Zdobył 19 punktów w meczu 19.10.2026, co jest powyżej jego średniej sezonowej 14.3 Pkt/mecz.
+        *   **Karl Lips:** Zdobył 13 punktów w meczu 19.10.2026, co jest poniżej jego średniej sezonowej 16 Pkt/mecz.
+        *   **Tajion Jones:** Zdobył 5 punktów w meczu 19.10.2026, co jest poniżej jego średniej sezonowej 10.7 Pkt/mecz.
+    *   🏀 **Energa Czarni Słupsk:**
+        *   **Djordje Dimitrijevic:** Wiodący strzelec zespołu ze średnią 21 Pkt/mecz w sezonie 2026/2027. Brak danych z API dla tego zespołu dla konkretnych punktów z meczu 19.10.2026.
+        *   **Mason Madsen:** Średnia sezonowa 15 Pkt/mecz.
+        *   **Dominik Grudziński:** Średnia sezonowa 13 Pkt/mecz.
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Typ był ryzykowny, a ostatecznie nietrafiony, ponieważ Energa Czarni Słupsk przegrali mecz 84:87, mimo że grali u siebie. Słaba forma Czarnych (bilans 0-3) oraz dobra dyspozycja liderów Stali (szczególnie Jaylina Huntera w końcówce) zadecydowały o wyniku.
+    *   Typ na wygraną Energa Czarnych Słupsk był ryzykowny. Drużyna Energa Czarni Słupsk przystępowała do meczu z bilansem 0 zwycięstw i 2 lub 3 porażek w sezonie 2026/2027 (różne źródła wskazują na 2 rozegrane mecze z porażkami lub 3 punkty po 3 meczach, co oznacza 3 porażki). Tasomix Rosiek Stal Ostrów Wielkopolski miała w tym czasie bilans 2 zwycięstw i 1 porażki. Faktyczny wynik meczu to zwycięstwo Tasomix Rosiek Stal Ostrów Wielkopolski 87:84, co oznacza, że pierwotny typ był nieprawidłowy. Forma Czarnych Słupsk przed tym meczem wskazywała na ich słabszą dyspozycję.
