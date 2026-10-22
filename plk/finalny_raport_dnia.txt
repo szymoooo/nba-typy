@@ -1,23 +1,18 @@
---- AUDYT PLK LIVE (2026-10-22 01:35 CET) ---
-📅 **Analiza meczu PLK na 2026-10-19**
+--- AUDYT PLK LIVE (2026-10-22 02:37 CET) ---
+Analiza meczu PLK z 2026-10-19:
 
 ---
 
-### Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk
-*Typ (z PulsBasketu): Energa Czarni Słupsk*
+🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski @ Energa Czarni Słupsk**
 
 1.  **Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim dla obu drużyn na dzień meczu (19.10.2026). Nie znaleziono potwierdzonych informacji o kontuzjach czy zawieszeniach kluczowych zawodników. Składy obu drużyn na sezon 2026/2027 były pełne.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim. Informacje o kontuzji Davida Brembly'ego z sezonu 2025/2026 są nieaktualne, ponieważ zawodnik nie figuruje w kadrze na sezon 2026/2027. Wzmianka o kontuzji w zespole z końca września 2026 roku nie precyzowała nazwiska gracza i nie ma dalszych informacji o jego niedostępności na ten mecz.
+    *   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim. Wzmianka o kontuzji Szymona Tomczaka dotyczyła zawodnika Legii Warszawa i nie miała wpływu na skład Czarnych Słupsk.
 
-2.  **Aktualna forma top scorerów (na podstawie danych z meczu 19.10.2026 i ogólnych statystyk sezonu 2026/2027):**
-    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:**
-        *   **Jaylin Hunter:** Zdobył 19 punktów w meczu 19.10.2026, co jest powyżej jego średniej sezonowej 14.3 Pkt/mecz.
-        *   **Karl Lips:** Zdobył 13 punktów w meczu 19.10.2026, co jest poniżej jego średniej sezonowej 16 Pkt/mecz.
-        *   **Tajion Jones:** Zdobył 5 punktów w meczu 19.10.2026, co jest poniżej jego średniej sezonowej 10.7 Pkt/mecz.
-    *   🏀 **Energa Czarni Słupsk:**
-        *   **Djordje Dimitrijevic:** Wiodący strzelec zespołu ze średnią 21 Pkt/mecz w sezonie 2026/2027. Brak danych z API dla tego zespołu dla konkretnych punktów z meczu 19.10.2026.
-        *   **Mason Madsen:** Średnia sezonowa 15 Pkt/mecz.
-        *   **Dominik Grudziński:** Średnia sezonowa 13 Pkt/mecz.
+2.  **Aktualna forma top scorerów:**
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Liderami punktowymi w rozpoczętym sezonie 2026/2027 są Karl Lips (średnio 16 Pkt/mecz), Jaylin Hunter (14.3 Pkt/mecz) i Tajion Jones (10.7 Pkt/mecz). Karl Lips zapisał na swoim koncie 19 punktów w meczu 3 października 2026 roku.
+    *   **Energa Czarni Słupsk:** Najskuteczniejsi zawodnicy w obecnym sezonie to Dorde Dimitrijevic (średnio 21 Pkt/mecz), Mason Madsen (15 Pkt/mecz) oraz Dominik Grudziński (13 Pkt/mecz). Dorde Dimitrijevic zdobył 21 punktów w jednym z dotychczasowych spotkań.
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ na wygraną Energa Czarnych Słupsk był ryzykowny. Drużyna Energa Czarni Słupsk przystępowała do meczu z bilansem 0 zwycięstw i 2 lub 3 porażek w sezonie 2026/2027 (różne źródła wskazują na 2 rozegrane mecze z porażkami lub 3 punkty po 3 meczach, co oznacza 3 porażki). Tasomix Rosiek Stal Ostrów Wielkopolski miała w tym czasie bilans 2 zwycięstw i 1 porażki. Faktyczny wynik meczu to zwycięstwo Tasomix Rosiek Stal Ostrów Wielkopolski 87:84, co oznacza, że pierwotny typ był nieprawidłowy. Forma Czarnych Słupsk przed tym meczem wskazywała na ich słabszą dyspozycję.
+    *   Mecz, który odbył się 19 października 2026 roku, zakończył się zwycięstwem Tasomix Rosiek Stal Ostrów Wielkopolski wynikiem 87:84 nad Energa Czarnymi Słupsk.
+    *   Pierwotny typ na zwycięstwo Energa Czarnych Słupsk okazał się błędny. Biorąc pod uwagę rzeczywisty, bardzo wyrównany wynik oraz brak informacji o kluczowych kontuzjach, które mogłyby jednoznacznie faworyzować jedną ze stron, pierwotny typ był obarczony ryzykiem.
