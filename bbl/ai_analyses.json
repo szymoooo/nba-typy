@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-10-19T08:22:26.223075",
-  "date": "2026-10-19",
+  "generated_at": "2026-10-23T02:52:59.492310",
+  "date": "2026-10-23",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Bamberg Baskets @ ALBA Berlin",
-      "phase": "BBL-Pokal Achtelfinale",
-      "ai_pick": "Bamberg Baskets",
-      "formula_pick": "ALBA Berlin",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Bamberg Baskets niedawno pokonały ALBA Berlin na ich własnym boisku w meczu BBL, wygrywając różnicą 15 punktów (98-83 w dniu 3 października 2026). Pomimo przewagi własnego parkietu dla ALBA Berlin i niedawnego wzmocnienia składu, ostatnie bezpośrednie starcie sugeruje, że Bamberg Baskets mają silną formę przeciwko temu przeciwnikowi.",
-      "key_factors": [
-        "Ostatni bezpośredni mecz (H2H) wygrany przez Bamberg Baskets na wyjeździe",
-        "Aktualna forma liderów Bambergu, zwłaszcza Jordana Wrighta",
-        "Przewaga własnego parkietu ALBA Berlin, częściowo zniwelowana przez poprzedni wynik H2H"
-      ],
-      "injury_notes": "Brak istotnych braków; ALBA Berlin niedawno (16 października 2026) pozyskała środkowego Yankubę Simę, który może zadebiutować w tym meczu."
+      "matchup": "Bamberg Baskets @ EWE Baskets Oldenburg",
+      "ai_pick": null,
+      "formula_pick": "EWE Baskets Oldenburg",
+      "note": "AI fallback"
     }
   ]
 }
