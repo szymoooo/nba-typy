@@ -3050,13 +3050,13 @@
   {
     "home_team": {
       "name": "Euvic GTK Gliwice",
-      "score": 0,
+      "score": 90,
       "team_id": 36,
       "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14"
     },
     "away_team": {
       "name": "Arriva Lotto Twarde Pierniki Toruń",
-      "score": 0,
+      "score": 69,
       "team_id": 34,
       "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14"
     },
@@ -3101,7 +3101,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 0,
+    "possessions": 150,
     "highest_lead": 0,
     "round_name": "4 kolejka",
     "stage_name": "Runda Zasadnicza",
