@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-10-23T08:10:55.513878",
+  "generated_at": "2026-10-23T13:04:39.713725",
   "date": "2026-10-23",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Bamberg @ EWE Baskets Oldenburg",
-      "ai_pick": null,
+      "matchup": "Bamberg Baskets @ EWE Baskets Oldenburg",
+      "phase": "Matchday 6",
+      "ai_pick": "EWE Baskets Oldenburg",
       "formula_pick": "EWE Baskets Oldenburg",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "EWE Baskets Oldenburg rozpoczęli sezon BBL 2026/27 z lepszym bilansem 3-2 w porównaniu do 2-3 Bamberg Baskets. Dodatkowo, Oldenburg gra na własnym parkiecie, gdzie odnieśli imponujące zwycięstwo po odrobieniu 26 punktów w tym sezonie, co wskazuje na silny czynnik przewagi własnego boiska i waleczność zespołu. Brak zgłoszonych istotnych kontuzji u kluczowych zawodników obu drużyn pozwala na ocenę formy opartej na dotychczasowych wynikach.",
+      "key_factors": [
+        "Przewaga własnego parkietu dla EWE Baskets Oldenburg",
+        "Lepsza forma EWE Baskets Oldenburg w obecnym sezonie BBL (3-2)",
+        "Brak istotnych kontuzji",
+        "Topowi gracze EWE Baskets Oldenburg w dobrej formie strzeleckiej i zbiórkowej"
+      ],
+      "injury_notes": "Brak istotnych braków zgłoszonych na dzień 2026-10-23 dla obu drużyn."
     }
   ]
 }
