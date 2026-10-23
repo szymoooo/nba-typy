@@ -1,1 +1,12 @@
-Nuggets @ Thunder -> Typ: Thunder
+Bulls @ Bucks -> Typ: Bucks
+Knicks @ Celtics -> Typ: Celtics
+Hawks @ Hornets -> Typ: Hornets
+Mavericks @ Pacers -> Typ: Pacers
+Timberwolves @ Magic -> Typ: Timberwolves
+Raptors @ Wizards -> Typ: Wizards
+Pistons @ Heat -> Typ: Pistons
+Rockets @ Spurs -> Typ: Rockets
+Pelicans @ Jazz -> Typ: Jazz
+Grizzlies @ Warriors -> Typ: Grizzlies
+Clippers @ Lakers -> Typ: Lakers
+Trail Blazers @ Kings -> Typ: Trail Blazers
