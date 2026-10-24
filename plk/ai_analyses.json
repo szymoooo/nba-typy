@@ -1,63 +1,57 @@
 {
-  "generated_at": "2026-10-23T23:11:39.383000",
-  "date": "2026-10-24",
+  "generated_at": "2026-10-24T23:43:13.421411",
+  "date": "2026-10-25",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "PGE Start Lublin @ King Szczecin",
+      "matchup": "Górnik Zamek Książ Wałbrzych @ AMW Arka Gdynia",
       "phase": "Runda Zasadnicza",
       "round": "4 kolejka",
-      "date": "2026-10-24T15:00:00",
-      "ai_pick": "King Szczecin",
-      "formula_pick": "King Szczecin",
-      "agreement": true,
-      "confidence": 9,
-      "reasoning": "King Szczecin ma znacznie lepszy bilans (2-1 vs 1-2) i formę (WLW vs WLL), a także dominuje w statystykach zaawansowanych, zwłaszcza w NetRtg (+6.6 vs -12.2). Dodatkowo, mecz rozgrywany jest na ich własnym parkiecie, co daje im przewagę.",
-      "key_factors": [
-        "Zdecydowanie lepsze wskaźniki efektywności King Szczecin (NetRtg +6.6 vs -12.2)",
-        "Lepszy bilans i obecna forma King Szczecin (2-1, WLW vs 1-2, WLL)",
-        "Przewaga własnego parkietu dla King Szczecin"
-      ],
-      "injury_notes": "Dla Kinga Szczecin, we wrześniu 2026 roku zgłoszono kontuzję kciuka u Maxa Egnera, która mogła wymagać dłuższej przerwy. Brak aktualnych informacji o jego powrocie. PGE Start Lublin nie zgłosił żadnych kontuzjowanych zawodników na dzień meczu.",
-      "agreement_with_odds": "no_odds"
-    },
-    {
-      "matchup": "Anwil Włocławek @ Zastal Zielona Góra",
-      "phase": "Runda Zasadnicza",
-      "round": "4 kolejka",
-      "date": "2026-10-24T17:30:00",
-      "ai_pick": "Zastal Zielona Góra",
-      "formula_pick": "Zastal Zielona Góra",
+      "date": "2026-10-25T12:30:00",
+      "ai_pick": "AMW Arka Gdynia",
+      "formula_pick": "AMW Arka Gdynia",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "Zastal Zielona Góra ma przewagę własnego parkietu i jest w lepszej formie, wygrywając dwa z trzech ostatnich spotkań w lidze. Kluczowym czynnikiem są jednak poważne kontuzje trzech zawodników obwodowych Anwilu Włocławek (Jacek Forrest, Josiah Strong, Adam Brenk), co znacząco osłabia ich rotację. Dodatkowo, statystyki zaawansowane (NetRtg, ORtg) wyraźnie wskazują na większą efektywność Zastalu.",
+      "reasoning": "AMW Arka Gdynia ma doskonały bilans u siebie (2-0) oraz znacznie lepsze wskaźniki ofensywne i zaawansowane (ORtg 125.7, NetRtg +17.1) w porównaniu do Górnika. Pomimo braku Jarosława Zyskowskiego, Arka nadal prezentuje silną ofensywę, co w połączeniu z przewagą własnego parkietu daje jej wyraźną przewagę w tym meczu.",
       "key_factors": [
-        "Poważne kontuzje kluczowych graczy obwodowych Anwilu Włocławek (Jacek Forrest, Josiah Strong, Adam Brenk)",
-        "Zastal Zielona Góra gra u siebie i ma lepszą formę (WWL w PLK)",
-        "Zastal Zielona Góra ma wyraźnie lepsze wskaźniki efektywności (NetRtg +7.6 vs +0.4, ORtg 124.1 vs 108.6)"
+        "Idealny bilans AMW Arki Gdynia u siebie (2-0)",
+        "Znacznie lepsze wskaźniki ofensywne i zaawansowane AMW Arki Gdynia (ORtg, NetRtg, eFG%, TS%)",
+        "Brak Jarosława Zyskowskiego w składzie AMW Arki Gdynia"
       ],
-      "injury_notes": "Anwil Włocławek zmaga się z problemami kadrowymi. Jacek Forrest od kilku tygodni zmaga się z urazem mięśnia i jego proces rehabilitacji został wydłużony. Josiah Strong zgłosił uraz pleców, a szczegółowa analiza jego stanu zdrowia jest w toku. Ponadto, Adam Brenk doznał kontuzji na początku ostatniego meczu ligowego przeciwko Legii Warszawa. Zastal Zielona Góra nie zgłasza żadnych istotnych braków kadrowych na dzień dzisiejszy.",
+      "injury_notes": "AMW Arka Gdynia gra bez Jarosława Zyskowskiego, który na początku sezonu (1 października 2026) przeszedł artroskopię kolana i jest wykluczony na początek rozgrywek. Nie ma innych istotnych kontuzji zgłoszonych na dzień 25 października 2026 dla obu drużyn.",
       "agreement_with_odds": "no_odds"
     },
     {
-      "matchup": "Enea Łaciate Astoria Bydgoszcz @ WKS Śląsk Wrocław",
+      "matchup": "Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa",
       "phase": "Runda Zasadnicza",
       "round": "4 kolejka",
-      "date": "2026-10-24T19:30:00",
-      "ai_pick": "Enea Łaciate Astoria Bydgoszcz",
-      "formula_pick": "WKS Śląsk Wrocław",
+      "date": "2026-10-25T15:00:00",
+      "ai_pick": "Tasomix Rosiek Stal Ostrów Wielkopolski",
+      "formula_pick": "Legia Warszawa",
       "agreement": false,
-      "confidence": 7,
-      "reasoning": "Enea Łaciate Astoria Bydgoszcz wykazuje znacznie lepszą ofensywę (ORtg 114.1 vs 101.3) i ogólną efektywność (NetRtg -2.6 vs -10.2) w tym sezonie w porównaniu do WKS Śląsk Wrocław. Mimo że Śląsk zagra u siebie po raz pierwszy w sezonie, co może być dla nich motywacją, statystyki Astorii sugerują, że są w stanie przełamać obronę gospodarzy.",
+      "confidence": 6,
+      "reasoning": "Tasomix Rosiek Stal Ostrów Wielkopolski wykazuje bardzo dobrą formę na wyjazdach (2-0) oraz ma znacznie lepszą defensywę przeciwko rzutom za trzy punkty (28.0% vs 36.6% dla Legii). Legia Warszawa mierzy się z istotnymi kontuzjami (Szymon Tomczak wykluczony do końca roku, Jakub Andrzejewski poza kadrą na ten mecz), co może osłabić ich rotację, mimo atutu własnego parkietu i niedawnego zwycięstwa w Lidze Mistrzów.",
       "key_factors": [
-        "Lepsze wskaźniki ofensywne Enea Łaciate Astoria Bydgoszcz",
-        "Wyższy NetRtg Enea Łaciate Astoria Bydgoszcz",
-        "Pierwszy mecz domowy WKS Śląsk Wrocław (potencjalna motywacja)"
+        "Skuteczna obrona Stali Ostrów Wielkopolski przeciwko rzutom za trzy punkty",
+        "Kontuzje Szymona Tomczaka i Jakuba Andrzejewskiego w Legii Warszawa",
+        "Mocna forma Tasomix Rosiek Stal Ostrów Wielkopolski na wyjazdach"
       ],
-      "injury_notes": "Brak istotnych braków.",
+      "injury_notes": "Legia Warszawa: Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł we wrześniu 2026 i nie pojawi się na parkiecie do końca roku 2026. Jakub Andrzejewski nie znajdzie się w kadrze meczowej na to spotkanie. Tasomix Rosiek Stal Ostrów Wielkopolski: Jared Billups ma stłuczone lędźwie po upadku we wrześniu 2026, a jego powrót jest niepewny.",
       "agreement_with_odds": "no_odds"
+    },
+    {
+      "matchup": "Energa Czarni Słupsk @ Dziki Warszawa",
+      "ai_pick": null,
+      "formula_pick": "Dziki Warszawa",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Energa Trefl Sopot @ MKS Dąbrowa Górnicza",
+      "ai_pick": null,
+      "formula_pick": "MKS Dąbrowa Górnicza",
+      "note": "AI fallback"
     }
   ]
 }
