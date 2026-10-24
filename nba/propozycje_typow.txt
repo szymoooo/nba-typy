@@ -1,5 +1,8 @@
-Rockets @ Spurs -> Typ: Rockets
-Pelicans @ Jazz -> Typ: Jazz
-Grizzlies @ Warriors -> Typ: Grizzlies
-Clippers @ Lakers -> Typ: Lakers
-Trail Blazers @ Kings -> Typ: Trail Blazers
+Heat @ Hornets -> Typ: Hornets
+Nets @ Cavaliers -> Typ: Cavaliers
+Bucks @ 76ers -> Typ: 76ers
+Wizards @ Bulls -> Typ: Bulls
+Spurs @ Mavericks -> Typ: Mavericks
+Rockets @ Hawks -> Typ: Hawks
+Pelicans @ Nuggets -> Typ: Nuggets
+Warriors @ Suns -> Typ: Suns

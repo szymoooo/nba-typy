@@ -1,52 +1,54 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-24 08:22 ET) ---
-Oto analiza Twoich typów na podstawie danych z 24.10.2026:
+--- KRYTYCZNY AUDYT LIVE (2026-10-24 13:17 ET) ---
+Zgodnie z Twoimi wytycznymi, przeanalizowałem typy na podstawie dostępnych danych z sieci na dzień 2026-10-24, koncentrując się na składach ze stycznia 2026 i dzisiejszych raportach kontuzji.
+
+Ze względu na to, że dzisiejsza data to 24 października 2026, bardzo trudno jest znaleźć precyzyjne składy drużyn NBA dla konkretnego miesiąca ze *wcześniejszego* sezonu (styczeń 2026). Informacje te nie są zazwyczaj archiwizowane i łatwo dostępne w taki sposób. Podobnie, aktualne raporty o kontuzjach na dzień 24 października 2026 dotyczące drużyn, które grałyby hipotetycznie w tym terminie, są trudne do znalezienia bez konkretnego kalendarza meczów.
+
+W związku z tym, bez możliwości potwierdzenia konkretnych składów na styczeń 2026 oraz aktualnych raportów o kontuzjach na dzień 2026-10-24, nie jestem w stanie precyzyjnie ocenić Twoich typów zgodnie z zadanymi kryteriami.
+
+Poniżej przedstawiam status dla każdego meczu na podstawie dostępności danych:
 
 ---
 
-### **Rockets @ Spurs** -> Typ: Rockets
+### Heat @ Hornets -> Typ: Hornets
 
-*   **Kluczowe braki w składach (24.10.2026):**
-    *   **Rockets:** Steven Adams (Questionable - łydka) 🦵, Reed Sheppard (Questionable - kolano) 🤕.
-    *   **Spurs:** Jayden Quaintance (Out - kolano) ❌, Tobias Harris (Out - łydka) ❌.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Rockets mają wątpliwości co do dwóch graczy, a Spurs brakuje kluczowych zawodników. Mimo to, osłabienia Spurs są znaczne.
-*   *Brak potwierdzonych składów na styczeń 2026 w dostępnych raportach.*
+*   **Kluczowe braki w składach:** Brak możliwości potwierdzenia składów na styczeń 2026. Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych.
+
+### Nets @ Cavaliers -> Typ: Cavaliers
+
+*   **Kluczowe braki w składach:** Brak możliwości potwierdzenia składów na styczeń 2026. Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych.
+
+### Bucks @ 76ers -> Typ: 76ers
+
+*   **Kluczowe braki w składach:** Brak możliwości potwierdzenia składów na styczeń 2026. Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych.
+
+### Wizards @ Bulls -> Typ: Bulls
+
+*   **Kluczowe braki w składach:** Brak możliwości potwierdzenia składów na styczeń 2026. Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych.
+
+### Spurs @ Mavericks -> Typ: Mavericks
+
+*   **Kluczowe braki w składach:** Brak możliwości potwierdzenia składów na styczeń 2026. Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych.
+
+### Rockets @ Hawks -> Typ: Hawks
+
+*   **Kluczowe braki w składach:** Brak możliwości potwierdzenia składów na styczeń 2026. Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych.
+
+### Pelicans @ Nuggets -> Typ: Nuggets
+
+*   **Kluczowe braki w składach:** Brak możliwości potwierdzenia składów na styczeń 2026. Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych.
+
+### Warriors @ Suns -> Typ: Suns
+
+*   **Kluczowe braki w składach:** Brak możliwości potwierdzenia składów na styczeń 2026. Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych.
 
 ---
 
-### **Pelicans @ Jazz** -> Typ: Jazz
-
-*   **Kluczowe braki w składach (24.10.2026):**
-    *   **Pelicans:** Yves Missi (Day To Day - kolano) ❓.
-    *   **Jazz:** Jusuf Nurkic (Out - stopa) ❌, Tony Bradley (Questionable - naciągnięcie mięśnia czworogłowego lewego uda) ❓.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Pelicans mają kluczowego gracza z wątpliwym statusem, a Jazz brakuje swojego centra Nurkica, co jest poważnym osłabieniem.
-*   *Brak potwierdzonych składów na styczeń 2026 w dostępnych raportach.*
-
----
-
-### **Grizzlies @ Warriors** -> Typ: Grizzlies
-
-*   **Kluczowe braki w składach (24.10.2026):**
-    *   **Grizzlies:** Cedric Coward (Doubtful - nadgarstek) 🩹, Isaiah Stewart (Questionable - kostka) ❓.
-    *   **Warriors:** Stephen Curry (Unlikely to play - back-to-back) ⛔, Kristaps Porziņģis (Out - choroba/stan autoimmunologiczny) ❌, Moses Moody (Out - kolano) ❌, Charles Bassey (Day To Day/Questionable - tendinopatia rzepki) ❓, Jimmy Butler III (Out - kolano, ACL) ❌, Brandin Podziemski (Unlikely to play/Questionable - ból pleców) ⛔.
-*   **Werdykt:** [✅ ZATWIERDZONY] – Warriors mają bardzo długą listę kluczowych nieobecności i wątpliwych statusów, w tym Stephena Curry'ego. Grizzlies są w znacznie lepszej sytuacji kadrowej.
-*   *Brak potwierdzonych składów na styczeń 2026 w dostępnych raportach.*
-
----
-
-### **Clippers @ Lakers** -> Typ: Lakers
-
-*   **Kluczowe braki w składach (24.10.2026):**
-    *   **Clippers:** Bradley Beal (Out - kolano) ❌, Brandon Ingram (Out - pięta/Achilles) ❌, Jordan Miller (Out - stożek rotatorów) ❌, Max Strus (Out - rozcięgno podeszwowe) ❌, Yanic Konan Niederhauser (Out - Lisfranc) ❌.
-    *   **Lakers:** Adou Thiero (Out - kolano) ❌, Cameron Carr (Out - skośny) ❌, Jake LaRavia (Questionable/Out - kostka) ❓, Collin Sexton (Out - łydka, status na 24.10 nieaktualizowany) ❌.
-*   **Werdykt:** [✅ ZATWIERDZONY] – Clippers mają bardzo poważne braki w składzie, z wieloma kluczowymi graczami poza grą. Mimo kilku kontuzji w Lakers, ich sytuacja jest zdecydowanie lepsza.
-*   *Brak potwierdzonych składów na styczeń 2026 w dostępnych raportach.*
-
----
-
-### **Trail Blazers @ Kings** -> Typ: Trail Blazers
-
-*   **Kluczowe braki w składach (24.10.2026):**
-    *   **Trail Blazers:** Shaedon Sharpe (Out - łąkotka, długa absencja) ❌.
-    *   **Kings:** Malik Monk (Out - kostka) ❌, Dylan Cardwell (Out - łydka) ❌, Maxime Raynaud (Out - podwichnięcie rzepki) ❌, Ben Simmons (Out - zerwany Achilles, koniec sezonu) ❌, Domantas Sabonis (Out - koniec sezonu, zerwana łąkotka) ❌.
-*   **Werdykt:** [✅ ZATWIERDZONY] – Kings borykają się z ogromnymi problemami zdrowotnymi, w tym z utratą kluczowego Domantasa Sabonisa na cały sezon. Trail Blazers, mimo braku Sharpe'a, są w znacznie lepszej pozycji.
-*   *Brak potwierdzonych składów na styczeń 2026 w dostępnych raportach.*
+**Podsumowując:** Brak precyzyjnych danych historycznych o składach na styczeń 2026 oraz aktualnych raportów kontuzji na 24.10.2026 uniemożliwia zatwierdzenie jakiegokolwiek typu.
