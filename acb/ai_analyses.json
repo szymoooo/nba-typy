@@ -1,46 +1,38 @@
 {
-  "generated_at": "2026-10-24T02:51:30.585822",
+  "generated_at": "2026-10-24T07:50:19.325587",
   "date": "2026-10-24",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Recoletas Salud San Pablo Burgos @ Kids&Us Manresa",
-      "phase": "Regular Season",
-      "ai_pick": "Recoletas Salud San Pablo Burgos",
-      "formula_pick": "Kids&Us Manresa",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Kids&Us Manresa ma fatalny bilans 0-4 w Lidze Endesa i traci swojego kluczowego gracza, Tima Allena, który jest kontuzjowany. Mimo że Recoletas Salud San Pablo Burgos gra na wyjeździe i ma bilans 1-3, ich liderzy są zdolni do gry i wygrali już jeden mecz wyjazdowy w tym sezonie.",
-      "key_factors": [
-        "Kontuzja Tima Allena (Kids&Us Manresa)",
-        "Słaba forma Kids&Us Manresa w ACB (0-4)",
-        "Liderzy Recoletas Salud San Pablo Burgos są dostępni i w dobrej formie",
-        "Recoletas Salud San Pablo Burgos ma na koncie jedno zwycięstwo wyjazdowe w lidze"
-      ],
-      "injury_notes": "Kids&Us Manresa: Timmy Allen (ala-pívot) z kontuzją przywodziciela, poza grą na najbliższe mecze. Rafa Villar (rozgrywający) z pęknięciem nadgarstka, poza grą. Eulis Báez (skrzydłowy/środkowy) z kontuzją ścięgna podkolanowego, co jest dłuższą absencją. Recoletas Salud San Pablo Burgos: Retin Obasohan i Vlatko Cancar nadal są nieobecni. Balsa Koprivica, DJ Steward i Raúl Lobaco są zdolni do gry i wystąpili w poprzednim meczu."
-    },
-    {
-      "matchup": "Asisa Joventut @ FIATC Girona",
-      "phase": "Regular Season",
-      "ai_pick": "Asisa Joventut",
-      "formula_pick": "FIATC Girona",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Asisa Joventut wchodzi w mecz z lepszą formą, notując dwie kolejne wygrane w ACB, w tym dominujące zwycięstwo nad FC Barceloną (113-89). FIATC Girona również zanotowała dobry początek sezonu z bilansem 2-1, ale impet Joventutu i doświadczenie kluczowych graczy, takich jak Ricky Rubio i Nico Laprovittola, dają im przewagę.",
-      "key_factors": [
-        "Aktualna, dwumeczowa passa zwycięstw Asisa Joventut w ACB, w tym nad FC Barceloną.",
-        "Obecność doświadczonych liderów w składzie Asisa Joventut, jak Ricky Rubio i Nico Laprovittola.",
-        "Dobra forma strzelecka kluczowych graczy Asisa Joventut, m.in. Eli Ndiaye i Emir Sulejmanovic.",
-        "FIATC Girona ma pozytywny bilans 2-1 w ACB, z Jasselem Pérezem i Mac McClungiem jako liderami ofensywnymi."
-      ],
-      "injury_notes": "Asisa Joventut nie zgłosiło żadnych kontuzjowanych graczy na dzień 23 października 2026 roku, chociaż wcześniej, 18 października, Ante Tomic i Yannick Kraag byli kontuzjowani. W FIATC Girona trener Moncho Fernández wyraził nadzieję, że Andrzej Pluta będzie mógł zagrać, co sugeruje, że mógł mieć drobne problemy zdrowotne."
-    },
-    {
       "matchup": "Leyma Coruña @ UCAM Murcia",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "UCAM Murcia",
       "formula_pick": "UCAM Murcia",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Obie drużyny rozpoczęły sezon z bilansem 1-3, co wskazuje na niestabilną formę. Jednak UCAM Murcia gra u siebie, a ich hala jest historycznie trudnym terenem dla rywali. Kluczowym czynnikiem jest również słaba defensywa Leymy Coruña, która traci najwięcej punktów w lidze w obecnym sezonie, co UCAM Murcia może wykorzystać na własnym parkiecie.",
+      "key_factors": [
+        "Przewaga własnego parkietu UCAM Murcia",
+        "Słaba defensywa Leymy Coruña (najwięcej straconych punktów w lidze)",
+        "Brak istotnych kontuzji u liderów obu drużyn"
+      ],
+      "injury_notes": "Brak istotnych braków. Najnowsze raporty medyczne z 24 października 2026 wskazują, że UCAM Murcia nie ma kontuzjowanych zawodników. Podobnie, Leyma Coruña również ma wszystkich graczy dostępnych, po tym jak wcześniejsze problemy z grypą zostały zażegnane przed 16 października."
+    },
+    {
+      "matchup": "Casademont Zaragoza @ FC Barcelona",
+      "phase": "Regular Season",
+      "ai_pick": "FC Barcelona",
+      "formula_pick": "FC Barcelona",
+      "agreement": true,
+      "confidence": 6,
+      "reasoning": "FC Barcelona, pomimo poważnych problemów z kontuzjami w strefie podkoszowej, ma przewagę własnego boiska. Casademont Zaragoza prezentuje dobrą formę na początku sezonu (bilans 3-1), a ich kluczowi gracze, jak Justin Jaworski, dobrze się spisują. Niemniej jednak, gra na Palau Blaugrana przeciwko nawet osłabionej Barcelonie to trudne wyzwanie.",
+      "key_factors": [
+        "Kontuzje kluczowych graczy FC Barcelona",
+        "Dobra forma Casademont Zaragoza (3-1)",
+        "Przewaga własnego boiska FC Barcelona"
+      ],
+      "injury_notes": "FC Barcelona: Yoan Makoundou (kontuzja kolana, poza grą do listopada), Tosan Evbuomwan (kontuzja barku, brak daty powrotu), Justin Minaya (problemy mięśniowe, wątpliwy). Josh Nebo (kontuzja łydki, prawdopodobnie wraca lub niedostępny). Casademont Zaragoza: Jilson Bango (brak, jedyna zgłoszona absencja)."
     }
   ]
 }

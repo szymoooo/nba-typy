@@ -1,35 +1,23 @@
 {
-  "generated_at": "2026-10-24T01:38:54.917654",
+  "generated_at": "2026-10-24T07:51:02.678388",
   "date": "2026-10-24",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "ROSTOCK SEAWOLVES @ SYNTAINICS MBC",
-      "phase": "Regular Season",
-      "ai_pick": "SYNTAINICS MBC",
-      "formula_pick": "SYNTAINICS MBC",
-      "agreement": true,
-      "confidence": 6,
-      "reasoning": "SYNTAINICS MBC prezentuje nieco lepszą formę na początku sezonu 2026/2027 BBL, z bilansem 3 zwycięstw i 2 porażek w pięciu ostatnich meczach ligowych. ROSTOCK SEAWOLVES mają odnotowany bilans 1 zwycięstwa i 1 porażki w dwóch meczach ligowych, co daje mniejszą próbkę do oceny. Dodatkowo, SYNTAINICS MBC grają u siebie, co stanowi istotny atut w BBL.",
-      "key_factors": [
-        "Forma SYNTAINICS MBC na początku sezonu",
-        "Przewaga własnego parkietu",
-        "Ograniczone dane o formie ROSTOCK SEAWOLVES"
-      ],
-      "injury_notes": "brak istotnych braków"
-    },
-    {
       "matchup": "Telekom Baskets Bonn @ MHP RIESEN Ludwigsburg",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Telekom Baskets Bonn",
       "formula_pick": "MHP RIESEN Ludwigsburg",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "VET-CONCEPT Gladiators Trier @ RASTA Vechta",
-      "ai_pick": null,
-      "formula_pick": "RASTA Vechta",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 6,
+      "reasoning": "Telekom Baskets Bonn wykazuje silną formę swoich kluczowych graczy, co jest potwierdzone statystykami z obecnego sezonu. Pomimo identycznego bilansu (3-2) i ostatnich pięciu meczów w BBL (3-2) dla obu drużyn, udokumentowana wydajność liderów Bonn, w połączeniu z brakiem istotnych kontuzji w obu zespołach, daje im niewielką przewagę w tym wyjazdowym spotkaniu.",
+      "key_factors": [
+        "Silna i udokumentowana forma kluczowych graczy Telekom Baskets Bonn (m.in. John-Michael Wright, Jeff Garrett, Joel Aminu)",
+        "Identyczny bilans sezonowy (3-2) i forma w ostatnich pięciu meczach BBL dla obu drużyn",
+        "Brak istotnych braków kadrowych z powodu kontuzji w obu drużynach"
+      ],
+      "injury_notes": "brak istotnych brakow"
     }
   ]
 }
