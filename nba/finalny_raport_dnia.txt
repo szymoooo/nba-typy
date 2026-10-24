@@ -1,36 +1,52 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-24 15:10 ET) ---
-Rozumiem. Jako rygorystyczny analityk, skupiam się na faktach z DZISIAJ (2026-10-24) i danych dotyczących składów ze STYCZNIA 2026, ignorując dane z 2024 i 2025.
+--- KRYTYCZNY AUDYT LIVE (2026-10-24 15:41 ET) ---
+Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-10-24):
 
-Oto analiza Twoich typów:
+---
 
-### Heat @ Hornets -> Typ: Hornets
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+**Heat @ Hornets**
+*   **Kluczowe braki w składach:**
+    *   Heat: Pelle Larsson (prawdopodobny - zwichnięcie palca lewej ręki).
+    *   Hornets: Kon Knueppel (poza grą - naciągnięcie ścięgna podkolanowego lewej nogi), Coby White (poza grą - naciągnięcie łydki lewej nogi), Grant Williams (poza grą - naciągnięcie ścięgna podkolanowego prawej nogi), Kylan Boswell (poza grą - rekonwalescencja po operacji kolana prawej nogi). Christian Anderson (prawdopodobny - skręcenie kostki lewej nogi).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Hornets mają wiele kluczowych braków.
 
-### Nets @ Cavaliers -> Typ: Cavaliers
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+**Nets @ Cavaliers**
+*   **Kluczowe braki w składach:**
+    *   Nets: Tyler Bilodeau (poza grą - zwichnięcie prawego ramienia).
+    *   Cavaliers: Khalifa Diop (poza grą - uraz kolana lewej nogi, zarządzanie), Nae'Qwan Tomlin (poza grą - reakcja na stres w dolnej części pleców), Ernest Udeh, Jr. (poza grą - Two-Way G League).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak znaczących braków kluczowych graczy, co czyni typ ryzykownym bez dodatkowych informacji.
 
-### Bucks @ 76ers -> Typ: 76ers
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+**Bucks @ 76ers**
+*   **Kluczowe braki w składach:**
+    *   Bucks: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   76ers: Dominick Barlow (poza grą - reakcja na stres w dolnej części pleców), Tacko Fall (poza grą - naciągnięcie mięśnia czworogłowego lewej nogi), Ariel Hukporti (poza grą - zerwanie/naciągnięcie ścięgna Achillesa prawej nogi). LeBron James (wątpliwy - zarządzanie bólem w dolnej części pleców/rwa kulszowa), Dean Wade (wątpliwy - skręcenie kostki lewej nogi).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Status LeBrona Jamesa i wielu innych graczy 76ers jest niepewny, a raport Bucks jest niedostępny.
 
-### Wizards @ Bulls -> Typ: Bulls
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+**Wizards @ Bulls**
+*   **Kluczowe braki w składach:**
+    *   Wizards: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Bulls: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonych informacji o kontuzjach na dziś.
 
-### Spurs @ Mavericks -> Typ: Mavericks
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+**Spurs @ Mavericks**
+*   **Kluczowe braki w składach:**
+    *   Spurs: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Mavericks: Brak aktualnych raportów (Injury Report) na tę chwilę. Dereck Lively II, Jett Howard i Tarik Biberovic nie grali wczoraj (23 października), ale ich status na dziś nie jest oficjalnie potwierdzony jako "Out", "Questionable" lub "GTD".
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonych informacji o kontuzjach na dziś.
 
-### Rockets @ Hawks -> Typ: Hawks
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+**Rockets @ Hawks**
+*   **Kluczowe braki w składach:**
+    *   Rockets: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Hawks: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak potwierdzonych informacji o kontuzjach na dziś.
 
-### Pelicans @ Nuggets -> Typ: Nuggets
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+**Pelicans @ Nuggets**
+*   **Kluczowe braki w składach:**
+    *   Pelicans: Brak aktualnych raportów (Injury Report) na tę chwilę. Dejounte Murray był wcześniej poza grą, a Yves Missi doznał urazu nogi, ale ich status na 24 października nie jest oficjalnie wymieniony jako "Out", "Questionable" lub "GTD" w głównym raporcie.
+    *   Nuggets: Alpha Diallo (wątpliwy - skręcenie prawego nadgarstka), Cameron Johnson (poza grą - skręcenie kostki prawej nogi), Spencer Jones (poza grą - zarządzanie urazami ścięgien podkolanowych obu nóg), Julian Strawther (poza grą - skręcenie kolana lewej nogi).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Nuggets mają potwierdzone braki, ale status kluczowych graczy Pelicans jest niejasny z oficjalnego raportu na dziś.
 
-### Warriors @ Suns -> Typ: Suns
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+**Warriors @ Suns**
+*   **Kluczowe braki w składach:**
+    *   Warriors: C. Bassey (Day To Day - rzepka, stan z piątku, 23 października). Brak statusu "Out", "Questionable" lub "GTD" dla 24 października w głównym raporcie.
+    *   Suns: Oso Ighodaro (wątpliwy - naciągnięcie mięśnia skośnego prawego), Luke Kennard (wątpliwy - tendinopatia kolana lewej nogi).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Suns mają potwierdzone potencjalne braki.
