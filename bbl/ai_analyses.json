@@ -1,24 +1,35 @@
 {
-  "generated_at": "2026-10-23T13:04:39.713725",
-  "date": "2026-10-23",
+  "generated_at": "2026-10-24T01:38:54.917654",
+  "date": "2026-10-24",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Bamberg Baskets @ EWE Baskets Oldenburg",
-      "phase": "Matchday 6",
-      "ai_pick": "EWE Baskets Oldenburg",
-      "formula_pick": "EWE Baskets Oldenburg",
+      "matchup": "ROSTOCK SEAWOLVES @ SYNTAINICS MBC",
+      "phase": "Regular Season",
+      "ai_pick": "SYNTAINICS MBC",
+      "formula_pick": "SYNTAINICS MBC",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "EWE Baskets Oldenburg rozpoczęli sezon BBL 2026/27 z lepszym bilansem 3-2 w porównaniu do 2-3 Bamberg Baskets. Dodatkowo, Oldenburg gra na własnym parkiecie, gdzie odnieśli imponujące zwycięstwo po odrobieniu 26 punktów w tym sezonie, co wskazuje na silny czynnik przewagi własnego boiska i waleczność zespołu. Brak zgłoszonych istotnych kontuzji u kluczowych zawodników obu drużyn pozwala na ocenę formy opartej na dotychczasowych wynikach.",
+      "confidence": 6,
+      "reasoning": "SYNTAINICS MBC prezentuje nieco lepszą formę na początku sezonu 2026/2027 BBL, z bilansem 3 zwycięstw i 2 porażek w pięciu ostatnich meczach ligowych. ROSTOCK SEAWOLVES mają odnotowany bilans 1 zwycięstwa i 1 porażki w dwóch meczach ligowych, co daje mniejszą próbkę do oceny. Dodatkowo, SYNTAINICS MBC grają u siebie, co stanowi istotny atut w BBL.",
       "key_factors": [
-        "Przewaga własnego parkietu dla EWE Baskets Oldenburg",
-        "Lepsza forma EWE Baskets Oldenburg w obecnym sezonie BBL (3-2)",
-        "Brak istotnych kontuzji",
-        "Topowi gracze EWE Baskets Oldenburg w dobrej formie strzeleckiej i zbiórkowej"
+        "Forma SYNTAINICS MBC na początku sezonu",
+        "Przewaga własnego parkietu",
+        "Ograniczone dane o formie ROSTOCK SEAWOLVES"
       ],
-      "injury_notes": "Brak istotnych braków zgłoszonych na dzień 2026-10-23 dla obu drużyn."
+      "injury_notes": "brak istotnych braków"
+    },
+    {
+      "matchup": "Telekom Baskets Bonn @ MHP RIESEN Ludwigsburg",
+      "ai_pick": null,
+      "formula_pick": "MHP RIESEN Ludwigsburg",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "VET-CONCEPT Gladiators Trier @ RASTA Vechta",
+      "ai_pick": null,
+      "formula_pick": "RASTA Vechta",
+      "note": "AI fallback"
     }
   ]
 }
