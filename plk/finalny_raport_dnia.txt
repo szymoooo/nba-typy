@@ -1,52 +1,45 @@
---- AUDYT PLK LIVE (2026-10-25 23:04 CET) ---
+--- AUDYT PLK LIVE (2026-10-25 23:28 CET) ---
 Analiza meczów PLK na dzień 2026-10-25:
 
 ---
+### **MECZ: Górnik Zamek Książ Wałbrzych (gosc) @ AMW Arka Gdynia (gospodarz)**
 
-### MECZ: Górnik Zamek Książ Wałbrzych (gosc) @ AMW Arka Gdynia (gospodarz)
-
-*   **Kluczowe braki w składach:**
-    *   AMW Arka Gdynia: Jarosław Zyskowski kontuzjowany, początek sezonu 2026/2027 ma z głowy.
-    *   Górnik Zamek Książ Wałbrzych: Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:**
-    *   AMW Arka Gdynia: Alex Stein (20.3 Pkt/mecz), Kasper Suurorg (18.0 Pkt/mecz), Jakub Garbacz (17.0 Pkt/mecz).
-    *   Górnik Zamek Książ Wałbrzych: Michaelyn Scott (14 Pkt/mecz), Trey Diggs (13.3 Pkt/mecz przed meczem, 11.8 Pkt/mecz po meczu), Leemet Bockler (11 Pkt/mecz przed meczem, 11.3 Pkt/mecz po meczu).
-*   **Werdykt:** ⚠️ RYZYKOWNY - Mecz już się odbył 2026-10-25. Górnik Zamek Książ Wałbrzych pokonał AMW Arkę Gdynia 95:88. Audytowanie typu jest w tym przypadku nieadekwatne.
-
----
-
-### MECZ: Tasomix Rosiek Stal Ostrów Wielkopolski (gosc) @ Legia Warszawa (gospodarz)
-
-*   **Kluczowe braki w składach:**
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim.
-    *   Tasomix Rosiek Stal Ostrów Wielkopolski: Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:**
-    *   Legia Warszawa: Brak danych z API dla tego zespołu.
-    *   Tasomix Rosiek Stal Ostrów Wielkopolski: Brak danych z API dla tego zespołu.
-*   **Werdykt:** ⚠️ RYZYKOWNY - Mecz już się odbył 2026-10-25. Legia Warszawa pokonała Stal Ostrów Wielkopolski. Audytowanie typu jest w tym przypadku nieadekwatne.
+1.  **Kluczowe braki w składach:**
+    *   AMW Arka Gdynia: Jarosław Zyskowski doznał kontuzji wymagającej zabiegu i jest wyłączony z gry na początek sezonu 2026/2027.
+    *   Górnik Zamek Książ Wałbrzych: Brak istotnych braków w składzie koszykarskim potwierdzonych na 25.10.2026.
+2.  **Aktualna forma top scorerów:**
+    *   brak danych z API dla tego zespołu.
+    *   Na podstawie meczu z 2026-10-11, dla AMW Arka Gdynia wyróżnili się Jakub Garbacz (26 pkt) i Alex Stein (25 pkt).
+3.  **Werdykt:** brak typu do audytu.
 
 ---
+### **MECZ: Tasomix Rosiek Stal Ostrów Wielkopolski (gosc) @ Legia Warszawa (gospodarz)**
 
-### MECZ: Energa Czarni Słupsk (gosc) @ Dziki Warszawa (gospodarz)
+1.  **Kluczowe braki w składach:**
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim potwierdzonych na 25.10.2026.
+    *   Tasomix Rosiek Stal Ostrów Wielkopolski: Brak istotnych braków w składzie koszykarskim potwierdzonych na 25.10.2026. Artykuł z 24.10.2026 wspomina o zawodniku Stali wracającym po długiej przerwie spowodowanej kontuzją lub zawieszeniem, ale nie potwierdza jego nieobecności w dzisiejszym meczu.
+2.  **Aktualna forma top scorerów:**
+    *   brak danych z API dla tego zespołu.
+    *   Dla Tasomix Rosiek Stal Ostrów Wielkopolski, w ostatnich meczach Tajion Jones notował 10.7 punktów.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
 
-*   **Kluczowe braki w składach:**
+---
+### **MECZ: Energa Czarni Słupsk (gosc) @ Dziki Warszawa (gospodarz)**
+
+1.  **Kluczowe braki w składach:**
     *   Dziki Warszawa: Brak istotnych braków w składzie koszykarskim.
     *   Energa Czarni Słupsk: Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:**
-    *   Dziki Warszawa: Brak danych z API dla tego zespołu.
-    *   Energa Czarni Słupsk: Brak danych z API dla tego zespołu.
-*   **Werdykt:** ⚠️ RYZYKOWNY - Mecz już się odbył 2026-10-25. Mecz pomiędzy Dziki Warszawa a Czarnymi Słupsk zakończył się wynikiem. Audytowanie typu jest w tym przypadku nieadekwatne.
+2.  **Aktualna forma top scorerów:**
+    *   brak danych z API dla tego zespołu.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
 
 ---
+### **MECZ: Energa Trefl Sopot (gosc) @ MKS Dąbrowa Górnicza (gospodarz)**
 
-### MECZ: Energa Trefl Sopot (gosc) @ MKS Dąbrowa Górnicza (gospodarz)
-
-*   **Kluczowe braki w składach:**
+1.  **Kluczowe braki w składach:**
     *   MKS Dąbrowa Górnicza: Brak istotnych braków w składzie koszykarskim.
-    *   Energa Trefl Sopot: Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:**
-    *   MKS Dąbrowa Górnicza: Brak danych z API dla tego zespołu.
-    *   Energa Trefl Sopot: Brak danych z API dla tego zespołu.
-*   **Werdykt:** ⚠️ RYZYKOWNY - Mecz już się odbył 2026-10-25. Mecz MKS Dąbrowa Górnicza – Trefl Sopot w ramach Tauron Basket Ligi. Audytowanie typu jest w tym przypadku nieadekwatne.
-
----
+    *   Energa Trefl Sopot: Brak istotnych braków w składzie koszykarskim potwierdzonych na 25.10.2026. Wcześniejsze doniesienia o kontuzjach z lutego 2026 (Kenneth Goins, Raymond Cowels) są nieaktualne.
+2.  **Aktualna forma top scorerów:**
+    *   brak danych z API dla tego zespołu.
+    *   Na podstawie meczu z 2026-10-11, dla Energa Trefl Sopot wyróżnili się Jakub Schenk (23 pkt, 8 asyst), Stefan Simanić (15 pkt) i Trey Anderson (14 pkt).
+3.  **Werdykt:** [✅ ZATWIERDZONY]

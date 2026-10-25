@@ -1,56 +1,44 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-25 18:00 ET) ---
-Na podstawie danych z 25 października 2026 roku, oto analiza Twoich typów:
+--- KRYTYCZNY AUDYT LIVE (2026-10-25 18:28 ET) ---
+Na podstawie dostępnych danych z sieci na dzień 2026-10-25, oto analiza Twoich typów:
 
 ---
 
-**Pacers @ Nets** -> Typ: Pacers
+### Magic @ Knicks -> Typ: Knicks
 
 *   **Kluczowe braki w składach:**
-    *   **Nets:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   **Pacers:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY] (Brak kluczowych kontuzji oznacza, że składy są pełne.)
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach utrudnia ocenę).
 
 ---
 
-**Magic @ Knicks** -> Typ: Knicks
+### Raptors @ Timberwolves -> Typ: Timberwolves
 
 *   **Kluczowe braki w składach:**
-    *   **Magic:** Paolo Banchero (wysokie skręcenie prawej kostki) – OUT na wiele tygodni (4-6 tygodni); Jonathan Isaac (kontuzja lewego kolana) – OUT; Izaiyah Nelson (kontuzja lewej kostki) – OUT; Noah Penda (częściowe zerwanie ścięgna podkolanowego) – OUT; Anthony Black (skręcenie prawej kostki) – Questionable.
-    *   **Knicks:** Jose Alvarado (kostka) – Questionable.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Poważne osłabienia w składzie Magic, zwłaszcza brak Banchero, czynią typ ryzykownym.)
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach utrudnia ocenę).
 
 ---
 
-**Raptors @ Timberwolves** -> Typ: Timberwolves
+### Clippers @ Thunder -> Typ: Thunder
 
 *   **Kluczowe braki w składach:**
-    *   **Raptors:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   **Timberwolves:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY] (Brak kluczowych kontuzji.)
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach utrudnia ocenę).
 
 ---
 
-**Clippers @ Thunder** -> Typ: Thunder
+### Pistons @ 76ers -> Typ: 76ers
 
 *   **Kluczowe braki w składach:**
-    *   **Clippers:** Strus (częściowe rozdarcie rozcięgna podeszwowego w prawej stopie) – OUT (raport z 5 października); Jordan Miller (zerwanie lewego stożka rotatorów) – OUT (raport z 26 sierpnia, reewaluacja za 6 miesięcy). Kawhi Leonard jest prawdopodobnie po transferze do Raptors.
-    *   **Thunder:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY] (Mimo braku Strusa i Millera dla Clippers, Thunder mają pełny skład. Typ Thunder jest uzasadniony w obliczu braku kluczowych kontuzji u nich.)
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach utrudnia ocenę).
 
 ---
 
-**Pistons @ 76ers** -> Typ: 76ers
+### Grizzlies @ Kings -> Typ: Grizzlies
 
 *   **Kluczowe braki w składach:**
-    *   **Pistons:** Jalen Duren (naciągnięcie prawego ścięgna podkolanowego) – OUT na co najmniej dwa tygodnie; Ausar Thompson (skręcenie prawej kostki) – Questionable.
-    *   **76ers:** Joel Embiid (kontuzja rozcięgna podeszwowego prawej stopy) – OUT; Dominick Barlow (plecy) – OUT; Tacko Fall (mięsień czworogłowy) – OUT; Jabari Walker (ból lewego kolana) – OUT. LeBron James (ból w dolnej części pleców i rwa kulszowa) - Dostępny.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Obie drużyny mają znaczące braki, w tym Embiida dla 76ers i Durena dla Pistons. Pomimo dostępności LeBrona, brak Embiida to duża strata.)
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak danych o kontuzjach utrudnia ocenę).
 
 ---
-
-**Grizzlies @ Kings** -> Typ: Grizzlies
-
-*   **Kluczowe braki w składach:**
-    *   **Grizzlies:** Cedric Coward (nadgarstek) – Questionable.
-    *   **Kings:** Ben Simmons (zerwanie prawego ścięgna Achillesa) – OUT na cały sezon 2026-27; Keegan Murray (kostka) – Questionable.
-*   **Werdykt:** [✅ ZATWIERDZONY] (Kings mają poważny, długoterminowy brak Simmonsa. Wobec mniejszych problemów Grizzlies, typ jest zasadny.)
