@@ -1,39 +1,14 @@
 {
-  "generated_at": "2026-10-25T12:59:30.112413",
-  "date": "2026-10-25",
+  "generated_at": "2026-10-25T22:05:45.738239",
+  "date": "2026-10-26",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Veolia Towers Hamburg @ FC Bayern München",
-      "phase": "Regular Season",
-      "ai_pick": "FC Bayern München",
-      "formula_pick": "FC Bayern München",
-      "agreement": true,
-      "confidence": 9,
-      "reasoning": "FC Bayern München jest w znakomitej formie w lidze BBL, legitymując się bilansem 4-0. Dodatkowo, niedawno pokonali Veolia Towers Hamburg w Pucharze Niemiec wynikiem 85-63, co świadczy o ich dominacji. Veolia Towers Hamburg ma słabszy bilans 1-4 w lidze i wyraźnie przegrała ostatnie bezpośrednie starcie.",
-      "key_factors": [
-        "Doskonała forma FC Bayern München w BBL (4-0)",
-        "Bezpośrednie starcie w Pucharze Niemiec wygrane przez Bayern (85-63)",
-        "Przewaga własnego parkietu dla FC Bayern München"
-      ],
-      "injury_notes": "brak istotnych braków"
-    },
-    {
-      "matchup": "Ratiopharm Ulm @ Alba Berlin",
-      "phase": "Regular Season",
-      "ai_pick": "Alba Berlin",
-      "formula_pick": "Alba Berlin",
-      "agreement": true,
-      "confidence": 5,
-      "reasoning": "Obie drużyny wchodzą w mecz z bilansem 2 zwycięstw i 3 porażek w obecnym sezonie BBL. Alba Berlin ma przewagę własnego parkietu, gdzie odnotowała 2 zwycięstwa i 1 porażkę, podczas gdy Ratiopharm Ulm ma bilans 1 zwycięstwa i 3 porażek na wyjeździe. Dodatkowym czynnikiem jest powrót Michaela Rataja, obecnego top-strzelca Ulm, do swojego byłego klubu, co może wpłynąć na dynamikę meczu.",
-      "key_factors": [
-        "Przewaga własnego parkietu Alba Berlin (bilans 2-1 u siebie w BBL)",
-        "Obecna forma w BBL (bilans 2-3 dla obu drużyn)",
-        "Powrót Michaela Rataja (Ulm) do byłego klubu",
-        "Historyczny bilans H2H (Ratiopharm Ulm prowadzi 7-3 w ostatnich 10 meczach, ale Alba wygrała ostatnie spotkanie)"
-      ],
-      "injury_notes": "brak istotnych brakow"
+      "matchup": "NINERS Chemnitz @ Fitness First Würzburg Baskets",
+      "ai_pick": null,
+      "formula_pick": "Fitness First Würzburg Baskets",
+      "note": "AI fallback"
     }
   ]
 }
