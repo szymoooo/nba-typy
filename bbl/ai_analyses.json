@@ -1,54 +1,23 @@
 {
-  "generated_at": "2026-10-25T07:52:47.567509",
+  "generated_at": "2026-10-25T12:55:39.360617",
   "date": "2026-10-25",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Braunschweig @ Phoenix Hagen",
-      "phase": "Hauptrunde",
-      "ai_pick": "Braunschweig",
+      "matchup": "Basketball Löwen Braunschweig @ Phoenix Hagen",
+      "phase": "Regular Season",
+      "ai_pick": "Basketball Löwen Braunschweig",
       "formula_pick": "Phoenix Hagen",
       "agreement": false,
-      "confidence": 8,
-      "reasoning": "Braunschweig ma znacznie lepszy start w sezonie 2026/27 BBL z bilansem 3 zwycięstw i 1 porażki, plasując się wysoko w tabeli. Phoenix Hagen ma słabą formę, odnotowując 1 zwycięstwo i 4 porażki w pięciu dotychczasowych meczach.",
+      "confidence": 7,
+      "reasoning": "Basketball Löwen Braunschweig ma lepszy bilans (3-1) w początkowej fazie sezonu BBL 2026/27 w porównaniu do Phoenix Hagen (1-4). Mimo gry na wyjeździe i niepewności co do stanu zdrowia kluczowych graczy, ogólna forma Braunschweig wydaje się silniejsza.",
       "key_factors": [
-        "Lepsza forma Basketball Löwen Braunschweig (3 zwycięstwa w 4 meczach BBL)",
-        "Słaba forma Phoenix Hagen (1 zwycięstwo w 5 meczach BBL)",
-        "Wyższa pozycja Basketball Löwen Braunschweig w tabeli (4. miejsce) w porównaniu do Phoenix Hagen (18. miejsce)"
+        "Lepsza forma Basketball Löwen Braunschweig (3-1 w BBL)",
+        "Kontuzje kluczowych graczy w Basketball Löwen Braunschweig (Aydinoglu, Edigin Jr.)",
+        "Przewaga własnego boiska Phoenix Hagen"
       ],
-      "injury_notes": "Brak istotnych braków po obu stronach."
-    },
-    {
-      "matchup": "Veolia Towers Hamburg @ FC Bayern München Basketball",
-      "phase": "Hauptrunde",
-      "ai_pick": "FC Bayern München Basketball",
-      "formula_pick": "FC Bayern München Basketball",
-      "agreement": true,
-      "confidence": 9,
-      "reasoning": "FC Bayern München Basketball ma doskonały start w sezonie BBL 2026/27 z bilansem 4-0, podczas gdy Veolia Towers Hamburg ma bilans 1-4. Bayern gra na własnym parkiecie, co daje im dodatkową przewagę, a niedawno pokonali Hamburg w meczu pucharowym. Skład gospodarzy wydaje się silniejszy i głębszy.",
-      "key_factors": [
-        "Aktualna forma (FC Bayern 4-0 BBL, Veolia Towers Hamburg 1-4 BBL)",
-        "Przewaga własnego parkietu dla FC Bayern München Basketball",
-        "Wygrana FC Bayern w ostatnim bezpośrednim spotkaniu w Pucharze BBL (2026-10-19)",
-        "Głębia i jakość składu FC Bayern München Basketball"
-      ],
-      "injury_notes": "Brak istotnych braków po obu stronach na dzień 2026-10-25. Rokas Jokubaitis i Andi Obst z FC Bayern wracali do zdrowia, ale nie ma informacji o ich wykluczeniu z dzisiejszego meczu. Brak szczegółowych raportów dotyczących kontuzji kluczowych graczy Veolia Towers Hamburg."
-    },
-    {
-      "matchup": "ratiopharm ulm @ ALBA BERLIN",
-      "phase": "Hauptrunde",
-      "ai_pick": "ratiopharm ulm",
-      "formula_pick": "ALBA BERLIN",
-      "agreement": false,
-      "confidence": 6,
-      "reasoning": "Pomimo przewagi własnego boiska ALBA BERLIN, ratiopharm ulm dysponuje silnymi liderami, takimi jak Michael Rataj, Armel Traore i Simi Shittu, którzy wykazują dobrą formę na początku sezonu. Obie drużyny znajdują się w słabej dyspozycji, notując trzy kolejne porażki w BBL, co czyni ten czynnik neutralnym. Historyczne wyniki H2H wskazują na przewagę ratiopharm ulm w bezpośrednich starciach, a analizy bukmacherskie sugerują, że ratiopharm ulm może być niedoceniane w tym meczu.",
-      "key_factors": [
-        "Mocna indywidualna forma liderów ratiopharm ulm",
-        "Historyczna przewaga ratiopharm ulm w meczach H2H (ostatnie 10 spotkań)",
-        "Słaba forma obu drużyn (trzy porażki z rzędu w BBL)"
-      ],
-      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 25.10.2026."
+      "injury_notes": "Gian Aydinoglu (uraz barku, prognozowany powrót w październiku) i Eddy Edigin Jr. (naciągnięcie mięśnia uda, prognozowany powrót w październiku) z Basketball Löwen Braunschweig byli kontuzjowani; ich status na mecz 25.10.2026 jest niepewny, ale mogą wracać do gry. Brak istotnych braków w Phoenix Hagen."
     }
   ]
 }

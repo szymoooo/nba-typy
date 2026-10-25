@@ -1,37 +1,69 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-25 03:48 ET) ---
-Oto analiza Twoich typów na podstawie danych z dnia 2026-10-25:
+--- KRYTYCZNY AUDYT LIVE (2026-10-25 08:53 ET) ---
+Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-10-25):
 
 ---
 
-**Wizards @ Bulls -> Typ: Bulls**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Rostery (Styczeń 2026 / Sezon 2025-26):** Wizards dysponują takimi zawodnikami jak Trae Young i Anthony Davis. Skład Bulls na styczeń 2026 nie jest jasno określony w dostępnych danych.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Roster Wizards wydaje się silniejszy z obecnością gwiazd. Brak jasnych informacji o kluczowych graczach Bulls na ten okres sprawia, że typ jest ryzykowny.
+**1. Wizards @ Bulls -> Typ: Bulls**
+
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. ❌
+    *   Wczoraj, 24 października 2026, Wizards pokonali Bulls 124-120. Brak jednak raportów o kontuzjach dla ewentualnego dzisiejszego rewanżu.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Z powodu braku danych o składach na dziś)
 
 ---
 
-**Spurs @ Mavericks -> Typ: Mavericks**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Rostery (Styczeń 2026 / Sezon 2025-26):** Spurs posiadają Victora Wembanyamę, De'Aarona Foxa i Devina Vassella. Mavericks mają w składzie Lukę Doncica, Derecka Lively'ego II i Naji Marshalla. Obie drużyny mają znaczącą siłę gwiazd.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Zarówno Spurs, jak i Mavericks mają bardzo mocne składy. Mecz zapowiada się na zacięty.
+**2. Spurs @ Mavericks -> Typ: Mavericks**
+
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. ❌
+    *   Cooper Flagg z Mavericks doznał kontuzji barku 24 października 2026, ale nie ma potwierdzenia jego statusu na dziś.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Z powodu braku danych o składach na dziś)
 
 ---
 
-**Rockets @ Hawks -> Typ: Hawks**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Rostery (Styczeń 2026 / Sezon 2025-26):** Rockets mają w składzie Kevina Duranta, Jabari Smitha Jr. i Reeda Shepparda. Hawks nabyli C.J. McColluma 9 stycznia 2026 roku.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Rockets z Kevinem Durantem to mocny kandydat. Mimo pozyskania McColluma, ogólna siła Rockets może przewyższać Hawks.
+**3. Rockets @ Hawks -> Typ: Hawks**
+
+*   **Kluczowe braki w składach:**
+    *   **Rockets:**
+        *   Fred VanVleet: Out (kontuzja kolana - zarządzanie obciążeniem) 🤕
+        *   Steven Adams: Out (kontuzja kostki - zarządzanie obciążeniem) 🤕
+        *   Reed Sheppard: Questionable (stłuczenie i obrzęk kości lewego kolana) ❓
+        *   Marcus Smart: Out (przedramię) 🤕
+    *   **Hawks:**
+        *   Mouhamed Gueye: Out (złamanie lewej stopy) 🤕
+        *   Henri Veesaar: Out for season (zerwane ACL w prawym kolanie) 🚨
+        *   RayJ Dennis, Keshon Gilbert, Jalen Wilson: Questionable (przydziały do G League) ❓
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Obie drużyny mają znaczące braki, w tym kluczowych graczy Rockets odpoczywających oraz długoterminowe kontuzje w Hawks.)
 
 ---
 
-**Pelicans @ Nuggets -> Typ: Nuggets**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Rostery (Styczeń 2026 / Sezon 2025-26):** Pelicans mają Zion Williamsona. Nuggets dysponują Nikolą Jokicem, Jamalem Murrayem i Christianem Braunem.
-*   **Werdykt:** [✅ ZATWIERDZONY] – Nuggets z Jokicem i Murrayem mają sprawdzony, mistrzowski trzon. Pelicans, pomimo talentu Zion Williamsona, mogą nie dorównywać ustalonej sile Nuggets.
+**4. Pelicans @ Nuggets -> Typ: Nuggets**
+
+*   **Kluczowe braki w składach:**
+    *   **Pelicans:**
+        *   Yves Missi: Out (stłuczenie i obrzęk kości lewego kolana) 🤕
+    *   **Nuggets:**
+        *   Cameron Johnson: Out (skręcenie prawej kostki) 🤕
+        *   Spencer Jones: Out (obustronne zarządzanie kontuzją ścięgien udowych) 🤕
+        *   Julian Strawther: Out (skręcenie lewego kolana) 🤕
+        *   Alpha Diallo: Out (skręcenie prawego nadgarstka) 🤕
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Nuggets są osłabieni brakiem czterech kluczowych graczy, co znacząco wpływa na ich potencjał.)
 
 ---
 
-**Warriors @ Suns -> Typ: Suns**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Rostery (Styczeń 2026 / Sezon 2025-26):** Brak jest jasnych informacji o kluczowych graczach Warriors na styczeń 2026 w dostępnych danych. Roster Suns na sezon 2025-26 wymienia Amir Coffey'a, Ryana Dunna i Rasheera Fleminga, którzy nie są gwiazdorskimi graczami.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Ze względu na niewystarczające informacje o kluczowych graczach obu drużyn na styczeń 2026, nie można rygorystycznie potwierdzić tego typu.
+**5. Warriors @ Suns -> Typ: Suns**
+
+*   **Kluczowe braki w składach:**
+    *   **Warriors:**
+        *   Stephen Curry: Out (zarządzanie kontuzją prawego kolana) 🤕
+        *   Draymond Green: Doubtful/Out (ból dolnej części pleców/odpoczynek) ❓/🤕
+        *   Brandin Podziemski: Out (ból dolnej części pleców - zarządzanie obciążeniem) 🤕
+        *   Al Horford: Out (ból dolnej części pleców - zarządzanie obciążeniem) 🤕
+        *   Jimmy Butler: Out (operacja prawego kolana) 🚨
+        *   Moses Moody: Out (operacja lewego kolana) 🚨
+        *   Kristaps Porzingis: Out (poza drużyną/kontuzja) 🤕
+        *   Gui Santos: Left knee soreness (opuścił mecz, stan na poniedziałek) 🤕
+        *   Charles Bassey: Questionable (tendinopatia rzepki w prawym kolanie) ❓
+    *   **Suns:**
+        *   Mark Williams: Out (operacja lewego barku) 🤕
+        *   Oso Ighodaro: Out/Doubtful (prawe skośne rozciągnięcie mięśni) 🤕
+        *   Luke Kennard: Questionable (tendinopatia lewego kolana) ❓
+*   **Werdykt:** [✅ ZATWIERDZONY] (Warriors są ekstremalnie osłabieni brakiem wielu kluczowych graczy, w tym gwiazd takich jak Curry i Green. Chociaż Suns również mają kontuzje, ich wpływ jest mniejszy, co sprawia, że mają dużą przewagę w tym meczu.)
