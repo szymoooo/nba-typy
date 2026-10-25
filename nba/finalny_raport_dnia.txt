@@ -1,69 +1,70 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-25 08:53 ET) ---
-Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-10-25):
+--- KRYTYCZNY AUDYT LIVE (2026-10-25 08:55 ET) ---
+Oto analiza Twoich typów na podstawie dzisiejszych danych z sieci (2026-10-25):
 
 ---
 
-**1. Wizards @ Bulls -> Typ: Bulls**
-
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. ❌
-    *   Wczoraj, 24 października 2026, Wizards pokonali Bulls 124-120. Brak jednak raportów o kontuzjach dla ewentualnego dzisiejszego rewanżu.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Z powodu braku danych o składach na dziś)
-
----
-
-**2. Spurs @ Mavericks -> Typ: Mavericks**
-
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. ❌
-    *   Cooper Flagg z Mavericks doznał kontuzji barku 24 października 2026, ale nie ma potwierdzenia jego statusu na dziś.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Z powodu braku danych o składach na dziś)
-
----
-
-**3. Rockets @ Hawks -> Typ: Hawks**
+### Wizards @ Bulls -> Typ: Bulls
 
 *   **Kluczowe braki w składach:**
-    *   **Rockets:**
-        *   Fred VanVleet: Out (kontuzja kolana - zarządzanie obciążeniem) 🤕
-        *   Steven Adams: Out (kontuzja kostki - zarządzanie obciążeniem) 🤕
-        *   Reed Sheppard: Questionable (stłuczenie i obrzęk kości lewego kolana) ❓
-        *   Marcus Smart: Out (przedramię) 🤕
-    *   **Hawks:**
-        *   Mouhamed Gueye: Out (złamanie lewej stopy) 🤕
-        *   Henri Veesaar: Out for season (zerwane ACL w prawym kolanie) 🚨
-        *   RayJ Dennis, Keshon Gilbert, Jalen Wilson: Questionable (przydziały do G League) ❓
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Obie drużyny mają znaczące braki, w tym kluczowych graczy Rockets odpoczywających oraz długoterminowe kontuzje w Hawks.)
+    *   **Washington Wizards:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   **Chicago Bulls:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Bez dostępu do aktualnych raportów o kontuzjach obu drużyn, ocena tego typu jest wysoce ryzykowna.
 
 ---
 
-**4. Pelicans @ Nuggets -> Typ: Nuggets**
+### Spurs @ Mavericks -> Typ: Mavericks
 
 *   **Kluczowe braki w składach:**
-    *   **Pelicans:**
-        *   Yves Missi: Out (stłuczenie i obrzęk kości lewego kolana) 🤕
-    *   **Nuggets:**
-        *   Cameron Johnson: Out (skręcenie prawej kostki) 🤕
-        *   Spencer Jones: Out (obustronne zarządzanie kontuzją ścięgien udowych) 🤕
-        *   Julian Strawther: Out (skręcenie lewego kolana) 🤕
-        *   Alpha Diallo: Out (skręcenie prawego nadgarstka) 🤕
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Nuggets są osłabieni brakiem czterech kluczowych graczy, co znacząco wpływa na ich potencjał.)
+    *   **San Antonio Spurs:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   **Dallas Mavericks:**
+        *   Cooper Flagg: OUT (ma opuścić co najmniej tydzień z powodu ostatniej kontuzji).
+        *   Tarik Biberovic: OUT (na mecz 24 października).
+        *   Santi Aldama: OUT (na mecz 24 października).
+        *   Dereck Lively II: OUT (na mecz 24 października).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Mavericks są osłabieni brakiem kilku kluczowych graczy, w tym Coopera Flagga na dłużej, a także Biberovica, Aldamy i Lively'ego II, co czyni ten typ ryzykownym.
 
 ---
 
-**5. Warriors @ Suns -> Typ: Suns**
+### Rockets @ Hawks -> Typ: Hawks
 
 *   **Kluczowe braki w składach:**
-    *   **Warriors:**
-        *   Stephen Curry: Out (zarządzanie kontuzją prawego kolana) 🤕
-        *   Draymond Green: Doubtful/Out (ból dolnej części pleców/odpoczynek) ❓/🤕
-        *   Brandin Podziemski: Out (ból dolnej części pleców - zarządzanie obciążeniem) 🤕
-        *   Al Horford: Out (ból dolnej części pleców - zarządzanie obciążeniem) 🤕
-        *   Jimmy Butler: Out (operacja prawego kolana) 🚨
-        *   Moses Moody: Out (operacja lewego kolana) 🚨
-        *   Kristaps Porzingis: Out (poza drużyną/kontuzja) 🤕
-        *   Gui Santos: Left knee soreness (opuścił mecz, stan na poniedziałek) 🤕
-        *   Charles Bassey: Questionable (tendinopatia rzepki w prawym kolanie) ❓
-    *   **Suns:**
-        *   Mark Williams: Out (operacja lewego barku) 🤕
-        *   Oso Ighodaro: Out/Doubtful (prawe skośne rozciągnięcie mięśni) 🤕
-        *   Luke Kennard: Questionable (tendinopatia lewego kolana) ❓
-*   **Werdykt:** [✅ ZATWIERDZONY] (Warriors są ekstremalnie osłabieni brakiem wielu kluczowych graczy, w tym gwiazd takich jak Curry i Green. Chociaż Suns również mają kontuzje, ich wpływ jest mniejszy, co sprawia, że mają dużą przewagę w tym meczu.)
+    *   **Houston Rockets:**
+        *   Steven Adams: OUT (na mecz 24 października).
+        *   Fred VanVleet: OUT (na mecz 24 października).
+        *   Reed Sheppard: Nie grał w meczu 23 października.
+    *   **Atlanta Hawks:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Rockets mają poważne braki, w tym Adamsa i VanVleeta. Przy założeniu, że Hawks są relatywnie zdrowi (brak raportów o kontuzjach), ich typ wydaje się być zatwierdzony.
+
+---
+
+### Pelicans @ Nuggets -> Typ: Nuggets
+
+*   **Kluczowe braki w składach:**
+    *   **New Orleans Pelicans:**
+        *   Yves Missi: OUT (na mecz 24 października z powodu stłuczenia/stłuczenia kości lewego kolana).
+    *   **Denver Nuggets:**
+        *   Cameron Johnson: OUT (skręcenie prawej kostki, na mecz 24 października).
+        *   Spencer Jones: OUT (leczenie obustronnego urazu ścięgna podkolanowego, na mecz 24 października).
+        *   Julian Strawther: OUT (skręcenie lewego kolana, oczekuje się, że opuści kilka tygodni, na mecz 24 października).
+        *   Alpha Diallo: QUESTIONABLE (skręcenie prawego nadgarstka, na mecz 24 października).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Mimo że Pelicans mają jeden znaczący brak, Nuggets są znacznie bardziej osłabieni, w tym kluczowym graczem pierwszej piątki (Cameron Johnson) i kilkoma ważnymi graczami z ławki. To sprawia, że typ na Nuggets jest ryzykowny.
+
+---
+
+### Warriors @ Suns -> Typ: Suns
+
+*   **Kluczowe braki w składach:**
+    *   **Golden State Warriors:**
+        *   Stephen Curry: OUT (odpoczynek, na mecz 24 października).
+        *   Draymond Green: OUT (leczenie urazu dolnego odcinka pleców, na mecz 24 października).
+        *   Al Horford: OUT (leczenie urazu dolnego odcinka pleców, na mecz 24 października).
+        *   Brandin Podziemski: OUT (leczenie urazu dolnego odcinka pleców, na mecz 24 października).
+        *   Kristaps Porzingis: OUT (choroba / nie z drużyną, długoterminowo, na mecz 24 października).
+        *   Jimmy Butler: OUT (rekonwalescencja po zerwaniu prawego ACL, długoterminowo, na mecz 24 października).
+        *   Moses Moody: OUT (zerwanie lewego ścięgna rzepki / operacja kolana, długoterminowo, na mecz 24 października).
+        *   Gui Santos: GTD (nadwyrężenie lewego kolana, na mecz 24 października).
+    *   **Phoenix Suns:**
+        *   Mark Williams: OUT (operacja lewego ramienia, długoterminowo, na mecz 24 października).
+        *   Oso Ighodaro: DOUBTFUL (naciągnięcie prawego mięśnia skośnego, na mecz 24 października).
+        *   Luke Kennard: QUESTIONABLE (tendinopatia lewego kolana, na mecz 24 października), ale później zaktualizowany na DOSTĘPNY.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Golden State Warriors są poważnie osłabieni, z wieloma kluczowymi graczami poza grą. Mimo kilku kontuzji w Suns (głównie Williams i Ighodaro), ich skład jest znacznie silniejszy na ten mecz, co czyni typ na Suns zatwierdzonym.

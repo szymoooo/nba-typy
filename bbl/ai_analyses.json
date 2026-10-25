@@ -1,23 +1,39 @@
 {
-  "generated_at": "2026-10-25T12:55:39.360617",
+  "generated_at": "2026-10-25T12:59:30.112413",
   "date": "2026-10-25",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Basketball Löwen Braunschweig @ Phoenix Hagen",
+      "matchup": "Veolia Towers Hamburg @ FC Bayern München",
       "phase": "Regular Season",
-      "ai_pick": "Basketball Löwen Braunschweig",
-      "formula_pick": "Phoenix Hagen",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Basketball Löwen Braunschweig ma lepszy bilans (3-1) w początkowej fazie sezonu BBL 2026/27 w porównaniu do Phoenix Hagen (1-4). Mimo gry na wyjeździe i niepewności co do stanu zdrowia kluczowych graczy, ogólna forma Braunschweig wydaje się silniejsza.",
+      "ai_pick": "FC Bayern München",
+      "formula_pick": "FC Bayern München",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "FC Bayern München jest w znakomitej formie w lidze BBL, legitymując się bilansem 4-0. Dodatkowo, niedawno pokonali Veolia Towers Hamburg w Pucharze Niemiec wynikiem 85-63, co świadczy o ich dominacji. Veolia Towers Hamburg ma słabszy bilans 1-4 w lidze i wyraźnie przegrała ostatnie bezpośrednie starcie.",
       "key_factors": [
-        "Lepsza forma Basketball Löwen Braunschweig (3-1 w BBL)",
-        "Kontuzje kluczowych graczy w Basketball Löwen Braunschweig (Aydinoglu, Edigin Jr.)",
-        "Przewaga własnego boiska Phoenix Hagen"
+        "Doskonała forma FC Bayern München w BBL (4-0)",
+        "Bezpośrednie starcie w Pucharze Niemiec wygrane przez Bayern (85-63)",
+        "Przewaga własnego parkietu dla FC Bayern München"
       ],
-      "injury_notes": "Gian Aydinoglu (uraz barku, prognozowany powrót w październiku) i Eddy Edigin Jr. (naciągnięcie mięśnia uda, prognozowany powrót w październiku) z Basketball Löwen Braunschweig byli kontuzjowani; ich status na mecz 25.10.2026 jest niepewny, ale mogą wracać do gry. Brak istotnych braków w Phoenix Hagen."
+      "injury_notes": "brak istotnych braków"
+    },
+    {
+      "matchup": "Ratiopharm Ulm @ Alba Berlin",
+      "phase": "Regular Season",
+      "ai_pick": "Alba Berlin",
+      "formula_pick": "Alba Berlin",
+      "agreement": true,
+      "confidence": 5,
+      "reasoning": "Obie drużyny wchodzą w mecz z bilansem 2 zwycięstw i 3 porażek w obecnym sezonie BBL. Alba Berlin ma przewagę własnego parkietu, gdzie odnotowała 2 zwycięstwa i 1 porażkę, podczas gdy Ratiopharm Ulm ma bilans 1 zwycięstwa i 3 porażek na wyjeździe. Dodatkowym czynnikiem jest powrót Michaela Rataja, obecnego top-strzelca Ulm, do swojego byłego klubu, co może wpłynąć na dynamikę meczu.",
+      "key_factors": [
+        "Przewaga własnego parkietu Alba Berlin (bilans 2-1 u siebie w BBL)",
+        "Obecna forma w BBL (bilans 2-3 dla obu drużyn)",
+        "Powrót Michaela Rataja (Ulm) do byłego klubu",
+        "Historyczny bilans H2H (Ratiopharm Ulm prowadzi 7-3 w ostatnich 10 meczach, ale Alba wygrała ostatnie spotkanie)"
+      ],
+      "injury_notes": "brak istotnych brakow"
     }
   ]
 }
