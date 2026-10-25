@@ -3939,13 +3939,13 @@
   {
     "home_team": {
       "name": "MKS Dąbrowa Górnicza",
-      "score": 45,
+      "score": 72,
       "team_id": 32,
       "logo": "https://pulsbasketu.com/images/teams-logos/t71_l1_s2027.png?v=14"
     },
     "away_team": {
       "name": "Energa Trefl Sopot",
-      "score": 43,
+      "score": 61,
       "team_id": 23,
       "logo": "https://pulsbasketu.com/images/teams-logos/t112_l1_s2027.png?v=14"
     },
@@ -3955,7 +3955,7 @@
     "ot_number": 0,
     "spectators": 0,
     "youtube_url": "https://www.youtube.com/watch?v=ZCJ3e0b07XU",
-    "avg_yt_viewers": 2187.436170212766,
+    "avg_yt_viewers": 2310.7868852459014,
     "peak_yt_viewers": 3233,
     "tv_channel": "yt",
     "fiba_game_id": "2945495",
@@ -3990,7 +3990,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 76,
+    "possessions": 114,
     "highest_lead": 0,
     "round_name": "4 kolejka",
     "stage_name": "Runda Zasadnicza",
