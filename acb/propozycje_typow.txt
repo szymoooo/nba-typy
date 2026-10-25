@@ -1,8 +1,7 @@
 # ACB typy na 2026-10-25
-Casademont Zaragoza @ Barça -> Typ: Barça
-MoraBanc And. @ Surne Bilbao -> Typ: Surne Bilbao
-Monbus Obradoiro @ La Laguna Tenerife -> Typ: La Laguna Tenerife
 Asisa Joventut @ FIATC Girona -> Typ: FIATC Girona
-Kosner Baskonia @ Valencia Basket -> Typ: Valencia Basket
+MoraBanc Andorra @ Surne Bilbao -> Typ: Surne Bilbao
+Monbus Obradoiro @ La Laguna Tenerife -> Typ: La Laguna Tenerife
 Unicaja @ Río Breogán -> Typ: Río Breogán
-Real Madrid @ iLERNA Lleida -> Typ: iLERNA Lleida
+Kosner Baskonia @ Valencia Basket -> Typ: Valencia Basket
+Real Madrid @ iLERNA Lleida -> Typ: Real Madrid
