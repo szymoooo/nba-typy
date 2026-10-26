@@ -1,23 +1,38 @@
---- AUDYT PLK LIVE (2026-10-26 01:24 CET) ---
-Oto audyt typów na mecze PLK z dnia 2026-10-25:
+--- AUDYT PLK LIVE (2026-10-26 03:39 CET) ---
+Analiza meczów PLK z 2026-10-25:
 
 ---
 
-**1. Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa**
-*   **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu. Legia Warszawa pokonała Tasomix Rosiek Stal Ostrów Wielkopolski 84:74, głównie dzięki lepszej drugiej połowie.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Typ na Tasomix Rosiek Stal Ostrów Wielkopolski okazał się błędny, Legia Warszawa wygrała mecz. Wcześniejsze doniesienia o problemach finansowych Stali mogły wpływać na stabilność drużyny, choć nie ma bezpośredniego powiązania z tym konkretnym wynikiem.)
+### Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa
+*   **Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim Tasomix Rosiek Stal Ostrów Wielkopolski.
+    *   Brak istotnych braków w składzie koszykarskim Legii Warszawa.
+*   **Aktualna forma top scorerów (sezon 2026/2027):**
+    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:** Liderem punktowym jest Karl Lips (16.0 Pkt/mecz), wspierany przez Jaylina Huntera (14.3 Pkt/mecz) i Tajiona Jonesa (10.7 Pkt/mecz).
+    *   🏀 **Legia Warszawa:** Drużyna zdobywa średnio 79.7 Pkt/mecz w Orlen Basket Liga. Zach Freemantle, Wojciech Tomaszewski i Gyorgy Goloman to czołowi gracze Legii.
+*   **Werdykt:** Legia Warszawa pokonała Tasomix Rosiek Stal Ostrów Wielkopolski 84:74.
+    *   [⚠️ RYZYKOWNY] – Typ był niezgodny z wynikiem meczu.
 
 ---
 
-**2. Energa Czarni Słupsk @ Dziki Warszawa**
-*   **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:** Czołowymi strzelcami Dzików Warszawa są Quanterrius Jackson (15.3 Pkt/mecz), Makai Ashton (12.8 Pkt/mecz) i Łukasz Frąckiewicz (11.5 Pkt/mecz). Skład Energa Czarnych Słupsk na sezon 2026/2027 obejmuje m.in. Djordje Dimitrijevicia, Masona Madsena i Dominika Grudzińskiego.
-*   **Werdykt:** [✅ ZATWIERDZONY] (Typ na Dziki Warszawa był trafiony, zespół wygrał 91:81.)
+### Energa Czarni Słupsk @ Dziki Warszawa
+*   **Kluczowe braki w składach:**
+    *   🤕 **Energa Czarni Słupsk:** W meczu 2026-10-25 zabrakło Dominika Grudzińskiego. Podstawowy rozgrywający, Djordje Dimitrijević, spędził na parkiecie tylko trzy minuty z powodu problemów zdrowotnych.
+    *   Brak istotnych braków w składzie koszykarskim Dzików Warszawa.
+*   **Aktualna forma top scorerów (sezon 2026/2027):**
+    *   🏀 **Energa Czarni Słupsk:** Czołowym strzelcem jest Djordje Dimitrijević (16.3 Pkt/mecz), a także Mason Madsen (14 Pkt/mecz) i Robert Carpenter IV (11 Pkt/mecz). Jego ograniczony czas gry w tym meczu jest kluczowy.
+    *   🏀 **Dziki Warszawa:** Liderem punktowym jest Quanterrius Jackson (20.5 Pkt/mecz). W meczu 2026-10-25 M. Ashton zdobył 13 punktów, a Q. Jackson 9 punktów.
+*   **Werdykt:** Dziki Warszawa pokonały Energa Czarnych Słupsk 91:81.
+    *   [✅ ZATWIERDZONY] – Typ był zgodny z wynikiem meczu, pomimo osłabień w składzie Czarnych Słupsk.
 
 ---
 
-**3. Energa Trefl Sopot @ MKS Dąbrowa Górnicza**
-*   **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:** Czołowymi strzelcami MKS Dąbrowa Górnicza są Jordan Hall (21.5 Pkt/mecz), Martin Peterka (13.5 Pkt/mecz) oraz Jakub Musiał (12 Pkt/mecz). Daylen Kountz z MKS Dąbrowa Górnicza został wybrany EGO MVP 3. kolejki PGE Basket Ligi 20.10.2026. Energa Trefl Sopot przed tym meczem szukała pierwszego zwycięstwa w sezonie, a podstawowym rozgrywającym jest Jakub Schenk.
-*   **Werdykt:** [✅ ZATWIERDZONY] (Typ na MKS Dąbrowa Górnicza był trafiony, zespół wygrał 88:82 i pozostał niepokonany.)
+### Energa Trefl Sopot @ MKS Dąbrowa Górnicza
+*   **Kluczowe braki w składach:**
+    *   🤕 **Energa Trefl Sopot:** Michał Michalak jest kontuzjowany i jego powrót na parkiet nie jest jeszcze znany (stan na 2026-10-16). Kapitan Jakub Schenk przeszedł operację ręki w lutym 2026 roku.
+    *   Brak istotnych braków w składzie koszykarskim MKS Dąbrowa Górnicza.
+*   **Aktualna forma top scorerów (sezon 2026/2027):**
+    *   🏀 **Energa Trefl Sopot:** Najskuteczniejszym strzelcem jest Jakub Schenk (17 Pkt/mecz), a także Trey Anderson (12.7 Pkt/mecz) i Stefan Simanic (12.3 Pkt/mecz).
+    *   🏀 **MKS Dąbrowa Górnicza:** W meczu 2026-10-25 D. Kountz zdobył 18 punktów, a K. Lofton i M. Peterka po 13 punktów.
+*   **Werdykt:** MKS Dąbrowa Górnicza pokonała Energa Trefl Sopot 88:82.
+    *   [✅ ZATWIERDZONY] – Typ był zgodny z wynikiem meczu, a osłabienia Trefla Sopot mogły mieć wpływ na ich grę.
