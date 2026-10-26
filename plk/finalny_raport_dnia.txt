@@ -1,46 +1,29 @@
---- AUDYT PLK LIVE (2026-10-26 15:49 CET) ---
-Analiza meczów PLK na dzień 2026-10-25:
+--- AUDYT PLK LIVE (2026-10-26 16:14 CET) ---
+Analiza meczów PLK z 2026-10-25:
 
 ---
 
-### **Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa**
-
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim na dzień 2026-10-25. Michał Pluta, który w sezonie 2025/2026 pauzował do końca sezonu z powodu kontuzji, nie jest wymieniony w obecnym składzie na sezon 2026/2027 i brak jest informacji o jego powrocie.
-    *   🏀 **Legia Warszawa:** Szymon Tomczak (środkowy) jest kontuzjowany od 17 września 2026 roku (skręcenie śródstopia z uszkodzeniem więzadeł) i przewidywana przerwa w grze to około 3 miesiące, co wyklucza go z gry do końca 2026 roku. Michał Kolenda miał drobny uraz pod koniec sezonu 2025/2026, ale brak jest aktualnych informacji o jego niedostępności na 25.10.2026. Rafał Adamski (piłkarz Legii) doznał kontuzji, ale nie jest to koszykarz.
-
-2.  **Aktualna forma top scorerów (sezon 2026/2027):**
-    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:** Liderzy punktowi to Karl Lips (15.5 Pkt/mecz), Jaylin Hunter (12.8 Pkt/mecz) oraz Vyacheslav Bobrov (10 Pkt/mecz).
-    *   🏀 **Legia Warszawa:** Brak danych z API dla tego zespołu. Wiadomo, że Mate Vucic, jeden z liderów z poprzedniego sezonu, odszedł. Skład na 2026/2027 obejmuje m.in. Kristersa Zoriksa, Devona Danielsa, Wojciecha Tomaszewskiego, Gyorgy Golomana i Zacha Freemantle'a jako potencjalnych starterów.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY] – Legia Warszawa ma osłabiony środek (kontuzja Tomczaka), co może mieć wpływ na przebieg meczu. Brak precyzyjnych danych o formie strzeleckiej Legii na bieżący sezon utrudnia pełną ocenę.
+### Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa
+*   **Kluczowe braki w składach:**
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa:** Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł 17 września 2026 roku i miał pauzować około 3 miesięcy, co oznaczało jego brak na parkiecie do końca roku.
+*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Kontuzja Szymona Tomczaka w Legii Warszawa mogła osłabić zespół.
 
 ---
 
-### **Energa Czarni Słupsk @ Dziki Warszawa**
-
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim.
-    *   🏀 **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
-
-2.  **Aktualna forma top scorerów (sezon 2026/2027):**
-    *   🏀 **Energa Czarni Słupsk:** Brak danych z API dla tego zespołu.
-    *   🏀 **Dziki Warszawa:** Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY] – Brak publicznie dostępnych, aktualnych informacji o kontuzjach lub formach top scorerów dla obu zespołów na dzień 2026-10-25 sprawia, że ocena jest ryzykowna.
+### Energa Czarni Słupsk @ Dziki Warszawa
+*   **Kluczowe braki w składach:**
+    *   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim.
+    *   **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Brak kluczowych kontuzji w obu zespołach.
 
 ---
 
-### **Energa Trefl Sopot @ MKS Dąbrowa Górnicza**
-
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Energa Trefl Sopot:** Brak istotnych braków w składzie koszykarskim.
-    *   🏀 **MKS Dąbrowa Górnicza:** Brak istotnych braków w składzie koszykarskim.
-
-2.  **Aktualna forma top scorerów (sezon 2026/2027):**
-    *   🏀 **Energa Trefl Sopot:** Brak danych z API dla tego zespołu.
-    *   🏀 **MKS Dąbrowa Górnicza:** Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY] – Brak publicznie dostępnych, aktualnych informacji o kontuzjach lub formach top scorerów dla obu zespołów na dzień 2026-10-25 sprawia, że ocena jest ryzykowna.
-
----
+### Energa Trefl Sopot @ MKS Dąbrowa Górnicza
+*   **Kluczowe braki w składach:**
+    *   **Energa Trefl Sopot:** Michał Michalak był kontuzjowany i wykluczony z gry na początku sezonu PGE Basket Ligi, co potwierdzono 16 października 2026 roku, z brakiem perspektyw na szybki powrót.
+    *   **MKS Dąbrowa Górnicza:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak Michała Michalaka w składzie Energi Trefla Sopot to znaczące osłabienie.
