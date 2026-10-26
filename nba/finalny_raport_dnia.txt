@@ -1,21 +1,56 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-26 11:13 ET) ---
-Analiza meczu na podstawie danych z 2026-10-26:
+--- KRYTYCZNY AUDYT LIVE (2026-10-26 15:48 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z 26 października 2026 roku:
 
-**Grizzlies @ Kings**
+**Wizards @ Hornets -> Typ: Hornets**
+*   **Kluczowe braki w składach:**
+    *   Wizards: AJ Dybantsa (lewa kostka, OUT), Tristan Vukcevic (lewy biodrowo-krzyżowy, OUT), Jamir Watkins (rekonstrukcja/operacja ACL, OUT).
+    *   Hornets: Kon Knueppel (lewe ścięgno podkolanowe, OUT), Coby White (lewa łydka, OUT), Grant Williams (prawe ścięgno podkolanowe, OUT).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny zmagają się ze znaczącymi brakami kluczowych graczy.
 
-⚠️ **Uwaga dotycząca harmonogramu:** Zgodnie z dzisiejszymi raportami (2026-10-26), Memphis Grizzlies są zaplanowani do gry z Utah Jazz. Mecz Grizzlies @ Kings odbył się wczoraj, 25 października 2026, i zakończył się zwycięstwem Grizzlies 123-112. Poniższa analiza dotyczy raportów o kontuzjach z meczu rozegranego 25 października 2026.
+**Timberwolves @ Cavaliers -> Typ: Timberwolves**
+*   **Kluczowe braki w składach:**
+    *   Timberwolves: Brak aktualnych raportów (Injury Report) na tę chwilę. Minnesota nie złożyła jeszcze swojego raportu o kontuzjach.
+    *   Cavaliers: Khalifa Diop (lewe kolano, OUT), Nae'Qwan Tomlin (lewy dolny odcinek pleców, OUT), Ernest Udeh Jr. (przypisany do G League, OUT).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak pełnego raportu dla Timberwolves sprawia, że ocena jest niekompletna.
 
-*   **Kluczowe braki w składach (dla meczu 2026-10-25):**
-    *   **Memphis Grizzlies:**
-        *   Zach Edey: Out (zarządzanie kontuzją lewej kostki) 🤕
-        *   Cedric Coward: Questionable (skręcenie lewego nadgarstka) ❓
-        *   Karim Lopez: Questionable (stłuczenie/obrzęk prawego kolana) ❓
-    *   **Sacramento Kings:**
-        *   Ben Simmons: Out (zerwanie/naprawa ścięgna Achillesa, poza sezonem) ❌
-        *   Dylan Cardwell: Out (naciągnięcie lewej łydki) 🤕
-        *   Maxime Raynaud: Out (podwichnięcie prawej rzepki) 🤕
-        *   Keegan Murray: Out (zapalenie torebki stawowej lewej kostki) 🤕
+**Bulls @ Celtics -> Typ: Celtics**
+*   **Kluczowe braki w składach:**
+    *   Bulls: Nic Claxton (lewe ścięgno podkolanowe, OUT), Noa Essengue (stłuczenie prawej głowy, QUESTIONABLE), Patrick Williams (ból/napięcie prawego przywodziciela, QUESTIONABLE).
+    *   Celtics: Devin Carter (choroba, OUT).
+*   **Werdykt:** [✅ ZATWIERDZONY] – Celtics mają tylko jeden brak, podczas gdy Bulls zmagają się z kilkoma kontuzjami, w tym z dwoma graczami na statusie "questionable".
 
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ jest ryzykowny, ponieważ mecz Grizzlies @ Kings został już rozegrany wczoraj, 25 października 2026, a Grizzlies wygrali.
-    *   Gdyby mecz miał się odbyć dzisiaj z identycznymi raportami o kontuzjach, Kings mieli znacznie więcej kluczowych graczy poza składem (Simmons, Cardwell, Raynaud, Murray) niż Grizzlies (Edey). Ten brak kluczowych zawodników osłabiłby Kings, co wskazywałoby na przewagę Grizzlies.
+**Mavericks @ Heat -> Typ: Mavericks**
+*   **Kluczowe braki w składach:**
+    *   Mavericks: Cooper Flagg (lewe ramię, QUESTIONABLE), Santi Aldama (operacja prawego kolana, OUT), Tarik Biberovic (zapalenie kaletki prawej pięty, OUT), Dereck Lively II (operacja prawej stopy, OUT), Naji Marshall (choroba, OUT), Caleb Martin (prawy kciuk, DOUBTFUL).
+    *   Heat: Pelle Larsson (lewy palec, AVAILABLE). Brak innych zgłoszonych braków.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Dallas ma liczne i poważne kontuzje, w tym kluczowych graczy, co mocno osłabia ich skład.
+
+**Pacers @ Bucks -> Typ: Pacers**
+*   **Kluczowe braki w składach:**
+    *   Pacers: Ivica Zubac (skręcona lewa kostka, DOUBTFUL). Indiana nie złożyła jeszcze swojego raportu o kontuzjach dla innych graczy.
+    *   Bucks: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak pełnych raportów dla obu drużyn, a dodatkowo kluczowy center Pacers jest "doubtful".
+
+**Suns @ Thunder -> Typ: Thunder**
+*   **Kluczowe braki w składach:**
+    *   Suns: Oso Ighodaro (ukośny mięsień, DOUBTFUL).
+    *   Thunder: Jalen Williams (kontuzja lewej nogi, OUT – wyniesiony na noszach wczoraj), Cason Wallace (ból lewego barku, OUT), Jaylin Williams (ból prawego nadgarstka, OUT), Nikola Topic (po operacji dolnej części pleców, OUT).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Oklahoma City ma bardzo poważne braki, w tym All-Stara Jalena Williamsa, co czyni ich typ ryzykownym.
+
+**Hawks @ Rockets -> Typ: Rockets**
+*   **Kluczowe braki w składach:**
+    *   Hawks: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Rockets: Marcus Smart (przedramię, QUESTIONABLE), Steven Adams (mięsień płaszczkowaty, OUT).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak aktualnych raportów dla Hawks oraz status "questionable" dla Marcusa Smarta w Rockets wprowadza dużą niepewność.
+
+**Grizzlies @ Jazz -> Typ: Grizzlies**
+*   **Kluczowe braki w składach:**
+    *   Grizzlies: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Jazz: Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak aktualnych raportów o kontuzjach dla obu drużyn uniemożliwia rzetelną ocenę.
+
+**Warriors @ Nuggets -> Typ: Nuggets**
+*   **Kluczowe braki w składach:**
+    *   Warriors: Moses Moody (OUT), Gui Santos (kolano, QUESTIONABLE), Charles Bassey (rzepka, PROBABLE), Brandon Williams (plecy, PROBABLE). Dodatkowo Kristaps Porzingis rozważa swoją przyszłość w koszykówce z powodu problemów zdrowotnych (POTS).
+    *   Nuggets: Cameron Johnson (kostka, DOUBTFUL).
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Warriors mają kluczowego gracza Mosesa Moody'ego poza składem, a także niepewność wokół Kristapsa Porzingisa, co czyni typ ryzykownym, pomimo statusu Camerona Johnsona dla Nuggets.
