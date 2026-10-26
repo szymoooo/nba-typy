@@ -142,7 +142,28 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('bbl_139921110698496')">
+        <div class="card-header">
+            <span>20:00 CET</span><span class="click-hint">Kliknij po analizę →</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="NINERS Chemnitz"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">NINERS Chemnitz</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="Fitness First Würzburg Baskets"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Fitness First Würzburg Baskets</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">Fitness First Würzburg Baskets</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: October 26, 2026 at 08:07 &middot; Data: Sofascore / 24score
+        Last updated: October 26, 2026 at 14:51 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"bbl_139921110698496": {"matchup": "NINERS Chemnitz @ Fitness First Würzburg Baskets", "pick": "Fitness First Würzburg Baskets", "reasoning": "Fitness First Würzburg Baskets grają u siebie i mają lepszą formę w bieżącym sezonie BBL 2026/27 z dwoma zwycięstwami i dwoma porażkami w dostępnych czterech meczach BBL, podczas gdy NINERS Chemnitz ma bilans 1-4 w pięciu ostatnich meczach BBL. Würzburg ma również dominujący bilans H2H z poprzedniego sezonu (2025/26), wygrywając oba spotkania. Wskazany w danych statystycznych bilans 0-34 dla obu drużyn na sezon 2025/26 jest sprzeczny z informacjami znalezionymi w wyszukiwarce.", "key_factors": ["Lepsza forma Würzburga", "Przewaga własnego parkietu Würzburga", "Pozytywny bilans H2H z poprzedniego sezonu"], "confidence": 7, "injury_notes": "Brak istotnych braków na dzień 2026-10-26 dla kluczowych graczy obu drużyn.", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {

@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-26T02:40:31.486618",
+  "generated_at": "2026-10-26T14:51:10.723032",
   "date": "2026-10-26",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
       "matchup": "NINERS Chemnitz @ Fitness First Würzburg Baskets",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Fitness First Würzburg Baskets",
       "formula_pick": "Fitness First Würzburg Baskets",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Fitness First Würzburg Baskets grają u siebie i mają lepszą formę w bieżącym sezonie BBL 2026/27 z dwoma zwycięstwami i dwoma porażkami w dostępnych czterech meczach BBL, podczas gdy NINERS Chemnitz ma bilans 1-4 w pięciu ostatnich meczach BBL. Würzburg ma również dominujący bilans H2H z poprzedniego sezonu (2025/26), wygrywając oba spotkania. Wskazany w danych statystycznych bilans 0-34 dla obu drużyn na sezon 2025/26 jest sprzeczny z informacjami znalezionymi w wyszukiwarce.",
+      "key_factors": [
+        "Lepsza forma Würzburga",
+        "Przewaga własnego parkietu Würzburga",
+        "Pozytywny bilans H2H z poprzedniego sezonu"
+      ],
+      "injury_notes": "Brak istotnych braków na dzień 2026-10-26 dla kluczowych graczy obu drużyn."
     }
   ]
 }
