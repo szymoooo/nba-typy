@@ -1,45 +1,23 @@
---- AUDYT PLK LIVE (2026-10-25 23:28 CET) ---
-Analiza meczów PLK na dzień 2026-10-25:
+--- AUDYT PLK LIVE (2026-10-26 01:24 CET) ---
+Oto audyt typów na mecze PLK z dnia 2026-10-25:
 
 ---
-### **MECZ: Górnik Zamek Książ Wałbrzych (gosc) @ AMW Arka Gdynia (gospodarz)**
 
-1.  **Kluczowe braki w składach:**
-    *   AMW Arka Gdynia: Jarosław Zyskowski doznał kontuzji wymagającej zabiegu i jest wyłączony z gry na początek sezonu 2026/2027.
-    *   Górnik Zamek Książ Wałbrzych: Brak istotnych braków w składzie koszykarskim potwierdzonych na 25.10.2026.
-2.  **Aktualna forma top scorerów:**
-    *   brak danych z API dla tego zespołu.
-    *   Na podstawie meczu z 2026-10-11, dla AMW Arka Gdynia wyróżnili się Jakub Garbacz (26 pkt) i Alex Stein (25 pkt).
-3.  **Werdykt:** brak typu do audytu.
+**1. Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa**
+*   **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu. Legia Warszawa pokonała Tasomix Rosiek Stal Ostrów Wielkopolski 84:74, głównie dzięki lepszej drugiej połowie.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Typ na Tasomix Rosiek Stal Ostrów Wielkopolski okazał się błędny, Legia Warszawa wygrała mecz. Wcześniejsze doniesienia o problemach finansowych Stali mogły wpływać na stabilność drużyny, choć nie ma bezpośredniego powiązania z tym konkretnym wynikiem.)
 
 ---
-### **MECZ: Tasomix Rosiek Stal Ostrów Wielkopolski (gosc) @ Legia Warszawa (gospodarz)**
 
-1.  **Kluczowe braki w składach:**
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim potwierdzonych na 25.10.2026.
-    *   Tasomix Rosiek Stal Ostrów Wielkopolski: Brak istotnych braków w składzie koszykarskim potwierdzonych na 25.10.2026. Artykuł z 24.10.2026 wspomina o zawodniku Stali wracającym po długiej przerwie spowodowanej kontuzją lub zawieszeniem, ale nie potwierdza jego nieobecności w dzisiejszym meczu.
-2.  **Aktualna forma top scorerów:**
-    *   brak danych z API dla tego zespołu.
-    *   Dla Tasomix Rosiek Stal Ostrów Wielkopolski, w ostatnich meczach Tajion Jones notował 10.7 punktów.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+**2. Energa Czarni Słupsk @ Dziki Warszawa**
+*   **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:** Czołowymi strzelcami Dzików Warszawa są Quanterrius Jackson (15.3 Pkt/mecz), Makai Ashton (12.8 Pkt/mecz) i Łukasz Frąckiewicz (11.5 Pkt/mecz). Skład Energa Czarnych Słupsk na sezon 2026/2027 obejmuje m.in. Djordje Dimitrijevicia, Masona Madsena i Dominika Grudzińskiego.
+*   **Werdykt:** [✅ ZATWIERDZONY] (Typ na Dziki Warszawa był trafiony, zespół wygrał 91:81.)
 
 ---
-### **MECZ: Energa Czarni Słupsk (gosc) @ Dziki Warszawa (gospodarz)**
 
-1.  **Kluczowe braki w składach:**
-    *   Dziki Warszawa: Brak istotnych braków w składzie koszykarskim.
-    *   Energa Czarni Słupsk: Brak istotnych braków w składzie koszykarskim.
-2.  **Aktualna forma top scorerów:**
-    *   brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-
----
-### **MECZ: Energa Trefl Sopot (gosc) @ MKS Dąbrowa Górnicza (gospodarz)**
-
-1.  **Kluczowe braki w składach:**
-    *   MKS Dąbrowa Górnicza: Brak istotnych braków w składzie koszykarskim.
-    *   Energa Trefl Sopot: Brak istotnych braków w składzie koszykarskim potwierdzonych na 25.10.2026. Wcześniejsze doniesienia o kontuzjach z lutego 2026 (Kenneth Goins, Raymond Cowels) są nieaktualne.
-2.  **Aktualna forma top scorerów:**
-    *   brak danych z API dla tego zespołu.
-    *   Na podstawie meczu z 2026-10-11, dla Energa Trefl Sopot wyróżnili się Jakub Schenk (23 pkt, 8 asyst), Stefan Simanić (15 pkt) i Trey Anderson (14 pkt).
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+**3. Energa Trefl Sopot @ MKS Dąbrowa Górnicza**
+*   **Kluczowe braki w składach:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:** Czołowymi strzelcami MKS Dąbrowa Górnicza są Jordan Hall (21.5 Pkt/mecz), Martin Peterka (13.5 Pkt/mecz) oraz Jakub Musiał (12 Pkt/mecz). Daylen Kountz z MKS Dąbrowa Górnicza został wybrany EGO MVP 3. kolejki PGE Basket Ligi 20.10.2026. Energa Trefl Sopot przed tym meczem szukała pierwszego zwycięstwa w sezonie, a podstawowym rozgrywającym jest Jakub Schenk.
+*   **Werdykt:** [✅ ZATWIERDZONY] (Typ na MKS Dąbrowa Górnicza był trafiony, zespół wygrał 88:82 i pozostał niepokonany.)
