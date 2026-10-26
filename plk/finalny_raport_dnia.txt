@@ -1,50 +1,44 @@
---- AUDYT PLK LIVE (2026-10-26 20:49 CET) ---
-Oto analiza meczów PLK z dnia 2026-10-25:
+--- AUDYT PLK LIVE (2026-10-26 22:16 CET) ---
+**# PLK Typy na 2026-10-25 - Audyt**
 
 ---
 
-### **Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa**
+**Mecz: Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa**
 *   **Typ z PulsBasketu:** Tasomix Rosiek Stal Ostrów Wielkopolski
 
 1.  **Kluczowe braki w składach:**
-    *   🟡 **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim.
-    *   🟢 **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. (Informacje o kontuzjach piłkarzy zostały zignorowane).
-
-2.  **Aktualna forma top scorerów (sezon 2026-2027):**
-    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:** Karl Lips (16.0 Pkt/mecz), Jaylin Hunter (14.3 Pkt/mecz), Tajion Jones (10.7 Pkt/mecz).
-    *   🏀 **Legia Warszawa:** Zachary Freemantle (14.7 Pkt/mecz), György Golomán (13.7 Pkt/mecz), Arguster Daniels Iv (12.7 Pkt/mecz).
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mecz odbył się 25.10.2026, a Legia Warszawa pokonała Tasomix Rosiek Stal Ostrów Wielkopolski wynikiem 84:74. Typ na Stal Ostrów był zatem nieprawidłowy, biorąc pod uwagę faktyczny wynik meczu.
+    *   Tasomix Rosiek Stal Ostrów Wielkopolski: Brak istotnych braków w składzie koszykarskim. Kadra na sezon 2026/2027 została zamknięta w sierpniu 2026 roku.
+    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 jest dostępny.
+2.  **Aktualna forma top scorerów:**
+    *   Tasomix Rosiek Stal Ostrów Wielkopolski: Liderzy punktowi w sezonie 2026/2027 to Karl Lips (15.5 Pkt/mecz), Jaylin Hunter (12.8 Pkt/mecz) i Vyacheslav Bobrov (10 Pkt/mecz). Zespół przegrał swój ostatni mecz z Legią Warszawa 74:84 (2026-10-25).
+    *   Legia Warszawa: W meczu z Tasomix Rosiek Stal Ostrów Wielkopolski (2026-10-25) Arguster Daniels zdobył 13 punktów, 6 zbiórek i 5 asyst, a Kristers Zoriks, mimo słabej skuteczności z pola (2/12), trafił kluczowy rzut i wszystkie 7 rzutów wolnych. Legia wygrała ten mecz 84:74.
+3.  **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Legia Warszawa pokonała Tasomix Rosiek Stal Ostrów Wielkopolski 84:74 w ostatnim meczu 25.10.2026 i pokazała odporność, odrabiając 10-punktową stratę. Typ na Stal jest ryzykowny, biorąc pod uwagę niedawne zwycięstwo Legii.
 
 ---
 
-### **Energa Czarni Słupsk @ Dziki Warszawa**
+**Mecz: Energa Czarni Słupsk @ Dziki Warszawa**
 *   **Typ z PulsBasketu:** Dziki Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   🟡 **Energa Czarni Słupsk:** Djordje Dimitrijevic miał problemy z plecami i zagrał tylko 3 minuty w meczu 25.10.2026. Dominik Grudziński był wcześniej wymieniany jako kontuzjowany, ale figuruje w obecnym składzie.
-    *   🟡 **Dziki Warszawa:** Krzysztof Kempa opuścił mecz 25.10.2026 z powodu bólu pięty. Zane Waterman powrócił do gry i zaprezentował dobrą formę.
-
-2.  **Aktualna forma top scorerów (sezon 2026-2027):**
-    *   🏀 **Energa Czarni Słupsk:** Brak danych z API dla tego zespołu.
-    *   🏀 **Dziki Warszawa:** Quanterrius Jackson (15.3 Pkt/mecz), Makai Ashton (12.8 Pkt/mecz), Łukasz Frąckiewicz (11.5 Pkt/mecz).
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Dziki Warszawa wygrały mecz z Energa Czarni Słupsk wynikiem 91:81 w dniu 25.10.2026. Typ był zgodny z wynikiem, mimo drobnych problemów zdrowotnych w obu zespołach.
+    *   Energa Czarni Słupsk: Brak istotnych braków w składzie koszykarskim. Kadra na sezon 2026/2027 została skompletowana w lipcu 2026 roku.
+    *   Dziki Warszawa: Brak istotnych braków w składzie koszykarskim. Kadra na sezon 2026/2027 jest potwierdzona.
+2.  **Aktualna forma top scorerów:**
+    *   Energa Czarni Słupsk: Zespół przegrał swój ostatni mecz z Dzikami Warszawa 81:91 (2026-10-25). Brak danych z API dla tego zespołu dotyczących indywidualnej formy top scorerów z ostatniego meczu.
+    *   Dziki Warszawa: Liderzy punktowi w sezonie 2026/2027 to Quanterrius Jackson (15.3 Pkt/mecz), Makai Ashton (12.8 Pkt/mecz) i Łukasz Frąckiewicz (11.5 Pkt/mecz). Zespół wygrał swój ostatni mecz z Energą Czarni Słupsk 91:81 (2026-10-25), co świadczy o dobrej formie.
+3.  **Werdykt: [✅ ZATWIERDZONY]**
+    *   Dziki Warszawa wygrali swój ostatni mecz przeciwko Enerdze Czarni Słupsk 91:81 (2026-10-25), co potwierdza ich dobrą formę i wspiera typ.
 
 ---
 
-### **Energa Trefl Sopot @ MKS Dąbrowa Górnicza**
+**Mecz: Energa Trefl Sopot @ MKS Dąbrowa Górnicza**
 *   **Typ z PulsBasketu:** MKS Dąbrowa Górnicza
 
 1.  **Kluczowe braki w składach:**
-    *   🟡 **Energa Trefl Sopot:** Perttu Blomgren nie dokończył meczu w Dąbrowie Górniczej z powodu bólu w kolanie. Jakub Schenk odczuwał ból stopy, ale ostatecznie dokończył spotkanie.
-    *   🟢 **MKS Dąbrowa Górnicza:** Kyle Lofton powrócił do gry i zaprezentował dobrą formę. Brak istotnych braków w składzie koszykarskim poza tym.
-
-2.  **Aktualna forma top scorerów (sezon 2026-2027):**
-    *   🏀 **Energa Trefl Sopot:** Jakub Schenk (17.0 Pkt/mecz), Trey Anderson (12.7 Pkt/mecz), Stefan Simanic (12.3 Pkt/mecz).
-    *   🏀 **MKS Dąbrowa Górnicza:** Jordan Hall (21.5 Pkt/mecz), Martin Peterka (13.5 Pkt/mecz), Jakub Musiał (12 Pkt/mecz).
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Chociaż bezpośredni wynik meczu z 25.10.2026 nie został znaleziony, wiadomo, że mecz się odbył i Perttu Blomgren z Trefla Sopot doznał w nim kontuzji kolana. Statystyki drużynowe na początku sezonu 2026/2027 wskazują na lepszą formę MKS Dąbrowa Górnicza (średnio 91.0 Pkt/mecz) w porównaniu do Trefla Sopot (średnio 75.3 Pkt/mecz). Kontuzja kluczowego gracza Trefla dodatkowo osłabiła zespół, co czyniło typ na MKS Dąbrowa Górnicza uzasadnionym.
+    *   Energa Trefl Sopot: Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 jest dostępny.
+    *   MKS Dąbrowa Górnicza: Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 jest dostępny.
+2.  **Aktualna forma top scorerów:**
+    *   Energa Trefl Sopot: Zespół przegrał swój ostatni mecz z MKS Dąbrowa Górnicza 82:88 (2026-10-25). Brak danych z API dla tego zespołu dotyczących indywidualnej formy top scorerów z ostatniego meczu.
+    *   MKS Dąbrowa Górnicza: Liderzy punktowi w sezonie 2026/2027 to Jordan Hall (17.8 Pkt/mecz), Daylen Kountz (16.3 Pkt/mecz) i Martin Peterka (12.3 Pkt/mecz). Jordan Hall zdobył 20 punktów w meczu 13.10.2026. Zespół wygrał swój ostatni mecz z Energą Trefl Sopot 88:82 (2026-10-25) i jest niepokonany w PGE Basket Lidze.
+3.  **Werdykt: [✅ ZATWIERDZONY]**
+    *   MKS Dąbrowa Górnicza jest niepokonany w lidze i wygrał swój ostatni mecz z Energą Trefl Sopot 88:82 (2026-10-25), co mocno wspiera typ.

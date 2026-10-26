@@ -1,56 +1,45 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-26 15:48 ET) ---
-Oto analiza Twoich typów na podstawie aktualnych danych z 26 października 2026 roku:
+--- KRYTYCZNY AUDYT LIVE (2026-10-26 17:16 ET) ---
+Na podstawie dostępnych danych z dnia 2026-10-26, oto analiza Twoich typów:
 
-**Wizards @ Hornets -> Typ: Hornets**
-*   **Kluczowe braki w składach:**
-    *   Wizards: AJ Dybantsa (lewa kostka, OUT), Tristan Vukcevic (lewy biodrowo-krzyżowy, OUT), Jamir Watkins (rekonstrukcja/operacja ACL, OUT).
-    *   Hornets: Kon Knueppel (lewe ścięgno podkolanowe, OUT), Coby White (lewa łydka, OUT), Grant Williams (prawe ścięgno podkolanowe, OUT).
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny zmagają się ze znaczącymi brakami kluczowych graczy.
+---
 
-**Timberwolves @ Cavaliers -> Typ: Timberwolves**
-*   **Kluczowe braki w składach:**
-    *   Timberwolves: Brak aktualnych raportów (Injury Report) na tę chwilę. Minnesota nie złożyła jeszcze swojego raportu o kontuzjach.
-    *   Cavaliers: Khalifa Diop (lewe kolano, OUT), Nae'Qwan Tomlin (lewy dolny odcinek pleców, OUT), Ernest Udeh Jr. (przypisany do G League, OUT).
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak pełnego raportu dla Timberwolves sprawia, że ocena jest niekompletna.
+### Wizards @ Hornets -> Typ: Hornets
+*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę. 🚧
+*   Werdykt: [⚠️ RYZYKOWNY] - Brak danych o kontuzjach uniemożliwia rzetelną ocenę składów.
 
-**Bulls @ Celtics -> Typ: Celtics**
-*   **Kluczowe braki w składach:**
-    *   Bulls: Nic Claxton (lewe ścięgno podkolanowe, OUT), Noa Essengue (stłuczenie prawej głowy, QUESTIONABLE), Patrick Williams (ból/napięcie prawego przywodziciela, QUESTIONABLE).
-    *   Celtics: Devin Carter (choroba, OUT).
-*   **Werdykt:** [✅ ZATWIERDZONY] – Celtics mają tylko jeden brak, podczas gdy Bulls zmagają się z kilkoma kontuzjami, w tym z dwoma graczami na statusie "questionable".
+### Timberwolves @ Cavaliers -> Typ: Timberwolves
+*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę. 🚧
+*   Werdykt: [⚠️ RYZYKOWNY] - Brak danych o kontuzjach uniemożliwia rzetelną ocenę składów.
 
-**Mavericks @ Heat -> Typ: Mavericks**
-*   **Kluczowe braki w składach:**
-    *   Mavericks: Cooper Flagg (lewe ramię, QUESTIONABLE), Santi Aldama (operacja prawego kolana, OUT), Tarik Biberovic (zapalenie kaletki prawej pięty, OUT), Dereck Lively II (operacja prawej stopy, OUT), Naji Marshall (choroba, OUT), Caleb Martin (prawy kciuk, DOUBTFUL).
-    *   Heat: Pelle Larsson (lewy palec, AVAILABLE). Brak innych zgłoszonych braków.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Dallas ma liczne i poważne kontuzje, w tym kluczowych graczy, co mocno osłabia ich skład.
+### Bulls @ Celtics -> Typ: Celtics
+*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę. 🚧
+*   Werdykt: [⚠️ RYZYKOWNY] - Brak danych o kontuzjach uniemożliwia rzetelną ocenę składów.
 
-**Pacers @ Bucks -> Typ: Pacers**
-*   **Kluczowe braki w składach:**
-    *   Pacers: Ivica Zubac (skręcona lewa kostka, DOUBTFUL). Indiana nie złożyła jeszcze swojego raportu o kontuzjach dla innych graczy.
-    *   Bucks: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak pełnych raportów dla obu drużyn, a dodatkowo kluczowy center Pacers jest "doubtful".
+### Mavericks @ Heat -> Typ: Mavericks
+*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę. 🚧
+*   Werdykt: [⚠️ RYZYKOWNY] - Brak danych o kontuzjach uniemożliwia rzetelną ocenę składów.
 
-**Suns @ Thunder -> Typ: Thunder**
-*   **Kluczowe braki w składach:**
-    *   Suns: Oso Ighodaro (ukośny mięsień, DOUBTFUL).
-    *   Thunder: Jalen Williams (kontuzja lewej nogi, OUT – wyniesiony na noszach wczoraj), Cason Wallace (ból lewego barku, OUT), Jaylin Williams (ból prawego nadgarstka, OUT), Nikola Topic (po operacji dolnej części pleców, OUT).
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Oklahoma City ma bardzo poważne braki, w tym All-Stara Jalena Williamsa, co czyni ich typ ryzykownym.
+### Pacers @ Bucks -> Typ: Pacers
+*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę. 🚧
+*   Werdykt: [⚠️ RYZYKOWNY] - Brak danych o kontuzjach uniemożliwia rzetelną ocenę składów.
 
-**Hawks @ Rockets -> Typ: Rockets**
-*   **Kluczowe braki w składach:**
-    *   Hawks: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Rockets: Marcus Smart (przedramię, QUESTIONABLE), Steven Adams (mięsień płaszczkowaty, OUT).
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak aktualnych raportów dla Hawks oraz status "questionable" dla Marcusa Smarta w Rockets wprowadza dużą niepewność.
+### Suns @ Thunder -> Typ: Thunder
+*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę. 🚧
+*   Werdykt: [⚠️ RYZYKOWNY] - Brak danych o kontuzjach uniemożliwia rzetelną ocenę składów.
 
-**Grizzlies @ Jazz -> Typ: Grizzlies**
-*   **Kluczowe braki w składach:**
-    *   Grizzlies: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Jazz: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak aktualnych raportów o kontuzjach dla obu drużyn uniemożliwia rzetelną ocenę.
+### Hawks @ Rockets -> Typ: Rockets
+*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę. 🚧
+*   Werdykt: [⚠️ RYZYKOWNY] - Brak danych o kontuzjach uniemożliwia rzetelną ocenę składów.
 
-**Warriors @ Nuggets -> Typ: Nuggets**
-*   **Kluczowe braki w składach:**
-    *   Warriors: Moses Moody (OUT), Gui Santos (kolano, QUESTIONABLE), Charles Bassey (rzepka, PROBABLE), Brandon Williams (plecy, PROBABLE). Dodatkowo Kristaps Porzingis rozważa swoją przyszłość w koszykówce z powodu problemów zdrowotnych (POTS).
-    *   Nuggets: Cameron Johnson (kostka, DOUBTFUL).
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Warriors mają kluczowego gracza Mosesa Moody'ego poza składem, a także niepewność wokół Kristapsa Porzingisa, co czyni typ ryzykownym, pomimo statusu Camerona Johnsona dla Nuggets.
+### Grizzlies @ Jazz -> Typ: Grizzlies
+*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę. 🚧
+*   Werdykt: [⚠️ RYZYKOWNY] - Brak danych o kontuzjach uniemożliwia rzetelną ocenę składów.
+
+### Warriors @ Nuggets -> Typ: Nuggets
+*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę. 🚧
+*   Werdykt: [⚠️ RYZYKOWNY] - Brak danych o kontuzjach uniemożliwia rzetelną ocenę składów.
+
+---
+
+**Podsumowanie:**
+Brak jest aktualnych raportów kontuzji (Injury Report) dla żadnego z wymienionych meczów na dzień 2026-10-26, co uniemożliwia dokładną analizę i zatwierdzenie typów. Wszystkie typy są obecnie uznawane za **Ryzykowne** ze względu na brak kluczowych informacji o składach.
