@@ -1,64 +1,29 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-27 05:04 ET) ---
-Oto analiza Twoich typów na podstawie aktualnych danych z 2026-10-27, z uwzględnieniem składów ze Stycznia 2026 i dzisiejszych raportów kontuzji:
+--- KRYTYCZNY AUDYT LIVE (2026-10-27 09:55 ET) ---
+Na podstawie dzisiejszych danych z sieci (2026-10-27), przedstawiam analizę Twoich typów:
 
 ---
 
 ### Hawks @ Rockets -> Typ: Rockets
 
 *   **Kluczowe braki w składach:**
-    *   **Atlanta Hawks:**
-        *   Mouhamed Gueye: Out (Lewa stopa - złamanie) 🦶
-        *   Henri Veesaar: Out (Prawie ACL - zerwanie) 🦵
-        *   RayJ Dennis: Out (G League - Two-Way)
-        *   Keshon Gilbert: Out (G League - Two-Way)
-        *   Jalen Wilson: Out (G League - Two-Way)
-    *   **Houston Rockets:**
-        *   Steven Adams: Out (Prawe ścięgno podeszwowe - naciągnięcie) 🦵
-        *   Marcus Smart: Out (Lewa przedramię - naciągnięcie) 💪
-        *   Quadir Copeland: Out (G League - Two-Way)
-        *   Julian Phillips: Out (G League - Two-Way)
-        *   Fred VanVleet: Dostępny (poza raportem kontuzji)
-*   **Werdykt:** ⚠️ RYZYKOWNY
-    *   Obie drużyny mają istotne braki. Hawks bez kluczowych graczy podkoszowych (Gueye, Veesaar) i kilku zawodników G-League. Rockets bez Adamsa (kluczowy center) i Smarta (ważny obrońca/rozgrywający), co osłabia ich rotację na kluczowych pozycjach. Mimo powrotu VanVleeta, braki podkoszowe Rockets mogą być problemem.
+    *   **Hawks:** Mouhamed Gueye (kontuzja lewej stopy, Out), Henri Veesaar (zerwane ACL, Out na cały sezon), RayJ Dennis (G League - Two-Way, Out), Keshon Gilbert (G League - Two-Way, Out), Jalen Wilson (G League - Two-Way, Out).
+    *   **Rockets:** Steven Adams (naciągnięcie prawego mięśnia płaszczkowatego/łydki, Out na 1-2 tygodnie), Marcus Smart (naciągnięcie lewego przedramienia, Out), Quadir Copeland (G League - Two-Way, Out), Julian Phillips (G League - Two-Way, Out).
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Rockets mają istotne braki w kluczowych graczach rotacji (Adams, Smart), co osłabia ich defensywę i obecność pod koszem. Hawks również mają kilku zawodników poza grą, w tym Mouhamed Gueye. Mimo to, braki w Rockets są bardziej odczuwalne dla ich bieżącej siły.
 
 ---
 
 ### Grizzlies @ Jazz -> Typ: Grizzlies
 
 *   **Kluczowe braki w składach:**
-    *   **Memphis Grizzlies:**
-        *   Karim Lopez: Questionable (Prawe kolano - stłuczenie) 🦵
-        *   Isaiah Stewart: Questionable (Lewa kostka - zarządzanie urazem) 🦶
-        *   Zach Edey: Doubtful (Kostka) 🦶
-    *   **Utah Jazz:**
-        *   Trey Alexander: Out (G League - Two-Way)
-        *   Kobe Bufkin: Out (G League - Two-Way)
-        *   Jaxson Hayes: Out (Prawe ramię - ból) 💪
-        *   Jusuf Nurkić: Out (Prawa stopa - uszkodzenie płytki podeszwowej) 🦶
-        *   Markkanen: Opuścił ostatni mecz z kontuzją prawego nadgarstka (status na dziś nieznany, prawdopodobnie nie zagra) ✋
-        *   Jackson Jr.: Opuścił ostatni mecz z kontuzją prawego kolana (status na dziś nieznany, prawdopodobnie nie zagra) 🦵
-*   **Werdykt:** ✅ ZATWIERDZONY
-    *   Jazz ma bardzo poważne osłabienia, zwłaszcza w strefie podkoszowej (Nurkić, Hayes Out). Dodatkowo, kontuzje Markkanena i Jacksona Jr. z poprzedniego meczu mogą jeszcze bardziej pogłębić ich problemy. Grizzlies, mimo kilku wątpliwości, wydają się być w znacznie lepszej sytuacji kadrowej.
+    *   **Grizzlies:** Karim Lopez (stłuczenie prawego kolana, Questionable/Out), Isaiah Stewart (problemy z lewą kostką, Questionable/Out). Zach Edey (problemy z lewą kostką) jest dostępny.
+    *   **Jazz:** Lauri Markkanen (kontuzja prawego nadgarstka, Questionable, opuścił wczorajszy mecz), Jaren Jackson Jr. (kontuzja prawego kolana, opuścił wczorajszy mecz), Jusuf Nurkic (noga, Out od preseasonu na co najmniej 4 tygodnie), Jaxson Hayes (ból prawego barku, Out).
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Jazz są znacznie osłabieni kontuzjami, zwłaszcza ich kluczowi gracze Lauri Markkanen i Jaren Jackson Jr. z niepewnym statusem po wczorajszym meczu. Długoterminowa nieobecność Nurkicia również wpływa na zespół. Chociaż Grizzlies mają kilku graczy z niepewnym statusem, skala problemów Jazz jest większa.
 
 ---
 
 ### Warriors @ Nuggets -> Typ: Nuggets
 
 *   **Kluczowe braki w składach:**
-    *   **Golden State Warriors:**
-        *   Jimmy Butler: Out (Prawa ACL - naprawa / operacja) 🦵 (powrót wcześnie 2027)
-        *   Moses Moody: Out (Lewe ścięgno rzepki - naprawa / operacja) 🦵 (powrót wcześnie 2027)
-        *   Kristaps Porzingis: Out (Nie z drużyną / Diagnoza POTS) 💔
-        *   Gui Santos: Questionable (Lewe kolano - zapalenie ścięgna) 🦵
-        *   Charles Bassey: Probable (Prawa rzepka - tendinopatia)
-        *   Brandon Williams: Probable (Bóle w dole pleców)
-        *   Stephen Curry: Dostępny (poza raportem kontuzji)
-        *   Brandin Podziemski: Dostępny (poza raportem kontuzji)
-    *   **Denver Nuggets:**
-        *   Alpha Diallo: Out (Prawy nadgarstek - skręcenie / powody osobiste) ✋
-        *   Cameron Johnson: Doubtful (Prawa kostka - skręcenie) 🦶
-        *   Spencer Jones: Out (Obustronne ścięgna podkolanowe - zarządzanie urazem) 🦵
-        *   Julian Strawther: Out (Lewe kolano - skręcenie) 🦵
-        *   Yves Missi: Out (Lewe kolano - stłuczenie / stłuczenie kości) 🦵
-*   **Werdykt:** ✅ ZATWIERDZONY
-    *   Warriors są znacząco osłabieni brakiem trzech kluczowych graczy (Butler, Moody, Porzingis), z których dwóch ma długoterminowe kontuzje, a Porzingis jest poza drużyną. Nuggets, pomimo kilku kontuzji rotacyjnych, mają swoją podstawową piątkę w pełni sił. To czyni typ na Nuggets bardzo solidnym.
+    *   **Warriors:** Jimmy Butler III (naprawa ACL, Out, powrót na początku 2027), Moses Moody (naprawa ścięgna rzepki, Out, powrót na początku 2027), Kristaps Porzingis (nie z zespołem/choroba, Out), Gui Santos (zapalenie lewego ścięgna kolanowego, Questionable). Stephen Curry, Brandin Podziemski i Draymond Green, którzy opuścili ostatni mecz, są spodziewani do powrotu.
+    *   **Nuggets:** Julian Strawther (skręcenie lewego kolana, Out na 6 tygodni), Alpha Diallo (skręcenie prawego nadgarstka/powody osobiste, Out), Cameron Johnson (skręcenie prawego stawu skokowego, Doubtful), Spencer Jones (ścięgno podkolanowe, Out).
+*   **Werdykt:** [⚠️ RYZYKOWNY] - Warriors borykają się z poważnymi długoterminowymi kontuzjami kluczowych zawodników (Butler, Moody, Porzingis). Mimo powrotu Curry'ego, Podziemskiego i Greena, głębia składu jest osłabiona. Nuggets również mają kilku kontuzjowanych graczy, ale ich braki nie są tak strategicznie krytyczne. Typ na Nuggets jest ryzykowny z uwagi na potencjalne wysiłki Warriors do powrotu na właściwe tory z ich rdzeniem na boisku.
