@@ -1,47 +1,52 @@
---- AUDYT PLK LIVE (2026-10-27 01:29 CET) ---
-Analiza meczów PLK na dzień 2026-10-25:
+--- AUDYT PLK LIVE (2026-10-27 04:14 CET) ---
+Oto analiza typów na mecze PLK z 2026-10-25:
 
 ---
-### 1. Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa
-**Typ: Tasomix Rosiek Stal Ostrów Wielkopolski**
 
-*   **Kluczowe braki w składach:**
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim. Kadra na sezon 2026/2027 jest zamknięta od sierpnia 2026 roku.
-    *   **Legia Warszawa:** 🤕 Szymon Tomczak (środkowy) jest kontuzjowany (skręcenie śródstopia z uszkodzeniem więzadeł) od września 2026 i nie wróci do gry do końca roku 2026. Michał Kolenda, choć miał drobny uraz w czerwcu 2026, został wymieniony w składzie we wrześniu 2026 i brak jest informacji o jego bieżącej niedostępności.
+### Mecz: Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa
+**Typ:** Tasomix Rosiek Stal Ostrów Wielkopolski
 
-*   **Aktualna forma top scorerów:**
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak danych z API dla tego zespołu.
-    *   **Legia Warszawa:** György Golomán (14 Pkt/mecz), Arguster Daniels Iv (12.8 Pkt/mecz), Zachary Freemantle (12.8 Pkt/mecz).
+1.  **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** 🤕 Szymon Tomczak (środkowy) – kontuzja skręcenia śródstopia z uszkodzeniem więzadeł, wykluczony na około 3 miesiące (do końca roku).
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim. Michał Pluta, który zmagał się z problemami zdrowotnymi w sezonie 2025/2026, jest wymieniony w obecnym składzie i brak jest informacji o jego aktualnej kontuzji.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Typ na Tasomix Rosiek Stal Ostrów Wielkopolski wydaje się solidny, biorąc pod uwagę osłabienie Legii Warszawa na pozycji środkowego (Szymon Tomczak).
+2.  **Aktualna forma top scorerów:**
+    *   **Legia Warszawa:** Mecz odbył się 2026-10-25, Legia wygrała 84:74.
+        *   György Golomán: 15 punktów, 6 zbiórek, 2 asysty w meczu przeciwko Stali. Średnio 14.0 Pkt/mecz w PLK 2026/2027.
+        *   Arguster Daniels IV: 13 punktów, 6 zbiórek, 5 asyst, 5 przechwytów w meczu przeciwko Stali. Średnio 12.8 Pkt/mecz w PLK 2026/2027.
+        *   Kristers Zoriks: 12 punktów, 2 zbiórki, 4 asysty w meczu przeciwko Stali.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak danych z API dla top scorerów tego zespołu w sezonie 2026/2027. W meczu przeciwko Legii drużyna zdobyła 74 punkty.
 
----
-### 2. Energa Czarni Słupsk @ Dziki Warszawa
-**Typ: Dziki Warszawa**
-
-*   **Kluczowe braki w składach:**
-    *   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim. Dominic Green wystąpił w meczu 25.10.2026 przeciwko Dzikom, choć zaliczył "fatalny powrót do stolicy".
-    *   **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim. Zespół skompletował kadrę na sezon 2026/2027 już w lipcu 2026 roku.
-
-*   **Aktualna forma top scorerów:**
-    *   **Energa Czarni Słupsk:** Brak danych z API dla tego zespołu.
-    *   **Dziki Warszawa:** Brak danych z API dla tego zespołu.
-
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Obie drużyny przystępują do meczu w pełnych składach. Typ na Dziki Warszawa, jako gospodarzy, bez istotnych osłabień, jest uzasadniony.
+3.  **Werdykt:** ⚠️ RYZYKOWNY (Mecz został rozegrany 25.10.2026, a Legia Warszawa wygrała 84:74, co jest niezgodne z sugerowanym typem na Stal Ostrów Wielkopolski.)
 
 ---
-### 3. Energa Trefl Sopot @ MKS Dąbrowa Górnicza
-**Typ: MKS Dąbrowa Górnicza**
 
-*   **Kluczowe braki w składach:**
-    *   **Energa Trefl Sopot:** 🤕 Michał Michalak jest kontuzjowany na początku sezonu 2026/2027 i prawdopodobnie był niedostępny na mecz 2026-10-25. Kapitan zespołu Jakub Schenk przeszedł operację ręki w lutym 2026, ale jest wymieniony w obecnym składzie na sezon 2026/2027, co sugeruje powrót do zdrowia.
+### Mecz: Energa Czarni Słupsk @ Dziki Warszawa
+**Typ:** Dziki Warszawa
+
+1.  **Kluczowe braki w składach:**
+    *   **Energa Czarni Słupsk:** 🤕 Krzysztof Kempa (ból pięty) i Dorde Dimitrijevic (problemy z plecami) nie dokończyli poprzedniego meczu z Dzikami Warszawa (informacja z 26.10.2026). Ich dostępność na przyszłe mecze jest wątpliwa.
+    *   **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim.
+
+2.  **Aktualna forma top scorerów:**
+    *   **Energa Czarni Słupsk:** Brak danych z API dla top scorerów tego zespołu w sezonie 2026/2027.
+    *   **Dziki Warszawa:** Brak danych z API dla top scorerów tego zespołu w sezonie 2026/2027.
+
+3.  **Werdykt:** ✅ ZATWIERDZONY (Dziki Warszawa mają przewagę własnego parkietu i grają z osłabionymi kontuzjami kluczowymi zawodnikami Czarnych Słupsk.)
+
+---
+
+### Mecz: Energa Trefl Sopot @ MKS Dąbrowa Górnicza
+**Typ:** MKS Dąbrowa Górnicza
+
+1.  **Kluczowe braki w składach:**
+    *   **Energa Trefl Sopot:** Brak istotnych braków w składzie koszykarskim.
     *   **MKS Dąbrowa Górnicza:** Brak istotnych braków w składzie koszykarskim.
 
-*   **Aktualna forma top scorerów:**
-    *   **Energa Trefl Sopot:** Brak danych z API dla tego zespołu.
-    *   **MKS Dąbrowa Górnicza:** Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów:**
+    *   **Energa Trefl Sopot:** Brak danych z API dla top scorerów tego zespołu w sezonie 2026/2027.
+    *   **MKS Dąbrowa Górnicza:** Brak danych z API dla top scorerów tego zespołu w sezonie 2026/2027.
 
-*   **Werdykt:** [✅ ZATWIERDZONY]
-    *   MKS Dąbrowa Górnicza wydaje się być w pełnym składzie, natomiast Trefl Sopot boryka się z kontuzją Michała Michalaka. To osłabienie Trefla czyni typ na MKS Dąbrowa Górnicza bardziej pewnym.
+3.  **Werdykt:** ⚠️ RYZYKOWNY (Brak danych o kontuzjach dla obu drużyn oraz brak konkretnych danych o formie top scorerów sprawia, że typ opiera się na niepotwierdzonych informacjach.)
+
+---
