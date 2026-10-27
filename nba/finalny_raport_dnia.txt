@@ -1,26 +1,64 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-26 23:13 ET) ---
-Oto analiza Twoich typów na podstawie danych z 2026-10-26:
+--- KRYTYCZNY AUDYT LIVE (2026-10-27 05:04 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z 2026-10-27, z uwzględnieniem składów ze Stycznia 2026 i dzisiejszych raportów kontuzji:
 
 ---
 
-**1. Hawks @ Rockets**
+### Hawks @ Rockets -> Typ: Rockets
+
 *   **Kluczowe braki w składach:**
-    *   Rockets: Marcus Smart (Out) 🚫
-    *   Hawks: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak Marcusa Smarta osłabia Rockets, ale ich skład z Kevinem Durantem wciąż jest silny.)
+    *   **Atlanta Hawks:**
+        *   Mouhamed Gueye: Out (Lewa stopa - złamanie) 🦶
+        *   Henri Veesaar: Out (Prawie ACL - zerwanie) 🦵
+        *   RayJ Dennis: Out (G League - Two-Way)
+        *   Keshon Gilbert: Out (G League - Two-Way)
+        *   Jalen Wilson: Out (G League - Two-Way)
+    *   **Houston Rockets:**
+        *   Steven Adams: Out (Prawe ścięgno podeszwowe - naciągnięcie) 🦵
+        *   Marcus Smart: Out (Lewa przedramię - naciągnięcie) 💪
+        *   Quadir Copeland: Out (G League - Two-Way)
+        *   Julian Phillips: Out (G League - Two-Way)
+        *   Fred VanVleet: Dostępny (poza raportem kontuzji)
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Obie drużyny mają istotne braki. Hawks bez kluczowych graczy podkoszowych (Gueye, Veesaar) i kilku zawodników G-League. Rockets bez Adamsa (kluczowy center) i Smarta (ważny obrońca/rozgrywający), co osłabia ich rotację na kluczowych pozycjach. Mimo powrotu VanVleeta, braki podkoszowe Rockets mogą być problemem.
 
 ---
 
-**2. Grizzlies @ Jazz**
+### Grizzlies @ Jazz -> Typ: Grizzlies
+
 *   **Kluczowe braki w składach:**
-    *   Grizzlies: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Jazz: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY] (Oba zespoły wydają się dysponować pełnymi składami, a Grizzlies mają dobry początek sezonu.)
+    *   **Memphis Grizzlies:**
+        *   Karim Lopez: Questionable (Prawe kolano - stłuczenie) 🦵
+        *   Isaiah Stewart: Questionable (Lewa kostka - zarządzanie urazem) 🦶
+        *   Zach Edey: Doubtful (Kostka) 🦶
+    *   **Utah Jazz:**
+        *   Trey Alexander: Out (G League - Two-Way)
+        *   Kobe Bufkin: Out (G League - Two-Way)
+        *   Jaxson Hayes: Out (Prawe ramię - ból) 💪
+        *   Jusuf Nurkić: Out (Prawa stopa - uszkodzenie płytki podeszwowej) 🦶
+        *   Markkanen: Opuścił ostatni mecz z kontuzją prawego nadgarstka (status na dziś nieznany, prawdopodobnie nie zagra) ✋
+        *   Jackson Jr.: Opuścił ostatni mecz z kontuzją prawego kolana (status na dziś nieznany, prawdopodobnie nie zagra) 🦵
+*   **Werdykt:** ✅ ZATWIERDZONY
+    *   Jazz ma bardzo poważne osłabienia, zwłaszcza w strefie podkoszowej (Nurkić, Hayes Out). Dodatkowo, kontuzje Markkanena i Jacksona Jr. z poprzedniego meczu mogą jeszcze bardziej pogłębić ich problemy. Grizzlies, mimo kilku wątpliwości, wydają się być w znacznie lepszej sytuacji kadrowej.
 
 ---
 
-**3. Warriors @ Nuggets**
+### Warriors @ Nuggets -> Typ: Nuggets
+
 *   **Kluczowe braki w składach:**
-    *   Warriors: Moses Moody (Notable absence) 😔 (Kristaps Porzingis ma problemy zdrowotne i jest przedmiotem rozmów transferowych, ale nie jest oficjalnie wykluczony ani wątpliwy na ten mecz.)
-    *   Nuggets: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak Mosesa Moody'ego jest stratą dla Warriors. Nuggets z Jokiciem, Murrayem i Gordonem wyglądają na silny zespół.)
+    *   **Golden State Warriors:**
+        *   Jimmy Butler: Out (Prawa ACL - naprawa / operacja) 🦵 (powrót wcześnie 2027)
+        *   Moses Moody: Out (Lewe ścięgno rzepki - naprawa / operacja) 🦵 (powrót wcześnie 2027)
+        *   Kristaps Porzingis: Out (Nie z drużyną / Diagnoza POTS) 💔
+        *   Gui Santos: Questionable (Lewe kolano - zapalenie ścięgna) 🦵
+        *   Charles Bassey: Probable (Prawa rzepka - tendinopatia)
+        *   Brandon Williams: Probable (Bóle w dole pleców)
+        *   Stephen Curry: Dostępny (poza raportem kontuzji)
+        *   Brandin Podziemski: Dostępny (poza raportem kontuzji)
+    *   **Denver Nuggets:**
+        *   Alpha Diallo: Out (Prawy nadgarstek - skręcenie / powody osobiste) ✋
+        *   Cameron Johnson: Doubtful (Prawa kostka - skręcenie) 🦶
+        *   Spencer Jones: Out (Obustronne ścięgna podkolanowe - zarządzanie urazem) 🦵
+        *   Julian Strawther: Out (Lewe kolano - skręcenie) 🦵
+        *   Yves Missi: Out (Lewe kolano - stłuczenie / stłuczenie kości) 🦵
+*   **Werdykt:** ✅ ZATWIERDZONY
+    *   Warriors są znacząco osłabieni brakiem trzech kluczowych graczy (Butler, Moody, Porzingis), z których dwóch ma długoterminowe kontuzje, a Porzingis jest poza drużyną. Nuggets, pomimo kilku kontuzji rotacyjnych, mają swoją podstawową piątkę w pełni sił. To czyni typ na Nuggets bardzo solidnym.
