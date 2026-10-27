@@ -1,3 +1,4 @@
-Hawks @ Rockets -> Typ: Rockets
-Grizzlies @ Jazz -> Typ: Grizzlies
-Warriors @ Nuggets -> Typ: Nuggets
+Nets @ Celtics -> Typ: Celtics
+Pistons @ Knicks -> Typ: Pistons
+Kings @ Spurs -> Typ: Spurs
+Trail Blazers @ Lakers -> Typ: Lakers
