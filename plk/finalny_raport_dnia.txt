@@ -1,41 +1,50 @@
---- AUDYT PLK LIVE (2026-10-27 20:17 CET) ---
-Oto audyt typów PLK dla meczów z 2026-10-25:
+--- AUDYT PLK LIVE (2026-10-27 22:03 CET) ---
+Oto analiza przewidywanych meczów Orlen Basket Ligi na 2026-10-25:
 
 ---
 
-### **Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa**
-*   **Typ z PulsBasketu:** Tasomix Rosiek Stal Ostrów Wielkopolski
+### **Mecz: Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa**
 
-1.  **Kluczowe braki w składach:**
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim. Dostępne informacje koncentrują się na skompletowaniu składu na sezon 2026/2027, w tym pozyskaniu Jaylina Huntera, Tajiona Jonesa, Jareda Billupsa, Karla-Johana Lipsa, Viacheslava Bobrova oraz polskich zawodników jak Daniel Gołębiowski, Jakub Parzeński, Nikodem Czoska i Aleksander Wiśniewski.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Raporty o kontuzjach Rafała Adamskiego z 25.10.2026 dotyczą sekcji piłkarskiej i są nieistotne dla meczu koszykówki.
-2.  **Aktualna forma top scorerów:**
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak danych z API dla tego zespołu dotyczących konkretnych średnich punktów na mecz w trwającym sezonie. Tajion Jones jest opisywany jako dobry strzelec i "łowca punktów".
-    *   **Legia Warszawa:** Wiodącymi strzelcami są György Golomán (14 Pkt/mecz), Arguster Daniels IV (12.8 Pkt/mecz) oraz Zachary Freemantle (12.8 Pkt/mecz) w sezonie 2026/2027 PLK.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-
----
-
-### **Energa Czarni Słupsk @ Dziki Warszawa**
-*   **Typ z PulsBasketu:** Dziki Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 obejmuje m.in. Demonda Robinsona, Dominica Greena, Jakuba Stupnickiego, Djordje Dimitrijevic, Filipa Mazura, Igora Mazura, Maksymiliana Maćkowiaka, Jana Plutę, Kacpra Borowskiego, Roberta Carpentera, Daniela Słomczyńskiego, Dominika Grudzińskiego, Masona Madsena, Keevana Veinota, Aleksandra Kornackiego.
-    *   **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim. Kadra na sezon 2026/2027 zawiera zawodników takich jak Austin Luke, Makai Ashton, Joseph Girard III, Michał Aleksandrowicz, Grzegorz Kamiński, Michał Krasuski, Tim Adetukasi, Krzysztof Kempa, Zane Waterman, Osun Osunniyi, Łukasz Frąckiewicz.
-2.  **Aktualna forma top scorerów:**
-    *   **Energa Czarni Słupsk:** Brak danych z API dla tego zespołu dotyczących konkretnych średnich punktów na mecz w trwającym sezonie. Djordje Dimitrijevic, Mason Madsen i Dominik Grudzinski są wymieniani jako liderzy zespołu.
-    *   **Dziki Warszawa:** W sezonie 2026/2027 czołowym strzelcem Dzików jest Quanterrius Jackson (20.5 Pkt/mecz). Joseph Girard III, nowy nabytek, był królem strzelców ligi litewskiej w sezonie 2024/25 i jest określany jako "urodzony strzelec".
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+*   **Hala/Miasto:** Hala OSiR Warszawa Bemowo, ul. Obrońców Tobruku 40, Warszawa.
+*   **Kluczowe braki w składach:**
+    *   **Legia Warszawa:**
+        *   Szymon Tomczak (środkowy) – kontuzja skręcenia śródstopia z uszkodzeniem więzadeł (od 16.09.2026), przewidywana przerwa około 3 miesięcy, powrót na parkiet nie wcześniej niż pod koniec roku.
+        *   Jakub Andrzejewski (rzucający) – poza kadrą meczową na mecz ze Stalą (stan na 23.10.2026).
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+        *   Brak istotnych braków w składzie koszykarskim. Jared Billups (skrzydłowy) miał uraz w sparingu pod koniec września 2026, jednak w zapowiedzi meczu z 23.10.2026 jest wymieniany jako część składu, co sugeruje jego dostępność.
+*   **Aktualna forma top scorerów:**
+    *   **Legia Warszawa:** W sezonie 2026/2027 wiodącymi strzelcami są György Golomán (14 Pkt/mecz), Arguster Daniels IV (12.8 Pkt/mecz) oraz Zachary Freemantle (12.8 Pkt/mecz).
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Daniel Gołębiowski zdobywa około 8 punktów na mecz.
+*   **Werdykt:** ⚠️ RYZYKOWNY
+    *   Mimo typu na Stal Ostrów Wielkopolski, Legia Warszawa była aktualnym Mistrzem Polski i wygrała ten mecz 84:74. Legia ma kilku skutecznych strzelców i odnotowuje serię zwycięstw nad Stalą. Stal miała co prawda pełny skład, jednak Legia była w dobrej formie i zagrała na własnym parkiecie.
 
 ---
 
-### **Energa Trefl Sopot @ MKS Dąbrowa Górnicza**
-*   **Typ z PulsBasketu:** MKS Dąbrowa Górnicza
+### **Mecz: Energa Czarni Słupsk @ Dziki Warszawa**
 
-1.  **Kluczowe braki w składach:**
-    *   **Energa Trefl Sopot:** Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 obejmuje m.in. Treya Andersona, Perttu Blomgrena, Szymona Kiejzika, Filipa Lacza, Kacpra Marchewkę, Michała Michalaka, Karola Prochorowicza, Tobiasa Rotegarda, Jakuba Schenka, Stefana Simanica, Fabiana Syrzyckiego, Davida Twigga, Antoniego Wardzińskiego, Szymona Zapałę.
-    *   **MKS Dąbrowa Górnicza:** Brak istotnych braków w składzie koszykarskim. W składzie na sezon 2026/2027 znajdują się m.in. Kalib Boone, Jordan Hall, Aundre Hyatt, Dawid Jakubiec, Maksymilian Jęch, Kyle Lofton, Daylen Kountz, Przemysław Wojdała, Stanisław Musiałek, Martin Peterka, Maciej Nagel.
-2.  **Aktualna forma top scorerów:**
-    *   **Energa Trefl Sopot:** Brak danych z API dla tego zespołu dotyczących konkretnych średnich punktów na mecz w trwającym sezonie.
-    *   **MKS Dąbrowa Górnicza:** Brak danych z API dla tego zespołu dotyczących konkretnych średnich punktów na mecz w trwającym sezonie. Kalib Boone i Jordan Hall są kluczowymi zawodnikami w składzie.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+*   **Hala/Miasto:** Hala Koło, ul. Obozowa 60, 01-423 Warszawa.
+*   **Kluczowe braki w składach:**
+    *   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim.
+    *   **Dziki Warszawa:** Brak istotnych braków w składzie koszykarskim. Zane Waterman zaliczył udany powrót po kontuzji, zdobywając punkty w tym meczu.
+*   **Aktualna forma top scorerów:**
+    *   **Energa Czarni Słupsk:** W meczu z Dzikami Warszawa, Mason Madsen zdobył 23 punkty, Keevan Veinot 17 punktów, a Demond Robinson 10 punktów.
+    *   **Dziki Warszawa:** W meczu z Czarnymi Słupsk, Zane Waterman zdobył 18 punktów, Łukasz Frąckiewicz 15 punktów, Makai Ashton 13 punktów, a Osun Osunniyi 11 punktów.
+*   **Werdykt:** ✅ ZATWIERDZONY
+    *   Dziki Warszawa wygrały ten mecz 91:81, zgodnie z typem. Brak kluczowych kontuzji w obu zespołach sprawił, że spotkanie było rozstrzygnięte na parkiecie, a Dziki zaprezentowały się skuteczniej.
+
+---
+
+### **Mecz: Energa Trefl Sopot @ MKS Dąbrowa Górnicza**
+
+*   **Hala/Miasto:** HWS Centrum im. Z. Cybulskiego, Al. Róż 3, Dąbrowa Górnicza.
+*   **Kluczowe braki w składach:**
+    *   **Energa Trefl Sopot:**
+        *   Michał Michalak (rzucający obrońca) – kontuzjowany od przedsezonowego turnieju o Superpuchar Polski, wykluczony z pierwszych kolejek sezonu 2026/2027 (stan na 16.10.2026).
+        *   Jakub Schenk (rozgrywający) – przeszedł operację ręki w lutym 2026, brak potwierdzenia pełnego powrotu do formy na 2026-10-25.
+        *   Mikołaj Witliński (środkowy) – uraz mięśniowy uda (kwiecień 2026), brak podanego terminu powrotu.
+    *   **MKS Dąbrowa Górnicza:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:**
+    *   **Energa Trefl Sopot:** Brak danych z API dla tego zespołu.
+    *   **MKS Dąbrowa Górnicza:** W sezonie 2026/2027 wiodącymi strzelcami są Jordan Hall (21.5 Pkt/mecz), Martin Peterka (13.5 Pkt/mecz) oraz Jakub Musiał (12 Pkt/mecz).
+*   **Werdykt:** ✅ ZATWIERDZONY
+    *   MKS Dąbrowa Górnicza wygrał ten mecz. Znaczące osłabienia w składzie Trefla Sopot, w tym potwierdzona absencja Michała Michalaka i brak jasnych informacji o powrocie innych kluczowych graczy, w połączeniu z mocną formą strzelecką MKS, czynią ten typ zasadnym.
