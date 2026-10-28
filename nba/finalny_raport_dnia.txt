@@ -1,22 +1,96 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-28 10:49 ET) ---
-Analityk NBA melduje! 🧐 Sprawdziłem Twoje typy na podstawie aktualnych danych z 2026-10-28.
+--- KRYTYCZNY AUDYT LIVE (2026-10-28 15:24 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z 28 października 2026 roku:
 
-### Trail Blazers @ Lakers -> Typ: Lakers
+---
 
-Niestety, mecz Portland Trail Blazers @ Los Angeles Lakers, o którym wspominasz, odbył się już wczoraj, 27 października 2026 roku. Trail Blazers pokonali Lakers 136-129. W związku z tym, że mecz został już rozegrany, nie mogę zatwierdzić ani uznać za ryzykowny Twojego typu na dzisiejszą datę.
+### Heat @ Hawks -> Typ: Hawks
 
-**Kluczowe braki w składach (na mecz 27.10.2026):**
+*   **Kluczowe braki w składach:**
+    *   Heat: Simone Fontecchio (OUT - Choroba). Pelle Larsson (DOSTĘPNY - Skręcenie prawej kostki, wcześniej wątpliwy).
+    *   Hawks: Mouhamed Gueye (OUT - Złamanie lewej stopy), Henri Veesaar (OUT - Zerwanie prawego ACL). Aaron Wiggins (PRAWDOPODOBNY - Stłuczenie lewego kolana). Dodatkowo kilku zawodników na kontrakcie two-way jest niedostępnych (RayJ Dennis, Zuby Ejiofor, Keshon Gilbert, Jalen Wilson).
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Hawks mają kilku zawodników poza składem, w tym długoterminowe kontuzje. Heat brakuje Fontecchio. Mimo to, Heat rozpoczęli sezon z bilansem 0-4, nawet z Giannisem Antetokounmpo w składzie. Główni gracze Hawks wydają się być zdrowi i gotowi do gry.
 
-*   **Los Angeles Lakers:**
-    *   Cameron Carr: OUT (uraz mięśnia skośnego brzucha/brzucha) 🤕
-    *   Adou Thiero: OUT (problem z lewym kolanem) 🩹
-    *   Walker Kessler: Dopuszczony do gry, pomimo noszenia opaski ochronnej na palcu lewej ręki.
-*   **Portland Trail Blazers:**
-    *   Shaedon Sharpe: OUT (rekonwalescencja po operacji łąkotki w prawym kolanie, spodziewana 6-miesięczna przerwa) 🏥
-    *   Scoot Henderson: Questionable (ból lewej kostki) ❓
-    *   Branden Carlson: Questionable (protokół wstrząsu mózgu) ❓
-    *   Jayson Kent: OUT (G League - Two-Way) 🚫
-    *   John Tonje: OUT (G League - Two-Way) 🚫
-    *   Chris Youngblood: OUT (G League - Two-Way) 🚫
+### Wizards @ Cavaliers -> Typ: Cavaliers
 
-**Werdykt:** [⚠️ RYZYKOWNY] (dla Twojego typu na dzisiejszy dzień, ponieważ mecz już się odbył i Lakers przegrali)
+*   **Kluczowe braki w składach:**
+    *   Wizards: Justin Champagnie (OUT - Kontuzja stopy), Tristan Vukcevic (OUT - Biodro), Jamir Watkins (OUT NA SEZON - Zerwane ACL). AJ Dybantsa (ZAPYTYWANY - Kostka, ale został UAKTUALNIONY do DOSTĘPNEGO i ma zadebiutować).
+    *   Cavaliers: Tomlin (OUT - Uraz dolnej części pleców).
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Wizards są znacznie osłabieni przez liczne kontuzje kluczowych graczy. Cavaliers wyglądają na silniejszych kadrowo.
+
+### Hornets @ Pistons -> Typ: Pistons
+
+*   **Kluczowe braki w składach:**
+    *   Hornets: Michael Ajayi (OUT - G League - Two-Way), Kylan Boswell (OUT - Kolano), Kon Knueppel (OUT - Naciągnięcie lewego ścięgna podkolanowego), Coby White (OUT - Naciągnięcie lewej łydki), Grant Williams (OUT - Naciągnięcie prawego ścięgna podkolanowego).
+    *   Pistons: Jalen Duren (OUT - Naciągnięcie prawego ścięgna podkolanowego), Isaiah Joe (OUT - Stłuczenie prawego biodra), Ugonna Onyenso (OUT - G League - Two-Way). Ausar Thompson (PRAWDOPODOBNY - Skręcenie prawej kostki).
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Hornets mają znacznie więcej kluczowych zawodników poza składem niż Pistons.
+
+### 76ers @ Pacers -> Typ: 76ers
+
+*   **Kluczowe braki w składach:**
+    *   76ers: Dominick Barlow (OUT - Reakcja stresowa kości odcinka lędźwiowego), Tacko Fall (OUT - Naciągnięcie lewego mięśnia czworogłowego), Ariel Hukporti (OUT - Zerwanie prawego ścięgna Achillesa), Jabari Walker (OUT - Ból lewego kolana). Joel Embiid i VJ Edgecombe są oczekiwani do powrotu.
+    *   Pacers: Johnny Furphy (OUT - Operacja prawego ACL), T.J. McConnell (OUT - Naciągnięcie prawego ścięgna podkolanowego), Ivica Zubac (OUT - Kostka), Ben Sheppard (OUT - Zerwana lewa łąkotka, zaplanowana operacja dzisiaj). Tyrese Haliburton (ZAPYTYWANY - Ucisk/ból lewego ścięgna podkolanowego), Andrew Nembhard (ZAPYTYWANY - Sztywność/ból szyi).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Pacers są bardzo osłabieni, zwłaszcza z Tyrese Haliburtonem (kluczowy gracz) jako zapytany. Jeśli Haliburton nie zagra, ryzyko jest mniejsze, ale jego status "Questionable" wprowadza dużą niepewność. 76ers również mają kilku graczy poza składem, ale ich kluczowi gracze, w tym Embiid, mają zagrać.
+
+### Magic @ Raptors -> Typ: Raptors
+
+*   **Kluczowe braki w składach:**
+    *   Magic: Paolo Banchero (OUT - Poważne skręcenie prawej kostki), Jonathan Isaac (OUT - Zarządzanie urazem lewego kolana), Izaiyah Nelson (OUT - Rekonwalescencja po urazie lewej kostki), Noah Penda (OUT - Częściowo zerwane prawe ścięgno podkolanowe), Jalen Suggs (OUT - Stłuczenie/siniak prawego kolana).
+    *   Raptors: Kawhi Leonard (OUT - Wysięk/obrzęk lewego kolana), Nate Bittle (OUT - Złamanie awulsyjne prawej stopy).
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Magic są zdziesiątkowani kontuzjami, brakuje im pięciu kluczowych graczy, w tym ich lidera Paolo Banchero i Jalen Suggs. Raptors również brakuje Kawhiego Leonarda, ale ogromna liczba absencji w Magic daje im wyraźną przewagę.
+
+### Knicks @ Bulls -> Typ: Bulls
+
+*   **Kluczowe braki w składach:**
+    *   Knicks: Brak aktualnych raportów (Injury Report) na tę chwilę dla głównych graczy, NBA CMS podaje "NOT YET SUBMITTED". Jose Alvarado (DAY-TO-DAY - Kostka).
+    *   Bulls: Nic Claxton (OUT - Naciągnięcie lewego ścięgna podkolanowego), Tobe Awaka (ZAPYTYWANY - Skręcenie lewej kostki), Patrick Williams (ZAPYTYWANY - Naciągnięcie prawego przywodziciela).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Bulls brakuje Nic Claxtona, który jest ważny dla obrony i zbiórek, a dwóch innych graczy jest zapytanych. Knicks nie mają oficjalnie zgłoszonych kluczowych braków w składzie. Typ na Bulls jest ryzykowny ze względu na te absencje.
+
+### Rockets @ Bucks -> Typ: Rockets
+
+*   **Kluczowe braki w składach:**
+    *   Rockets: Steven Adams (OUT - Naciągnięcie prawego mięśnia płaszczkowatego), Alperen Sengun (OUT - Ból w dolnej części pleców). Marcus Smart (ZAPYTYWANY - Naciągnięcie lewego przedramienia). Dodatkowo kilku zawodników na kontrakcie two-way jest niedostępnych (Quadir Copeland, Julian Phillips).
+    *   Bucks: Milwaukee nie zgłosiło żadnych kontuzji na ten moment.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Rockets są poważnie osłabieni, brakuje im dwóch czołowych centrów, w tym ich gwiazdy Alperena Senguna, a Marcus Smart jest zapytany. Bucks są w pełni zdrowia. Mimo dobrego startu Rockets (4-0), tak znaczące braki w składzie czynią ten typ bardzo ryzykownym.
+
+### Warriors @ Timberwolves -> Typ: Timberwolves
+
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Nie można ocenić kluczowych braków.
+
+### Nuggets @ Pelicans -> Typ: Nuggets
+
+*   **Kluczowe braki w składach:**
+    *   Nuggets: Alpha Diallo (OUT - Powody osobiste), Cameron Johnson (WĄTPLIWY - Skręcenie prawej kostki), Spencer Jones (OUT - Zarządzanie obustronną kontuzją ścięgna podkolanowego), Julian Strawther (OUT - Skręcenie lewego kolana). Jordan Poole (PRAWDOPODOBNY - Choroba).
+    *   Pelicans: Yves Missi (OUT - Kolano).
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Nuggets brakuje kilku graczy z ławki, a Cameron Johnson jest wątpliwy. Jednak Pelicans są również osłabieni brakiem Missi i mają bilans 0-3. Core gracze Nuggets (Jokic, Murray) są w składzie.
+
+### Spurs @ Jazz -> Typ: Spurs
+
+*   **Kluczowe braki w składach:**
+    *   Spurs: Jayden Quaintance (OUT - Kolano). NBA CMS podaje "NOT YET SUBMITTED" dla głównych graczy.
+    *   Jazz: Jaren Jackson Jr. (OUT - Zerwanie MCL w prawym kolanie, 6-8 tygodni), Jusuf Nurkic (OUT - Częściowe zerwanie płytki podeszwowej 2. palca w prawej stopie, 4 tygodnie). Lauri Markkanen (ZAPYTYWANY - Skręcenie prawego nadgarstka), Jaxson Hayes (ZAPYTYWANY - Ból prawego barku). Dodatkowo kilku zawodników na kontrakcie two-way jest niedostępnych (Trey Alexander, Kobe Bufkin, Harrison Ingram).
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Jazz są poważnie osłabieni, brakuje im kluczowych graczy, takich jak Jaren Jackson Jr. i Jusuf Nurkic, a gwiazda Lauri Markkanen i Jaxson Hayes są zapytani. Spurs mają relatywnie zdrowy skład.
+
+### Thunder @ Mavericks -> Typ: Thunder
+
+*   **Kluczowe braki w składach:**
+    *   Thunder: Alex Caruso (OUT - Skręcenie prawej kostki), Chet Holmgren (OUT - Zapalenie rzepki prawego kolana), Thomas Sorber (OUT - Operacja prawego kolana), Nikola Topić (OUT - Operacja dolnej części pleców), Cason Wallace (OUT - Zerwanie obrąbka lewego barku), Jalen Williams (OUT - Złamanie lewej kostki). Ajay Mitchell (ZAPYTYWANY - Skręcenie prawej kostki).
+    *   Mavericks: Santi Aldama (WĄTPLIWY - Operacja prawego kolana), Tarik Biberovic (WĄTPLIWY - Zapalenie kaletki piętowej prawej), Sergio De Larrea (OUT - Skręcenie prawego kolana), Dereck Lively II (OUT - Operacja prawej stopy). Kyrie Irving (ZAPYTYWANY - Zarządzanie urazem lewego kolana), Caleb Martin (ZAPYTYWANY - Skręcenie prawego kciuka), Naji Marshall (ZAPYTYWANY - Choroba). Cooper Flagg (NIEDOSTĘPNY).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny są niezwykle osłabione przez kontuzje. Thunder ma wyjątkowo długą listę kluczowych graczy OUT lub QUESTIONABLE. Mavericks również mają poważne braki, a status Kyrie Irvinga jako "Questionable" jest znaczący. Ten mecz jest bardzo ryzykowny do typowania ze względu na nieprzewidywalność składów.
+
+### Lakers @ Clippers -> Typ: Lakers
+
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę. Nie można ocenić kluczowych braków.

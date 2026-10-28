@@ -1,1 +1,12 @@
-Trail Blazers @ Lakers -> Typ: Lakers
+Heat @ Hawks -> Typ: Hawks
+Wizards @ Cavaliers -> Typ: Cavaliers
+Hornets @ Pistons -> Typ: Pistons
+76ers @ Pacers -> Typ: 76ers
+Magic @ Raptors -> Typ: Raptors
+Knicks @ Bulls -> Typ: Bulls
+Rockets @ Bucks -> Typ: Rockets
+Warriors @ Timberwolves -> Typ: Timberwolves
+Nuggets @ Pelicans -> Typ: Nuggets
+Spurs @ Jazz -> Typ: Spurs
+Thunder @ Mavericks -> Typ: Thunder
+Lakers @ Clippers -> Typ: Lakers
