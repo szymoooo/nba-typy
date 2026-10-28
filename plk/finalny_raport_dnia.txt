@@ -1,58 +1,47 @@
---- AUDYT PLK LIVE (2026-10-28 01:32 CET) ---
-Analiza meczów PLK na dzień 2026-10-25:
+--- AUDYT PLK LIVE (2026-10-28 10:59 CET) ---
+Oto analiza meczów PLK na dzień 2026-10-25:
 
 ---
-
-### Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa
-*   **Typ z PulsBasketu:** Tasomix Rosiek Stal Ostrów Wielkopolski
+### **Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa**
+Typ: Tasomix Rosiek Stal Ostrów Wielkopolski
 
 1.  **Kluczowe braki w składach:**
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
-        *   Jared Billups: Doznał stłuczenia lędźwi po bolesnym upadku, jego dostępność na początek ligi była niepewna na dzień 28 września 2026. Brak nowszych informacji potwierdzających jego powrót do pełnej dyspozycji na dzień meczu.
-    *   **Legia Warszawa:**
-        *   Szymon Tomczak: Środkowy Legii doznał skręcenia śródstopia z uszkodzeniem więzadeł i miał pauzować około 3 miesięcy, nie miał pojawić się na parkiecie do końca 2026 roku. Informacja z 17 września 2026 r. Jest to istotny brak na pozycji środkowego.
-        *   Michał Kolenda: Doznał drobnego urazu pod koniec sezonu 2025/2026, który wykluczył go ze zgrupowania kadry w czerwcu 2026 r. Jest wymieniony w składzie na sezon 2026/2027 i brak nowszych informacji o kontynuacji jego urazu, co sugeruje powrót do zdrowia.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim.
+    *   **Legia Warszawa:** Kontuzjowany jest Szymon Tomczak (środkowy), który doznał skręcenia śródstopia z uszkodzeniem więzadeł i miał pauzować około 3 miesięcy od 16 września 2026. Z tego powodu Legia podpisała krótkoterminową umowę z Kubą Piślą.
 
 2.  **Aktualna forma top scorerów:**
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski (sezon 2026/2027, stan na 25.10.2026):**
-        *   Karl Lips: 15.5 Pkt/mecz
-        *   Jaylin Hunter: 12.8 Pkt/mecz
-        *   Vyacheslav Bobrov: 10 Pkt/mecz
-    *   **Legia Warszawa:** brak danych z API dla tego zespołu dla sezonu 2026/2027.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** W sezonie 2026/2027 czołowymi strzelcami są Karl Lips (średnio 15.5 Pkt/mecz) i Jaylin Hunter (średnio 12.8 Pkt/mecz).
+    *   **Legia Warszawa:** Brak danych z API dla tego zespołu. Legia Warszawa wygrała ten mecz 84:74.
 
 3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ na Tasomix Rosiek Stal Ostrów Wielkopolski był ryzykowny. Mimo znaczącej kontuzji środkowego Legii, Szymona Tomczaka, Legia Warszawa pokonała Tasomix Rosiek Stal Ostrów Wielkopolski 84:74 w meczu rozegranym 25 października 2026 r. we własnej hali. Brak top scorerów dla Legii i niepewność co do Billupsa w Stali dodatkowo utrudniały precyzyjną ocenę przedmeczową, jednak ostateczny wynik wskazuje na błędność typu.
+    *   Analiza wykazała, że typ jest ryzykowny, ponieważ rzeczywisty wynik meczu z dnia 2026-10-25 to zwycięstwo Legii Warszawa (84:74), co jest sprzeczne z podanym typem. Dodatkowo, Legia grała osłabiona brakiem Szymona Tomczaka.
 
 ---
-
-### Energa Czarni Słupsk @ Dziki Warszawa
-*   **Typ z PulsBasketu:** Dziki Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-10-28.
-    *   **Dziki Warszawa:**
-        *   Krzysztof Kempa: zszedł z boiska z bólem pięty w meczu czwartej kolejki (czyli prawdopodobnie w okolicach 25.10.2026).
-        *   Dorde Dimitrijevic: miał problemy z plecami i zagrał tylko 3 minuty w meczu czwartej kolejki (czyli prawdopodobnie w okolicach 25.10.2026).
-
-2.  **Aktualna forma top scorerów:**
-    *   **Energa Czarni Słupsk:** brak danych z API dla tego zespołu.
-    *   **Dziki Warszawa:** brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Dziki Warszawa miały problemy kadrowe przed meczem, z kontuzjami Krzysztofa Kempy (ból pięty) i Dorde Dimitrijevića (problemy z plecami, ograniczony czas gry) zgłoszonymi w okolicach czwartej kolejki, co mogło osłabić zespół. Bez danych o aktualnej formie strzeleckiej i wobec potwierdzonych urazów u gospodarzy, typ na Dziki Warszawa jest ryzykowny.
-
----
-
-### Energa Trefl Sopot @ MKS Dąbrowa Górnicza
-*   **Typ z PulsBasketu:** MKS Dąbrowa Górnicza
+### **Energa Czarni Słupsk @ Dziki Warszawa**
+Typ: Dziki Warszawa
 
 1.  **Kluczowe braki w składach:**
-    *   **Energa Trefl Sopot:** Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-10-28.
-    *   **MKS Dąbrowa Górnicza:** Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-10-28.
+    *   **Energa Czarni Słupsk:** Dominik Grudziński był nieobecny, a Djordje Dimitrijević rozegrał zaledwie trzy minuty w meczu 2026-10-25 z powodu problemów zdrowotnych. Dominik Grudziński jest również wymieniony jako kontuzjowany w ogólnym raporcie PLK z 26 października 2026.
+    *   **Dziki Warszawa:** Zane Waterman zaliczył udany powrót po kontuzji w meczu 2026-10-25, będąc jednym z bohaterów spotkania. Brak innych istotnych braków.
 
 2.  **Aktualna forma top scorerów:**
-    *   **Energa Trefl Sopot:** brak danych z API dla tego zespołu.
-    *   **MKS Dąbrowa Górnicza:** brak danych z API dla tego zespołu.
+    *   **Energa Czarni Słupsk:** W meczu przeciwko Dziki Warszawa 25 października 2026 Mason Madsen zdobył 23 punkty, trafiając 5 rzutów zza łuku. Djordje Dimitrijevic jest liderem strzelców sezonu 2026/2027 (16.3 Pkt/mecz), ale w tym meczu jego udział był ograniczony.
+    *   **Dziki Warszawa:** Zane Waterman w dniu powrotu (2026-10-25) zdobył 18 punktów i 7 zbiórek, będąc najlepszym zawodnikiem gospodarzy. Quanterrius Jackson jest czołowym strzelcem zespołu w sezonie 2026/2027 ze średnią 20.5 Pkt/mecz. Osun Osunniyi również przyczynił się do zwycięstwa, zdobywając 7 punktów z rzędu w kluczowej serii.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Brak potwierdzonych istotnych braków w składach obu drużyn koszykarskich. Pomimo braku danych o aktualnej formie top scorerów, równowaga kadrowa czyni typ na MKS Dąbrowa Górnicza akceptowalnym.
+    *   Dziki Warszawa wygrały ten mecz 91:81. Czarni Słupsk mieli osłabiony skład z powodu kontuzji. Forma kluczowych zawodników Dzików, w tym wracającego Zane'a Watermana, była wysoka.
+
+---
+### **Energa Trefl Sopot @ MKS Dąbrowa Górnicza**
+Typ: MKS Dąbrowa Górnicza
+
+1.  **Kluczowe braki w składach:**
+    *   **Energa Trefl Sopot:** Michał Michalak zmagał się z kontuzją pleców na początku sezonu 2026/2027 i według doniesień z 16 października 2026, jego powrót nie był przewidywany w najbliższym czasie.
+    *   **MKS Dąbrowa Górnicza:** Brak istotnych braków w składzie koszykarskim.
+
+2.  **Aktualna forma top scorerów:**
+    *   **Energa Trefl Sopot:** Czołowym strzelcem w sezonie 2026/2027 jest Jakub Schenk (średnio 17 Pkt/mecz), wspierany przez Treya Andersona (12.7 Pkt/mecz) i Stefana Simanica (12.3 Pkt/mecz).
+    *   **MKS Dąbrowa Górnicza:** Jordan Hall w jednym z ostatnich spotkań (prawdopodobnie 2026-10-25) zanotował 19 punktów, 6 asyst, 4 zbiórki i 2 przechwyty. Czołowymi strzelcami w sezonie 2026/2027 są Jordan Hall (23.0 Pkt/mecz), Kalib Boone (17.0 Pkt/mecz) i Martin Peterka (14.0 Pkt/mecz).
+
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    *   MKS Dąbrowa Górnicza wygrała ten mecz 25 października 2026 i pozostała niepokonana. Trefl Sopot był osłabiony brakiem Michała Michalaka.
