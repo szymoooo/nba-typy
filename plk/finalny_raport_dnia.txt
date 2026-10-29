@@ -1,40 +1,43 @@
---- AUDYT PLK LIVE (2026-10-29 02:12 CET) ---
-Oto audyt typów na mecze PLK z 25 października 2026 roku:
+--- AUDYT PLK LIVE (2026-10-29 04:50 CET) ---
+Analiza meczów PLK na 2026-10-29:
 
 ---
 
-### **Mecz 1: Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa**
-*   **Typ z PulsBasketu:** Tasomix Rosiek Stal Ostrów Wielkopolski
-
-1.  **Kluczowe braki w składach:**
-    *   Legia Warszawa: Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 25.10.2026.
-    *   Tasomix Rosiek Stal Ostrów Wielkopolski: Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 25.10.2026.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tych zespołów. Według doniesień medialnych z października 2026, kluczowymi zawodnikami Legii byli Christian Vital i Marcel Ponitka. W Stali Ostrów Wielkopolski wiodącymi postaciami w tamtym okresie byli Stefan Gjorgiev i Arūnas Mikalauskas.
-3.  **Werdykt:** [✅ ZATWIERDZONY] – Obie drużyny bez istotnych braków, co pozwala na rozegranie meczu w pełnych składach.
-
----
-
-### **Mecz 2: Energa Czarni Słupsk @ Dziki Warszawa**
-*   **Typ z PulsBasketu:** Dziki Warszawa
-
-1.  **Kluczowe braki w składach:**
-    *   Energa Czarni Słupsk: Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 25.10.2026.
-    *   Dziki Warszawa: Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 25.10.2026.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tych zespołów. W zespole Czarnych Słupsk w sezonie 2026/2027 wyróżniał się Payton Dastrup. Po stronie Dzików Warszawa do czołowych strzelców należał Matt Coleman III.
-3.  **Werdykt:** [✅ ZATWIERDZONY] – Brak zgłoszonych kontuzji kluczowych zawodników w obu zespołach.
+### Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa
+*   **Kluczowe braki w składach:**
+    *   **Legia Warszawa:**
+        *   Szymon Tomczak (środkowy) - kontuzja, skręcenie śródstopia z uszkodzeniem więzadeł, wyłączony z gry na około 3 miesiące od września 2026, nie zagra do końca roku. 🚑
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+        *   Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Brak ważnego środkowego w Legii może być odczuwalny).
 
 ---
 
-### **Mecz 3: Energa Trefl Sopot @ MKS Dąbrowa Górnicza**
-*   **Typ z PulsBasketu:** MKS Dąbrowa Górnicza
-
-1.  **Kluczowe braki w składach:**
-    *   Energa Trefl Sopot: Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 25.10.2026.
-    *   MKS Dąbrowa Górnicza: Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 25.10.2026.
-2.  **Aktualna forma top scorerów:**
-    *   Brak danych z API dla tych zespołów. W Treflu Sopot wiodącą rolę w ataku pełnił Aaron Best. Natomiast w MKS Dąbrowa Górnicza czołowym strzelcem był Marcis Vitols.
-3.  **Werdykt:** [✅ ZATWIERDZONY] – Obie drużyny przystąpiły do meczu bez znaczących osłabień kadrowych.
+### Energa Czarni Słupsk @ Dziki Warszawa
+*   **Kluczowe braki w składach:**
+    *   **Dziki Warszawa:**
+        *   Zane Waterman - przechodzi diagnostykę palca (stan na 28.10.2026).
+        *   Krzysztof Kempa - doznał lekkiego urazu podczas meczu z Czarnymi (stan na 28.10.2026).
+    *   **Energa Czarni Słupsk:**
+        *   Brak istotnych braków w składzie koszykarskim. (Wzmianka o "fatalnym powrocie do stolicy" Dominica Greena 25.10.2026 dotyczyła słabej formy, nie kontuzji ani absencji.)
+*   **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Dziki zmagają się z absencjami kluczowych graczy).
 
 ---
+
+### Energa Trefl Sopot @ MKS Dąbrowa Górnicza
+*   **Kluczowe braki w składach:**
+    *   **Energa Trefl Sopot:**
+        *   Piotr Śmigielski - przeszedł zabieg wycięcia wyrostka robaczkowego, pauzuje około miesiąca, opuści mecze w październiku i listopadzie 🚑.
+        *   Patryk Pułkotycki - złamany palec u prawej dłoni, pauzuje przez kilka najbliższych tygodni 🤕.
+        *   Michał Michalak - wciąż kontuzjowany (stan na 16.10.2026) 🚑.
+        *   Michał Kolenda - problemy natury przeciążeniowej po pobycie na kadrze (stan na 27.10.2026) 🩹.
+        *   Milan Milovanović - wraca do treningów z drużyną (stan na 27.10.2026) ✅.
+    *   **MKS Dąbrowa Górnicza:**
+        *   Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+*   **Werdykt:** [⚠️ RYZYKOWNY] (Trefl boryka się z licznymi osłabieniami kadrowymi).
