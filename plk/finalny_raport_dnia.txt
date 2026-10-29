@@ -1,44 +1,29 @@
---- AUDYT PLK LIVE (2026-10-29 20:28 CET) ---
-Analiza meczów PLK na 2026-10-29:
+--- AUDYT PLK LIVE (2026-10-29 22:29 CET) ---
+Analiza typów PLK na 2026-10-25 (stan na 2026-10-29):
 
 ---
-### **Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa**
-*   **Typ:** Tasomix Rosiek Stal Ostrów Wielkopolski
 
-1.  **Kluczowe braki w składach:**
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 został zamknięty w sierpniu 2026 roku.
-    *   **Legia Warszawa:** Brak istotnych braków w składzie koszykarskim. Dostępne źródła dotyczące składu na sezon 2026/2027 nie wskazują na aktualne kontuzje koszykarzy.
-
-2.  **Aktualna forma top scorerów:**
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** Brak danych z API dla tego zespołu.
-    *   **Legia Warszawa:** Liderami strzelców w sezonie 2026/2027 są György Golomán (14 Pkt/mecz), Arguster Daniels IV (12.8 Pkt/mecz) i Zachary Freemantle (12.8 Pkt/mecz).
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY] - Brak danych o formie top scorerów dla Tasomix Rosiek Stal Ostrów Wielkopolski.
+### Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa
+*   **Kluczowe braki w składach:**
+    *   **Legia Warszawa:** Szymon Tomczak (środkowy) kontuzjowany (skręcenie śródstopia z uszkodzeniem więzadeł), pauza około 3 miesięcy od września 2026, nie zagra do końca roku. Brak informacji o zawieszeniu Jakuba Andrzejewskiego na dzień meczu 25.10.2026, pomimo wszczęcia postępowania dyscyplinarnego 12.10.2026.
+    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** W artykule z 28.09.2026 wspomniano o kontuzji w Stali po sparingu, jednak bez podania nazwiska ani długości przerwy, co uniemożliwia ocenę wpływu na skład.
+*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Znaczący brak środkowego Szymona Tomczaka w Legii jest osłabieniem. Pomimo tego, typowanie przeciwko Legii w Warszawie jest zawsze obarczone ryzykiem.
 
 ---
-### **Energa Czarni Słupsk @ Dziki Warszawa**
-*   **Typ:** Dziki Warszawa
 
-1.  **Kluczowe braki w składach:**
-    *   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim. Skład na sezon 2026/2027 został zamknięty w lipcu 2026 roku.
-    *   **Dziki Warszawa:** Drużyna Dzików Warszawa była "osłabiona" w meczu FIBA Europe Cup rozegranym 28.10.2026. Brak jednak konkretnych informacji, którzy zawodnicy byli nieobecni lub kontuzjowani.
-
-2.  **Aktualna forma top scorerów:**
-    *   **Energa Czarni Słupsk:** Najlepsi strzelcy w sezonie 2026/2027 to Djordje Dimitrijevic (16.3 Pkt/mecz), Mason Madsen (14 Pkt/mecz) i Robert Carpenter IV (11 Pkt/mecz).
-    *   **Dziki Warszawa:** Brak danych z API dla tego zespołu.
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY] - Niejasność co do braków kadrowych w Dzikach Warszawa po meczu pucharowym oraz brak danych o formie top scorerów.
+### Energa Czarni Słupsk @ Dziki Warszawa
+*   **Kluczowe braki w składach:**
+    *   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim. Informacja o "fatalnym powrocie Dominika Greena" po meczu z Dzikami dotyczyła raczej występu niż kontuzji wykluczającej z gry.
+    *   **Dziki Warszawa:** Krzysztof Kempa doznał lekkiego urazu *podczas* meczu z Czarnymi Słupsk 25.10.2026, co oznacza, że był dostępny na to spotkanie, przynajmniej początkowo. Zane Waterman grał w meczu 25.10.2026 po ponadmiesięcznej przerwie, choć później, 28.10.2026, zabrakło go w składzie z powodu "problemów zdrowotnych" i "diagnostyki palca". Na potrzeby analizy meczu 25.10.2026, te braki nie były przedmeczowe.
+*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Brak kluczowych, przedmeczowych absencji w obu drużynach, które znacząco wpłynęłyby na typ. Późniejsze problemy Dzików (Kempa, Waterman) były następstwem tego meczu lub wystąpiły po nim.
 
 ---
-### **Energa Trefl Sopot @ MKS Dąbrowa Górnicza**
-*   **Typ:** MKS Dąbrowa Górnicza
 
-1.  **Kluczowe braki w składach:**
-    *   **Energa Trefl Sopot:** Brak istotnych braków w składzie koszykarskim. Kadra na sezon 2026/2027 została zaprezentowana we wrześniu 2026 roku i brak jest doniesień o aktualnych kontuzjach.
-    *   **MKS Dąbrowa Górnicza:** Brak istotnych braków w składzie koszykarskim. Dostępne źródła dotyczące składu na sezon 2026/2027 nie wskazują na aktualne kontuzje koszykarzy.
-
-2.  **Aktualna forma top scorerów:**
-    *   **Energa Trefl Sopot:** Liderami strzelców w sezonie 2026/2027 są Jakub Schenk (17 Pkt/mecz), Trey Anderson (12.7 Pkt/mecz) i Stefan Simanic (12.3 Pkt/mecz).
-    *   **MKS Dąbrowa Górnicza:** Najlepsi strzelcy w sezonie 2026/2027 to Jordan Hall (21.5 Pkt/mecz), Martin Peterka (13.5 Pkt/mecz) i Jakub Musiał (12 Pkt/mecz).
-
-3.  **Werdykt:** [✅ ZATWIERDZONY]
+### Energa Trefl Sopot @ MKS Dąbrowa Górnicza
+*   **Kluczowe braki w składach:**
+    *   **Energa Trefl Sopot:** Poważne osłabienia. Piotr Śmigielski pauzuje około miesiąca po zabiegu usunięcia wyrostka robaczkowego (od około 24.09.2026), wykluczony z meczów w październiku i listopadzie. Patryk Pułkotycki złamał palec i miał pauzować kilka tygodni (informacja z 28.09.2026). Michał Michalak był kontuzjowany i jego powrót był nieokreślony (informacja z 16.10.2026). Eric Lockett doznał poważnej kontuzji nogi w marcu 2026, która mogła wykluczyć go z reszty sezonu 2025/2026.
+    *   **MKS Dąbrowa Górnicza:** Brak istotnych braków w składzie koszykarskim.
+*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Trefl Sopot boryka się z licznymi i poważnymi kontuzjami kluczowych graczy, co znacząco osłabia zespół. MKS Dąbrowa Górnicza wydaje się być w pełnym składzie.
