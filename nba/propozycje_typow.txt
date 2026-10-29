@@ -1,8 +1,2 @@
-Magic @ Raptors -> Typ: Raptors
-Knicks @ Bulls -> Typ: Bulls
-Rockets @ Bucks -> Typ: Rockets
-Warriors @ Timberwolves -> Typ: Timberwolves
-Nuggets @ Pelicans -> Typ: Nuggets
-Spurs @ Jazz -> Typ: Spurs
 Thunder @ Mavericks -> Typ: Thunder
 Lakers @ Clippers -> Typ: Lakers

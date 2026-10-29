@@ -1,36 +1,22 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-28 19:25 ET) ---
-Zgodnie z Twoimi instrukcjami, przeanalizowałem podane typy, opierając się wyłącznie na danych z sieci z dnia 2026-10-28 oraz składach ze stycznia 2026.
+--- KRYTYCZNY AUDYT LIVE (2026-10-28 21:11 ET) ---
+Oto analiza Twoich typów na podstawie danych z 28.10.2026:
 
 ---
 
-**1. Magic @ Raptors -> Typ: Raptors**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY]
+### Thunder @ Mavericks -> Typ: Thunder
 
-**2. Knicks @ Bulls -> Typ: Bulls**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+*   **Kluczowe braki w składach:**
+    *   **Oklahoma City Thunder:** ❌ Jalen Williams (złamanie lewej kostki), ❌ Chet Holmgren (zapalenie ścięgna rzepki w prawym kolanie), ❌ Cason Wallace (naciągnięcie obrąbka lewego barku), ❌ Alex Caruso (skręcenie prawej kostki), ❌ Nikola Topić (operacja dolnego odcinka pleców), ❌ Thomas Sorber (operacja prawego kolana). ❓ Ajay Mitchell (skręcenie prawej kostki).
+    *   **Dallas Mavericks:** ❓ Kyrie Irving (problem z lewym kolanem), ❓ Naji Marshall (choroba), ❓ Caleb Martin (skręcenie prawego kciuka). ❌ Dereck Lively II (rekonwalescencja po operacji prawej stopy), ❌ Sergio De Larrea (skręcenie prawej kostki). 🟡 Santi Aldama (rekonwalescencja po operacji prawego kolana), 🟡 Tarik Biberovic (zapalenie kaletki piętowej w prawej pięcie).
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Thunder mierzą się z poważnymi brakami, tracąc czterech kluczowych zawodników rotacji, w tym Jalen Williamsa i Cheta Holmgrena. Mimo że Mavericks również mają kilku graczy na liście kontuzjowanych, w tym status Kyriego Irvinga jest niepewny, to jednak potwierdzone absencje Thunder są bardziej znaczące dla ich głębi i siły ogólnej drużyny.
 
-**3. Rockets @ Bucks -> Typ: Rockets**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+---
 
-**4. Warriors @ Timberwolves -> Typ: Timberwolves**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY]
+### Lakers @ Clippers -> Typ: Lakers
 
-**5. Nuggets @ Pelicans -> Typ: Nuggets**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY]
-
-**6. Spurs @ Jazz -> Typ: Spurs**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-
-**7. Thunder @ Mavericks -> Typ: Thunder**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [✅ ZATWIERDZONY]
-
-**8. Lakers @ Clippers -> Typ: Lakers**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
+*   **Kluczowe braki w składach:**
+    *   **Los Angeles Lakers:** ❌ Luka Dončić (napięcie w plecach), ❌ Cameron Carr (naciągnięcie prawego mięśnia skośnego), ❌ Adou Thiero (zarządzanie kontuzją lewego kolana), ❌ Ziaire Williams (ból lewej stopy).
+    *   **Los Angeles Clippers:** ❌ Rui Hachimura (ból w lewym mięśniu czworogłowym), ❌ Brandon Ingram (pięta/Achilles), ❌ Bradley Beal (zarządzanie kontuzją prawego kolana), ❌ Max Strus (częściowe zerwanie rozcięgna podeszwowego w prawej stopie), ❌ Jordan Miller (bark / stożek rotatorów), ❌ Yanic Konan Niederhauser (rekonwalescencja po operacji Lisfranca w prawej stopie).
+*   **Werdykt: [⚠️ RYZYKOWNY]**
+    *   Lakers grają bez swojej największej gwiazdy i lidera punktowego, Luki Dončicia, co jest kolosalną stratą. Jednakże, Clippers są zdziesiątkowani licznymi kontuzjami, tracąc wiele kluczowych elementów swojej rotacji, w tym Brandona Ingrama, Bradleya Beala i Rui Hachimurę. W związku z tym, że Lakers grają drugą noc z rzędu, a Clippers mają znacznie więcej kluczowych graczy poza składem, mecz jest bardzo ryzykowny dla obu stron.
