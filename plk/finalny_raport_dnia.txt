@@ -1,29 +1,21 @@
---- AUDYT PLK LIVE (2026-10-29 22:29 CET) ---
-Analiza typów PLK na 2026-10-25 (stan na 2026-10-29):
+--- AUDYT PLK LIVE (2026-10-30 00:32 CET) ---
+Analiza meczu PLK: Tasomix Rosiek Stal Ostrów Wielkopolski (gosc) @ Anwil Włocławek (gospodarz)
 
 ---
 
-### Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa
-*   **Kluczowe braki w składach:**
-    *   **Legia Warszawa:** Szymon Tomczak (środkowy) kontuzjowany (skręcenie śródstopia z uszkodzeniem więzadeł), pauza około 3 miesięcy od września 2026, nie zagra do końca roku. Brak informacji o zawieszeniu Jakuba Andrzejewskiego na dzień meczu 25.10.2026, pomimo wszczęcia postępowania dyscyplinarnego 12.10.2026.
-    *   **Tasomix Rosiek Stal Ostrów Wielkopolski:** W artykule z 28.09.2026 wspomniano o kontuzji w Stali po sparingu, jednak bez podania nazwiska ani długości przerwy, co uniemożliwia ocenę wpływu na skład.
-*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Znaczący brak środkowego Szymona Tomczaka w Legii jest osłabieniem. Pomimo tego, typowanie przeciwko Legii w Warszawie jest zawsze obarczone ryzykiem.
+**MECZ: Tasomix Rosiek Stal Ostrów Wielkopolski (gosc) @ Anwil Włocławek (gospodarz)**
 
----
+1.  **Kluczowe braki w składach:**
+    *   🏀 **Anwil Włocławek:**
+        *   Jack Forrest: kontynuuje rehabilitację uszkodzonego mięśnia i nie rozpoczął sezonu w normalnej rotacji. Re-ewaluacja stanu zdrowia była planowana na połowę października, ale brak informacji o jego powrocie do pełnej sprawności do dnia meczu.
+        *   Josiah Strong: zmaga się z kontuzją pleców, co może oznaczać kilkutygodniową przerwę. Trenuje indywidualnie.
+        *   Lennard Freeman: kontuzja, był poza grą w ostatniej kwarcie meczu przed 26.10.2026.
+    *   🏀 **Tasomix Rosiek Stal Ostrów Wielkopolski:**
+        *   Klub boryka się z licznymi kontuzjami, co wpływa na trudną sytuację kadrową. Brak jednak potwierdzonych, konkretnych nazwisk kontuzjowanych zawodników na dzień 30.10.2026.
 
-### Energa Czarni Słupsk @ Dziki Warszawa
-*   **Kluczowe braki w składach:**
-    *   **Energa Czarni Słupsk:** Brak istotnych braków w składzie koszykarskim. Informacja o "fatalnym powrocie Dominika Greena" po meczu z Dzikami dotyczyła raczej występu niż kontuzji wykluczającej z gry.
-    *   **Dziki Warszawa:** Krzysztof Kempa doznał lekkiego urazu *podczas* meczu z Czarnymi Słupsk 25.10.2026, co oznacza, że był dostępny na to spotkanie, przynajmniej początkowo. Zane Waterman grał w meczu 25.10.2026 po ponadmiesięcznej przerwie, choć później, 28.10.2026, zabrakło go w składzie z powodu "problemów zdrowotnych" i "diagnostyki palca". Na potrzeby analizy meczu 25.10.2026, te braki nie były przedmeczowe.
-*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-*   **Werdykt:** [✅ ZATWIERDZONY] – Brak kluczowych, przedmeczowych absencji w obu drużynach, które znacząco wpłynęłyby na typ. Późniejsze problemy Dzików (Kempa, Waterman) były następstwem tego meczu lub wystąpiły po nim.
+2.  **Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
 
----
-
-### Energa Trefl Sopot @ MKS Dąbrowa Górnicza
-*   **Kluczowe braki w składach:**
-    *   **Energa Trefl Sopot:** Poważne osłabienia. Piotr Śmigielski pauzuje około miesiąca po zabiegu usunięcia wyrostka robaczkowego (od około 24.09.2026), wykluczony z meczów w październiku i listopadzie. Patryk Pułkotycki złamał palec i miał pauzować kilka tygodni (informacja z 28.09.2026). Michał Michalak był kontuzjowany i jego powrót był nieokreślony (informacja z 16.10.2026). Eric Lockett doznał poważnej kontuzji nogi w marcu 2026, która mogła wykluczyć go z reszty sezonu 2025/2026.
-    *   **MKS Dąbrowa Górnicza:** Brak istotnych braków w składzie koszykarskim.
-*   **Aktualna forma top scorerów:** Brak danych z API dla tego zespołu.
-*   **Werdykt:** [✅ ZATWIERDZONY] – Trefl Sopot boryka się z licznymi i poważnymi kontuzjami kluczowych graczy, co znacząco osłabia zespół. MKS Dąbrowa Górnicza wydaje się być w pełnym składzie.
+3.  **Werdykt dla typu: Anwil Włocławek**
+    *   ⚠️ **RYZYKOWNY**
+    *   **Uzasadnienie:** Anwil Włocławek zagra na własnym parkiecie w Hali Mistrzów, co jest atutem. Jednakże, drużyna zmaga się z poważnymi brakami kadrowymi, w tym kluczowych zawodników jak Jack Forrest, Josiah Strong i Lennard Freeman. Dodatkowo, Anwil ma tendencję do rozgrywania niezwykle wyrównanych spotkań – pięć z sześciu oficjalnych meczów w tym sezonie zakończyło się różnicą zaledwie jednego punktu, a bilans w lidze to 2-2. Mimo że Stal Ostrów Wielkopolski również boryka się z "licznymi kontuzjami", brak precyzyjnych informacji o ich skali utrudnia pełną ocenę. Osłabienia Anwilu i ich niestabilność w końcówkach meczów sprawiają, że typ na ich zwycięstwo jest ryzykowny.

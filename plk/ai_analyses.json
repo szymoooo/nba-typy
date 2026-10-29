@@ -1,57 +1,28 @@
 {
-  "generated_at": "2026-10-24T23:43:13.421411",
-  "date": "2026-10-25",
+  "generated_at": "2026-10-29T23:32:54.179863",
+  "date": "2026-10-30",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Górnik Zamek Książ Wałbrzych @ AMW Arka Gdynia",
+      "matchup": "Tasomix Rosiek Stal Ostrów Wielkopolski @ Anwil Włocławek",
       "phase": "Runda Zasadnicza",
-      "round": "4 kolejka",
-      "date": "2026-10-25T12:30:00",
-      "ai_pick": "AMW Arka Gdynia",
-      "formula_pick": "AMW Arka Gdynia",
+      "round": "5 kolejka",
+      "date": "2026-10-30T20:15:00",
+      "ai_pick": "Anwil Włocławek",
+      "formula_pick": "Anwil Włocławek",
       "agreement": true,
       "confidence": 8,
-      "reasoning": "AMW Arka Gdynia ma doskonały bilans u siebie (2-0) oraz znacznie lepsze wskaźniki ofensywne i zaawansowane (ORtg 125.7, NetRtg +17.1) w porównaniu do Górnika. Pomimo braku Jarosława Zyskowskiego, Arka nadal prezentuje silną ofensywę, co w połączeniu z przewagą własnego parkietu daje jej wyraźną przewagę w tym meczu.",
+      "reasoning": "Anwil Włocławek gra na własnym parkiecie, gdzie w tym sezonie ma bilans 2-0 i historycznie dobrze radzi sobie ze Stalą. Drużyna z Włocławka posiada lepsze wskaźniki efektywności NetRtg, a bukmacherzy wskazują ich jako faworyta do wygranej. Stal Ostrów Wielkopolski boryka się z brakiem konsekwencji w wynikach i tendencją do tracenia wysokich przewag, co jest niepokojącym sygnałem przed trudnym wyjazdem.",
       "key_factors": [
-        "Idealny bilans AMW Arki Gdynia u siebie (2-0)",
-        "Znacznie lepsze wskaźniki ofensywne i zaawansowane AMW Arki Gdynia (ORtg, NetRtg, eFG%, TS%)",
-        "Brak Jarosława Zyskowskiego w składzie AMW Arki Gdynia"
+        "Przewaga własnego parkietu Anwilu i bilans 2-0 u siebie",
+        "Lepsze wskaźniki zaawansowane (NetRtg) Anwilu",
+        "Tendencja Stali do tracenia dwucyfrowych przewag i wąska rotacja",
+        "Lennard Freeman (Anwil) jest dostępny do gry"
       ],
-      "injury_notes": "AMW Arka Gdynia gra bez Jarosława Zyskowskiego, który na początku sezonu (1 października 2026) przeszedł artroskopię kolana i jest wykluczony na początek rozgrywek. Nie ma innych istotnych kontuzji zgłoszonych na dzień 25 października 2026 dla obu drużyn.",
-      "agreement_with_odds": "no_odds"
-    },
-    {
-      "matchup": "Tasomix Rosiek Stal Ostrów Wielkopolski @ Legia Warszawa",
-      "phase": "Runda Zasadnicza",
-      "round": "4 kolejka",
-      "date": "2026-10-25T15:00:00",
-      "ai_pick": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-      "formula_pick": "Legia Warszawa",
-      "agreement": false,
-      "confidence": 6,
-      "reasoning": "Tasomix Rosiek Stal Ostrów Wielkopolski wykazuje bardzo dobrą formę na wyjazdach (2-0) oraz ma znacznie lepszą defensywę przeciwko rzutom za trzy punkty (28.0% vs 36.6% dla Legii). Legia Warszawa mierzy się z istotnymi kontuzjami (Szymon Tomczak wykluczony do końca roku, Jakub Andrzejewski poza kadrą na ten mecz), co może osłabić ich rotację, mimo atutu własnego parkietu i niedawnego zwycięstwa w Lidze Mistrzów.",
-      "key_factors": [
-        "Skuteczna obrona Stali Ostrów Wielkopolski przeciwko rzutom za trzy punkty",
-        "Kontuzje Szymona Tomczaka i Jakuba Andrzejewskiego w Legii Warszawa",
-        "Mocna forma Tasomix Rosiek Stal Ostrów Wielkopolski na wyjazdach"
-      ],
-      "injury_notes": "Legia Warszawa: Szymon Tomczak (środkowy) doznał skręcenia śródstopia z uszkodzeniem więzadeł we wrześniu 2026 i nie pojawi się na parkiecie do końca roku 2026. Jakub Andrzejewski nie znajdzie się w kadrze meczowej na to spotkanie. Tasomix Rosiek Stal Ostrów Wielkopolski: Jared Billups ma stłuczone lędźwie po upadku we wrześniu 2026, a jego powrót jest niepewny.",
-      "agreement_with_odds": "no_odds"
-    },
-    {
-      "matchup": "Energa Czarni Słupsk @ Dziki Warszawa",
-      "ai_pick": null,
-      "formula_pick": "Dziki Warszawa",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "Energa Trefl Sopot @ MKS Dąbrowa Górnicza",
-      "ai_pick": null,
-      "formula_pick": "MKS Dąbrowa Górnicza",
-      "note": "AI fallback"
+      "injury_notes": "Lennard Freeman (Anwil Włocławek), który nie dokończył poprzedniego meczu, jest do dyspozycji trenera Bosnicia. Josiah Strong (Anwil Włocławek) był kontuzjowany 16.10.2026 i brak aktualnych informacji o jego powrocie. Brak istotnych braków po stronie Tasomix Rosiek Stal Ostrów Wielkopolski.",
+      "agreement_with_odds": true
     }
   ]
 }
