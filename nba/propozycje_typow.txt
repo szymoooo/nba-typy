@@ -1,1 +1,10 @@
-Grizzlies @ Trail Blazers -> Typ: Trail Blazers
+Hornets @ Wizards -> Typ: Hornets
+Bulls @ Celtics -> Typ: Celtics
+Pistons @ Nets -> Typ: Pistons
+Knicks @ 76ers -> Typ: 76ers
+Magic @ Raptors -> Typ: Raptors
+Pacers @ Heat -> Typ: Pacers
+Rockets @ Mavericks -> Typ: Rockets
+Clippers @ Timberwolves -> Typ: Timberwolves
+Lakers @ Warriors -> Typ: Lakers
+Nuggets @ Suns -> Typ: Nuggets
