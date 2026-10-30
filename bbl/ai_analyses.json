@@ -1,23 +1,29 @@
 {
-  "generated_at": "2026-10-26T14:51:10.723032",
-  "date": "2026-10-26",
+  "generated_at": "2026-10-30T01:20:58.597574",
+  "date": "2026-10-30",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "NINERS Chemnitz @ Fitness First Würzburg Baskets",
-      "phase": "Regular Season",
-      "ai_pick": "Fitness First Würzburg Baskets",
-      "formula_pick": "Fitness First Würzburg Baskets",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Fitness First Würzburg Baskets grają u siebie i mają lepszą formę w bieżącym sezonie BBL 2026/27 z dwoma zwycięstwami i dwoma porażkami w dostępnych czterech meczach BBL, podczas gdy NINERS Chemnitz ma bilans 1-4 w pięciu ostatnich meczach BBL. Würzburg ma również dominujący bilans H2H z poprzedniego sezonu (2025/26), wygrywając oba spotkania. Wskazany w danych statystycznych bilans 0-34 dla obu drużyn na sezon 2025/26 jest sprzeczny z informacjami znalezionymi w wyszukiwarce.",
+      "matchup": "SKYLINERS Frankfurt @ Science City Jena",
+      "phase": "Hauptrunde",
+      "ai_pick": "SKYLINERS Frankfurt",
+      "formula_pick": "Science City Jena",
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "SKYLINERS Frankfurt wykazują lepszą formę w ostatnich meczach ligowych (3 zwycięstwa na 4) i odnieśli zdecydowane zwycięstwo w jedynym dotychczasowym bezpośrednim starciu w tym sezonie (Puchar Niemiec, 94-63). Mimo przewagi własnego parkietu dla Science City Jena, ich ostatnie wyniki ligowe są mniej stabilne (2 zwycięstwa i 3 porażki).",
       "key_factors": [
-        "Lepsza forma Würzburga",
-        "Przewaga własnego parkietu Würzburga",
-        "Pozytywny bilans H2H z poprzedniego sezonu"
+        "Lepsza forma FRAPORT SKYLINERS (3-1 w BBL)",
+        "Dominujące zwycięstwo FRAPORT SKYLINERS w H2H w tym sezonie (Puchar Niemiec)",
+        "Bardziej zrównoważona ofensywa FRAPORT SKYLINERS"
       ],
-      "injury_notes": "Brak istotnych braków na dzień 2026-10-26 dla kluczowych graczy obu drużyn."
+      "injury_notes": "Brak istotnych braków po stronie obu drużyn."
+    },
+    {
+      "matchup": "RASTA Vechta @ Phoenix Hagen",
+      "ai_pick": null,
+      "formula_pick": "Phoenix Hagen",
+      "note": "AI fallback"
     }
   ]
 }

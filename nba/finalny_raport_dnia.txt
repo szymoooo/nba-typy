@@ -1,23 +1,22 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-29 19:31 ET) ---
-Oto analiza Twoich typów na podstawie danych z dnia 2026-10-29:
+--- KRYTYCZNY AUDYT LIVE (2026-10-29 21:19 ET) ---
+Analiza meczu Grizzlies @ Trail Blazers (2026-10-29):
 
-### Cavaliers @ Hawks -> Typ: Cavaliers
+*   **Memphis Grizzlies:**
+    *   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   Statystyki: Rekord 4-0. Ty Jerome (29.8 PPG, 6.5 APG), Cameron Boozer (10.5 RPG).
 
-*   **Kluczowe braki w składach:**
-    *   **Cleveland Cavaliers:** Nae'Qwan Tomlin (Out - reakcja stresowa dolnej części pleców) 🩹, Khalifa Diop (Out - przydział do G League) 📋. Meleek Thomas (Questionable - zapalenie/ból prawej stopy) ❓ i Jaylon Tyson (Questionable - naciągnięcie szyjne) ❓.
-    *   **Atlanta Hawks:** Mouhamed Gueye (Out - złamanie lewej stopy) 🤕, Henri Veesaar (Out - zerwanie prawego ACL) 💔. RayJ Dennis (Questionable - przydział do G League) ❓, Keshon Gilbert (Questionable - przydział do G League) ❓, Jalen Wilson (Questionable - przydział do G League) ❓, Zuby Ejiofor (Questionable - przydział do G League) ❓.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny mają istotne braki. Hawks tracą dwóch zawodników z poważnymi kontuzjami, natomiast Cavaliers mają kilku graczy poza składem lub z niepewnym statusem. Wybór Cavaliers jest ryzykowny z uwagi na kontuzje po obu stronach.
+*   **Portland Trail Blazers:**
+    *   Kluczowe braki w składach:
+        *   Shaedon Sharpe: Out (Zerwane łąkotki) 🦵🩹
+        *   Robert Williams III: Out (Zarządzanie urazem lewego kolana) 🦵
+        *   Jayson Kent: Out (Kontrakt Two-Way G-League)
+        *   Chris Youngblood: Out (Kontrakt Two-Way G-League)
+    *   Statystyki: Rekord 3-0. Damian Lillard (21.7 PPG, 4.0 APG), Deni Avdija (22.3 PPG, 6.3 APG), Toumani Camara (16.3 PPG).
 
-### Kings @ Pelicans -> Typ: Pelicans
+---
 
-*   **Kluczowe braki w składach:**
-    *   **Sacramento Kings:** Keegan Murray (Out - zapalenie torebki stawowej lewej kostki) 🤕, Ben Simmons (Out - operacja naprawcza ścięgna Achillesa prawej nogi) 💔, Dylan Cardwell (Out - naciągnięcie lewej łydki) 🩹, Maxime Raynaud (Out - podwichnięcie prawej rzepki) 🩹, Sean Pedulla (Out - przydział do G League) 📋.
-    *   **New Orleans Pelicans:** Yves Missi (Out - stłuczenie/obrzęk kostny lewego kolana) 🤕, Jordan Poole (Doubtful - skręcenie lewej kostki) ❓. Malik Dia (Questionable - przydział do G League) ❓, Jaron Pierre Jr. (Questionable - przydział do G League) ❓.
-*   **Werdykt:** [✅ ZATWIERDZONY] – Kings cierpią na bardzo poważne osłabienia w postaci kontuzji kluczowych graczy takich jak Keegan Murray i Ben Simmons. Chociaż Pelicans mogą być osłabieni brakiem Jordana Poole'a (status "Doubtful"), to przewaga w dostępności kluczowych zawodników faworyzuje Pelicans.
+**Werdykt dla typu: Trail Blazers**
 
-### Grizzlies @ Trail Blazers -> Typ: Trail Blazers
-
-*   **Kluczowe braki w składach:**
-    *   **Memphis Grizzlies:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   **Portland Trail Blazers:** Shaedon Sharpe (Out - operacja łąkotki prawej) 💔. Jayson Kent (Questionable - przydział do G League) ❓, John Tonje (Questionable - przydział do G League) ❓, Hansen Yang (Questionable - przydział do G League) ❓, Chris Youngblood (Questionable - przydział do G League) ❓.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Trail Blazers są osłabieni brakiem kluczowego gracza, Shaedona Sharpe'a. Brak oficjalnego raportu o kontuzjach dla Grizzlies czyni ten typ ryzykownym, ponieważ nie mamy pełnego obrazu ich składu na dzisiejszy mecz.
+⚠️ **RYZYKOWNY**
+*   Memphis Grizzlies są niepokonani (4-0) i mają pełny skład na ten mecz.
+*   Portland Trail Blazers, mimo solidnego startu (3-0), zmagają się z poważnymi absencjami, w tym kluczowego gracza Shaedona Sharpe'a, który jest poza grą z powodu kontuzji łąkotki. Brak Roberta Williamsa III również osłabia ich rotację.
