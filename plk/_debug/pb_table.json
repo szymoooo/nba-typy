@@ -357,30 +357,17 @@
       "losses_home": 0,
       "losses_away": 2,
       "losses_walkovers": 0,
-      "possessions": 367,
-      "opponents_possessions": 368,
+      "possessions": 361,
+      "opponents_possessions": 362,
       "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
       "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14",
-      "live_game": {
-        "game_id": 39597,
-        "score": "83-82",
-        "win": true,
-        "opponent_abbr": "OST",
-        "role": "home",
-        "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-        "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-        "date": "30.10.2026 20:15",
-        "draw": false,
-        "fiba_game_id": "2948510",
-        "win_prob": 50.0,
-        "info": "Q4 00:14"
-      },
+      "live_game": null,
       "logo_without_background_path": "teams-logos/t33_l1_s2027.png?v=14",
       "streak": "WLLWW",
-      "seconds": 61430.0,
-      "pace": 71.7,
+      "seconds": 61500.0,
+      "pace": 70.4,
       "ot_number": 1,
-      "real_position": 10,
+      "real_position": 2,
       "games_list": [
         {
           "game_id": 39597,
@@ -390,8 +377,7 @@
           "role": "home",
           "opponent": "Tasomix Rosiek Stal Ostrów Wielkopolski",
           "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
-          "date": "30.10.2026 20:15",
-          "draw": false
+          "date": "30.10.2026 20:15"
         },
         {
           "game_id": 39590,
@@ -687,15 +673,15 @@
         }
       ],
       "points": 8,
-      "offensive_rating": 108.7,
-      "defensive_rating": 108.2,
+      "offensive_rating": 110.5,
+      "defensive_rating": 109.9,
       "wins_percent": 60.0,
-      "small_points_per_100_possessions": 108.7,
+      "small_points_per_100_possessions": 110.5,
       "avg_small_points_scored": 79.8,
       "avg_small_points_lost": 79.6,
-      "avg_possessions": 73.4,
-      "avg_opponents_possessions": 73.6,
-      "net_rating": 0.5,
+      "avg_possessions": 72.2,
+      "avg_opponents_possessions": 72.4,
+      "net_rating": 0.6,
       "small_points_plus_minus": 1,
       "small_points_ratio": 1.003,
       "position": 2
@@ -724,7 +710,7 @@
       "seconds": 49500.0,
       "pace": 72.0,
       "ot_number": 1,
-      "real_position": 2,
+      "real_position": 3,
       "games_list": [
         {
           "game_id": 39592,
@@ -1067,7 +1053,7 @@
       "seconds": 48000.0,
       "pace": 74.2,
       "ot_number": 0,
-      "real_position": 5,
+      "real_position": 4,
       "games_list": [
         {
           "game_id": 39593,
@@ -1410,7 +1396,7 @@
       "seconds": 48000.0,
       "pace": 75.2,
       "ot_number": 0,
-      "real_position": 3,
+      "real_position": 5,
       "games_list": [
         {
           "game_id": 39590,
@@ -1743,30 +1729,17 @@
       "losses_home": 1,
       "losses_away": 2,
       "losses_walkovers": 0,
-      "possessions": 374,
-      "opponents_possessions": 377,
+      "possessions": 368,
+      "opponents_possessions": 371,
       "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11309.png",
       "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14",
-      "live_game": {
-        "game_id": 39597,
-        "score": "82-83",
-        "win": false,
-        "opponent_abbr": "WLO",
-        "role": "away",
-        "opponent": "Anwil Włocławek",
-        "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-        "date": "30.10.2026 20:15",
-        "draw": false,
-        "fiba_game_id": "2948510",
-        "win_prob": 50.0,
-        "info": "Q4 00:14"
-      },
+      "live_game": null,
       "logo_without_background_path": "teams-logos/t93_l1_s2027.png?v=14",
       "streak": "LLWLW",
-      "seconds": 61430.0,
-      "pace": 73.1,
+      "seconds": 61500.0,
+      "pace": 71.8,
       "ot_number": 1,
-      "real_position": 11,
+      "real_position": 6,
       "games_list": [
         {
           "game_id": 39597,
@@ -1776,8 +1749,7 @@
           "role": "away",
           "opponent": "Anwil Włocławek",
           "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s22/350-350/33.png",
-          "date": "30.10.2026 20:15",
-          "draw": false
+          "date": "30.10.2026 20:15"
         },
         {
           "game_id": 39593,
@@ -2073,15 +2045,15 @@
         }
       ],
       "points": 7,
-      "offensive_rating": 104.8,
-      "defensive_rating": 109.0,
+      "offensive_rating": 106.5,
+      "defensive_rating": 110.8,
       "wins_percent": 40.0,
-      "small_points_per_100_possessions": 104.8,
+      "small_points_per_100_possessions": 106.5,
       "avg_small_points_scored": 78.4,
       "avg_small_points_lost": 82.2,
-      "avg_possessions": 74.8,
-      "avg_opponents_possessions": 75.4,
-      "net_rating": -4.2,
+      "avg_possessions": 73.6,
+      "avg_opponents_possessions": 74.2,
+      "net_rating": -4.3,
       "small_points_plus_minus": -19,
       "small_points_ratio": 0.954,
       "position": 6
@@ -2110,7 +2082,7 @@
       "seconds": 48000.0,
       "pace": 77.8,
       "ot_number": 0,
-      "real_position": 4,
+      "real_position": 7,
       "games_list": [
         {
           "game_id": 39594,
@@ -2453,7 +2425,7 @@
       "seconds": 48000.0,
       "pace": 75.5,
       "ot_number": 0,
-      "real_position": 6,
+      "real_position": 8,
       "games_list": [
         {
           "game_id": 39589,
@@ -2796,7 +2768,7 @@
       "seconds": 48000.0,
       "pace": 71.2,
       "ot_number": 0,
-      "real_position": 7,
+      "real_position": 9,
       "games_list": [
         {
           "game_id": 39592,
@@ -3139,7 +3111,7 @@
       "seconds": 48000.0,
       "pace": 78.0,
       "ot_number": 0,
-      "real_position": 8,
+      "real_position": 10,
       "games_list": [
         {
           "game_id": 39591,
@@ -3482,7 +3454,7 @@
       "seconds": 48000.0,
       "pace": 76.8,
       "ot_number": 0,
-      "real_position": 9,
+      "real_position": 11,
       "games_list": [
         {
           "game_id": 39588,

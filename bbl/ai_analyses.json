@@ -1,23 +1,35 @@
 {
-  "generated_at": "2026-10-30T14:49:01.630712",
-  "date": "2026-10-30",
+  "generated_at": "2026-10-30T23:05:13.761036",
+  "date": "2026-10-31",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Skyliners Frankfurt @ Science City Jena",
+      "matchup": "EWE Baskets Oldenburg @ ratiopharm ulm",
       "phase": "Regular Season",
-      "ai_pick": "Skyliners Frankfurt",
-      "formula_pick": "Science City Jena",
+      "ai_pick": "EWE Baskets Oldenburg",
+      "formula_pick": "ratiopharm ulm",
       "agreement": false,
-      "confidence": 8,
-      "reasoning": "Skyliners Frankfurt prezentują znacznie lepszą formę w obecnym sezonie BBL z bilansem 3-1, w porównaniu do Science City Jena (2-3). Dodatkowo, Skyliners Frankfurt odnieśli zdecydowane zwycięstwo w jedynym dotychczasowym bezpośrednim starciu w tym sezonie, pokonując Science City Jena 94-63 w Pucharze BBL. Mają również jasno zidentyfikowanych liderów z solidnymi statystykami.",
+      "confidence": 6,
+      "reasoning": "EWE Baskets Oldenburg enters this match with a slightly better record in the current BBL season (3-3) and marginally better recent form, having won two of their last five league games compared to ratiopharm ulm's one win in their last five BBL outings. While ratiopharm ulm benefits from playing at home, Oldenburg's key players, such as Nicholas Tischler and Tylan Pope, have shown solid individual performances recently.",
       "key_factors": [
-        "Lepsza aktualna forma Skyliners Frankfurt (3-1 w BBL)",
-        "Dominujące zwycięstwo Skyliners Frankfurt w jedynym H2H w tym sezonie (94-63)",
-        "Obecność skutecznych liderów w zespole Skyliners Frankfurt (Judah Mintz, Race Thompson)"
+        "EWE Baskets Oldenburg - slightly better recent form (2 wins in last 5 BBL games)",
+        "EWE Baskets Oldenburg - better season record (3-3 vs 2-4)",
+        "ratiopharm ulm - home court advantage"
       ],
       "injury_notes": "brak istotnych braków"
+    },
+    {
+      "matchup": "Fitness First Würzburg Baskets @ BB Löwen Braunschweig",
+      "ai_pick": null,
+      "formula_pick": "BB Löwen Braunschweig",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "MHP RIESEN Ludwigsburg @ NINERS Chemnitz",
+      "ai_pick": null,
+      "formula_pick": "NINERS Chemnitz",
+      "note": "AI fallback"
     }
   ]
 }

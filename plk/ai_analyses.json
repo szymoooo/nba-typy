@@ -1,28 +1,70 @@
 {
-  "generated_at": "2026-10-29T23:32:54.179863",
-  "date": "2026-10-30",
+  "generated_at": "2026-10-30T23:03:28.668574",
+  "date": "2026-10-31",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Tasomix Rosiek Stal Ostrów Wielkopolski @ Anwil Włocławek",
+      "matchup": "Enea Łaciate Astoria Bydgoszcz @ Energa Trefl Sopot",
       "phase": "Runda Zasadnicza",
       "round": "5 kolejka",
-      "date": "2026-10-30T20:15:00",
-      "ai_pick": "Anwil Włocławek",
-      "formula_pick": "Anwil Włocławek",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "Anwil Włocławek gra na własnym parkiecie, gdzie w tym sezonie ma bilans 2-0 i historycznie dobrze radzi sobie ze Stalą. Drużyna z Włocławka posiada lepsze wskaźniki efektywności NetRtg, a bukmacherzy wskazują ich jako faworyta do wygranej. Stal Ostrów Wielkopolski boryka się z brakiem konsekwencji w wynikach i tendencją do tracenia wysokich przewag, co jest niepokojącym sygnałem przed trudnym wyjazdem.",
+      "date": "2026-10-31T12:30:00",
+      "ai_pick": "Energa Trefl Sopot",
+      "formula_pick": "Enea Łaciate Astoria Bydgoszcz",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "Energa Trefl Sopot, mimo fatalnego bilansu 0-4, zagra na własnym parkiecie, co w tym przypadku stanowi istotny atut. Kluczowym czynnikiem jest jednak poważna kontuzja Kacpra Kłaczka z Enea Łaciate Astorii Bydgoszcz, który zerwał ścięgno Achillesa i nie zagra do końca sezonu, co znacząco osłabia drużynę gości. Dodatkowo, gospodarze są faworyzowani przez bukmacherów.",
       "key_factors": [
-        "Przewaga własnego parkietu Anwilu i bilans 2-0 u siebie",
-        "Lepsze wskaźniki zaawansowane (NetRtg) Anwilu",
-        "Tendencja Stali do tracenia dwucyfrowych przewag i wąska rotacja",
-        "Lennard Freeman (Anwil) jest dostępny do gry"
+        "Poważna kontuzja Kacpra Kłaczka (Enea Łaciate Astoria Bydgoszcz)",
+        "Przewaga własnego parkietu (Energa Trefl Sopot)",
+        "Desperacja Energa Trefl Sopot po czterech porażkach z rzędu",
+        "Faworyt w kursach bukmacherskich"
       ],
-      "injury_notes": "Lennard Freeman (Anwil Włocławek), który nie dokończył poprzedniego meczu, jest do dyspozycji trenera Bosnicia. Josiah Strong (Anwil Włocławek) był kontuzjowany 16.10.2026 i brak aktualnych informacji o jego powrocie. Brak istotnych braków po stronie Tasomix Rosiek Stal Ostrów Wielkopolski.",
+      "injury_notes": "Enea Łaciate Astoria Bydgoszcz: Kacper Kłaczek zerwał ścięgno Achillesa i nie zagra do końca sezonu 2026/27. Piotr Wińkowski wraca do gry po skręceniu stawu skokowego. Energa Trefl Sopot: brak istotnych braków.",
       "agreement_with_odds": true
+    },
+    {
+      "matchup": "Dziki Warszawa @ Legia Warszawa",
+      "phase": "Runda Zasadnicza",
+      "round": "5 kolejka",
+      "date": "2026-10-31T17:30:00",
+      "ai_pick": "Legia Warszawa",
+      "formula_pick": "Legia Warszawa",
+      "agreement": true,
+      "confidence": 6,
+      "reasoning": "Legia Warszawa zagra na własnym parkiecie, gdzie ma doskonały bilans 2-0 i wykazuje dobrą formę w ostatnich meczach ligowych (WWL). Dziki Warszawa mogą być osłabione przez niedawne kontuzje kluczowych zawodników, a także zmęczenie po podróży i wysokiej porażce w meczu FIBA Europe Cup rozegranym zaledwie trzy dni wcześniej.",
+      "key_factors": [
+        "Atut własnego parkietu Legii Warszawa i ich dobra forma domowa (2-0).",
+        "Potencjalne zmęczenie Dzików Warszawa po przegranym meczu w europejskich pucharach (28.10.2026) i związany z tym krótki czas na regenerację.",
+        "Problemy zdrowotne kluczowych graczy Dzików Warszawa (Zane Waterman, Krzysztof Kempa)."
+      ],
+      "injury_notes": "Legia Warszawa: Szymon Tomczak (środkowy) kontuzja śródstopia, poza grą do końca roku. Dziki Warszawa: Krzysztof Kempa i Zane Waterman (najlepszy gracz po powrocie z kontuzji) mieli problemy zdrowotne i byli nieobecni w ostatnim meczu FIBA Europe Cup 28.10.2026.",
+      "agreement_with_odds": "no_odds"
+    },
+    {
+      "matchup": "AMW Arka Gdynia @ Energa Czarni Słupsk",
+      "phase": "Runda Zasadnicza",
+      "round": "5 kolejka",
+      "date": "2026-10-31T19:30:00",
+      "ai_pick": "AMW Arka Gdynia",
+      "formula_pick": "AMW Arka Gdynia",
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "AMW Arka Gdynia ma lepszy bilans sezonu (2-2 vs 0-4) oraz znacznie lepsze wskaźniki ofensywne i defensywne (NetRtg +11.0 vs -6.4). Chociaż obie drużyny borykają się z kontuzjami kluczowych graczy, Arka ma przewagę w ogólnej formie i kursach bukmacherskich, które wskazują ją jako faworyta. Czarni Słupsk mają serię czterech porażek i zmagają się z kontuzjami Dominika Grudzińskiego i Djordje Dimitrijevicia, co dodatkowo osłabia ich rotację.",
+      "key_factors": [
+        "Lepszy bilans i zaawansowane statystyki AMW Arki Gdynia",
+        "Gorsza forma (0-4) i kontuzje kluczowych graczy (Grudziński, Dimitrijević) w Enerdze Czarnych Słupsk",
+        "Przewaga AMW Arki Gdynia w kursach bukmacherskich"
+      ],
+      "injury_notes": "Energa Czarni Słupsk: Dominik Grudziński i Djordje Dimitrijević mają kontuzje, które utrudniają im zadanie. Djordje Dimitrijević jest drugim najlepszym strzelcem drużyny (12.8 Pkt/mecz). AMW Arka Gdynia: Jarosław Zyskowski jest wykluczony z gry na początek sezonu 2026/2027 z powodu kontuzji wymagającej zabiegu. Drużyna boryka się również z innymi problemami zdrowotnymi, które mogą skrócić rotację.",
+      "agreement_with_odds": true
+    },
+    {
+      "matchup": "Zastal Zielona Góra @ Arriva Lotto Twarde Pierniki Toruń",
+      "ai_pick": null,
+      "formula_pick": "Zastal Zielona Góra",
+      "note": "AI fallback"
     }
   ]
 }
