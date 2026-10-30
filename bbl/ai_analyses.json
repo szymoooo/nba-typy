@@ -1,29 +1,38 @@
 {
-  "generated_at": "2026-10-30T01:20:58.597574",
+  "generated_at": "2026-10-30T10:41:25.393647",
   "date": "2026-10-30",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "SKYLINERS Frankfurt @ Science City Jena",
-      "phase": "Hauptrunde",
-      "ai_pick": "SKYLINERS Frankfurt",
-      "formula_pick": "Science City Jena",
+      "matchup": "Skyliners Frankfurt @ Medipolis SC Jena",
+      "phase": "Regular Season",
+      "ai_pick": "Skyliners Frankfurt",
+      "formula_pick": "Medipolis SC Jena",
       "agreement": false,
       "confidence": 8,
-      "reasoning": "SKYLINERS Frankfurt wykazują lepszą formę w ostatnich meczach ligowych (3 zwycięstwa na 4) i odnieśli zdecydowane zwycięstwo w jedynym dotychczasowym bezpośrednim starciu w tym sezonie (Puchar Niemiec, 94-63). Mimo przewagi własnego parkietu dla Science City Jena, ich ostatnie wyniki ligowe są mniej stabilne (2 zwycięstwa i 3 porażki).",
+      "reasoning": "Skyliners Frankfurt prezentują lepszą formę w ostatnich pięciu meczach BBL, z bilansem 3 zwycięstw i 2 porażek, w porównaniu do Medipolis SC Jena (2 zwycięstwa i 3 porażki). Ponadto, w jedynym bezpośrednim starciu w tym sezonie (BBL Pokal), Skyliners Frankfurt odnieśli zdecydowane zwycięstwo 94-63 nad Medipolis SC Jena, co wskazuje na ich przewagę. Liderzy Skyliners, tacy jak Judah Mintz, również wykazują dobrą formę strzelecką.",
       "key_factors": [
-        "Lepsza forma FRAPORT SKYLINERS (3-1 w BBL)",
-        "Dominujące zwycięstwo FRAPORT SKYLINERS w H2H w tym sezonie (Puchar Niemiec)",
-        "Bardziej zrównoważona ofensywa FRAPORT SKYLINERS"
+        "Lepsza forma Skyliners Frankfurt w ostatnich 5 meczach BBL (3-2)",
+        "Dominujące zwycięstwo Skyliners Frankfurt w bezpośrednim meczu tego sezonu (94-63)",
+        "Stabilna postawa kluczowych graczy Skyliners, w tym Judah Mintza"
       ],
-      "injury_notes": "Brak istotnych braków po stronie obu drużyn."
+      "injury_notes": "brak istotnych braków"
     },
     {
       "matchup": "RASTA Vechta @ Phoenix Hagen",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Phoenix Hagen",
       "formula_pick": "Phoenix Hagen",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 8,
+      "reasoning": "Phoenix Hagen gra u siebie i prezentuje lepszą formę w ostatnich meczach, włączając w to zaskakujące zwycięstwo w Pucharze BBL i wygraną w lidze. RASTA Vechta zmaga się z poważnymi kontuzjami kilku kluczowych zawodników, co znacząco wpłynęło na ich słaby start w sezonie BBL oraz ostatnie porażki w rozgrywkach europejskich.",
+      "key_factors": [
+        "Poważne kontuzje kluczowych zawodników RASTA Vechta (m.in. Tommy Kuhse, Kihei Clark, Lloyd Pandi, Philipp Herkenhoff, Lamin Sabally, Justin Edler-Davis).",
+        "Lepsza ostatnia forma Phoenix Hagen (zwycięstwo w BBL i Pucharze BBL).",
+        "Przewaga własnego boiska dla Phoenix Hagen."
+      ],
+      "injury_notes": "RASTA Vechta ma znaczące braki kadrowe: Tommy Kuhse, Kihei Clark, Lloyd Pandi, Philipp Herkenhoff i Lamin Sabally byli kontuzjowani i opuścili mecz Ligi Mistrzów 14 października 2026 roku. Justin Edler-Davis również był niedostępny w meczu pucharowym 18 października 2026 roku. Tibor Pleiß, choć wcześniej kontuzjowany, wrócił do gry w październiku. Phoenix Hagen nie zgłasza obecnie istotnych braków kadrowych."
     }
   ]
 }
