@@ -4066,13 +4066,13 @@
   {
     "home_team": {
       "name": "Anwil Włocławek",
-      "score": 0,
+      "score": 83,
       "team_id": 1,
       "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14"
     },
     "away_team": {
       "name": "Tasomix Rosiek Stal Ostrów Wielkopolski",
-      "score": 0,
+      "score": 82,
       "team_id": 6,
       "logo": "https://pulsbasketu.com/images/teams-logos/t93_l1_s2027.png?v=14"
     },
@@ -4117,7 +4117,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 0,
+    "possessions": 150,
     "highest_lead": 0,
     "round_name": "5 kolejka",
     "stage_name": "Runda Zasadnicza",
