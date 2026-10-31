@@ -1,72 +1,37 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-30 18:59 ET) ---
-Dzień dobry! Jako rygorystyczny analityk NBA, analizuję Twoje typy na podstawie DZISIEJSZYCH danych z sieci (2026-10-30). Pamiętaj, że ignoruję dane z lat 2024, 2025 i skupiam się na aktualnych raportach z 30 października 2026.
+--- KRYTYCZNY AUDYT LIVE (2026-10-30 20:47 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z 30 października 2026 roku:
 
 ---
 
-**1. Hornets @ Wizards -> Typ: Hornets**
+### Lakers @ Warriors
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Brak informacji o składach utrudnia ocenę).
+*   **Kluczowe braki w składach:**
+    *   **Los Angeles Lakers:**
+        *   Cameron Carr: Out (Right Oblique Strain) 🤕
+        *   Adou Thiero: Out (Left Knee Injury Management) 🤕
+        *   Ziaire Williams: Out (Left Foot / Heel Injury Management) 🤕
+    *   **Golden State Warriors:**
+        *   Jimmy Butler III: Out (Right ACL Repair / Surgery) 🤕
+        *   Moses Moody: Out (Left Patellar Tendon Repair / Surgery) 🤕
+        *   Kristaps Porzingis: Out (Not With Team/Injury) 🤕
+        *   Gui Santos: Doubtful (status not specified in all reports, but listed as doubtful in one) 😬
 
----
-
-**2. Bulls @ Celtics -> Typ: Celtics**
-
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Brak informacji o składach utrudnia ocenę).
-
----
-
-**3. Pistons @ Nets -> Typ: Pistons**
-
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Brak informacji o składach utrudnia ocenę).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Warriors mają poważne osłabienia kluczowych graczy, co stawia pod znakiem zapytania ich zdolność do rywalizacji. Lakers również mają kilku graczy poza składem, ale brak Butlera, Moody'ego i Porzingisa u Warriors jest bardziej znaczący.
 
 ---
 
-**4. Knicks @ 76ers -> Typ: 76ers**
+### Nuggets @ Suns
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Brak informacji o składach utrudnia ocenę).
+*   **Kluczowe braki w składach:**
+    *   **Denver Nuggets:**
+        *   Spencer Jones: Out (Bilateral Hamstring Injury Management) 🤕
+        *   Julian Strawther: Out (Left Knee Sprain) 🤕
+        *   Cameron Johnson: Questionable (Right Ankle Sprain) ❓
+        *   Alpha Diallo: Questionable (Personal Reasons) ❓
+    *   **Phoenix Suns:**
+        *   Mark Williams: Out (Left Shoulder Surgery) 🤕
+        *   Oso Ighodaro: Questionable (Right Oblique Strain) ❓
 
----
-
-**5. Magic @ Raptors -> Typ: Raptors**
-
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Brak informacji o składach utrudnia ocenę).
-
----
-
-**6. Pacers @ Heat -> Typ: Pacers**
-
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Brak informacji o składach utrudnia ocenę).
-
----
-
-**7. Rockets @ Mavericks -> Typ: Rockets**
-
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Brak informacji o składach utrudnia ocenę).
-
----
-
-**8. Clippers @ Timberwolves -> Typ: Timberwolves**
-
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Brak informacji o składach utrudnia ocenę).
-
----
-
-**9. Lakers @ Warriors -> Typ: Lakers**
-
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Brak informacji o składach utrudnia ocenę).
-
----
-
-**10. Nuggets @ Suns -> Typ: Nuggets**
-
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Brak informacji o składach utrudnia ocenę).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Obie drużyny borykają się z kontuzjami, które mogą wpłynąć na przebieg meczu. Nuggets mają dwóch graczy poza składem i dwóch kluczowych graczy o statusie "Questionable". Suns również mają jednego ważnego gracza "Out" i jednego "Questionable". Chociaż Nuggets wydają się być nieco mocniej osłabieni przez graczy ze statusem "Questionable", typ jest ryzykowny ze względu na niepewność co do dostępności kluczowych zawodników.

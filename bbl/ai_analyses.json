@@ -1,28 +1,13 @@
 {
-  "generated_at": "2026-10-30T23:05:13.761036",
+  "generated_at": "2026-10-31T00:49:31.615485",
   "date": "2026-10-31",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "EWE Baskets Oldenburg @ ratiopharm ulm",
-      "phase": "Regular Season",
-      "ai_pick": "EWE Baskets Oldenburg",
-      "formula_pick": "ratiopharm ulm",
-      "agreement": false,
-      "confidence": 6,
-      "reasoning": "EWE Baskets Oldenburg enters this match with a slightly better record in the current BBL season (3-3) and marginally better recent form, having won two of their last five league games compared to ratiopharm ulm's one win in their last five BBL outings. While ratiopharm ulm benefits from playing at home, Oldenburg's key players, such as Nicholas Tischler and Tylan Pope, have shown solid individual performances recently.",
-      "key_factors": [
-        "EWE Baskets Oldenburg - slightly better recent form (2 wins in last 5 BBL games)",
-        "EWE Baskets Oldenburg - better season record (3-3 vs 2-4)",
-        "ratiopharm ulm - home court advantage"
-      ],
-      "injury_notes": "brak istotnych braków"
-    },
-    {
-      "matchup": "Fitness First Würzburg Baskets @ BB Löwen Braunschweig",
+      "matchup": "Fitness First Würzburg Baskets @ Basketball Löwen Braunschweig",
       "ai_pick": null,
-      "formula_pick": "BB Löwen Braunschweig",
+      "formula_pick": "Basketball Löwen Braunschweig",
       "note": "AI fallback"
     },
     {
