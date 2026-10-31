@@ -1,70 +1,63 @@
 {
-  "generated_at": "2026-10-30T23:03:28.668574",
-  "date": "2026-10-31",
+  "generated_at": "2026-10-31T23:41:14.964307",
+  "date": "2026-11-01",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Enea Łaciate Astoria Bydgoszcz @ Energa Trefl Sopot",
+      "matchup": "MKS Dąbrowa Górnicza @ PGE Start Lublin",
       "phase": "Runda Zasadnicza",
       "round": "5 kolejka",
-      "date": "2026-10-31T12:30:00",
-      "ai_pick": "Energa Trefl Sopot",
-      "formula_pick": "Enea Łaciate Astoria Bydgoszcz",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Energa Trefl Sopot, mimo fatalnego bilansu 0-4, zagra na własnym parkiecie, co w tym przypadku stanowi istotny atut. Kluczowym czynnikiem jest jednak poważna kontuzja Kacpra Kłaczka z Enea Łaciate Astorii Bydgoszcz, który zerwał ścięgno Achillesa i nie zagra do końca sezonu, co znacząco osłabia drużynę gości. Dodatkowo, gospodarze są faworyzowani przez bukmacherów.",
-      "key_factors": [
-        "Poważna kontuzja Kacpra Kłaczka (Enea Łaciate Astoria Bydgoszcz)",
-        "Przewaga własnego parkietu (Energa Trefl Sopot)",
-        "Desperacja Energa Trefl Sopot po czterech porażkach z rzędu",
-        "Faworyt w kursach bukmacherskich"
-      ],
-      "injury_notes": "Enea Łaciate Astoria Bydgoszcz: Kacper Kłaczek zerwał ścięgno Achillesa i nie zagra do końca sezonu 2026/27. Piotr Wińkowski wraca do gry po skręceniu stawu skokowego. Energa Trefl Sopot: brak istotnych braków.",
-      "agreement_with_odds": true
-    },
-    {
-      "matchup": "Dziki Warszawa @ Legia Warszawa",
-      "phase": "Runda Zasadnicza",
-      "round": "5 kolejka",
-      "date": "2026-10-31T17:30:00",
-      "ai_pick": "Legia Warszawa",
-      "formula_pick": "Legia Warszawa",
+      "date": "2026-11-01T15:30:00",
+      "ai_pick": "MKS Dąbrowa Górnicza",
+      "formula_pick": "MKS Dąbrowa Górnicza",
       "agreement": true,
-      "confidence": 6,
-      "reasoning": "Legia Warszawa zagra na własnym parkiecie, gdzie ma doskonały bilans 2-0 i wykazuje dobrą formę w ostatnich meczach ligowych (WWL). Dziki Warszawa mogą być osłabione przez niedawne kontuzje kluczowych zawodników, a także zmęczenie po podróży i wysokiej porażce w meczu FIBA Europe Cup rozegranym zaledwie trzy dni wcześniej.",
+      "confidence": 9,
+      "reasoning": "MKS Dąbrowa Górnicza prezentuje dominującą formę z bilansem 4-0 i serią czterech zwycięstw z rzędu. Posiadają znacznie lepsze wskaźniki ofensywne i defensywne (NetRtg +9.8) w porównaniu do PGE Start Lublin (bilans 1-3, NetRtg -14.7), co wskazuje na wyraźną przewagę w jakości gry.",
       "key_factors": [
-        "Atut własnego parkietu Legii Warszawa i ich dobra forma domowa (2-0).",
-        "Potencjalne zmęczenie Dzików Warszawa po przegranym meczu w europejskich pucharach (28.10.2026) i związany z tym krótki czas na regenerację.",
-        "Problemy zdrowotne kluczowych graczy Dzików Warszawa (Zane Waterman, Krzysztof Kempa)."
+        "Dominująca forma MKS Dąbrowa Górnicza (4-0, 4 zwycięstwa z rzędu).",
+        "Znacznie lepsze wskaźniki ofensywne i defensywne MKS Dąbrowa Górnicza (90.2 pkt/mecz, 80.8 traconych pkt/mecz).",
+        "Słaba forma PGE Start Lublin (1-3 bilans, 3 porażki w ostatnich 4 meczach)."
       ],
-      "injury_notes": "Legia Warszawa: Szymon Tomczak (środkowy) kontuzja śródstopia, poza grą do końca roku. Dziki Warszawa: Krzysztof Kempa i Zane Waterman (najlepszy gracz po powrocie z kontuzji) mieli problemy zdrowotne i byli nieobecni w ostatnim meczu FIBA Europe Cup 28.10.2026.",
+      "injury_notes": "Brak istotnych, aktualnych kontuzji na dzień 2026-11-01 dla obu drużyn. Starsze doniesienia o kontuzjach w PGE Start Lublin z marca 2026 (Roman Szymański, J.P. Tokoto, Filip Put, Conner Frankamp) są prawdopodobnie nieaktualne dla bieżącego meczu, zwłaszcza że Filip Put jest wymieniany jako kapitan i gra w drużynie.",
       "agreement_with_odds": "no_odds"
     },
     {
-      "matchup": "AMW Arka Gdynia @ Energa Czarni Słupsk",
+      "matchup": "WKS Śląsk Wrocław @ Euvic GTK Gliwice",
       "phase": "Runda Zasadnicza",
       "round": "5 kolejka",
-      "date": "2026-10-31T19:30:00",
-      "ai_pick": "AMW Arka Gdynia",
-      "formula_pick": "AMW Arka Gdynia",
+      "date": "2026-11-01T17:30:00",
+      "ai_pick": "Euvic GTK Gliwice",
+      "formula_pick": "Euvic GTK Gliwice",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "AMW Arka Gdynia ma lepszy bilans sezonu (2-2 vs 0-4) oraz znacznie lepsze wskaźniki ofensywne i defensywne (NetRtg +11.0 vs -6.4). Chociaż obie drużyny borykają się z kontuzjami kluczowych graczy, Arka ma przewagę w ogólnej formie i kursach bukmacherskich, które wskazują ją jako faworyta. Czarni Słupsk mają serię czterech porażek i zmagają się z kontuzjami Dominika Grudzińskiego i Djordje Dimitrijevicia, co dodatkowo osłabia ich rotację.",
+      "reasoning": "Euvic GTK Gliwice gra na własnym parkiecie i posiada lepsze wskaźniki efektywności defensywnej, w tym niższy procent rzutów za trzy punkty, które ich rywale oddają (30.4% vs 39.6% dla WKS Śląsk Wrocław). Ich ogólny NetRtg (+1.0) jest również korzystniejszy niż u rywali (-0.2), co daje im niewielką przewagę.",
       "key_factors": [
-        "Lepszy bilans i zaawansowane statystyki AMW Arki Gdynia",
-        "Gorsza forma (0-4) i kontuzje kluczowych graczy (Grudziński, Dimitrijević) w Enerdze Czarnych Słupsk",
-        "Przewaga AMW Arki Gdynia w kursach bukmacherskich"
+        "Lepsza obrona Euvic GTK Gliwice, szczególnie w limitowaniu rzutów za 3 punkty",
+        "Lepszy wskaźnik NetRtg dla Euvic GTK Gliwice",
+        "Przewaga własnej hali dla Euvic GTK Gliwice"
       ],
-      "injury_notes": "Energa Czarni Słupsk: Dominik Grudziński i Djordje Dimitrijević mają kontuzje, które utrudniają im zadanie. Djordje Dimitrijević jest drugim najlepszym strzelcem drużyny (12.8 Pkt/mecz). AMW Arka Gdynia: Jarosław Zyskowski jest wykluczony z gry na początek sezonu 2026/2027 z powodu kontuzji wymagającej zabiegu. Drużyna boryka się również z innymi problemami zdrowotnymi, które mogą skrócić rotację.",
-      "agreement_with_odds": true
+      "injury_notes": "Brak istotnych braków w składach obu drużyn na dzień 2026-11-01.",
+      "agreement_with_odds": "no_odds"
     },
     {
-      "matchup": "Zastal Zielona Góra @ Arriva Lotto Twarde Pierniki Toruń",
-      "ai_pick": null,
-      "formula_pick": "Zastal Zielona Góra",
-      "note": "AI fallback"
+      "matchup": "King Szczecin @ Górnik Zamek Książ Wałbrzych",
+      "phase": "Runda Zasadnicza",
+      "round": "5 kolejka",
+      "date": "2026-11-01T19:00:00",
+      "ai_pick": "King Szczecin",
+      "formula_pick": "Górnik Zamek Książ Wałbrzych",
+      "agreement": false,
+      "confidence": 7,
+      "reasoning": "King Szczecin posiada solidniejsze zaawansowane wskaźniki efektywności (NetRtg +10.6 vs +7.4) oraz zdecydowanie lepszą obronę (DRtg 100.0) niż Górnik. Chociaż Górnik gra u siebie i ma serię trzech zwycięstw, King jest skuteczny na wyjazdach (2-0), a ich defensywa może zneutralizować ofensywną moc gospodarzy, zwłaszcza ograniczając rzuty za trzy punkty rywali do zaledwie 25.2%.",
+      "key_factors": [
+        "Zaawansowane wskaźniki efektywności Kinga Szczecin (NetRtg, DRtg)",
+        "Zdolność Kinga Szczecin do obrony rzutów za trzy punkty",
+        "Górnik Zamek Książ Wałbrzych gra u siebie i ma serię zwycięstw"
+      ],
+      "injury_notes": "brak istotnych braków",
+      "agreement_with_odds": "no_odds"
     }
   ]
 }
