@@ -1,54 +1,55 @@
 {
-  "generated_at": "2026-10-25T12:58:26.151325",
-  "date": "2026-10-25",
+  "generated_at": "2026-10-31T09:59:16.425025",
+  "date": "2026-10-31",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Kosner Baskonia @ Valencia Basket",
+      "matchup": "FIATC Girona @ Casademont Zaragoza",
       "phase": "Regular Season",
-      "ai_pick": "Valencia Basket",
-      "formula_pick": "Valencia Basket",
+      "ai_pick": "Casademont Zaragoza",
+      "formula_pick": "Casademont Zaragoza",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Valencia Basket wykazuje znacznie lepszą formę w ostatnich meczach, włączając w to zwycięstwa w ACB i EuroLeague. Dodatkowo, Valencia zagra na własnym boisku, co daje im przewagę. Kosner Baskonia ma mieszaną formę, a także osłabiła się utratą kluczowego zawodnika, Markusa Howarda.",
+      "reasoning": "Casademont Zaragoza gra u siebie, co stanowi istotną przewagę. FIATC Girona zmaga się z wieloma kontuzjami kluczowych graczy, w tym Isaaca Vázqueza, Maxi Fjellerupa, Pepa Busquetsa i Aljaža Kunca, co znacznie osłabia ich skład i rotację, pomimo dobrej formy strzeleckiej Maca McClunga. Choć obie drużyny mają identyczny bilans 3-2 w tym sezonie, liczne osłabienia Girony na skutek kontuzji przechylają szalę na korzyść gospodarzy.",
       "key_factors": [
-        "Silna forma Valencia Basket w ostatnich meczach ligowych i EuroLeague",
-        "Przewaga własnego boiska dla Valencia Basket",
-        "Utrata kluczowego gracza (Markus Howard) w Kosner Baskonia"
+        "Kontuzje kluczowych graczy FIATC Girona (Vázquez, Fjellerup, Busquets, Kunc)",
+        "Przewaga własnego parkietu dla Casademont Zaragoza",
+        "Ubytek kluczowych graczy Casademont Zaragoza (Homesley, Bell-Haynes, Bango) jest mniej dotkliwy w porównaniu do Girony"
       ],
-      "injury_notes": "Valencia Basket: Xabi López-Arostegui (kontuzja mięśniowa), Stefan Jovic (zapalenie kaletki w łokciu) i Amida Brimah (kontuzja ścięgna podkolanowego) są kontuzjowani, a Dylan Osetkowski (choroba) jest niepewny. Kosner Baskonia: Alex Len (nieujawnione problemy fizyczne) i Jamal Nowell (problem z brzuchem) mogą być nieobecni. Markus Howard oficjalnie opuścił klub 14 października."
+      "injury_notes": "Casademont Zaragoza: Jilson Bango (długoterminowa rehabilitacja), Trae Bell-Haynes (profilaktycznie, uraz łydki), Caleb Homesley (skręcenie kostki, 3 tygodnie absencji). FIATC Girona: Isaac Vázquez (złamanie V kości śródstopia, po operacji), Maxi Fjellerup (nieobecny), Pep Busquets (skręcenie kostki III stopnia, do grudnia), Aljaž Kunc (uraz mięśnia prostego uda), Andrzej Pluta (wątpliwy, problem z kostką), Stanley Whittaker (wątpliwy, ból kostki)."
     },
     {
-      "matchup": "Unicaja @ Río Breogán",
+      "matchup": "iLERNA Lleida @ UCAM Murcia",
       "phase": "Regular Season",
-      "ai_pick": "Río Breogán",
-      "formula_pick": "Río Breogán",
+      "ai_pick": "UCAM Murcia",
+      "formula_pick": "UCAM Murcia",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Río Breogán wchodzi w ten mecz z imponującą serią trzech zwycięstw w czterech dotychczasowych spotkaniach, demonstrując wyjątkową siłę w ataku, zdobywając ponad 100 punktów w każdym meczu sezonu 2026/2027. Dodatkowo, grają u siebie, co stanowi dla nich przewagę. Unicaja, z bilansem 2-2, może zmagać się z absencjami kluczowych zawodników, co osłabia ich potencjał.",
+      "confidence": 8,
+      "reasoning": "UCAM Murcia, despite facing injuries to key players Howard Sant-Roos and Juani Marcos, holds a better season record (2-3) than iLERNA Lleida (1-4). Crucially, iLERNA Lleida enters this match on a four-game losing streak in the Liga Endesa, and UCAM Murcia will play at home, where they have a historical 100% win rate against Lleida in ACB.",
       "key_factors": [
-        "Silna forma ofensywna Río Breogán (powyżej 100 punktów w każdym meczu sezonu)",
-        "Przewaga własnego parkietu dla Río Breogán",
-        "Potencjalne kontuzje u Unicaji (Tyson Pérez, Yannick Nzosa, Alberto Díaz)"
+        "Home court advantage for UCAM Murcia",
+        "iLERNA Lleida's four-game losing streak in Liga Endesa",
+        "Injuries to key UCAM Murcia players (Howard Sant-Roos, Juani Marcos)"
       ],
-      "injury_notes": "Río Breogán: Brak istotnych braków; Dominik Mavra powrócił do treningów po kontuzji kostki (stan na 23.10.2026). Unicaja: Możliwe braki w składzie: Tyson Pérez, Yannick Nzosa i Alberto Díaz (stan na 09.10.2026)."
+      "injury_notes": "UCAM Murcia ma kontuzje kluczowych graczy: Howarda Sant-Roosa i rozgrywającego Juani Marcosa. iLERNA Lleida ma kontuzję Adrià Rodrígueza, który jest wyłączony na trzy miesiące."
     },
     {
-      "matchup": "Real Madrid @ iLERNA Lleida",
+      "matchup": "La Laguna Tenerife @ Leyma Coruña",
       "phase": "Regular Season",
-      "ai_pick": "Real Madrid",
-      "formula_pick": "iLERNA Lleida",
+      "ai_pick": "La Laguna Tenerife",
+      "formula_pick": "Leyma Coruña",
       "agreement": false,
       "confidence": 9,
-      "reasoning": "iLERNA Lleida, choć jest w tym sezonie drużyną ACB, boryka się z poważnymi długoterminowymi kontuzjami kluczowych graczy, co wpłynęło na ich słaby początek sezonu (1-3). Real Madryt to potęga ligi, która notuje silną passę zwycięstw i nie zgłoszono u nich istotnych braków kadrowych w koszykówce.",
+      "reasoning": "La Laguna Tenerife wykazuje znacznie lepszą formę w obecnym sezonie ACB (bilans 4-1 i 2. miejsce w lidze) w porównaniu do Leymy Coruña (bilans 1-4 i 17. miejsce). Mimo pewnych drobnych kontuzji (jak np. uraz Xabiego Lópeza-Arosteguiego czy niedawna gorączka Shermadiniego i Bamby), głębia składu i ogólna siła La Laguna Tenerife powinny zapewnić im zwycięstwo nad słabiej radzącą sobie Leymą Coruña, nawet na wyjeździe.",
       "key_factors": [
-        "Znaczne kontuzje kluczowych graczy iLERNA Lleida (Atoumane Diagne, Adrià Rodríguez)",
-        "Superiorna siła i głębia składu Realu Madryt",
-        "Słaby bilans iLERNA Lleida na początku sezonu (1-3)",
-        "Dobra forma Realu Madryt i seria zwycięstw"
+        "Znacznie lepsza forma La Laguna Tenerife (4-1 w ACB) vs. słaba forma Leymy Coruña (1-4 w ACB).",
+        "Wyższa pozycja La Laguna Tenerife w tabeli (2. miejsce) vs. niska pozycja Leymy Coruña (17. miejsce).",
+        "Głębia składu i mocni liderzy w La Laguna Tenerife (m.in. Huertas, Happ, Guy, Shermadini).",
+        "Leyma Coruña jest w serii trzech porażek.",
+        "La Laguna Tenerife wykazuje dobrą dyspozycję ofensywną."
       ],
-      "injury_notes": "iLERNA Lleida ma dwóch kluczowych graczy wykluczonych na dłużej: Atoumane Diagne z powodu zerwania więzadła krzyżowego, który opuści resztę sezonu (od 14 września 2026), oraz Adrià Rodríguez, który doznał złamania kości promieniowej w nadgarstku i będzie pauzował około 3 miesięcy (od 19 października 2026). Ponadto, Shurna zmaga się z dolegliwościami pleców, a Kuath ma problemy z kostką, które uniemożliwiają mu grę na 100%. Real Madrid (koszykówka): brak istotnych braków na dziś. [brak danych]"
+      "injury_notes": "La Laguna Tenerife prawdopodobnie zagra bez Xabiego Lópeza-Arosteguiego (kontraktura lędźwiowa). Gio Shermadini i TJ Bamba byli niedawno wykluczeni z powodu gorączki, ale brak aktualizacji na dzień meczu. Leyma Coruña wydaje się mieć pełny skład, choć Tomas Dimsa wracał do formy po drobnych problemach na początku października."
     }
   ]
 }
