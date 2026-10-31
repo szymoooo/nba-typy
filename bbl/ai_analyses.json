@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-10-31T00:49:31.615485",
+  "generated_at": "2026-10-31T03:39:38.394037",
   "date": "2026-10-31",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
+    {
+      "matchup": "RASTA Vechta @ Phoenix Hagen",
+      "ai_pick": null,
+      "formula_pick": "Phoenix Hagen",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "EWE Baskets Oldenburg @ ratiopharm ulm",
+      "ai_pick": null,
+      "formula_pick": "ratiopharm ulm",
+      "note": "AI fallback"
+    },
     {
       "matchup": "Fitness First Würzburg Baskets @ Basketball Löwen Braunschweig",
       "ai_pick": null,
@@ -12,9 +24,19 @@
     },
     {
       "matchup": "MHP RIESEN Ludwigsburg @ NINERS Chemnitz",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "MHP RIESEN Ludwigsburg",
       "formula_pick": "NINERS Chemnitz",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 8,
+      "reasoning": "MHP RIESEN Ludwigsburg wykazuje znacznie lepszą formę w bieżącym sezonie BBL, z bilansem 4 zwycięstw i 2 porażek w porównaniu do 1 zwycięstwa i 5 porażek NINERS Chemnitz. Chemnitz, mimo przewagi własnego boiska i dobrych występów indywidualnych w EuroCup, w lidze prezentuje słabą dyspozycję.",
+      "key_factors": [
+        "Znacznie lepsza forma MHP RIESEN Ludwigsburg w BBL (4-1 w ostatnich 5 meczach ligowych)",
+        "Słaby bilans NINERS Chemnitz w BBL (1-5 w sezonie)",
+        "Brak kontuzji kluczowych graczy w obu zespołach",
+        "Przewaga własnego boiska NINERS Chemnitz"
+      ],
+      "injury_notes": "brak istotnych braków"
     }
   ]
 }
