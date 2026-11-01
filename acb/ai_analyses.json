@@ -1,72 +1,39 @@
 {
-  "generated_at": "2026-11-01T02:36:41.487908",
+  "generated_at": "2026-11-01T10:58:25.187960",
   "date": "2026-11-01",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Surne Bilbao @ Asisa Joventut",
-      "phase": "Regular Season",
-      "ai_pick": "Surne Bilbao",
-      "formula_pick": "Asisa Joventut",
-      "agreement": false,
-      "confidence": 7,
-      "reasoning": "Surne Bilbao przystępuje do meczu z korzystniejszym bilansem (3-2) i brakiem istotnych kontuzji w składzie. Asisa Joventut, mimo przewagi własnego parkietu, zmaga się z poważnymi osłabieniami, takimi jak absencje kluczowych graczy Ante Tomica i Boogie Ellisa, co znacząco wpłynie na ich głębokość i siłę ofensywną.",
-      "key_factors": [
-        "Kontuzje kluczowych graczy Asisa Joventut (Ante Tomic, Boogie Ellis, Yannick Kraag, Ludde Hakanson)",
-        "Lepsza aktualna forma Surne Bilbao (3 zwycięstwa i 2 porażki w ostatnich 5 meczach ACB)",
-        "Asisa Joventut gra u siebie"
-      ],
-      "injury_notes": "Asisa Joventut: Ludde Hakanson, Ante Tomic, Boogie Ellis i Yannick Kraag są spodziewani jako nieobecni na mecz 1 listopada 2026. Boogie Ellis doznał kontuzji przywodziciela 20 października 2026 i jego powrót jest nieokreślony. Humberto Ruiz również jest poza grą. Surne Bilbao: Brak istotnych braków; zespół wydaje się być w pełni sił."
-    },
-    {
-      "matchup": "Río Breogán @ Monbus Obradoiro",
-      "phase": "Regular Season",
-      "ai_pick": "Monbus Obradoiro",
-      "formula_pick": "Monbus Obradoiro",
-      "agreement": true,
-      "confidence": 6,
-      "reasoning": "Monbus Obradoiro gra u siebie, gdzie ma pozytywny bilans w derbach galicyjskich (3-1) i wygrało dwa ostatnie oficjalne spotkania H2H w ACB. Chociaż Río Breogán ma pełny skład i jest drużyną z dużą siłą ofensywną, Obradoiro będzie miało wsparcie własnej publiczności w zaciętym derbowym meczu.",
-      "key_factors": [
-        "Przewaga własnego parkietu Monbus Obradoiro (3-1 w H2H u siebie)",
-        "Brak kontuzji w Río Breogán",
-        "Wysoka skuteczność ofensywna Río Breogán (drugi najlepszy atak w lidze)"
-      ],
-      "injury_notes": "Monbus Obradoiro bez Olle Lundqvista, który ma pauzować jeszcze kilka tygodni. Río Breogán ma wszystkich zawodników do dyspozycji."
-    },
-    {
-      "matchup": "Recoletas Salud San Pablo Burgos @ Real Madrid",
-      "ai_pick": null,
-      "formula_pick": "Real Madrid",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "Kids&Us Manresa @ Kosner Baskonia",
-      "phase": "Regular Season",
-      "ai_pick": "Kosner Baskonia",
-      "formula_pick": "Kosner Baskonia",
-      "agreement": true,
-      "confidence": 9,
-      "reasoning": "Kosner Baskonia ma znacznie lepszy bilans w obecnym sezonie ACB (3-2) w porównaniu do Kids&Us Manresa (0-5). Dodatkowo, Kids&Us Manresa zmaga się z licznymi kontuzjami kluczowych graczy, co osłabia ich skład, a Baskonia gra u siebie.",
-      "key_factors": [
-        "Słaba forma Kids&Us Manresa (0-5 w sezonie ACB)",
-        "Poważne kontuzje kluczowych graczy Kids&Us Manresa (Hugo Benítez, Timmy Allen, Rafa Villar, Chibuzo Agbo, Gerard Fernàndez)",
-        "Dobra forma Kosner Baskonia (3-2 w sezonie ACB)",
-        "Przewaga własnego parkietu dla Kosner Baskonia"
-      ],
-      "injury_notes": "Kids&Us Manresa ma kilku kluczowych graczy kontuzjowanych: Hugo Benítez (kontuzja żeber od 26 września 2026), Timmy Allen (nieobecny w meczu 17 października 2026), Rafa Villar, Chibuzo Agbo i Gerard Fernàndez (nieobecni w meczu europejskim 27 października 2026). Brak istotnych doniesień o kontuzjach Kosner Baskonia na 1 listopada 2026."
-    },
-    {
       "matchup": "Valencia Basket @ MoraBanc Andorra",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Valencia Basket",
       "formula_pick": "MoraBanc Andorra",
-      "note": "AI fallback"
+      "agreement": false,
+      "confidence": 6,
+      "reasoning": "Valencia Basket wchodzi w to spotkanie z lepszym bilansem sezonu (3-2), co świadczy o lepszej ogólnej formie w porównaniu do MoraBanc Andorra (1-4). Mimo to, Valencia będzie osłabiona przez znaczące kontuzje kluczowych zawodników, co może wpłynąć na ich grę na wyjeździe. MoraBanc Andorra będzie miała przewagę własnego boiska i będzie chciała wykorzystać osłabienia rywala.",
+      "key_factors": [
+        "Kontuzje kluczowych graczy Valencia Basket (Nikola Mirotic)",
+        "Lepsza forma początkowa sezonu Valencia Basket",
+        "Przewaga własnego boiska MoraBanc Andorra"
+      ],
+      "injury_notes": "MoraBanc Andorra: Leon Radosevic zmaga się z wirusem żołądkowym, a jego udział w meczu nie jest gwarantowany. Rafa Luz kontynuuje indywidualną rekonwalescencję. Valencia Basket: Nikola Mirotic (uraz przywodziciela lewej nogi) i Nate Reuvers (kontuzja lewej stopy) są wyłączeni z gry. Stefan Jovic (zapalenie kaletki prawego łokcia) i Amida Brimah (uraz ścięgna podkolanowego w prawej nodze) również mieli wcześniej problemy zdrowotne, a ich powrót zależy od dalszej ewolucji stanu zdrowia."
     },
     {
       "matchup": "Barça @ Unicaja",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Unicaja",
       "formula_pick": "Unicaja",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Unicaja wchodzi w mecz z korzystną serią trzech zwycięstw z rzędu w Lidze Endesa i gra u siebie, co stanowi \"czynnik Carpena\" i dodaje im przewagi. Barça zmaga się z istotnymi kontuzjami kluczowych graczy i wątpliwościami co do stanu zdrowia innych, co może wpłynąć na ich rotację, szczególnie na rozegraniu i pod koszem. Mimo kontuzji po obu stronach, forma i przewaga własnego boiska faworyzują gospodarzy.",
+      "key_factors": [
+        "Dobra forma Unicaji: 3 zwycięstwa z rzędu w ACB.",
+        "Przewaga własnego boiska dla Unicaji (\"Factor Carpena\").",
+        "Istotne kontuzje w drużynie Barçy (Juan Núñez, Joan Makoundou wykluczeni; Umoja Gibson, Olek Balcerowski wątpliwi).",
+        "Unicaja, mimo własnych problemów z kontuzjami, prezentuje odporność i skuteczność."
+      ],
+      "injury_notes": "Unicaja: Alberto Díaz (kontuzja ścięgna podkolanowego, wykluczony na 6-8 tygodni). David Kravish (w trakcie rekonwalescencji po złamaniu kości strzałkowej). Cameron Hunt i Tyler Kalinoski (problemy z kostką i dłonią, stan niepewny, Kalinoski długoterminowo wykluczony). Tyson Pérez (problem przewlekły, prawdopodobna operacja). Yannick Nzosa (długotrwała nieobecność). Nowy nabytek Kevin Knox jest dostępny. Barça: Juan Núñez (kontuzja, wykluczony). Joan Makoundou (kontuzja ścięgna, wykluczony na 6 tygodni). Umoja Gibson (problemy, pod obserwacją). Olek Balcerowski (wątpliwy, ból barku)."
     }
   ]
 }

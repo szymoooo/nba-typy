@@ -1,38 +1,60 @@
 {
-  "generated_at": "2026-10-31T14:18:15.554020",
-  "date": "2026-10-31",
+  "generated_at": "2026-11-01T11:00:57.763540",
+  "date": "2026-11-01",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Fitness First Würzburg Baskets @ Basketball Löwen Braunschweig",
-      "phase": "Matchday 7",
-      "ai_pick": "Basketball Löwen Braunschweig",
-      "formula_pick": "Basketball Löwen Braunschweig",
+      "matchup": "Science City Jena @ BMA365 Bamberg Baskets",
+      "phase": "Hauptrunde",
+      "ai_pick": "BMA365 Bamberg Baskets",
+      "formula_pick": "BMA365 Bamberg Baskets",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "Basketball Löwen Braunschweig gra u siebie, co jest istotnym czynnikiem przewagi w BBL. Mimo potencjalnej absencji Gian Aydinoglu, zespół ma wyraźnych liderów punktowych, takich jak Devin Askew, który dobrze radzi sobie w tym sezonie. Ich ostatnia forma w BBL to 3 zwycięstwa i 2 porażki, co sugeruje stabilną dyspozycję, podczas gdy forma BBL Fitness First Würzburg Baskets jest mniej klarowna, choć w innych rozgrywkach wykazują dobrą ogólną formę.",
+      "confidence": 9,
+      "reasoning": "BMA365 Bamberg Baskets mają przewagę własnego parkietu i lepszy bilans bezpośrednich spotkań z Science City Jena. Dodatkowo, wykazują nieco lepszą formę w ostatnich pięciu meczach ligowych, a ich liderzy punktowi prezentują stabilną dyspozycję.",
       "key_factors": [
-        "Przewaga własnego parkietu dla Basketball Löwen Braunschweig",
-        "Wyraźna siła punktowa liderów Braunschweig (Devin Askew, Sheldon Edwards, Dejour Reaves)",
-        "Potencjalna kontuzja Gian Aydinoglu (Braunschweig)"
+        "Przewaga własnego parkietu",
+        "Lepszy bilans H2H (4-1 w ostatnich 5 meczach)",
+        "Lepsza forma (3 zwycięstwa w ostatnich 5 meczach BBL)",
+        "Silni liderzy punktowi (Jordan Wright)"
       ],
-      "injury_notes": "Basketball Löwen Braunschweig: Gian Aydinoglu doznał kontuzji barku 11 września 2026 roku i jego status na mecz 31 października 2026 jest niejasny. Eddy Edigin Jr. również miał aktualizację kontuzji 11 września 2026, ale szczegóły nie są podane. Fitness First Würzburg Baskets: brak istotnych braków zgłoszonych na dzień 31 października 2026."
+      "injury_notes": "brak istotnych braków"
     },
     {
-      "matchup": "MHP RIESEN Ludwigsburg @ NINERS Chemnitz",
-      "phase": "Matchday 7",
-      "ai_pick": "MHP RIESEN Ludwigsburg",
-      "formula_pick": "NINERS Chemnitz",
+      "matchup": "FC Bayern München Basketball @ ROSTOCK SEAWOLVES",
+      "phase": "Hauptrunde",
+      "ai_pick": "FC Bayern München Basketball",
+      "formula_pick": "ROSTOCK SEAWOLVES",
       "agreement": false,
-      "confidence": 8,
-      "reasoning": "MHP RIESEN Ludwigsburg prezentuje znacznie lepszą formę w easyCredit BBL, z bilansem 4 zwycięstw i 2 porażek oraz serią dwóch kolejnych wygranych. NINERS Chemnitz natomiast ma bilans 1 zwycięstwa i 5 porażek w lidze, przegrywając trzy ostatnie spotkania. Dodatkowo, kontuzja Yohana Choupasa osłabia rotację Chemnitz w meczach BBL, co nie jest problemem dla Ludwigsburga, który koncentruje się wyłącznie na rozgrywkach krajowych.",
+      "confidence": 9,
+      "reasoning": "FC Bayern München Basketball wchodzi w ten mecz z doskonałym bilansem 5-0 w sezonie BBL 2026/27, wykazując się świetną formą i mocną ofensywą. Chociaż Rostock Seawolves mają przyzwoity bilans 3-2 w ostatnich pięciu meczach BBL i przewagę własnego parkietu, Bayern ma dominujący bilans H2H i znacznie lepszą aktualną formę. Brak istotnych kontuzji u kluczowych zawodników obu drużyn nie wpływa na prognozę.",
       "key_factors": [
-        "Lepsza forma MHP RIESEN Ludwigsburg w BBL (4-2) w porównaniu do NINERS Chemnitz (1-5).",
-        "Kontuzja Yohana Choupasa osłabia rotację niemieckich graczy NINERS Chemnitz w BBL z powodu zasady 6+6, co negatywnie wpływa na ich występy ligowe.",
-        "MHP RIESEN Ludwigsburg przystępuje do meczu z serią dwóch zwycięstw w BBL, podczas gdy NINERS Chemnitz ma serię trzech porażek ligowych."
+        "Forma FC Bayern (5-0 w BBL 2026/27)",
+        "Dominujący bilans H2H (historyczny) FC Bayern",
+        "Jakość składu i siła ofensywna FC Bayern"
       ],
-      "injury_notes": "NINERS Chemnitz: Yohan Choupas jest kontuzjowany, co ogranicza możliwości rotacji niemieckich graczy w składzie, zgodnie z regulacjami BBL. MHP RIESEN Ludwigsburg: Brak istotnych braków w składzie na dzień meczu."
+      "injury_notes": "brak istotnych brakow"
+    },
+    {
+      "matchup": "SYNTAINICS MBC @ Veolia Towers Hamburg",
+      "phase": "Hauptrunde",
+      "ai_pick": "SYNTAINICS MBC",
+      "formula_pick": "Veolia Towers Hamburg",
+      "agreement": false,
+      "confidence": 9,
+      "reasoning": "SYNTAINICS MBC prezentuje znacznie lepszą formę w bieżącym sezonie, zajmując 3. miejsce w tabeli BBL z bilansem 4 zwycięstw i 2 porażek, podczas gdy Veolia Towers Hamburg plasuje się na 16. pozycji z 1 zwycięstwem i 5 porażkami. Dodatkowo, SYNTAINICS MBC wygrało 3 z ostatnich 5 meczów w BBL, natomiast Veolia Towers Hamburg przegrało 4 z ostatnich 5 spotkań ligowych, co wskazuje na wyraźną przewagę gości.",
+      "key_factors": [
+        "Aktualna forma drużyn w BBL (SYNTAINICS MBC 3-2, Veolia Towers Hamburg 1-4 w ostatnich 5 meczach).",
+        "Pozycja w tabeli BBL (SYNTAINICS MBC 3. miejsce, Veolia Towers Hamburg 16. miejsce).",
+        "Skuteczność liderów drużyn (np. Jure Planinic i Spencer Reaves dla MBC, Mathys Kangudia i Zakai Zeigler dla Hamburg Towers)."
+      ],
+      "injury_notes": "brak istotnych braków"
+    },
+    {
+      "matchup": "ALBA BERLIN @ Telekom Baskets Bonn",
+      "ai_pick": null,
+      "formula_pick": "Telekom Baskets Bonn",
+      "note": "AI fallback"
     }
   ]
 }
