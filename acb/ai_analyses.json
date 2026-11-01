@@ -1,55 +1,72 @@
 {
-  "generated_at": "2026-10-31T09:59:16.425025",
-  "date": "2026-10-31",
+  "generated_at": "2026-11-01T02:36:41.487908",
+  "date": "2026-11-01",
   "league": "ACB",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "FIATC Girona @ Casademont Zaragoza",
+      "matchup": "Surne Bilbao @ Asisa Joventut",
       "phase": "Regular Season",
-      "ai_pick": "Casademont Zaragoza",
-      "formula_pick": "Casademont Zaragoza",
-      "agreement": true,
-      "confidence": 7,
-      "reasoning": "Casademont Zaragoza gra u siebie, co stanowi istotną przewagę. FIATC Girona zmaga się z wieloma kontuzjami kluczowych graczy, w tym Isaaca Vázqueza, Maxi Fjellerupa, Pepa Busquetsa i Aljaža Kunca, co znacznie osłabia ich skład i rotację, pomimo dobrej formy strzeleckiej Maca McClunga. Choć obie drużyny mają identyczny bilans 3-2 w tym sezonie, liczne osłabienia Girony na skutek kontuzji przechylają szalę na korzyść gospodarzy.",
-      "key_factors": [
-        "Kontuzje kluczowych graczy FIATC Girona (Vázquez, Fjellerup, Busquets, Kunc)",
-        "Przewaga własnego parkietu dla Casademont Zaragoza",
-        "Ubytek kluczowych graczy Casademont Zaragoza (Homesley, Bell-Haynes, Bango) jest mniej dotkliwy w porównaniu do Girony"
-      ],
-      "injury_notes": "Casademont Zaragoza: Jilson Bango (długoterminowa rehabilitacja), Trae Bell-Haynes (profilaktycznie, uraz łydki), Caleb Homesley (skręcenie kostki, 3 tygodnie absencji). FIATC Girona: Isaac Vázquez (złamanie V kości śródstopia, po operacji), Maxi Fjellerup (nieobecny), Pep Busquets (skręcenie kostki III stopnia, do grudnia), Aljaž Kunc (uraz mięśnia prostego uda), Andrzej Pluta (wątpliwy, problem z kostką), Stanley Whittaker (wątpliwy, ból kostki)."
-    },
-    {
-      "matchup": "iLERNA Lleida @ UCAM Murcia",
-      "phase": "Regular Season",
-      "ai_pick": "UCAM Murcia",
-      "formula_pick": "UCAM Murcia",
-      "agreement": true,
-      "confidence": 8,
-      "reasoning": "UCAM Murcia, despite facing injuries to key players Howard Sant-Roos and Juani Marcos, holds a better season record (2-3) than iLERNA Lleida (1-4). Crucially, iLERNA Lleida enters this match on a four-game losing streak in the Liga Endesa, and UCAM Murcia will play at home, where they have a historical 100% win rate against Lleida in ACB.",
-      "key_factors": [
-        "Home court advantage for UCAM Murcia",
-        "iLERNA Lleida's four-game losing streak in Liga Endesa",
-        "Injuries to key UCAM Murcia players (Howard Sant-Roos, Juani Marcos)"
-      ],
-      "injury_notes": "UCAM Murcia ma kontuzje kluczowych graczy: Howarda Sant-Roosa i rozgrywającego Juani Marcosa. iLERNA Lleida ma kontuzję Adrià Rodrígueza, który jest wyłączony na trzy miesiące."
-    },
-    {
-      "matchup": "La Laguna Tenerife @ Leyma Coruña",
-      "phase": "Regular Season",
-      "ai_pick": "La Laguna Tenerife",
-      "formula_pick": "Leyma Coruña",
+      "ai_pick": "Surne Bilbao",
+      "formula_pick": "Asisa Joventut",
       "agreement": false,
-      "confidence": 9,
-      "reasoning": "La Laguna Tenerife wykazuje znacznie lepszą formę w obecnym sezonie ACB (bilans 4-1 i 2. miejsce w lidze) w porównaniu do Leymy Coruña (bilans 1-4 i 17. miejsce). Mimo pewnych drobnych kontuzji (jak np. uraz Xabiego Lópeza-Arosteguiego czy niedawna gorączka Shermadiniego i Bamby), głębia składu i ogólna siła La Laguna Tenerife powinny zapewnić im zwycięstwo nad słabiej radzącą sobie Leymą Coruña, nawet na wyjeździe.",
+      "confidence": 7,
+      "reasoning": "Surne Bilbao przystępuje do meczu z korzystniejszym bilansem (3-2) i brakiem istotnych kontuzji w składzie. Asisa Joventut, mimo przewagi własnego parkietu, zmaga się z poważnymi osłabieniami, takimi jak absencje kluczowych graczy Ante Tomica i Boogie Ellisa, co znacząco wpłynie na ich głębokość i siłę ofensywną.",
       "key_factors": [
-        "Znacznie lepsza forma La Laguna Tenerife (4-1 w ACB) vs. słaba forma Leymy Coruña (1-4 w ACB).",
-        "Wyższa pozycja La Laguna Tenerife w tabeli (2. miejsce) vs. niska pozycja Leymy Coruña (17. miejsce).",
-        "Głębia składu i mocni liderzy w La Laguna Tenerife (m.in. Huertas, Happ, Guy, Shermadini).",
-        "Leyma Coruña jest w serii trzech porażek.",
-        "La Laguna Tenerife wykazuje dobrą dyspozycję ofensywną."
+        "Kontuzje kluczowych graczy Asisa Joventut (Ante Tomic, Boogie Ellis, Yannick Kraag, Ludde Hakanson)",
+        "Lepsza aktualna forma Surne Bilbao (3 zwycięstwa i 2 porażki w ostatnich 5 meczach ACB)",
+        "Asisa Joventut gra u siebie"
       ],
-      "injury_notes": "La Laguna Tenerife prawdopodobnie zagra bez Xabiego Lópeza-Arosteguiego (kontraktura lędźwiowa). Gio Shermadini i TJ Bamba byli niedawno wykluczeni z powodu gorączki, ale brak aktualizacji na dzień meczu. Leyma Coruña wydaje się mieć pełny skład, choć Tomas Dimsa wracał do formy po drobnych problemach na początku października."
+      "injury_notes": "Asisa Joventut: Ludde Hakanson, Ante Tomic, Boogie Ellis i Yannick Kraag są spodziewani jako nieobecni na mecz 1 listopada 2026. Boogie Ellis doznał kontuzji przywodziciela 20 października 2026 i jego powrót jest nieokreślony. Humberto Ruiz również jest poza grą. Surne Bilbao: Brak istotnych braków; zespół wydaje się być w pełni sił."
+    },
+    {
+      "matchup": "Río Breogán @ Monbus Obradoiro",
+      "phase": "Regular Season",
+      "ai_pick": "Monbus Obradoiro",
+      "formula_pick": "Monbus Obradoiro",
+      "agreement": true,
+      "confidence": 6,
+      "reasoning": "Monbus Obradoiro gra u siebie, gdzie ma pozytywny bilans w derbach galicyjskich (3-1) i wygrało dwa ostatnie oficjalne spotkania H2H w ACB. Chociaż Río Breogán ma pełny skład i jest drużyną z dużą siłą ofensywną, Obradoiro będzie miało wsparcie własnej publiczności w zaciętym derbowym meczu.",
+      "key_factors": [
+        "Przewaga własnego parkietu Monbus Obradoiro (3-1 w H2H u siebie)",
+        "Brak kontuzji w Río Breogán",
+        "Wysoka skuteczność ofensywna Río Breogán (drugi najlepszy atak w lidze)"
+      ],
+      "injury_notes": "Monbus Obradoiro bez Olle Lundqvista, który ma pauzować jeszcze kilka tygodni. Río Breogán ma wszystkich zawodników do dyspozycji."
+    },
+    {
+      "matchup": "Recoletas Salud San Pablo Burgos @ Real Madrid",
+      "ai_pick": null,
+      "formula_pick": "Real Madrid",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Kids&Us Manresa @ Kosner Baskonia",
+      "phase": "Regular Season",
+      "ai_pick": "Kosner Baskonia",
+      "formula_pick": "Kosner Baskonia",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "Kosner Baskonia ma znacznie lepszy bilans w obecnym sezonie ACB (3-2) w porównaniu do Kids&Us Manresa (0-5). Dodatkowo, Kids&Us Manresa zmaga się z licznymi kontuzjami kluczowych graczy, co osłabia ich skład, a Baskonia gra u siebie.",
+      "key_factors": [
+        "Słaba forma Kids&Us Manresa (0-5 w sezonie ACB)",
+        "Poważne kontuzje kluczowych graczy Kids&Us Manresa (Hugo Benítez, Timmy Allen, Rafa Villar, Chibuzo Agbo, Gerard Fernàndez)",
+        "Dobra forma Kosner Baskonia (3-2 w sezonie ACB)",
+        "Przewaga własnego parkietu dla Kosner Baskonia"
+      ],
+      "injury_notes": "Kids&Us Manresa ma kilku kluczowych graczy kontuzjowanych: Hugo Benítez (kontuzja żeber od 26 września 2026), Timmy Allen (nieobecny w meczu 17 października 2026), Rafa Villar, Chibuzo Agbo i Gerard Fernàndez (nieobecni w meczu europejskim 27 października 2026). Brak istotnych doniesień o kontuzjach Kosner Baskonia na 1 listopada 2026."
+    },
+    {
+      "matchup": "Valencia Basket @ MoraBanc Andorra",
+      "ai_pick": null,
+      "formula_pick": "MoraBanc Andorra",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Barça @ Unicaja",
+      "ai_pick": null,
+      "formula_pick": "Unicaja",
+      "note": "AI fallback"
     }
   ]
 }

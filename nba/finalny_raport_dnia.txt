@@ -1,36 +1,42 @@
---- KRYTYCZNY AUDYT LIVE (2026-10-31 20:50 ET) ---
+--- KRYTYCZNY AUDYT LIVE (2026-10-31 22:32 ET) ---
 Oto analiza Twoich typów na podstawie danych z 31 października 2026:
 
 ---
 
-### **Kings @ Grizzlies**
+### Kings @ Grizzlies
 
 *   **Kluczowe braki w składach:**
-    *   **Sacramento Kings:** Ben Simmons (OUT na sezon – zerwanie Achillesa) 🩹, Keegan Murray (OUT – kostka) 🤕, Dylan Cardwell (OUT – łydka) 🤕, Maxime Raynaud (OUT – kolano) 🤕.
-    *   **Memphis Grizzlies:** Ty Jerome (QUESTIONABLE – ból pleców) 🤔, Scotty Pippen Jr. (QUESTIONABLE – ból pleców) 🤔, Quinten Post (DOUBTFUL – zwichnięcie kostki) ❓. Ty Jerome jest czołowym strzelcem Grizzlies.
+    *   **Kings:** Ben Simmons (kontuzja Achillesa, OUT NA SEZON), Keegan Murray (kontuzja kostki, OUT), Dylan Cardwell (kontuzja łydki, OUT), Maxime Raynaud (kontuzja kolana, OUT).
+    *   **Grizzlies:** Quinten Post (skręcenie prawej kostki, DOUBTFUL), Ty Jerome (ból pleców, QUESTIONABLE), Scotty Pippen Jr. (ból pleców, QUESTIONABLE).
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Grizzlies są niepokonani (5-0), a Kings (0-5) są mocno osłabieni. Jednak liczne statusy "QUESTIONABLE" dla kluczowych graczy Grizzlies, takich jak Ty Jerome, który jest ich liderem punktowym, wprowadzają element niepewności. Mimo słabej formy Kings, niepewność co do składu Grizzlies czyni ten typ ryzykownym.
+
+---
+
+### Cavaliers @ Bucks
+
+*   **Kluczowe braki w składach:**
+    *   **Cavaliers:** Jaylon Tyson (skręcenie prawej kostki, OUT), Nae'Qwan Tomlin (reakcja stresowa dolnej części pleców, OUT). Meleek Thomas (zapalenie/ból prawej stopy, PROBABLE). Khalifa Diop i Ernest Udeh Jr. (przypisanie do G League, OUT).
+    *   **Bucks:** Brak aktualnych raportów (Injury Report) na tę chwilę.
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Mimo statusu "Questionable" dla Ty Jerome'a i Scotty'ego Pippena Jr., Grizzlies są niepokonani (5-0) i grają u siebie, podczas gdy Kings mają bilans 0-5 i borykają się z poważnymi brakami w składzie, w tym z kluczowymi graczami.
+    *   Cavaliers mają kilku graczy poza rotacją i jednego "PROBABLE", ale Milwaukee ma pełny skład bez zgłoszonych kontuzji. Mimo to, siła Cavaliers z głównymi graczami w składzie, a także fakt, że Thomas jest "PROBABLE" i może zagrać, sprawia, że typ na Cavaliers jest zatwierdzony.
 
 ---
 
-### **Cavaliers @ Bucks**
+### Timberwolves @ Spurs
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Kluczowe braki w składach:**
+    *   **Timberwolves:** Anthony Edwards (operacja prawego kolana, OUT do dwóch miesięcy), Donte DiVincenzo (zerwane prawe ścięgno Achillesa, OUT), Rudy Gobert (skurcze dolnej części pleców, QUESTIONABLE).
+    *   **Spurs:** Tobias Harris (naciągnięcie lewej łydki, OUT), Jayden Quaintance (operacja prawego kolana, OUT). Stephon Castle (migrena, DOSTĘPNY).
 *   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak aktualnych informacji o kontuzjach uniemożliwia rzetelną ocenę ryzyka.
+    *   Timberwolves są poważnie osłabieni brakiem swoich gwiazd, Anthony'ego Edwardsa i Donte DiVincenzo. Dodatkowo Rudy Gobert jest "QUESTIONABLE". Chociaż Stephon Castle jest dostępny dla Spurs, osłabienia Timberwolves są zbyt znaczące, aby uznać ten typ za bezpieczny.
 
 ---
 
-### **Timberwolves @ Spurs**
+### Thunder @ Rockets
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak aktualnych informacji o kontuzjach uniemożliwia rzetelną ocenę ryzyka.
-
----
-
-### **Thunder @ Rockets**
-
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Brak aktualnych informacji o kontuzjach uniemożliwia rzetelną ocenę ryzyka.
+*   **Kluczowe braki w składach:**
+    *   **Thunder:** Chet Holmgren (naderwanie ścięgna rzepki, OUT 8-10 tygodni), Jalen Williams (zwichnięta kostka i złamana kość strzałkowa, OUT na większość sezonu), Cason Wallace (zerwany obrąbek lewego barku, OUT), Alex Caruso (skręcenie prawej kostki, OUT), Thomas Sorber (operacja kolana, OUT), Nikola Topic (operacja pleców, OUT).
+    *   **Rockets:** Fred VanVleet (zarządzanie kontuzją prawego kolana, OUT), Reed Sheppard (ból dolnej części pleców, OUT), Steven Adams (naciągnięcie mięśnia płaszczkowatego, OUT). Alperen Sengun (ból pleców, DOSTĘPNY).
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Thunder są zdziesiątkowani kontuzjami kluczowych graczy, w tym Holmgrena, Williamsa i Wallace'a. Rockets mają kilku graczy poza składem, ale Alperen Sengun jest dostępny, a ich podstawowy skład jest znacznie zdrowszy niż Thunder. To sprawia, że typ na Rockets jest zatwierdzony.
