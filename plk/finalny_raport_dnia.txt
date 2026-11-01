@@ -1,54 +1,32 @@
---- AUDYT PLK LIVE (2026-10-31 15:16 CET) ---
-Poniżej przedstawiam audyt typów na podstawie dostępnych danych na dzień 2026-10-31:
+--- AUDYT PLK LIVE (2026-11-01 23:39 CET) ---
+Mecz: MKS Dąbrowa Górnicza (gosc) @ PGE Start Lublin (gospodarz)
+---
+1.  **Kluczowe braki w składach:**
+    *   MKS Dąbrowa Górnicza: Brak istotnych braków w składzie koszykarskim.
+    *   PGE Start Lublin: Roman Szymański prawdopodobnie nadal niedostępny z powodu zerwanego ścięgna Achillesa, którego doznał w marcu 2026 roku i miał wykluczyć go do końca sezonu 2025/2026. Status J.P. Tokoto (choroba) oraz Connera Frankampa (uraz) z marca 2026 roku nie jest jasny na dzień 2026-11-01, ale Filip Put, który również doznał urazu w marcu 2026, jest wymieniony w obecnym składzie.
+2.  **Aktualna forma top scorerów (sezon 2026/2027):**
+    *   MKS Dąbrowa Górnicza: Jordan Hall (21.5 Pkt/mecz), Martin Peterka (13.5 Pkt/mecz), Jakub Musiał (12 Pkt/mecz).
+    *   PGE Start Lublin: Jaizec Lottie (14.3 Pkt/mecz), Courtney Ramey (12.8 Pkt/mecz), Lucas Williamson (12 Pkt/mecz).
+3.  **Werdykt:** ✅ ZATWIERDZONY
 
 ---
-
-### MECZ: Enea Łaciate Astoria Bydgoszcz (gość) @ Energa Trefl Sopot (gospodarz)
-
+Mecz: WKS Śląsk Wrocław (gosc) @ Euvic GTK Gliwice (gospodarz)
+---
 1.  **Kluczowe braki w składach:**
-    *   🏀 **Enea Łaciate Astoria Bydgoszcz**: Kacper Kłaczek (niski skrzydłowy) jest wykluczony z gry do końca sezonu z powodu zerwania ścięgna Achillesa. Piotr Wińkowski (środkowy) wrócił do treningów i ma być dostępny na mecz.
-    *   🏀 **Energa Trefl Sopot**: Michał Michalak (rzucający obrońca) jest poza grą od początku sezonu. Perttu Blomgren (rozgrywający) doznał częściowego naderwania więzadła MCL i czeka go około 6-8 tygodni przerwy.
+    *   WKS Śląsk Wrocław: Devin Robinson niedostępny z powodu niegroźnego urazu na dzień 2026-11-01.
+    *   Euvic GTK Gliwice: Brak istotnych braków w składzie koszykarskim.
 2.  **Aktualna forma top scorerów (sezon 2026/2027):**
-    *   **Enea Łaciate Astoria Bydgoszcz**: Jayden Taylor (17.8 Pkt/mecz), Martyce Kimbrough (16.3 Pkt/mecz), David Brembly (11 Pkt/mecz).
-    *   **Energa Trefl Sopot**: Jakub Schenk (17 Pkt/mecz), Trey Anderson (13 Pkt/mecz), Stefan Simanic (12.3 Pkt/mecz).
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Obie drużyny borykają się z poważnymi brakami kadrowymi, szczególnie w kluczowych pozycjach. Trefl Sopot ma kontuzjowanych dwóch rozgrywających/rzucających obrońców, Astoria straciła ważnego skrzydłowego na cały sezon. Chociaż Astoria odzyskuje Piotra Wińkowskiego, to strata Kłaczka jest znacząca. Oba zespoły przystępują do meczu osłabione, co czyni wynik bardziej nieprzewidywalnym.
+    *   WKS Śląsk Wrocław: Isaih Moore (14.0 Pkt/mecz w jednym meczu), Anthony Hickey (14.0 Pkt/mecz w jednym meczu), Kyrell Luc (15.0 Pkt/mecz w jednym meczu), Malik Parsons (12.0 Pkt/mecz w jednym meczu). Devin Robinson również notował 12.0 Pkt/mecz w jednym meczu, ale jest kontuzjowany na ten mecz.
+    *   Euvic GTK Gliwice: Kacper Gordon (15 Pkt/mecz), Selton Miguel (15 Pkt/mecz), Eric Nottage (12.5 Pkt/mecz).
+3.  **Werdykt:** ⚠️ RYZYKOWNY (Kontuzja kluczowego zawodnika WKS Śląsk Wrocław, Devin Robinsona, wpływa na siłę zespołu.)
 
 ---
-
-### MECZ: Dziki Warszawa (gość) @ Legia Warszawa (gospodarz)
-
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Dziki Warszawa**: Brak istotnych braków w składzie koszykarskim na dzień 2026-10-31.
-    *   🏀 **Legia Warszawa**: Brak istotnych braków w składzie koszykarskim na dzień 2026-10-31. Należy ignorować doniesienia o kontuzjach piłkarzy (np. Rafał Augustyniak, Łukasz Zjawiński, Bartosz Kapustka, Michal Ševčík, Jakub Żewłakow), które nie dotyczą sekcji koszykarskiej.
-2.  **Aktualna forma top scorerów (sezon 2026/2027):**
-    *   **Dziki Warszawa**: Brak danych z API dla tego zespołu. Dostępne dane dotyczące składu nie precyzują top scorerów w koszykówce.
-    *   **Legia Warszawa**: Brak danych z API dla tego zespołu. Dostępne dane dotyczące składu nie precyzują top scorerów w koszykówce. (Wyszukane wyniki "top scorer" dla Legii dotyczyły sekcji piłkarskiej).
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Brak informacji o kluczowych brakach w składach koszykarskich oraz brak danych o indywidualnej formie top scorerów dla obu drużyn sprawia, że typowanie opiera się na ogólnej ocenie siły zespołów. Przy braku negatywnych sygnałów typ na gospodarzy może być zatwierdzony.
-
+Mecz: King Szczecin (gosc) @ Górnik Zamek Książ Wałbrzych (gospodarz)
 ---
-
-### MECZ: AMW Arka Gdynia (gość) @ Energa Czarni Słupsk (gospodarz)
-
 1.  **Kluczowe braki w składach:**
-    *   🏀 **AMW Arka Gdynia**: Brak istotnych braków w składzie koszykarskim na dzień 2026-10-31.
-    *   🏀 **Energa Czarni Słupsk**: Brak istotnych braków w składzie koszykarskim na dzień 2026-10-31.
-2.  **Aktualna forma top scorerów (sezon 2026/2027):**
-    *   **AMW Arka Gdynia**: Alex Stein (20.3 Pkt/mecz), Kasper Suurorg (18 Pkt/mecz), Jakub Garbacz (17 Pkt/mecz).
-    *   **Energa Czarni Słupsk**: Mason Madsen (16.3 Pkt/mecz), Dorde Dimitrijevic (12.8 Pkt/mecz), Keevan Veinot (12.3 Pkt/mecz).
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    Brak potwierdzonych kontuzji w obu drużynach oraz jasne dane dotyczące top scorerów pozwalają na zatwierdzenie typu.
-
----
-
-### MECZ: Zastal Zielona Góra (gość) @ Arriva Lotto Twarde Pierniki Toruń (gospodarz)
-
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Zastal Zielona Góra**: Brak istotnych braków w składzie koszykarskim na dzień 2026-10-31.
-    *   🏀 **Arriva Lotto Twarde Pierniki Toruń**: Maksymilian Wilczek (niski skrzydłowy) jest kontuzjowany i jego powrót do gry przewidywany jest w okolicach okienka reprezentacyjnego.
-2.  **Aktualna forma top scorerów (sezon 2026/2027):**
-    *   **Zastal Zielona Góra**: Conley Garrison (16 Pkt/mecz), Andy Mazurczak (14.3 Pkt/mecz), Gauthier Denis (13.3 Pkt/mecz).
-    *   **Arriva Lotto Twarde Pierniki Toruń**: Brak danych z API dla tego zespołu. Informacje dotyczące składu nie precyzują top scorerów.
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Kontuzja Maksymiliana Wilczka w zespole Twardych Pierników jest znaczącym osłabieniem, a brak precyzyjnych danych o formie top scorerów dla gospodarzy dodaje element niepewności. Typ na Zastal, będący gościem, w meczu gdzie gospodarze mają osłabioną kadrę, ale brak pełnych danych o ich formie, jest ryzykowny.
+    *   King Szczecin: Max Enger prawdopodobnie niedostępny z powodu kontuzji kciuka doznanej w okresie przygotowawczym przed sezonem 2026/2027.
+    *   Górnik Zamek Książ Wałbrzych: Brak istotnych braków w składzie koszykarskim.
+2.  **Aktualna forma top scorerów (z meczu 2026-11-01):**
+    *   King Szczecin: Przemysław Żołnierewicz (18 Pkt), Zahir Porter (18 Pkt), Alexandre Chassang (14 Pkt).
+    *   Górnik Zamek Książ Wałbrzych: Adam Rohosy Jr (21 Pkt), Michaelyn Scott (15 Pkt).
+3.  **Werdykt:** ✅ ZATWIERDZONY
