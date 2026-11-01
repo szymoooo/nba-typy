@@ -1,4 +1,4 @@
-Kings @ Grizzlies -> Typ: Grizzlies
-Cavaliers @ Bucks -> Typ: Cavaliers
-Timberwolves @ Spurs -> Typ: Timberwolves
-Thunder @ Rockets -> Typ: Rockets
+Celtics @ Magic -> Typ: Celtics
+Nets @ Pacers -> Typ: Pacers
+Clippers @ Warriors -> Typ: Warriors
+Raptors @ Lakers -> Typ: Lakers
