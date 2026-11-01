@@ -1,60 +1,23 @@
 {
-  "generated_at": "2026-11-01T11:00:57.763540",
+  "generated_at": "2026-11-01T14:45:56.836229",
   "date": "2026-11-01",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "Science City Jena @ BMA365 Bamberg Baskets",
-      "phase": "Hauptrunde",
-      "ai_pick": "BMA365 Bamberg Baskets",
-      "formula_pick": "BMA365 Bamberg Baskets",
-      "agreement": true,
-      "confidence": 9,
-      "reasoning": "BMA365 Bamberg Baskets mają przewagę własnego parkietu i lepszy bilans bezpośrednich spotkań z Science City Jena. Dodatkowo, wykazują nieco lepszą formę w ostatnich pięciu meczach ligowych, a ich liderzy punktowi prezentują stabilną dyspozycję.",
-      "key_factors": [
-        "Przewaga własnego parkietu",
-        "Lepszy bilans H2H (4-1 w ostatnich 5 meczach)",
-        "Lepsza forma (3 zwycięstwa w ostatnich 5 meczach BBL)",
-        "Silni liderzy punktowi (Jordan Wright)"
-      ],
-      "injury_notes": "brak istotnych braków"
-    },
-    {
-      "matchup": "FC Bayern München Basketball @ ROSTOCK SEAWOLVES",
-      "phase": "Hauptrunde",
-      "ai_pick": "FC Bayern München Basketball",
-      "formula_pick": "ROSTOCK SEAWOLVES",
-      "agreement": false,
-      "confidence": 9,
-      "reasoning": "FC Bayern München Basketball wchodzi w ten mecz z doskonałym bilansem 5-0 w sezonie BBL 2026/27, wykazując się świetną formą i mocną ofensywą. Chociaż Rostock Seawolves mają przyzwoity bilans 3-2 w ostatnich pięciu meczach BBL i przewagę własnego parkietu, Bayern ma dominujący bilans H2H i znacznie lepszą aktualną formę. Brak istotnych kontuzji u kluczowych zawodników obu drużyn nie wpływa na prognozę.",
-      "key_factors": [
-        "Forma FC Bayern (5-0 w BBL 2026/27)",
-        "Dominujący bilans H2H (historyczny) FC Bayern",
-        "Jakość składu i siła ofensywna FC Bayern"
-      ],
-      "injury_notes": "brak istotnych brakow"
-    },
-    {
-      "matchup": "SYNTAINICS MBC @ Veolia Towers Hamburg",
-      "phase": "Hauptrunde",
-      "ai_pick": "SYNTAINICS MBC",
-      "formula_pick": "Veolia Towers Hamburg",
-      "agreement": false,
-      "confidence": 9,
-      "reasoning": "SYNTAINICS MBC prezentuje znacznie lepszą formę w bieżącym sezonie, zajmując 3. miejsce w tabeli BBL z bilansem 4 zwycięstw i 2 porażek, podczas gdy Veolia Towers Hamburg plasuje się na 16. pozycji z 1 zwycięstwem i 5 porażkami. Dodatkowo, SYNTAINICS MBC wygrało 3 z ostatnich 5 meczów w BBL, natomiast Veolia Towers Hamburg przegrało 4 z ostatnich 5 spotkań ligowych, co wskazuje na wyraźną przewagę gości.",
-      "key_factors": [
-        "Aktualna forma drużyn w BBL (SYNTAINICS MBC 3-2, Veolia Towers Hamburg 1-4 w ostatnich 5 meczach).",
-        "Pozycja w tabeli BBL (SYNTAINICS MBC 3. miejsce, Veolia Towers Hamburg 16. miejsce).",
-        "Skuteczność liderów drużyn (np. Jure Planinic i Spencer Reaves dla MBC, Mathys Kangudia i Zakai Zeigler dla Hamburg Towers)."
-      ],
-      "injury_notes": "brak istotnych braków"
-    },
-    {
       "matchup": "ALBA BERLIN @ Telekom Baskets Bonn",
-      "ai_pick": null,
+      "phase": "Regular Season",
+      "ai_pick": "Telekom Baskets Bonn",
       "formula_pick": "Telekom Baskets Bonn",
-      "note": "AI fallback"
+      "agreement": true,
+      "confidence": 7,
+      "reasoning": "Telekom Baskets Bonn gra u siebie, a ALBA BERLIN jest osłabiona przez kontuzje kluczowych graczy, takich jak Norris Agbakoko, Martin Hermannsson i Jack Kayil. Pomimo historycznie korzystnego bilansu H2H dla ALBY, obecne osłabienia kadrowe ALBY oraz przewaga własnego boiska Bonn stawiają ich w roli faworyta.",
+      "key_factors": [
+        "Poważne kontuzje kluczowych graczy ALBA BERLIN (Norris Agbakoko, Martin Hermannsson, Jack Kayil)",
+        "Przewaga własnego boiska dla Telekom Baskets Bonn",
+        "Neutralna forma obu drużyn w tym sezonie BBL (bilans 3-3)"
+      ],
+      "injury_notes": "ALBA BERLIN: Norris Agbakoko (złamanie kostki, długa przerwa), Martin Hermannsson (uraz mięśnia uda, wykluczony na najbliższe mecze), Jack Kayil (kontuzja mięśnia łydki, wykluczony na kilka tygodni). Telekom Baskets Bonn: Tylan Birts i Kur Jongkuch nie grali jeszcze w tym sezonie, ale dokładny status kontuzji na dzień meczu nie został wyszczególniony."
     }
   ]
 }

@@ -1,26 +1,42 @@
---- KRYTYCZNY AUDYT LIVE (2026-11-01 05:56 ET) ---
-Analizuję dzisiejsze typy na podstawie danych z 2026-11-01.
+--- KRYTYCZNY AUDYT LIVE (2026-11-01 09:42 ET) ---
+Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-11-01):
+
+---
 
 ### Kings @ Grizzlies -> Typ: Grizzlies
 
 *   **Kluczowe braki w składach:**
-    *   **Kings:** Ben Simmons (OUT - zerwane ścięgno Achillesa, poza sezonem) 🩹, Keegan Murray (OUT - zapalenie torebki stawowej lewej kostki, min. kolejny tydzień) 🤕, Dylan Cardwell (OUT - naciągnięcie lewej łydki, min. kolejny tydzień) 🩹, Maxime Raynaud (OUT - podwichnięcie rzepki prawej, min. dwa tygodnie) 🩹.
-    *   **Grizzlies:** Ty Jerome (QUESTIONABLE - ból górnej części pleców) ❓, Scotty Pippen Jr. (QUESTIONABLE - ból dolnej części pleców) ❓, Quinten Post (DOUBTFUL - zwichnięcie prawej kostki) 🤕.
-*   **Werdykt:** [✅ ZATWIERDZONY] Mimo niepewności co do Jerome'a, Pippena Jr. i Posta, Kings mają znacznie poważniejsze braki, w tym kluczowych graczy. Grizzlies, mimo absencji, są faworytami.
+    *   **Kings:** Keegan Murray (Out - kontuzja kostki), Dylan Cardwell (Out - kontuzja łydki), Maxime Raynaud (Out - kontuzja kolana), Ben Simmons (Out na cały sezon - operacja ścięgna Achillesa).
+    *   **Grizzlies:** Ty Jerome (Out - kontuzja pleców), Scotty Pippen Jr. (Out - kontuzja pleców), Quinten Post (Out - kontuzja kostki).
+*   **Werdykt:** Grizzlies (bilans 5-0) mierzą się z Kings (bilans 0-5). Mimo własnych absencji, Kings mają dłuższą listę kluczowych kontuzji, w tym Ben Simmonsa na cały sezon. Przewaga Grizzlies jest wyraźna.
+    *   [✅ ZATWIERDZONY]
+
+---
 
 ### Cavaliers @ Bucks -> Typ: Cavaliers
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
-*   **Werdykt:** [⚠️ RYZYKOWNY] Brak informacji o składach sprawia, że typ jest obarczony dużym ryzykiem.
+*   **Kluczowe braki w składach:**
+    *   **Cavaliers:** Jaylon Tyson (Out - kontuzja kostki), Nae'Qwan Tomlin (Out - kontuzja pleców). Meleek Thomas (Probable - ból stopy).
+    *   **Bucks:** Giannis Antetokounmpo (Wymieniony do Miami Heat - 6 lipca 2026), Bobby Portis (Wymieniony do Miami Heat - 6 lipca 2026). Brak aktualnych raportów o innych kontuzjach dla reszty aktywnego składu.
+*   **Werdykt:** Cavaliers mają zdrowy trzon drużyny (Donovan Mitchell, James Harden, Evan Mobley, Jarrett Allen). Bucks są osłabieni brakiem Giannisa Antetokounmpo i Bobby'ego Portisa, którzy zostali wytransferowani w lipcu 2026. Cavaliers (bilans 4-2) mają znaczną przewagę nad Bucks (bilans 1-5).
+    *   [✅ ZATWIERDZONY]
+
+---
 
 ### Timberwolves @ Spurs -> Typ: Timberwolves
 
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę. 🚫
-*   **Werdykt:** [⚠️ RYZYKOWNY] Brak informacji o składach sprawia, że typ jest obarczony dużym ryzykiem.
+*   **Kluczowe braki w składach:**
+    *   **Timberwolves:** Anthony Edwards (Out - operacja kolana), Donte DiVincenzo (Out - operacja ścięgna Achillesa), Rudy Gobert (Out - skurcze pleców).
+    *   **Spurs:** Tobias Harris (Out - naciągnięcie łydki), Jayden Quaintance (Out - operacja kolana). Stephon Castle (Dostępny - migrena).
+*   **Werdykt:** Timberwolves są poważnie osłabieni brakiem trzech kluczowych graczy, w tym gwiazd Anthony'ego Edwardsa i Rudy'ego Goberta. Spurs z Victorem Wembanyamą niedawno pokonali osłabionych Timberwolves. Typ na Timberwolves jest bardzo ryzykowny.
+    *   [⚠️ RYZYKOWNY]
+
+---
 
 ### Thunder @ Rockets -> Typ: Rockets
 
 *   **Kluczowe braki w składach:**
-    *   **Thunder:** Alex Caruso (OUT - zwichnięcie prawej kostki) 🩹, Chet Holmgren (OUT - zapalenie ścięgna rzepki prawego kolana) 🤕, Thomas Sorber (OUT - operacja prawego kolana) 🩹, Nikola Topic (OUT - operacja dolnej części pleców) 🩹, Cason Wallace (OUT - rozdarcie obrąbka lewego barku) 🩹, Jalen Williams (OUT - operacja lewej kostki) 🩹.
-    *   **Rockets:** Steven Adams (OUT - naciągnięcie prawego mięśnia płaszczkowatego) 🩹, Quadir Copeland (OUT - G League Two-Way) ⛔, Julian Phillips (OUT - G League Two-Way) ⛔, Reed Sheppard (OUT - ból dolnej części pleców) 🤕, Fred VanVleet (OUT - uraz prawego kolana / zarządzanie obciążeniem) 🤕.
-*   **Werdykt:** [⚠️ RYZYKOWNY] Obie drużyny mają znaczące braki, w tym wielu kluczowych graczy. Brak Holmgrena i J. Williamsa dla Thunder to duża strata, podobnie jak VanVleeta i Adamsa dla Rockets.
+    *   **Thunder:** Chet Holmgren (Out - zerwanie więzadła rzepki w kolanie, 8-10 tygodni), Jalen Williams (Out - złamanie kości strzałkowej, zwichnięcie kostki, spodziewany brak przez większość sezonu), Cason Wallace (Out - zerwane obrąbki barkowej, operacja), Alex Caruso (Out - skręcenie kostki), Thomas Sorber (Out - operacja kolana), Nikola Topic (Out - operacja pleców).
+    *   **Rockets:** Fred VanVleet (Out - zarządzanie kontuzją kolana), Reed Sheppard (Out - ból pleców), Steven Adams (Out - naciągnięcie mięśnia podeszwowego, 1-2 tygodnie). Alperen Sengun (Dostępny - ból pleców, wraca po absencji).
+*   **Werdykt:** Thunder są zdziesiątkowani kontuzjami wielu kluczowych graczy i starterów. Rockets, choć mają kilku nieobecnych, odzyskują kluczowego zawodnika (Sengun), a ich pozostały skład jest silny. Rockets (bilans 6-1) mają znaczącą przewagę nad Thunder (bilans 4-1).
+    *   [✅ ZATWIERDZONY]
