@@ -1,24 +1,30 @@
---- AUDYT PLK LIVE (2026-11-02 04:48 CET) ---
-Oto analiza dzisiejszych meczów PLK na dzień 2026-11-01, zgodnie z Twoimi wytycznymi:
+--- AUDYT PLK LIVE (2026-11-02 12:55 CET) ---
+Oto analiza meczów PLK z dnia 2026-11-01:
 
 ---
 
-### **WKS Śląsk Wrocław @ Euvic GTK Gliwice**
-*   **Kluczowe braki w składach:**
-    *   WKS Śląsk Wrocław: Robinson (niewielki uraz, brak dostępności na mecz 2026-11-01).
-    *   Euvic GTK Gliwice: Dominik Wilczek (niefortunna kontuzja, odniesiona przed/w trakcie meczu 2026-11-01).
-*   **Aktualna forma top scorerów:**
-    *   WKS Śląsk Wrocław: Anthony Hickey (kluczowy w czwartej kwarcie zwycięskiego meczu z GTK Gliwice), Nizioł, Egbunu (prowadzili drużynę do wygranej). Paul Scruggs (określany jako as Śląska).
-    *   Euvic GTK Gliwice: Selton Miguel (określany jako gwiazda GTK Gliwice). Brak danych z API dla tego zespołu dla pozostałych wiodących strzelców.
-*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny zmagają się z brakami kadrowymi, co wpływa na rotację i potencjalnie na przebieg meczu. Kontuzja Wilczka w GTK Gliwice jest znaczącym osłabieniem.
+### Mecz: WKS Śląsk Wrocław @ Euvic GTK Gliwice
+*   **Typ z PulsBasketu:** Euvic GTK Gliwice
+
+1.  **Kluczowe braki w składach:**
+    *   **WKS Śląsk Wrocław:** Devin Robinson, uznawany za najlepszego strzelca drużyny, był niedostępny z powodu niegroźnego urazu.
+    *   **Euvic GTK Gliwice:** Selton Miguel (średnio 16.3 Pkt/mecz w sezonie 2026/2027), czołowy strzelec zespołu, był nieobecny z powodu osobistej tragedii. Dodatkowo, Dominik Wilczek doznał poważnej kontuzji kolana podczas meczu, upadając bez kontaktu z rywalem.
+2.  **Aktualna forma top scorerów:**
+    *   **WKS Śląsk Wrocław:** Anthony Hickey rozegrał kluczową czwartą kwartę, prowadząc WKS Śląsk do zwycięstwa.
+    *   **Euvic GTK Gliwice:** Ze względu na nieobecność Seltona Miguela, pozostali czołowi strzelcy zespołu, tacy jak Kacper Gordon (średnio 13.2 Pkt/mecz) oraz Benjamin Schwieger (średnio 10.8 Pkt/mecz) musieli przejąć większą odpowiedzialność.
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    Typ był ryzykowny, ponieważ Euvic GTK Gliwice mierzyło się z WKS Śląsk Wrocław, mając osłabiony skład (brak Seltona Miguela) i do tego straciło Dominika Wilczka w trakcie meczu z powodu poważnej kontuzji. Pomimo tych braków, typ wskazywał na zwycięstwo GTK. WKS Śląsk Wrocław wygrał mecz 96:84.
 
 ---
 
-### **King Szczecin @ Górnik Zamek Książ Wałbrzych**
-*   **Kluczowe braki w składach:**
-    *   King Szczecin: Max Egner (kontuzja kciuka przed startem sezonu 2026/2027, możliwa dłuższa przerwa, klub szukał zastępstwa). Prawdopodobnie niedostępny na mecz 2026-11-01.
-    *   Górnik Zamek Książ Wałbrzych: Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-11-02, dotyczących meczu 2026-11-01. Wcześniejsze, liczne kontuzje z pierwszej połowy 2026 roku (sezon 2025/2026) nie są uznawane za aktualne braki na dzień dzisiejszy.
-*   **Aktualna forma top scorerów:**
-    *   King Szczecin: Zahir Porter (17.6 Pkt/mecz), Przemysław Żołnierewicz (15 Pkt/mecz), Tomasz Gielo (10.6 Pkt/mecz) w sezonie 2026/2027.
-    *   Górnik Zamek Książ Wałbrzych: Brak danych z API dla tego zespołu.
-*   **Werdykt:** [✅ ZATWIERDZONY] – King Szczecin wydaje się być w lepszej sytuacji kadrowej, mimo kontuzji Egnera, a ich top scorerzy wykazują dobrą formę na początku sezonu. Brak potwierdzonych aktualnych, istotnych braków w Górniku, jednak historycznie drużyna ta miewała problemy z kontuzjami. Typ na King Szczecin jest zasadny.
+### Mecz: King Szczecin @ Górnik Zamek Książ Wałbrzych
+*   **Typ z PulsBasketu:** King Szczecin
+
+1.  **Kluczowe braki w składach:**
+    *   **King Szczecin:** Maximillian Egner był wyłączony z gry z powodu kontuzji kciuka, której nabawił się trzy tygodnie przed początkiem okresu przygotowawczego. Klub rozglądał się za jego zastępcą.
+    *   **Górnik Zamek Książ Wałbrzych:** Brak istotnych braków w składzie koszykarskim.
+2.  **Aktualna forma top scorerów:**
+    *   **King Szczecin:** W zwycięskim meczu z Górnikiem, Przemysław Żołnierewicz i Zahir Porter byli najskuteczniejszymi zawodnikami, zdobywając po 18 punktów każdy.
+    *   **Górnik Zamek Książ Wałbrzych:** Liderami punktowymi w tym meczu byli Adam Rohosy Jr z 21 punktami oraz Michaelyn Scott z 15 punktami.
+3.  **Werdykt:** [✅ ZATWIERDZONY]
+    King Szczecin, pomimo kontuzji Maxa Egnera, wygrał ten mecz 95:86, zgodnie z typem z PulsBasketu.
