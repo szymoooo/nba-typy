@@ -1,30 +1,24 @@
---- AUDYT PLK LIVE (2026-11-02 01:03 CET) ---
-Analiza meczów PLK (01.11.2026) na dzień 2026-11-02:
+--- AUDYT PLK LIVE (2026-11-02 04:48 CET) ---
+Oto analiza dzisiejszych meczów PLK na dzień 2026-11-01, zgodnie z Twoimi wytycznymi:
 
 ---
 
 ### **WKS Śląsk Wrocław @ Euvic GTK Gliwice**
-*   **Typ z PulsBasketu:** Euvic GTK Gliwice
-*   **Hala i miasto:** Prezero Arena Gliwice, Gliwice
-
-1.  **Kluczowe braki w składach:**
-    *   **WKS Śląsk Wrocław:** Devin Robinson był niedostępny z powodu niegroźnego urazu.
-    *   **Euvic GTK Gliwice:** Dominik Wilczek doznał kontuzji podczas lub tuż przed meczem; trener Śląska życzył mu zdrowia po "nieszczęśliwej kontuzji".
-2.  **Aktualna forma top scorerów (mecz 01.11.2026):**
-    *   **WKS Śląsk Wrocław:** Anthony Hickey (21 punktów, 5 zbiórek, 5 asyst), John Egbunu (20 punktów, 5 zbiórek). Jakub Nizioł (18 punktów) i Anthony Wrzeszcz (16 punktów, 100% skuteczności) również wyróżnili się.
-    *   **Euvic GTK Gliwice:** Ben Schwieger (18 punktów, 4 zbiórki), Kacper Gordon (15 punktów). Dominik Wilczek zdobył 14 punktów, zanim doznał kontuzji.
-3.  **Werdykt:** [⚠️ RYZYKOWNY] – Typ na Euvic GTK Gliwice był ryzykowny, biorąc pod uwagę kontuzję Dominika Wilczka oraz fakt, że WKS Śląsk Wrocław, mimo braku Robinsona, zaprezentował bardzo dobrą formę swoich liderów (Hickey, Egbunu, Nizioł) i wygrał mecz 96:84.
+*   **Kluczowe braki w składach:**
+    *   WKS Śląsk Wrocław: Robinson (niewielki uraz, brak dostępności na mecz 2026-11-01).
+    *   Euvic GTK Gliwice: Dominik Wilczek (niefortunna kontuzja, odniesiona przed/w trakcie meczu 2026-11-01).
+*   **Aktualna forma top scorerów:**
+    *   WKS Śląsk Wrocław: Anthony Hickey (kluczowy w czwartej kwarcie zwycięskiego meczu z GTK Gliwice), Nizioł, Egbunu (prowadzili drużynę do wygranej). Paul Scruggs (określany jako as Śląska).
+    *   Euvic GTK Gliwice: Selton Miguel (określany jako gwiazda GTK Gliwice). Brak danych z API dla tego zespołu dla pozostałych wiodących strzelców.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Obie drużyny zmagają się z brakami kadrowymi, co wpływa na rotację i potencjalnie na przebieg meczu. Kontuzja Wilczka w GTK Gliwice jest znaczącym osłabieniem.
 
 ---
 
 ### **King Szczecin @ Górnik Zamek Książ Wałbrzych**
-*   **Typ z PulsBasketu:** King Szczecin
-*   **Hala i miasto:** Hala Widowiskowo-Sportowa Aqua Zdrój, Wałbrzych
-
-1.  **Kluczowe braki w składach:**
-    *   **King Szczecin:** Max Egner był kontuzjowany (uraz kciuka, zgłoszony 23.09.2026) i klub szukał wzmocnień; nie pojawił się w protokole meczowym z 01.11.2026.
-    *   **Górnik Zamek Książ Wałbrzych:** Ike Smith doznał urazu w okresie przygotowawczym (informacja z 01.10.2026) i nie figurował w statystykach meczu z 01.11.2026.
-2.  **Aktualna forma top scorerów (mecz 01.11.2026):**
-    *   **King Szczecin:** Przemysław Żołnierewicz (18 punktów), Zahir Porter (18 punktów), Alexandre Chassang (14 punktów).
-    *   **Górnik Zamek Książ Wałbrzych:** Adam Rohosy Jr. (21 punktów), Michaelyn Scott (15 punktów). Ron Curry został wybrany MVP 4. kolejki PLK przed tym meczem.
-3.  **Werdykt:** [✅ ZATWIERDZONY] – Typ na King Szczecin był uzasadniony. Mimo braku Maxa Egnera i dobrej postawy liderów Górnika (Rohosy Jr., Scott), King Szczecin wygrał na wyjeździe 95:86, co potwierdza ich dobrą formę.
+*   **Kluczowe braki w składach:**
+    *   King Szczecin: Max Egner (kontuzja kciuka przed startem sezonu 2026/2027, możliwa dłuższa przerwa, klub szukał zastępstwa). Prawdopodobnie niedostępny na mecz 2026-11-01.
+    *   Górnik Zamek Książ Wałbrzych: Brak istotnych braków w składzie koszykarskim potwierdzonych na dzień 2026-11-02, dotyczących meczu 2026-11-01. Wcześniejsze, liczne kontuzje z pierwszej połowy 2026 roku (sezon 2025/2026) nie są uznawane za aktualne braki na dzień dzisiejszy.
+*   **Aktualna forma top scorerów:**
+    *   King Szczecin: Zahir Porter (17.6 Pkt/mecz), Przemysław Żołnierewicz (15 Pkt/mecz), Tomasz Gielo (10.6 Pkt/mecz) w sezonie 2026/2027.
+    *   Górnik Zamek Książ Wałbrzych: Brak danych z API dla tego zespołu.
+*   **Werdykt:** [✅ ZATWIERDZONY] – King Szczecin wydaje się być w lepszej sytuacji kadrowej, mimo kontuzji Egnera, a ich top scorerzy wykazują dobrą formę na początku sezonu. Brak potwierdzonych aktualnych, istotnych braków w Górniku, jednak historycznie drużyna ta miewała problemy z kontuzjami. Typ na King Szczecin jest zasadny.
