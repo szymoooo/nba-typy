@@ -1,25 +1,28 @@
---- AUDYT PLK LIVE (2026-11-02 18:46 CET) ---
-Oto audyt typów na mecze PLK z 2026-11-01:
+--- AUDYT PLK LIVE (2026-11-02 23:41 CET) ---
+### Analiza meczów PLK (2026-11-01)
 
----
+#### **1. WKS Śląsk Wrocław @ Euvic GTK Gliwice**
+Typ: Euvic GTK Gliwice
 
-### **WKS Śląsk Wrocław @ Euvic GTK Gliwice**
+*   **Kluczowe braki w składach (stan na 2026-11-01):**
+    *   **Euvic GTK Gliwice:** Selton Miguel (czołowy strzelec) był niedostępny z powodu osobistej tragedii (śmierć ojca). Dominik Wilczek doznał zerwania ścięgna Achillesa podczas tego meczu, co eliminuje go z dalszych rozgrywek.
+    *   **WKS Śląsk Wrocław:** Devin Robinson był wykluczony z gry z powodu niegroźnego urazu.
 
-*   **1. Kluczowe braki w składach:**
-    *   Euvic GTK Gliwice: Dominik Wilczek zerwał ścięgno Achillesa w meczu 2026-11-01 przeciwko WKS Śląsk Wrocław i zakończył sezon.
-    *   WKS Śląsk Wrocław: Robinson pauzował z powodu niegroźnego urazu w meczu 2026-11-01.
-*   **2. Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-*   **3. Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ był ryzykowny, ponieważ Euvic GTK Gliwice straciło kluczowego zawodnika, Dominika Wilczka, na cały sezon z powodu poważnej kontuzji odniesionej podczas meczu, który odbył się 2026-11-01. Śląsk Wrocław mimo drobnego osłabienia (Robinson) zwyciężył w tym spotkaniu 96:84.
+*   **Aktualna forma top scorerów (sezon 2026/2027):**
+    *   **Euvic GTK Gliwice:** Przed meczem czołowymi strzelcami byli Selton Miguel (16.3 Pkt/mecz), Kacper Gordon (13.2 Pkt/mecz) i Benjamin Schwieger (10.8 Pkt/mecz). W meczu 2026-11-01 wyróżnili się Ben Schwieger (18 punktów) i Kacper Gordon (15 punktów).
+    *   **WKS Śląsk Wrocław:** Przed meczem czołowymi strzelcami byli Anthony Hickey (13.3 Pkt/mecz), Devin Robinson (12 Pkt/mecz) i Malik Parsons (11.3 Pkt/mecz). W meczu 2026-11-01 Anthony Hickey był kluczową postacią, zdobywając 21 punktów (w tym 13 w czwartej kwarcie), John Egbunu dodał 20 punktów, a Jakub Nizioł 18 punktów.
 
----
+*   **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ na Euvic GTK Gliwice był ryzykowny. Drużyna była osłabiona brakiem Seltona Miguela przed meczem, a w trakcie spotkania straciła kolejnego ważnego gracza, Dominika Wilczka, z powodu poważnej kontuzji. Śląsk Wrocław, mimo braku Robinsona, pokazał silną postawę liderów (Hickey, Egbunu, Nizioł) i zwyciężył 96:84.
 
-### **King Szczecin @ Górnik Zamek Książ Wałbrzych**
+#### **2. King Szczecin @ Górnik Zamek Książ Wałbrzych**
+Typ: King Szczecin
 
-*   **1. Kluczowe braki w składach:**
-    *   Brak istotnych braków w składzie koszykarskim obu drużyn.
-*   **2. Aktualna forma top scorerów:**
-    *   Brak danych z API dla tego zespołu.
-*   **3. Werdykt:** [✅ ZATWIERDZONY]
-    *   Typ był zatwierdzony, ponieważ King Szczecin pokonał Górnik Zamek Książ Wałbrzych 95:86 w meczu 2026-11-01. Nie odnotowano żadnych znaczących kontuzji czy zawieszeń, które mogłyby wpłynąć na wynik.
+*   **Kluczowe braki w składach (stan na 2026-11-01):**
+    *   Brak istotnych braków w składzie koszykarskim dla obu drużyn.
+
+*   **Aktualna forma top scorerów (sezon 2026/2027):**
+    *   Brak danych z API dla tych zespołów dotyczących konkretnych top scorerów za 2026/2027. Ogólne statystyki PLK na 2026/2027 pokazują liderów punktowych ligi (np. Alex Stein 19.6pkt śr.), ale bez przypisania do konkretnych drużyn z tego meczu w dostępnych wynikach wyszukiwania.
+
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Bez informacji o kontuzjach lub słabej formie kluczowych zawodników, a biorąc pod uwagę brak konkretnych danych z API dla top scorerów, nie ma wyraźnych przesłanek do zakwalifikowania tego typu jako ryzykownego. Brak jest również doniesień o wyniku tego konkretnego meczu, co uniemożliwia retrospektywną ocenę trafności typu na podstawie faktycznego rozstrzygnięcia.

@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-01T14:45:56.836229",
-  "date": "2026-11-01",
+  "generated_at": "2026-11-02T22:43:21.018693",
+  "date": "2026-11-03",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
+    {
+      "matchup": "Basketball Löwen Braunschweig @ FC Bayern München Basketball",
+      "phase": "Regular Season",
+      "ai_pick": "FC Bayern München Basketball",
+      "formula_pick": "FC Bayern München Basketball",
+      "agreement": true,
+      "confidence": 9,
+      "reasoning": "FC Bayern München Basketball, mimo intensywnego harmonogramu i niedawnej porażki w BBL, ma znacznie silniejszy skład i lepszy bilans w obecnym sezonie (4-1) niż Basketball Löwen Braunschweig (3-3). Kluczowym czynnikiem jest brak Devina Askewa, najlepszego strzelca Braunschweig, z powodu wstrząsu mózgu, co znacząco osłabi ich ofensywę. Bayern dodatkowo będzie miał przewagę własnego parkietu, co jest ważnym elementem w BBL.",
+      "key_factors": [
+        "Kontuzja lidera Basketball Löwen Braunschweig, Devina Askewa, z powodu wstrząsu mózgu.",
+        "Gorsza forma Basketball Löwen Braunschweig, które przegrało cztery ostatnie mecze w BBL.",
+        "Przewaga własnego parkietu dla FC Bayern München Basketball.",
+        "Wyższa jakość kadry i lepszy bilans sezonowy FC Bayern München Basketball (4-1 w BBL).",
+        "FC Bayern München Basketball jest najlepszą drużyną w ofensywnych zbiórkach, podczas gdy Basketball Löwen Braunschweig jest najsłabsze w defensywnych."
+      ],
+      "injury_notes": "Basketball Löwen Braunschweig będzie musiało sobie radzić bez swojego kluczowego gracza, Devina Askewa, który doznał wstrząsu mózgu w ostatni weekend i nie zagra w meczu 2026-11-03. Dejour Reaves i Gian Aydinoglu będą musieli przejąć większą odpowiedzialność w roli rozgrywających. Po stronie FC Bayern München Basketball nie ma doniesień o nowych, istotnych kontuzjach na dzień meczu, jednak zespół zmaga się ze zmęczeniem po bardzo intensywnym harmonogramie meczów ligowych i EuroLigi."
+    },
     {
       "matchup": "ALBA BERLIN @ Telekom Baskets Bonn",
       "phase": "Regular Season",
@@ -11,13 +28,13 @@
       "formula_pick": "Telekom Baskets Bonn",
       "agreement": true,
       "confidence": 7,
-      "reasoning": "Telekom Baskets Bonn gra u siebie, a ALBA BERLIN jest osłabiona przez kontuzje kluczowych graczy, takich jak Norris Agbakoko, Martin Hermannsson i Jack Kayil. Pomimo historycznie korzystnego bilansu H2H dla ALBY, obecne osłabienia kadrowe ALBY oraz przewaga własnego boiska Bonn stawiają ich w roli faworyta.",
+      "reasoning": "Telekom Baskets Bonn niedawno pokonało ALBA BERLIN 95:88 w bezpośrednim starciu (2026-11-01) i ma przewagę własnego parkietu. Dodatkowo, ALBA BERLIN zmaga się z poważnymi kontuzjami, w tym kluczowego gracza Jacka Kayila, podczas gdy Telekom Baskets Bonn nie zgłosiło żadnych istotnych braków kadrowych.",
       "key_factors": [
-        "Poważne kontuzje kluczowych graczy ALBA BERLIN (Norris Agbakoko, Martin Hermannsson, Jack Kayil)",
-        "Przewaga własnego boiska dla Telekom Baskets Bonn",
-        "Neutralna forma obu drużyn w tym sezonie BBL (bilans 3-3)"
+        "Wygrana w ostatnim H2H",
+        "Kontuzje w ALBA BERLIN",
+        "Przewaga własnego parkietu Telekom Baskets Bonn"
       ],
-      "injury_notes": "ALBA BERLIN: Norris Agbakoko (złamanie kostki, długa przerwa), Martin Hermannsson (uraz mięśnia uda, wykluczony na najbliższe mecze), Jack Kayil (kontuzja mięśnia łydki, wykluczony na kilka tygodni). Telekom Baskets Bonn: Tylan Birts i Kur Jongkuch nie grali jeszcze w tym sezonie, ale dokładny status kontuzji na dzień meczu nie został wyszczególniony."
+      "injury_notes": "ALBA BERLIN: Jack Kayil ma kontuzję mięśnia łydki i będzie pauzował przez kilka tygodni. Zespół zgłasza dalsze obawy dotyczące kontuzji. Telekom Baskets Bonn: brak zgłoszonych istotnych braków."
     }
   ]
 }
