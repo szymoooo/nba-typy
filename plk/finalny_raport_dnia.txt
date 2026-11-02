@@ -1,30 +1,25 @@
---- AUDYT PLK LIVE (2026-11-02 12:55 CET) ---
-Oto analiza meczów PLK z dnia 2026-11-01:
+--- AUDYT PLK LIVE (2026-11-02 18:46 CET) ---
+Oto audyt typów na mecze PLK z 2026-11-01:
 
 ---
 
-### Mecz: WKS Śląsk Wrocław @ Euvic GTK Gliwice
-*   **Typ z PulsBasketu:** Euvic GTK Gliwice
+### **WKS Śląsk Wrocław @ Euvic GTK Gliwice**
 
-1.  **Kluczowe braki w składach:**
-    *   **WKS Śląsk Wrocław:** Devin Robinson, uznawany za najlepszego strzelca drużyny, był niedostępny z powodu niegroźnego urazu.
-    *   **Euvic GTK Gliwice:** Selton Miguel (średnio 16.3 Pkt/mecz w sezonie 2026/2027), czołowy strzelec zespołu, był nieobecny z powodu osobistej tragedii. Dodatkowo, Dominik Wilczek doznał poważnej kontuzji kolana podczas meczu, upadając bez kontaktu z rywalem.
-2.  **Aktualna forma top scorerów:**
-    *   **WKS Śląsk Wrocław:** Anthony Hickey rozegrał kluczową czwartą kwartę, prowadząc WKS Śląsk do zwycięstwa.
-    *   **Euvic GTK Gliwice:** Ze względu na nieobecność Seltona Miguela, pozostali czołowi strzelcy zespołu, tacy jak Kacper Gordon (średnio 13.2 Pkt/mecz) oraz Benjamin Schwieger (średnio 10.8 Pkt/mecz) musieli przejąć większą odpowiedzialność.
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    Typ był ryzykowny, ponieważ Euvic GTK Gliwice mierzyło się z WKS Śląsk Wrocław, mając osłabiony skład (brak Seltona Miguela) i do tego straciło Dominika Wilczka w trakcie meczu z powodu poważnej kontuzji. Pomimo tych braków, typ wskazywał na zwycięstwo GTK. WKS Śląsk Wrocław wygrał mecz 96:84.
+*   **1. Kluczowe braki w składach:**
+    *   Euvic GTK Gliwice: Dominik Wilczek zerwał ścięgno Achillesa w meczu 2026-11-01 przeciwko WKS Śląsk Wrocław i zakończył sezon.
+    *   WKS Śląsk Wrocław: Robinson pauzował z powodu niegroźnego urazu w meczu 2026-11-01.
+*   **2. Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+*   **3. Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ był ryzykowny, ponieważ Euvic GTK Gliwice straciło kluczowego zawodnika, Dominika Wilczka, na cały sezon z powodu poważnej kontuzji odniesionej podczas meczu, który odbył się 2026-11-01. Śląsk Wrocław mimo drobnego osłabienia (Robinson) zwyciężył w tym spotkaniu 96:84.
 
 ---
 
-### Mecz: King Szczecin @ Górnik Zamek Książ Wałbrzych
-*   **Typ z PulsBasketu:** King Szczecin
+### **King Szczecin @ Górnik Zamek Książ Wałbrzych**
 
-1.  **Kluczowe braki w składach:**
-    *   **King Szczecin:** Maximillian Egner był wyłączony z gry z powodu kontuzji kciuka, której nabawił się trzy tygodnie przed początkiem okresu przygotowawczego. Klub rozglądał się za jego zastępcą.
-    *   **Górnik Zamek Książ Wałbrzych:** Brak istotnych braków w składzie koszykarskim.
-2.  **Aktualna forma top scorerów:**
-    *   **King Szczecin:** W zwycięskim meczu z Górnikiem, Przemysław Żołnierewicz i Zahir Porter byli najskuteczniejszymi zawodnikami, zdobywając po 18 punktów każdy.
-    *   **Górnik Zamek Książ Wałbrzych:** Liderami punktowymi w tym meczu byli Adam Rohosy Jr z 21 punktami oraz Michaelyn Scott z 15 punktami.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    King Szczecin, pomimo kontuzji Maxa Egnera, wygrał ten mecz 95:86, zgodnie z typem z PulsBasketu.
+*   **1. Kluczowe braki w składach:**
+    *   Brak istotnych braków w składzie koszykarskim obu drużyn.
+*   **2. Aktualna forma top scorerów:**
+    *   Brak danych z API dla tego zespołu.
+*   **3. Werdykt:** [✅ ZATWIERDZONY]
+    *   Typ był zatwierdzony, ponieważ King Szczecin pokonał Górnik Zamek Książ Wałbrzych 95:86 w meczu 2026-11-01. Nie odnotowano żadnych znaczących kontuzji czy zawieszeń, które mogłyby wpłynąć na wynik.
