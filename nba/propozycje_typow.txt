@@ -1,15 +1,14 @@
-Thunder @ Cavaliers -> Typ: Cavaliers
-Pistons @ Hornets -> Typ: Pistons
-Hawks @ Pacers -> Typ: Hawks
-Nets @ Knicks -> Typ: Knicks
-Wizards @ Magic -> Typ: Wizards
-Bulls @ 76ers -> Typ: 76ers
-Kings @ Mavericks -> Typ: Mavericks
-Pelicans @ Grizzlies -> Typ: Grizzlies
-Bucks @ Timberwolves -> Typ: Timberwolves
-Celtics @ Rockets -> Typ: Rockets
-Jazz @ Spurs -> Typ: Spurs
-Trail Blazers @ Nuggets -> Typ: Trail Blazers
-Suns @ Warriors -> Typ: Warriors
-Raptors @ Clippers -> Typ: Raptors
-Heat @ Lakers -> Typ: Lakers
+76ers @ Pistons -> Typ: Pistons
+Hawks @ Wizards -> Typ: Wizards
+Bucks @ Celtics -> Typ: Celtics
+Hornets @ Nets -> Typ: Hornets
+Bulls @ Knicks -> Typ: Knicks
+Pacers @ Grizzlies -> Typ: Grizzlies
+Jazz @ Pelicans -> Typ: Pelicans
+Cavaliers @ Thunder -> Typ: Thunder
+Timberwolves @ Rockets -> Typ: Rockets
+Raptors @ Nuggets -> Typ: Raptors
+Trail Blazers @ Suns -> Typ: Trail Blazers
+Mavericks @ Spurs -> Typ: Spurs
+Lakers @ Kings -> Typ: Lakers
+Heat @ Clippers -> Typ: Heat
