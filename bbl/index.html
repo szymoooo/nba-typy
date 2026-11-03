@@ -142,7 +142,28 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="grid">
-        <div class="empty"><span class="ico">🏀</span>Brak meczów na dziś.<br><small>Sprawdź później lub wybierz inną datę.</small></div>
+        <div class="card" onclick="openModal('bbl_140096385490176')">
+        <div class="card-header">
+            <span>20:00 CET</span><span class="click-hint">Kliknij po analizę →</span>
+        </div>
+        <div class="matchup">
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="Basketball Löwen Braunschweig"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">Basketball Löwen Braunschweig</span>
+            </div>
+            <div class="score-wrap"><span class="vs" style="font-size:2rem">VS</span></div>
+            <div class="team">
+                <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>" alt="FC Bayern München Basketball"
+                     onerror="this.src='data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='none' stroke='%2310b981' stroke-width='3'/><text y='62' x='50' text-anchor='middle' font-size='42' fill='%2310b981'>%F0%9F%8F%80</text></svg>'">
+                <span class="team-name">FC Bayern München Basketball</span>
+            </div>
+        </div>
+        <div class="pred-box">
+            <span class="pred-label">Public AI Model Picks</span>
+            <span class="pred-val">FC Bayern München Basketball</span>
+        </div>
+    </div>
     </div>
 
     <div class="history-section" id="history">
@@ -194,10 +215,10 @@ body { background: #020817; color: #f8fafc;
     </div>
 
     <div class="hub-footer">
-        Last updated: November 03, 2026 at 03:44 &middot; Data: Sofascore / 24score
+        Last updated: November 03, 2026 at 04:53 &middot; Data: Sofascore / 24score
     </div>
 
-    <script>window._matchData = {};</script>
+    <script>window._matchData = {"bbl_140096385490176": {"matchup": "Basketball Löwen Braunschweig @ FC Bayern München Basketball", "pick": "FC Bayern München Basketball", "reasoning": "FC Bayern München Basketball, mimo intensywnego harmonogramu i niedawnej porażki w BBL, ma znacznie silniejszy skład i lepszy bilans w obecnym sezonie (4-1) niż Basketball Löwen Braunschweig (3-3). Kluczowym czynnikiem jest brak Devina Askewa, najlepszego strzelca Braunschweig, z powodu wstrząsu mózgu, co znacząco osłabi ich ofensywę. Bayern dodatkowo będzie miał przewagę własnego parkietu, co jest ważnym elementem w BBL.", "key_factors": ["Kontuzja lidera Basketball Löwen Braunschweig, Devina Askewa, z powodu wstrząsu mózgu.", "Gorsza forma Basketball Löwen Braunschweig, które przegrało cztery ostatnie mecze w BBL.", "Przewaga własnego parkietu dla FC Bayern München Basketball.", "Wyższa jakość kadry i lepszy bilans sezonowy FC Bayern München Basketball (4-1 w BBL).", "FC Bayern München Basketball jest najlepszą drużyną w ofensywnych zbiórkach, podczas gdy Basketball Löwen Braunschweig jest najsłabsze w defensywnych."], "confidence": 9, "injury_notes": "Basketball Löwen Braunschweig będzie musiało sobie radzić bez swojego kluczowego gracza, Devina Askewa, który doznał wstrząsu mózgu w ostatni weekend i nie zagra w meczu 2026-11-03. Dejour Reaves i Gian Aydinoglu będą musieli przejąć większą odpowiedzialność w roli rozgrywających. Po stronie FC Bayern München Basketball nie ma doniesień o nowych, istotnych kontuzjach na dzień meczu, jednak zespół zmaga się ze zmęczeniem po bardzo intensywnym harmonogramie meczów ligowych i EuroLigi.", "audit": ""}};</script>
     <script>
 // MODAL
 function openModal(id) {
