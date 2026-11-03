@@ -1,34 +1,24 @@
---- AUDYT PLK LIVE (2026-11-03 05:52 CET) ---
-Zgodnie z Twoimi wytycznymi, przedstawiam analizę typów na podstawie aktualnych informacji (2026-11-03) oraz danych z minionych meczów, które miały miejsce 2026-11-01.
+--- AUDYT PLK LIVE (2026-11-03 23:09 CET) ---
+Poniżej znajduje się audyt typów na mecze z 2026-11-01:
 
 ---
 
 ### WKS Śląsk Wrocław @ Euvic GTK Gliwice
-
-**Wynik meczu (01.11.2026):** WKS Śląsk Wrocław 96 : 84 Euvic GTK Gliwice
-**Typ PulsBasketu:** Euvic GTK Gliwice
-
-1.  **Kluczowe braki w składach (stan na 03.11.2026, uwzględniając wydarzenia z 01.11.2026):**
-    *   **Euvic GTK Gliwice:** Dominik Wilczek doznał zerwania ścięgna Achillesa podczas meczu 1 listopada i jest wyłączony z gry.
-    *   **WKS Śląsk Wrocław:** Devin Robinson był niedostępny z powodu niegroźnego urazu na mecz 1 listopada. Brak informacji o jego obecnym statusie na 3 listopada, ale na dzień meczu był kontuzjowany.
-2.  **Aktualna forma top scorerów (z meczu 01.11.2026):**
-    *   **WKS Śląsk Wrocław:** Anthony Hickey (21 pkt), John Egbunu (20 pkt), Jakub Nizioł (18 pkt), Anthony Wrzeszcz (16 pkt).
-    *   **Euvic GTK Gliwice:** Benjamin Schwieger (18 pkt), Kacper Gordon (15 pkt), Dominik Wilczek (14 pkt), Eric Nottage (11 pkt), Anthony Smith (10 pkt).
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ PulsBasketu okazał się niepoprawny, gdyż Śląsk Wrocław zwyciężył 96:84. Dodatkowo, kontuzja Dominika Wilczka w zespole GTK Gliwice, odniesiona w tym meczu, osłabia zespół Gliwic na przyszłość.
+*   **Kluczowe braki w składach:**
+    *   **Euvic GTK Gliwice:** Dominik Wilczek doznał zerwania ścięgna Achillesa podczas meczu z WKS Śląsk Wrocław i wypadł z gry na resztę sezonu. Selton Miguel, jeden z kluczowych graczy i czołowy strzelec, opuścił mecz z powodu osobistej tragedii (śmierć ojca).
+    *   **WKS Śląsk Wrocław:** Trener Danny Franco wspominał o "sporo niewiadomych związanych z naszym składem" i kontuzjach, które sprawiały, że do końca nie było pewności, kto zagra. Nie podano jednak konkretnych nazwisk zawodników Śląska, którzy byliby oficjalnie wykluczeni z tego spotkania.
+*   **Aktualna forma top scorerów:**
+    *   **WKS Śląsk Wrocław:** Anthony Hickey (13.3 Pkt/mecz), Devin Robinson (12 Pkt/mecz), Malik Parsons (11.3 Pkt/mecz) byli czołowymi strzelcami zespołu w sezonie 2026/2027. Anthony Hickey był kluczowy w czwartej kwarcie meczu z Gliwicami.
+    *   **Euvic GTK Gliwice:** Selton Miguel (16.3 Pkt/mecz) był liderem strzelców, jednak nie wystąpił w meczu. Kacper Gordon (13.2 Pkt/mecz) i Benjamin Schwieger (10.8 Pkt/mecz) to kolejni wiodący strzelcy.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Typ na Euvic GTK Gliwice był ryzykowny ze względu na znaczące osłabienia w składzie GTK Gliwice (brak Seltona Miguela i kontuzja Dominika Wilczka w trakcie meczu), co silnie wpłynęło na ich grę. Śląsk Wrocław, mimo wcześniejszych niejasności kadrowych, pokonał Gliwice 96:84.
 
 ---
 
 ### King Szczecin @ Górnik Zamek Książ Wałbrzych
-
-**Wynik meczu (01.11.2026):** Górnik Zamek Książ Wałbrzych 86 : 95 King Szczecin
-**Typ PulsBasketu:** King Szczecin
-
-1.  **Kluczowe braki w składach (stan na 03.11.2026, uwzględniając wydarzenia z 01.11.2026):**
-    *   **King Szczecin:** Brak istotnych braków w składzie koszykarskim na dzień 01.11.2026 i 03.11.2026.
-    *   **Górnik Zamek Książ Wałbrzych:** Brak istotnych braków w składzie koszykarskim na dzień 01.11.2026 i 03.11.2026.
-2.  **Aktualna forma top scorerów (z meczu 01.11.2026):**
-    *   **King Szczecin:** Brak danych z API dla tego zespołu w kontekście top scorerów z tego konkretnego meczu, jednakże media donosiły o "dobrej formie" Kinga Szczecin po meczu.
-    *   **Górnik Zamek Książ Wałbrzych:** Brak danych z API dla tego zespołu.
-3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Typ PulsBasketu, wskazujący na zwycięstwo Kinga Szczecin, był prawidłowy. King Szczecin pokonał Górnika Zamek Książ Wałbrzych 95:86. Brak informacji o kontuzjach w obu zespołach na dzień meczu.
+*   **Kluczowe braki w składach:**
+    *   **King Szczecin:** Brak istotnych braków w składzie koszykarskim, brak potwierdzonych kontuzji czy zawieszeń na dzień meczu (2026-11-01).
+    *   **Górnik Zamek Książ Wałbrzych:** Brak istotnych braków w składzie koszykarskim, brak potwierdzonych kontuzji czy zawieszeń na dzień meczu (2026-11-01).
+*   **Aktualna forma top scorerów:**
+    *   **King Szczecin:** Czołowi strzelcy to Zahir Porter (17.6 Pkt/mecz), Przemysław Żołnierewicz (15 Pkt/mecz) i Tomasz Gielo (10.6 Pkt/mecz) w sezonie 2026/2027. Statystyki indywidualne z PLK.pl potwierdzają ich wysoką formę w sezonie. King Szczecin zwyciężył w tym meczu 95:86.
+    *   **Górnik Zamek Książ Wałbrzych:** Najlepsi strzelcy w sezonie 2026/2027 to Michaelyn Scott (14.2 Pkt/mecz), Adam Rohosy Jr (12.2 Pkt/mecz) i Trey Diggs (11 Pkt/mecz). W bezpośrednim meczu przeciwko King Szczecin, Adam Rohosy Jr zdobył 21 punktów, Michaelyn Scott 15 punktów, a Trey Diggs 8 punktów.
+*   **Werdykt:** [✅ ZATWIERDZONY] Brak istotnych osłabień w obu drużynach. King Szczecin, jako zespół typowany do zwycięstwa, potwierdził swoją dyspozycję wygrywając mecz na wyjeździe.
