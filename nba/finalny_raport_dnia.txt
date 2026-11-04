@@ -1,84 +1,112 @@
---- KRYTYCZNY AUDYT LIVE (2026-11-03 21:21 ET) ---
-Oto analiza Twoich typów na podstawie dzisiejszych danych (2026-11-03):
+--- KRYTYCZNY AUDYT LIVE (2026-11-03 23:19 ET) ---
+Rozumiem. Jako rygorystyczny analityk NBA, bazując na danych z DZISIAJ (2026-11-03), przeanalizuję Twoje typy. Pamiętaj, że interesują mnie wyłącznie potwierdzone informacje o kontuzjach na dzień 2026-11-03.
+
+Oto analiza Twoich typów na podstawie aktualnych raportów o kontuzjach na dzień 2026-11-03:
+
+---
 
 **76ers @ Pistons -> Typ: Pistons**
 *   **Kluczowe braki w składach:**
-    *   76ers: Dominick Barlow (Out - plecy), Ariel Hukporti (Out - ścięgno Achillesa).
-    *   Pistons: Jalen Duren (Out - ścięgno udowe), Isaiah Joe (Out - biodro).
-*   **Werdykt:** [⚠️ RYZYKOWNY] Brak Jalen Durena to znaczące osłabienie dla Pistons. 76ers mają mniej kluczowych kontuzji.
+    *   **76ers:** Dominick Barlow (uraz pleców – OUT), Ariel Hukporti (zerwanie ścięgna Achillesa – OUT). Joel Embiid (zapalenie rozcięgna podeszwowego) nie jest wymieniony, ale grał z ograniczeniem minut w poprzednim meczu i odczuwał ból.
+    *   **Pistons:** Jalen Duren (naciągnięcie ścięgna podkolanowego – OUT), Isaiah Joe (stłuczenie biodra – OUT). Ausar Thompson (kostka) - Day-To-Day.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Brak kluczowych graczy w obu drużynach, a status Embiida budzi niepokój.
+
+---
 
 **Hawks @ Wizards -> Typ: Wizards**
 *   **Kluczowe braki w składach:**
-    *   Hawks: Jalen Johnson (Questionable - skręcenie kostki), Jock Landale (Out - biodro), Mouhamed Gueye (Out - złamanie stopy), Henri Veesaar (Out - zerwane ACL).
-    *   Wizards: Reece Beekman (Out - uraz barku), Justin Champagnie (Out - operacja stopy), Tristan Vukcevic (Out - biodro), Jamir Watkins (Out - operacja ACL).
-*   **Werdykt:** [⚠️ RYZYKOWNY] Status Jalen Johnsona (Q) dla Hawks jest kluczowy. Obie drużyny mają sporo absencji, ale jeśli Johnson nie zagra, to Hawks będą znacznie osłabieni.
+    *   **Hawks:** Mouhamed Gueye (złamanie stopy – OUT), Jock Landale (naciągnięcie biodra – OUT), Henri Veesaar (zerwanie ACL – OUT NA SEZON). Jalen Johnson (skręcenie kostki) – QUESTIONABLE.
+    *   **Wizards:** Reece Beekman (uraz stawu barkowo-obojczykowego – OUT), Justin Champagnie (operacja stopy – OUT), Tristan Vukcevic (dysfunkcja stawu biodrowego – OUT), Jamir Watkins (operacja ACL – OUT NA SEZON). Anthony Gill (skurcze dolnej części pleców) – QUESTIONABLE, Alex Sarr (ból kolana) – QUESTIONABLE.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Znaczące braki w obu zespołach, szczególnie w Hawks (Johnson GTD).
+
+---
 
 **Bucks @ Celtics -> Typ: Celtics**
 *   **Kluczowe braki w składach:**
-    *   Bucks: Brak aktualnych raportów (Injury Report) na tę chwilę.
-    *   Celtics: Jayson Tatum (Questionable - odpoczynek), Payton Pritchard (Questionable - stłuczenie barku), Devin Carter (Out - choroba).
-*   **Werdykt:** [⚠️ RYZYKOWNY] Jayson Tatum (Q) ze względu na odpoczynek to ogromny czynnik ryzyka dla Celtics. Jeśli nie zagra, szanse Bucks wzrosną.
+    *   **Bucks:** Brak aktualnych raportów o kluczowych graczach (Injury Report) na tę chwilę.
+    *   **Celtics:** Devin Carter (choroba – OUT). Payton Pritchard (stłuczenie barku) – QUESTIONABLE, Jayson Tatum (odpoczynek) – QUESTIONABLE.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Brak pełnego raportu dla Bucks. Tatum questionable to duży czynnik ryzyka.
+
+---
 
 **Hornets @ Nets -> Typ: Hornets**
 *   **Kluczowe braki w składach:**
-    *   Hornets: Grant Williams (Out - ścięgno udowe). Coby White (Probable - łydka) ma zagrać.
-    *   Nets: Egor Demin (Out - stłuczenie kości).
-*   **Werdykt:** [⚠️ RYZYKOWNY] Brak Granta Williamsa to zauważalna strata dla Hornets.
+    *   **Hornets:** Grant Williams (naciągnięcie ścięgna podkolanowego – OUT). Kon Knueppel (naciągnięcie ścięgna podkolanowego) – PROBABLE i Coby White (zarządzanie urazem łydki) – PROBABLE.
+    *   **Nets:** Egor Demin (stłuczenie kości – OUT).
+*   **Werdykt:** [⚠️ RYZYKOWNY] Hornets mają powroty, ale nadal brakuje Granta Williamsa.
+
+---
 
 **Bulls @ Knicks -> Typ: Knicks**
 *   **Kluczowe braki w składach:**
-    *   Bulls: Nic Claxton (Questionable - ścięgno udowe).
-    *   Knicks: Josh Hart (Questionable - ból kostki).
-*   **Werdykt:** [⚠️ RYZYKOWNY] Kluczowi zawodnicy Claxton (Bulls) i Hart (Knicks) są obaj wątpliwi. Niepewność co do ich występu czyni ten typ ryzykownym.
+    *   **Bulls:** Nic Claxton (naciągnięcie ścięgna podkolanowego) – QUESTIONABLE (miał zadebiutować).
+    *   **Knicks:** Josh Hart (ból kostki) – QUESTIONABLE.
+*   **Werdykt:** [✅ ZATWIERDZONY] Mimo statusu Claxtona i Harta, Knicks wydają się być w lepszej sytuacji.
+
+---
 
 **Pacers @ Grizzlies -> Typ: Grizzlies**
 *   **Kluczowe braki w składach:**
-    *   Pacers: Tyrese Haliburton (Out - ścięgno udowe) ⛔️, T.J. McConnell (Out - ścięgno udowe), Johnny Furphy (Out - kontuzja), Ben Sheppard (Out - operacja łąkotki). Pascal Siakam (gra).
-    *   Grizzlies: Scotty Pippen Jr. (Out - przepuklina dysku lędźwiowego).
-*   **Werdykt:** [✅ ZATWIERDZONY] Pacers są zdziesiątkowani brakiem Haliburtona i McConnella. Grizzlies wydają się być znacznie zdrowsi.
+    *   **Pacers:** Johnny Furphy (operacja ACL – OUT), Tyrese Haliburton (naciągnięcie ścięgna podkolanowego – OUT), T.J. McConnell (naciągnięcie ścięgna podkolanowego – OUT), Ben Sheppard (operacja łąkotki – OUT). Kelly Oubre Jr. (stłuczenie łydki) – QUESTIONABLE, Obi Toppin (naciągnięcie lędźwi) – QUESTIONABLE, Ivica Zubac (skręcenie kostki) – QUESTIONABLE. Andrew Nembhard i Aaron Nesmith są z powrotem.
+    *   **Grizzlies:** Scotty Pippen Jr. (przepuklina dysku lędźwiowego – OUT). Quinten Post (skręcenie kostki) – QUESTIONABLE.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Pacers mają bardzo poważne braki w składzie, co czyni typ na Grizzlies ryzykownym ze względu na możliwe niedoszacowanie.
+
+---
 
 **Jazz @ Pelicans -> Typ: Pelicans**
 *   **Kluczowe braki w składach:**
-    *   Jazz: Jaren Jackson Jr. (Out - zerwane MCL) ⛔️, Jusuf Nurkic (Out - kontuzja stopy) ⛔️.
-    *   Pelicans: Yves Missi (Out - stłuczenie kolana). Dejounte Murray (gra).
-*   **Werdykt:** [✅ ZATWIERDZONY] Jazz mają ogromne braki w strefie podkoszowej w postaci Jacksona Jr. i Nurkica. Pelicans są w znacznie lepszej sytuacji kadrowej.
+    *   **Jazz:** Jaren Jackson Jr. (naciągnięcie MCL – OUT na 6-8 tygodni), Jusuf Nurkic (rozerwanie płytki podeszwowej – OUT). Mo Bamba (skręcenie kostki) – QUESTIONABLE.
+    *   **Pelicans:** Yves Missi (stłuczenie kolana – OUT). Trey Murphy III (tendinopatia rzepki) – PROBABLE, Jordan Poole (tendinopatia kostki) – PROBABLE.
+*   **Werdykt:** [✅ ZATWIERDZONY] Jazz ma poważniejsze i bardziej długoterminowe braki.
+
+---
 
 **Cavaliers @ Thunder -> Typ: Thunder**
 *   **Kluczowe braki w składach:**
-    *   Cavaliers: Jaylon Tyson (Out - skręcenie kostki), Nae'Qwan Tomlin (Out - plecy). Peyton Watson (Questionable - ścięgno udowe).
-    *   Thunder: Chet Holmgren (Out - kolano) ⛔️, Cason Wallace (Out - operacja barku) ⛔️, Jalen Williams (Out - operacja kostki) ⛔️, Nikola Topic (Out - operacja pleców). Alex Caruso (gra).
-*   **Werdykt:** [⚠️ RYZYKOWNY] Thunder są bardzo osłabieni brakiem Holmgrena, Wallace'a i J. Williamsa. Pomimo ewentualnej absencji Watsona u Cavs, Thunder mają znacznie poważniejsze braki.
+    *   **Cavaliers:** Nae'Qwan Tomlin (uraz pleców – OUT), Jaylon Tyson (skręcenie kostki – OUT), Peyton Watson (naciągnięcie ścięgna podkolanowego – OUT).
+    *   **Thunder:** Chet Holmgren (rekonwalescencja po urazie kolana – OUT), Thomas Sorber (operacja kolana – OUT), Nikola Topic (operacja pleców – OUT), Cason Wallace (operacja barku – OUT), Jalen Williams (operacja kostki – OUT). Jaylin Williams (skurcze dolnej części pleców) – QUESTIONABLE.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Thunder ma liczne, poważne braki, co sprawia, że typ jest ryzykowny, mimo ich potencjału.
+
+---
 
 **Timberwolves @ Rockets -> Typ: Rockets**
 *   **Kluczowe braki w składach:**
-    *   Timberwolves: Anthony Edwards (Out - artroskopia kolana) ⛔️, Donte DiVincenzo (Out - operacja ścięgna Achillesa) ⛔️.
-    *   Rockets: Steven Adams (Out - naciągnięcie mięśnia płaszczkowatego). Clint Capela (Questionable - skręcenie kostki).
-*   **Werdykt:** [✅ ZATWIERDZONY] Absencje Anthony'ego Edwardsa i Donte DiVincenzo są krytyczne dla Timberwolves. Mimo braku Adamsa i wątpliwości co do Capeli, Rockets są w znacznie lepszej sytuacji.
+    *   **Timberwolves:** Anthony Edwards (artroskopia kolana – OUT na 2 miesiące), Donte DiVincenzo (operacja Achillesa – OUT). Terrence Shannon Jr. (biodro) – QUESTIONABLE. LaMelo Ball grał w poprzednim meczu mimo kontuzji nadgarstka.
+    *   **Rockets:** Steven Adams (naciągnięcie łydki – OUT na 1-2 tygodnie). Clint Capela (kostka) – QUESTIONABLE.
+*   **Werdykt:** [✅ ZATWIERDZONY] Timberwolves mają poważne braki kluczowych graczy.
+
+---
 
 **Raptors @ Nuggets -> Typ: Raptors**
-*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   **Werdykt:** [⚠️ RYZYKOWNY] Brak danych o kontuzjach dla obu drużyn uniemożliwia rzetelną ocenę.
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Brak aktualnych informacji uniemożliwia rzetelną ocenę.
+
+---
 
 **Trail Blazers @ Suns -> Typ: Trail Blazers**
 *   **Kluczowe braki w składach:**
-    *   Trail Blazers: Ja Morant (Out - ścięgno udowe, 1 miesiąc) ⛔️, Shaedon Sharpe (Out - łąkotka, 6 miesięcy) ⛔️.
-    *   Suns: Jordan Goodwin (Questionable - łydka).
-*   **Werdykt:** [⚠️ RYZYKOWNY] Trail Blazers są mocno osłabieni brakiem swoich gwiazd Moranta i Sharpe'a. Twój typ jest bardzo ryzykowny.
+    *   **Trail Blazers:** Ja Morant (naciągnięcie ścięgna podkolanowego – OUT na 4 tygodnie), Shaedon Sharpe (zerwanie łąkotki – OUT na 6 miesięcy).
+    *   **Suns:** Mark Williams (operacja barku – OUT). Rasheer Fleming (skręcenie kostki) – QUESTIONABLE, Jordan Goodwin (ból łydki) – QUESTIONABLE.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Trail Blazers mają poważne długoterminowe kontuzje kluczowych graczy.
+
+---
 
 **Mavericks @ Spurs -> Typ: Spurs**
 *   **Kluczowe braki w składach:**
-    *   Mavericks: Dereck Lively II (Out - operacja stopy) ⛔️, Tarik Biberovic (Out - zapalenie kaletki piętowej), Max Christie (Out - ból biodra), Sergio de Larrea (Out - skręcenie kolana), Santi Aldama (Questionable - operacja kolana). Kyrie Irving (gra).
-    *   Spurs: Brak aktualnych raportów (Injury Report) na tę chwilę. Dylan Cardwell (gra).
-*   **Werdykt:** [✅ ZATWIERDZONY] Mavericks mają wiele kontuzji, zwłaszcza w strefie podkoszowej. Spurs wydają się być zdrowi, co faworyzuje Twój typ.
+    *   **Mavericks:** Sergio De Larrea (skręcenie kolana – OUT), Dereck Lively II (operacja stopy – OUT), Tarik Biberovic (zapalenie kaletki piętowej – OUT). Santi Aldama (rekonwalescencja po operacji kolana) – QUESTIONABLE, Max Christie (ból biodra) – OUT, Kyrie Irving (zarządzanie urazem kolana) – GTD/QUESTIONABLE.
+    *   **Spurs:** Tobias Harris (naciągnięcie łydki – OUT). Jayden Quaintance (operacja kolana – OUT).
+*   **Werdykt:** [✅ ZATWIERDZONY] Spurs mają mniej kluczowych graczy na liście kontuzjowanych, mimo że Mavericks mają kilku ważnych graczy GTD/OUT.
+
+---
 
 **Lakers @ Kings -> Typ: Lakers**
-*   **Kluczowe braki w składach:**
-    *   Lakers: Adou Thiero (Out - zarządzanie urazem kolana).
-    *   Kings: Ben Simmons (Out - zerwane ścięgno Achillesa, cały sezon) ⛔️. Zach LaVine (Questionable).
-*   **Werdykt:** [✅ ZATWIERDZONY] Ben Simmons jest poza grą na cały sezon dla Kings, co jest ogromnym ciosem. Przy względnym zdrowiu Lakers, Twój typ wydaje się zasadny.
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Brak aktualnych informacji uniemożliwia rzetelną ocenę.
+
+---
 
 **Heat @ Clippers -> Typ: Heat**
-*   **Kluczowe braki w składach:**
-    *   Heat: Giannis Antetokounmpo (Probable - skręcenie nadgarstka). Myron Gardner (Questionable - mięsień czworogłowy).
-    *   Clippers: Brak aktualnych raportów (Injury Report) na tę chwilę. Rui Hachimura (gra).
-*   **Werdykt:** [✅ ZATWIERDZONY] Giannis Antetokounmpo jest prawdopodobnie gotowy do gry dla Heat. Clippers nie zgłaszają większych braków. Typ Heat jest rozsądny.
+*   **Kluczowe braki w składach:** Brak aktualnych raportów (Injury Report) na tę chwilę dla obu drużyn.
+*   **Werdykt:** [⚠️ RYZYKOWNY] Brak aktualnych informacji uniemożliwia rzetelną ocenę.
+
+---
