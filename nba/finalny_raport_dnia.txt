@@ -1,32 +1,60 @@
---- KRYTYCZNY AUDYT LIVE (2026-11-04 23:37 ET) ---
-Oto analiza Twoich typów na podstawie danych z 2026-11-04:
+--- KRYTYCZNY AUDYT LIVE (2026-11-05 07:43 ET) ---
+Oto analiza Twoich typów na podstawie dzisiejszych danych z sieci (2026-11-05):
 
 ---
 
-### Mavericks @ Spurs -> Typ: Spurs
+**Mavericks @ Spurs -> Typ: Spurs**
 
 *   **Kluczowe braki w składach:**
-    *   **Dallas Mavericks:** Max Christie (Out - biodro), Santi Aldama (Doubtful - kolano), Tarik Biberovic (Out - pięta), Sergio De Larrea (Out - kolano), Dereck Lively II (Out - stopa).
-    *   **San Antonio Spurs:** Jayden Quaintance (Out - kolano), Tobias Harris (Out - łydka).
-*   **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Mavericks są znacznie osłabieni pięcioma graczami "Out" lub "Doubtful", w tym kluczowymi Dereckiem Livelym II i Santi Aldamą. Spurs również mają dwa braki, w tym Tobiasa Harrisa. Pomimo braków w Dallas, Spurs (5-2) mają lepszy bilans niż Mavericks (4-3) na ten moment sezonu. Jednak liczne osłabienia Mavs sprawiają, że sam typ na Spurs jest ryzykowny z uwagi na nieprzewidywalność osłabionych drużyn.
-
----
-
-### Lakers @ Kings -> Typ: Lakers
-
-*   **Kluczowe braki w składach:**
-    *   **Los Angeles Lakers:** Adou Thiero (Out - zarządzanie urazem kolana). Walker Kessler (Dostępny - szyna na palec lewej ręki).
-    *   **Sacramento Kings:** Keegan Murray (Out - zapalenie torebki stawowej lewej kostki), Maxime Raynaud (Out - podwichnięcie rzepki prawej), Ben Simmons (Out - operacja/naprawa ścięgna Achillesa prawej), Sean Pedulla (Out - G League), Daeqwon Plowden (Out - choroba). Precious Achiuwa (Probable - bolesność lewej kostki).
+    *   **Dallas Mavericks:**
+        *   Santi Aldama: Kontuzjowany (operacja prawego kolana) 🩹
+        *   Tarik Biberović: Kontuzjowany (zapalenie kaletki prawego stawu piętowego) 🩹
+        *   Max Christie: Kontuzjowany (ból/naciągnięcie prawego biodra) 🩹
+        *   Sergio de Larrea: Kontuzjowany (skręcenie prawego kolana) 🩹
+        *   Dereck Lively II: Kontuzjowany (operacja prawej stopy) 🩹
+        *   Caleb Martin: Dostępny (szyna na prawym kciuku) ✅
+        *   Kyrie Irving: Dostępny (po opuszczeniu meczu z powodu zarządzania kontuzją kolana) ✅
+    *   **San Antonio Spurs:**
+        *   Tobias Harris: Kontuzjowany (naciągnięcie lewej łydki) 🩹
+        *   Jayden Quaintance: Kontuzjowany (operacja prawego kolana) 🩹
+        *   Victor Wembanyama: Grał w poprzednim meczu (4 listopada), pomimo choroby wirusowej i skręcenia kostki w czwartej kwarcie, wracając do gry.
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Lakers mają tylko jednego gracza "Out", podczas gdy Kings borykają się z licznymi i znaczącymi brakami, takimi jak Keegan Murray i Ben Simmons. Luka Doncić przewodzi Lakers jako lider ligi w punktach. Lakers mają też znacznie lepszy bilans (6-2) w porównaniu do Kings (1-6).
+    *   Spurs pokonali Mavericks 112-111 w meczu 4 listopada 2026 roku, z dominantą Victora Wembanyamy (52 punkty, 24 zbiórki, 8 bloków). Dallas mierzy się z licznymi ważnymi absencjami, co czyni ich skład osłabionym.
 
 ---
 
-### Heat @ Clippers -> Typ: Heat
+**Lakers @ Kings -> Typ: Lakers**
 
 *   **Kluczowe braki w składach:**
-    *   **Miami Heat:** Giannis Antetokounmpo (Probable - zwichnięcie prawego nadgarstka), Myron Gardner (Questionable - stłuczenie prawego mięśnia czworogłowego). Giannis jest przewidywany do gry.
-    *   **Los Angeles Clippers:** Brandon Ingram (Out - operacja prawej pięty), Bradley Beal (Out - zarządzanie urazem prawego kolana), Jordan Miller (Out - operacja lewego stożka rotatorów), Yanic Konan Niederhauser (Out - operacja prawego stawu Lisfranca). Isaiah Jackson (Questionable - bolesność lewej pachwiny). Rui Hachimura (Dostępny - poza raportem o kontuzjach).
+    *   **Los Angeles Lakers:**
+        *   Adou Thiero: Kontuzjowany (zarządzanie kontuzją lewego kolana, przypisany do G League) 🩹
+        *   Walker Kessler: Dostępny (szyna na lewym palcu) ✅
+        *   Luka Dončić, Austin Reaves: Bez zgłoszeń o kontuzjach. ✅
+    *   **Sacramento Kings:**
+        *   Keegan Murray: Kontuzjowany (zapalenie torebki stawowej lewego stawu skokowego, ponowna ocena za 7-10 dni) 🩹
+        *   Ben Simmons: Kontuzjowany do końca sezonu (zerwane prawe ścięgno Achillesa) 🩹
+        *   Maxime Raynaud: Kontuzjowany (podwichnięcie prawej rzepki, ponowna ocena w przyszłym tygodniu) 🩹
+        *   Daeqwon Plowden: Kontuzjowany (choroba) 🩹
+        *   Sean Pedulla: Kontuzjowany (kontrakt dwukierunkowy - G League) 🩹
+        *   Dylan Cardwell: Dostępny (nadal monitorowany z naciągnięciem łydki, ale zagrał w poprzednim meczu) ✅
+        *   Zach LaVine: Gra z zapaleniem i bólem prawego łokcia, ale kontynuuje grę. ✅
 *   **Werdykt:** [✅ ZATWIERDZONY]
-    *   Clippers są bardzo osłabieni, brakuje im kluczowych graczy, takich jak Brandon Ingram i Bradley Beal. Giannis Antetokounmpo jest przewidywany do gry dla Heat. Biorąc pod uwagę stan zdrowia obu drużyn, typ na Heat jest uzasadniony.
+    *   Lakers są prawie w pełnym składzie, z Luką Dončićem prowadzącym drużynę. Kings mają znaczące braki, w tym ważnego obrońcę Keegana Murraya oraz Bena Simmonsa na cały sezon. Ten typ jest bardzo korzystny dla Lakers.
+
+---
+
+**Heat @ Clippers -> Typ: Heat**
+
+*   **Kluczowe braki w składach:**
+    *   **Miami Heat:**
+        *   Giannis Antetokounmpo: Prawdopodobny (skręcenie prawego nadgarstka) ✅
+        *   Myron Gardner: Dostępny (stłuczenie prawego mięśnia czworogłowego) ✅
+        *   Brak innych aktualnych raportów o kontuzjach.
+    *   **Los Angeles Clippers:**
+        *   Bradley Beal: Kontuzjowany (zarządzanie kontuzją prawego kolana) 🩹
+        *   Brandon Ingram: Kontuzjowany (operacja prawej pięty) 🩹
+        *   Jordan Miller: Kontuzjowany (operacja lewego stożka rotatorów / barku) 🩹
+        *   Yanic Konan Niederhauser: Kontuzjowany (operacja Lisfranca prawej stopy) 🩹
+        *   Isaiah Jackson: Dostępny (ból w lewej pachwinie) ✅
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Heat są w prawie pełnym składzie, z Giannisem Antetokounmpo jako prawdopodobnym do gry. Clippers są poważnie osłabieni, brakuje im kilku kluczowych graczy, takich jak Bradley Beal i Brandon Ingram. Sytuacja ta znacząco sprzyja typowi na Heat.
