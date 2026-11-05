@@ -1,9 +1,3 @@
-Pacers @ Grizzlies -> Typ: Grizzlies
-Jazz @ Pelicans -> Typ: Pelicans
-Cavaliers @ Thunder -> Typ: Thunder
-Timberwolves @ Rockets -> Typ: Rockets
-Raptors @ Nuggets -> Typ: Raptors
-Trail Blazers @ Suns -> Typ: Trail Blazers
 Mavericks @ Spurs -> Typ: Spurs
 Lakers @ Kings -> Typ: Lakers
 Heat @ Clippers -> Typ: Heat
