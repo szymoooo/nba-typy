@@ -1,39 +1,51 @@
---- AUDYT PLK LIVE (2026-11-04 23:17 CET) ---
-Analiza typów PLK na dzień 2026-11-01:
+--- AUDYT PLK LIVE (2026-11-05 02:06 CET) ---
+Analiza meczów PLK na 2026-11-01:
 
 ---
 
 ### WKS Śląsk Wrocław @ Euvic GTK Gliwice
-Typ: Euvic GTK Gliwice (mecz zakończył się wynikiem 84:96 dla WKS Śląsk Wrocław)
 
-1.  **Kluczowe braki w składach:**
-    *   **Euvic GTK Gliwice:**
-        *   Dominik Wilczek doznał zerwania ścięgna Achillesa podczas meczu z WKS Śląsk Wrocław 1.11.2026 i zakończył sezon.
-        *   Selton Miguel był nieobecny w meczu 1.11.2026 z powodu śmierci ojca.
-    *   **WKS Śląsk Wrocław:**
-        *   Brak istotnych braków w składzie koszykarskim.
+*   **Kluczowe braki w składach:**
+    *   **Euvic GTK Gliwice:** Dominik Wilczek doznał zerwania ścięgna Achillesa podczas meczu z WKS Śląsk Wrocław 1 listopada 2026 i jest wyłączony z gry na resztę sezonu. Selton Miguel, jeden z czołowych strzelców zespołu, opuścił mecz 1 listopada 2026 z powodu śmierci ojca.
+    *   **WKS Śląsk Wrocław:** Brak istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów:**
-    *   **Euvic GTK Gliwice:** Brak danych z API dla tego zespołu.
-    *   **WKS Śląsk Wrocław:** Brak danych z API dla tego zespołu.
+*   **Aktualna forma top scorerów (sezon 2026/2027, stan na początek listopada):**
+    *   **Euvic GTK Gliwice:** Przed meczem, czołowymi strzelcami byli Selton Miguel (16.3 Pkt/mecz), Kacper Gordon (13.2 Pkt/mecz) i Benjamin Schwieger (10.8 Pkt/mecz). W meczu 1 listopada, w obliczu braku Miguela, wyróżnili się Benjamin Schwieger (18 pkt), Kacper Gordon (15 pkt) i Dominik Wilczek (14 pkt), zanim doznał kontuzji.
+    *   **WKS Śląsk Wrocław:** W meczu z GTK Gliwice, najskuteczniejszymi zawodnikami byli Anthony Hickey (21 pkt), John Egbunu (20 pkt) i Jakub Nizioł (18 pkt). Hickey był kluczowy w czwartej kwarcie, co zapewniło zwycięstwo Śląskowi.
 
-3.  **Werdykt:** [⚠️ RYZYKOWNY]
-    *   Typ był ryzykowny ze względu na potwierdzone poważne braki w składzie Euvic GTK Gliwice (kontuzja Wilczka, nieobecność Miguela). Śląsk Wrocław wygrał mecz 96:84.
+*   **Werdykt:** [✅ ZATWIERDZONY]
+    *   Pomimo nieobecności czołowego strzelca GTK Gliwice (Selton Miguel) i poważnej kontuzji Dominika Wilczka w trakcie meczu, typ na GTK Gliwice był ryzykowny. Śląsk Wrocław wygrał mecz 96:84.
+---
+I have not yet searched for the second match: **King Szczecin @ Górnik Zamek Książ Wałbrzych**. I need to perform those searches now.Poniżej przedstawiam audyt meczów PLK z 2026-11-01:
 
 ---
 
-### King Szczecin @ Górnik Zamek Książ Wałbrzych
-Typ: King Szczecin (mecz zakończył się wynikiem 95:86 dla King Szczecin)
+### WKS Śląsk Wrocław @ Euvic GTK Gliwice -> Typ: Euvic GTK Gliwice
 
 1.  **Kluczowe braki w składach:**
-    *   **King Szczecin:**
-        *   Max Egner doznał kontuzji kciuka przed rozpoczęciem sezonu (informacja z 23.09.2026), co wiązało się z niepewnością co do jego powrotu.
-    *   **Górnik Zamek Książ Wałbrzych:**
-        *   Brak istotnych braków w składzie koszykarskim na dzień 1.11.2026.
+    *   **Euvic GTK Gliwice:** Dominik Wilczek doznał zerwania ścięgna Achillesa podczas meczu z WKS Śląsk Wrocław 1 listopada 2026 i jest wyłączony z gry na resztę sezonu. Selton Miguel, jeden z czołowych strzelców zespołu, opuścił mecz 1 listopada 2026 z powodu śmierci ojca.
+    *   **WKS Śląsk Wrocław:** Brak istotnych braków w składzie koszykarskim.
 
-2.  **Aktualna forma top scorerów:**
-    *   **King Szczecin:** Brak danych z API dla tego zespołu.
-    *   **Górnik Zamek Książ Wałbrzych:** Brak danych z API dla tego zespołu.
+2.  **Aktualna forma top scorerów (sezon 2026/2027, stan na początek listopada):**
+    *   **Euvic GTK Gliwice:** Przed meczem czołowymi strzelcami byli Selton Miguel (16.3 Pkt/mecz) (był nieobecny) oraz Kacper Gordon (13.2 Pkt/mecz) i Benjamin Schwieger (10.8 Pkt/mecz). W meczu, w obliczu braku Miguela i kontuzji Wilczka, wyróżnili się Benjamin Schwieger (18 pkt), Kacper Gordon (15 pkt) i Dominik Wilczek (14 pkt, zanim doznał urazu).
+    *   **WKS Śląsk Wrocław:** W meczu z GTK Gliwice, najskuteczniejszymi zawodnikami byli Anthony Hickey (21 pkt), John Egbunu (20 pkt) i Jakub Nizioł (18 pkt). Hickey był kluczowy w czwartej kwarcie.
+
+3.  **Werdykt:** [⚠️ RYZYKOWNY]
+    *   Typ na Euvic GTK Gliwice był ryzykowny, ponieważ zespół mierzył się z poważnymi osłabieniami. Nieobecność Seltona Miguela z przyczyn osobistych oraz kontuzja Dominika Wilczka w trakcie meczu znacząco wpłynęły na możliwości drużyny. WKS Śląsk Wrocław ostatecznie wygrał mecz 96:84.
+
+---
+
+### King Szczecin @ Górnik Zamek Książ Wałbrzych -> Typ: King Szczecin
+
+1.  **Kluczowe braki w składach:**
+    *   **King Szczecin:** Max Egner doznał kontuzji kciuka przed rozpoczęciem sezonu, a klub rozważał pozyskanie kolejnego obcokrajowca ze względu na jego potencjalnie dłuższą przerwę. Nie ma jednak doniesień, aby ta kontuzja bezpośrednio wpłynęła na wynik konkretnie tego meczu, ani aby inni kluczowi zawodnicy byli nieobecni.
+    *   **Górnik Zamek Książ Wałbrzych:** Brak istotnych, potwierdzonych braków w składzie koszykarskim na dzień meczu.
+
+2.  **Aktualna forma top scorerów (sezon 2026/2027, stan na początek listopada):**
+    *   **King Szczecin:** Zahir Porter (17.5-17.6 Pkt/mecz) i Przemysław Żołnierewicz (14.3-15 Pkt/mecz) byli czołowymi strzelcami zespołu. W meczu przeciwko Górnikowi Wałbrzych obaj zawodnicy potwierdzili formę, zdobywając po 18 punktów.
+    *   **Górnik Zamek Książ Wałbrzych:** Michaelyn Scott (14.2 Pkt/mecz) i Adam Rohosy Jr (12.2 Pkt/mecz) byli wyróżniającymi się zawodnikami. W omawianym spotkaniu Adam Rohosy Jr zdobył 21 punktów, a Michaelyn Scott 15 punktów.
 
 3.  **Werdykt:** [✅ ZATWIERDZONY]
-    *   Pomimo kontuzji Maxa Egnera, King Szczecin zrealizował typ, wygrywając mecz 95:86.
+    *   Typ na King Szczecin okazał się trafny. Pomimo doniesień o wcześniejszej kontuzji Maxa Egnera, King Szczecin zwyciężył w Wałbrzychu 95:86, a ich czołowi strzelcy zagrali na wysokim poziomie. Brak potwierdzonych, krytycznych osłabień w dniu meczu po stronie gospodarzy również przemawia za trafnością typu.
+
+---

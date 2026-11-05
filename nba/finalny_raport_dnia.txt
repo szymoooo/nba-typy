@@ -1,74 +1,82 @@
---- KRYTYCZNY AUDYT LIVE (2026-11-04 17:17 ET) ---
-Zgodnie z zasadami, analizuję Twoje typy na 4 listopada 2026 roku, opierając się wyłącznie na danych ze stycznia 2026 dla składów oraz na hipotetycznych raportach kontuzji z 4 listopada 2026. Ze względu na przyszłą datę, znalezienie konkretnych raportów kontuzji jest niemożliwe.
+--- KRYTYCZNY AUDYT LIVE (2026-11-04 20:05 ET) ---
+Oto analiza Twoich typów na podstawie aktualnych danych z 2026-11-04:
 
 ---
 
-**76ers @ Pistons -> Typ: Pistons**
+### Pacers @ Grizzlies -> Typ: Grizzlies
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Biorąc pod uwagę typową siłę składów 76ers vs. Pistons, nawet z danymi ze stycznia 2026, typ na Pistons bez informacji o kontuzjach 76ers jest ryzykowny).
+*   **Kluczowe braki w składach:**
+    *   **Pacers:** Tyrese Haliburton (lewe udo, kontuzja) 🩹, T.J. McConnell (prawe udo, kontuzja) 🩹, Ben Sheppard (lewa łąkotka, operacja) 🩹, Johnny Furphy (prawe ACL, operacja) 🩹 – wszyscy poza składem. Kelly Oubre Jr. (lewa łydka, kontuzja) ❓, Obi Toppin (ból lędźwi) ❓, Ivica Zubac (lewa kostka, skręcenie) ❓ – wszyscy pod znakiem zapytania.
+    *   **Grizzlies:** Scotty Pippen Jr. (lędźwiowa dyskopatia) 🩹 – poza składem. Quinten Post (prawa kostka, skręcenie) ❓ – pod znakiem zapytania.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Pacers są osłabieni brakiem kluczowego gracza, Tyrese'a Haliburtona, oraz kilku innych ważnych zawodników. Grizzlies mają mniej znaczących absencji.
 
-**Hawks @ Wizards -> Typ: Wizards**
+---
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Wizards zazwyczaj są uznawani za słabszy zespół niż Hawks. Bez znaczących braków w składzie Hawks na 4 listopada 2026, typ na Wizards jest ryzykowny).
+### Jazz @ Pelicans -> Typ: Pelicans
 
-**Bucks @ Celtics -> Typ: Celtics**
+*   **Kluczowe braki w składach:**
+    *   **Jazz:** Jaren Jackson Jr. (prawe MCL, kontuzja, poza składem do grudnia) 🩹, Jusuf Nurkic (prawa stopa, kontuzja, poza składem na co najmniej 4 tygodnie) 🩹 – obaj poza składem. Mo Bamba (prawa kostka, skręcenie) ❓ – pod znakiem zapytania.
+    *   **Pelicans:** Yves Missi (lewe kolano, stłuczenie/stłuczenie kości) 🩹 – poza składem. Trey Murphy III (tendinopatia rzepki dwubocznej) ✅ i Jordan Poole (tendinopatia lewej kostki) ✅ – obaj prawdopodobni i oczekuje się, że zagrają.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Jazz mają poważne braki w strefie podkoszowej, podczas gdy kluczowi gracze Pelicans są gotowi do gry.
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [✅ ZATWIERDZONY] (Celtics, zwłaszcza grając u siebie, często są faworytem w starciach z Bucks, zakładając pełne składy ze stycznia 2026 i brak raportów o kontuzjach).
+---
 
-**Hornets @ Nets -> Typ: Hornets**
+### Cavaliers @ Thunder -> Typ: Thunder
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Hornets historycznie bywają mniej stabilnym zespołem niż Nets. Bez braków w składzie Nets, typ na Hornets jest ryzykowny).
+*   **Kluczowe braki w składach:**
+    *   **Cavaliers:** Brak aktualnych raportów (Injury Report) na tę chwilę.
+    *   **Thunder:** Chet Holmgren (poza składem) 🩹, Jalen Williams (operacja lewej kostki) 🩹, Jaylin Williams (ból w dole pleców) 🩹 – wszyscy poza składem.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Thunder są mocno osłabieni brakiem kluczowych graczy, w tym Holmgrena i obu Williamsów. Brak pełnego raportu o kontuzjach Cavaliers utrudnia ocenę.
 
-**Bulls @ Knicks -> Typ: Knicks**
+---
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [✅ ZATWIERDZONY] (Knicks, szczególnie u siebie, często prezentują się silnie. Biorąc pod uwagę typowe składy ze stycznia 2026, typ na Knicks jest uzasadniony).
+### Timberwolves @ Rockets -> Typ: Rockets
 
-**Pacers @ Grizzlies -> Typ: Grizzlies**
+*   **Kluczowe braki w składach:**
+    *   **Timberwolves:** Anthony Edwards (artroskopia prawego kolana, poza składem do 2 miesięcy) 🩹, Donte DiVincenzo (operacja prawego ścięgna Achillesa) 🩹 – obaj poza składem. Terrence Shannon Jr. (stłuczenie lewego biodra) ❓ – pod znakiem zapytania.
+    *   **Rockets:** Steven Adams (naciągnięcie prawego mięśnia płaszczkowatego) 🩹 – poza składem. Clint Capela (skręcenie prawej kostki) ❓ – pod znakiem zapytania.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Timberwolves są znacznie osłabieni brakiem swojej supergwiazdy, Anthony'ego Edwardsa. Rockets, mimo kilku absencji, wydają się mieć silniejszy skład na ten mecz.
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Grizzlies często są silnym zespołem, ale Pacers potrafią zaskoczyć. Bez informacji o kontuzjach, typ na Grizzlies jest umiarkowanie ryzykowny).
+---
 
-**Jazz @ Pelicans -> Typ: Pelicans**
+### Raptors @ Nuggets -> Typ: Raptors
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [✅ ZATWIERDZONY] (Pelicans, szczególnie w domowych meczach, zazwyczaj są faworytem przeciwko Jazz. Przyjmując składy ze stycznia 2026, ten typ jest zatwierdzony).
+*   **Kluczowe braki w składach:**
+    *   **Raptors:** Kawhi Leonard (lewe kolano, kontuzja, poza składem na co najmniej tydzień) 🩹, Nate Bittle (prawe złamanie awulsyjne stopy) 🩹 – obaj poza składem. Jakob Poeltl (zapalenie kaletki lewego barku) ❓ – pod znakiem zapytania.
+    *   **Nuggets:** Spencer Jones (bilateralne ścięgno podkolanowe) 🩹, Julian Strawther (skręcenie lewego kolana) 🩹 – obaj poza składem. Cameron Johnson (kontuzja dolnej części ciała) ✅ i Alpha Diallo (skręcenie prawego nadgarstka) ✅ – obaj prawdopodobni.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Brak Kawhi Leonarda to ogromna strata dla Raptors. Nuggets, mimo kilku kontuzji, mają dostępnych swoich kluczowych graczy.
 
-**Cavaliers @ Thunder -> Typ: Thunder**
+---
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [✅ ZATWIERDZONY] (Thunder w ostatnich latach rozwinęli się w silny zespół. Przy założeniu stabilnych składów ze stycznia 2026 i braku kontuzji, typ na Thunder wydaje się solidny).
+### Trail Blazers @ Suns -> Typ: Trail Blazers
 
-**Timberwolves @ Rockets -> Typ: Rockets**
+*   **Kluczowe braki w składach:**
+    *   **Trail Blazers:** Ja Morant (naciągnięcie lewego ścięgna podkolanowego) 🩹, Shaedon Sharpe (operacja prawej łąkotki) 🩹 – obaj poza składem.
+    *   **Suns:** Mark Williams (operacja lewego barku) 🩹 – poza składem. Rasheer Fleming (skręcenie lewej kostki) ❓, Jordan Goodwin (ból prawej łydki) ❓ – obaj pod znakiem zapytania.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Trail Blazers są znacząco osłabieni, w tym brakiem Moranta i Sharpe'a. Suns, pomimo Marka Williamsa poza składem, mają bardziej kompletny zespół.
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Timberwolves często są uznawani za silniejszy zespół niż Rockets. Bez informacji o kontuzjach, typ na Rockets jest ryzykowny).
+---
 
-**Raptors @ Nuggets -> Typ: Raptors**
+### Mavericks @ Spurs -> Typ: Spurs
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Nuggets są konsekwentnie jednym z najlepszych zespołów w lidze, szczególnie u siebie. Typ na Raptors, bez znaczących braków w składzie Nuggets, jest bardzo ryzykowny).
+*   **Kluczowe braki w składach:**
+    *   **Mavericks:** Max Christie (ból/napięcie prawego biodra) 🩹, Sergio de Larrea (skręcenie prawego kolana) 🩹, Tarik Biberovic (zapalenie kaletki prawej pięty) 🩹, Dereck Lively II (operacja prawej stopy) 🩹 – wszyscy poza składem. Santi Aldama (operacja prawego kolana) ❓ – wątpliwy (został obniżony z "questionable" na "doubtful"). Kyrie Irving (powrót po kontuzji kolana) ✅ i Caleb Martin (orteza prawego kciuka) ✅ – obaj dostępni.
+    *   **Spurs:** Tobias Harris (naciągnięcie lewej łydki, poza składem na początek sezonu) 🩹, Jayden Quaintance (operacja prawego kolana) 🩹 – obaj poza składem.
+*   **Werdykt:** [⚠️ RYZYKOWNY] – Mimo powrotu Kyriego Irvinga do składu Mavericks, zespół nadal ma wiele braków kadrowych. Spurs również mają kontuzje, ale obecność Irvinga czyni ten typ bardziej ryzykownym.
 
-**Trail Blazers @ Suns -> Typ: Trail Blazers**
+---
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Suns, z ich podstawowym składem ze stycznia 2026, zazwyczaj są silniejszym zespołem niż Trail Blazers. Typ na Trail Blazers jest ryzykowny).
+### Lakers @ Kings -> Typ: Lakers
 
-**Mavericks @ Spurs -> Typ: Spurs**
+*   **Kluczowe braki w składach:**
+    *   **Lakers:** Adou Thiero (lewe kolano, kontuzja) 🩹 – poza składem. Walker Kessler (orteza lewego palca) ✅ – dostępny.
+    *   **Kings:** Keegan Murray (zapalenie torebki lewej kostki) 🩹, Maxime Raynaud (prawostronne podwichnięcie rzepki) 🩹, Ben Simmons (operacja/naprawa prawego ścięgna Achillesa) 🩹 – wszyscy poza składem. Precious Achiuwa (ból lewej kostki) ✅ – prawdopodobny.
+*   **Werdykt:** [✅ ZATWIERDZONY] – Lakers są w dobrej kondycji zdrowotnej. Kings mają znaczące braki, w tym Keegan Murray i Ben Simmons.
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Mavericks z ich głównymi graczami ze stycznia 2026 są zazwyczaj faworytem przeciwko Spurs. Typ na Spurs jest ryzykowny).
+---
 
-**Lakers @ Kings -> Typ: Lakers**
+### Heat @ Clippers -> Typ: Heat
 
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Kings udowodnili, że są silnym zespołem, zwłaszcza u siebie. Typ na Lakers bez informacji o kontuzjach Kings może być ryzykowny).
-
-**Heat @ Clippers -> Typ: Heat**
-
-*   Kluczowe braki w składach: Brak aktualnych raportów (Injury Report) na tę chwilę.
-*   Werdykt: [⚠️ RYZYKOWNY] (Clippers, z ich składem ze stycznia 2026, są zazwyczaj bardzo silnym zespołem. Typ na Heat bez specyficznych informacji o kontuzjach jest ryzykowny).
+*   **Kluczowe braki w składach:**
+    *   Brak aktualnych raportów (Injury Report) na tę chwilę.
+*   **Werdykt:** Brak aktualnych raportów (Injury Report) na tę chwilę. Nie można ocenić.
