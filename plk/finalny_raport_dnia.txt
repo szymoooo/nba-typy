@@ -1,36 +1,32 @@
---- AUDYT PLK LIVE (2026-11-05 03:31 CET) ---
-Analiza meczów PLK (2026-11-01) - Audyt typów na dzień 2026-11-05
+--- AUDYT PLK LIVE (2026-11-05 05:38 CET) ---
+Analiza typów na 2026-11-01:
 
 ---
 
 ### WKS Śląsk Wrocław @ Euvic GTK Gliwice -> Typ: Euvic GTK Gliwice
 
-*   **Wynik meczu (01.11.2026):** WKS Śląsk Wrocław 96 : 84 Euvic GTK Gliwice.
+1.  **Kluczowe braki w składach**:
+    *   **Euvic GTK Gliwice**: Dominik Wilczek doznał zerwania ścięgna Achillesa podczas meczu 1 listopada 2026 roku z WKS Śląsk Wrocław, co wykluczyło go z gry na resztę sezonu.
+    *   **WKS Śląsk Wrocław**: Brak istotnych braków w składzie koszykarskim.
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **Euvic GTK Gliwice:** Dominik Wilczek doznał zerwania ścięgna Achillesa podczas meczu z WKS Śląsk Wrocław (01.11.2026), co oznacza dla niego koniec sezonu.
-    *   🏀 **WKS Śląsk Wrocław:** Brak istotnych braków w składzie koszykarskim. Jakub Nizioł, który według wcześniejszych doniesień wracał po drobniejszym urazie, zagrał w meczu i zdobył 18 punktów.
+2.  **Aktualna forma top scorerów**:
+    *   **WKS Śląsk Wrocław**: Anthony Hickey (21 pkt), John Egbunu (20 pkt), Jakub Nizioł (18 pkt) byli wiodącymi strzelcami w meczu. Anthony Hickey był kluczowy w wygranej.
+    *   **Euvic GTK Gliwice**: Ben Schwieger (18 pkt), Kacper Gordon (15 pkt), Dominik Wilczek (14 pkt przed kontuzją) byli wyróżniającymi się strzelcami w meczu.
 
-2.  **Aktualna forma top scorerów (mecz 01.11.2026):**
-    *   📊 **WKS Śląsk Wrocław:** Anthony Hickey (21 pkt), John Egbunu (20 pkt), Jakub Nizioł (18 pkt), Anthony Wrzeszcz (16 pkt).
-    *   📊 **Euvic GTK Gliwice:** Benjamin Schwieger (18 pkt), Kacper Gordon (15 pkt), Dominik Wilczek (14 pkt - przed kontuzją).
-
-3.  **Werdykt:** [⚠️ RYZYKOWNY] - Typ na zwycięstwo Euvic GTK Gliwice okazał się błędny, zespół przegrał mecz, a dodatkowo stracił kluczowego zawodnika, Dominika Wilczka, z powodu poważnej kontuzji Achillesa.
+3.  **Werdykt**: ⚠️ **RYZYKOWNY**
+    *   Typ okazał się nieprawidłowy. WKS Śląsk Wrocław pokonał Euvic GTK Gliwice 96:84. Kontuzja Dominika Wilczka w trakcie meczu mogła mieć wpływ na dalszą postawę GTK Gliwice.
 
 ---
 
 ### King Szczecin @ Górnik Zamek Książ Wałbrzych -> Typ: King Szczecin
 
-*   **Wynik meczu (01.11.2026):** Górnik Zamek Książ Wałbrzych 86 : 95 King Szczecin.
+1.  **Kluczowe braki w składach**:
+    *   **King Szczecin**: Brak istotnych braków w składzie koszykarskim w dniu meczu. Wcześniej, we wrześniu 2026, Maximillian Egner doznał kontuzji kciuka, a jego powrót był niepewny, ale brak potwierdzenia jego niedostępności na ten konkretny mecz.
+    *   **Górnik Zamek Książ Wałbrzych**: Brak istotnych braków w składzie koszykarskim.
 
-1.  **Kluczowe braki w składach:**
-    *   🏀 **King Szczecin:** Max Egner (niski skrzydłowy) borykał się z kontuzją kciuka przed rozpoczęciem sezonu, a klub rozważał pozyskanie nowego gracza na jego pozycję. Informacje z 5 października 2026 wskazywały na brak dwóch podstawowych graczy.
-    *   🏀 **Górnik Zamek Książ Wałbrzych:** Brak istotnych braków w składzie koszykarskim.
+2.  **Aktualna forma top scorerów**:
+    *   **King Szczecin**: Zahir Porter (17.6 Pkt/mecz), Przemysław Żołnierewicz (15 Pkt/mecz), Tomasz Gielo (10.6 Pkt/mecz) to czołowi strzelcy zespołu w sezonie 2026/2027. Zespół zagrał w dobrej formie, o czym świadczy nagłówek "Ale forma! To już pięć Kinga Szczecin".
+    *   **Górnik Zamek Książ Wałbrzych**: Michaelyn Scott (14.2 Pkt/mecz), Adam Rohosy Jr (12.2 Pkt/mecz), Trey Diggs (11 Pkt/mecz) to czołowi strzelcy zespołu w sezonie 2026/2027.
 
-2.  **Aktualna forma top scorerów (mecz 01.11.2026):**
-    *   📊 **King Szczecin:** Zahir Porter (18 pkt), Przemysław Żołnierewicz (18 pkt), Alexandre Chassang (14 pkt), Ondrej Sehnal (13 pkt), Noah Reynolds (12 pkt).
-    *   📊 **Górnik Zamek Książ Wałbrzych:** Brak danych z API dla tego zespołu dla tego konkretnego meczu. Ron Curry był wyróżniony jako MVP 4. kolejki PGE Basket Ligi.
-
-3.  **Werdykt:** [✅ ZATWIERDZONY] - Typ na zwycięstwo King Szczecin został potwierdzony przez wynik meczu. Pomimo wcześniejszych doniesień o kontuzjach w zespole Kinga, drużyna zdołała odnieść zwycięstwo.
-
----
+3.  **Werdykt**: ✅ **ZATWIERDZONY**
+    *   Typ okazał się prawidłowy. King Szczecin zwyciężył w meczu z Górnikiem Zamek Książ Wałbrzych 95:86.
