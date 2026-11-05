@@ -1,24 +1,23 @@
 {
-  "generated_at": "2026-11-05T02:32:57.289735",
-  "date": "2026-11-05",
+  "generated_at": "2026-11-05T22:29:35.060162",
+  "date": "2026-11-06",
   "league": "BBL",
   "model": "gemini-2.5-flash",
   "matches": [
     {
-      "matchup": "NINERS Chemnitz @ RASTA Vechta",
+      "matchup": "Phoenix Hagen @ ALBA BERLIN",
       "phase": "Regular Season",
-      "ai_pick": "RASTA Vechta",
-      "formula_pick": "RASTA Vechta",
+      "ai_pick": "ALBA BERLIN",
+      "formula_pick": "ALBA BERLIN",
       "agreement": true,
-      "confidence": 7,
-      "reasoning": "RASTA Vechta gra u siebie, co stanowi znaczącą przewagę, a dodatkowo wygrali oba bezpośrednie spotkania w poprzednim sezonie. Pomimo nieco lepszej ostatniej formy NINERS Chemnitz, RASTA Vechta ma w składzie skutecznych liderów, takich jak Tommy Kuhse, który jest w świetnej strzeleckiej dyspozycji.",
+      "confidence": 8,
+      "reasoning": "ALBA BERLIN, choć ma mieszany początek sezonu z bilansem 3-4 w BBL, gra u siebie przeciwko Phoenix Hagen (bilans 2-5), co daje im znaczącą przewagę. Alba, jako uznany mistrz, posiada głębszy i bardziej doświadczony skład, pomimo imponującej formy lidera gości, Camerona Krutwiga. Oczekuje się, że przewaga własnego parkietu i większa jakość drużynowa ALBA BERLIN przeważy.",
       "key_factors": [
-        "Przewaga własnego parkietu RASTA Vechta",
-        "Statystyki H2H z poprzedniego sezonu na korzyść RASTA Vechta",
-        "Dobra forma strzelecka liderów RASTA Vechta, zwłaszcza Tommy'ego Kuhse",
-        "NINERS Chemnitz ma nieco lepszą aktualną formę w BBL"
+        "Przewaga własnego parkietu ALBA BERLIN",
+        "Głębia składu ALBA BERLIN i statystyki kluczowych graczy",
+        "Lepszy bilans sezonowy ALBA BERLIN (3-4) w porównaniu do Phoenix Hagen (2-5)"
       ],
-      "injury_notes": "Brak istotnych braków kadrowych zgłoszonych na dzień 2026-11-05 dla obu drużyn. Wcześniej, 8 października 2026, wspomniano o powrocie D'Mitrika Trice'a (RASTA Vechta) po kontuzji, ale brakuje aktualizacji na dzień meczu."
+      "injury_notes": "Brak istotnych, zgłoszonych kontuzji dla obu drużyn na dzień 2026-11-06."
     }
   ]
 }
