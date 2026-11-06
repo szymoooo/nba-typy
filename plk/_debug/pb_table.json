@@ -627,7 +627,7 @@
           "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s27/350-350/943.png",
           "logo_without_background_path": "teams-logos/t546_l1_s2027.png?v=14",
           "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14",
-          "date": "13.12.2026",
+          "date": "12.12.2026",
           "team_id": 31,
           "role": "away"
         },
@@ -970,7 +970,7 @@
           "logo": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s28/350-350/11257.png",
           "logo_without_background_path": "teams-logos/t2277_l1_s2027.png?v=14",
           "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t2277_l1_s2027.png?v=14",
-          "date": "13.12.2026",
+          "date": "12.12.2026",
           "team_id": 40,
           "role": "home"
         },
@@ -1036,48 +1036,34 @@
       "games": 6,
       "wins": 3,
       "losses": 3,
-      "small_points_scored": 487,
-      "small_points_lost": 503,
+      "small_points_scored": 512,
+      "small_points_lost": 529,
       "wins_home": 2,
       "wins_away": 1,
       "losses_home": 1,
       "losses_away": 2,
       "losses_walkovers": 0,
-      "possessions": 453,
-      "opponents_possessions": 449,
+      "possessions": 486,
+      "opponents_possessions": 482,
       "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
       "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t4_l1_s2027.png?v=14",
-      "live_game": {
-        "game_id": 39604,
-        "score": "45-36",
-        "win": true,
-        "opponent_abbr": "LUB",
-        "role": "home",
-        "opponent": "PGE Start Lublin",
-        "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
-        "date": "06.11.2026 20:15",
-        "draw": false,
-        "fiba_game_id": "2951290",
-        "win_prob": 50.0,
-        "info": "Q3 06:00"
-      },
+      "live_game": null,
       "logo_without_background_path": "teams-logos/t4_l1_s2027.png?v=14",
       "streak": "WWLLLW",
-      "seconds": 68700.0,
-      "pace": 79.1,
+      "seconds": 73500.0,
+      "pace": 79.3,
       "ot_number": 1,
-      "real_position": 12,
+      "real_position": 4,
       "games_list": [
         {
           "game_id": 39604,
-          "score": "45-36",
+          "score": "70-62",
           "win": true,
           "opponent_abbr": "LUB",
           "role": "home",
           "opponent": "PGE Start Lublin",
           "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
-          "date": "06.11.2026 20:15",
-          "draw": false
+          "date": "06.11.2026 20:15"
         },
         {
           "game_id": 39599,
@@ -1373,16 +1359,16 @@
         }
       ],
       "points": 9,
-      "offensive_rating": 107.5,
-      "defensive_rating": 112.0,
+      "offensive_rating": 105.3,
+      "defensive_rating": 109.8,
       "wins_percent": 50.0,
-      "small_points_per_100_possessions": 107.5,
-      "avg_small_points_scored": 81.2,
-      "avg_small_points_lost": 83.8,
-      "avg_possessions": 75.5,
-      "avg_opponents_possessions": 74.8,
+      "small_points_per_100_possessions": 105.3,
+      "avg_small_points_scored": 85.3,
+      "avg_small_points_lost": 88.2,
+      "avg_possessions": 81.0,
+      "avg_opponents_possessions": 80.3,
       "net_rating": -4.5,
-      "small_points_plus_minus": -16,
+      "small_points_plus_minus": -17,
       "small_points_ratio": 0.968,
       "position": 4
     },
@@ -1410,7 +1396,7 @@
       "seconds": 60000.0,
       "pace": 75.6,
       "ot_number": 0,
-      "real_position": 4,
+      "real_position": 5,
       "games_list": [
         {
           "game_id": 39598,
@@ -1753,7 +1739,7 @@
       "seconds": 61500.0,
       "pace": 70.4,
       "ot_number": 1,
-      "real_position": 5,
+      "real_position": 6,
       "games_list": [
         {
           "game_id": 39597,
@@ -2096,7 +2082,7 @@
       "seconds": 61500.0,
       "pace": 72.0,
       "ot_number": 1,
-      "real_position": 6,
+      "real_position": 7,
       "games_list": [
         {
           "game_id": 39596,
@@ -2439,7 +2425,7 @@
       "seconds": 60000.0,
       "pace": 71.6,
       "ot_number": 0,
-      "real_position": 7,
+      "real_position": 8,
       "games_list": [
         {
           "game_id": 39600,
@@ -2782,7 +2768,7 @@
       "seconds": 60000.0,
       "pace": 75.0,
       "ot_number": 0,
-      "real_position": 8,
+      "real_position": 9,
       "games_list": [
         {
           "game_id": 39601,
@@ -3125,7 +3111,7 @@
       "seconds": 60000.0,
       "pace": 76.8,
       "ot_number": 0,
-      "real_position": 9,
+      "real_position": 10,
       "games_list": [
         {
           "game_id": 39602,
@@ -3468,7 +3454,7 @@
       "seconds": 60000.0,
       "pace": 75.6,
       "ot_number": 0,
-      "real_position": 10,
+      "real_position": 11,
       "games_list": [
         {
           "game_id": 39602,
@@ -3811,7 +3797,7 @@
       "seconds": 61500.0,
       "pace": 71.8,
       "ot_number": 1,
-      "real_position": 13,
+      "real_position": 12,
       "games_list": [
         {
           "game_id": 39597,
@@ -4154,7 +4140,7 @@
       "seconds": 60000.0,
       "pace": 78.4,
       "ot_number": 0,
-      "real_position": 11,
+      "real_position": 13,
       "games_list": [
         {
           "game_id": 39598,
@@ -4480,48 +4466,34 @@
       "games": 6,
       "wins": 1,
       "losses": 5,
-      "small_points_scored": 411,
-      "small_points_lost": 465,
+      "small_points_scored": 437,
+      "small_points_lost": 490,
       "wins_home": 1,
       "wins_away": 0,
       "losses_home": 2,
       "losses_away": 3,
       "losses_walkovers": 0,
-      "possessions": 425,
-      "opponents_possessions": 420,
+      "possessions": 458,
+      "opponents_possessions": 453,
       "logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s29/350-350/22.png",
       "server_logo_url": "https://pulsbasketu.com/images/teams-logos/t810_l1_s2027.png?v=14",
-      "live_game": {
-        "game_id": 39604,
-        "score": "36-45",
-        "win": false,
-        "opponent_abbr": "BYD",
-        "role": "away",
-        "opponent": "Enea Łaciate Astoria Bydgoszcz",
-        "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-        "date": "06.11.2026 20:15",
-        "draw": false,
-        "fiba_game_id": "2951290",
-        "win_prob": 50.0,
-        "info": "Q3 06:00"
-      },
+      "live_game": null,
       "logo_without_background_path": "teams-logos/t810_l1_s2027.png?v=14",
       "streak": "LLLWLL",
-      "seconds": 68700.0,
-      "pace": 74.2,
+      "seconds": 73500.0,
+      "pace": 74.8,
       "ot_number": 1,
       "real_position": 14,
       "games_list": [
         {
           "game_id": 39604,
-          "score": "36-45",
+          "score": "62-70",
           "win": false,
           "opponent_abbr": "BYD",
           "role": "away",
           "opponent": "Enea Łaciate Astoria Bydgoszcz",
           "opponent_logo_url": "https://s1.static.esor.pzkosz.pl/internalfiles/image/kluby/s24/350-350/4162.png",
-          "date": "06.11.2026 20:15",
-          "draw": false
+          "date": "06.11.2026 20:15"
         },
         {
           "game_id": 39603,
@@ -4817,17 +4789,17 @@
         }
       ],
       "points": 7,
-      "offensive_rating": 96.7,
-      "defensive_rating": 110.7,
+      "offensive_rating": 95.4,
+      "defensive_rating": 108.2,
       "wins_percent": 16.7,
-      "small_points_per_100_possessions": 96.7,
-      "avg_small_points_scored": 68.5,
-      "avg_small_points_lost": 77.5,
-      "avg_possessions": 70.8,
-      "avg_opponents_possessions": 70.0,
-      "net_rating": -14.0,
-      "small_points_plus_minus": -54,
-      "small_points_ratio": 0.884,
+      "small_points_per_100_possessions": 95.4,
+      "avg_small_points_scored": 72.8,
+      "avg_small_points_lost": 81.7,
+      "avg_possessions": 76.3,
+      "avg_opponents_possessions": 75.5,
+      "net_rating": -12.8,
+      "small_points_plus_minus": -53,
+      "small_points_ratio": 0.892,
       "position": 14
     },
     {
@@ -5567,8 +5539,8 @@
             "small_points_scored": 0,
             "small_points_lost": 0,
             "small_points_plus_minus": 0,
-            "total_small_points_scored": 487,
-            "total_small_points_plus_minus": -16,
+            "total_small_points_scored": 512,
+            "total_small_points_plus_minus": -17,
             "total_wins": 3,
             "total_losses": 3,
             "games_list": []
@@ -6025,8 +5997,8 @@
             "small_points_scored": 79,
             "small_points_lost": 84,
             "small_points_plus_minus": -5,
-            "total_small_points_scored": 411,
-            "total_small_points_plus_minus": -54,
+            "total_small_points_scored": 437,
+            "total_small_points_plus_minus": -53,
             "total_wins": 1,
             "total_losses": 5,
             "games_list": [
@@ -6144,8 +6116,8 @@
             "small_points_scored": 0,
             "small_points_lost": 0,
             "small_points_plus_minus": 0,
-            "total_small_points_scored": 411,
-            "total_small_points_plus_minus": -54,
+            "total_small_points_scored": 437,
+            "total_small_points_plus_minus": -53,
             "total_wins": 1,
             "total_losses": 5,
             "games_list": []
