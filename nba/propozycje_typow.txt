@@ -1,6 +1,3 @@
-Lakers @ Hawks -> Typ: Lakers
-Cavaliers @ Hornets -> Typ: Cavaliers
-Wizards @ Pistons -> Typ: Pistons
 Grizzlies @ Raptors -> Typ: Grizzlies
 Pacers @ Mavericks -> Typ: Mavericks
 Nuggets @ Rockets -> Typ: Rockets
