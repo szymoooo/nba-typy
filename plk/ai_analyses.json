@@ -1,32 +1,20 @@
 {
-  "generated_at": "2026-11-07T22:19:17.525127",
-  "date": "2026-11-08",
+  "generated_at": "2026-11-12T22:29:59.955452",
+  "date": "2026-11-13",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Legia Warszawa @ AMW Arka Gdynia",
-      "ai_pick": null,
-      "formula_pick": "AMW Arka Gdynia",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "Energa Trefl Sopot @ Euvic GTK Gliwice",
+      "matchup": "Euvic GTK Gliwice @ PGE Start Lublin",
       "ai_pick": null,
       "formula_pick": "Euvic GTK Gliwice",
       "note": "AI fallback"
     },
     {
-      "matchup": "Zastal Zielona Góra @ Tasomix Rosiek Stal Ostrów Wielkopolski",
+      "matchup": "AMW Arka Gdynia @ Anwil Włocławek",
       "ai_pick": null,
-      "formula_pick": "Zastal Zielona Góra",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "Energa Czarni Słupsk @ King Szczecin",
-      "ai_pick": null,
-      "formula_pick": "King Szczecin",
+      "formula_pick": "AMW Arka Gdynia",
       "note": "AI fallback"
     }
   ]
