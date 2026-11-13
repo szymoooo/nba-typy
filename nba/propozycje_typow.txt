@@ -1,1 +1,9 @@
-Hornets @ Suns -> Typ: Suns
+Knicks @ Pacers -> Typ: Knicks
+Bucks @ Magic -> Typ: Magic
+Cavaliers @ Heat -> Typ: Heat
+Hawks @ Bulls -> Typ: Hawks
+Grizzlies @ Pelicans -> Typ: Grizzlies
+Jazz @ Rockets -> Typ: Rockets
+Warriors @ Spurs -> Typ: Spurs
+Trail Blazers @ Kings -> Typ: Trail Blazers
+Thunder @ Clippers -> Typ: Thunder
