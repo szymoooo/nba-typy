@@ -1,26 +1,20 @@
 {
-  "generated_at": "2026-11-13T22:18:07.026989",
-  "date": "2026-11-14",
+  "generated_at": "2026-11-14T22:55:40.815155",
+  "date": "2026-11-15",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Energa Trefl Sopot @ Arriva Lotto Twarde Pierniki Toruń",
+      "matchup": "Górnik Zamek Książ Wałbrzych @ Enea Łaciate Astoria Bydgoszcz",
       "ai_pick": null,
-      "formula_pick": "Arriva Lotto Twarde Pierniki Toruń",
+      "formula_pick": "Enea Łaciate Astoria Bydgoszcz",
       "note": "AI fallback"
     },
     {
-      "matchup": "King Szczecin @ Legia Warszawa",
+      "matchup": "Dziki Warszawa @ Tasomix Rosiek Stal Ostrów Wielkopolski",
       "ai_pick": null,
-      "formula_pick": "King Szczecin",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "Zastal Zielona Góra @ WKS Śląsk Wrocław",
-      "ai_pick": null,
-      "formula_pick": "WKS Śląsk Wrocław",
+      "formula_pick": "Dziki Warszawa",
       "note": "AI fallback"
     }
   ]
