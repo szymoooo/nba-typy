@@ -1,20 +1,14 @@
 {
-  "generated_at": "2026-11-14T22:55:40.815155",
-  "date": "2026-11-15",
+  "generated_at": "2026-11-15T23:31:38.716654",
+  "date": "2026-11-16",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Górnik Zamek Książ Wałbrzych @ Enea Łaciate Astoria Bydgoszcz",
+      "matchup": "MKS Dąbrowa Górnicza @ Energa Czarni Słupsk",
       "ai_pick": null,
-      "formula_pick": "Enea Łaciate Astoria Bydgoszcz",
-      "note": "AI fallback"
-    },
-    {
-      "matchup": "Dziki Warszawa @ Tasomix Rosiek Stal Ostrów Wielkopolski",
-      "ai_pick": null,
-      "formula_pick": "Dziki Warszawa",
+      "formula_pick": "MKS Dąbrowa Górnicza",
       "note": "AI fallback"
     }
   ]

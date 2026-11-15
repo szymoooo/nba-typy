@@ -1,7 +1,3 @@
-Hornets @ Clippers -> Typ: Hornets
-Spurs @ Jazz -> Typ: Spurs
-Mavericks @ Celtics -> Typ: Celtics
-Knicks @ Raptors -> Typ: Knicks
 Rockets @ Wizards -> Typ: Rockets
 Hawks @ Bucks -> Typ: Hawks
 Thunder @ Kings -> Typ: Thunder
