@@ -1,5 +1,5 @@
-76ers @ Nets -> Typ: 76ers
-Rockets @ Heat -> Typ: Rockets
-Trail Blazers @ Timberwolves -> Typ: Trail Blazers
-Warriors @ Pelicans -> Typ: Warriors
-Suns @ Nuggets -> Typ: Nuggets
+Knicks @ Raptors -> Typ: Knicks
+Trail Blazers @ Timberwolves -> Typ: Timberwolves
+Pistons @ Spurs -> Typ: Spurs
+Jazz @ Clippers -> Typ: Clippers
+Hornets @ Lakers -> Typ: Lakers
