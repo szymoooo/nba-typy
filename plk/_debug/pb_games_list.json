@@ -7276,8 +7276,8 @@
     "peak_yt_viewers": null,
     "tv_channel": "yt",
     "fiba_game_id": null,
-    "odds_home": 1.45,
-    "odds_away": 2.55,
+    "odds_home": 2.4,
+    "odds_away": 1.52,
     "city": "Lublin",
     "arena": "MOSiR Globus",
     "referees": [],
@@ -8320,19 +8320,19 @@
   },
   {
     "home_team": {
-      "name": "Arriva Lotto Twarde Pierniki Toruń",
+      "name": "Legia Warszawa",
       "score": 0,
-      "team_id": 34,
-      "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14"
+      "team_id": 37,
+      "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14"
     },
     "away_team": {
-      "name": "Energa Czarni Słupsk",
+      "name": "Euvic GTK Gliwice",
       "score": 0,
-      "team_id": 38,
-      "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14"
+      "team_id": 36,
+      "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14"
     },
     "win_role": null,
-    "game_id": 39639,
+    "game_id": 39636,
     "game_no": 74,
     "ot_number": 0,
     "spectators": 0,
@@ -8343,8 +8343,8 @@
     "fiba_game_id": null,
     "odds_home": null,
     "odds_away": null,
-    "city": "Toruń",
-    "arena": "Arena Toruń",
+    "city": "Warszawa",
+    "arena": "OSiR Warszawa Bemowo",
     "referees": [],
     "commissioners": [],
     "technical_fouls": 0,
@@ -8360,9 +8360,9 @@
     "u23_pl_pts": null,
     "u23_pl_seconds": null,
     "u23_pl_time": null,
-    "weekday_number": 4,
-    "date": "2026-12-11T18:00:00",
-    "day": "11.12.2026",
+    "weekday_number": 3,
+    "date": "2026-12-10T18:00:00",
+    "day": "10.12.2026",
     "hour": "18:00",
     "minute_in_day": 1080,
     "finished": false,
@@ -8391,19 +8391,19 @@
   },
   {
     "home_team": {
-      "name": "Legia Warszawa",
+      "name": "Arriva Lotto Twarde Pierniki Toruń",
       "score": 0,
-      "team_id": 37,
-      "logo": "https://pulsbasketu.com/images/teams-logos/t11_l1_s2027.png?v=14"
+      "team_id": 34,
+      "logo": "https://pulsbasketu.com/images/teams-logos/t101_l1_s2027.png?v=14"
     },
     "away_team": {
-      "name": "Euvic GTK Gliwice",
+      "name": "Energa Czarni Słupsk",
       "score": 0,
-      "team_id": 36,
-      "logo": "https://pulsbasketu.com/images/teams-logos/t42_l1_s2027.png?v=14"
+      "team_id": 38,
+      "logo": "https://pulsbasketu.com/images/teams-logos/t3008_l1_s2027.png?v=14"
     },
     "win_role": null,
-    "game_id": 39636,
+    "game_id": 39639,
     "game_no": 75,
     "ot_number": 0,
     "spectators": 0,
@@ -8414,8 +8414,8 @@
     "fiba_game_id": null,
     "odds_home": null,
     "odds_away": null,
-    "city": "Warszawa",
-    "arena": "OSiR Warszawa Bemowo",
+    "city": "Toruń",
+    "arena": "Arena Toruń",
     "referees": [],
     "commissioners": [],
     "technical_fouls": 0,
