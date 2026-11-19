@@ -1,14 +1,20 @@
 {
-  "generated_at": "2026-11-15T23:31:38.716654",
-  "date": "2026-11-16",
+  "generated_at": "2026-11-19T22:01:42.855789",
+  "date": "2026-11-20",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "MKS Dąbrowa Górnicza @ Energa Czarni Słupsk",
+      "matchup": "Euvic GTK Gliwice @ Górnik Zamek Książ Wałbrzych",
       "ai_pick": null,
-      "formula_pick": "MKS Dąbrowa Górnicza",
+      "formula_pick": "Górnik Zamek Książ Wałbrzych",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Energa Czarni Słupsk @ Enea Łaciate Astoria Bydgoszcz",
+      "ai_pick": null,
+      "formula_pick": "Enea Łaciate Astoria Bydgoszcz",
       "note": "AI fallback"
     }
   ]
