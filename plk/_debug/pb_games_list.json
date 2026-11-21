@@ -7495,13 +7495,13 @@
   {
     "home_team": {
       "name": "King Szczecin",
-      "score": 0,
+      "score": 80,
       "team_id": 31,
       "logo": "https://pulsbasketu.com/images/teams-logos/t546_l1_s2027.png?v=14"
     },
     "away_team": {
       "name": "Anwil Włocławek",
-      "score": 0,
+      "score": 95,
       "team_id": 1,
       "logo": "https://pulsbasketu.com/images/teams-logos/t33_l1_s2027.png?v=14"
     },
@@ -7514,7 +7514,7 @@
     "avg_yt_viewers": null,
     "peak_yt_viewers": null,
     "tv_channel": "polsat",
-    "fiba_game_id": null,
+    "fiba_game_id": "2957658",
     "odds_home": 1.23,
     "odds_away": 3.8,
     "city": "Szczecin",
@@ -7546,7 +7546,7 @@
     "total_q3_pts": 0,
     "total_q4_pts": 0,
     "total_ot_pts": 0,
-    "possessions": 0,
+    "possessions": 148,
     "highest_lead": 0,
     "round_name": "8 kolejka",
     "stage_name": "Runda Zasadnicza",
@@ -7657,8 +7657,8 @@
     "peak_yt_viewers": null,
     "tv_channel": "yt",
     "fiba_game_id": null,
-    "odds_home": 1.07,
-    "odds_away": 7.3,
+    "odds_home": 1.04,
+    "odds_away": 9.2,
     "city": "Wrocław",
     "arena": "Hala Orbita",
     "referees": [],
