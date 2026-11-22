@@ -1,20 +1,32 @@
 {
-  "generated_at": "2026-11-20T22:52:19.228608",
-  "date": "2026-11-21",
+  "generated_at": "2026-11-22T00:35:58.148918",
+  "date": "2026-11-22",
   "league": "PLK",
   "model": "gemini-2.5-flash",
   "data_source": "pulsbasketu.com",
   "matches": [
     {
-      "matchup": "Arriva Lotto Twarde Pierniki Toruń @ PGE Start Lublin",
+      "matchup": "Dziki Warszawa @ Zastal Zielona Góra",
       "ai_pick": null,
-      "formula_pick": "Arriva Lotto Twarde Pierniki Toruń",
+      "formula_pick": "Dziki Warszawa",
       "note": "AI fallback"
     },
     {
-      "matchup": "Anwil Włocławek @ King Szczecin",
+      "matchup": "Energa Trefl Sopot @ WKS Śląsk Wrocław",
       "ai_pick": null,
-      "formula_pick": "King Szczecin",
+      "formula_pick": "WKS Śląsk Wrocław",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "AMW Arka Gdynia @ Tasomix Rosiek Stal Ostrów Wielkopolski",
+      "ai_pick": null,
+      "formula_pick": "AMW Arka Gdynia",
+      "note": "AI fallback"
+    },
+    {
+      "matchup": "Legia Warszawa @ MKS Dąbrowa Górnicza",
+      "ai_pick": null,
+      "formula_pick": "MKS Dąbrowa Górnicza",
       "note": "AI fallback"
     }
   ]
