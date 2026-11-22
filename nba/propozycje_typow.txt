@@ -1,1 +1,7 @@
-Celtics @ Kings -> Typ: Celtics
+Pistons @ Hawks -> Typ: Hawks
+Thunder @ Heat -> Typ: Heat
+Magic @ Wizards -> Typ: Magic
+Nuggets @ Bulls -> Typ: Nuggets
+Mavericks @ Jazz -> Typ: Mavericks
+Pacers @ Knicks -> Typ: Knicks
+Celtics @ Warriors -> Typ: Celtics
