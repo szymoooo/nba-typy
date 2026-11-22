@@ -367,7 +367,7 @@
       "seconds": 96000.0,
       "pace": 74.9,
       "ot_number": 0,
-      "real_position": 3,
+      "real_position": 2,
       "games_list": [
         {
           "game_id": 39622,
@@ -710,7 +710,7 @@
       "seconds": 84000.0,
       "pace": 78.0,
       "ot_number": 0,
-      "real_position": 2,
+      "real_position": 3,
       "games_list": [
         {
           "game_id": 39618,
@@ -1739,7 +1739,7 @@
       "seconds": 97500.0,
       "pace": 71.9,
       "ot_number": 1,
-      "real_position": 12,
+      "real_position": 6,
       "games_list": [
         {
           "game_id": 39622,
@@ -2425,7 +2425,7 @@
       "seconds": 84000.0,
       "pace": 76.4,
       "ot_number": 0,
-      "real_position": 6,
+      "real_position": 8,
       "games_list": [
         {
           "game_id": 39614,
@@ -2768,7 +2768,7 @@
       "seconds": 96000.0,
       "pace": 76.2,
       "ot_number": 0,
-      "real_position": 8,
+      "real_position": 9,
       "games_list": [
         {
           "game_id": 39626,
@@ -3111,7 +3111,7 @@
       "seconds": 84000.0,
       "pace": 75.1,
       "ot_number": 0,
-      "real_position": 9,
+      "real_position": 10,
       "games_list": [
         {
           "game_id": 39614,
@@ -3454,7 +3454,7 @@
       "seconds": 96000.0,
       "pace": 75.2,
       "ot_number": 0,
-      "real_position": 10,
+      "real_position": 11,
       "games_list": [
         {
           "game_id": 39621,
@@ -3797,7 +3797,7 @@
       "seconds": 84000.0,
       "pace": 74.3,
       "ot_number": 0,
-      "real_position": 11,
+      "real_position": 12,
       "games_list": [
         {
           "game_id": 39617,
