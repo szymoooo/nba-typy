@@ -1,2 +1,3 @@
-Jazz @ Lakers -> Typ: Lakers
-Spurs @ Kings -> Typ: Spurs
+Pistons @ Magic -> Typ: Pistons
+Celtics @ Wizards -> Typ: Celtics
+Mavericks @ Nuggets -> Typ: Nuggets
