@@ -1,10 +1,3 @@
-Grizzlies @ Hornets -> Typ: Grizzlies
-Trail Blazers @ 76ers -> Typ: 76ers
-Thunder @ Pacers -> Typ: Thunder
-Bucks @ Raptors -> Typ: Raptors
-Nets @ Timberwolves -> Typ: Timberwolves
-Cavaliers @ Bulls -> Typ: Cavaliers
-Suns @ Pelicans -> Typ: Suns
 Clippers @ Rockets -> Typ: Rockets
 Jazz @ Lakers -> Typ: Lakers
 Spurs @ Kings -> Typ: Spurs
