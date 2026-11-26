@@ -1,5 +1,11 @@
-Clippers @ Grizzlies -> Typ: Grizzlies
-Nets @ Bucks -> Typ: Nets
-Suns @ Rockets -> Typ: Rockets
-Kings @ Warriors -> Typ: Warriors
-Spurs @ Trail Blazers -> Typ: Spurs
+Heat @ Knicks -> Typ: Knicks
+Bucks @ Pistons -> Typ: Pistons
+76ers @ Pacers -> Typ: 76ers
+Nets @ Raptors -> Typ: Raptors
+Hawks @ Celtics -> Typ: Celtics
+Grizzlies @ Timberwolves -> Typ: Timberwolves
+Mavericks @ Suns -> Typ: Mavericks
+Lakers @ Spurs -> Typ: Spurs
+Nuggets @ Jazz -> Typ: Nuggets
+Pelicans @ Clippers -> Typ: Clippers
+Warriors @ Trail Blazers -> Typ: Trail Blazers
